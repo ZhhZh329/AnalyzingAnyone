@@ -1,0 +1,4 @@
+name: extractor
+display_name: "事件提取器 Event Extractor"
+role: extract
+prompt: prompt.md

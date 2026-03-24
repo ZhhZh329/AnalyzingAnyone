@@ -1,0 +1,5 @@
+name: neuroscience
+display_name: "认知科学 / 行为科学 Cognitive & Behavioral Science"
+role: discipline
+prompt: prompt.md
+skills: []

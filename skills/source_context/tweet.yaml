@@ -1,0 +1,17 @@
+name: tweet
+display_name: "Social media post (Twitter/X, Truth Social, etc.)"
+credibility_notes: |
+  Tweets and social media posts are often impulsive, less filtered, and closer to
+  the person's unguarded thoughts. However, they can also be performative —
+  especially for public figures who use social media as a branding tool.
+  Key considerations:
+  - High spontaneity, low editorial filtering
+  - May reflect genuine emotional state at time of posting
+  - Can be deliberately provocative or attention-seeking
+  - Context of replies/threads matters — a reply is more reactive than a standalone post
+  - Memes and humor may encode serious beliefs in ironic packaging
+  - Deletion patterns (posting then deleting) can be revealing
+weight_guidance: |
+  Treat as relatively authentic expression, but discount for performative intent
+  when the person has a large public following. Cross-reference with private
+  behavior for validation.

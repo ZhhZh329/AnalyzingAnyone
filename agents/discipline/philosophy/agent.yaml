@@ -1,0 +1,5 @@
+name: philosophy
+display_name: "哲学 Philosophy"
+role: discipline
+prompt: prompt.md
+skills: []

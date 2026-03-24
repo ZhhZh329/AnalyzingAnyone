@@ -1,0 +1,5 @@
+name: psychology
+display_name: "心理学 Psychology"
+role: discipline
+prompt: prompt.md
+skills: []

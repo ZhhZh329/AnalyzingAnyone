@@ -1,0 +1,16 @@
+name: white_paper
+display_name: "Published white paper, blog post, or essay"
+credibility_notes: |
+  Self-authored long-form writing reveals the person's thinking process
+  at its most structured. Unlike tweets, these are deliberate articulations
+  of ideas they've thought through carefully.
+  Key considerations:
+  - Represents the person's most organized thinking on a topic
+  - The choice of what to write about reveals priorities
+  - Technical depth reveals genuine expertise vs. surface understanding
+  - Blog posts are slightly less formal than published papers
+  - Open-sourcing ideas (like Hyperloop) reveals attitudes about ownership
+weight_guidance: |
+  High reliability for intellectual framework and stated values.
+  Represents how the person WANTS to think, which may differ from
+  how they actually behave under pressure.

@@ -1,0 +1,82 @@
+{
+  "discipline": "neuroscience",
+  "anchored": {
+    "core_values": {
+      "finding": "Musk's core value hierarchy centers on humanity's long-term survival and the preservation of consciousness. He operates from an existential urgency framework — existential risks (asteroid, AI, extinction) are treated as immediate threats requiring radical action. Secondary values include personal sacrifice for mission (120-hour weeks, sleeping on factory floor), extreme self-reliance, and directness. His quote 'I think we have a duty to maintain the light of consciousness' (evt_032) reveals a moral obligation driving his ventures. Material success appears instrumental rather than terminal — he plows gains back into existential projects.",
+      "event_ids": [
+        "evt_025",
+        "evt_032",
+        "evt_022",
+        "evt_028",
+        "evt_012"
+      ],
+      "confidence": 0.9,
+      "reasoning": "Multiple events spanning decades show consistent prioritization of humanity-scale outcomes over personal comfort or conventional success. The 2016 Mars colonization speech explicitly frames his mission in civilizational terms. The Model 3 crisis (evt_028) demonstrates willingness to suffer physically for the mission. His AI concerns (evt_022) and Neuralink (evt_024) further support existential focus as core value driver."
+    },
+    "decision_logic": {
+      "finding": "Musk employs first-principles reasoning as dominant decision framework, stripping problems to physics-level fundamentals before rebuilding solutions. He explicitly calculates that rockets could be built for 10% of market rate (evt_012), that Hyperloop could be viable (evt_021), and accepts extreme personal risk when logic supports action. Decision timeline shows pattern: identify domain → apply first principles → commit resources asymmetrically → iterate rapidly. He makes decisions with incomplete information ('I could either watch the Internet revolution happen or I could be part of it' — evt_007) and accepts >90% failure probability as acceptable. His 'it wasn't really a choice' framework (evt_016) suggests once existential necessity is recognized, decision becomes automatic.",
+      "event_ids": [
+        "evt_012",
+        "evt_007",
+        "evt_016",
+        "evt_021",
+        "evt_025"
+      ],
+      "confidence": 0.85,
+      "reasoning": "The pattern is consistent across ventures: Stanford dropout, Zip2 founding, SpaceX creation, Tesla investment, Hyperloop publication. Each demonstrates first-principles approach combined with willingness to accept extreme personal risk. The 2008 Tesla and SpaceX dual crisis (evt_016, evt_017-019) provides natural experiment showing decision logic under extreme pressure — he chose to risk everything rather than abandon the mission."
+    },
+    "worldview": {
+      "finding": "Musk operates with what can be termed 'extinction-avoidance determinism' — belief that: (1) existential threats to humanity are real and imminent, (2) technological progress is the only viable defense, (3) conventional institutions and timelines are too slow, (4) individuals can meaningfully alter civilizational trajectories. His 'bifurcation of history' speech (evt_025) explicitly frames current era as critical juncture. He views the world as solveable through engineering — complex problems are 'just' engineering problems requiring resources and will. Time horizon is multi-decade to multi-century, not quarterly.",
+      "event_ids": [
+        "evt_025",
+        "evt_022",
+        "evt_012",
+        "evt_020",
+        "evt_032"
+      ],
+      "confidence": 0.8,
+      "reasoning": "Direct quotes from multiple periods (Mars speech 2016, AI warnings 2014, Rogan interview 2020) show consistent worldview across 15+ years. The 'staring into the abyss' quote (evt_020) captures his darkness-aware worldview — progress requires confronting existential risks directly. His timeline of ventures maps to this worldview: SpaceX (extinction insurance), Tesla (energy independence), Neuralink (AI alignment), xAI (understanding the universe)."
+    }
+  },
+  "emergent": [
+    {
+      "dimension_name": "cognitive_mode_switching",
+      "finding": "Musk demonstrates high-capacity serial-deep-then-parallel operation. He moves through periods of extreme serial focus (Model 3 factory — evt_028) followed by periods managing multiple ventures simultaneously. During 2008 crisis, he managed both SpaceX and Tesla through their most dangerous periods. The 2017-2024 period shows simultaneous operation of SpaceX, Tesla, The Boring Company, Neuralink, xAI, Twitter, and political operation. This suggests cognitive architecture capable of deep serial processing during crisis, with parallel capacity to maintain multiple domains at lower intensity during normal periods.",
+      "event_ids": [
+        "evt_028",
+        "evt_017",
+        "evt_019",
+        "evt_034",
+        "evt_040",
+        "evt_037"
+      ],
+      "confidence": 0.75,
+      "reasoning": "Observable pattern: crisis periods trigger serial mode (120-hour weeks, single-point focus). Normal periods show parallel activation across ventures. The 2008 dual crisis (SpaceX fourth launch, Tesla financial distress) required rapid context switching between two companies. Twitter acquisition and DOGE (evt_034, evt_040) show ability to rapidly onboard into new complex domains."
+    },
+    {
+      "dimension_name": "emotional_regulation_under_extreme_stress",
+      "finding": "Musk shows apparent resilience under extreme stress that would typically impair function. During 2008 — when both SpaceX and Tesla were near bankruptcy — he continued operations and made critical decisions. He describes the Model 3 period as 'the most painful year of my career' yet maintained effectiveness. The colleague observation 'I'd never seen Elon look that defeated' after third Falcon 1 failure (evt_017) followed by immediate continued effort suggests either unusual stress tolerance or productive use of stress as fuel. However, the SEC tweet (evt_029) suggests impulsivity under certain emotional states — potential domain-specific vulnerability.",
+      "event_ids": [
+        "evt_017",
+        "evt_019",
+        "evt_028",
+        "evt_029"
+      ],
+      "confidence": 0.65,
+      "reasoning": "Evidence of stress resilience is strong across multiple crises. The SEC incident is notable counter-example — apparently triggered by emotional state (possibly related to taking company private), showing domain-specific rather than global dysregulation. No physiological data available, but behavioral pattern suggests either high stress tolerance or atypical stress-facilitated performance."
+    },
+    {
+      "dimension_name": "social_cognition_model",
+      "finding": "Musk appears to operate with a 'consequentialist directness' social model. He prioritizes truth-telling and mission outcomes over social harmony (evident in advertiser confrontation — evt_036, 'Go fuck yourself'). He selects for extreme commitment in employees (Twitter 'extremely hardcore' email — evt_034) and models this personally. His 'duty to maintain consciousness' framework suggests humans matter as carriers of consciousness, not for relational value. He appears to process social relationships instrumentally — useful for mission or not. The father abandonment (evt_003), choosing to live with abusive father then calling it 'a mistake,' and the honeymoon ousting from PayPal (evt_011, 'That's the problem with vacations') suggest history of being emotionally disconnected or burned by relationships.",
+      "event_ids": [
+        "evt_003",
+        "evt_036",
+        "evt_034",
+        "evt_011",
+        "evt_032"
+      ],
+      "confidence": 0.7,
+      "reasoning": "Direct quotes and behavioral patterns across timeline. The directness pattern is consistent: 'Go fuck yourself' to advertisers, 'funding secured' tweet, 'the bird is freed' — characteristic speech style. Instrumental processing of relationships is supported by multiple events. The father relationship and PayPal ousting provide early evidence of pattern."
+    }
+  ]
+}

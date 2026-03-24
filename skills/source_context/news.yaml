@@ -1,0 +1,16 @@
+name: news
+display_name: "News report or journalistic account"
+credibility_notes: |
+  News reports are third-party accounts with journalistic standards but
+  also editorial framing. They're valuable for establishing facts but
+  less so for understanding the person's inner state.
+  Key considerations:
+  - Source reputation matters (WSJ vs. tabloid)
+  - Direct quotes within articles are more reliable than paraphrasing
+  - Multiple outlets reporting the same fact increases confidence
+  - Editorial framing can bias interpretation
+  - Anonymous sources require extra skepticism
+weight_guidance: |
+  Use primarily for establishing what happened (facts, timeline).
+  Be cautious about accepting the journalist's interpretation of
+  why it happened or what it means.

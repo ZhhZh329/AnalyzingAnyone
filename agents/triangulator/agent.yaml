@@ -1,0 +1,4 @@
+name: triangulator
+display_name: "跨学科三角测量 Triangulator"
+role: triangulate
+prompt: prompt.md

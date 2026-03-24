@@ -1,0 +1,4 @@
+Colleagues describe a five-step process Musk calls "the algorithm," which he applies to manufacturing and engineering problems: (1) Question every requirement — trace it back to a person, not a department. (2) Delete any part or process you can — if you're not adding back at least 10% of what you delete, you're not deleting enough. (3) Simplify and optimize — but only AFTER deleting. (4) Accelerate cycle time. (5) Automate — and only as the last step, never the first.
+
+He insists on this exact sequence, saying: "The most common error is to optimize something that shouldn't exist."
+Source: Walter Isaacson biography (2023)

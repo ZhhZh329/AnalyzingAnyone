@@ -1,0 +1,494 @@
+{
+  "subject": "Elon Musk",
+  "events": [
+    {
+      "id": "evt_001",
+      "date": "1971-06-28",
+      "what": "Elon Musk born in Pretoria, South Africa",
+      "context": "Born to mother Maye Musk (a dietitian and model) and father Errol Musk (an engineer and property developer)",
+      "source_ids": [
+        "src_001"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_002",
+      "date": "1977",
+      "what": "Musk severely bullied at school in Pretoria",
+      "context": "He was once thrown down a flight of stairs by classmates and beaten badly enough to be hospitalized. He later described himself as 'the youngest and smallest kid in class' who was 'a prime target.'",
+      "source_ids": [
+        "src_001"
+      ],
+      "direct_quotes": [
+        "the youngest and smallest kid in class",
+        "a prime target"
+      ]
+    },
+    {
+      "id": "evt_003",
+      "date": "1977",
+      "what": "Father Errol Musk described as emotionally abusive",
+      "context": "Musk has publicly called his father 'a terrible human being' and said living with him was 'not a happy childhood.' After his parents' divorce, young Elon chose to live with his father — a decision he later called 'a mistake.'",
+      "source_ids": [
+        "src_001"
+      ],
+      "direct_quotes": [
+        "a terrible human being",
+        "not a happy childhood",
+        "a mistake"
+      ]
+    },
+    {
+      "id": "evt_004",
+      "date": "1983",
+      "what": "At age 10, Musk taught himself to code on Commodore VIC-20",
+      "context": "Musk got a Commodore VIC-20 and taught himself to code using a BASIC manual",
+      "source_ids": [
+        "src_002"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_005",
+      "date": "1983",
+      "date_precision": "year",
+      "what": "At age 12, created video game Blastar and sold it",
+      "context": "Musk created a video game called Blastar and sold it to a South African magazine for approximately $500. On an IBM aptitude test for coding at age 14, his score was so high it reportedly couldn't be properly assessed by the standard rubric.",
+      "source_ids": [
+        "src_002"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_006",
+      "date": "1988",
+      "what": "At age 17, Musk left South Africa for Canada",
+      "context": "Musk emigrated from South Africa to avoid mandatory military service under the apartheid regime. He has said: 'I didn't want to be conscripted into the army to fight for apartheid.' He attended Queen's University in Kingston, Ontario, before transferring to the University of Pennsylvania.",
+      "source_ids": [
+        "src_004"
+      ],
+      "direct_quotes": [
+        "I didn't want to be conscripted into the army to fight for apartheid"
+      ]
+    },
+    {
+      "id": "evt_007",
+      "date": "1995",
+      "date_precision": "year",
+      "what": "Enrolled in PhD program at Stanford, dropped out after two days",
+      "context": "Musk enrolled in a PhD program in energy physics at Stanford University. He dropped out after just two days, explaining: 'I could either watch the Internet revolution happen or I could be part of it.'",
+      "source_ids": [
+        "src_005"
+      ],
+      "direct_quotes": [
+        "I could either watch the Internet revolution happen or I could be part of it"
+      ]
+    },
+    {
+      "id": "evt_008",
+      "date": "1995",
+      "date_precision": "year",
+      "what": "Co-founded Zip2 with brother Kimbal",
+      "context": "Musk co-founded Zip2 with his brother Kimbal. They worked out of a small rented office in Palo Alto. Musk coded the website every night, often sleeping at the office. The company developed an internet city guide for newspapers.",
+      "source_ids": [
+        "src_006"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_009",
+      "date": "1999",
+      "date_precision": "year",
+      "what": "Zip2 acquired by Compaq for $307 million",
+      "context": "In 1999, Compaq acquired Zip2 for $307 million. Musk received $22 million from the sale.",
+      "source_ids": [
+        "src_006"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_010",
+      "date": "1999",
+      "date_precision": "year",
+      "what": "Founded X.com with Zip2 proceeds",
+      "context": "With his Zip2 proceeds, Musk founded X.com in 1999, an online financial services company.",
+      "source_ids": [
+        "src_007"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_011",
+      "date": "2000",
+      "date_precision": "year",
+      "what": "X.com merged with Confinity (PayPal), Musk ousted as CEO",
+      "context": "X.com merged with Confinity (which had a product called PayPal) in 2000. In September 2000, while Musk was on his honeymoon, the board ousted him as CEO and replaced him with Peter Thiel. Musk later said: 'That's the problem with vacations.' When eBay acquired PayPal for $1.5 billion in 2002, Musk received $176 million.",
+      "source_ids": [
+        "src_007"
+      ],
+      "direct_quotes": [
+        "That's the problem with vacations"
+      ]
+    },
+    {
+      "id": "evt_012",
+      "date": "2002",
+      "date_precision": "year",
+      "what": "Founded SpaceX with $100 million of his own money",
+      "context": "In 2001, Musk traveled to Russia to buy refurbished ICBMs for launching payloads to Mars. The Russians reportedly didn't take him seriously and quoted exorbitant prices. On the flight home, Musk calculated he could build a rocket for about 10% of the going rate. He founded SpaceX in 2002 with $100 million of his own money. He has said: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything.'",
+      "source_ids": [
+        "src_008"
+      ],
+      "direct_quotes": [
+        "I thought the chance of success was less than 10%. I just accepted that I would probably lose everything"
+      ]
+    },
+    {
+      "id": "evt_013",
+      "date": "2004",
+      "date_precision": "year",
+      "what": "Became Tesla's largest shareholder with $6.3 million investment",
+      "context": "Musk became Tesla's largest shareholder in 2004 with a $6.3 million investment. He became chairman of the board.",
+      "source_ids": [
+        "src_011"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_014",
+      "date": "2006-03",
+      "date_precision": "month",
+      "what": "First Falcon 1 rocket launch failed",
+      "context": "SpaceX's first Falcon 1 rocket launch failed due to a corroded fuel line nut.",
+      "source_ids": [
+        "src_009"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_015",
+      "date": "2007-03",
+      "date_precision": "month",
+      "what": "Second Falcon 1 rocket launch failed",
+      "context": "The second launch in March 2007 reached space but the second stage spun out of control.",
+      "source_ids": [
+        "src_009"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_016",
+      "date": "2008",
+      "date_precision": "year",
+      "what": "Took over as CEO of Tesla during financial crisis",
+      "context": "In 2008, during the financial crisis, Musk took over as CEO when the company was in severe financial distress. He has said: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice.'",
+      "source_ids": [
+        "src_011"
+      ],
+      "direct_quotes": [
+        "I could either let Tesla die or put all my remaining money into it. That wasn't really a choice"
+      ]
+    },
+    {
+      "id": "evt_017",
+      "date": "2008-08",
+      "date_precision": "month",
+      "what": "Third Falcon 1 rocket launch failed",
+      "context": "The third launch failed when the first and second stages collided during separation. After the third failure, Musk reportedly had just enough money for one more attempt.",
+      "source_ids": [
+        "src_009"
+      ],
+      "direct_quotes": [
+        "I'd never seen Elon look that defeated. He said we would keep going until we ran out of money"
+      ]
+    },
+    {
+      "id": "evt_018",
+      "date": "2008-09-28",
+      "date_precision": "day",
+      "what": "Fourth Falcon 1 launch succeeded - first privately developed liquid-fuel rocket to reach orbit",
+      "context": "The fourth launch succeeded — making Falcon 1 the first privately developed liquid-fuel rocket to reach orbit. A colleague recalled: 'I'd never seen Elon look that defeated. He said we would keep going until we ran out of money.'",
+      "source_ids": [
+        "src_009"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_019",
+      "date": "2008-12-23",
+      "date_precision": "day",
+      "what": "NASA awarded SpaceX $1.6 billion commercial cargo contract",
+      "context": "Two days before Christmas 2008, NASA awarded SpaceX a $1.6 billion contract for 12 cargo transport flights to the International Space Station. This came at a time when both SpaceX and Tesla were nearly bankrupt. Musk described the week as one of the most stressful periods of his life, stating: 'I had to borrow money from friends just to pay rent.'",
+      "source_ids": [
+        "src_010"
+      ],
+      "direct_quotes": [
+        "I had to borrow money from friends just to pay rent"
+      ]
+    },
+    {
+      "id": "evt_020",
+      "date": "2012",
+      "date_precision": "year",
+      "what": "Described entrepreneurship as 'staring into the abyss and eating glass'",
+      "context": "In various interviews, Musk has described entrepreneurship in visceral terms: 'Starting a company is like staring into the abyss and eating glass.'",
+      "source_ids": [
+        "src_024"
+      ],
+      "direct_quotes": [
+        "Starting a company is like staring into the abyss and eating glass"
+      ]
+    },
+    {
+      "id": "evt_021",
+      "date": "2013",
+      "date_precision": "year",
+      "what": "Published Hyperloop white paper, open-sourced concept",
+      "context": "In 2013, Musk published a 57-page white paper proposing the Hyperloop — a high-speed transportation system capable of moving passengers at nearly 800 mph. He open-sourced the concept rather than building it himself, saying he was too busy with SpaceX and Tesla.",
+      "source_ids": [
+        "src_032"
+      ],
+      "direct_quotes": [
+        "I just wanted to show it was possible"
+      ]
+    },
+    {
+      "id": "evt_022",
+      "date": "2014",
+      "date_precision": "year",
+      "text": "Warned about AI risks, called AI 'summoning the demon'",
+      "context": "In 2014 he said: 'With artificial intelligence we are summoning the demon. You know all those stories where there's the guy with the pentagram and the holy water, and he's like, yeah, he's sure he can control the demon? Doesn't work out.'",
+      "source_ids": [
+        "src_020"
+      ],
+      "direct_quotes": [
+        "With artificial intelligence we are summoning the demon"
+      ]
+    },
+    {
+      "id": "evt_023",
+      "date": "2015",
+      "date_precision": "year",
+      "what": "Co-founded OpenAI as nonprofit to develop friendly AI",
+      "context": "Musk co-founded OpenAI in 2015 as a nonprofit to develop 'friendly AI,' but later departed the board in 2018 citing conflicts of interest with Tesla's AI work.",
+      "source_ids": [
+        "src_020"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_024",
+      "date": "2016",
+      "date_precision": "year",
+      "what": "Co-founded Neuralink",
+      "context": "In 2016, Musk co-founded Neuralink with an investment of $100 million. The company aims to develop brain-machine interfaces.",
+      "source_ids": [
+        "src_025"
+      ],
+      "direct_quotes": [
+        "If you can't beat them, join them. The merge with AI is the best-case scenario"
+      ]
+    },
+    {
+      "id": "evt_025",
+      "date": "2016-09-27",
+      "date_precision": "day",
+      "what": "Presented Mars colonization plan at International Astronautical Congress",
+      "context": "At the 2016 IAC in Guadalajara, Mexico, Musk presented his plan to colonize Mars. He stated: 'History is going to bifurcate along two directions. One path is we stay on Earth forever, and then there will be some eventual extinction event. The alternative is to become a space-faring civilization and a multi-planetary species.'",
+      "source_ids": [
+        "src_018"
+      ],
+      "direct_quotes": [
+        "History is going to bifurcate along two directions. One path is we stay on Earth forever, and then there will be some eventual extinction event. The alternative is to become a space-faring civilization and a multi-planetary species."
+      ]
+    },
+    {
+      "id": "evt_026",
+      "date": "2017",
+      "date_precision": "year",
+      "what": "Founded The Boring Company",
+      "context": "In 2017, Musk founded The Boring Company to build underground tunnels for traffic.",
+      "source_ids": [
+        "src_026"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_027",
+      "date": "2018-02-06",
+      "date_precision": "day",
+      "what": "Falcon Heavy successfully launched with Tesla Roadster",
+      "context": "SpaceX successfully launched the Falcon Heavy — the most powerful operational rocket in the world at the time. As its test payload, Musk sent his personal midnight-cherry Tesla Roadster into space with a mannequin dubbed 'Starman' in the driver's seat, playing David Bowie's 'Space Oddity' on loop. He later said: 'I love the thought of a car drifting apparently endlessly through space and perhaps being discovered by an alien race millions of years in the future.'",
+      "source_ids": [
+        "src_017"
+      ],
+      "direct_quotes": [
+        "I love the thought of a car drifting apparently endlessly through space and perhaps being discovered by an alien race millions of years in the future"
+      ]
+    },
+    {
+      "id": "evt_028",
+      "date": "2018-06",
+      "date_precision": "month",
+      "text": "Model 3 production crisis - Musk slept on factory floor",
+      "context": "During the Model 3 production ramp in mid-2018, Musk moved into the Fremont factory, sleeping on the production floor for months. He stated: 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs.' He worked 120-hour weeks and described it as 'the most painful year of my career — production hell.' Tesla came within single-digit weeks of bankruptcy before achieving its 5,000 cars/week production target in late June 2018.",
+      "source_ids": [
+        "src_012"
+      ],
+      "direct_quotes": [
+        "If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs",
+        "the most painful year of my career — production hell"
+      ]
+    },
+    {
+      "id": "evt_029",
+      "date": "2018-08-07",
+      "date_precision": "day",
+      "text": "SEC sued Musk for securities fraud over Tesla tweet",
+      "context": "On August 7, 2018, Musk tweeted: 'Am considering taking Tesla private at $420. Funding secured.' The SEC sued Musk for securities fraud, alleging the tweet was 'false and misleading.' Musk paid a $20 million fine and agreed to have his tweets pre-approved by a lawyer.",
+      "source_ids": [
+        "src_013"
+      ],
+      "direct_quotes": [
+        "Am considering taking Tesla private at $420. Funding secured."
+      ]
+    },
+    {
+      "id": "evt_030",
+      "date": "2018",
+      "date_precision": "year",
+      "text": "Departed OpenAI board due to conflicts of interest",
+      "context": "Musk departed the OpenAI board in 2018 citing conflicts of interest with Tesla's AI work.",
+      "source_ids": [
+        "src_020"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_031",
+      "date": "2018-01",
+      "date_precision": "month",
+      "text": "The Boring Company sold flamethrowers to raise funds",
+      "context": "In early 2018, Musk sold 20,000 branded flamethrowers at $500 each through The Boring Company, raising $10 million. He described it as 'obviously a terrible idea' but noted they sold out immediately.",
+      "source_ids": [
+        "src_026"
+      ],
+      "direct_quotes": [
+        "obviously a terrible idea"
+      ]
+    },
+    {
+      "id": "evt_032",
+      "date": "2020",
+      "date_precision": "year",
+      "text": "Joe Rogan interview - discussed duty to maintain consciousness",
+      "context": "In a 2020 interview with Joe Rogan, Musk said: 'I think we have a duty to maintain the light of consciousness, to make sure it continues into the future.' When pressed on what motivates him, he said: 'I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad.'",
+      "source_ids": [
+        "src_021"
+      ],
+      "direct_quotes": [
+        "I think we have a duty to maintain the light of consciousness, to make sure it continues into the future",
+        "I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad"
+      ]
+    },
+    {
+      "id": "evt_033",
+      "date": "2022-02",
+      "date_precision": "month",
+      "text": "Sent Starlink terminals to Ukraine after Russian invasion",
+      "context": "In February 2022, days after Russia invaded Ukraine, Musk sent Starlink satellite terminals to Ukraine after a direct request from a Ukrainian government official on Twitter. However, he later secretly restricted Starlink's range near Crimea, preventing its use in a Ukrainian attack on Russian naval vessels. Musk explained he feared enabling a potential nuclear escalation.",
+      "source_ids": [
+        "src_031"
+      ],
+      "direct_quotes": [
+        "If I had agreed to their request, SpaceX would be explicitly complicit in a major act of war"
+      ]
+    },
+    {
+      "id": "evt_034",
+      "date": "2022-10-28",
+      "date_precision": "day",
+      "text": "Completed Twitter acquisition for $44 billion",
+      "context": "Musk completed his $44 billion acquisition of Twitter, tweeting 'the bird is freed.' In the days following, Musk laid off approximately 80% of Twitter's workforce. He sent an email giving remaining employees an ultimatum: commit to 'extremely hardcore' work or leave with severance. Approximately 1,200 additional employees resigned after the email.",
+      "source_ids": [
+        "src_015"
+      ],
+      "direct_quotes": [
+        "the bird is freed"
+      ]
+    },
+    {
+      "id": "evt_035",
+      "date": "2023",
+      "date_precision": "year",
+      "text": "Founded xAI as OpenAI competitor",
+      "context": "Musk founded xAI as a competitor to OpenAI.",
+      "source_ids": [
+        "src_020"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_036",
+      "date": "2023-11",
+      "date_precision": "month",
+      "text": "DealBook Summit confrontation with advertisers",
+      "context": "At the November 2023 DealBook Summit, when confronted about advertisers leaving the platform due to content moderation concerns, Musk responded: 'If someone's going to try to blackmail me with advertising, blackmail me with money? Go fuck yourself.' He then added: 'Is that clear? I hope it is.'",
+      "source_ids": [
+        "src_016"
+      ],
+      "direct_quotes": [
+        "If someone's going to try to blackmail me with advertising, blackmail me with money? Go fuck yourself",
+        "Is that clear? I hope it is"
+      ]
+    },
+    {
+      "id": "evt_037",
+      "date": "2024-01",
+      "date_precision": "month",
+      "text": "Neuralink implanted first brain chip in human patient",
+      "context": "Neuralink implanted its first brain chip in a human patient, who was subsequently able to control a computer cursor with his thoughts.",
+      "source_ids": [
+        "src_025"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_038",
+      "date": "2024",
+      "date_precision": "year",
+      "text": "Largest individual political donor in U.S. history",
+      "context": "In 2024, Musk became the largest individual political donor in U.S. history, giving $288 million to Republican candidates through his America PAC. He publicly endorsed Trump after an assassination attempt on Trump in July 2024.",
+      "source_ids": [
+        "src_030"
+      ],
+      "direct_quotes": [
+        "I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me."
+      ]
+    },
+    {
+      "id": "evt_039",
+      "date": "2024",
+      "date_precision": "year",
+      "text": " sued OpenAI for abandoning nonprofit mission",
+      "context": "Musk sued OpenAI in 2024, alleging the company had abandoned its open-source, nonprofit mission.",
+      "source_ids": [
+        "src_020"
+      ],
+      "direct_quotes": []
+    },
+    {
+      "id": "evt_040",
+      "date": "2025-01",
+      "date_precision": "month",
+      "text": "Led Department of Government Efficiency (DOGE) in Trump administration",
+      "context": "In January 2025, Musk was designated a 'special government employee' leading the Department of Government Efficiency (DOGE) in Trump's second administration. He applied his corporate approach to government — mass layoffs, system shutdowns, and rapid restructuring of federal agencies. In May 2025, he stepped down from the role, stating: 'The DOGE mission will only strengthen over time as it becomes a way of life throughout the government.' A federal judge ruled that Musk had acted as the 'de facto leader' of DOGE.",
+      "source_ids": [
+        "src_029"
+      ],
+      "direct_quotes": [
+        "The DOGE mission will only strengthen over time as it becomes a way of life throughout the government"
+      ]
+    }
+  ]
+}

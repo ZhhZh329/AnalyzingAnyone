@@ -1,0 +1,16 @@
+name: legal_filing
+display_name: "Legal document, SEC filing, court testimony"
+credibility_notes: |
+  Legal contexts impose forced precision. Statements under oath or in
+  regulatory filings carry legal consequences for dishonesty, making them
+  among the most reliable sources for factual claims.
+  Key considerations:
+  - Statements under oath have highest factual reliability
+  - SEC filings are reviewed by lawyers — wording is precise and deliberate
+  - Court testimony reveals behavior under adversarial pressure
+  - Legal strategy may still distort — truth is shaped by what's advantageous
+  - Settlements and plea deals are informative about risk tolerance
+weight_guidance: |
+  Highest reliability for factual claims. The person's behavior DURING
+  legal proceedings (defiance, compliance, settlement patterns) is as
+  informative as the content of the filings.

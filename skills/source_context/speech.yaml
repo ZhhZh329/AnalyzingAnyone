@@ -1,0 +1,16 @@
+name: speech
+display_name: "Prepared speech or presentation"
+credibility_notes: |
+  Speeches represent the most carefully constructed public persona. They
+  reveal what the person wants the world to believe about them — which is
+  itself informative, even if it doesn't reflect private reality.
+  Key considerations:
+  - Highest level of preparation and message control
+  - Reveals aspirational self-image and stated values
+  - Technical presentations may be more authentic than motivational ones
+  - Q&A sections after speeches are less controlled and more revealing
+  - The choice of venue and audience tells you who they're performing for
+weight_guidance: |
+  Most reliable for stated vision and public values. Least reliable for
+  actual behavioral patterns. The gap between speech content and actual
+  behavior is itself a key data point.

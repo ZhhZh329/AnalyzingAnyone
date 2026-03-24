@@ -1,0 +1,17 @@
+name: biography
+display_name: "Biography or third-party account"
+credibility_notes: |
+  Biographies provide rich narrative context but are filtered through the
+  author's perspective and narrative arc. Authorized biographies may be
+  influenced by the subject's desire for image control. Unauthorized ones
+  may have adversarial bias.
+  Key considerations:
+  - Author's relationship with subject (authorized vs. unauthorized)
+  - Multiple sources cited within the biography carry more weight
+  - Anecdotes from named sources > anonymous sources
+  - The author's narrative framing may impose patterns that aren't there
+  - Direct quotes within biographies are more reliable than paraphrasing
+weight_guidance: |
+  High value for behavioral patterns and life events. Moderate for
+  psychological interpretation (that's the author's lens, not raw data).
+  Cross-reference specific claims across multiple biographies when possible.

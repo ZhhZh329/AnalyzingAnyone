@@ -1,0 +1,16 @@
+name: interview
+display_name: "Formal interview (media, podcast guest, press conference)"
+credibility_notes: |
+  Interviews are curated performances. The person has time to think, may have
+  PR coaching, and is aware of the audience. However, long-form interviews
+  (especially podcasts) can reveal unguarded moments when the person relaxes.
+  Key considerations:
+  - Prepared talking points vs. spontaneous responses differ in authenticity
+  - Body language cues (described in text) can reveal discomfort or conviction
+  - The interviewer's style affects what emerges — adversarial vs. friendly
+  - Late-interview responses tend to be less guarded than opening statements
+  - Contradictions between interviews over time are highly informative
+weight_guidance: |
+  More reliable for stated beliefs and public persona. Less reliable for
+  actual behavioral patterns. Long-form podcasts > short media hits for
+  authenticity.

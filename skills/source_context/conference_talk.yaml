@@ -1,0 +1,16 @@
+name: conference_talk
+display_name: "Industry conference presentation or panel"
+credibility_notes: |
+  Conference talks are a hybrid — prepared like speeches but with a
+  professional peer audience that creates different incentive structures.
+  The person is performing competence for their industry, not for the
+  general public.
+  Key considerations:
+  - Technical claims are more likely to be challenged by audience
+  - Panel discussions reveal how the person handles disagreement
+  - Audience Q&A is less controlled than the main presentation
+  - The choice of what to present reveals strategic priorities
+weight_guidance: |
+  Good for understanding professional identity and technical thinking.
+  More authentic than media interviews for domain-specific claims.
+  Panel interactions reveal interpersonal dynamics.

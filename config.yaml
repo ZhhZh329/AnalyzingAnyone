@@ -1,0 +1,9 @@
+# 模型配置见 llm.yaml
+
+anchored_dimensions:
+  - key: core_values
+    question: "What matters most to this person? What is their value priority?"
+  - key: decision_logic
+    question: "How do they reason through dilemmas and make hard choices?"
+  - key: worldview
+    question: "What are their base assumptions about how the world works?"

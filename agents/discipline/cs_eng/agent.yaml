@@ -1,0 +1,5 @@
+name: cs_engineering
+display_name: "CS / 工程思维 Engineering Thinking"
+role: discipline
+prompt: prompt.md
+skills: []
