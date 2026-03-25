@@ -1,0 +1,58 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 4/32
+
+And I think we have a chance with this new computing technology meeting people in the  eighties— the fact that computers and society are out on a first date in the eighties. We have a chance to make these things beautiful, and we have a chance to communicate something through the design of the objects themselves.
+
+When I was going to school, I had a few great teachers and a lot of mediocre teachers. And the thing that probably kept me out of jail was the books. I could go and read what Aristotle or Plato wrote without an intermediary in the way. And a book was a phenomenal thing. It got right from the source to the destination without anything in the middle.
+
+The problem was, you can’t ask Aristotle a question. And I think, as we look towards the next fifty to one hundred years, if we really can come up with these machines that can capture an underlying spirit, or an underlying set of principles, or an underlying way of looking at the world, then, when the next Aristotle comes around, maybe if he carries around one of these machines with him his whole  life— his or her whole  life— and types in all this stuff, then maybe someday, after this person’s dead and gone, we can ask this machine, “Hey, what would Aristotle have said? What about this?” And maybe we won’t get the right answer, but maybe we will. And that’s really exciting to me. And that’s one of the reasons I’m doing what I’m doing.
+
+So, what do you want to talk about?
+
+Steve answered questions at two conference sessions.
+
+How are these computers all going to work together? They’re probably going to work together a lot like people do. Sometimes they’re going to work together really well, and other times they’re not going to work together so well.
+
+What’s happened, there’s been a few installations where people have hooked these things together. The one installation that stands out is at Xerox Palo Alto Research Center, or PARC, for short. And they hooked about a hundred computers together on what’s called a local area network, which is just a cable that carries all this information back and forth. […]
+
+Then an interesting thing happened. There were twenty people interested in volleyball. So a volleyball distribution list evolved, and then, when the volleyball game next week was changed, you’d write a quick memo and send it to the volleyball distribution list. Then there was a Chinese food cooking list. And before long, there were more lists than people.
+
+And it was a very, very interesting phenomenon, because I think that that’s exactly what’s going to happen as we start to tie these things [computers] together: they’re going to facilitate communication and facilitate bringing people together in the special interests that they have.
+
+And we’re about five years away from really solving the problems of hooking these computers together in the office. And we’re about ten to fifteen years away from solving the problems of hooking them together in the home. A lot of people are working on it, but it’s a pretty fierce problem.
+
+Now, Apple’s strategy is really simple. What we want to do is put an incredibly great computer in a book that you carry around with you, that you can learn how to use in twenty minutes. That’s what we want to do. And we want to do it this decade. And we really want to do it with a radio link in it so you don’t have to hook up to  anything— you’re in communication with all these larger databases and other computers. We don’t know how to do that now. It’s impossible technically.
+
+We’re trying to get away from programming. We’ve got to get away from programming because people don’t want to program computers. People want to  use  computers.
+
+We [at Apple] feel that, for some crazy reason, we’re in the right place at the right time to put something back. And what I mean by that is, most of us didn’t make the clothes we’re wearing, and we didn’t cook or grow the food that we eat, and we’re speaking a language that was developed by other people, and we use a mathematics that was developed by other people. We are constantly  taking .
+
+And the ability to  put something back  into the pool of human experience is extremely neat. I think that everyone knows that in the next ten years we have the chance to really do that. And we [will] look  back— and while we’re doing it, it’s pretty fun,  too— we will look back and say, “God, we were a part of that!”
+
+We started with nothing. So whenever you start with nothing, you can always shoot for the moon. You have nothing to lose. And the thing that happens  is— when you sort of get something, it’s very easy to go into cover-your-ass mode, and then you become conservative and vote for Ronnie. So what we’re trying to do is to realize the very amazing time that we’re in and not go into that mode.
+
+I can’t tell you why you need a home computer right now. I mean, people ask me, “Why should I buy a computer in my home?”
+
+And I say, “Well, to learn about it, to run some fun simulations. If you’ve got some kids, they should probably know about it in terms of literacy. They can probably get some good educational software, especially if they’re younger.
+
+“You can hook up to The Source and, you know, do whatever you’re going to do. Meet women, I don’t know. But other than that, there’s no good reason to buy one for your house right now. But there will be. There will be.”
+
+I don’t think finance is what drives people at Apple. I don’t think it’s money, but feeling like you own a piece of the company, and this is your damn company, and if you see something … We always tell people, “You work for Apple first and your boss second.” We feel pretty strongly about that.
+
+When you have a million people using something, then that’s when creativity really starts to happen on a very rapid scale. […] We need some revolutions like [the] Lisa [computer], but we also then need to get millions of units out there and let the world  innovate— because the world’s pretty good at innovating, we’ve found.
+
+On the Macintosh
+
+Macintosh was less than a year  old— but clearly poised to transform the personal computer  industry— when Steve reflected on its significance with reporter David Sheff.
+
+One of the things I love is that with Macintosh, you can write memos that are Times Roman or Helvetica, or you can throw in an Old English if you want to have a little fun for a party, you know, for a volleyball announcement. Or you can use a very serious font for something very serious. And you can express yourself.
+
+It’s sort of like in 1844, the telegraph was invented, and it was an amazing breakthrough in communications. And you actually could send messages from New York to San Francisco in an afternoon. And some people talked about putting a telegraph on every desk in America to improve productivity.
+
+But it wouldn’t have worked. It wouldn’t have worked. And the reason it wouldn’t have worked was because you would have had to learn this whole sequence of strange  incantations— Morse code in this case, dots and dashes in this  case— to use the telegraph. And it took about forty hours to learn how to use Morse code. And a majority of people would never have learned how to use Morse code.
+
+So fortunately, in the 1870s, Alexander Graham Bell filed the patents for the  telephone— another radical breakthrough in communications that performed basically the same function, but people already knew how to use it. The neatest thing about it was that, in addition to allowing you to communicate with just words, it allowed you to sing. It allowed you to intone your words with meaning beyond the simple linguistics.
+
+We’re in the same exact parallel situation today. Some people are saying we need to put an IBM PC on every desk in America to improve productivity. But it won’t work. The special incantations you have to learn this time are slash-qz’s and things like that. Most people are not going to learn slash-qz’s any more than they’re going to learn Morse code.

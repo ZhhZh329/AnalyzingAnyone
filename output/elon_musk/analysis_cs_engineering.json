@@ -1,79 +1,238 @@
 {
   "discipline": "cs_engineering",
-  "anchored": {
-    "core_values": {
-      "finding": "Musk's core value hierarchy places existential survival of consciousness above all else, with engineering capability as the primary instrument to achieve it. He explicitly stated having 'a duty to maintain the light of consciousness' (evt_032). This manifests as multi-planetary expansion (evt_025: 'become a space-faring civilization') and AI risk mitigation through direct participation (evt_023, evt_024, evt_035). His value system prioritizes行动的必要性(necessity of action) over comfort - he frames personal sacrifice as non-negotiable when stakes are existential.",
-      "event_ids": [
-        "evt_032",
-        "evt_025",
-        "evt_023",
-        "evt_024",
-        "evt_012"
+  "anchored_constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper: actively creates systems rather than responding to existing structures",
+      "finding": "Musk consistently acts as a world-shaper rather than a structure-responder. He doesn't wait for opportunities or conditions—he creates them. The defining pattern is traveling to Russia to buy ICBMs, being dismissed, then calculating he could build rockets for 10% of the quoted price and immediately founding SpaceX (ev_012, ev_013). His quote 'I could either watch the Internet revolution happen or I could be part of it' (ev_007) captures this orientation. He has founded five companies (Zip2, X.com/PayPal, SpaceX, Tesla, Neuralink, Boring Company) and open-sourced Hyperloop rather than building it himself—all acts of world-shaping. The pattern extends to Twitter acquisition and DOGE: when he perceives a system as broken, his instinct is to take direct control and reshape it.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_012",
+        "ev_013",
+        "ev_025",
+        "ev_031",
+        "ev_036"
       ],
-      "confidence": 0.9,
-      "reasoning": "Multiple direct quotes across decades consistently frame his motivation in terms of existential duty rather than wealth or fame. The $100M SpaceX investment (evt_012) with <10% success probability, combined with explicit consciousness-duty statement (evt_032), shows value priority is not rhetorical but behavioral."
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "World-shaping manifests as identifying systems that could exist but don't, then building them from scratch. Not opportunistic—visionary in the engineering sense."
+        }
+      ],
+      "local_support": "strong"
     },
-    "decision_logic": {
-      "finding": "Musk employs first-principles reasoning as default decision framework, breaking complex problems to fundamental physics/ economics before scaling solutions. When evaluating Russian rocket prices, he calculated 'about 10% of the going rate' (evt_012) by component-level analysis, not market comparison. Decision timing shows pattern of 'bifurcation point recognition' - when paradigm shifts appear, he commits fully within days (evt_007: dropped out of Stanford after 2 days; evt_006: left South Africa immediately upon facing conscription). His decision logic treats ambiguous situations as binary: either act fully or not at all, with minimal middle-ground hedging.",
-      "event_ids": [
-        "evt_012",
-        "evt_007",
-        "evt_006",
-        "evt_016"
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First principles reasoning: builds beliefs from fundamental truths rather than analogy or authority",
+      "finding": "Musk's epistemic style is explicitly first-principles based. At TED 2013, he stated: 'Physics teaches you to reason from first principles rather than by analogy' (ev_034). The most concrete demonstration is the rocket calculation: on the flight home from Russia, he 'opened a spreadsheet and calculated the raw material costs of building a rocket from scratch' and concluded he could build one for about 10% of the going rate (ev_012). This is not empirical testing or benchmarking—it's deductive reasoning from material costs and physics to conclude a whole system is overpriced. His five-step algorithm also reflects this: 'Question every requirement — trace it back to a person, not a department' (ev_023)—a demand for causal traceability rather than inherited assumptions.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_023",
+        "ev_034"
       ],
-      "confidence": 0.85,
-      "reasoning": "First-principles approach is documented repeatedly (rocket cost calculation, Hyperloop white paper as proof-of-concept rather than profit venture). The 'bifurcation' language in evt_025 directly mirrors his decision behavior - when SpaceX faced bankruptcy (evt_016), he framed it as 'not really a choice' rather than calculated risk."
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "First principles is an engineering methodology: treat existing systems as data points, not constraints. The rocket insight came from refusing to accept the prevailing price as given."
+        }
+      ],
+      "local_support": "strong"
     },
-    "worldview": {
-      "finding": "Musk operates with a 'civilizational bifurcation' worldview where humanity faces binary outcomes: extinction or expansion to multi-planetary status. This manifests as technical determinism - he believes advanced technology is both necessary and sufficient to alter civilizational trajectory. His worldview treats failure as information (evt_017-018: three failed launches provided data for fourth success) rather than terminal. He assumes physics constraints are the only real boundaries; regulatory/social obstacles are engineering problems to solve, not immutable constraints. This explains aggressive timeline commitments that others view as impossible.",
-      "event_ids": [
-        "evt_025",
-        "evt_017",
-        "evt_018",
-        "evt_021",
-        "evt_012"
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High: uses abstract frameworks and formal processes to drive decision-making across domains",
+      "finding": "Musk exhibits strong abstraction and formalization tendencies. His five-step 'algorithm' is explicitly procedural and abstractable: 'Question every requirement — trace it back to a person, not a department. Delete any part or process you can — if you're not adding back at least 10% of what you delete, you're not deleting enough. Simplify and optimize — but only AFTER deleting. Accelerate cycle time. Automate — and only as the last step, never the first' (ev_023). He stated: 'The most common error is to optimize something that shouldn't exist' (ev_024)—a meta-principle about the abstraction layer at which to operate. He also published a formal 57-page white paper for Hyperloop (ev_062), open-sourced the concept, and applied the same framework thinking across rockets, cars, brain implants, and tunnels. The abstraction is domain-agnostic.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_024",
+        "ev_062"
       ],
-      "confidence": 0.8,
-      "reasoning": "The 'history will bifurcate' quote (evt_025) is not rhetorical flourish but predictive framework he acts upon. The Falcon 1 trajectory - three failures followed by success - reinforced this worldview empirically. Hyperloop (evt_021) was released as open-source precisely because he views regulatory/social barriers as secondary to demonstrating technical possibility."
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "His framework is itself a meta-tool: the five-step process can be applied to any complex system. This is the hallmark of an engineer who thinks in abstractions."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation in execution, but notable exceptions in knowledge-sharing",
+      "finding": "Musk seeks direct control over systems he builds or invests in. He took over as Tesla CEO during the 2008 crisis (ev_017), led SpaceX development directly, and acquired Twitter to reshape it. At Twitter, he laid off ~80% of the workforce within days and sent an ultimatum requiring 'extremely hardcore' commitment (ev_026, ev_027). However, there is a notable tension: he open-sourced Hyperloop (ev_062) and said 'I just wanted to show it was possible' (ev_061)—relinquishing control over execution while setting the direction. This suggests control is primarily over critical path and timeline, not necessarily over ownership. He delegated Starlink Ukraine decisions but made them personally when stakes were high (ev_059, ev_060).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_026",
+        "ev_027",
+        "ev_061",
+        "ev_062"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "Control is about execution velocity and decision authority, not about holding assets indefinitely. The Hyperloop exception suggests control is instrumental, not ego-driven."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission always wins: extremely high tolerance for relational and social costs in service of goals",
+      "finding": "Musk consistently prioritizes mission over relational comfort. He worked 120-hour weeks during Model 3 production hell (ev_040), stated 'Nobody ever changed the world on 40 hours a week' (ev_039), and said 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_018). He described entrepreneurship as 'eating glass' and said he'd 'rather commit seppuku than fail' (ev_043, ev_044). When asked about his first child's death, he reportedly returned to work almost immediately, saying 'I'm not sure what sitting around being sad is going to do' (ev_051). His confrontation with advertisers at DealBook Summit—'Go fuck yourself' (ev_028)—prioritized mission (free speech) over business relationships. The DOGE tenure applied corporate restructuring to government with mass layoffs, ignoring political relational costs (ev_053, ev_054).",
+      "evidence_ids": [
+        "ev_018",
+        "ev_028",
+        "ev_039",
+        "ev_040",
+        "ev_043",
+        "ev_044",
+        "ev_051",
+        "ev_053"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "This is not callousness—it's an engineering tradeoff: speed of mission execution has a higher priority than maintaining social capital. The calculation is explicit in his statements."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk tolerance with explicit acceptance of low probability success",
+      "finding": "Musk's risk posture is exceptional even among founders. About SpaceX, he said: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_013). He described the first Mars journeys as having 'quite high' fatality risk (ev_033). During the 2008 crisis, both SpaceX and Tesla were near bankruptcy—he 'had to borrow money from friends just to pay rent' (ev_016) while accepting NASA's cargo contract. He put all remaining money into Tesla: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_017). His 2012 quote captures this: 'I'd rather commit seppuku than fail' (ev_044). This is not blind optimism but explicit probabilistic acceptance—knowing the odds are against him and proceeding anyway.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_016",
+        "ev_017",
+        "ev_033",
+        "ev_044"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "His risk calculus is engineering-style: calculate the downside, decide if the expected value (including non-monetary value) justifies the risk, then commit fully. Not risk-seeking—value-seeking."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Anti-hierarchy in execution; uses personal authority to dismantle institutional structures",
+      "finding": "Musk's relationship with hierarchy is oppositional. He left South Africa to avoid mandatory military service under apartheid (ev_006). At PayPal, he was ousted as CEO during his honeymoon but remained the largest shareholder (ev_010, ev_011). At Twitter, he gutted the organizational structure: laid off ~80% including 'most of middle management' (ev_026), then sent an ultimatum that triggered ~1,200 more resignations (ev_027). At DOGE, a federal judge ruled he acted as 'de facto leader' applying corporate approaches to government (ev_055). However, within his own companies, he exercises intense personal authority—he fires engineers on the spot for disagreeing, then sometimes rehires them (ev_041). This is not anti-power; it's anti-hierarchy-as-inertia. He wants flat structures that move fast, while he occupies the central decision node.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_026",
+        "ev_027",
+        "ev_041",
+        "ev_055"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "He treats organizational hierarchy as technical debt to be eliminated. Middle management is friction. His own authority is the exception he makes for himself."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation and confrontation: uses public conflict as a tool rather than avoiding or negotiating",
+      "finding": "Musk's conflict strategy is escalation rather than avoidance or negotiation. The SEC case (ev_021, ev_022) shows this: he tweeted 'funding secured' at $420, triggering fraud charges, and settled rather than fully capitulated. At DealBook, he told advertisers 'Go fuck yourself' (ev_028), causing further exodus—winning the conflict at the cost of the relationship. He publicly clashes with regulators, calls out critics, and uses Twitter as a weapon. Former employees describe him berating and firing on the spot (ev_041). He has sued the SEC, fought with local governments over permits, and confronted advertisers. The pattern is: when faced with resistance, escalate rather than compromise. This is not dysfunction—it serves to establish that he cannot be intimidated, which may reduce future challenges.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_022",
+        "ev_028",
+        "ev_041"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "Conflict as signal: by refusing to back down, he changes the cost calculus for others who might challenge him. It's a strategic display rather than emotional reaction."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale: optimizes for multi-decade, civilization-level outcomes rather than quarterly or annual returns",
+      "finding": "Musk's time horizon extends to mission-scale: decades to centuries. His Mars colonization presentation stated: 'History is going to bifurcate along two directions. One path is we stay on Earth forever, and then there will be some eventual extinction event. The alternative is to become a space-faring civilization and a multi-planetary species' (ev_031). He said the cost of moving to Mars needs to be 'roughly equivalent to the median house price in the US — around $200,000' (ev_032)—a price point designed for mass adoption, not early adopter premiums. At the Joe Rogan interview, he said 'I think we have a duty to maintain the light of consciousness' (ev_037)—framing his work as existential. Neuralink is framed as 'If you can't beat them, join them' to address AI existential risk (ev_047). This is not long-term thinking in the business sense; it's civilization-scale. He operates on a timeline where quarterly results are irrelevant to the mission.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_032",
+        "ev_037",
+        "ev_047"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "His planning horizon is the inverse of typical corporate thinking: the mission is the fixed point, and quarterly metrics are noise to be minimized or ignored."
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental improvement or patching",
+      "finding": "Musk's preference for rebuilding over patching is explicit and systematic. His five-step algorithm's second step is 'Delete any part or process you can — if you're not adding back at least 10% of what you delete, you're not deleting enough' (ev_023), and he insists 'The most common error is to optimize something that shouldn't exist' (ev_024). The pattern manifests empirically: SpaceX rebuilt rocket manufacturing from scratch at 10% of industry costs (ev_012), Tesla rebuilt automotive production with massive vertical integration (ev_020: 'Excessive automation at Tesla was a mistake. Humans are underrated'—but the mistake was over-automation, not rebuilding), Twitter was gutted and rebuilt rather than patched (ev_026). At DOGE, he applied 'corporate approach to government with mass layoffs and rapid restructuring' (ev_053)—not incremental reform. The Hyperloop was open-sourced because he didn't want to build it himself—he wanted others to rebuild transportation, not patch it.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_020",
+        "ev_023",
+        "ev_024",
+        "ev_026",
+        "ev_053"
+      ],
+      "lens_notes": [
+        {
+          "lens": "systems_thinking",
+          "note": "Rebuild is not always the right answer (as the Model 3 automation overreach showed), but it is his default starting position. He treats existing systems as constraints to be challenged, not accepted."
+        }
+      ],
+      "local_support": "strong"
     }
-  },
-  "emergent": [
+  ],
+  "emergent_constructs": [
     {
-      "dimension_name": "build_and_learn_preference",
-      "finding": "Musk systematically prefers building physical artifacts over theoretical analysis or simulation as primary learning modality. Rather than proving Hyperloop theoretically, he published a white paper and released designs - but notably did not build it himself (evt_021: 'I just wanted to show it was possible'). The Falcon Heavy test payload was his personal Tesla Roadster (evt_027) - choosing a real, sentimental object over dummy mass. This suggests a learning style where physical instantiation generates more valuable information than abstract modeling.",
-      "event_ids": [
-        "evt_021",
-        "evt_027",
-        "evt_014",
-        "evt_015",
-        "evt_017"
+      "dimension_name": "scale_as_engineering_variable",
+      "definition": "Treats scale (size, scope, impact magnitude) not as a business metric but as a core design parameter that changes the nature of the problem. Engineering at scale produces qualitatively different solutions than engineering at small scale.",
+      "finding": "Musk consistently designs at scale as a first-order constraint, not an outcome. Mars colonization must reach ~$200,000 per person to be meaningful (ev_032)—that's a design target derived from the mission, not a market price to accept. Starlink was built to provide global internet, not regional service. Neuralink aims at human-level AI integration, not incremental brain-computer interfaces. The Boring Company sold 20,000 flamethrowers (ev_048) as a scaling tactic—$10M raised through merchandise is trivial for his wealth, but the act created a viral scaling of narrative. Even his political donations reached $288M, making him the largest individual donor in U.S. history (ev_057)—scale as a forcing function for impact. This is distinct from 'go big' rhetoric; it's engineering reasoning where the scale of the problem dictates the scale of the solution.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_046",
+        "ev_047",
+        "ev_048",
+        "ev_057"
       ],
-      "confidence": 0.7,
-      "reasoning": "SpaceX's early launch failures were publicly visible iterations rather than hidden R&D - he chose to learn through actual launches even at reputational cost. The Roadster decision reveals preference for 'real' over 'optimal' when both are available."
+      "local_support": "strong"
     },
     {
-      "dimension_name": "vertical_integration_as_architecture",
-      "finding": "Musk's engineering approach treats vertical integration as default architectural choice, not last resort. SpaceX builds rockets from raw aluminum to final product; Tesla designs batteries, software, and manufacturing in-house. This is not cost optimization but control-oriented design - reducing dependencies on external actors who might constrain timeline or capability. The Boring Company (evt_026, evt_031) extended this to infrastructure, and DOGE (evt_040) applied the same logic to government: shutdown systems rather than optimize within existing constraints.",
-      "event_ids": [
-        "evt_012",
-        "evt_026",
-        "evt_040",
-        "evt_028"
+      "dimension_name": "velocity_as_strategy",
+      "definition": "Treats speed not as a performance metric but as a strategic weapon—compresses timelines to force solutions that would not emerge at normal pace, and to establish first-mover or fait-accompli positions.",
+      "finding": "Musk accelerates timelines aggressively and explicitly. His fourth step in the algorithm is 'Accelerate cycle time' (ev_023). He worked 120-hour weeks during Model 3 production (ev_040), called it 'production hell' (ev_019), and described it as 'the most painful year of my career' (ev_019) but continued at that pace. Twitter acquisition and ~80% layoffs happened within days (ev_026)—the speed was itself the strategy, preventing institutional resistance. At DOGE, he applied 'rapid restructuring' (ev_053). The Falcon 1 fourth launch succeeded with 'just enough money for one more attempt' (ev_020)—forcing a win because there was no fallback. His statement 'Nobody ever changed the world on 40 hours a week' (ev_039) frames velocity as a moral requirement, not just a competitive advantage. The pattern is: compress time to force focus, commitment, and learning that would not happen at normal pace.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_023",
+        "ev_026",
+        "ev_039",
+        "ev_040",
+        "ev_053"
       ],
-      "confidence": 0.75,
-      "reasoning": "Consistent pattern across companies: acquire or build capabilities rather than contract. The DOGE approach of 'system shutdowns' (evt_040) mirrors SpaceX's preference for full control over components rather than integrating vendor parts."
+      "local_support": "strong"
     },
     {
-      "dimension_name": "problem_scale_amplification",
-      "finding": "Musk exhibits active preference for problems that only become tractable at certain scale thresholds - deliberately choosing challenges where success requires planetary-scale impact to justify effort. He avoids problems solvable at smaller scale: Hyperloop released as open-source rather than built (evt_021), xAI founded as direct competitor to OpenAI at its full scale (evt_035). This is not just ambition but engineering taste - problems that don't require scale are not interesting enough. The inverse: problems that can be solved incrementally (conventional rockets, incremental car improvements) are rejected in favor of those requiring breakthrough scale.",
-      "event_ids": [
-        "evt_021",
-        "evt_035",
-        "evt_025",
-        "evt_012"
+      "dimension_name": "problem_decomposition_top_down",
+      "definition": "Decomposes problems from the ultimate goal backward (goal-first), rather than building up from available resources or current capabilities. The question is 'what would need to be true for X to happen' rather than 'what can I build with what I have'.",
+      "finding": "Musk's problem decomposition is explicitly top-down from the mission. For Mars colonization, he asked: what cost would make it accessible? (~$200,000, ev_032). What would it take to reach orbit repeatedly? (reusable rockets). What would it take to build rockets cheaply? (build from scratch, vertical integration, ev_012). This is the inverse of typical startup logic which builds from available resources. His Hyperloop paper started from 'what would a fifth mode of transportation look like' and worked backward to specifications (ev_062). For Neuralink, the question was 'how do we ensure humanity has a seat at the table when AI surpasses us' (ev_047)—the goal is AI alignment, brain interface is the engineering path backward from that. The five-step algorithm's first step—'Question every requirement'—is also top-down: challenge the requirements, not just meet them. The decomposition is always mission → system → component, not the reverse.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_023",
+        "ev_032",
+        "ev_047",
+        "ev_062"
       ],
-      "confidence": 0.65,
-      "reasoning": "The pattern is inferential rather than directly stated. His quote selection (multi-planetary civilization, consciousness preservation) frames problems in civilization-scale terms. The decision to open-source Hyperloop rather than monetize it suggests scale-requirement as selection criteria."
+      "local_support": "strong"
     }
   ]
 }

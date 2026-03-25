@@ -2,3 +2,4 @@ name: reporter
 display_name: "报告生成器 Report Generator"
 role: report
 prompt: prompt.md
+max_tokens: 32000

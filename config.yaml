@@ -1,9 +1,25 @@
 # 模型配置见 llm.yaml
 
-anchored_dimensions:
-  - key: core_values
-    question: "What matters most to this person? What is their value priority?"
-  - key: decision_logic
-    question: "How do they reason through dilemmas and make hard choices?"
-  - key: worldview
-    question: "What are their base assumptions about how the world works?"
+shared_constructs:
+  - key: agency_orientation
+    question: "Does this person mainly act as a world-shaper or as a structure-responder?"
+  - key: epistemic_style
+    question: "How does this person form beliefs and judgments?"
+  - key: abstraction_formalization
+    question: "How strongly does this person prefer abstraction, formalization, and systematization?"
+  - key: control_orientation
+    question: "How strongly does this person seek to control systems, people, process, or outcomes?"
+  - key: mission_vs_relational_cost
+    question: "How often does this person prioritize mission/goal over relational comfort or social cost?"
+  - key: risk_posture
+    question: "How does this person relate to uncertainty and risk?"
+  - key: relation_to_hierarchy_power
+    question: "How does this person interpret and use hierarchy, authority, and power?"
+  - key: conflict_strategy
+    question: "How does this person handle conflict: suppress, negotiate, split, escalate, translate, delay?"
+  - key: time_horizon
+    question: "Is this person optimizing for short-term, long-term, or mission-scale horizons?"
+  - key: rebuild_over_patch
+    question: "Does this person prefer structural redesign over local repair?"
+  - key: metacognition
+    question: "How aware is this person of their own thinking patterns, biases, and cognitive limits? Do they actively monitor and adjust their reasoning?"

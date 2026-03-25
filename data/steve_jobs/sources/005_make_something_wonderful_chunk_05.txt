@@ -1,0 +1,64 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 5/32
+
+And that’s what Macintosh is all about. It’s the first “telephone” of our industry. But the neatest thing about it to me is, the same as the telephone to the telegraph, Macintosh lets you sing. It lets you use special fonts. It lets you make drawings and pictures or incorporate other people’s drawings or pictures into your documents.
+
+Even in business, you’re seeing five-page memos get compressed down to a one-page memo because there’s a picture to express the key concept. And so we’re seeing less paper flying around and more quality of communication.
+
+And it’s more fun. There’s always been this myth that really neat, fun people at home all of [a] sudden get very dull and boring and serious when they come to work, and it’s simply not true. So if we can again inject that liberal-arts spirit into this very serious realm of business, I think it would be a worthwhile contribution.
+
+Apple sales conference in Hawaii, 1983.               Outside the IBM offices in New York.             Speech to Apple Employees
+
+“Was George Orwell right about 1984?”
+
+Steve introduced the Macintosh and its iconic commercial, which ran during the 1984 Super Bowl, at an Apple sales meeting in October 1983.
+
+Hi, I’m Steve Jobs.
+
+It is 1958. IBM passes up the chance to buy a young, fledgling company that has invented a new technology called xerography. Two years later, Xerox is born. And IBM has been kicking themselves ever since.
+
+It is ten years later, the late sixties. Digital Equipment [DEC] and others invent the minicomputer. IBM dismisses the minicomputer as too small to do serious computing, and therefore unimportant to their business. DEC grows to become a multi-hundred-million-dollar corporation before IBM finally enters the minicomputer market.
+
+It is now ten years later, the late seventies. In 1977, Apple, a young, fledgling company on the West Coast, invents the Apple II, the first personal computer as we know it today. IBM dismisses the personal computer as too small to do serious computing and unimportant to their business.
+
+The early eighties, ’81. Apple II has become the world’s most popular computer. Apple has grown to a $300 million company, becoming the fastest-growing corporation in American business history, with over fifty competitors vying for a share. IBM enters the personal-computer market in November ’81 with the IBM PC.
+
+1983. Apple and IBM emerge as the industry’s strongest competitors, each selling approximately one billion dollars’ worth of personal computers in 1983. Each will invest greater than $50 million for R&D and another $50 million for television advertising in 1984, totaling almost one quarter of a billion dollars combined.
+
+The shakeout is in full swing. The first major firm goes bankrupt, with others teetering on the brink. Total industry losses for ’83 outshadow even the combined profits of Apple and IBM for personal computers.
+
+It is now 1984. It appears IBM wants it all. Apple is perceived to be the only hope to offer IBM a run for its money. Dealers initially welcoming IBM with open arms now fear an IBM-dominated and controlled future. They are increasingly and desperately turning back to Apple as the only force that can ensure their future freedom.
+
+IBM wants it all, and is aiming its guns on its last obstacle to industry control: Apple. Will Big Blue dominate the entire computer industry?  [Audience: No!]  The entire information age?  [Audience: No!]  Was George Orwell right about 1984?
+
+[Steve runs the “1984” commercial. Directed by Ridley Scott, the ad depicts a dystopian, Orwellian world. In one scene, people dressed in gray, their heads shaved, sit expressionless in front of a large screen on which a dictator drones nonsense. A woman in bright red running shorts and a Macintosh shirt bursts into the room. She hurls a hammer at the screen, destroying it. The commercial ends with a promise: “On January 24th, Apple Computer will introduce Macintosh. And you’ll see why 1984 won’t be like ‘1984.’”]
+
+[There is tumultuous applause and shouting from the audience; once it dies down, Steve resumes.]  That ad is going to run one week before Macintosh is introduced. And our ad agency that put it together is here today, Chiat/Day. Jay Chiat is here, the principal. Lee Clow and Steve Hayden, [who] wrote the copy and did the creative, are also here.
+
+You  might— I guess they just heard what you thought.
+
+Enjoying a rare break before the Macintosh release.               Exhausted after a sales conference in New Orleans, 1984.               Steve’s 1984 shoot for  Time  at his Woodside home.               Pausing to watch a Macintosh in action.             Interview with Michael Moritz
+
+“Your aesthetics get better as you make mistakes.”
+
+Steve and Michael Moritz, a reporter who would soon switch careers and become a venture capitalist, spoke at Steve’s office at Apple in May 1984. They covered a wide range of topics, including Steve’s thoughts on product design.
+
+Steve Jobs:  I went around and looked at Cuisinarts when we were designing Mac. It was like my Cuisinart week.
+
+Michael Moritz:  But no other particular products [influenced you]? Say, from the late seventies or something.
+
+SJ:  Well, we’re around automobiles our whole lives. I’ve never been a car guy, but I’ve always loved Volkswagen Beetles. I’ve always loved Volkswagen vans, actually, too.
+
+Just a bunch of little things: wine labels, paintings in galleries. Just simple things. Not anything real profound, just lots and lots of little things. I don’t think my taste in aesthetics is that much different than a lot of other people’s. The difference is that I just get to be really stubborn about making things as good as we all know they can be. That’s the only difference.
+
+MM:  Yeah, I think you’re being modest.
+
+SJ:  Well, things get more refined as you make mistakes. I’ve had a chance to make a lot of mistakes. Your aesthetics get better as you make mistakes. But the real big thing is: if you’re going to make something, it doesn’t take any more  energy— and rarely does it take more  money— to make it really great. All it takes is a little more time. Not that much more. And a willingness to do so, a willingness to persevere until it’s really great.
+
+But aesthetics? I think aesthetics are a lot like singing. Joanie [Baez] has a beautiful voice, but the reason her voice is beautiful isn’t because her voice is just beautiful. It’s because she has an incredibly good ear. She can listen to somebody speak for thirty seconds and imitate their voice almost perfectly. Her ear is superb. And I think, in the same way, good aesthetics result from just your eye. An instinct of what you see, not so much what you do.
+
+SJ:  I want to build products that are inherently smaller than any of the products on the market today. And when you make things smaller, you have the ability to make them more precisely. Obviously, a perfect example of that is a watch. It’s beautiful, but the precision has to be the scale of the object itself, and so you make it very precise. And as our products get smaller, we have the opportunity to do that. So, obviously, I would like everything to be smaller.
+
+I also think that it’s really nice to be able to carry products around. Even if they’re not portable, it’s very nice to be able to have a handle on them that says, “Pick me up and move me when you want to change where I am.” Carry them from room to room, or from office to office. Lisa’s too heavy to carry from office to office, or room to room, or home on the weekends. So the question is, “How do we find a way to package that same functionality into something that we can carry around with us and that is smaller,  obviously— and be able to express the form of that more precisely?” That’s where we’re going in the future, those directions.

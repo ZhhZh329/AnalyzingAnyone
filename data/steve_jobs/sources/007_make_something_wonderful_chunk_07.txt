@@ -1,0 +1,68 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 7/32
+
+Determined to build a new great computer company, he started NeXT with several members of the Macintosh team. “We’ll make a whole bunch of mistakes, but at least they’ll be new and creative ones,” he predicted.
+
+Around the same time, Steve invested $10 million in a small company called Pixar. It was a tiny computer graphics operation, newly spun off from filmmaker George Lucas’s empire. The technical expertise at Pixar attracted Steve; its initial product was a high-end graphics computer that cost more than $100,000.
+
+Both NeXT and Pixar quickly ran into trouble. The NeXT computer system, which debuted in 1988, was powerful and packed with the humanistic touches Steve loved. It was visually striking and intuitive to use, with high-quality audio and the complete works of Shakespeare built in. But it was also late to market and  expensive— and it sold poorly. Within six years of NeXT’s launch, the entire founding team, other than Steve, had resigned.
+
+Pixar, meanwhile, was eking out an existence selling computers and software and, later, animating commercials. The company was also making award-winning short films that charmed Steve. This use of technology in service of brilliant storytelling embodied one of his favorite things: work at the intersection of technology and the liberal arts. The short films fired Steve’s enthusiasm and kept him writing check after check to Pixar, ultimately investing some $60 million.
+
+But the films were, as Steve put it, “in the background,” not the company’s focus. He described Pixar’s early business strategy as “find a way to pay the bills,” and he later speculated that the only reason the company didn’t fall apart then was that the leadership team “would all get depressed … but not all of us at once.”
+
+If at times in these years he seemed disappointed by the possibilities of  technology— “this stuff doesn’t change the world. It really doesn’t,” he told a reporter in an uncharacteristic flash of  pessimism— his world was also expanding beyond his work. He treasured his privacy, saying of his public persona, “I think of it as my well-known twin brother. It’s not me.”
+
+Steve learned how to hone a company to its essence, even when it was painful. He shifted NeXT’s focus to selling software. The shift meant closing a factory and laying off more than two hundred of NeXT’s five hundred and thirty employees. Meanwhile, Pixar stripped away its advertising and hardware businesses and entered into an agreement with Disney, all to pursue what sometimes seemed an impossible dream: to make fully computer-animated feature films.
+
+After nearly a decade of difficulty, the streamlined NeXT and Pixar both transformed into unlikely success stories. At the end of 1995, Pixar premiered Toy Story in the same month it held its initial public offering. A year later, Apple, in need of operating-system software, bought NeXT for $427 million. “If you really look closely,” Steve liked to say, “most overnight successes took a long time.”
+
+Steve on Starting NeXT
+
+A few weeks after starting NeXT, Steve spoke with  Newsweek  about the original insight for the company.
+
+I had been reading some biochemistry, recombinant DNA literature. [I had recently met] Paul Berg, the inventor of some of the recombinant techniques. I called him up, and I said, “You remember me. I’m ignorant about this stuff, but I’ve got a bunch of questions about how it works, and I’d love to have lunch with you.” So we had lunch at Stanford. He was showing me how they were doing gene repairing. Actually, it’s straightforward, it’s kind of neat. It smells a lot like some of the concepts you find in computer science. So he was explaining how he does experiments in a wet laboratory and they take a week or two or three to run. I asked him, “Why don’t you simulate these on a computer? Not only will it allow you to run your experiments faster, but someday every freshman microbiology student in the country can play with the Paul Berg recombinant software.” So his eyes lit up. And that was sort of a landmark lunch. Because that’s when I started to really think about this stuff and get my wheels turning again.
+
+On Becoming Majority Shareholder in Pixar
+
+In 1996, the year after Pixar released  Toy Story  and held its IPO, Steve looked back on the work and ideas that first drew him to the company.
+
+I met Ed Catmull, who was running the computer division of Lucasfilm, in 1985. […] I’d been involved in graphics most of my life. The Apple II, though most people don’t remember, was the first real color computer that you could get your hands on. The Macintosh, obviously, was graphics. The LaserWriter was graphics. But it was all  2-D . We’d done some  3-D  work at Apple, and I was certainly aware of the  field— but the stuff that Ed and his team were doing was way ahead of anything I’d ever seen anyone do.
+
+On Pixar’s Early Days
+
+In 2003, with Disney and Pixar deep in negotiations over the future of the studio, Steve told filmmaker Leslie Iwerks about Pixar’s start.
+
+Our strategy in the early days of Pixar was: find a way to pay the bills. In the background, we were developing animation software, and John [Lasseter] was making the succession of short films on the way to  Toy Story . But we were trying to pay the bills and just buy time. That strategy really turned out not to work. Probably if you look back in the rearview mirror, we would have been better off just funding the animation efforts and not trying to pay the bills through these other products, such as the Pixar Image Computer and software, but that was our best attempt to try to keep the company going. In the end, I just ended up writing checks to keep the company  going— and that basically went on for ten years.
+
+You could see there was magic in [a Pixar animated short film], right from the beginning. With the rest of Pixar’s technology, you had to be an expert to understand it. [… But] you didn’t have to know anything about the technology to enjoy the film. It was incredibly refreshing and really pointed the way to where we wanted to go. We didn’t want to have to convince people that our technology was  great— we knew it was great. We wanted to use our technology to make something where nobody needed to know anything about the technology to love it. And that’s what we ended up doing.
+
+Shortly before becoming the majority shareholder of Pixar.               NeXT planned to capture the education market.               NeXT’s ban on Thursday meetings was short-lived.               Reviewing a Styrofoam model of the NeXT machine, 1987.               Taking a break at a NeXT company picnic in Menlo Park.             Email to NeXT Employees
+
+“Pixar led the way!”
+
+From: Steve Jobs
+
+To: NeXT
+
+Subject: A great day and a half
+
+Date: March 30, 1989, 8:08 p.m.
+
+Well, we did it again. Congrats to all for a real TEAM effort. And, Pixar did it too.
+
+For those of you who didn’t see the Academy Awards last night, Pixar won an award in the category of short animated films: for their computer generated film Tin Toy
+
+Tin Toy is the first computer generated film to ever win an award, and was competing against several very good traditionally animated (non-computer-animated) films!
+
+The computer graphics industry just achieved a major milestone, and Pixar led the way!
+
+Speech at Reed College
+
+“Character is built not in good times, but in bad times.”
+
+When Steve welcomed the incoming class of freshmen at his alma mater, Reed College, on August 27, 1991, NeXT computers were not selling well and Pixar had just had a round of layoffs.
+
+Thank you very much for this. It means a lot to me. I’m a peculiar Reed alumnus, as many of you know. I never graduated from  Reed— although that doesn’t make me that unusual, I suppose.

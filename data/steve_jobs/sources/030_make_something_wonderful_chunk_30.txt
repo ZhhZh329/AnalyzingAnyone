@@ -1,0 +1,68 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 30/32
+
+KS:  Was important?
+
+SJ:  That’s what I see. I mean, a lot of other things you could say, but that’s the high-order bit. And I think building a company’s really hard, and it requires your greatest persuasive abilities to hire the best people you can and keep them at your company and keep them working, doing the best work of their lives, hopefully. And Bill’s been able to stay with it for all these years.
+
+Walt Mossberg:  Bill, how about the contribution of Steve and Apple?
+
+Bill Gates:  Well, first, I want to clarify: I’m not Fake Steve Jobs. What Steve’s done is quite phenomenal, and if you look back to 1977, that Apple II computer, the idea that it would be a mass-market machine, you know, the bet that was made there by Apple uniquely. There were other people with products, but the idea that this could be an incredible, empowering  phenomenon— Apple pursued that dream. Then one of the most fun things we did was [developing software for] the Macintosh, and that was so risky. People may not remember that Apple really bet the company. Lisa hadn’t done that well, and some people were saying that general approach wasn’t good, but the team that Steve built even within the company to pursue that, even some days it felt a little ahead of its time; I don’t know if you remember that Twiggy disk drive and …
+
+SJ:  128K.
+
+KS:  Oh, the Twiggy disk drive, yes.
+
+BG:  Steve gave a speech once, which is one of my favorites, where he talked about, in a certain sense, “We build the products that we want to use ourselves.” And so he’s really pursued that with incredible taste and elegance that has had a huge impact on the industry.
+
+And his ability to always come around and figure out where that next bet should be has been phenomenal. Apple literally was failing when Steve went back and reinfused the innovation and risk-taking that have been phenomenal. So the industry’s benefited immensely from his work. We’ve both been lucky to be part of it, but I’d say he’s contributed as much as anyone.
+
+SJ:  We’ve also both been incredibly lucky to have had great partners that we started the companies with, and we’ve attracted great people. I mean, so, everything that’s been done at Microsoft and at Apple has been done by just remarkable people, none of which are sitting up here today.
+
+SJ:  [When I returned to Apple,] there were too many people at Apple and in the Apple ecosystem playing the game of, for Apple to win, Microsoft has to lose. And it was clear that you didn’t have to play that game because Apple wasn’t going to beat Microsoft. Apple didn’t have to beat Microsoft. Apple had to remember who Apple was because they’d forgotten who Apple was. So, to me, it was pretty essential to break that paradigm. And it was also important that Microsoft was the biggest software developer outside of Apple developing for the Mac. So it was just crazy what was happening at that time. And Apple was very weak, and so I called Bill up and we tried to patch things up.
+
+BG:  And since that time, we’ve had a team that’s fairly dedicated to doing the Mac applications, and they’ve always been treated kind of in a unique way so that they can have a pretty special relationship with Apple. And that’s worked out very well. In fact, every couple years or so, there’s been something new that we’ve been able to do on the Mac, and it’s been a great business for us.
+
+SJ:  The relationship between the Mac development team at Microsoft and Apple is a great relationship. It’s one of our best developer relationships.
+
+KS:  And do you look at yourselves as rivals now? Today, as the landscape has  evolved— and we’ll talk about the internet landscape and everything else and other companies that have [gone]  forward— but how do you look at yourselves in this landscape today?
+
+WM:  Because, I mean, you are competitors in certain ways, which is the American way, right?
+
+KS:  We watch the commercials, right?
+
+WM:  And you get annoyed at each other from time to time.
+
+KS:  Although, you know what? I have to confess, I like PC guy.
+
+WM:  Yeah, he’s great.
+
+KS:  Yeah, I like him. The young guy, I want to pop him.
+
+SJ:  The art of those commercials is not to be mean, but it’s actually for the guys to like each other. Thanks. PC guy is great. Got a big heart.
+
+BG:  His mother loves him.
+
+SJ:  His mother loves him.
+
+SJ:  There’s a lot of things that happened that I’m sure I could have done better when I was at Apple the first time, and a lot of things that happened after I left that I thought were wrong turns, but it doesn’t matter. It really doesn’t matter, and you kind of got to let go of that stuff, and we are where we are. So we tend to look forward.
+
+And, you know, one of the things I did when I got back to Apple ten years ago was I gave the museum to Stanford, and all the papers and all the old machines, and kind of cleared out the cobwebs and said, “Let’s stop looking backwards here. It’s all about what happens tomorrow.” Because you can’t look back and say, “Well, gosh, you know, I wish I hadn’t have gotten fired, I wish I was there, I wish this, I wish that.” It doesn’t matter. And so let’s go invent tomorrow rather than worrying about what happened yesterday.
+
+KS:  We’re going to talk a little bit about tomorrow, but let’s talk about today, the landscape of how you see the different players in the market and how you look at what’s developing now. […] There are many, many companies that are becoming quite powerful. How do you look at the landscape at this moment and what’s happening, especially in the internet space?
+
+SJ:  I think it’s super healthy right now. I think there’s a lot of young people out there building some great companies, who want to build companies, who aren’t just interested in starting something and selling it to one of the big guys, but who want to build companies. And I think there’s some real exciting companies getting built out there. Some next-generation stuff that, you know, some of us play catch-up with, and some of us find ways to partner with, and things like that. But there’s a lot of activity out there now, wouldn’t you say?
+
+BG:  Yeah, I’d say it’s a healthy period. The notion of what the new form factors look like, what natural interface can do, the ability to use the cloud, the Internet, to do part of the task in a complementary way to the local experience, there’s a lot of invention that the whole approach of start-ups, the existing companies who do  research— we’ll look back at this as one of the great periods of invention.
+
+SJ:  I think so, too. There’s a lot of things that are risky right now, which is always a good sign. You can see through them, you can see to the other side and go, “Yes, this could be huge,” but there’s a period of risk that nobody’s ever done it before.
+
+KS:  Do you have an example?
+
+SJ:  I do, but I can’t say. But I can say: when you feel like that, that’s a great thing. That’s what keeps you coming to work in the morning, and it tells you there’s something exciting around the next corner.
+
+WM:  Five years from now, what’s going to be on that pocket device?
+
+SJ:  I don’t know. And the reason I don’t know is because I wouldn’t have thought that there would have been maps on it five years ago, but something comes along, gets really popular, people love it, get used to it, and you want it on there. So people are inventing things constantly, and I think the art of it is balancing what’s on there and what’s not on  there— the editing function. And clearly, most things you carry with you are communications devices. You want to do some entertainment with them as well, but they’re primarily communications devices, and that’s what they’re going to be.

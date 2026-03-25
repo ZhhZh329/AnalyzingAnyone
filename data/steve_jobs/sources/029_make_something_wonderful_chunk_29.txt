@@ -1,0 +1,54 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 29/32
+
+In 1984, we introduced the Macintosh. It didn’t just change Apple, it changed the whole computer industry. In 2001, we introduced the first iPod, and it didn’t just change the way we all listen to music, it changed the entire music industry.
+
+Well, today, we’re introducing three revolutionary products of this class.
+
+The first one is a widescreen iPod with touch controls. The second is a revolutionary mobile phone. And the third is a breakthrough internet communications device. So, three things: a widescreen iPod with touch controls; a revolutionary mobile phone; and a breakthrough internet communications device.
+
+An iPod, a phone, and an Internet communicator. An iPod, a phone … Are you getting it?
+
+These are not three separate devices; this is one device. And we are calling it iPhone.
+
+Today … today Apple is going to reinvent the phone, and here it is.  [The screen displays an iPod with a rotary phone-style dial where the click wheel would be.]
+
+No, actually, here it is.  [Slides an iPhone out of his pocket.]
+
+But we’re going to leave it there for now.  [Pockets the iPhone again.]
+
+So, before we get into it, let me talk about a category of things. The most advanced phones are called smartphones. So they say. And they typically combine a phone, plus some email capability, plus they say it’s the  internet— it’s sort of the baby  internet— into one device. And they all have these plastic little keyboards on them.
+
+And the problem is that they’re not so smart, and they’re not so easy to use. So if you kinda make a Business School 101 graph of the smart axis and the easy-to-use  axis— phones, regular cellphones, are kinda right there.  [Points to a spot indicating “not so smart, somewhat easy to use.”]  They’re not so smart, and they’re not so easy to use. Smartphones are definitely a little smarter, but they actually are harder to use. They’re really complicated. Just for the basic stuff, people have a hard time figuring out how to use them.
+
+Well, we don’t want to do either one of these things. What we want to do is make a leapfrog product that is way smarter than any mobile device has ever been and super easy to use. This is what iPhone is. OK?
+
+So we’re going to reinvent the phone. Now, we’re going to start … with a revolutionary user interface … the result of years of research and development, and, of course, it’s an interplay of hardware and software. Now, why do we need a revolutionary user interface? I mean, here’s four smartphones, right? Motorola Q, the BlackBerry, Palm Treo,  Nokia  E62 — the usual suspects. And what’s wrong with their user interfaces? Well, the problem with them is really sort of in the bottom forty [keys] there. It’s, it’s this stuff right here. They all have these keyboards that are there whether you need them or not to be there. And they all have these control buttons that are fixed in plastic and are the same for every application.
+
+Well, every application wants a slightly different user interface, a slightly optimized set of buttons, just for it. And what happens if you think of a great idea six months from now? You can’t run around and add a button to these things. They’re already shipped. So what do you do? It doesn’t work, because the buttons and the controls can’t change. They can’t change for each application, and they can’t change down the road if you think of another great idea you want to add to this product.
+
+Well, how do you solve this? Hmm. It turns out, we have solved it! We solved it in computers twenty years ago. We solved it with a bitmapped screen that could display anything we want. Put any user interface up. And a pointing device. We solved it with the mouse. Right? We solved this problem.
+
+So how are we going to take this to a mobile device? What we’re going to do is get rid of all these buttons and just make a giant screen. A giant screen. Now, how are we going to communicate with this? We don’t want to carry around a mouse, right? So what are we going to do? Oh, a stylus, right? We’re going to use a stylus. No. No. Who wants a stylus? You have to get them and put them away, and you lose them. Yuck. Nobody wants a stylus. So, let’s not use a stylus.
+
+We’re going to use the best pointing device in the world. We’re going to use a pointing device that we’re all born  with— we’re born with ten of them. We’re going to use our fingers. We’re going to touch this with our fingers. And we have invented a new technology called multitouch, which is phenomenal. It works like magic. You don’t need a stylus. It’s far more accurate than any touch display that’s ever been shipped. It ignores unintended touches, it’s super smart. You can do multi-finger gestures on it. And boy, have we patented it.
+
+So, so, we have been very lucky to have brought a few revolutionary user interfaces to the market in our time. First was the mouse. The second was the click wheel. And now we’re going to bring multitouch to the market. And each of these revolutionary user interfaces has made possible a revolutionary  product— the Mac, the iPod, and now the iPhone. So, a revolutionary user interface.
+
+We’re going to build on top of that with software. Now, software on mobile phones is like, is like baby software. It’s not so powerful. Today we are going to show you a software breakthrough. Software that’s at least five years ahead of what’s on any other phone. Now, how do we do this? Well, we start with a strong foundation: iPhone runs OS X.
+
+Now, why, why would we want to run such a sophisticated operating system on a mobile device? Well, because it’s got everything we need. It’s got multitasking. It’s got the best networking. It already knows how to power manage. We’ve been doing this on mobile computers for years. It’s got awesome security. And the right apps. It’s got everything from Cocoa and the graphics, and it’s got core animation built in, and it’s got the audio and video that OS X is famous for. It’s got all the stuff we want. And it’s built right into iPhone. And that has let us create desktop-class applications and networking, right. Not the crippled stuff that you find on most phones. This is real, desktop-class applications.
+
+Now, you know, one of the pioneers of our industry, Alan Kay, has had a lot of great quotes throughout the years. And I ran across one of them recently that explains how we look at  this— explains why we go about doing things the way we do, ’cause we love software. And here’s the quote: “People who are really serious about software should make their own hardware.” You know, Alan said this thirty years ago, and this is how we feel about it. And so we’re bringing breakthrough software to a mobile device for the first time. It’s five years ahead of anything on any other phone.
+
+“This is going to change everything,” 2007.               The day Steve introduced the iPhone, 2007.               In 2007, Apple Computer Inc. was renamed “Apple Inc.”             Interview at the All Things Digital D5 Conference
+
+“There’s something exciting around the next corner.”
+
+In a rare joint interview, Steve and Microsoft chairman Bill Gates spoke with journalists Kara Swisher and Walt Mossberg onstage in May 2007.
+
+Kara Swisher:  The first question I was interested in asking is what you think each has contributed to the computer and technology  industry— starting with you, Steve, for Bill, and vice versa.
+
+Steve Jobs:  Well, Bill built the first software company in the industry. And I think he built the first software company before anybody really in our industry knew what a software company was, except for these guys. And that was huge. That was really huge. And the business model that they ended up pursuing turned out to be the one that worked really well for the industry. I think the biggest thing was, Bill was really focused on software before almost anybody else had a clue that it was really the  software that—

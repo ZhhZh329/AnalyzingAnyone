@@ -1,0 +1,234 @@
+{
+  "discipline": "sociology",
+  "anchored_constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper: creates fundamentally new structures rather than operating within or responding to existing ones",
+      "finding": "Musk consistently chooses to build parallel systems rather than work within established institutions. SpaceX was created because he calculated rockets could be built for 10% of prevailing costs, fundamentally disrupting the aerospace field. He founded Tesla rather than join existing automakers. His stated mission is 'making humanity multi-planetary' — literally creating new structural possibilities for the species. The 2016 Mars colonization presentation explicitly framed this as 'history bifurcating' along two paths, positioning himself as the architect of the alternative path. This represents maximal agency orientation: not optimizing within constraints but redefining the constraint space itself.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_013",
+        "ev_031",
+        "ev_032"
+      ],
+      "lens_notes": [
+        {
+          "lens": "field_theory",
+          "note": "In Bourdieu's terms, Musk operates as a field-dominator rather than field-player — he redefines the logic of the game rather than competing within established rules"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First principles reasoning: derives conclusions from fundamental physics-style deduction rather than analogical or institutional reasoning",
+      "finding": "Musk explicitly articulates 'reasoning from first principles rather than by analogy' as his cognitive framework (ev_034). He describes this as learning from physics — tracing any problem back to fundamental truths and reasoning up from there. The existential crisis at ages 12-15, triggered by philosophy and Douglas Adams' Hitchhiker's Guide, led him to conclude that 'the real challenge is figuring out what questions to ask' (ev_005). This manifests operationally in his five-step engineering algorithm: question every requirement (trace to a person, not a department), delete what can be deleted, simplify, accelerate, then automate (ev_023). The epistemic style rejects institutional authority as a source of truth — he directly challenges NASA cost structures, automotive safety assumptions, and AI development trajectories.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_005",
+        "ev_023",
+        "ev_024",
+        "ev_035"
+      ],
+      "lens_notes": [
+        {
+          "lens": "cognitive_sociology",
+          "note": "This epistemic style functions as a form of epistemic injustice — dismissing accumulated institutional knowledge as 'analogies' that can be bypassed"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization: applies systematic, algorithmic frameworks to complex human systems",
+      "finding": "Musk imposes explicit algorithmic processes on organizational operations. The five-step 'algorithm' for problem-solving is explicitly formalized: (1) question every requirement, (2) delete unnecessary elements (if not adding back 10% of what deleted, not deleting enough), (3) simplify and optimize ONLY after deletion, (4) accelerate cycle time, (5) automate as LAST step (ev_023, ev_024). His response to Twitter acquisition was to immediately lay off 80% of the workforce and send an ultimatum requiring 'extremely hardcore' commitment or severance (ev_026, ev_027). The Hyperloop white paper was published as a 57-page technical document, and Neuralink applies neuroscience to engineering specifications. He treats organizational design as a formal system to be optimized, not a social entity to be evolved.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_024",
+        "ev_026",
+        "ev_027",
+        "ev_062"
+      ],
+      "lens_notes": [
+        {
+          "lens": "institutionalism",
+          "note": "This represents a particular institutionalism — formal rules over organic social processes, consistent with technocratic governance model"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Maximum control: seeks direct operational control over organizations, technologies, and increasingly, political systems",
+      "finding": "Musk's control orientation has escalated from company-level to system-level. At Twitter, he immediately fired approximately 80% of the workforce, eliminating most middle management and sending an ultimatum to remaining employees requiring 'extremely hardcore' commitment or leaving with severance (ev_026, ev_027). Former employees describe him berating and firing engineers on the spot for disagreement, sometimes rehiring them days later (ev_041). At Tesla, despite warnings from engineers about 'lives at risk,' he insisted on 'Autopilot' and 'Full Self-Driving' naming, leading to resignations (ev_042). His role in DOGE in 2025 was ruled by a federal judge to have acted as 'de facto leader' (ev_055), applying corporate restructuring logic to federal government. The progression from controlling companies to controlling a major social media platform to controlling government operations represents expanding control orientation across systems.",
+      "evidence_ids": [
+        "ev_026",
+        "ev_027",
+        "ev_041",
+        "ev_042",
+        "ev_055"
+      ],
+      "lens_notes": [
+        {
+          "lens": "field_theory",
+          "note": "Control extends across fields — tech, media, government — consistent with accumulation of capital (including social and political capital) that allows field-hopping"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Extreme mission prioritization: accepts maximum relational costs in service of goals",
+      "finding": "Musk systematically prioritizes mission objectives over relational comfort, accepting severe social costs. After his first child died at 10 weeks from sudden infant death syndrome in 2002, he returned to work almost immediately, telling a colleague 'I'm not sure what sitting around being sad is going to do' (ev_051). During the Model 3 production crisis in 2018, he worked 120-hour weeks, slept on the factory floor, and stated 'if the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_018). At the 2023 DealBook Summit, he told advertisers 'Go fuck yourself' — explicitly choosing conflict over revenue (ev_028). His political transformation — from moderate Democrat to largest individual political donor in U.S. history at $288 million — involved explicitly stating 'I didn't leave the Democrats. The Democrats left me' (ev_056). The pattern is consistent: mission requires breaking existing relationships, and he breaks them rather than compromise the mission.",
+      "evidence_ids": [
+        "ev_051",
+        "ev_018",
+        "ev_028",
+        "ev_056"
+      ],
+      "lens_notes": [
+        {
+          "lens": "role_theory",
+          "note": "This represents a particular role exit pattern — rather than role transition smoothing, he burns bridges and reconstructs role-sets entirely"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk tolerance: accepts near-certain personal loss as acceptable cost for low-probability high-impact outcomes",
+      "finding": "Musk articulates and enacts extreme risk tolerance as a core operating principle. For SpaceX, he stated 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_013). He describes entrepreneurship as 'staring into the abyss and eating glass' (ev_43). When asked about commitment, he reportedly said 'I'd rather commit seppuku than fail' (ev_044), and asserts 'I don't ever give up. I'd have to be dead or completely incapacitated' (ev_045). During the 2008 crisis, he had to borrow money from friends for rent while NASA's contract arrived two days before Christmas (ev_016). The fourth Falcon 1 launch in September 2008 was the final attempt with no remaining capital — it succeeded or everything ended. He frames risk as existential: Mars colonization has 'high risk of fatality' and he asks 'Are you prepared to die?' (ev_033). This is not risk management but risk embrace as identity.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_043",
+        "ev_044",
+        "ev_045",
+        "ev_016",
+        "ev_033"
+      ],
+      "lens_notes": [
+        {
+          "lens": "sociology_of_risk",
+          "note": "Musk constructs risk as moral test — willingness to accept personal destruction distinguishes the committed from the half-hearted"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical bypassing: uses accumulated power to bypass or restructure existing hierarchies rather than climbing them",
+      "finding": "Musk's relationship to hierarchy is characterized by bypassing rather than climbing. After being ousted as CEO of PayPal during his honeymoon (ev_010), he used his remaining shareholder position to remain the largest shareholder. Rather than working through governmental or aerospace hierarchies, he built SpaceX to compete with established players. Twitter acquisition allowed him to bypass traditional editorial hierarchies. In 2025, he was designated a 'special government employee' leading DOGE, applying corporate restructuring logic to federal government (ev_053). A federal judge ruled he acted as 'de facto leader' — operating outside formal governmental hierarchy while directing it (ev_055). His political donations at $288 million made him the largest individual donor in U.S. history (ev_057), enabling direct political influence that bypasses traditional party structures. He builds parallel power structures rather than operating within existing ones.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_053",
+        "ev_055",
+        "ev_057"
+      ],
+      "lens_notes": [
+        {
+          "lens": "power_elite_theory",
+          "note": "Musk represents a new form of power elite — not a corporate executive within the system but a parallel power structure that the system increasingly accommodates"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct escalation: confronts openly, accepts conflict as necessary cost, does not suppress or negotiate strategically",
+      "finding": "Musk's conflict strategy is consistently direct escalation rather than suppression, negotiation, or delay. When ousted as CEO of PayPal, his response was 'That's the problem with vacations' (ev_010) — framing the conflict as joke rather than grievance. At the 2023 DealBook Summit, he told advertisers considering boycotting 'Go fuck yourself. Is that clear? I hope it is' (ev_028). This caused further advertiser exodus but he did not back down. The SEC fraud case over 'funding secured' tweets resulted in a legal battle, not negotiation (ev_021, ev_022). Tesla engineers warned about 'lives at risk' with Autopilot naming — he proceeded anyway, and several engineers resigned in 2017 (ev_042). The pattern is consistent: he identifies the conflict, articulates his position directly and provocatively, and accepts the costs. He does not split, translate, or delay — he escalates and accepts outcomes.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_028",
+        "ev_021",
+        "ev_042"
+      ],
+      "lens_notes": [
+        {
+          "lens": "dramaturgical_analysis",
+          "note": "This conflict strategy is itself a form of identity performance — the willingness to conflict publicly signals authenticity and toughness to audiences"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale: optimizes for multi-generational, species-level outcomes rather than short or conventional long-term horizons",
+      "finding": "Musk operates on mission-scale time horizons measured in decades to centuries. The Mars colonization plan explicitly frames 'history bifurcating' and describes a multi-generational project to make humanity 'multi-planetary' (ev_031). The target cost for Mars transport is 'roughly equivalent to the median house price in the US — around $200,000' (ev_032) — a price point implying mass adoption, not elite expedition. The first Mars journeys 'will be very dangerous' with 'quite high' fatality risk, and he asks 'Are you prepared to die?' (ev_033) — this is not short-term optimization. Neuralink is framed as addressing AI existential risk — a century-scale concern (ev_047). The Hyperloop was published as open-source with 'I just wanted to show it was possible' (ev_061) — an idea that may take decades to implement. His stated 'duty to maintain the light of consciousness' (ev_037) is explicitly species-level. Even his political involvement frames outcomes in terms of civilization's direction.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_032",
+        "ev_033",
+        "ev_047",
+        "ev_061",
+        "ev_037"
+      ],
+      "lens_notes": [
+        {
+          "lens": "sociology_of_the_future",
+          "note": "Musk practices a particular sociology of the future — he constructs and optimizes for specific imagined futures as if they are inevitable or achievable"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign: prefers complete system redesign over incremental improvement or local repair",
+      "finding": "Musk consistently chooses structural redesign over local repair. The five-step algorithm explicitly prioritizes deletion: 'delete any part or process you can — if you're not adding back at least 10% of what you delete, you're not deleting enough' (ev_023). The famous admission 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_020) came from Model 3 production crisis — he over-automated and had to revert to human-intensive production, but this was still an attempt at radical redesign rather than incremental improvement. Twitter was acquired and 80% of workforce laid off within days — complete restructuring rather than gradual change (ev_026). SpaceX was founded as vertical integration from scratch rather than improving existing launch systems. The Hyperloop was published as open-source rather than built incrementally. His statement 'The most common error is to optimize something that shouldn't exist' (ev_024) explicitly positions optimization as secondary to deletion — first determine if the system should exist, then optimize it.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_024",
+        "ev_020",
+        "ev_026",
+        "ev_062"
+      ],
+      "lens_notes": [
+        {
+          "lens": "institutionalism",
+          "note": "This represents 'institutional destruction' rather than 'institutional change' — the complete replacement of existing institutional forms"
+        }
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "spectacular_identity_performance",
+      "definition": "Musk constructs his public identity through deliberate spectacle — controversial statements, dramatic gestures, and public conflicts that function as continuous performance distinguishing him from conventional institutional actors",
+      "finding": "Musk's public identity is characterized by systematic spectacular performance rather than traditional reputation management. His tweet 'Am considering taking Tesla private at $420. Funding secured' (ev_021) was not a normal corporate communication — the specific number and the controversy it generated was performative. The 'Starman' image of a car drifting through space was described by Musk as 'I love the thought of a car drifting apparently endlessly through space and perhaps being discovered by an alien race millions of years in the future' (ev_030) — this is myth-making as identity performance. Selling 20,000 flamethrowers for The Boring Company was described by Musk as 'obviously a terrible idea' (ev_049) — deliberately provocative spectacle. The DealBook Summit confrontation with advertisers was explicit performance of defiance. Even his 2023 interview response 'There are many nights I sleep alone' when asked if happy (ev_050) is a form of vulnerability performance that distinguishes him from corporate leaders. He does not manage reputation through traditional PR — he performs spectacular identity that generates attention and distinguishes him from institutional actors.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_030",
+        "ev_049",
+        "ev_028",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "institutional_parallelism",
+      "definition": "Rather than working within existing institutions, Musk builds parallel institutions — new companies, new platforms, new funding mechanisms — that can replace rather than reform existing systems",
+      "finding": "Musk's career shows consistent institutional parallelism — building parallel systems rather than reforming existing ones. Rather than work within NASA, he built SpaceX to replace NASA launch capabilities. Rather than work within traditional automotive, he built Tesla as a new category. Rather than work within existing social media, he bought Twitter. Rather than work within existing AI development, he co-founded OpenAI and Neuralink as parallel tracks. Rather than work within existing transportation infrastructure, he proposed Hyperloop and built The Boring Company. In 2025, DOGE represented building a parallel government restructuring operation alongside existing government agencies. This is not reformist — it is replacementist. The pattern suggests a sociology of institutions that treats existing institutions as fundamentally unreformable, requiring replacement rather than modification. This represents a particular theory of change: structural redesign over institutional reform.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_025",
+        "ev_029",
+        "ev_031",
+        "ev_053"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "network_position_as_decision_boundary",
+      "definition": "Musk's network position — bridging tech, finance, media, and political systems — creates decision boundaries that allow actions unavailable to actors embedded in single institutional fields",
+      "finding": "Musk occupies a unique network position that creates decision boundaries unavailable to conventional actors. He bridges technology (SpaceX, Tesla, Neuralink), finance (early PayPal exits, political donations), media (Twitter/X), and political systems (DOGE, political donations). This network position allows him to make decisions that cross institutional boundaries — funding political campaigns while owning the media platform used in campaigns, running government restructuring while owning the social media infrastructure that covers it. His ability to send Starlink to Ukraine within days of the Russian invasion (ev_059) reflects a network position that can mobilize resources faster than governments. His ability to influence elections through $288 million in donations (ev_057) reflects cross-field positioning. The network position means his decisions create constraints for other actors — he affects what is possible in multiple fields simultaneously. This creates a form of structural power through network position rather than hierarchical authority.",
+      "evidence_ids": [
+        "ev_057",
+        "ev_059",
+        "ev_055",
+        "ev_053"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

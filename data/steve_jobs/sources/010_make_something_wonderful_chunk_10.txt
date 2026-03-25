@@ -1,0 +1,50 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 10/32
+
+SJ:  Oh, of course. That was a very painful time, but you just march forward, and you try to learn from it. One of the things I always tried to coach myself on was not being afraid to fail. When you have something that doesn’t work out, a lot of times, people’s reaction is to get very protective about never wanting to fall on their face again. I think that’s a big mistake, because you never achieve what you want without falling on your face a few times in the process of getting there. I’ve tried to not be afraid to fail, and, matter of fact, I’ve failed quite a bit since leaving Apple.
+
+TG:  Are you surprised at the problems Apple is having now, or did you see that coming?
+
+SJ:  I try not to talk about Apple too much. What I will say is that the day I left Apple, we had a ten-year lead over Microsoft. In the technology business, a ten-year lead is really hard to come by. It happens, maybe a company has that once every few decades, whether it be Xerox or IBM with mainframes. Apple had that with the graphical user interface. The problem at Apple was that they stopped innovating. If you look at the Mac that ships today, it’s 25 percent different than the day I left, and that’s not enough for ten years and billions of dollars in R&D.
+
+It wasn’t that Microsoft was so brilliant or clever in copying the Mac. It’s that the Mac was a sitting duck for ten years. That’s Apple’s problem, is that their differentiation evaporated. Unlike Compaq, or others who play in the Intel-Microsoft standard space, where they only … Compaq only has to be 5 percent better than its competitors for everyone to want to buy their computers.
+
+Apple has to be 50 percent or 100 percent better, because when you buy something that is out of the mainstream a little bit, you take a risk, and you want a much bigger reward for taking that risk. […] That differentiation has not completely evaporated, but for the most part it has. That’s the predicament Apple’s in now. That’s why cost-cutting and other things at Apple are not going to be the cure. The cure for Apple is to innovate its way out of its current predicament. There’s a lot of good people left at Apple that are capable of doing that with the proper leadership, which is what’s been missing.
+
+TG:  Some Mac users are afraid that the Mac operating system is in danger of becoming obsolete in the way that Beta video became obsolete because it was outdone by VHS. What do you think?
+
+SJ:  I think with the appropriate leadership at Apple, that’s not going to happen, but I think we have to wait and see.
+
+TG:  Do you care? How still involved, invested, do you feel in the future of Apple, the company you co-created?
+
+SJ:  I’m happy every time a Mac gets shipped. I still have people sending me emails, telling me how much they love their Macs. It’s sort of … how do you explain it? It’s like the first person you were ever in love with. You know? It’s like your first love, and there will never be another one like it. In my case, we were together for ten years, and that’s a long time. But if you move on in your life, you can’t always stay in love with your first girlfriend. Right?
+
+TG:  What do you think the state of the computer would be if it weren’t for Apple? This is a chance, I guess, for a really self-serving answer. But, I mean, I’m really curious what you think.
+
+SJ:  I usually believe that if one group of people didn’t do something, within a certain number of years, the times would produce another group of people that would accomplish similar things. We happened to be at the right place, at exactly the right time, with the right group of people. We did some wonderful work. I’m extraordinarily proud of the work that the team at Apple did when I was there. I think that, personally, our major contribution was a little different than some people might think. I think our major contribution was in bringing a liberal arts point of view to the use of computers.
+
+TG:  Yeah, explain what you mean by that.
+
+SJ:  What I mean by that is that if you really look at the ease of use of the Macintosh, the driving motivation behind that was to  bring— not only ease of use to people so that many, many more people could use computers for nontraditional things at that  time— but it was to bring beautiful fonts and typography to people. It was to bring graphics to people, not for plotting laminar flow calculations, but so that they could see beautiful photographs, or pictures, or artwork, et cetera, to help them communicate what they were doing, potentially. Our goal was to bring a liberal arts perspective and a liberal arts audience to what had traditionally been a very geeky technology and a very geeky audience.
+
+TG:  What made you think that that more liberal arts direction was the direction to head in?
+
+SJ:  Because in my perspective, and the way I was raised, was that science and computer science is a liberal art. It’s something that everyone should know how to use, at least, and harness in their life. It’s not something that should be relegated to 5 percent of the population over in the corner. It’s something that everybody should be exposed to, everyone should have a mastery of, to some extent, and that’s how we viewed computation, or these computation devices.
+
+TG:  And you think that concept really caught on in the whole industry, eventually?
+
+SJ:  That’s the seed of Apple: computers for the rest of us. I think the liberal arts point of view still lives at Apple. I’m not so sure that it lives that many other places. I mean, one of the reasons I think Microsoft took ten years to copy the Mac was because they didn’t really get it at its core.
+
+TG:  Do you think the PC, as we know it, is on the road of changing?
+
+SJ:  That’s a really big question. I think the PC as we know it is going to be around for quite some time, but the heart of the question is, are we entering a time window where we might see the first successful post-PC devices? Personal digital assistants, or PDAs, attempted to be that and failed.
+
+The next attempt, I think, is going to be these very low-cost consumer internet appliances. Can somebody make a three-hundred-dollar box that hooks up to your television on one side and maybe hooks up to ISDN or a cable modem on the other side and allows you for, three hundred dollars, to have a web browser on your TV and to access the entire internet? I think that’s entirely possible, and I think that we’re going to see those devices soon, hopefully some innovative marketing and distribution techniques surrounding those devices so that a lot of people can all of a sudden have an internet browser in their living room. I think that’s going to be very exciting, and I think that could be the beginning of the first real post-PC market.
+
+TG:  I know at Apple there was, at least early on, a very informal, non-corporate type of atmosphere. I wonder if there are any lessons you learned about what worked and didn’t work in the corporate lifestyle at Apple that you’ve applied to your current companies, NeXT and Pixar.
+
+SJ:  Well, I don’t know what a corporate lifestyle is. I mean, Apple was a corporation; we were very conscious of that. We were very driven to make money so that we could continue to invest in the things we loved. I would say Apple was a corporate lifestyle, but it had a few very big differences to other corporate lifestyles that I’d seen. The first one was a real belief that there wasn’t a hierarchy of ideas that mapped onto the hierarchy of the organization. In other words, great ideas could come from anywhere and that we better sort of treat people in a much more egalitarian sense, in terms of where the ideas came from.
+
+And Apple was a very bottoms-up company when it came to a lot of its great ideas. And we hired truly great people and gave them the room to do great work. A lot of  companies— I know it sounds  crazy— but a lot of companies don’t do that. They hire people to tell them what to do. We hired people to tell us what to do. We figured we’re paying them all this money, their job is to figure out what to do and tell us. And that led to a very different corporate culture, and one that’s really much more collegial than hierarchical.

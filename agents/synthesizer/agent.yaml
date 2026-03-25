@@ -1,0 +1,5 @@
+name: synthesizer
+display_name: "综合分析师 Synthesizer"
+role: synthesize
+prompt: prompt.md
+max_tokens: 16000

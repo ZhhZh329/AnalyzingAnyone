@@ -1,0 +1,126 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 31/32
+
+KS:  Steve? I know you’re working on something, it’s going to be beautiful; we’ll see it soon.
+
+WM:  And you can’t talk about it.
+
+SJ:  Yeah.
+
+WM:  Bill discusses all his secret plans. You don’t discuss any.
+
+SJ:  I know, it’s not fair. But I think the question is a very simple one, which is how much of the really revolutionary things people are going to do in the next five years are done on the PCs, or how much of it is really focused on the post-PC devices? And there’s a real temptation to focus it on the post-PC devices because it’s a clean slate, and because they’re more focused devices, and because they don’t have the legacy of these zillions of apps that have to run in zillions of markets.
+
+And so I think there’s going to be tremendous revolution, you know, in the experiences of the post-PC devices. Now, the question is how much to do in the PCs. And I  think— I’m sure Microsoft  is— we’re working on some really cool stuff, but some of it has to be tempered a little bit because you do have, you know, these tens of millions in our case, or hundreds of millions in Bill’s case, users that are familiar with something. You know, they don’t want a car with six wheels. They like the car with four wheels. They don’t want to drive with a joystick. They like the steering wheel.
+
+And so, as Bill was saying, in some cases you have to augment what exists there, and in some cases you can replace things. But I think the radical rethinking of things is going to happen in a lot of these post-PC devices.
+
+KS:  What’s the greatest misunderstanding in your relationship and about each other? What would you say would  be— this idea of catfight? Which one of the many?
+
+SJ:  We’ve kept our marriage secret for over a decade now.
+
+KS:  Canada. That trip to Canada.
+
+[Audience laughs and applauds.]
+
+BG:  I don’t think either of us have anything to complain about, in general. And I know that the projects, like the Mac project, was just an incredible thing, a fun thing where we were taking a risk. We did look a lot younger in that video.
+
+SJ:  We did.
+
+KS:  You looked twelve in the first one.
+
+BG:  That’s how I try and look.
+
+SJ:  He was twelve.
+
+BG:  But no, it’s been fun to work together. I actually kind of miss some of the people who aren’t around anymore. You know, people come and go in this industry. It’s nice when somebody sticks around, and they have some context of all the things that have worked and not worked. The industry gets all crazy about some new thing, you know. There’s always this paradigm of “the company that’s successful is going to go away” and stuff like that. It’s nice to have people seeing the waves and waves of that and yet, when it counted, to take the risk to bring in something new.
+
+WM:  One last question and then we’ll go to the audience.
+
+KS:  Oh, no, he didn’t answer us.
+
+WM:  Sorry, what?
+
+SJ:  I haven’t answered.
+
+WM:  Oh, I’m sorry.
+
+KS:  He only talked about his secret gay marriage, so …
+
+WM:  Oh, I thought that was your answer.
+
+SJ:  No, that wasn’t my answer. You know, when Bill and I first met each other and worked together in the early days, generally, we were both the youngest guys in the room, right? Individually or together. I’m about six months older than he is, but roughly the same age. And now, when we’re working at our respective companies, I don’t know about you, but I’m the oldest guy in the room most of the time. And that’s why I love being here.
+
+WM:  Happy to oblige. Happy to oblige.
+
+SJ:  And, you know, I think of most things in life as either a Bob Dylan or a Beatles song, but there’s that one line in that one Beatles song, “You and I have memories longer than the road that stretches out ahead.” And that’s clearly true here.
+
+Email Exchange with Art Levinson
+
+“Sic Transit Gloria.”
+
+In November 2007,  Fortune  named Steve “CEO of the Decade.” Art Levinson, the CEO of Genentech and chair of Apple’s board, sent a congratulatory note.
+
+From: Art Levinson
+
+To: Steve Jobs
+
+Subject: Fortune
+
+Date: November 27, 2007, 11:26 a.m.
+
+The “Beethoven of business” - not sure it gets any better than that.
+
+Congratulations!
+
+From: Steve Jobs
+
+To: Art Levinson
+
+Subject: Re: Fortune
+
+Date: November 27, 2007, 12:43 p.m.
+
+Sic Transit Gloria . (All glory is fleeting.)
+
+Steve
+
+Speech to the Press
+
+“Five months ago, I had a liver transplant.”
+
+Steve spoke to the press at a music and media event on September 9, 2009.
+
+Good morning. Thank you very much. Thank you. Thank you.  [Sustained audience applause.]  Thanks. I know. I’m very happy to be here today with you all.
+
+As some of you may know, about five months ago, I had a liver transplant. So I now have the liver of a mid-twenties person who died in a car crash and was generous enough to donate their organs. And I wouldn’t be here without such generosity. So I hope all of us can be as generous and elect to become organ donors.
+
+I’d like to take a moment and thank everybody in the Apple community for the heartfelt support I got, too. It really meant a lot. And I’d also like to especially thank Tim Cook and the entire executive team of Apple. They really rose to the occasion and ran the company very ably in that difficult period. So thank you, guys.
+
+Let’s give them a round of applause.
+
+So I’m vertical. I’m back at Apple, loving every day of it. And I’m getting to work with our incredibly talented teams to come up with some great new products for you all in the future.
+
+So it’s, it’s  wonderful— and thank you. So today, we get to talk about music …
+
+Thinking through the Apple Park design, 2010.             Steve on the iPad
+
+A week after the introduction of the iPad in 2010, Steve held a meeting for employees in Apple’s “Town Hall.” He reflected on what made the  device— and the  company— special to him.
+
+The great thing about what we do is we approach it  like— like Pixar approaches their movies. I know that sounds funny, but I will explain.
+
+Pixar doesn’t make kids’ films. Walt Disney’s definition of family entertainment was it’s entertaining to every member of the family: kids, the teens, the adults. That’s what Pixar’s always tried to do. There’s a lot of layers in one of their films if you’ve seen them, and they’re really fun for kids, but they’re also incredibly great films for adults, if you’ve seen  Ratatouille  or  Up  or  Finding  Nemo  —or any one of their films.
+
+And when we sit down to design products [at Apple], we don’t think, “Oh, well, our target audience is fifteen to twenty-nine, male.” We don’t think that way. We think about making a great product for just about everybody. And the beauty of the products we make is they can be tailored with software to do almost anything.
+
+So we weren’t thinking, in the iPad, of any specific audience, but we’re thinking about everybody.
+
+We don’t have to go home at night and tell our kids when they say, “Well, what do you do? What did you do today?” “Well, I worked on our next-generation server, you know, that’ll be powering something or other.” We can say, “I worked on our next-generation iPad. You know, the ones that you use in school.”
+
+And that’s a really wonderful thing.
+
+Speech at the Lucile Packard Children’s Hospital at Stanford
+
+“One simple question.”

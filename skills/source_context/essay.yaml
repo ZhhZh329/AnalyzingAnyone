@@ -1,0 +1,15 @@
+name: essay
+display_name: "Essay or long-form personal writing"
+credibility_notes: |
+  Essays are among the cleanest windows into a person's reasoning process.
+  They are usually written slowly, edited deliberately, and meant to express a
+  stable idea rather than an immediate reaction.
+  Key considerations:
+  - Strong signal for worldview, values, and intellectual habits
+  - More polished than spontaneous speech, so less useful for emotional state
+  - Recurrent themes across essays are highly diagnostic
+  - The examples and analogies they choose reveal how they structure thought
+  - Polemical essays may overstate contrast for rhetorical effect
+weight_guidance: |
+  High reliability for epistemic style, value hierarchy, and abstraction level.
+  Lower reliability for interpersonal behavior or real-time decision making.

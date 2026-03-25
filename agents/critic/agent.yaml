@@ -1,0 +1,5 @@
+name: critic
+display_name: "批判审计师 Critic"
+role: critique
+prompt: prompt.md
+max_tokens: 16000

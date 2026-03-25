@@ -1,0 +1,33 @@
+# 注意力与工作记忆分析框架（Attention & Working Memory）
+
+## 1. 核心理论框架
+
+注意力（attention）是认知资源分配的门控机制，决定哪些信息进入意识加工通道。工作记忆（working memory, WM）是对信息进行短暂保持与主动操作的有限容量系统。两者深度交互：注意力决定WM的输入质量，WM内容反过来引导注意力分配。分析目标人物的注意力模式与WM策略可揭示其信息处理架构的根本特征。
+
+## 2. 锚点人物与流派
+
+- **Michael Posner**：注意力网络理论（attention networks）——三大子系统：警觉网络（alerting，维持警醒状态）、定向网络（orienting，选择性指向信息源）、执行控制网络（executive，解决冲突与抑制）。分析目标人物在三个网络上的效率差异。
+- **Baddeley**：工作记忆模型——语音回路（phonological loop）处理言语信息、视空间画板（visuospatial sketchpad）处理空间与视觉信息、中央执行系统（central executive）协调控制、情景缓冲器（episodic buffer）整合多模态信息。关注目标人物偏好的WM子系统。
+- **Cowan**：嵌入过程模型（embedded-processes model）——WM是长时记忆中被激活的子集，注意焦点（focus of attention）容量约为4个组块（chunks）。强调WM容量的核心限制及其对推理能力的约束。
+
+## 3. 分析方法论
+
+观察目标人物的信息处理行为：（1）注意力分配策略——专注型（sustained）vs分散型（divided）vs扫描型（scanning），在信息过载时的过滤策略；（2）认知负荷管理（cognitive load management）——是否主动使用外部化工具（笔记、图表）扩展WM；（3）注意力恢复模式——疲劳后的恢复策略与速度；（4）信息组块化（chunking）能力——能否将零散信息整合为有意义的高阶单元。
+
+## 4. Construct 分析指南
+
+- **agency_orientation**：注意力的主动控制能力——是自主导向注意力还是被环境刺激牵引。
+- **epistemic_style**：WM偏好模态（言语vs视空间）影响认知风格——偏言语者更分析化，偏视空间者更直觉化。
+- **abstraction_formalization**：WM容量限制抽象层级深度——组块化策略间接反映抽象能力。
+- **control_orientation**：注意力控制的紧/松程度——过度聚焦（tunnel vision）vs过度分散（scattered）。
+- **mission_vs_relational_cost**：深度专注时是否忽略社交信号，注意力分配中的任务vs人际权重。
+- **risk_posture**：警觉网络（alerting）效率影响对威胁和机会的感知速度。
+- **relation_to_hierarchy_power**：注意力分配透露真实优先级——观察其在会议中关注谁的发言。
+- **conflict_strategy**：执行控制网络效率决定冲突情境中的信息整合质量。
+- **time_horizon**：持续注意力（sustained attention）的耐久性与长期目标追踪能力正相关。
+- **rebuild_over_patch**：WM更新效率影响能否及时放弃旧方案接受新框架。
+- **metacognition**：元注意（meta-attention）——对自身注意力状态的监控——是元认知的基础形式。此人是否能觉察到自己何时走神、工作记忆何时超载，并据此主动调整信息加工策略？
+
+## 5. 典型发现模式
+
+高WM容量个体：能同时追踪多条论证线索、在复杂对话中维持上下文连贯性、善于发现表面无关信息间的隐藏联系。注意力模式特征：深度专注者在单一领域产出卓越但可能错失跨域机会，广泛扫描者创意丰富但可能缺乏深度。关键观察：目标人物是否发展出有效的外部认知支架（external cognitive scaffolding）来补偿WM限制。

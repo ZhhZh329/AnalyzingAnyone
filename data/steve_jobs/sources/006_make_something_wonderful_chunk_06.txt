@@ -1,0 +1,80 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 6/32
+
+MM:  What are the uglier, offensive designs of products, or are there just too many to list?
+
+SJ:   Yeah— pick any car before three years ago, you know? Pick most cars today. Anything. Just look around the room. Tables, chairs: all ugly. You can ask me, what am I doing in this office? But anyway, most things are not very nice.
+
+The telephone’s a perfect example. The only telephone that’s ever been any good is the original one and the Trimline. The Trimline is the only decent one. What they’ve done to the new stuff is just garbage.
+
+SJ:  [At Apple] we’re just getting simpler and simpler and simpler. Very, very simple. Simple.
+
+SJ:  Have you ever seen HP’s buildings over on Page Mill Road, the original ones? They’re really neat. They’ve got these scalloped roofs, and they face the glass north, and you can actually put solar collectors on them, if you wanted to. They stick out. In a building, they make a whole glass wall. And so people work down there, and they get tons of natural light coming in. Just tons.
+
+The problem with these buildings [at Apple] is there’s no light. I mean, you spend five minutes outside, and you walk in here, it’s really dark, and you can’t see anything. And we’re all sort of like living in these little tiny caverns.
+
+I just want a ton of natural light.
+
+MM:  Was all the stuff about Big Brother [in the “1984” commercial] very conscious of the IBM stuff, or was that something that outsiders quickly interpreted, and you guys weren’t exactly  going to—
+
+SJ:  Deny it?
+
+MM:  Deny it.
+
+SJ:  Well, the best response to that was the response given, I think, in  Fortune , which was, “If seeing Big Brother in 1984 connotes IBM to a large number of people, that says more about IBM’s image problem than our intentions.”
+
+In truth: of course, we saw the analogy. And I think that we were saying two things. I think the first thing we were saying was, this image of computers as sort of a centralized group of people having control of very powerful machines to keep track of us, that iconic fear in our  minds— we were commenting on that cultural fear that we have.
+
+And of course, one  couldn’t— you’d have to be an idiot not to see the parallels to IBM.
+
+Under his double-breasted suit coat, Steve wore jeans.             Interview with  Newsweek
+
+“I want to build things.”
+
+Steve left Apple in September 1985, after losing a power struggle with CEO John Sculley. The departure was officially a resignation, but Steve considered it a betrayal. A few weeks later, he spoke to  Newsweek .
+
+Newsweek:  How did you react when you heard the [Apple] board’s decision [to sue you]? These were people that you knew and worked with for a long time.
+
+Steve Jobs:  Oh, yeah. I mean, in my wildest imagination, I couldn’t have come up with such a wild ending to all of this. I had hoped that my life would take on the quality of an interesting tapestry where I would have weaved in and out of Apple: I would have been there a period of time, and maybe I would have gone off and done something else to contribute, but connected with Apple, and then maybe come back and stay for a lengthy time period, and then go off and do something else. But it’s just not going to work out that way. So I had ten of the best years of my life, you know. And I don’t regret much of anything.
+
+I personally, man, I want to build things. I’m thirty. I’m not ready to be an industry pundit. I got three offers to be a professor during this summer, and I told all of the universities that I thought I would be an awful professor. What I’m best at doing is finding a group of talented people and making things with them. I respect the direction that Apple is going in. But for me personally, you know, I want to make things. And if there’s no place for me to make things there, then I’ll do what I did twice before. I’ll make my own place. You know, I did it in the garage when Apple started, and I did it in the metaphorical garage when Mac started.
+
+SJ:  Though the outside world looks at success from a numerical point of view, my yardstick might be quite different than that. My yardstick may be how every computer that’s designed from here on out will have to be at least as good as a Macintosh.
+
+SJ:  I used to go into work, I’d get there, and I would have one or two phone calls to perform, a little bit of mail to look at.  But— this was in June,  July— most of the corporate management reports stopped flowing by my desk. A few people might see my car in the parking lot and come over and commiserate.
+
+And I would get depressed and go home in three or four hours, really depressed. I did that a few times, and I decided that was mentally unhealthy. So I just stopped going in. You know, there was nobody really there to miss me.
+
+Q:  Do you feel that they have taken your company away from you?
+
+SJ:  To me, Apple exists in the spirit of the people that work there, and the sort of philosophies and purpose by which they go about their business. So if Apple just becomes a place where computers are a commodity item and where the romance is gone, and where people forget that computers are the most incredible invention that man has ever invented, then I’ll feel I have lost Apple. But if I’m a million miles away and all those people still feel those things and they’re still working to make the next great personal computer, then I will feel that my genes are still in there.
+
+SJ:  One of the five most difficult days was that day John [Sculley, Apple’s CEO] said at the analysts meeting about there not being a role for me in the future, and he said it again in another analysts meeting a week later. He didn’t say it to me directly; he said it to the press. You’ve probably had somebody punch you in the stomach and it knocks the wind out of you and you can’t breathe. If you relax, you’ll start breathing again. That’s how I felt all summer long. The thing I had to do was try to relax. It was hard. But I went for a lot of long walks in the woods and didn’t really talk to a lot of people.
+
+Q:  You’ve talked about being tough to get along with, having a rough-edge personality. Did you contribute in some way to your own downfall?
+
+SJ:  You know, I’m not a sixty-two-year-old statesman that’s traveled around the world all his life. So I’m sure that there was a situation when I was twenty-five that if I could go back, knowing what I know now, I could have handled much better. And I’m sure I’ll be able to say the same thing when I’m thirty-five about the situation in 1985. I can be very intense in my convictions. And I don’t  know— all in all, I kind of like myself, and I’m not that anxious to change.
+
+Q:  But has this experience changed you?
+
+SJ:  Oh, this  has— yeah, I think I am growing from this, and I think I’m learning a lot from it. I’m not sure how or what yet. But yes, I feel that way. I’m not bitter; I’m not bitter.
+
+Q:  There’s been a lot in the press about your interest in Buddhism, vegetarianism.
+
+SJ:  As we descend into the isms.
+
+Q:  The isms. Are you still interested in those things?
+
+SJ:  Well, I don’t know what to say. I mean, I don’t eat meat, and I don’t go to church every Sunday.
+
+Q:  They said at some point you had thought of going to Japan and sitting in a monastery.
+
+SJ:  Yeah, yeah. I’m glad I didn’t do that. I know this is going to sound really, really corny. But I feel like I’m an American, and I was born here. And the fate of the world is in America’s hands right now. I really feel that. And you know, I’m going to live my life here and do what I can to help.
+
+Steve circa 1985.               Part II, 1985–1996
+
+“You never achieve what you want without falling on your face a few times.”
+
+The years after Steve left Apple were among the toughest of his  career— and the most formative.

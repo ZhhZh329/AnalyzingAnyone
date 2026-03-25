@@ -1,0 +1,4 @@
+name: sociology
+display_name: "社会学 Sociology"
+role: discipline
+prompt: prompt.md

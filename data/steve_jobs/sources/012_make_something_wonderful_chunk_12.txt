@@ -1,0 +1,54 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 12/32
+
+Think of your life as a rainbow arcing across the horizon of this world. You appear, have a chance to blaze in the sky, then you disappear.
+
+The two endpoints of everyone’s rainbow are birth and death. We all experience both completely alone. And yet, most people of your age have not thought about these events very much, much less even seen them in others. How many of you have seen the birth of another human? It is a miracle. And how many of you have witnessed the death of a human? It is a mystery beyond our comprehension. No human alive knows what happens to “us” upon or after our death. Some believe this, others that, but no one really knows at all. Again, most people of your age have not thought about these events very much, and it’s as if we shelter you from them, afraid that the thought of mortality will somehow wound you. For me it’s the opposite: to know my arc will fall makes me want to blaze while I am in the sky. Not for others, but for myself, for the trail I know I am leaving.
+
+Now, as you live your arc across the sky, you want to have as few regrets as possible. Remember, regrets are different from mistakes. Mistakes are those things that you did and wish you could do over again. In some you were a fool (usually concerning women). In others you were scared. In others you hurt someone else. Some mistakes are deep, others not. But if your intent was pure, they are almost always enriching in some way. So mistakes are things that you did and wish you could do over again.
+
+Regrets are most often things you didn’t do, and wish you did. I still regret not kissing Nancy Kinniman in high school. Who knows what might have happened? Maybe she regrets it too …
+
+Interview about Pixar
+
+“To put these stories into the culture … is a rare opportunity.”
+
+On November 22, 1996, Steve discussed leading Pixar, his strategy for the studio’s future, and the privilege of creating stories for future generations.
+
+Q:  What kinds of things did you need to do, both personally (learning to become a filmmaker) and as a businessman, to put the company where it is today?
+
+Steve Jobs:  Well, Pixar is a studio. I’m not a filmmaker. I don’t direct our films. […] What I try to do is help create the environment where all these incredible people can make films. We’ve got a really unique thing in the industry, in that the very best creative people will only go to work at a few places: Disney, Pixar, possibly DreamWorks. In the same sense, the very best computer scientists in computer graphics will only go to work at a few places. Pixar is one of those, but most of the studios are not because they don’t have [our] level of technical culture there. I think Pixar is the only place in the world that can hire the best from both of these areas. And we’ve worked for ten years to figure out a way to have them all work together, which is not easy, because the Hollywood culture and the Silicon Valley culture are really different. We think we’ve picked the best from both.
+
+Q:  I’ve heard that there are no contracts at Pixar, and that’s different than a lot of Hollywood productions. What’s the philosophy behind that?
+
+SJ:  In this blending of [cultures], one of the things that we encountered was that the Hollywood culture and the Silicon Valley culture each use different models of employee retention. Hollywood uses the stick, which is the contract. And Silicon Valley uses the carrot, which is the stock option. We examined both of those in really pretty great detail: economically, but also sort of psychologically and culture-wise. What kind of culture do you end up with?
+
+And while there’s a lot of reasons to want to lock down your employees for the duration of a film, because if somebody leaves, you know you’re at risk, those same dangers exist in Silicon Valley. During an engineering project, you don’t want to lose people, and yet [Silicon Valley] managed to evolve another system other than contracts. And we prefer the Silicon Valley model in this case: give people stock in the company so that we all have the same goal, which is to create shareholder value.
+
+But [not having contracts] also makes us constantly worry about making Pixar the greatest company we can, so that nobody would ever want to leave. When you sign a contract with somebody, you can sort of say, “Well, I don’t have to worry about that person for five years.” You know? And if you’re real sophisticated, you’ll have a little database that tickles you six months before their contract’s up so you can start paying them more attention. And they’re the most important person in the world for six months, and then after they sign up again, you put them in a drawer.
+
+Our system’s a little different than that. Every single day we worry about how we can make Pixar a better company so that nobody will ever want to leave, and so we don’t take anybody for granted. Because if they don’t want to be at Pixar, then probably they should leave  anyway— whether or not they would ever have a contract.
+
+SJ:  In technology, and at Pixar on the creative side, you’ve got incredibly talented people who are also rare and in demand. If you don’t treat them right, they can go get another job in ten minutes. Right?
+
+So a strange thing happens: the hierarchy of power sort of inverts, and the CEO is actually at the bottom. I sort of feel like I work for most of these people because they’re the ones that are doing all the brilliant work.
+
+And it’s the same in software. It’s the same thing. The best people are very hard to come by, and so it’s management’s job to support them because they’re on the front lines doing the work.
+
+Q:  How is your relationship with Pixar different than Louis B. Mayer or some of the great studio heads who may not have been directors or producers themselves, but who certainly had a great deal to do with what was done?
+
+SJ:  Well, we’re a small studio, and so we don’t want to let any of this go to our heads.
+
+What we’re trying to do is to build a great animation studio. We stay very focused on that. The other great animation studio is, of course, Disney. And they’ve done an incredible job. Feature animation is really at the heart of Disney; they’ve created all the character franchises that really breathe life into the theme parks. And if you look at where [Disney’s] profits come from, a tremendous amount of it is dependent on feature animation, as are the theme parks.
+
+What we’re doing is just a pure play to build a feature animation studio. My role is to try to understand the pieces we need to put in place to do that, to work with everybody to attract and retain the people to do that, and to get a clear strategy in place. And [I] help with the relationships with Disney and other people.
+
+I enjoy it tremendously. We’ve got an incredible collection of people at Pixar, so I learn a lot. I learn a lot.
+
+SJ:  I like to get in there and help where I can. But my greatest joy is when we have people that are much better than I am at something, so I can forget about it, and not worry about it, and get on to something else where I can help.
+
+SJ:  Making an animated film is entirely different than making a live-action film. When you make a live-action film, a director typically shoots between ten and twenty-five times as much footage as will end up on the screen. They take that into the editing room and they build their film. And hopefully they can do a good job, because if they can’t, it’s too  late— the actors are gone, the sets are down.
+
+Walt Disney realized many decades ago that animation was so expensive that you couldn’t afford to animate ten times more than what you need. Matter of fact, you don’t want to animate even 10 percent more than what you need. And therefore, the only conclusion you can come to is, you have to edit your film before you make it. Disney pioneered a lot of techniques for doing that, and they’ve refined those over the last sixty years.

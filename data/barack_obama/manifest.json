@@ -1,0 +1,230 @@
+{
+  "subject": "Barack Obama",
+  "description": "Original-text corpus of Barack Obama weekly addresses drawn from the Obama White House archive.",
+  "sources": [
+    {
+      "id": "src_001",
+      "type": "speech",
+      "date": "2010-08-07",
+      "file": "sources/001_weekly_address_president_obama_highlights_benefits_seniors_under_patient.txt",
+      "context": "Weekly Address: President Obama Highlights Benefits to Seniors Under the  Patient Protection and Affordable Care Act"
+    },
+    {
+      "id": "src_002",
+      "type": "speech",
+      "date": "2010-10-23",
+      "file": "sources/002_weekly_address_warns_gop_efforts_repeal_wall_street_reform_including_for.txt",
+      "context": "Weekly Address: Warns of GOP Efforts to Repeal Wall Street Reform - Including Foreclosure Protections"
+    },
+    {
+      "id": "src_003",
+      "type": "speech",
+      "date": "2011-01-08",
+      "file": "sources/003_weekly_address_president_obama_touts_benefits_tax_cut_package_take_place.txt",
+      "context": "Weekly Address: President Obama Touts Benefits of Tax Cut Package to Take Place in the New Year"
+    },
+    {
+      "id": "src_004",
+      "type": "speech",
+      "date": "2011-04-02",
+      "file": "sources/004_weekly_address_energy_security_can_only_come_if_we_invest_cleaner_fuels.txt",
+      "context": "Weekly Address: Energy Security Can Only Come If We Invest in Cleaner Fuels and Greater Efficiency"
+    },
+    {
+      "id": "src_005",
+      "type": "speech",
+      "date": "2011-06-18",
+      "file": "sources/005_weekly_address_celebrating_fathers_day.txt",
+      "context": "Weekly Address: Celebrating Father's Day"
+    },
+    {
+      "id": "src_006",
+      "type": "speech",
+      "date": "2011-09-03",
+      "file": "sources/006_weekly_address_extending_transportation_bill_keep_america_moving.txt",
+      "context": "WEEKLY ADDRESS: Extending the Transportation Bill to Keep America Moving"
+    },
+    {
+      "id": "src_007",
+      "type": "speech",
+      "date": "2011-11-12",
+      "file": "sources/007_weekly_address_honoring_our_veterans_their_service_and_sacrifice.txt",
+      "context": "WEEKLY ADDRESS: Honoring our Veterans for their Service and Sacrifice"
+    },
+    {
+      "id": "src_008",
+      "type": "speech",
+      "date": "2012-01-28",
+      "file": "sources/008_weekly_address_president_s_blueprint_includes_renewal_american_values.txt",
+      "context": "Weekly Address: President’s Blueprint Includes Renewal of American Values"
+    },
+    {
+      "id": "src_009",
+      "type": "speech",
+      "date": "2012-04-07",
+      "file": "sources/009_weekly_address_easter_and_passover_greetings_president_obama.txt",
+      "context": "Weekly Address: Easter and Passover Greetings from President Obama"
+    },
+    {
+      "id": "src_010",
+      "type": "speech",
+      "date": "2012-06-23",
+      "file": "sources/010_weekly_address_congress_must_act_transportation_bill_and_student_loans.txt",
+      "context": "Weekly Address: Congress Must Act on Transportation Bill and Student Loans"
+    },
+    {
+      "id": "src_011",
+      "type": "speech",
+      "date": "2012-09-08",
+      "file": "sources/011_weekly_address_coming_together_remember_september_11th.txt",
+      "context": "Weekly Address: Coming Together to Remember September 11th"
+    },
+    {
+      "id": "src_012",
+      "type": "speech",
+      "date": "2012-11-22",
+      "file": "sources/012_weekly_address_wishing_american_people_happy_thanksgiving.txt",
+      "context": "Weekly Address: Wishing the American People a Happy Thanksgiving"
+    },
+    {
+      "id": "src_013",
+      "type": "speech",
+      "date": "2013-02-09",
+      "file": "sources/013_weekly_address_averting_sequester_and_finding_balanced_approach_deficit.txt",
+      "context": "Weekly Address: Averting the Sequester and Finding a Balanced Approach to Deficit Reduction"
+    },
+    {
+      "id": "src_014",
+      "type": "speech",
+      "date": "2013-04-27",
+      "file": "sources/014_weekly_address_time_replace_sequester_balanced_approach_deficit_reductio.txt",
+      "context": "Weekly Address: Time to Replace the Sequester with a Balanced Approach to Deficit Reduction"
+    },
+    {
+      "id": "src_015",
+      "type": "speech",
+      "date": "2013-07-04",
+      "file": "sources/015_weekly_address_celebrating_independence_day.txt",
+      "context": "Weekly Address: Celebrating Independence Day"
+    },
+    {
+      "id": "src_016",
+      "type": "speech",
+      "date": "2013-09-21",
+      "file": "sources/016_weekly_address_congress_must_act_now_pass_budget_and_raise_debt_ceiling.txt",
+      "context": "Weekly Address: Congress Must Act Now to Pass a Budget and Raise the Debt Ceiling"
+    },
+    {
+      "id": "src_017",
+      "type": "speech",
+      "date": "2013-11-28",
+      "file": "sources/017_weekly_address_wishing_american_people_happy_thanksgiving.txt",
+      "context": "Weekly Address: Wishing the American People a Happy Thanksgiving"
+    },
+    {
+      "id": "src_018",
+      "type": "speech",
+      "date": "2014-02-15",
+      "file": "sources/018_weekly_address_calling_congress_raise_minimum_wage.txt",
+      "context": "Weekly Address: Calling on Congress to Raise the Minimum Wage"
+    },
+    {
+      "id": "src_019",
+      "type": "speech",
+      "date": "2014-05-03",
+      "file": "sources/019_weekly_address_presidents_year_action.txt",
+      "context": "Weekly Address: The President's Year of Action"
+    },
+    {
+      "id": "src_020",
+      "type": "speech",
+      "date": "2014-07-19",
+      "file": "sources/020_weekly_address_equipping_workers_skills_employers_need_now_and_future.txt",
+      "context": "Weekly Address: Equipping Workers with Skills Employers Need Now and for the Future"
+    },
+    {
+      "id": "src_021",
+      "type": "speech",
+      "date": "2014-10-04",
+      "file": "sources/021_weekly_address_we_do_better_when_middle_class_does_better.txt",
+      "context": "Weekly Address: We Do Better When the Middle Class Does Better"
+    },
+    {
+      "id": "src_022",
+      "type": "speech",
+      "date": "2014-12-20",
+      "file": "sources/022_weekly_address_america_s_resurgence_real.txt",
+      "context": "Weekly Address: America’s Resurgence Is Real"
+    },
+    {
+      "id": "src_023",
+      "type": "speech",
+      "date": "2015-02-21",
+      "file": "sources/023_weekly_address_we_should_make_sure_future_written_us.txt",
+      "context": "Weekly Address: We Should Make Sure the Future Is Written by Us"
+    },
+    {
+      "id": "src_024",
+      "type": "speech",
+      "date": "2015-05-08",
+      "file": "sources/024_weekly_address_honoring_70th_anniversary_v_e_day.txt",
+      "context": "Weekly Address: Honoring the 70th Anniversary of V-E Day"
+    },
+    {
+      "id": "src_025",
+      "type": "speech",
+      "date": "2015-07-25",
+      "file": "sources/025_weekly_address_wall_street_reform_working.txt",
+      "context": "WEEKLY ADDRESS: Wall Street Reform is Working"
+    },
+    {
+      "id": "src_026",
+      "type": "speech",
+      "date": "2015-10-10",
+      "file": "sources/026_weekly_address_writing_rules_global_economy.txt",
+      "context": "Weekly Address: Writing the Rules for a Global Economy"
+    },
+    {
+      "id": "src_027",
+      "type": "speech",
+      "date": "2015-12-19",
+      "file": "sources/027_weekly_address_top_10_things_happened_2015.txt",
+      "context": "Weekly Address: Top 10 Things that Happened in 2015"
+    },
+    {
+      "id": "src_028",
+      "type": "speech",
+      "date": "2016-03-05",
+      "file": "sources/028_weekly_address_american_spirit_innovation.txt",
+      "context": "Weekly Address: The American Spirit of Innovation"
+    },
+    {
+      "id": "src_029",
+      "type": "speech",
+      "date": "2016-05-28",
+      "file": "sources/029_weekly_address_remembering_our_fallen_heroes.txt",
+      "context": "Weekly Address: Remembering Our Fallen Heroes"
+    },
+    {
+      "id": "src_030",
+      "type": "speech",
+      "date": "2016-08-13",
+      "file": "sources/030_weekly_address_providing_better_cleaner_safer_future_our_children.txt",
+      "context": "Weekly Address: Providing a Better, Cleaner, Safer Future for Our Children"
+    },
+    {
+      "id": "src_031",
+      "type": "speech",
+      "date": "2016-10-29",
+      "file": "sources/031_weekly_address_achieving_mission_cancer_moonshot.txt",
+      "context": "Weekly Address: Achieving the Mission of the Cancer Moonshot"
+    },
+    {
+      "id": "src_032",
+      "type": "speech",
+      "date": "2017-01-14",
+      "file": "sources/032_weekly_address_honor_serving_you_president.txt",
+      "context": "Weekly Address: The Honor of Serving You as President"
+    }
+  ]
+}

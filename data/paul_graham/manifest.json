@@ -1,0 +1,230 @@
+{
+  "subject": "Paul Graham",
+  "description": "Original-text corpus of Paul Graham essays from his official site.",
+  "sources": [
+    {
+      "id": "src_001",
+      "type": "essay",
+      "date": "2026-03",
+      "file": "sources/001_brandage_html.txt",
+      "context": "The Brand Age"
+    },
+    {
+      "id": "src_002",
+      "type": "essay",
+      "date": "2025-06",
+      "file": "sources/002_field_html.txt",
+      "context": "The Shape of the Essay Field"
+    },
+    {
+      "id": "src_003",
+      "type": "essay",
+      "date": "2025-05",
+      "file": "sources/003_goodwriting_html.txt",
+      "context": "Good Writing"
+    },
+    {
+      "id": "src_004",
+      "type": "essay",
+      "date": "2025-03",
+      "file": "sources/004_do_html.txt",
+      "context": "What to Do"
+    },
+    {
+      "id": "src_005",
+      "type": "essay",
+      "date": "2025-01",
+      "file": "sources/005_woke_html.txt",
+      "context": "The Origins of Wokeness"
+    },
+    {
+      "id": "src_006",
+      "type": "essay",
+      "date": "2024-10",
+      "file": "sources/006_writes_html.txt",
+      "context": "Writes and Write-Nots"
+    },
+    {
+      "id": "src_007",
+      "type": "essay",
+      "date": "2024-09",
+      "file": "sources/007_when_html.txt",
+      "context": "When To Do What You Love"
+    },
+    {
+      "id": "src_008",
+      "type": "essay",
+      "date": "2024-09",
+      "file": "sources/008_foundermode_html.txt",
+      "context": "Founder Mode"
+    },
+    {
+      "id": "src_009",
+      "type": "essay",
+      "date": "2024-07",
+      "file": "sources/009_persistence_html.txt",
+      "context": "The Right Kind of Stubborn"
+    },
+    {
+      "id": "src_010",
+      "type": "essay",
+      "date": "2024-03",
+      "file": "sources/010_reddits_html.txt",
+      "context": "The Reddits"
+    },
+    {
+      "id": "src_011",
+      "type": "essay",
+      "date": "2024-03",
+      "file": "sources/011_google_html.txt",
+      "context": "How to Start Google"
+    },
+    {
+      "id": "src_012",
+      "type": "essay",
+      "date": "2024-03",
+      "file": "sources/012_best_html.txt",
+      "context": "The Best Essay"
+    },
+    {
+      "id": "src_013",
+      "type": "essay",
+      "date": "2023-10",
+      "file": "sources/013_superlinear_html.txt",
+      "context": "Superlinear Returns"
+    },
+    {
+      "id": "src_014",
+      "type": "essay",
+      "date": "2023-07",
+      "file": "sources/014_greatwork_html.txt",
+      "context": "How to Do Great Work"
+    },
+    {
+      "id": "src_015",
+      "type": "essay",
+      "date": "2023-01",
+      "file": "sources/015_getideas_html.txt",
+      "context": "How to Get New Ideas"
+    },
+    {
+      "id": "src_016",
+      "type": "essay",
+      "date": "2022-11",
+      "file": "sources/016_read_html.txt",
+      "context": "The Need to Read"
+    },
+    {
+      "id": "src_017",
+      "type": "essay",
+      "date": "2022-11",
+      "file": "sources/017_want_html.txt",
+      "context": "What You (Want to)* Want"
+    },
+    {
+      "id": "src_018",
+      "type": "essay",
+      "date": "2022-10",
+      "file": "sources/018_alien_html.txt",
+      "context": "Alien Truth"
+    },
+    {
+      "id": "src_019",
+      "type": "essay",
+      "date": "2022-09",
+      "file": "sources/019_users_html.txt",
+      "context": "What I've Learned from Users"
+    },
+    {
+      "id": "src_020",
+      "type": "essay",
+      "date": "2022-04",
+      "file": "sources/020_heresy_html.txt",
+      "context": "Heresy"
+    },
+    {
+      "id": "src_021",
+      "type": "essay",
+      "date": "2022-02",
+      "file": "sources/021_words_html.txt",
+      "context": "Putting Ideas into Words"
+    },
+    {
+      "id": "src_022",
+      "type": "essay",
+      "date": "2021-11",
+      "file": "sources/022_goodtaste_html.txt",
+      "context": "Is There Such a Thing as Good Taste?"
+    },
+    {
+      "id": "src_023",
+      "type": "essay",
+      "date": "2021-10",
+      "file": "sources/023_smart_html.txt",
+      "context": "Beyond Smart"
+    },
+    {
+      "id": "src_024",
+      "type": "essay",
+      "date": "2021-08",
+      "file": "sources/024_weird_html.txt",
+      "context": "Weird Languages"
+    },
+    {
+      "id": "src_025",
+      "type": "essay",
+      "date": "2021-06",
+      "file": "sources/025_hwh_html.txt",
+      "context": "How to Work Hard"
+    },
+    {
+      "id": "src_026",
+      "type": "essay",
+      "date": "2021-06",
+      "file": "sources/026_own_html.txt",
+      "context": "A Project of One's Own"
+    },
+    {
+      "id": "src_027",
+      "type": "essay",
+      "date": "2021-05",
+      "file": "sources/027_fn_html.txt",
+      "context": "Fierce Nerds"
+    },
+    {
+      "id": "src_028",
+      "type": "essay",
+      "date": "2021-05",
+      "file": "sources/028_newideas_html.txt",
+      "context": "Crazy New Ideas"
+    },
+    {
+      "id": "src_029",
+      "type": "essay",
+      "date": "2021-05",
+      "file": "sources/029_nft_html.txt",
+      "context": "An NFT That Saves Lives"
+    },
+    {
+      "id": "src_030",
+      "type": "essay",
+      "date": "2021-04",
+      "file": "sources/030_real_html.txt",
+      "context": "The Real Reason to End the Death Penalty"
+    },
+    {
+      "id": "src_031",
+      "type": "essay",
+      "date": "2021-04",
+      "file": "sources/031_richnow_html.txt",
+      "context": "How People Get Rich Now"
+    },
+    {
+      "id": "src_032",
+      "type": "essay",
+      "date": "2021-03",
+      "file": "sources/032_simply_html.txt",
+      "context": "Write Simply"
+    }
+  ]
+}

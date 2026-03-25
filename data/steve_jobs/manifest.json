@@ -1,0 +1,230 @@
+{
+  "subject": "Steve Jobs",
+  "description": "Original-text corpus chunked from the official Steve Jobs Archive web book Make Something Wonderful.",
+  "sources": [
+    {
+      "id": "src_001",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/001_make_something_wonderful_chunk_01.txt",
+      "context": "Make Something Wonderful chunk 01"
+    },
+    {
+      "id": "src_002",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/002_make_something_wonderful_chunk_02.txt",
+      "context": "Make Something Wonderful chunk 02"
+    },
+    {
+      "id": "src_003",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/003_make_something_wonderful_chunk_03.txt",
+      "context": "Make Something Wonderful chunk 03"
+    },
+    {
+      "id": "src_004",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/004_make_something_wonderful_chunk_04.txt",
+      "context": "Make Something Wonderful chunk 04"
+    },
+    {
+      "id": "src_005",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/005_make_something_wonderful_chunk_05.txt",
+      "context": "Make Something Wonderful chunk 05"
+    },
+    {
+      "id": "src_006",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/006_make_something_wonderful_chunk_06.txt",
+      "context": "Make Something Wonderful chunk 06"
+    },
+    {
+      "id": "src_007",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/007_make_something_wonderful_chunk_07.txt",
+      "context": "Make Something Wonderful chunk 07"
+    },
+    {
+      "id": "src_008",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/008_make_something_wonderful_chunk_08.txt",
+      "context": "Make Something Wonderful chunk 08"
+    },
+    {
+      "id": "src_009",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/009_make_something_wonderful_chunk_09.txt",
+      "context": "Make Something Wonderful chunk 09"
+    },
+    {
+      "id": "src_010",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/010_make_something_wonderful_chunk_10.txt",
+      "context": "Make Something Wonderful chunk 10"
+    },
+    {
+      "id": "src_011",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/011_make_something_wonderful_chunk_11.txt",
+      "context": "Make Something Wonderful chunk 11"
+    },
+    {
+      "id": "src_012",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/012_make_something_wonderful_chunk_12.txt",
+      "context": "Make Something Wonderful chunk 12"
+    },
+    {
+      "id": "src_013",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/013_make_something_wonderful_chunk_13.txt",
+      "context": "Make Something Wonderful chunk 13"
+    },
+    {
+      "id": "src_014",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/014_make_something_wonderful_chunk_14.txt",
+      "context": "Make Something Wonderful chunk 14"
+    },
+    {
+      "id": "src_015",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/015_make_something_wonderful_chunk_15.txt",
+      "context": "Make Something Wonderful chunk 15"
+    },
+    {
+      "id": "src_016",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/016_make_something_wonderful_chunk_16.txt",
+      "context": "Make Something Wonderful chunk 16"
+    },
+    {
+      "id": "src_017",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/017_make_something_wonderful_chunk_17.txt",
+      "context": "Make Something Wonderful chunk 17"
+    },
+    {
+      "id": "src_018",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/018_make_something_wonderful_chunk_18.txt",
+      "context": "Make Something Wonderful chunk 18"
+    },
+    {
+      "id": "src_019",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/019_make_something_wonderful_chunk_19.txt",
+      "context": "Make Something Wonderful chunk 19"
+    },
+    {
+      "id": "src_020",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/020_make_something_wonderful_chunk_20.txt",
+      "context": "Make Something Wonderful chunk 20"
+    },
+    {
+      "id": "src_021",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/021_make_something_wonderful_chunk_21.txt",
+      "context": "Make Something Wonderful chunk 21"
+    },
+    {
+      "id": "src_022",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/022_make_something_wonderful_chunk_22.txt",
+      "context": "Make Something Wonderful chunk 22"
+    },
+    {
+      "id": "src_023",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/023_make_something_wonderful_chunk_23.txt",
+      "context": "Make Something Wonderful chunk 23"
+    },
+    {
+      "id": "src_024",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/024_make_something_wonderful_chunk_24.txt",
+      "context": "Make Something Wonderful chunk 24"
+    },
+    {
+      "id": "src_025",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/025_make_something_wonderful_chunk_25.txt",
+      "context": "Make Something Wonderful chunk 25"
+    },
+    {
+      "id": "src_026",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/026_make_something_wonderful_chunk_26.txt",
+      "context": "Make Something Wonderful chunk 26"
+    },
+    {
+      "id": "src_027",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/027_make_something_wonderful_chunk_27.txt",
+      "context": "Make Something Wonderful chunk 27"
+    },
+    {
+      "id": "src_028",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/028_make_something_wonderful_chunk_28.txt",
+      "context": "Make Something Wonderful chunk 28"
+    },
+    {
+      "id": "src_029",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/029_make_something_wonderful_chunk_29.txt",
+      "context": "Make Something Wonderful chunk 29"
+    },
+    {
+      "id": "src_030",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/030_make_something_wonderful_chunk_30.txt",
+      "context": "Make Something Wonderful chunk 30"
+    },
+    {
+      "id": "src_031",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/031_make_something_wonderful_chunk_31.txt",
+      "context": "Make Something Wonderful chunk 31"
+    },
+    {
+      "id": "src_032",
+      "type": "book_excerpt",
+      "date": "2023",
+      "file": "sources/032_make_something_wonderful_chunk_32.txt",
+      "context": "Make Something Wonderful chunk 32"
+    }
+  ]
+}

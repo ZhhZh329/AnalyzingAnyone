@@ -1,0 +1,5 @@
+name: evidence_assembler
+display_name: "证据组装器 Evidence Assembler"
+role: assemble
+prompt: prompt.md
+max_tokens: 16000

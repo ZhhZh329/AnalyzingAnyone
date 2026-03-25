@@ -1,0 +1,142 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 18/32
+
+And the theme of the campaign is “Think Different.” It’s honoring the people who think different and who move this world forward. It is what we are about. It touches the soul of this company.
+
+So I’m going to go ahead and roll it, and I hope that you feel the same way about it that I do.
+
+[Steve runs the video.]
+
+“Here’s to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They’re not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can’t do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world are the ones who do.”
+
+Email to Pixar’s Leadership
+
+“My grades as of today.”
+
+As 1997 drew to a close, Steve graded Pixar’s performance: four A’s, one B, and two F’s.
+
+From: Steve Jobs
+
+To: ec, jl, lawrence, sarahmc
+
+Cc: sj
+
+Subject: Pixar Milestones
+
+Date: December 21, 1997, 9:26 a.m.
+
+From my files, dated Monday, October 28, 1996, with my grades as of today:
+
+1997 MILESTONES
+
+1. Make BUGS Great – A
+
+2. Ship Two Strong Interactive Products – F (but A for getting out)
+
+3. Enter Sequel Business – A (and almost exit sequel business)
+
+4. Greenlight Film #3 – F (but B for great progress)
+
+5. Manage Growth – A (hired >100 people, Pixar U, expanded infrastructure)
+
+6. Longer Term:
+
+- keep a larger percentage of the profits – A
+
+- increase Pixar’s brand awareness – B (mostly due to Apple goings on)
+
+Let’s set our 1998 milestone goals soon after the holidays.
+
+Steve
+
+Email to Pixar’s Leadership
+
+“This list is to remind us of the ‘forest.’”
+
+Steve’s 1998 goals for Pixar included beginning animation on the film that would become  Monsters, Inc.
+
+From: Steve Jobs
+
+To: ec, jl, lawrence, sarahmc
+
+Subject: Pixar Milestones
+
+Date: December 26, 1997, 10:00 a.m.
+
+Here are proposed key 1998 milestones for us as a senior management team. The purpose of this list is to remind us of the “forest” from time to time, and to help prod us into taking corrective action when we get off track. Please feel free to shoot full of holes with your comments.
+
+Steve
+
+1998 MILESTONES
+
+1. A Bug’s Life opens in November to very strong critical and box office success
+
+2. PR efforts yield Pixar branding and creative credit for A Bug’s Life
+
+3. Toy Story 2 becomes a great feature film
+
+4. Hidden City is on schedule to begin animation by April ’98
+
+5. Film #5 development begins by April 1
+
+6. Emeryville groundbreaking in May
+
+7. Breakthrough new animation system demonstrated by summer
+
+8. Secure shorts projects to defray carrying costs of ABL crew through Spring ’99
+
+9. Execute equity financing in Spring/Summer if necessary
+
+Email to Apple Employees
+
+“Newton protest today.”
+
+When Steve returned to Apple, he jettisoned many product lines developed during his time away. His goal was to focus the company’s offerings. Some fans rebelled.
+
+From: Steve Jobs
+
+To: Apple employees
+
+Subject: Newton protest today
+
+Date: March 6, 1998, 8:09 a.m.
+
+Some people are understandably upset that Apple has decided to stop developing future Newton OS based computers, especially the MessagePad. Today some of them are coming to Apple to protest our decision. This is OK. We are reserving a space for them on our campus and will provide them with coffee and other hot drinks (it may be cold out there!).
+
+Our decision to end Newton development was not taken lightly, and is unlikely to be reversed. Even so, let’s welcome the Newton customers and developers who come to protest this decision. Hopefully they will feel our enthusiasm about the future of Apple, and leave more settled than they arrived.
+
+Thanks
+
+Steve
+
+Speech at Macworld
+
+“Apple is coming back in a very big way.”
+
+Steve was still interim CEO of Apple when he gave the keynote address at Macworld in New York City in July 1998.
+
+Thank you very much. This is good. I just got off a red-eye to get here. I didn’t think I could be here today, and I managed to make it, so this is good. We’ve got some great stuff to talk about today, so let’s get into it.
+
+An American named Abraham Maslow came up with a theory that he called the human hierarchy of needs. And this theory was a simple one in concept, [though] somewhat profound in its implications. This theory was that humans have needs that must be met, and these needs can be stratified into certain levels. [Humans] need the bottom needs to be met first, and then they progress to the next level. And when those [needs] are met, they progress to the next level.
+
+So, you start off with the physiological needs: food, clothing, and shelter, let’s say. If those are met, or once those are met, you then start to be concerned more with the safety of your  environment— and eventually with love, with esteem, with self-actualization. I don’t know if this is true or not, but this is what Abraham believed.
+
+And I thought this was a good model, so I borrowed it today to construct … Steve Jobs’s version of this  [audience laughs] , which I call the Apple Hierarchy of Skepticism.
+
+Let me explain this to you. When I came to Apple a year ago, all I heard was, “Apple is dying. Apple can’t survive.”
+
+And it turns out that every time we convince people that we’ve accomplished something at one level, they come up with something new.
+
+I used to think this was a bad thing. I thought, “Oh, jeez, when are they ever going to believe that we’re going to be able to turn this thing around?” But actually, now I think it’s great, because what it means is we’ve now convinced them that we’ve taken care of last month’s  question— and they’re onto the next one.
+
+So I thought, “Well, let’s get ahead of the game. Let’s try to figure out what all the questions are going to be and map out where we are.” So that’s what the Apple Hierarchy of Skepticism is. And it borrows from Dr. Maslow.
+
+So the first level, what we encountered a year ago, was survival.  [Audience applauds.]  A lot of people thought Apple was in some sort of death spiral, which I think there was some truth to. What did we do? We did many, many things, but the three things that stood out in people’s minds were: we brought in a new management team to run the company, a new board of directors that’s got some phenomenally experienced people on it, and we did a deal with Microsoft. The largest software company in the world want[ing] to help Apple was a fact that didn’t escape very many people, and it added a lot of credibility to what we were doing.
+
+The combination of these three things and a lot of other medium-sized things, I think, convinced people fairly rapidly that survival, at least in the short term, was not an issue. And it gave us some time to demonstrate that we could accomplish some other things.
+
+Immediately, once we did these things, then everybody moved up a level. […] If it wasn’t about survival, it was, “Well, but there’s no stable business in the Mac market.” That was the next level of the hierarchy. So we had to start demonstrating that we had a stable business, and that one could be made from the Macintosh market, because it’s a great market.
+
+So what did we do? Well, the most important thing was profits. In the end, that’s what a lot of people look at. And the first full quarter of the new management team, Apple delivered profits of $47 million […]. And in the next fiscal quarter […] Apple delivered a quarter with $55 million of profits.  [Audience applauds.]  This went a long way to convincing a lot of the skeptics. And we will be announcing the results of our third fiscal quarter, the one that just ended at the end of June, a week from today. And I’m very pleased to tell you that it will be our third consecutively profitable quarter. […]

@@ -1,0 +1,80 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 8/32
+
+But maybe more unusual: I ran out of money after one semester here at Reed, so I dropped out. But then I dropped in for another year and a half. So, I was actually here by choice, which is somewhat more unusual. And I had some experiences  here— that I’m sure many of you will have as freshmen and throughout your years  here— that have stayed with me my whole life. I was thinking of some of them to recount to you.
+
+Remember that I’m much older than you now. I’ve always thought that people’s spark of self-consciousness turns on at about fifteen or sixteen. So if we normalize age to fifteen or sixteen, then most of you are two or three or four years old here, as freshmen. I’m about twenty. So that maybe puts in perspective what it’s like to return to Reed after so many years. But a few things stick in my mind that I wanted to pass on that maybe could be of some value. The first was that, as you will be shortly, I was forced to go to humanities  lectures— it seemed like every day. I studied Shakespeare with Professor Svitavsky. And at the time, I thought these were meaningless and even somewhat cruel endeavors to be put through. I can assure you that as the patina of time takes its toll, I thank God that I had these experiences here. It has helped me in everything I’ve ever done, although I wouldn’t have ever guessed it at the time.
+
+The second experience that I remember from Reed is being hungry. All the time. The cafeteria here taught me quickly to be a vegetarian. I didn’t have so much money, so I would gather up Coke bottles and take them up to the store to find out how to eat. I discovered the cheapest way to eat was Roman Meal. Have you ever heard of this? It’s cereal. It was invented by a Harvard professor who was a history professor who one day wondered what the Roman legion took with them to eat as they conquered and pillaged these villages, and he found out through his research that it’s Roman Meal. And you can buy it at the local store, and it’s the cheapest way to live. So I lived for many months on Roman Meal.
+
+But also, several of us, after not eating for a few days, would hitchhike across town to the Hare Krishna temple on Sundays, where they would feed all comers. Through practice, we discovered just the right moment to  arrive— after their particular religious practices and right before the food. And not having eaten for days, we would eat a lot, and on several occasions stay over, because we were not able to move.
+
+The following morning, they would wake us up at four o’clock in the morning because it was their time to go gather flowers for their temple to honor Krishna. So they would take us with them, predawn, out into the  neighborhood— where they would proceed to steal flowers from the neighbors. And the neighbors that lived close to the Hare Krishna temple soon were wise to their pillage and would get up early in the morning and guard their flower beds. And so they would have to go in an ever-wider circumference around their temple. In spending a little time with these people, I noticed some of their other behaviors. They used to sell incense to the local department stores and then go steal it back, so that the department stores would buy more, and they would have a thriving business. And their ethics told them that this was fine, that anything in the service of Krishna was fine. In interacting with them, I think I learned more about situational ethics than I ever did on campus.
+
+The last experience I wanted to recount for you: there is a  man— I think he’s here  today— named Jack Dudman, who used to be the dean of the school. He was one of the heroes of my life while I was here, because Jack Dudman looked the other way when I was staying on campus without paying. He looked the other way when I was taking classes without being a formal student and paying the tuition. And oftentimes, when I was at the end of my rope, Jack would go for a walk with me, and I would discover a twenty-dollar bill in my tattered coat pocket after that walk, with no mention of it from Jack before, during, or after.
+
+I learned more about generosity from Jack Dudman and the people here at this school than I learned anywhere else in my life. So I wanted to thank this community, because the things I learned here stayed with me. Character is built not in good times, but in bad times; not in a time of plenty, but in a time of  adversity— and this school seems to manage to nurture that spirit of adversity, and I think does build some character. So I thank you for teaching me how to be hungry and how to keep that with me my whole life.
+
+Thank you very much.
+
+Steve sometimes exchanged calls with President Bill Clinton.               In 1995, the year  Toy Story  was released and Pixar had its IPO.               In 1995, around the time of the Pixar-Disney deal renegotiation.             Email Exchange Between Steve, Intel CEO Andy Grove, and an Intel Engineer
+
+“I have changed my position 180 degrees.”
+
+As Pixar became a leader in graphics, Steve and his mentor, Intel CEO Andy Grove, discussed how Intel might learn from Pixar. When an Intel engineer tried to follow up, Steve resisted.
+
+From: [Engineer 1 at Intel]
+
+To: Steve Jobs
+
+Cc: Andy Grove
+
+Subject: Pixar-3D graphics
+
+Date: September 22, 1995, 2:04 p.m.
+
+Steve,
+
+Andy asked me to look into what we should do in dramatically improving the Intel architecture platform’s 3D graphics performance. He indicated that you and key people at Pixar like Ed Catmull have lots of good ideas on what we should do in this area. I actually contacted Ed several months ago but he was real busy and cannot commit to meeting until after Sept. As you know, I am in charge of microprocessors at Intel.
+
+I have located several key Intel 3D experts. One of them, [Engineer 2], came from Sun over a year ago. I would like to have a meeting (at Next, Intel or Pixar) with you, Catmull, and others with me and our graphics experts to discuss your ideas and map out what our action plans are. I am in Tokyo next week but will be back in my office on Monday Oct. 2. I will ask my admin to contact your office to set that meeting up.
+
+Thanks.
+
+[Engineer 1]
+
+From: Steve Jobs
+
+To: [Engineer 1]
+
+Subject: Pixar-3D graphics
+
+Date: September 23, 1995, 7:11 p.m.
+
+[Engineer 1],
+
+Pixar does indeed possess the knowledge to enable Intel’s processors to render 3D graphics at much high performance and quality. These “secrets” could definitely make their way into future Intel general purpose processor hardware.
+
+We believe this single capability is the key for Intel to dramatically enlarge the PCs market share in the consumer market – by significantly surpassing the dedicated gaming machines (Sega, Nintendo, Playstation, etc) graphics capabilities.
+
+Pixar’s secrets were invented through significant investment over ten years or more, and we value them highly. Even without the secrets implemented in the processor, Pixar can gain significant competitive advantage and differentiation through implementing them in software. By disclosing the “correct” way to do high quality, high performance graphics, Pixar will lose much of this to any and all competitors, with no work on their part. Hence, the need for compensation.
+
+What does Intel propose to give Pixar for disclosing and licensing its secrets to Intel?
+
+Steve
+
+From: [Engineer 1]
+
+To: Steve Jobs
+
+Cc: Andy Grove
+
+Subject: Re: Pixar-3D graphics
+
+Date: September 25, 1995, 11:22 a.m.
+
+Steve,
+
+We would very much like to have our meeting, but I will put that on hold based on your input. We talked to many key people on ideas to improve the microprocessor capability with the aim that this will benefit the whole industry, and everyone will benefit. We have not entered into any financial arrangement in exchange for good ideas for our microprocessors in the past and have no intention for the future.

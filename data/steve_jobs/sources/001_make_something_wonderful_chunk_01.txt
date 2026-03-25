@@ -1,0 +1,42 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 1/32
+
+Preface: Steve on His Childhood and Young Adulthood
+
+Steve typically kept his personal life private, but he did occasionally talk about growing up in the San Francisco Bay Area. It was a time when engineers and programmers began flooding into what came to be known as Silicon Valley.
+
+In 1995, he recorded an oral history for the Smithsonian.
+
+I was very lucky. I had a father, named Paul, who was a pretty remarkable man. He never graduated from high school. He joined the Coast Guard in World War II and ferried troops around the world for General Patton, and I think he was always getting into trouble and getting busted down to Private. He was a machinist by trade and worked very hard and was kind of a genius with his hands.
+
+He had a workbench out in the garage where, when I was about five or six, he sectioned off a little piece of it and said, “Steve, this is your workbench now.” And he gave me some of his smaller tools and showed me how to use a hammer and saw and how to build things. It really was very good for me. He spent a lot of time with me, teaching me how to build things, take things apart, put things back together.
+
+One of the things that he touched upon was electronics. He did not have a deep understanding of electronics himself, but he’d encountered electronics a lot in automobiles and other things that he would fix. He showed me the rudiments of electronics, and I got very interested in that.
+
+I grew up in Silicon Valley. My parents moved from San Francisco to Mountain View when I was five. My dad got transferred, and that was right in the heart of Silicon Valley, so there were engineers all around. Silicon Valley, for the most part, at that time, was still  orchards— apricot orchards and prune  orchards— and it was really paradise. I remember almost every day the air being crystal clear, where you could see from one end of the valley to the other. It was really the most wonderful place in the world to grow up.
+
+There was a man that moved in down the street, maybe about six or seven houses down the block, who was new in the neighborhood with his wife. And it turned out that he was an engineer at Hewlett-Packard and he was a ham-radio operator and really into electronics. What he did to get to know the kids on the block was rather a strange thing: he put out a carbon microphone and a battery and a speaker on his driveway, where you could talk into the microphone and your voice would be amplified by the speaker. Kind of a strange thing when you move into a neighborhood, but that’s what he did.
+
+I got to know this man, whose name was Larry Lang, and he taught me a lot of electronics. He was great. He used to build Heathkits. Heathkits were really great. Heathkits were these products that you would buy in kit form. You actually paid more money for them than if you just went and bought the finished product, if it was available. These Heathkits would come with these detailed manuals about how to put this thing together, and all the parts would be laid out in a certain way and color coded. You’d actually build this thing yourself.
+
+I would say that gave one several things. It gave one an understanding of what was inside a finished product and how it worked, because it would include a theory of operation. But maybe even more importantly, it gave one the sense that one could build the things that one saw around oneself in the universe. These things were not mysteries anymore. I mean, you looked at a television set, and you would think, “I haven’t built one of  those— but I could. There’s one of those in the Heathkit catalog, and I’ve built two other Heathkits, so I could build a television set.” Things became much more clear that they were the results of human creation, not these magical things that just appeared in one’s environment that one had no knowledge of their interiors. It gave a tremendous degree of self-confidence that, through exploration and learning, one could understand seemingly very complex things in one’s environment. My childhood was very fortunate in that way.
+
+School was pretty hard for me at the beginning. My mother taught me how to read before I got to school, and so when I got there I really just wanted to do two things: I wanted to read books, because I loved reading books, and I wanted to go outside and chase butterflies. You know, do the things that five-year-olds like to do. I encountered authority of a different kind than I had ever encountered before, and I did not like it. And they really almost got me. They came this close to really beating any curiosity out of me.
+
+By the time I was in third grade, I had a good buddy of mine, Rick Ferrentino, and the only way we had fun was to create mischief. I remember there was a big bike rack where everybody put their bikes, maybe a hundred bikes in this  rack— and we traded everybody our lock combinations for theirs on an individual basis. Then [we] went out one day and put everybody’s lock on everybody else’s bike, and it took them until about ten o’clock that night to get all the bikes sorted out. We set off explosives in teachers’ desks. We got kicked out of school a lot.
+
+In fourth grade I encountered one of the other saints of my life. They were going to put me and Rick Ferrentino into the same fourth-grade class, and the principal said at the last minute, “No, bad idea. Separate them.” So this teacher, Mrs. Hill, said, “I’ll take one of them.” She taught the advanced fourth-grade class, and thank God I was the random one that got put in the class. She watched me for about two weeks and then approached me. She said, “Steven, I’ll tell you what. I’ll make you a deal. I have this math workbook, and if you take it home and finish it on your own without any help, and you bring it back to me, if you get it 80 percent right, I will give you five dollars and one of these really big suckers.” She [had] bought [a sucker], and she held it out in front of  me— one of these giant things.
+
+And I looked at her like, “Are you crazy, lady? Nobody’s ever done this before!” And of course I did it. She basically bribed me back into learning, with candy and money. And what was really remarkable was before very long I had such a respect for her that it sort of reignited my desire to learn. She was remarkable. She got me kits for making cameras. I ground my own lens and made a camera. It was really quite wonderful. I think I probably learned more academically in that one year than I’d ever learned in my life.
+
+In 1984, Steve chatted with reporter David Sheff about how, as young adults, he and others of his generation began to develop their own cultural outlook.
+
+My parents never pushed me to go to college, but they always wanted to make sure that if I wanted to go, they had the resources to do it. And they saved, they really sacrificed some and saved some money up [for me to attend Reed College], but […] after six months, it just, it just seemed really absurd to be spending their life savings putting me through college.
+
+I didn’t know enough about what I wanted to do, and besides that, I figured I could drop out and then drop back in and take the classes anyway and learn just as much. So I dropped out after six months, and then I dropped in for a little over a year.
+
+I spent about a year and a half there, maybe close to two years. And I enjoyed it greatly. It was a hard time in my life, but I enjoyed it a lot. I didn’t know what I wanted to do with my life. And Reed was a very intense place, very bright  people— everyone out to change the world, but not knowing quite how.
+
+The early seventies was the time that sort of Eastern mysticism hit the shores of the United States. And we had a constant flow of people traveling through Reed, stopping off at Reed. Everyone from Timothy Leary and Richard Alpert to Gary Snyder, people like that. So there’s a constant flow of intellectual questioning about the truth of life and existence.

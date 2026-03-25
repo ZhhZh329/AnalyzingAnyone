@@ -1,0 +1,84 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 16/32
+
+As you know, we repriced all stock options to $13.25 on July 11th. In addition, I am pleased to announce that on August 5th our Board approved new stock option grants totaling six million shares at the price of $19.75. Those receiving these new grants will get the good news later this week.
+
+Apple has granted stock options for over 10 million shares since the beginning of this calendar year, and employees now hold stock options for over 20 million shares - which is more than 16% of Apple’s total outstanding shares. This is a very high percentage for a company of Apple’s size, and comparable to many valley start-ups. As we restore Apple’s fortunes, our public shareholders and our employee stock option holders will all benefit in harmony.
+
+2. New Severance Plan - Effective today, we are changing our severance plan for all employees to be more in line with an entrepreneurial company. There will now be only one severance plan for all employees. This plan, like the previous plans, will provide a 60 day notice period, with full pay and benefits. In addition, employees will be eligible to receive one additional week of severance pay for each full year of service. For example, if you have worked at the company for more than three but less than four years, you will receive your pay and benefits during the 60 day notice period plus severance payments equal to three weeks of pay. This new severance plan applies to all employees of Apple, Claris, and Newton in the US - there is no longer a separate executive severance plan.
+
+We will be changing our international severance policies to be in line with this new plan to the extent permitted under local laws.
+
+3. Sabbatical Program - Apple needs all hands on deck for the foreseeable future as we turn our company’s fortunes around. We are therefore discontinuing the sabbatical program at the end of our current fiscal year. Employees who have earned their sabbatical as of September 26, 1997, will be eligible to take their sabbatical at a mutually agreeable time during fiscal year 1998. This applies to all employees of Apple, Claris, and Newton worldwide.
+
+4. Corporate Travel - Corporate travel will continue to be constrained to essential trips. Our egalitarian travel policy specifies coach class travel for everyone on trips lasting less than 10 hours, and business class travel for everyone on trips of 10 hours or longer. Of course individuals may use their personal funds or mileage awards to upgrade their seating class. For clarification, flights between San Francisco and Tokyo (either direction) are eligible for business class travel.
+
+5. Facilities - We will continue to move as many employees as possible onto our R&D Campus site. We will greatly benefit by the resulting “beehive” effects, including faster communication paths and more unplanned interactions between the various groups. Reflecting this consolidation, we are renaming the R&D Campus to the Apple Campus, beginning today.
+
+Thank you for your support as we work together to renew Apple.
+
+Steve and the Executive Team
+
+Email Exchange with Avie Tevanian
+
+“There is something good here worth saving.”
+
+Avie Tevanian ran software engineering at NeXT and assumed the same role at Apple when it acquired NeXT. He told Steve that the Apple culture at the time of the acquisition was so bad that perhaps the best move might be to sell the company.
+
+From: Avadis Tevanian
+
+To: Steve Jobs
+
+Subject: Apple engineers
+
+Date: August 14, 1997, 9:31 p.m.
+
+Steve,
+
+The last couple of weeks have been quite interesting. With this kernel issue spinning out of control it is clear to me that the “cancer” within Apple, which we had put into remission (at least in SW engineering) a few months ago, came back with a vengeance. I am now applying a new chemo treatment in an attempt to put it back into  remission— and I think it will be  successful— but we will definitely have another wave of resignations from the sharks that smelled the blood in the water. A bunch of people will get over it, but many will not.
+
+The net is the really bad Apple culture we’ve heard about still lurks out there. And I am convinced that a major problem with past management was their inability to deal with it. While I am a strong-willed person who can survive almost anything (hey, you’ve seen it first hand), I must admit these guys are wearing me down. Without any emotional tie to Apple (I, of course, have none) it gets increasing difficult to come to work each day. And while I can certainly treat the patient this time I wonder how long it will be before the cancer comes out of remission again. The context of a continuation of revenue decrease, losing quarters and ongoing restructuring does not help.
+
+In the case of the kernel issue & OS roadmap I know the decisions we’ve made are the right decisions. And each day, as I discuss it with more and more people, I believe it even more. In fact, I’ve discovered just how conniving some of these folks can be just to push their  agenda— including pretty severe obfuscation of facts. While the source of this is probably only a few people, they are able to quickly spread “evil thoughts” throughout the population that is just looking for a place to make a stand.
+
+Combine this all with the reaction to the sabbatical  program— which has been very poorly received in engineering (I’ve heard threats of a “sick-out”), and it makes me think this company isn’t worth saving. At least not for the sake of the employees. Yes, I feel for the customers. Yes, the shareholders deserve fair value. And yes, I worry about the ex-NeXTers we dragged into this. But it is not at all clear to me that the employees deserve to “win.” This, of course, is an overgeneralization, and there are some very good folks here, but you get the gist of this.
+
+It really makes me think that maybe now is the time to seriously consider selling the company. It’s not clear we’ll ever again have the positive aura that we have  now— at least temporarily.
+
+Anyway, we should get together and discuss all this  sometime— face to face,  1-1— not on the phone. Not  urgent— I’m a  survivor— but when we both have some time.
+
+Avie
+
+From: Steve Jobs
+
+To: Avadis Tevanian
+
+Subject: Apple engineers
+
+Date: August 14, 1997, 10:02 p.m.
+
+Avie,
+
+You know, I have had the same feeling  lately— that Apple employees don’t deserve to be saved. They think they work so  hard— heck, I don’t see it. They also think they have no responsibility for any of the mess that Apple’s in.
+
+I don’t know who they think engineered and shipped such bad products, who created and authorized such bad marketing, who caused the support to be so bad, etc… They just don’t want to share any responsibility for the current state of the company…
+
+But, there is something good here worth saving. I don’t quite know how to express it, but it has to do with the fact that Apple is the ONLY alternative to Windows and that Apple can still inject some new thinking into the equation.
+
+Let’s go for a walk and talk about this sometime soon,
+
+Steve
+
+From: Avadis Tevanian
+
+To: Steve Jobs
+
+Subject: Re: Apple engineers
+
+Date: August 25, 1997, 10:05 p.m.
+
+We really need to get together to discuss this and other issues related to the “product strategy” and overall management of the company. I am worried about a number of the pieces of the puzzle and as a result am completely unmotivated to do what it takes to turn this company around. And for the first time in 10 years I don’t even feel like challenging your ideas when I  disagree— which scares me because I believe as a “team” we work best when we challenge each other and come out all-the-better for it.
+
+I am going to sleep on this some more tonight (I feel fried already and it’s only Monday  evening— even the weekends aren’t sufficient to recharge these days). I have a pretty hectic schedule tomorrow (except for late in the day) but have lots of available time on Wednesday. Let me know when you’re available.

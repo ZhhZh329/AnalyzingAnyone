@@ -1,0 +1,177 @@
+{
+  "discipline": "sociology",
+  "lens": "dramaturgy_goffman",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper who actively constructs and imposes new interaction frames rather than responding to existing structures",
+      "finding": "From a Goffman dramaturgical perspective, Musk exemplifies the 'director' role in the theatrical metaphor—he not only performs within given frames but actively creates and defines new frames. His 2016 Mars colonization presentation (ev_022, ev_024) exemplifies frame creation: he constructed a new definition of the situation where humanity's survival depends on his personal mission. Rather than responding to existing institutional frames (NASA, automotive industry), he created parallel structures (SpaceX, Tesla) with his own rules. His Twitter acquisition (ev_017, ev_029) further demonstrates frame imposition—he redefined the platform's purpose and the company's operational framework through unilateral action. This pattern suggests Musk sees himself as authorized to define 'what is happening' in any interaction, a classic Goffmanian frame-control strategy.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_022",
+        "ev_024",
+        "ev_029",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First-principles reasoning as frame rejection strategy—systematically dismantling conventional frameworks to rebuild from underlying elements",
+      "finding": "Musk's self-described 'physics framework' thinking (ev_025) aligns with Goffman's concept of 'rekeying'—the transformation of an activity's meaning by changing its frame. Rather than analogical reasoning (accepting existing frames), he engages in systematic frame deconstruction. His statement 'physics teaches you to reason from first principles rather than by analogy' (ev_025) describes a cognitive process where he treats established frameworks as negotiable rather than given. This produces dramatic reframe operations: rockets should be 10% of current cost, cars should be electric, Twitter should be 'the bird is freed' (ev_017). This epistemic style is strategically valuable in dramaturgical terms—it allows him to reframe situations where others accept the given definition, giving him frame-control advantage in interactions.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_008",
+        "ev_017",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization in engineering and organizational systems, but performative theatricality in public presentation—unusual combination of systematizer and showman",
+      "finding": "Goffman's framework distinguishes between 'routine' performances (highly scripted) and 'dramatic realizations' (expressive displays). Musk exhibits both: his 'algorithm' management methodology (ev_016) demonstrates high formalization—five-step processes that assume reality can be systematized. Yet his public performances reveal theatrical calculation: the Falcon Heavy launch with his Tesla Roadster (ev_020, ev_021) was pure 'dramatic realization'—transforming a test payload into a media event that encoded his personal brand. The Hyperloop white paper (ev_049) represents formalization as performance—he published detailed plans not to execute but to 'show it was possible' (ev_050), essentially performing competence for an audience. This suggests a performer comfortable with both systematized backstage operations and highly visible frontstage theatricality.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_020",
+        "ev_021",
+        "ev_049",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Maximum control over impression management, with extensive personal front management and micro-level performance monitoring",
+      "finding": "Musk's control orientation manifests in multiple Goffman-relevant dimensions. First, personal front control: his public persona is carefully managed across platforms—the 'hardcore' work email (ev_053), the code commit review (ev_052), the performative factory-floor sleeping (ev_056). Second, he attempts to control others' performances: firing engineers on the spot for disagreement (ev_054), then sometimes rehiring them—treating people as props that can be added or removed from the production. Third, he controls the frame: his $420 tweet (ev_015) was an attempt to define the situation unilaterally, and when the SEC challenged his frame-definitions, he engaged in what Goffman would call 'face-work'—negotiating the terms of his self-presentation under institutional pressure. His control extends to the micro-level—he monitors productivity through code commits rather than trusting institutional delegation structures.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_052",
+        "ev_053",
+        "ev_054",
+        "ev_056",
+        "ev_057"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistent mission-optimization with minimal relational cost calculation—will sacrifice relationships and social standing to pursue defined objectives",
+      "finding": "Goffman's 'face-work' theory distinguishes between self-oriented and other-oriented face maintenance. Musk consistently prioritizes mission-oriented face-work over relational maintenance. His statement that 'nobody ever changed the world on 40 hours a week' (ev_031) frames relational costs as irrelevant to the mission. The Model 3 production crisis (ev_028, ev_056) exemplifies this: he worked 120-hour weeks, slept on the factory floor (ev_056), and his 'demon mode' (ev_42) destroyed teams and relationships for outcomes. His confrontational stance at DealBook Summit—telling advertisers 'go fuck yourself' (ev_019)—prioritized message delivery over relational preservation, accepting massive financial loss (ev_055). The father-son relationship dynamic (ev_002) suggests early experience that relationships are subordinate to other values. Even his charitable giving through America PAC (ev_046) appears instrumental to mission rather than relational maintenance. Goffman would note this is a 'performative orientation' where the role (mission-carrier) dominates personal relationships.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_028",
+        "ev_031",
+        "ev_032",
+        "ev_042",
+        "ev_046",
+        "ev_055",
+        "ev_056"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-embracing with dramatic performance implications—treats high-stakes situations as opportunities for frame-redefining theatrical displays",
+      "finding": "Musk's risk posture aligns with Goffman's concept of 'risky' performances—actions where the gap between frontstage claims and backend reality could cause 'performance collapse.' He acknowledged <10% success probability for SpaceX (ev_008) and 'accepted losing everything.' This is dramaturgically significant because he chose to perform confidence in a high-risk frame publicly—which Goffman would analyze as 'dramatic realization' of confidence. His Mars presentation explicitly framed risk as inherent: 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_023). The SEC confrontation (ev_015, ev_027) shows risk-taking in the definition of the situation itself—he tweeted a frame ('funding secured') that was contested, creating a high-risk performance. His willingness to accept personal financial and reputational risk allows for more dramatic frontstage performances because the 'backstage' safety net is conceptually removed—he performs as if he has nothing to lose, which intensifies the performance.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_023",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent—challenges institutional authority to create personal alternatives while simultaneously constructing new hierarchies around himself",
+      "finding": "Goffman's analysis of 'deference' and 'demeanor' illuminates Musk's complex relationship with hierarchy. He exhibits what might be termed 'hierarchy arbitrage'—when confronted with existing power structures (NASA, auto industry, traditional media), he creates parallel institutions where he occupies the power position rather than accepting subordination. His statement about leaving the Democrats (ev_045) reflects this: he rejects existing hierarchies to position himself as a new hierarchy-constructor. At the same time, his own organizations are characterized by extreme vertical control—he is the definitional authority in his companies, with little delegation of frame-control. His DOGE role (ev_043, ev_057) represents an unusual position: using his personal brand authority to impose corporate frames on government structures. This reveals a dramaturgical orientation where hierarchy is a tool to be captured or built, not respected as given—a performer's relationship to institutional power that treats all hierarchies as reversible scripts.",
+      "evidence_ids": [
+        "ev_043",
+        "ev_045",
+        "ev_046",
+        "ev_057"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct escalation with confrontational face-work—prefers frame-dominance over frame-negotiation; treats conflict as opportunity for theatrical positioning",
+      "finding": "Musk's conflict strategy aligns with Goffman's 'aggressive face-work'—direct attacks on others' face to establish frame-dominance. The DealBook confrontation (ev_019) exemplifies: 'Go fuck yourself' is a maximum confrontation statement that refuses the 'face-saving' mechanisms Goffman identifies as central to social interaction. The Autopilot controversy (ev_033) and subsequent engineer resignations show conflict escalation—he pressed forward with his chosen frame despite warnings, treating the conflict as secondary to his frame-definition. His ability to 'fire on the spot' (ev_054) and occasionally rehire demonstrates use of conflict as theatrical tool—creating dramatic tension for effect. Goffman would note that this is a high-risk strategy because it exhausts 'corrective interchange' options; once you've told someone to 'go fuck yourself,' there's limited face-saving room left. This creates what might be called 'burned earth' conflict management—after maximal confrontation, the relationship must be entirely reconstructed rather than repaired.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_033",
+        "ev_054"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale temporal orientation—optimizing for civilization-level outcomes spanning decades, with short-term disruptions accepted as necessary",
+      "finding": "Goffman's 'situated identity' concept involves temporal dimensions—individuals maintain self-conceptions across time. Musk's temporal orientation is distinctly 'mission-scale': the Mars colonization frame (ev_022) positions humanity's timeline in relation to his personal mission. His statement about maintaining 'the light of consciousness' (ev_029) suggests a temporal horizon extending beyond his lifetime. The Hyperloop release (ev_050)—publishing rather than profiting—suggests time-horizon optimization for idea-adoption rather than immediate returns. This produces specific dramaturgical effects: acceptance of short-term performance failures (repeated rocket launch failures ev_015-017, eventually succeeded ev_009) because the frame is 'long-term mission.' His DOGE role (ev_044) explicitly frames work as 'a way of life throughout the government'—temporal extension. This suggests a performer who treats short-term relational costs (conflict, burned-earth interactions) as acceptable given the long-term frame.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_015",
+        "ev_017",
+        "ev_022",
+        "ev_029",
+        "ev_044",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference—rejects incremental adjustment in favor of frame-replacement; treats existing systems as scripts to be rewritten",
+      "finding": "Musk exhibits clear preference for structural redesign over local repair across multiple domains. Twitter acquisition (ev_029) exemplifies: rather than adjusting the platform's operations, he implemented total restructuring—80% workforce reduction (ev_018), platform rebranding, definition reframe. This aligns with Goffman's frame analysis—he treats existing frameworks as 'keying' opportunities: transformation rather than optimization. His 'algorithm' framework (ev_016) explicitly prioritizes 'not optimizing something that shouldn't exist'—first determine if the activity should exist at all before improving it. This is frame-replacement logic rather than frame-refinement. His co-founding of parallel institutions (SpaceX as alternative to NASA-aligned aerospace, Tesla as alternative to traditional auto, X as alternative to traditional social media) demonstrates systemic rebuild preference. The 'new Twitter' rebrand represents complete frame-transformation rather than修补. From a dramaturgical perspective, this is a performer who treats social structures as scripts that can be rewritten rather than performed—the 'backstage' is not a place to prepare performances but a site for structural construction.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_018",
+        "ev_029",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate—explicitly articulates thinking frameworks but may have blind spots around social performance dynamics and relational impact",
+      "finding": "Goffman's dramaturgical framework itself represents a metacognitive level—seeing social interaction as performance. Musk demonstrates explicit metacognition in some domains: his articulation of 'first principles' thinking (ev_025) shows awareness of his own reasoning process. His 'algorithm' (ev_016) is a metacognitive structure—he's thinking about thinking. However, the Goffman lens reveals potential metacognitive blind spots: he may not fully recognize his own performative choices as performance. His 'demon mode' (ev_042) is described as genuine intensity rather than theatrical choice. The contrast between his public statements ('humans are underrated' ev_014) and his extreme automation push suggests possibly incomplete metacognition about how his communications affect others. His personal reflection 'there are many nights I sleep alone' (ev_039) suggests some awareness of relational costs, but framed as inevitability rather than performance consequence. Goffman would note that high metacognition about social performance can create 'performance anxiety'—excessive self-awareness that undermines natural interaction. Musk may partially avoid this by treating his performances as 'authentic expressions' rather than performances, which could be a metacognitive protection mechanism.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_016",
+        "ev_025",
+        "ev_039",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "authenticity_performance_tension",
+      "definition": "The degree to which someone's self-presentation is consciously performed versus claimed as genuine identity; central to Goffman's analysis but not directly measured in shared constructs",
+      "finding": "Musk exhibits a distinctive pattern: he performs authenticity by rejecting performance. His public persona claims to reject 'politically correct' performance—'Go fuck yourself' (ev_019) is framed as authentic non-performance. Yet his entire persona (the mission narratives, the dramatic launches, the code-review sessions) is highly constructed. This creates what might be termed 'anti-performance performance'—the rejection of decorum becomes a theatrical choice. Goffman's framework notes that 'sincere' performers believe in their own performance, while 'cynical' performers may not. Musk appears to oscillate: he seems to genuinely believe in his mission-frame, suggesting sincere performance, yet his tactical choices (the Twitter rebrand, the flamethrower sales ev_038) indicate cynical calculation. This tension is analytically important because it affects how audiences interpret his performances—and may explain the polarized reactions he provokes.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_038",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "backstage_leakage_management",
+      "definition": "How此人 manages the boundary between frontstage performance and backstage reality; specifically how private information becomes public and how private states are shielded from observation",
+      "finding": "Musk's backstage management exhibits unusual patterns. His childhood bullying experiences (ev_001, ev_002) became public material that he discussed in biographies, suggesting partial backstage disclosure. His factory-floor sleeping (ev_056) can be read as 'backstage leakage' performed as frontstage—he made private suffering visible as performance. The first child death (ev_040, ev_041) represents extreme backstage exposure that he processed by returning to work immediately—treating the private trauma as not requiring conventional relational support. His public statements about loneliness (ev_039) suggest some conscious backstage revelation. However, his code-review productivity measurement (ev_052) represents unusual frontstage/backstage boundary collapse—he brought performance-evaluation into visible space. Goffman would note that effective impression management requires maintaining some backstage privacy. Musk may partially fail at this, exposing backstage material either intentionally (as authenticity-performance) or through compulsive performance intensity that doesn't allow genuine backstage recovery.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_039",
+        "ev_040",
+        "ev_041",
+        "ev_052",
+        "ev_056"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -32,6 +32,117 @@ def discover_agents(agents_dir: Path) -> dict[str, list[Path]]:
     return result
 
 
+# ── Skill discovery ──────────────────────────────────────────
+
+def discover_skills(skills_dir: Path) -> list[dict]:
+    """
+    Scan a discipline agent's skills/ directory.
+    Returns a list of skill dicts: [{"key": str, "content": str, "source": str}]
+
+    Rules:
+    - Top-level .md → 1 call
+    - Subdirectory + skill.yaml:
+      - independent: true  → each .md = 1 independent call
+      - independent: false (default) → all .md merged into 1 call
+      - no skill.yaml → default independent: false
+    """
+    if not skills_dir.exists():
+        return []
+    skills = []
+    for item in sorted(skills_dir.iterdir()):
+        if item.is_file() and item.suffix == ".md":
+            skills.append({
+                "key": item.stem,
+                "content": item.read_text(encoding="utf-8"),
+                "source": str(item),
+            })
+        elif item.is_dir():
+            cfg_file = item / "skill.yaml"
+            independent = False
+            if cfg_file.exists():
+                cfg = yaml.safe_load(cfg_file.read_text(encoding="utf-8")) or {}
+                independent = cfg.get("independent", False)
+
+            md_files = sorted(item.glob("*.md"))
+            if not md_files:
+                continue
+
+            if independent:
+                for md in md_files:
+                    skills.append({
+                        "key": f"{item.name}_{md.stem}",
+                        "content": md.read_text(encoding="utf-8"),
+                        "source": str(md),
+                    })
+            else:
+                combined = "\n\n---\n\n".join(
+                    md.read_text(encoding="utf-8") for md in md_files
+                )
+                skills.append({
+                    "key": item.name,
+                    "content": combined,
+                    "source": str(item),
+                })
+    return skills
+
+
+def build_construct_matrix(all_annotations: list[dict], config: dict) -> str:
+    """
+    Reorganize all lens annotations into a construct-centric matrix view
+    for the synthesizer.
+
+    Output:
+      construct: agency_orientation
+        pragmatism (philosophy):     strong — "assessment text"
+        systems_thinking (cs_eng):   moderate — "assessment text"
+    """
+    constructs = config.get("shared_constructs", [])
+    construct_keys = [c["key"] for c in constructs]
+
+    # Build lookup: construct_key → list of (discipline, lens, assessment, support)
+    matrix: dict[str, list[tuple]] = {k: [] for k in construct_keys}
+    emergent_all: list[dict] = []
+
+    for ann in all_annotations:
+        disc = ann.get("discipline", "unknown")
+        lens = ann.get("lens", "unknown")
+        for c in ann.get("constructs", []):
+            key = c.get("construct_key", "")
+            if key in matrix:
+                matrix[key].append((
+                    disc, lens,
+                    c.get("assessment", ""),
+                    c.get("local_support", ""),
+                    c.get("finding", ""),
+                ))
+        for e in ann.get("emergent_constructs", []):
+            e_copy = dict(e)
+            e_copy["originating_lens"] = f"{lens} ({disc})"
+            emergent_all.append(e_copy)
+
+    lines = []
+    for key in construct_keys:
+        q = next((c["question"] for c in constructs if c["key"] == key), "")
+        lines.append(f"construct: {key}")
+        lines.append(f"  question: {q}")
+        for disc, lens, assessment, support, finding in matrix[key]:
+            if support == "not_applicable":
+                continue
+            lines.append(f"  {lens} ({disc}): {support} — {assessment}")
+            if finding:
+                # indent finding for readability
+                lines.append(f"    {finding[:300]}")
+        lines.append("")
+
+    if emergent_all:
+        lines.append("=== EMERGENT CONSTRUCTS (discovered by individual lenses) ===")
+        for e in emergent_all:
+            lines.append(f"  [{e.get('originating_lens', '?')}] {e.get('dimension_name', '?')}: {e.get('finding', '')[:200]}")
+        lines.append("")
+
+    return "\n".join(lines)
+
+
 # ── Prompt helpers ────────────────────────────────────────────
 
 def parse_prompt_md(content: str) -> tuple[str, str]:
@@ -70,35 +181,53 @@ def build_sources_block(sources: list[dict]) -> str:
 
 def build_analyses_block(analyses: list[dict]) -> str:
     """
-    Concatenate discipline analyses with clear labels.
+    Concatenate analyses with clear labels.
+    Supports both v2 (discipline-level) and v2.1 (lens-level) format.
 
-    === philosophy ===
-    { ... }
-
-    === psychology ===
+    === philosophy / pragmatism ===
     { ... }
     """
     parts = []
     for a in analyses:
         discipline = a.get("discipline", "unknown")
+        lens = a.get("lens", "")
+        label = f"{discipline} / {lens}" if lens else discipline
         parts.append(
-            f"=== {discipline} ===\n"
+            f"=== {label} ===\n"
             + json.dumps(a, ensure_ascii=False, indent=2)
         )
     return "\n\n".join(parts)
 
 
-def build_anchored_dimensions(config: dict) -> str:
+def build_shared_constructs(config: dict) -> str:
     """
-    Render anchored_dimensions from config.yaml as a bullet list.
+    Render shared_constructs from config.yaml as a bullet list.
 
-    - core_values: What matters most to this person?
-    - decision_logic: How do they reason through dilemmas?
+    - agency_orientation: Does this person mainly act as a world-shaper or structure-responder?
+    - epistemic_style: How does this person form beliefs and judgments?
     """
     lines = []
-    for dim in config.get("anchored_dimensions", []):
+    for dim in config.get("shared_constructs", []):
         lines.append(f"- {dim['key']}: {dim['question']}")
     return "\n".join(lines)
+
+
+def load_source_context(skills_dir: Path, source_types: set) -> str:
+    """
+    Load source-context skill YAML files for the given source types.
+    Returns a formatted string to inject into discipline prompts.
+    """
+    parts = []
+    for stype in sorted(source_types):
+        f = skills_dir / "source_context" / f"{stype}.yaml"
+        if f.exists():
+            skill = yaml.safe_load(f.read_text(encoding="utf-8"))
+            parts.append(
+                f"### {stype}\n"
+                + skill.get("credibility_notes", "").strip() + "\n"
+                + skill.get("weight_guidance", "").strip()
+            )
+    return "\n\n".join(parts)
 
 
 def fill_placeholders(template: str, **kwargs: Any) -> str:
@@ -120,27 +249,11 @@ def default_build_prompt(
     subject = context.get("subject", "")
     cfg = context.get("config", config)
 
+    # ── V1 legacy roles (kept for backward compatibility) ──────
     if role == "extract":
         sources_block = build_sources_block(context["sources"])
         system = fill_placeholders(system_raw, subject=subject, sources_block=sources_block)
         user = fill_placeholders(user_raw, subject=subject, sources_block=sources_block)
-
-    elif role == "discipline":
-        events = context["events"]
-        events_json = json.dumps(events, ensure_ascii=False, indent=2)
-        anchored_dimensions = build_anchored_dimensions(cfg)
-        system = fill_placeholders(
-            system_raw,
-            subject=subject,
-            events_json=events_json,
-            anchored_dimensions=anchored_dimensions,
-        )
-        user = fill_placeholders(
-            user_raw,
-            subject=subject,
-            events_json=events_json,
-            anchored_dimensions=anchored_dimensions,
-        )
 
     elif role == "triangulate":
         analyses = context["analyses"]
@@ -148,22 +261,102 @@ def default_build_prompt(
         system = fill_placeholders(system_raw, subject=subject, analyses_block=analyses_block)
         user = fill_placeholders(user_raw, subject=subject, analyses_block=analyses_block)
 
-    elif role == "report":
-        triangulation = context["triangulation"]
+    # ── V2 roles ───────────────────────────────────────────────
+    elif role == "assemble":
+        sources_block = build_sources_block(context["sources"])
+        system = fill_placeholders(system_raw, subject=subject, sources_block=sources_block)
+        user = fill_placeholders(user_raw, subject=subject, sources_block=sources_block)
+
+    elif role == "discipline":
+        assembly = context["assembly"]
+        events_json = json.dumps(assembly.get("timeline", []), ensure_ascii=False, indent=2)
+        evidence_cards_json = json.dumps(assembly.get("evidence_cards", []), ensure_ascii=False, indent=2)
+        shared_constructs = build_shared_constructs(cfg)
+        source_types = context.get("source_types", set())
+        skills_dir = Path("skills")
+        source_context = load_source_context(skills_dir, source_types)
+
+        # V2.1: skill-based sub-lens injection
+        current_lens = context.get("current_lens", {})
+        skill_content = current_lens.get("content", "") if isinstance(current_lens, dict) else ""
+        lens_key = current_lens.get("key", "") if isinstance(current_lens, dict) else ""
+        discipline_name = context.get("discipline_name", "")
+        discipline_display = context.get("discipline_display", discipline_name)
+
+        common_kwargs = dict(
+            subject=subject,
+            events_json=events_json,
+            evidence_cards_json=evidence_cards_json,
+            shared_constructs=shared_constructs,
+            source_context=source_context,
+            skill_content=skill_content,
+            lens_key=lens_key,
+            discipline_name=discipline_name,
+            discipline_display=discipline_display,
+        )
+        system = fill_placeholders(system_raw, **common_kwargs)
+        user = fill_placeholders(user_raw, **common_kwargs)
+
+    elif role == "critique":
+        assembly = context["assembly"]
         analyses = context["analyses"]
-        triangulation_json = json.dumps(triangulation, ensure_ascii=False, indent=2)
+        evidence_cards_json = json.dumps(assembly.get("evidence_cards", []), ensure_ascii=False, indent=2)
         analyses_block = build_analyses_block(analyses)
         system = fill_placeholders(
             system_raw,
             subject=subject,
-            triangulation_json=triangulation_json,
+            evidence_cards_json=evidence_cards_json,
             analyses_block=analyses_block,
         )
         user = fill_placeholders(
             user_raw,
             subject=subject,
-            triangulation_json=triangulation_json,
+            evidence_cards_json=evidence_cards_json,
             analyses_block=analyses_block,
+        )
+
+    elif role == "synthesize":
+        analyses = context["analyses"]
+        critic_output = context["critic_output"]
+        analyses_block = build_analyses_block(analyses)
+        critic_output_json = json.dumps(critic_output, ensure_ascii=False, indent=2)
+        # V2.1: construct matrix for flat cross-lens synthesis
+        construct_matrix = context.get("construct_matrix", "")
+        system = fill_placeholders(
+            system_raw,
+            subject=subject,
+            analyses_block=analyses_block,
+            critic_output_json=critic_output_json,
+            construct_matrix=construct_matrix,
+        )
+        user = fill_placeholders(
+            user_raw,
+            subject=subject,
+            analyses_block=analyses_block,
+            critic_output_json=critic_output_json,
+            construct_matrix=construct_matrix,
+        )
+
+    elif role == "report":
+        synthesis = context.get("synthesis") or context.get("triangulation", {})
+        analyses = context["analyses"]
+        critic_output = context.get("critic_output", {})
+        synthesis_json = json.dumps(synthesis, ensure_ascii=False, indent=2)
+        analyses_block = build_analyses_block(analyses)
+        critic_output_json = json.dumps(critic_output, ensure_ascii=False, indent=2)
+        system = fill_placeholders(
+            system_raw,
+            subject=subject,
+            synthesis_json=synthesis_json,
+            analyses_block=analyses_block,
+            critic_output_json=critic_output_json,
+        )
+        user = fill_placeholders(
+            user_raw,
+            subject=subject,
+            synthesis_json=synthesis_json,
+            analyses_block=analyses_block,
+            critic_output_json=critic_output_json,
         )
 
     else:
@@ -181,11 +374,70 @@ def extract_json_from_response(text: str) -> dict:
     Raises json.JSONDecodeError on failure.
     """
     text = text.strip()
+    # Strip complete <think>...</think> reasoning blocks
+    text = re.sub(r"<think>.*?</think>", "", text, flags=re.DOTALL).strip()
+    # Handle incomplete <think> blocks (model cut off before </think>):
+    # everything from <think> to end-of-string is pure reasoning, no JSON follows
+    if "<think>" in text:
+        before = text[:text.index("<think>")].strip()
+        after_match = re.search(r"</think>(.*)", text, re.DOTALL)
+        text = (after_match.group(1).strip() if after_match else before)
     # Strip markdown code fences if present
     match = re.search(r"```(?:json)?\s*\n?(.*?)```", text, re.DOTALL)
     if match:
         text = match.group(1).strip()
-    return json.loads(text)
+    if not text:
+        raise json.JSONDecodeError("Empty response after stripping think blocks", "", 0)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        candidate = extract_balanced_json(text)
+        if candidate is None:
+            raise
+        return json.loads(candidate)
+
+
+def extract_balanced_json(text: str) -> str | None:
+    """
+    Find the first balanced top-level JSON object/array inside a noisy response.
+    This is useful when the model adds a short preamble or epilogue around JSON.
+    """
+    for start, char in enumerate(text):
+        if char not in "{[":
+            continue
+
+        stack = ["}" if char == "{" else "]"]
+        in_string = False
+        escaped = False
+
+        for idx in range(start + 1, len(text)):
+            current = text[idx]
+
+            if in_string:
+                if escaped:
+                    escaped = False
+                elif current == "\\":
+                    escaped = True
+                elif current == "\"":
+                    in_string = False
+                continue
+
+            if current == "\"":
+                in_string = True
+                continue
+
+            if current == "{":
+                stack.append("}")
+            elif current == "[":
+                stack.append("]")
+            elif current in "}]":
+                if not stack or current != stack[-1]:
+                    break
+                stack.pop()
+                if not stack:
+                    return text[start:idx + 1]
+
+    return None
 
 
 # ── Provider defaults ─────────────────────────────────────────
@@ -201,37 +453,49 @@ PROVIDER_DEFAULTS: dict[str, dict] = {
         "api_base":    "https://api.openai.com/v1",
         "api_key_env": "OPENAI_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
     "google": {
         # Gemini OpenAI-compatible endpoint
         "api_base":    "https://generativelanguage.googleapis.com/v1beta/openai",
         "api_key_env": "GOOGLE_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
     "glm": {
         "api_base":    "https://open.bigmodel.cn/api/paas/v4",
         "api_key_env": "GLM_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
     "minimax": {
-        "api_base":    "https://api.minimax.chat/v1",
+        "api_base":    "https://api.minimaxi.com/anthropic",
         "api_key_env": "MINIMAX_API_KEY",
-        "format":      "openai",
+        "format":      "anthropic",
     },
     "kimi": {
         "api_base":    "https://api.moonshot.cn/v1",
         "api_key_env": "KIMI_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
     "qwen": {
         "api_base":    "https://dashscope.aliyuncs.com/compatible-mode/v1",
         "api_key_env": "QWEN_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
     "grok": {
         "api_base":    "https://api.x.ai/v1",
         "api_key_env": "GROK_API_KEY",
         "format":      "openai",
+        "stream":      True,
+        "read_timeout": 120.0,
     },
 }
 
@@ -297,13 +561,24 @@ async def call_llm(
     defaults = PROVIDER_DEFAULTS.get(provider, PROVIDER_DEFAULTS["openai"])
     base = (api_base or defaults["api_base"]).rstrip("/")
     fmt = defaults["format"]
+    stream = defaults.get("stream", True)
+    read_timeout = defaults.get("read_timeout", 120.0)
 
     for attempt in range(_retries):
         try:
             if fmt == "anthropic":
                 return await _call_anthropic(system, user, model, api_key, base, max_tokens)
             else:
-                return await _call_openai_compat(system, user, model, api_key, base, max_tokens)
+                return await _call_openai_compat(
+                    system,
+                    user,
+                    model,
+                    api_key,
+                    base,
+                    max_tokens,
+                    stream=stream,
+                    read_timeout=read_timeout,
+                )
         except httpx.HTTPStatusError as e:
             body = e.response.text[:500]
             if e.response.status_code == 429 and attempt < _retries - 1:
@@ -317,6 +592,13 @@ async def call_llm(
                     request=e.request,
                     response=e.response,
                 ) from e
+        except (httpx.ReadTimeout, httpx.ConnectTimeout, httpx.RemoteProtocolError) as e:
+            if attempt < _retries - 1:
+                wait = 2 ** (attempt + 1)
+                print(f"  [runtime] {type(e).__name__} (attempt {attempt + 1}/{_retries}), retrying in {wait}s…")
+                await asyncio.sleep(wait)
+            else:
+                raise
 
 
 async def _call_anthropic(
@@ -334,14 +616,32 @@ async def _call_anthropic(
         "system": system,
         "messages": [{"role": "user", "content": user}],
     }
-    async with httpx.AsyncClient(timeout=300.0) as client:
+    _timeout = httpx.Timeout(connect=30.0, read=600.0, write=60.0, pool=10.0)
+    async with httpx.AsyncClient(timeout=_timeout) as client:
         response = await client.post(url, headers=headers, json=body)
         response.raise_for_status()
-        return response.json()["content"][0]["text"]
+        payload = response.json()
+        content = payload.get("content", [])
+        if isinstance(content, list):
+            text_parts = [
+                block.get("text", "")
+                for block in content
+                if isinstance(block, dict) and block.get("type") == "text"
+            ]
+            if text_parts:
+                return "".join(text_parts)
+        return payload["content"][0]["text"]
 
 
 async def _call_openai_compat(
-    system: str, user: str, model: str, api_key: str, api_base: str, max_tokens: int
+    system: str,
+    user: str,
+    model: str,
+    api_key: str,
+    api_base: str,
+    max_tokens: int,
+    stream: bool = True,
+    read_timeout: float = 120.0,
 ) -> str:
     url = f"{api_base}/chat/completions"
     headers = {
@@ -357,10 +657,49 @@ async def _call_openai_compat(
         "max_tokens": max_tokens,
         "messages": messages,
     }
-    async with httpx.AsyncClient(timeout=300.0) as client:
-        response = await client.post(url, headers=headers, json=body)
-        response.raise_for_status()
-        return response.json()["choices"][0]["message"]["content"]
+    _timeout = httpx.Timeout(connect=30.0, read=read_timeout, write=60.0, pool=10.0)
+
+    if not stream:
+        async with httpx.AsyncClient(timeout=_timeout) as client:
+            response = await client.post(url, headers=headers, json=body)
+            response.raise_for_status()
+            payload = response.json()
+            message = payload["choices"][0]["message"]
+            content = message.get("content") or ""
+            if isinstance(content, str):
+                return content
+            if isinstance(content, list):
+                parts = []
+                for part in content:
+                    if isinstance(part, str):
+                        parts.append(part)
+                    elif isinstance(part, dict) and part.get("type") == "text":
+                        parts.append(part.get("text", ""))
+                return "".join(parts)
+            return str(content)
+
+    body["stream"] = True
+    # Per-chunk read timeout is appropriate only for providers that actually
+    # emit SSE chunks during generation.
+    chunks: list[str] = []
+    async with httpx.AsyncClient(timeout=_timeout) as client:
+        async with client.stream("POST", url, headers=headers, json=body) as response:
+            response.raise_for_status()
+            async for line in response.aiter_lines():
+                if not line.startswith("data:"):
+                    continue
+                data = line[len("data:"):].strip()
+                if data == "[DONE]":
+                    break
+                try:
+                    chunk = json.loads(data)
+                    delta = chunk["choices"][0]["delta"]
+                    content = delta.get("content") or ""
+                    if content:
+                        chunks.append(content)
+                except (json.JSONDecodeError, KeyError, IndexError):
+                    continue
+    return "".join(chunks)
 
 
 # ── Override loading ──────────────────────────────────────────
@@ -425,7 +764,9 @@ async def run_agent(
         system, user = "", system
 
     # ── call LLM ──
-    raw = await call_llm(system, user, model, api_key, provider=provider, api_base=api_base)
+    max_tokens = agent_cfg.get("max_tokens", 8192)
+    raw = await call_llm(system, user, model, api_key, provider=provider, api_base=api_base,
+                         max_tokens=max_tokens)
 
     # ── parse_response ──
     if override and hasattr(override, "parse_response"):
@@ -435,7 +776,8 @@ async def run_agent(
             result = await result
     else:
         result = await default_parse_response(raw, role, system, user, model, api_key,
-                                              provider=provider, api_base=api_base)
+                                              provider=provider, api_base=api_base,
+                                              max_tokens=max_tokens)
 
     # ── post_process ──
     if override and hasattr(override, "post_process"):
@@ -453,6 +795,7 @@ async def default_parse_response(
     api_key: str,
     provider: str = "anthropic",
     api_base: str | None = None,
+    max_tokens: int = 8192,
 ) -> dict | str:
     """
     'report' role → return raw Markdown string.
@@ -465,7 +808,8 @@ async def default_parse_response(
         return extract_json_from_response(raw)
     except (json.JSONDecodeError, ValueError):
         print(f"  [runtime] JSON parse failed for role={role}, retrying once...")
-        raw2 = await call_llm(system, user, model, api_key, provider=provider, api_base=api_base)
+        raw2 = await call_llm(system, user, model, api_key, provider=provider, api_base=api_base,
+                              max_tokens=max_tokens)
         try:
             return extract_json_from_response(raw2)
         except (json.JSONDecodeError, ValueError) as e:

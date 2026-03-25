@@ -1,0 +1,1169 @@
+{
+  "subject": "Elon Musk",
+  "timeline": [
+    {
+      "id": "evt_001",
+      "date": "1971",
+      "what": "Born in Pretoria, South Africa",
+      "context": "Elon Musk was born on June 28, 1971 in Pretoria, South Africa to Errol Musk and Maye Musk",
+      "source_ids": [
+        "src_001"
+      ]
+    },
+    {
+      "id": "evt_002",
+      "date": "1977",
+      "what": "Childhood bullying began",
+      "context": "Musk was severely bullied at school in Pretoria, once thrown down a flight of stairs and hospitalized",
+      "source_ids": [
+        "src_001"
+      ]
+    },
+    {
+      "id": "evt_003",
+      "date": "1981",
+      "what": "Started learning coding",
+      "context": "At age 10, Musk received a Commodore VIC-20 and taught himself to code using a BASIC manual",
+      "source_ids": [
+        "src_002"
+      ]
+    },
+    {
+      "id": "evt_004",
+      "date": "1983",
+      "what": "Created Blastar video game",
+      "context": "At age 12, Musk created a video game called Blastar and sold it to a South African magazine for approximately $500",
+      "source_ids": [
+        "src_002"
+      ]
+    },
+    {
+      "id": "evt_005",
+      "date": "1988",
+      "what": "Emigrated from South Africa to Canada",
+      "context": "At age 17, Musk left South Africa for Canada to avoid mandatory military service under apartheid",
+      "source_ids": [
+        "src_004"
+      ]
+    },
+    {
+      "id": "evt_006",
+      "date": "1992",
+      "what": "Transferred to University of Pennsylvania",
+      "context": "Attended Queen's University in Kingston, Ontario, then transferred to UPenn where he earned bachelor's degrees in physics and economics",
+      "source_ids": [
+        "src_004"
+      ]
+    },
+    {
+      "id": "evt_007",
+      "date": "1995",
+      "what": "Dropped out of Stanford after 2 days",
+      "context": "Enrolled in PhD program in energy physics at Stanford, dropped out after just two days to join the Internet revolution",
+      "source_ids": [
+        "src_005"
+      ]
+    },
+    {
+      "id": "evt_008",
+      "date": "1995",
+      "what": "Co-founded Zip2",
+      "context": "Musk co-founded Zip2 with his brother Kimbal, working out of a small rented office in Palo Alto",
+      "source_ids": [
+        "src_006"
+      ]
+    },
+    {
+      "id": "evt_009",
+      "date": "1999",
+      "what": "Zip2 sold to Compaq for $307 million",
+      "context": "Compaq acquired Zip2; Musk received $22 million from the sale",
+      "source_ids": [
+        "src_006"
+      ]
+    },
+    {
+      "id": "evt_010",
+      "date": "1999",
+      "what": "Founded X.com",
+      "context": "Musk founded X.com, an online financial services company, with his Zip2 proceeds",
+      "source_ids": [
+        "src_007"
+      ]
+    },
+    {
+      "id": "evt_011",
+      "date": "2000",
+      "what": "X.com merged with Confinity, Musk ousted as CEO",
+      "context": "X.com merged with Confinity (PayPal); Musk was ousted as CEO during his honeymoon and replaced by Peter Thiel",
+      "source_ids": [
+        "src_007"
+      ]
+    },
+    {
+      "id": "evt_012",
+      "date": "2002",
+      "what": "PayPal acquired by eBay for $1.5 billion",
+      "context": "eBay acquired PayPal; Musk received $176 million as largest shareholder",
+      "source_ids": [
+        "src_007"
+      ]
+    },
+    {
+      "id": "evt_013",
+      "date": "2002",
+      "what": "Founded SpaceX with $100 million",
+      "context": "Musk founded SpaceX after a trip to Russia to buy ICBMs failed; he calculated he could build rockets for 10% of the going rate",
+      "source_ids": [
+        "src_008"
+      ]
+    },
+    {
+      "id": "evt_014",
+      "date": "2004",
+      "what": "Became Tesla's largest investor",
+      "context": "Musk became Tesla's largest shareholder with a $6.3 million investment and became chairman of the board",
+      "source_ids": [
+        "src_011"
+      ]
+    },
+    {
+      "id": "evt_015",
+      "date": "2006-03",
+      "what": "First Falcon 1 launch failed",
+      "context": "SpaceX's first rocket launch failed due to a corroded fuel line nut",
+      "source_ids": [
+        "src_009"
+      ]
+    },
+    {
+      "id": "evt_016",
+      "date": "2007",
+      "what": "Second Falcon 1 launch failed",
+      "context": "Second launch reached space but the second stage spun out of control",
+      "source_ids": [
+        "src_009"
+      ]
+    },
+    {
+      "id": "evt_017",
+      "date": "2008-08",
+      "what": "Third Falcon 1 launch failed",
+      "context": "Third launch failed when first and second stages collided during separation; SpaceX had money for only one more attempt",
+      "source_ids": [
+        "src_009"
+      ]
+    },
+    {
+      "id": "evt_018",
+      "date": "2008-09-28",
+      "what": "Fourth Falcon 1 launch succeeded",
+      "context": "Falcon 1 became the first privately developed liquid-fuel rocket to reach orbit",
+      "source_ids": [
+        "src_009"
+      ]
+    },
+    {
+      "id": "evt_019",
+      "date": "2008-12-23",
+      "what": "NASA awarded $1.6 billion contract",
+      "context": "NASA awarded SpaceX a contract for 12 cargo flights to ISS; Musk had to borrow money from friends to pay rent",
+      "source_ids": [
+        "src_010"
+      ]
+    },
+    {
+      "id": "evt_020",
+      "date": "2008",
+      "what": "Took over as Tesla CEO",
+      "context": "During financial crisis, Musk took over as CEO when Tesla was nearly bankrupt",
+      "source_ids": [
+        "src_011"
+      ]
+    },
+    {
+      "id": "evt_021",
+      "date": "2012",
+      "what": "SpaceX Dragon docked with ISS",
+      "context": "SpaceX became first private company to dock a spacecraft with the International Space Station",
+      "source_ids": [
+        "src_017"
+      ]
+    },
+    {
+      "id": "evt_022",
+      "date": "2015",
+      "what": "Co-founded OpenAI",
+      "context": "Musk co-founded OpenAI as a nonprofit to develop friendly AI",
+      "source_ids": [
+        "src_020"
+      ]
+    },
+    {
+      "id": "evt_023",
+      "date": "2016",
+      "what": "Founded Neuralink and The Boring Company",
+      "context": "Musk co-founded Neuralink for brain-machine interfaces and founded The Boring Company for tunnel construction",
+      "source_ids": [
+        "src_025",
+        "src_026"
+      ]
+    },
+    {
+      "id": "evt_024",
+      "date": "2016-09-27",
+      "what": "Presented Mars colonization plan at IAC",
+      "context": "Musk presented his plan to colonize Mars at the International Astronautical Congress in Guadalajara, Mexico",
+      "source_ids": [
+        "src_018"
+      ]
+    },
+    {
+      "id": "evt_025",
+      "date": "2017",
+      "what": "Autopilot naming controversy",
+      "context": "Engineers warned Musk that branding Tesla features as Autopilot was putting customer lives at risk; several engineers resigned",
+      "source_ids": [
+        "src_023"
+      ]
+    },
+    {
+      "id": "evt_026",
+      "date": "2018-02-06",
+      "what": "Falcon Heavy launch with Tesla Roadster",
+      "context": "SpaceX successfully launched Falcon Heavy with Musk's personal Tesla Roadster as test payload",
+      "source_ids": [
+        "src_017"
+      ]
+    },
+    {
+      "id": "evt_027",
+      "date": "2018-08-07",
+      "what": "SEC filed fraud lawsuit over Tesla tweet",
+      "context": "Musk tweeted about taking Tesla private at $420; SEC sued for securities fraud",
+      "source_ids": [
+        "src_013"
+      ]
+    },
+    {
+      "id": "evt_028",
+      "date": "2018",
+      "what": "Model 3 production crisis",
+      "context": "Musk slept on factory floor for months working 120-hour weeks; Tesla came within weeks of bankruptcy",
+      "source_ids": [
+        "src_012"
+      ]
+    },
+    {
+      "id": "evt_029",
+      "date": "2022-10-28",
+      "what": "Completed Twitter acquisition",
+      "context": "Musk completed $44 billion acquisition of Twitter and laid off approximately 80% of workforce",
+      "source_ids": [
+        "src_015"
+      ]
+    },
+    {
+      "id": "evt_030",
+      "date": "2023-11",
+      "what": "DealBook Summit advertiser confrontation",
+      "context": "Musk told advertisers 'Go fuck yourself'; Twitter lost an estimated 79% of equity value",
+      "source_ids": [
+        "src_016"
+      ]
+    },
+    {
+      "id": "evt_031",
+      "date": "2024-01",
+      "what": "Neuralink first human implant",
+      "context": "Neuralink implanted its first brain chip in a human patient who could control a computer cursor with thoughts",
+      "source_ids": [
+        "src_025"
+      ]
+    },
+    {
+      "id": "evt_032",
+      "date": "2024",
+      "what": "Political shift to Republican Party",
+      "context": "Musk became largest individual political donor in U.S. history, giving $288 million to Republican candidates through America PAC",
+      "source_ids": [
+        "src_030"
+      ]
+    },
+    {
+      "id": "evt_033",
+      "date": "2025-01",
+      "what": "Led Department of Government Efficiency (DOGE)",
+      "context": "Musk was designated special government employee leading DOGE in Trump administration; applied corporate approach to government",
+      "source_ids": [
+        "src_029"
+      ]
+    },
+    {
+      "id": "evt_034",
+      "date": "2025-05",
+      "what": "Stepped down from DOGE role",
+      "context": "Musk stepped down from DOGE role stating the mission would strengthen over time",
+      "source_ids": [
+        "src_029"
+      ]
+    }
+  ],
+  "evidence_cards": [
+    {
+      "id": "ev_001",
+      "source_id": "src_001",
+      "source_type": "biography",
+      "date": "1977",
+      "kind": "third_party_attribution",
+      "summary": "Musk described his childhood as severely bullied, being the youngest and smallest kid in class",
+      "verbatim_quote": "I was the youngest and smallest kid in class. I was a prime target.",
+      "first_hand_level": "third_party_summary",
+      "reliability_note": "From Ashlee Vance and Walter Isaacson biographies; quote attributed to Musk himself",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_002"
+      ]
+    },
+    {
+      "id": "ev_002",
+      "source_id": "src_001",
+      "source_type": "biography",
+      "date": "1977",
+      "kind": "third_party_attribution",
+      "summary": "Musk publicly called his father Errol 'a terrible human being'",
+      "verbatim_quote": "My father is a terrible human being. It was not a happy childhood.",
+      "first_hand_level": "third_party_summary",
+      "reliability_note": "From biographies; Musk has made these statements publicly",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_001"
+      ]
+    },
+    {
+      "id": "ev_003",
+      "source_id": "src_002",
+      "source_type": "biography",
+      "date": "1983",
+      "kind": "event",
+      "summary": "At age 12, Musk created and sold a video game",
+      "verbatim_quote": "At 12, he created a video game called Blastar and sold it to a South African magazine for approximately $500.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "Reported in Ashlee Vance biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_004"
+      ]
+    },
+    {
+      "id": "ev_004",
+      "source_id": "src_004",
+      "source_type": "biography",
+      "date": "1988",
+      "kind": "quote",
+      "summary": "Musk left South Africa to avoid mandatory military service under apartheid",
+      "verbatim_quote": "I didn't want to be conscripted into the army to fight for apartheid.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Ashlee Vance biography citing Musk's own statements",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_005"
+      ]
+    },
+    {
+      "id": "ev_005",
+      "source_id": "src_005",
+      "source_type": "interview",
+      "date": "1995",
+      "kind": "quote",
+      "summary": "Musk explained why he dropped out of Stanford after 2 days",
+      "verbatim_quote": "I could either watch the Internet revolution happen or I could be part of it. I felt a much stronger pull toward doing something meaningful in the world.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From multiple interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_007"
+      ]
+    },
+    {
+      "id": "ev_006",
+      "source_id": "src_006",
+      "source_type": "biography",
+      "date": "1995",
+      "kind": "event",
+      "summary": "Musk co-founded Zip2 and coded the website every night, often sleeping at the office",
+      "verbatim_quote": "Musk coded the website every night, often sleeping at the office.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Ashlee Vance biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_008"
+      ]
+    },
+    {
+      "id": "ev_007",
+      "source_id": "src_007",
+      "source_type": "biography",
+      "date": "2000",
+      "kind": "quote",
+      "summary": "Musk commented on being ousted as CEO during his honeymoon",
+      "verbatim_quote": "That's the problem with vacations.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From The PayPal Wars and other sources",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_011"
+      ]
+    },
+    {
+      "id": "ev_008",
+      "source_id": "src_008",
+      "source_type": "interview",
+      "date": "2002",
+      "kind": "quote",
+      "summary": "Musk described the low probability of SpaceX succeeding",
+      "verbatim_quote": "I thought the chance of success was less than 10%. I just accepted that I would probably lose everything.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Ashlee Vance biography and multiple interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_013"
+      ]
+    },
+    {
+      "id": "ev_009",
+      "source_id": "src_009",
+      "source_type": "biography",
+      "date": "2008-09-28",
+      "kind": "event",
+      "summary": "SpaceX fourth Falcon 1 launch succeeded, first privately developed liquid-fuel rocket to reach orbit",
+      "verbatim_quote": "The fourth launch, on September 28, 2008, succeeded — making Falcon 1 the first privately developed liquid-fuel rocket to reach orbit.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "Well-documented SpaceX milestone",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_018"
+      ]
+    },
+    {
+      "id": "ev_010",
+      "source_id": "src_010",
+      "source_type": "news",
+      "date": "2008-12-23",
+      "kind": "quote",
+      "summary": "Musk described the stress period as one of the most stressful in his life",
+      "verbatim_quote": "I had to borrow money from friends just to pay rent.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Ashlee Vance biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_019"
+      ]
+    },
+    {
+      "id": "ev_011",
+      "source_id": "src_011",
+      "source_type": "interview",
+      "date": "2008",
+      "kind": "quote",
+      "summary": "Musk explained why he took over as Tesla CEO during the financial crisis",
+      "verbatim_quote": "I could either let Tesla die or put all my remaining money into it. That wasn't really a choice.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Tesla S-1 filing and interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_020"
+      ]
+    },
+    {
+      "id": "ev_012",
+      "source_id": "src_012",
+      "source_type": "interview",
+      "date": "2018-06",
+      "kind": "quote",
+      "summary": "Musk said he wanted to suffer with the workers during Model 3 production crisis",
+      "verbatim_quote": "If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews and Walter Isaacson biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_013",
+      "source_id": "src_012",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "quote",
+      "summary": "Musk called Model 3 production 'the most painful year of my career'",
+      "verbatim_quote": "It was the most painful year of my career — production hell.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_014",
+      "source_id": "src_012",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "quote",
+      "summary": "Musk stated 'humans are underrated' after removing automated systems",
+      "verbatim_quote": "Excessive automation at Tesla was a mistake. Humans are underrated.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews and Walter Isaacson biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_015",
+      "source_id": "src_013",
+      "source_type": "legal_filing",
+      "date": "2018-08-07",
+      "kind": "quote",
+      "summary": "Musk's tweet that triggered SEC fraud lawsuit",
+      "verbatim_quote": "Am considering taking Tesla private at $420. Funding secured.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct tweet, SEC filing",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    },
+    {
+      "id": "ev_016",
+      "source_id": "src_014",
+      "source_type": "biography",
+      "date": "2023",
+      "kind": "pattern",
+      "summary": "Musk's five-step engineering process called 'the algorithm'",
+      "verbatim_quote": "The most common error is to optimize something that shouldn't exist.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Walter Isaacson biography describing Musk's management style",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_017",
+      "source_id": "src_015",
+      "source_type": "tweet",
+      "date": "2022-10-28",
+      "kind": "quote",
+      "summary": "Musk's tweet upon completing Twitter acquisition",
+      "verbatim_quote": "the bird is freed",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct tweet from Musk's account",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_029"
+      ]
+    },
+    {
+      "id": "ev_018",
+      "source_id": "src_015",
+      "source_type": "news",
+      "date": "2022-10-28",
+      "kind": "event",
+      "summary": "Musk laid off approximately 80% of Twitter's workforce",
+      "verbatim_quote": "In the days following the acquisition, Musk laid off approximately 80% of Twitter's workforce.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From multiple news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_029"
+      ]
+    },
+    {
+      "id": "ev_019",
+      "source_id": "src_016",
+      "source_type": "conference_talk",
+      "date": "2023-11",
+      "kind": "quote",
+      "summary": "Musk's confrontation with advertisers at DealBook Summit",
+      "verbatim_quote": "If someone's going to try to blackmail me with advertising, blackmail me with money? Go fuck yourself.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Recorded at DealBook Summit, video available",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_030"
+      ]
+    },
+    {
+      "id": "ev_020",
+      "source_id": "src_017",
+      "source_type": "news",
+      "date": "2018-02-06",
+      "kind": "event",
+      "summary": "Falcon Heavy launch with Tesla Roadster as test payload",
+      "verbatim_quote": "On February 6, 2018, SpaceX successfully launched the Falcon Heavy — the most powerful operational rocket in the world at the time.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From SpaceX webcast and multiple reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_021",
+      "source_id": "src_017",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "quote",
+      "summary": "Musk's comment about the Tesla Roadster drifting in space",
+      "verbatim_quote": "I love the thought of a car drifting apparently endlessly through space and perhaps being discovered by an alien race millions of years in the future.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_022",
+      "source_id": "src_018",
+      "source_type": "speech",
+      "date": "2016-09-27",
+      "kind": "quote",
+      "summary": "Musk's vision of humanity becoming multi-planetary",
+      "verbatim_quote": "History is going to bifurcate along two directions. One path is we stay on Earth forever, and then there will be some eventual extinction event. The alternative is to become a space-faring civilization and a multi-planetary species.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From IAC 2016 presentation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_023",
+      "source_id": "src_018",
+      "source_type": "speech",
+      "date": "2016-09-27",
+      "kind": "quote",
+      "summary": "Musk said first Mars journeys will be very dangerous with high fatality risk",
+      "verbatim_quote": "The first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From IAC 2016 presentation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_024",
+      "source_id": "src_018",
+      "source_type": "speech",
+      "date": "2016-09-27",
+      "kind": "quote",
+      "summary": "Musk's desire to die on Mars but not on impact",
+      "verbatim_quote": "I would like to die on Mars. Just not on impact.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From IAC 2016 presentation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_025",
+      "source_id": "src_019",
+      "source_type": "interview",
+      "date": "2013",
+      "kind": "quote",
+      "summary": "Musk explained first principles thinking",
+      "verbatim_quote": "I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From TED Talk 2013",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_007"
+      ]
+    },
+    {
+      "id": "ev_026",
+      "source_id": "src_020",
+      "source_type": "interview",
+      "date": "2014",
+      "kind": "quote",
+      "summary": "Musk's warning about AI as 'summoning the demon'",
+      "verbatim_quote": "With artificial intelligence we are summoning the demon. You know all those stories where there's the guy with the pentagram and the holy water, and he's like, yeah, he's sure he can control the demon? Doesn't work out.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From MIT symposium 2014",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_027",
+      "source_id": "src_020",
+      "source_type": "news",
+      "date": "2015",
+      "kind": "event",
+      "summary": "Musk co-founded OpenAI as a nonprofit",
+      "verbatim_quote": "He co-founded OpenAI in 2015 as a nonprofit to develop friendly AI.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From multiple sources",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_028",
+      "source_id": "src_020",
+      "source_type": "interview",
+      "date": "2020",
+      "kind": "event",
+      "summary": "Musk founded xAI as AI competitor",
+      "verbatim_quote": "In 2023, he founded xAI as a competitor.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From various interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_031"
+      ]
+    },
+    {
+      "id": "ev_029",
+      "source_id": "src_021",
+      "source_type": "podcast",
+      "date": "2020",
+      "kind": "quote",
+      "summary": "Musk on duty to maintain the light of consciousness",
+      "verbatim_quote": "I think we have a duty to maintain the light of consciousness, to make sure it continues into the future.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Joe Rogan Experience podcast",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_030",
+      "source_id": "src_021",
+      "source_type": "podcast",
+      "date": "2020",
+      "kind": "quote",
+      "summary": "Musk on maximizing probability of future being better",
+      "verbatim_quote": "What I'm trying to do is to maximize the probability of the future being better.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Joe Rogan Experience",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_029"
+      ]
+    },
+    {
+      "id": "ev_031",
+      "source_id": "src_022",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "quote",
+      "summary": "Musk on changing the world requiring 100-hour work weeks",
+      "verbatim_quote": "Nobody ever changed the world on 40 hours a week.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Musk's tweet",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_032",
+      "source_id": "src_022",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "quote",
+      "summary": "Musk described his work schedule of 80-100 hour weeks",
+      "verbatim_quote": "Work like hell. I mean you just have to put in 80 to 100 hour weeks every week.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_033",
+      "source_id": "src_023",
+      "source_type": "news",
+      "date": "2017",
+      "kind": "event",
+      "summary": "Autopilot naming controversy led to engineer resignations",
+      "verbatim_quote": "Several engineers reportedly resigned in 2017 over the naming controversy.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Wall Street Journal reporting",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_025"
+      ]
+    },
+    {
+      "id": "ev_034",
+      "source_id": "src_024",
+      "source_type": "interview",
+      "date": "2012",
+      "kind": "quote",
+      "summary": "Musk described entrepreneurship as 'eating glass'",
+      "verbatim_quote": "Starting a company is like staring into the abyss and eating glass.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From various interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_007"
+      ]
+    },
+    {
+      "id": "ev_035",
+      "source_id": "src_024",
+      "source_type": "interview",
+      "date": "2012",
+      "kind": "quote",
+      "summary": "Musk said he'd rather commit seppuku than fail",
+      "verbatim_quote": "I'd rather commit seppuku than fail.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From various interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_013"
+      ]
+    },
+    {
+      "id": "ev_036",
+      "source_id": "src_025",
+      "source_type": "news",
+      "date": "2024-01",
+      "kind": "event",
+      "summary": "Neuralink first human brain chip implant",
+      "verbatim_quote": "In January 2024, Neuralink implanted its first brain chip in a human patient.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From various news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_031"
+      ]
+    },
+    {
+      "id": "ev_037",
+      "source_id": "src_025",
+      "source_type": "interview",
+      "date": "2016",
+      "kind": "quote",
+      "summary": "Musk's rationale for Neuralink as AI mitigation",
+      "verbatim_quote": "If you can't beat them, join them. The merge with AI is the best-case scenario.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Neuralink presentations",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_023"
+      ]
+    },
+    {
+      "id": "ev_038",
+      "source_id": "src_026",
+      "source_type": "news",
+      "date": "2018-01",
+      "kind": "event",
+      "summary": "The Boring Company sold flamethrowers to raise funds",
+      "verbatim_quote": "In early 2018 he sold 20,000 branded flamethrowers at $500 each, raising $10 million.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_023"
+      ]
+    },
+    {
+      "id": "ev_039",
+      "source_id": "src_027",
+      "source_type": "podcast",
+      "date": "2023",
+      "kind": "third_party_attribution",
+      "summary": "Musk's honest reflection on personal happiness",
+      "verbatim_quote": "There are many nights I sleep alone.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Lex Fridman podcast",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_034"
+      ]
+    },
+    {
+      "id": "ev_040",
+      "source_id": "src_027",
+      "source_type": "biography",
+      "date": "2002",
+      "kind": "event",
+      "summary": "Musk's first child Nevada died at 10 weeks from SIDS",
+      "verbatim_quote": "His first child, Nevada, died at 10 weeks from sudden infant death syndrome in 2002.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Ashlee Vance biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_012"
+      ]
+    },
+    {
+      "id": "ev_041",
+      "source_id": "src_027",
+      "source_type": "biography",
+      "date": "2002",
+      "kind": "quote",
+      "summary": "Musk returned to work almost immediately after his son's death",
+      "verbatim_quote": "I'm not sure what sitting around being sad is going to do.",
+      "first_hand_level": "third_party_summary",
+      "reliability_note": "From Ashlee Vance biography, reported via colleague",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_012"
+      ]
+    },
+    {
+      "id": "ev_042",
+      "source_id": "src_028",
+      "source_type": "biography",
+      "date": "2023",
+      "kind": "third_party_attribution",
+      "summary": "Isaacson described Musk's 'demon mode' management pattern",
+      "verbatim_quote": "When Elon is in demon mode, he will fire people, destroy entire teams' work, demand impossible deadlines — and then somehow the product ships.",
+      "first_hand_level": "third_party_summary",
+      "reliability_note": "From Walter Isaacson biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_043",
+      "source_id": "src_029",
+      "source_type": "news",
+      "date": "2025-01",
+      "kind": "event",
+      "summary": "Musk was designated special government employee leading DOGE",
+      "verbatim_quote": "In January 2025, Musk was designated a special government employee leading the Department of Government Efficiency (DOGE) in Trump's second administration.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From TIME and various news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_033"
+      ]
+    },
+    {
+      "id": "ev_044",
+      "source_id": "src_029",
+      "source_type": "news",
+      "date": "2025-05",
+      "kind": "quote",
+      "summary": "Musk stated DOGE mission would strengthen over time",
+      "verbatim_quote": "The DOGE mission will only strengthen over time as it becomes a way of life throughout the government.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_034"
+      ]
+    },
+    {
+      "id": "ev_045",
+      "source_id": "src_030",
+      "source_type": "interview",
+      "date": "2024",
+      "kind": "quote",
+      "summary": "Musk's political shift statement",
+      "verbatim_quote": "I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_032"
+      ]
+    },
+    {
+      "id": "ev_046",
+      "source_id": "src_030",
+      "source_type": "news",
+      "date": "2024",
+      "kind": "event",
+      "summary": "Musk became largest individual political donor in US history",
+      "verbatim_quote": "In 2024 he became the largest individual political donor in U.S. history, giving $288 million to Republican candidates through his America PAC.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From FEC filings",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_032"
+      ]
+    },
+    {
+      "id": "ev_047",
+      "source_id": "src_031",
+      "source_type": "news",
+      "date": "2022-02",
+      "kind": "event",
+      "summary": "Musk sent Starlink terminals to Ukraine after Russian invasion",
+      "verbatim_quote": "In February 2022, days after Russia invaded Ukraine, Musk sent Starlink satellite terminals to Ukraine after a direct request from a Ukrainian government official on Twitter.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Walter Isaacson biography and news reports",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_048",
+      "source_id": "src_031",
+      "source_type": "interview",
+      "date": "2022",
+      "kind": "quote",
+      "summary": "Musk explained why he restricted Starlink near Crimea",
+      "verbatim_quote": "If I had agreed to their request, SpaceX would be explicitly complicit in a major act of war.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From Walter Isaacson biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_049",
+      "source_id": "src_032",
+      "source_type": "white_paper",
+      "date": "2013",
+      "kind": "event",
+      "summary": "Musk published Hyperloop white paper",
+      "verbatim_quote": "In 2013, Musk published a 57-page white paper proposing the Hyperloop.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Hyperloop Alpha white paper",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_050",
+      "source_id": "src_032",
+      "source_type": "interview",
+      "date": "2013",
+      "kind": "quote",
+      "summary": "Musk said he published Hyperloop to show it was possible",
+      "verbatim_quote": "I just wanted to show it was possible.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From various interviews",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_051",
+      "source_id": "src_003",
+      "source_type": "interview",
+      "date": "2017",
+      "kind": "quote",
+      "summary": "Musk cited Hitchhiker's Guide as formative influence",
+      "verbatim_quote": "I was around 12 or 15 when I had an existential crisis. I was reading various books on philosophy and religion and I was trying to figure out the meaning of life. Then I read Hitchhiker's Guide to the Galaxy and it pointed out that the real challenge is figuring out what questions to ask.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "From TED 2017 interview",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_004"
+      ]
+    },
+    {
+      "id": "ev_052",
+      "source_id": "src_015",
+      "source_type": "news",
+      "date": "2022-10",
+      "kind": "event",
+      "summary": "Musk personally reviewed code commits to determine productivity",
+      "verbatim_quote": "He personally reviewed code commits to determine who was productive.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From news reports",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_029"
+      ]
+    },
+    {
+      "id": "ev_053",
+      "source_id": "src_015",
+      "source_type": "news",
+      "date": "2022-10",
+      "kind": "event",
+      "summary": "Musk gave remaining Twitter employees ultimatum",
+      "verbatim_quote": "He sent an email giving remaining employees an ultimatum: commit to extremely hardcore work or leave with severance. Approximately 1,200 additional employees resigned after the email.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From internal email leaks",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_029"
+      ]
+    },
+    {
+      "id": "ev_054",
+      "source_id": "src_022",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "pattern",
+      "summary": "Musk fired engineers on the spot for disagreeing",
+      "verbatim_quote": "The book Power Play by Tim Higgins contains accounts of Musk firing engineers on the spot for disagreeing with him, then sometimes rehiring them days later.",
+      "first_hand_level": "third_party_summary",
+      "reliability_note": "From Tim Higgins book",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_055",
+      "source_id": "src_016",
+      "source_type": "news",
+      "date": "2024",
+      "kind": "event",
+      "summary": "Wall Street Journal described Twitter acquisition as worst deal since 2008 crisis",
+      "verbatim_quote": "By 2024, the Wall Street Journal described the Twitter acquisition as the worst deal in merger finance since the 2008 financial crisis, with the company having lost an estimated 79% of its equity value.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From Wall Street Journal",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_030"
+      ]
+    },
+    {
+      "id": "ev_056",
+      "source_id": "src_012",
+      "source_type": "interview",
+      "date": "2018",
+      "kind": "event",
+      "summary": "Musk moved into Fremont factory and slept on production floor for months",
+      "verbatim_quote": "During the Model 3 production ramp in mid-2018, Musk moved into the Fremont factory, sleeping on the production floor for months.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From interviews and Walter Isaacson biography",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_028"
+      ]
+    },
+    {
+      "id": "ev_057",
+      "source_id": "src_029",
+      "source_type": "news",
+      "date": "2025",
+      "kind": "third_party_attribution",
+      "summary": "Federal judge ruled Musk was de facto leader of DOGE",
+      "verbatim_quote": "A federal judge ruled that Musk had acted as the de facto leader of DOGE.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "From court ruling",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_033"
+      ]
+    }
+  ]
+}

@@ -1,82 +1,245 @@
 {
   "discipline": "psychology",
-  "anchored": {
-    "core_values": {
-      "finding": "Musk的核心价值观围绕人类文明的存续与延续。他将个人命运与物种命运紧密绑定，认为有'责任维护意识的火光'(evt_032)。这种使命感超越个人利益——他接受SpaceX低于10%的成功概率(evt_012)，在特斯拉和SpaceX几乎破产时投入全部资金(evt_016)。他对极端风险持零容忍态度：逃离南非避免参与种族隔离(evt_006)，公开警告AI是'召唤恶魔'(evt_022)。工作对他而言不仅是事业，更是一种存在主义实践——'如果你在受苦，我想和你们一起受苦'(evt_028)",
-      "event_ids": [
-        "evt_006",
-        "evt_012",
-        "evt_016",
-        "evt_022",
-        "evt_025",
-        "evt_028",
-        "evt_032"
+  "anchored_constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper: consistently builds new systems rather than adapting to existing structures",
+      "finding": "Musk's career demonstrates relentless world-shaping across multiple industries - rockets, electric cars, brain-computer interfaces, social media, government. His first principles approach explicitly rejects adapting to existing industry structures ('reason from first principles rather than by analogy'). He framed SpaceX as a choice to participate in the Internet revolution rather than watch it happen. The Mars colonization presentation explicitly positions himself as shaping 'history bifurcating along two directions.' Multiple ventures were considered impossible by established experts, yet he proceeded. Evidence strongly supports world-shaper orientation.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_013",
+        "ev_023",
+        "ev_031",
+        "ev_034",
+        "ev_045"
       ],
-      "confidence": 0.92,
-      "reasoning": "从时间线中可见一条清晰的价值观脉络：少年时期因避免参与种族隔离而移民(evt_006)→成年后为避免人类灭绝风险而创建多行星文明计划(evt_025)→为确保AI安全而创立OpenAI(evt_023)→对文明存续的哲学思考(evt_032)。这些行为背后的动机具有内在一致性，都指向同一个核心关怀：人类作为一个物种的长期生存。"
+      "lens_notes": [
+        {
+          "lens": "psychodynamic_theory",
+          "note": "World-shaping may serve as a defensive compensation for childhood powerlessness during severe bullying and abusive father"
+        }
+      ],
+      "local_support": "strong"
     },
-    "decision_logic": {
-      "finding": "Musk采用'第一性原理'决策模式——从物理和经济学的基本定律出发，而非类比推理( evt_012计算火箭成本)。他展现出一种独特的风险计算方式：接受极高的失败概率，但要求潜在的巨大回报。在财务危机时刻，他表现出极端承诺倾向——'这不算真正的选择'(evt_016)。然而他的决策也包含道德计算维度：Starlink事件显示他在技术可行性与地缘政治风险之间进行了审慎权衡( evt_033)。他的决策速度极快——斯坦福博士项目两天后退学( evt_007)——但这种冲动性与长期坚持之间形成了张力。",
-      "event_ids": [
-        "evt_007",
-        "evt_012",
-        "evt_016",
-        "evt_017",
-        "evt_033"
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First principles reasoning: constructs beliefs from fundamental physics rather than industry analogy",
+      "finding": "Musk explicitly describes his thinking framework as physics-based first principles reasoning. He traces this to formal physics training but applies it broadly - to rockets, cars, energy, transportation. The five-step 'algorithm' he advocates begins with 'question every requirement - trace it back to a person, not a department,' revealing a fundamentally interrogative epistemic stance. His existential crisis at ages 12-15 reading philosophy and religion, and his description of Hitchhiker's Guide teaching him 'the real challenge is figuring out what questions to ask,' suggest early development of questioning-oriented epistemology rather than answer-seeking. Built rocket cost models from raw material spreadsheets rather than accepting industry pricing.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_012",
+        "ev_023",
+        "ev_024",
+        "ev_034",
+        "ev_061"
       ],
-      "confidence": 0.88,
-      "reasoning": "多个事件展示了决策模式的一致性：(evt_012)用第一性原理重构火箭成本、(evt_007)快速放弃学术路径投身互联网革命、(evt_016)在危机时刻的全押决策。这些决策既有计算性（风险-收益分析）也有冲动性（快速行动），且对失败有较高容忍度。但在(evt_033)Starlink事件中，他展现了更复杂的决策过程——不仅是商业考量，还包括对核升级风险的伦理判断。"
+      "lens_notes": [
+        {
+          "lens": "cognitive_perspective",
+          "note": "First principles may function as a cognitive immune system - provides certainty in uncertain domains, protects against doubt when attempting unprecedented ventures"
+        }
+      ],
+      "local_support": "strong"
     },
-    "worldview": {
-      "finding": "Musk的世界观建立在对存在性风险的深刻警觉上。他将人类历史视为'分叉点'(evt_025)——要么走向多行星文明，要么面临灭绝。这种世界观带有强烈的末世论色彩，但不是被动的等待审判，而是技术乌托邦式的行动主义。他对'意识'有独特的形而上学关注——认为维护意识是人类的根本责任( evt_032)。他同时对技术持辩证态度：创立OpenAI以引导AI发展( evt_023)，又担忧其风险( evt_022)。他对制度和权威持怀疑态度——从离开南非到收购 Twitter后的激进改革( evt_034)再到领导DOGE挑战联邦政府( evt_040)，这种模式贯穿始终。",
-      "event_ids": [
-        "evt_006",
-        "evt_022",
-        "evt_023",
-        "evt_025",
-        "evt_032",
-        "evt_034",
-        "evt_040"
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction and formalization: systematic algorithmic approach to problem-solving",
+      "finding": "Musk demonstrates strong preference for abstract formalization. His documented five-step engineering 'algorithm' is highly systematic: (1) question requirements, (2) delete processes, (3) simplify/optimize, (4) accelerate, (5) automate - and emphasizes sequence matters. The 'optimize something that shouldn't exist' quote reveals meta-level abstraction about system design. Multiple ventures involve highly technical abstract domains: rocket physics, battery chemistry, AI/neural interfaces. The Hyperloop white paper represents formal long-form technical thinking. Open-sourcing Hyperloop rather than profiting from it suggests prioritization of demonstrating conceptual validity over commercial capture.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_024",
+        "ev_032",
+        "ev_046",
+        "ev_047",
+        "ev_061",
+        "ev_062"
       ],
-      "confidence": 0.85,
-      "reasoning": "世界观证据分布在三个层面：(1)对人类未来的基本判断——文明存续取决于向太空扩展(evt_025)；(2)对技术的双重态度——既是救赎又是风险(evt_022/023)；(3)对权威的不信任——从个人层面(父亲evt_003)到制度层面(政府evt_040/广告商evt_036)。这三个维度共同构成了一个清晰的认知框架。"
+      "lens_notes": [
+        {
+          "lens": "cognitive_perspective",
+          "note": "Formalization may serve anxiety management - creating structured processes reduces uncertainty in high-risk ventures"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Extreme control orientation: seeks total organizational control, micro-manages execution",
+      "finding": "Control orientation is pervasive and extreme. At Twitter, laid off ~80% of workforce within days, sent ultimatum requiring 'extremely hardcore' commitment. At Tesla, worked 120-hour weeks sleeping on factory floor during Model 3 crisis - modeling extreme personal control while demanding same from employees. Fired engineers on the spot for disagreement. Took over as Tesla CEO during financial crisis despite no automotive experience - preferring personal control over waiting for better leadership. At SpaceX, maintained intense hands-on involvement despite multiple ventures. 'I'd rather commit seppiku than fail' reflects control-or-death orientation rather than acceptance of uncertainty.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_018",
+        "ev_020",
+        "ev_026",
+        "ev_027",
+        "ev_041",
+        "ev_044",
+        "ev_045"
+      ],
+      "lens_notes": [
+        {
+          "lens": "attachment_theory",
+          "note": "Control orientation may reflect insecure attachment formed in childhood - abusive father and severe bullying created environment where control was necessary for survival"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission dominance: explicitly prioritizes mission over relationships, personal wellbeing, and social costs",
+      "finding": "Mission consistently dominates relational and personal costs. Multiple explicit statements: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice.' After first child's death at 10 weeks, returned to work immediately telling colleague 'I'm not sure what sitting around being sad is going to do.' When asked about happiness, paused and said 'there are many nights I sleep alone' - suggesting awareness of relational costs but continued prioritization. Public confrontations with advertisers ('Go fuck yourself'), willingness to alienate to enforce mission standards. 'Nobody ever changed the world on 40 hours a week' - frames relational/personal costs as necessary sacrifice for mission.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "ev_039",
+        "ev_040",
+        "ev_050",
+        "ev_051"
+      ],
+      "lens_notes": [
+        {
+          "lens": "motivation_theory",
+          "note": "Self-determination theory: Musk appears driven by intrinsic 'causation' motivation - need for competence and autonomy may override belonging needs"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk acceptance: actively seeks high-risk ventures with low probability of success",
+      "finding": "Risk posture is exceptionally high. Explicitly accepted less than 10% chance of success with SpaceX: 'I just accepted that I would probably lose everything.' Multiple near-bankruptcies (2008 SpaceX, Tesla) did not deter continued high-risk behavior. Describes entrepreneurship as 'eating glass' and staring into abyss. 'I'd rather commit seppuku than fail' indicates risk tolerance approaching self-destructiveness. Works 80-100 hour weeks, borrowing money from friends for rent while pursuing high-risk ventures. The SEC fraud case demonstrates willingness to make high-stakes public statements without adequate foundation - reflects either extreme confidence or underestimation of risk.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_016",
+        "ev_043",
+        "ev_044",
+        "ev_045"
+      ],
+      "lens_notes": [
+        {
+          "lens": "personality_psychology",
+          "note": "High sensation-seeking combined with low harm avoidance - characteristic of entrepreneurial personality but at extreme end of spectrum"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Power challenger and exerciser: challenges existing power structures, exercises absolute power when achieved",
+      "finding": "Two-phase pattern: challenges existing hierarchies while seeking to join/reshape them, then exercises power aggressively once achieved. Left South Africa to avoid mandatory military service under apartheid - rejected imposed hierarchy. Dropped out of Stanford PhD after 2 days - rejected institutional academic hierarchy. Built SpaceX to challenge NASA-established rocket industry. Built Tesla to challenge automobile industry. However, once in power, exercises it absolutely: Twitter layoffs, DOGE government restructuring, firing engineers on spot. 'Question every requirement - trace it back to a person, not a department' reveals challenge to all institutional authority. Uses public platforms (Twitter) as power exercise - tweets with market-moving consequences.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_010",
+        "ev_026",
+        "ev_041",
+        "ev_055"
+      ],
+      "lens_notes": [
+        {
+          "lens": "political_psychology",
+          "note": "Power orientation reflects both anti-authoritarianism (from childhood resistance to abusive father and apartheid) and power-seeking (compensation for childhood powerlessness)"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-dominant: confrontational approach, uses public pressure and absolute positions",
+      "finding": "Conflict strategy is predominantly escalatory and confrontational. At PayPal, lost CEO role during honeymoon but remained largest shareholder - later used wealth to found competing ventures. SEC conflict: made 'funding secured' tweet, fought legally, settled but continued controversial behavior. Twitter: confrontational with advertisers, 'Go fuck yourself' at DealBook Summit. Tesla Autopilot: overridden engineers' warnings about 'lives at risk,' several resigned. Fires engineers on spot for disagreement. However, there is flexibility - sometimes rehires fired employees days later, suggesting conflict is instrumentally deployable rather than purely destructive. Uses Twitter/public messaging as conflict escalation tool.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_022",
+        "ev_028",
+        "ev_041",
+        "ev_042"
+      ],
+      "lens_notes": [
+        {
+          "lens": "defense_mechanisms",
+          "note": "Escalation may serve as projection of internal tension outward - transforming internal struggle into external battle"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale temporal orientation: multi-decade goals combined with extreme short-term intensity",
+      "finding": "Unusual combination of mission-scale and short-term horizons. Mars colonization, AI existential risk, consciousness preservation represent multi-decade to century-scale timeframes. Cost target of $200,000 for Mars colonization frames interplanetary settlement as achievable within his lifetime. Simultaneously, extreme short-term intensity: 120-hour work weeks during crises, 'production hell' periods, borrowing money for rent while working toward long-term goals. This combination suggests ability to hold both distant vision and immediate execution pressure simultaneously - characteristic of founders who can switch between strategic and tactical modes.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_032",
+        "ev_033",
+        "ev_037",
+        "ev_039",
+        "ev_040"
+      ],
+      "lens_notes": [
+        {
+          "lens": "temporal_motivation_theory",
+          "note": "Mission-scale time horizon may serve as existential meaning-making system - provides purpose that justifies extreme short-term sacrifice"
+        }
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong rebuild preference: fundamentally redesigns systems rather than incremental improvement",
+      "finding": "Rebuild preference is explicit and consistent. First principles approach inherently favors rebuild over patch - 'the most common error is to optimize something that shouldn't exist.' SpaceX: built rockets from scratch at 10% of industry cost rather than improving existing rockets. Twitter: laid off 80% rather than incremental restructuring. 'Delete any part or process you can - if you're not adding back at least 10% of what you delete, you're not deleting enough.' Tesla: took over as CEO during crisis rather than supporting existing management. Neuralink: brain-computer interface rather than improving existing devices. The pattern extends to non-business domains: Hyperloop - open-sourced entirely rather than building company around it. This is not simply disruption for its own sake - the rebuilds are based on first principles analysis that existing solutions are fundamentally suboptimal.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_017",
+        "ev_023",
+        "ev_024",
+        "ev_026",
+        "ev_032",
+        "ev_061",
+        "ev_062"
+      ],
+      "lens_notes": [
+        {
+          "lens": "cognitive_perspective",
+          "note": "Rebuild preference may reflect intolerance for inherited constraint - both practically and psychologically, patches carry historical baggage that rebuilds escape"
+        }
+      ],
+      "local_support": "strong"
     }
-  },
-  "emergent": [
+  ],
+  "emergent_constructs": [
     {
-      "dimension_name": "压力应对与创伤转化",
-      "finding": "Musk展现出将早期创伤经历(校园霸凌evt_002、虐待性父亲evt_003)转化为极端成就动力的模式。童年作为'最小最年轻的孩子'和'首要目标'的经历，似乎激发了他对绝对强大的追求——无论是技术上的(最成功的火箭)还是存在意义上的(确保人类延续)。他在2018年生产危机中的行为('我的苦难应大于他们')可能是一种强迫性重复——主动寻求极端压力环境，仿佛在重建创伤情境并试图掌控它。这种模式在心理学中被称为'创伤后成长'的极端形式。",
-      "event_ids": [
-        "evt_002",
-        "evt_003",
-        "evt_028"
+      "dimension_name": "trauma_derivatives",
+      "definition": "Behavioral patterns derived from childhood trauma (severe bullying, abusive father) that manifest as distinctive coping and achievement mechanisms",
+      "finding": "Multiple sources link current behavior patterns to childhood trauma. Severe bullying (hospitalized after being thrown down stairs) and abusive father ('terrible human being') created childhood environment of powerlessness and threat. Walter Isaacson's biography describes 'demon mode' - periods of intense destructive energy where Musk becomes fixated on 'gutting something' - traced to childhood with abusive father. This suggests trauma may manifest as: (1) hyper-achievement as compensation for childhood powerlessness, (2) control-seeking as defensive response to childhood chaos, (3) 'demon mode' as repetition of childhood abuse dynamics transposed onto organizational targets, (4) work as displacement from emotional processing ('I'm not sure what sitting around being sad is going to do' after child's death). The combination of extreme risk-taking with intense control suggests operating in childhood survival modes rather than adult risk assessment.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_018",
+        "ev_051",
+        "ev_052"
       ],
-      "confidence": 0.72,
-      "reasoning": "虽然没有直接证据表明心理咨询诊断，但行为模式明显：evt_002/evt_003描述的创伤经历与evt_028中'主动寻求苦难'的表达之间存在主题呼应。'被击败'(evt_017同事回忆)后的坚持也暗示了一种通过反复面对失败来掌控早年无力感的模式。"
+      "local_support": "strong"
     },
     {
-      "dimension_name": "关系边界与权力动态",
-      "finding": "Musk在人际关系中反复展现一种'对抗性依赖'模式。他与父亲的关系( evt_003'可怕的人')、被PayPal董事会驱逐( evt_011'度假的问题')、以及与广告商的公开冲突( evt_036'去你妈的')，都显示他在关系中倾向于将对方置于对立位置。然而，他在(evt_028)中'与工人一起受苦'的表述又显示他对联结的渴望——通过共享苦难来建立真实连接。这种矛盾模式可能源于早年与情感虐待型父亲的关系：既渴望亲密又恐惧被控制。",
-      "event_ids": [
-        "evt_003",
-        "evt_011",
-        "evt_028",
-        "evt_036"
+      "dimension_name": "relational_isolation_tolerance",
+      "definition": "High tolerance for relational isolation as cost of mission pursuit, with occasional acknowledged awareness of the toll",
+      "finding": "Evidence suggests Musk maintains mission-focused isolation while having some awareness of relational costs. After first child's death, returned to work immediately. When asked 'Are you happy?' by Lex Fridman in 2023, long pause before saying 'there are many nights I sleep alone' - this appears to acknowledge relational deprivation without indicating intention to change. The 'Go fuck yourself' to advertisers suggests willingness to burn relationships for principle/mission. Multiple marriages and divorces (not detailed in timeline but known) further suggest difficulty maintaining long-term intimate relationships while pursuing intense mission focus. However, not completely isolated - maintains brother as early co-founder, some loyal colleagues. The pattern may be better characterized as selective relational investment (intense but limited) rather than complete isolation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_050",
+        "ev_051"
       ],
-      "confidence": 0.68,
-      "reasoning": "关系模式在时间线上反复出现：evt_003(父亲)、evt_011(商业伙伴)、evt_036(商业关系)。虽然这些事件横跨不同领域，但都呈现类似的权力动态——对方被建构为控制者或威胁者，而Musk通过对抗或退出回应。这种模式在依恋理论中可见于'恐惧型回避'风格。"
+      "local_support": "moderate"
     },
     {
-      "dimension_name": "自我呈现与公众形象管理",
-      "finding": "Musk展现出高度自觉的公众表演倾向。他的许多行为——特斯拉上太空( evt_027)、出售火焰喷射器( evt_031)、Twitter更名( evt_034)、与广告商对骂( evt_036)——都超越了商业必要性，更像是精心设计的公众叙事。这些行为符合自恋型人格的某些特征，但更精确地说，它们体现了一种存在主义式的自我确认：通过极端行为来感受自身的存在和力量。他对'有意思'(interesting)的追求——在Joe Rogan节目中抽大麻、发送争议性推文——可能是一种存在性验证，通过挑战常规来感受生命的鲜活。",
-      "event_ids": [
-        "evt_027",
-        "evt_031",
-        "evt_034",
-        "evt_036"
+      "dimension_name": "defensive_humor",
+      "definition": "Use of humor as defensive operation - deflecting from emotional content while maintaining engagement",
+      "finding": "Musk uses distinctive humor patterns that appear defensive in function. Selling 20,000 flamethrowers through Boring Company: 'obviously a terrible idea' but marketed as novelty item - humor that simultaneously acknowledges absurdity while proceeding anyway. Sent Tesla Roadster into space 'for aliens' - grandiose gesture wrapped in whimsy. Twitter/X handles often employ ironic/meme-based communication. This humor operates defensively: allows engagement with serious topics (war, death, failure) without emotional processing, maintains public attention, creates approachability around potentially frightening content. May also serve as affective modulation - managing anxiety about high-stakes ventures through humor. The pattern is consistent with 'reaction formation' defense mechanism - transforming anxiety into comedic engagement.",
+      "evidence_ids": [
+        "ev_030",
+        "ev_048",
+        "ev_049"
       ],
-      "confidence": 0.65,
-      "reasoning": "这些行为的共同点是无法用纯理性解释其商业价值，而更接近于个人品牌的戏剧化演出。虽然这可能反映自恋特质，但更中性的解读是：在一个自己无法完全控制的世界中，通过创造'故事'来获得某种叙事控制感。"
+      "local_support": "moderate"
     }
   ]
 }

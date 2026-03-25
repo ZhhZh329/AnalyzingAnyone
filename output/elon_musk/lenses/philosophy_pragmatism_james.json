@@ -1,0 +1,177 @@
+{
+  "discipline": "philosophy",
+  "lens": "pragmatism_james",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper - actively constructs new structures rather than responding to existing ones",
+      "finding": "Musk demonstrates the archetypal world-shaping orientation through ventures that challenge fundamental assumptions about what's possible. Rather than working within existing frameworks, he creates new ones: SpaceX to make humanity multi-planetary (evt_013), Tesla to accelerate sustainable energy (evt_014), Neuralink to enable human-AI symbiosis (evt_023). His statement at IAC 2016 reveals this orientation explicitly - 'History is going to bifurcate along two directions' (ev_022), positioning himself as the agent who determines which direction humanity takes. This aligns with James's emphasis on the creative power of individual will to shape reality.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_023",
+        "ev_029",
+        "ev_030",
+        "evt_013",
+        "evt_014",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First principles reasoning combined with strong belief will - not purely rationalist",
+      "finding": "Musk explicitly articulates his reasoning approach: 'I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy' (ev_025). However, his actual decision-making shows James's 'belief will' in action - when founding SpaceX, he 'thought the chance of success was less than 10%' yet proceeded anyway (ev_008), accepting he would 'probably lose everything.' This reveals a pragmatic epistemology where conviction and action precede complete evidence - exactly the 'genuine option' James described. The cash value of an idea is tested through action rather than waiting for theoretical certainty.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_008",
+        "ev_034",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Mixed - employs systematic frameworks but prioritizes hands-on implementation",
+      "finding": "Musk uses the 'algorithm' - a five-step engineering process (ev_016) - and has published detailed white papers like Hyperloop (ev_049). However, his management style is intensely hands-on: he reviews code commits personally (ev_052), sleeps on the factory floor during production crises (ev_056), and works 80-100 hour weeks (ev_032). This suggests he values both systematization AND direct experience - consistent with James's 'radical empiricism' that prioritizes concrete lived experience over abstract theorizing. He's not a pure abstractionist; he tests ideas through direct engagement with reality.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_049",
+        "ev_052",
+        "ev_056",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Very high control - seeks direct dominion over systems, people, and outcomes",
+      "finding": "Musk demonstrates extreme control orientation across his enterprises. At Twitter, he personally reviewed code commits (ev_052), gave ultimatums requiring 'extremely hardcore work' (ev_053), and fired approximately 80% of the workforce (ev_018). At Tesla/SpaceX, he fires engineers on the spot for disagreement (ev_054), sometimes rehiring them days later. His 'demon mode' management - as described by Isaacson - involves destroying entire teams' work and demanding impossible deadlines (ev_042). This aligns with James's emphasis on individual will but pushed to an extreme: Musk doesn't just control his own beliefs, he attempts to control every system and person around him.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_052",
+        "ev_053",
+        "ev_042",
+        "ev_054"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Extreme mission-prioritization - willing to sacrifice relational comfort and personal wellbeing",
+      "finding": "Musk consistently prioritizes mission over relational cost. During the Model 3 production crisis - 'the most painful year of my career' (ev_013) - he worked 120-hour weeks, slept on the factory floor, stating 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_012). His quote 'Nobody ever changed the world on 40 hours a week' (ev_031) explicitly subordinates normal life expectations to mission. His first child died at 10 weeks and he returned to work almost immediately, saying 'I'm not sure what sitting around being sad is going to do' (ev_041). This is mission-maximizing at extraordinary personal and relational cost.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_013",
+        "ev_031",
+        "ev_041",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Very high risk tolerance - actively embraces existential risk for transformative outcomes",
+      "finding": "Musk's risk posture exemplifies James's 'do not wait for certainty' principle. For SpaceX, he calculated 'less than 10%' chance of success (ev_008), invested $100 million, and 'accepted that I would probably lose everything.' He described entrepreneurship as 'eating glass' (ev_034) and said he'd 'rather commit seppuku than fail' (ev_035). His Mars colonization plan explicitlywarns that 'first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it' (ev_023). This is not mere risk tolerance - it's seeking to transform the world despite knowing the existential risks involved.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_034",
+        "ev_035",
+        "ev_023",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent - resists external hierarchy but creates strong internal hierarchy",
+      "finding": "Musk shows a complex relationship with hierarchy. He emigrated from South Africa to avoid mandatory military service under apartheid (ev_004), and shifted from Democrat to Republican when he felt 'the Democrats left me' (ev_045). Yet he built organizations with himself as absolute center - taking over Tesla when it was 'nearly bankrupt' (evt_020), becoming largest shareholder and chairman (evt_014). In government, a federal judge ruled he acted as 'de facto leader of DOGE' (ev_057). This is consistent with James's pluralism - rejecting single external authority while building personal dominion. He's anti-hierarchy when others hold power, pro-hierarchy when he does.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_045",
+        "evt_014",
+        "evt_020",
+        "ev_057"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation and confrontation - uses public conflict as strategic tool",
+      "finding": "Musk's conflict strategy is characterized by direct escalation. At the DealBook Summit, he told advertisers 'Go fuck yourself' (ev_019) - a public confrontation that cost Twitter an estimated 79% of equity value (ev_055). His SEC tweet about taking Tesla private at '$420' led to fraud charges (ev_015). His management style involves firing people on the spot for disagreement (ev_054). However, he occasionally uses 'translation' - as with Neuralink: 'If you can't beat them, join them' (ev_037). The dominant pattern is confrontation rather than negotiation, consistent with his world-shaping orientation that doesn't seek consensus.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_055",
+        "ev_015",
+        "ev_054",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale - optimizes for multi-generational existential outcomes",
+      "finding": "Musk operates on James's 'mission scale' time horizon - he's optimizing for humanity's long-term survival rather than short-term profit. His SpaceX mission is making humanity 'a multi-planetary species' (ev_022) to prevent eventual extinction. He states 'I think we have a duty to maintain the light of consciousness' (ev_029), and his goal is 'to maximize the probability of the future being better' (ev_030). These are explicitly multi-generational, existential time horizons. James would recognize this as a 'living' option in the deepest sense - a choice about what kind of universe humans want to create.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_029",
+        "ev_030",
+        "ev_024",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Extreme rebuild preference - structural redesign over local repair",
+      "finding": "Musk consistently chooses structural redesign over patching. At Twitter, rather than incrementally improving the platform, he laid off 80% of staff (ev_018), changed fundamental operations, and transformed it into X. At Tesla, he took over during crisis and made radical changes rather than incremental adjustments (evt_020). His companies often rebuild entire systems - SpaceX rebuilt rocket manufacturing from first principles rather than buying Russian rockets (evt_013). He explicitly published the Hyperloop white paper to 'show it was possible' (ev_050), inviting others to rebuild transportation. This aligns with James's willingness to 'rebuild' when existing frameworks lose their 'cash value.'",
+      "evidence_ids": [
+        "ev_018",
+        "evt_020",
+        "evt_013",
+        "ev_050",
+        "ev_049"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Partial awareness - recognizes certain biases but limited introspection on belief-will",
+      "finding": "Musk shows mixed metacognition. He explicitly recognizes his management flaws - calling his Tesla automation approach 'a mistake. Humans are underrated' (ev_014). He reflects on the Model 3 crisis as 'the most painful year' (ev_013). However, there's limited evidence of systematic reflection on his belief-will patterns or cognitive limits. He doesn't appear to critically examine why he chooses to believe in high-risk ventures or how his 'demon mode' affects reasoning. His statement 'there are many nights I sleep alone' (ev_039) suggests awareness of personal costs but not deep metacognitive analysis of his decision-making patterns. James's 'radical empiricism' would require more explicit monitoring of the 'stream of consciousness' itself.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_013",
+        "ev_039",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "pragmatic_idealism",
+      "definition": "The combination of visionary idealism about human potential with extremely pragmatic, hands-on execution. Not philosophical idealism in the Berkeley sense, but rather the practical orientation of pursuing grand visions through concrete, ground-level work.",
+      "finding": "Musk exemplifies what might be called 'pragmatic idealism' - the fusion of existential vision with extreme operational pragmatism. He talks about 'maintaining the light of consciousness' (ev_029) while simultaneously reviewing code commits line-by-line (ev_052) and sleeping on factory floors (ev_056). This is distinct from shared_constructs because it captures a specific quality of Musk's approach: grandiose aims pursued through granular, often grueling execution. James's 'cash value' framework explains this - the meaning of the vision is tested through what it produces in reality, not through abstract contemplation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_052",
+        "ev_056",
+        "ev_022",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "productive_paradox_tolerance",
+      "definition": "The capacity to hold and act upon apparent contradictions without resolving them - embracing paradox as productive rather than as cognitive dissonance requiring resolution.",
+      "finding": "Musk frequently operates within productive paradoxes: he warns about AI as 'summoning the demon' (ev_026) yet founds AI companies (evt_022, ev_028); he advocates for free speech while banning critics; he builds electric vehicles to save the environment while producing rockets that enable space colonization. Rather than resolving these tensions, he seems to use them as generative friction. This is consistent with James's pluralism - the universe is 'open and unfinished,' and truth may be multiplicit rather than singular. Musk's paradox tolerance is productive in that it enables action where pure consistency might paralyze.",
+      "evidence_ids": [
+        "ev_026",
+        "evt_022",
+        "ev_028",
+        "ev_019",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

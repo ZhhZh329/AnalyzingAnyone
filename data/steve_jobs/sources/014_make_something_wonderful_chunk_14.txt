@@ -1,0 +1,74 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 14/32
+
+What I look for is for someone to come right back and say, “You’re dead wrong and here’s why.” I want to see what people are like under pressure. I want to see if they just fold or if they have firm conviction, belief, and pride in what they did. It’s also good every once in a while to really piss somebody off in an interview to see how they react because, if your company is a meritocracy of ideas, with passionate people, you have a company with a lot of arguments. If people can’t stand up and argue well under pressure, they may not do well in such an environment.
+
+Q:  What do you think your weaknesses are when it comes to management?
+
+SJ:  I don’t know. People are package deals; you take the good with the confused. In most cases, strengths and weaknesses are two sides of the same coin. A strength in one situation is a weakness in another, yet often the person can’t switch gears. It’s a very subtle thing to talk about strengths and weaknesses because almost always they’re the same thing.
+
+My strength probably is that I’ve always viewed technology from a liberal arts perspective, from a human culture perspective. As such, I’ve always pushed for things that pulled technology in those directions by bringing insights from other fields. An example of that would  be— with the  Macintosh— desktop publishing: its proportionately spaced fonts, its ease of use. All of the desktop publishing stuff on the Mac comes from books: the typography, that rich feel that nobody in computers knew anything about. I think that my other strength is that I’m a pretty good judge of people and have the ability to bring people together around common vision.
+
+Q:  Well then, when are your  strengths— judgment of character and liberal arts  perspective— your weaknesses?
+
+SJ:  In certain cases, my weaknesses are that I’m too idealistic. [I need to] realize that sometimes best is the enemy of better. Sometimes I go for “best” when I should go for “better,” and end up going nowhere or backwards. I’m not always wise enough to know when to go for the best and when to just go for better.
+
+Sometimes I’m blinded by “what could be” versus “what is possible,” doing things incrementally versus doing them in one fell swoop. Balancing the ideal and the practical is something I still must pay attention to.
+
+Q:  In terms of going for the best, you have a widely held reputation of being extremely  charismatic— someone who is always able to draw out the best in other people. How have you been able to motivate your employees?
+
+SJ:  Well, I think  that— ultimately, it’s the work that motivates people. I sometimes wish it were me, but it’s not. It’s the work. My job is to make sure the work is as good as it should be and to get people to stretch beyond their best. But it’s ultimately the work that motivates people. That’s what binds them together.
+
+Q:  Yet in the case of the Macintosh, you got tremendous output from people. Regardless of the type of work, not everybody can elicit that type of commitment.
+
+SJ:  Well, I’m not sure I’d chalk that up to charisma. Part of the CEO’s job is to cajole and beg and plead and threaten at  times— to do whatever is necessary to get people to see things in a bigger and more profound way than they have, and to do better work than they thought they could do.
+
+When they do their best and you don’t think it’s enough, you tell them straight: “This isn’t good enough. I know you can do better. You need to do better. Now go do better.”
+
+You must play those cards carefully. You must be right a lot of the time because you’re messing with people’s lives. But that’s part of the job. In the end, it’s the environment you create, the coworkers, and the work that binds. The Macintosh team, if you talk to most of  them— a dozen years since we shipped the  product— most will still say that working on the Mac was the most meaningful experience of their lives. If we’d never shipped a product they wouldn’t say that. If the product hadn’t been so good they wouldn’t say that. The Macintosh experience wasn’t just about going to camp with a bunch of fun people. It wasn’t just a motivational speaker. It was the product that everybody put their heart and soul into, and it was the product that expressed their deep appreciation, somehow, for the world to see.
+
+So, in the end, it’s the work that binds. That’s why it’s so important to pick very important things to do because it’s very hard to get people motivated to make a breakfast cereal. It takes something that’s worth doing.
+
+Email to Pixar Employees
+
+“Apple Acquires NeXT.”
+
+From: Steve Jobs
+
+To: Pixar
+
+Subject: Apple Acquires NeXT
+
+Date: December 20, 1996, 9:24 p.m.
+
+Today Apple announced that it is acquiring NeXT! This is great for Apple -- it gives them a very advanced object-oriented operating system, OpenStep, that can leapfrog Microsoft Windows.
+
+This is great for NeXT -- OpenStep will become mainstream and be used by millions of people; this has been a dream of everyone at NeXT for ten years.
+
+This is great for Pixar -- it will free me up from running two companies, so I can devote even more of my energies to Pixar. There may even be some possibilities for Pixar and Apple to work together in the future (if creatively driven!).
+
+And, this is really great for me. I have been working with a group of wonderful colleagues at NeXT for over a decade, and having our work finally become mainstream will be very gratifying (a feeling everyone at Pixar already knows). I will be advising Apple on their product strategy, and I will get to spend even more of my time at Pixar :).
+
+I am very happy and excited.
+
+Steve
+
+PS: For more details, check out NeXT’s website at
+
+www.next.com
+
+Part III, 1996–2011
+
+“Much of what I stumbled into by following my curiosity and intuition turned out to be priceless later on.”
+
+The Apple that Steve returned to after its purchase of NeXT at the end of 1996 scarcely resembled the company he remembered. Apple had lost $800 million that year. Steve had so little trust in the board that he insisted all but two directors resign.
+
+But he also found many employees whose talents and love for Apple struck him as “phenomenal.” He assured a doubtful NeXT colleague, “There’s something there worth saving.”
+
+Steve remained driven by the same mission he articulated in his early years, to “put something back into the pool of human experience.” And in his years  away— longer than his first time at the  company— he had matured and learned how to lead.
+
+As CEO of Apple and Pixar (he held both roles until Disney acquired Pixar in 2006), he saw his job as “number one, recruit; number two, set an overall direction; and number three, inspire and cajole and persuade.” He said, “You’re not grabbing the pencil out of the twenty-five-year-old’s hand to do it better than they are. If you’re smart, you’re hiring twenty-five-year-olds who are smarter than you.” He gave particular thought to his responsibility for the business aspects of a creative company. A “risk-taking creative environment on the product side,” he said, required a “fiscally conservative environment” on the business side. “Creative people are willing to take a leap in the air, but they need to know that the ground’s going to be there when they get back.”
+
+At Apple, making sure the ground was still there meant streamlining, a skill Steve had mastered in the lean years at NeXT and Pixar. His second tenure at Apple was a study in focus. Soon after he returned, he slashed the company’s product offerings from seventeen to four. This upset some fans and led to thousands of job losses, but he was unwavering in his belief that it was necessary to save the company. “You’ve got to choose what you put your love into really carefully,” he said.

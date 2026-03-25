@@ -1,0 +1,17 @@
+name: book_excerpt
+display_name: "Book excerpt or archival compilation"
+credibility_notes: |
+  Book excerpts and archival compilations can mix first-hand material
+  (speeches, emails, interviews) with editorial framing. They are valuable,
+  but you should keep the editor's hand distinct from the subject's own words.
+  Key considerations:
+  - Distinguish quoted primary material from surrounding editorial notes
+  - Archival curation itself reflects a selection bias about what matters
+  - Chronology can collapse when excerpts are grouped thematically
+  - Repeated motifs may reflect editorial emphasis as well as real patterns
+  - When excerpts come from verified speeches/emails/interviews, the inner
+    quoted material is often very strong evidence
+weight_guidance: |
+  High value when the excerpt is clearly first-hand quoted material. Moderate
+  value for narrative transitions or editorial interpretation. Prefer to anchor
+  claims in the subject's own quoted words inside the excerpt.

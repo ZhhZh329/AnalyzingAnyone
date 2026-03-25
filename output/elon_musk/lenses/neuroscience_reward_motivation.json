@@ -1,0 +1,194 @@
+{
+  "discipline": "neuroscience",
+  "lens": "reward_motivation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Extreme world-shaper: actively creates reward opportunities rather than waiting for external triggers",
+      "finding": "Musk's reward system is fundamentally oriented toward active creation rather than passive response. Rather than waiting for external opportunities, he creates new fields (space exploration, electric vehicles, brain-computer interfaces, AI) that no existing market provided. His statement 'I could either watch the Internet revolution happen or I could be part of it' (ev_005) reveals an agentic orientation where external events are triggers for deliberate action, not determinants. The founding of SpaceX after Russia refused to sell ICBMs exemplifies this—rather than accepting the constraint, he calculated he could build rockets for 10% of the going rate (evt_013) and built an entirely new company. This aligns with high dopamine baseline driving approach behavior and novelty-seeking.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_008",
+        "ev_025",
+        "ev_050",
+        "evt_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "High learning drive with tolerance for prediction errors; first principles reasoning as cognitive framework",
+      "finding": "Musk exhibits a learning-driven epistemic style characterized by first principles reasoning (ev_025: 'Physics teaches you to reason from first principles rather than by analogy') and active seeking of prediction errors. His approach to SpaceX involved calculating fundamental cost structures rather than accepting industry assumptions. He demonstrates willingness to update beliefs dramatically—evolving from AI 'summoning the demon' (ev_026) to founding xAI (ev_028), and shifting from Democratic affiliation to $288 million Republican donor (ev_046). The tolerance for failure across four Falcon 1 launches (evt_015-018) indicates his prediction error system responds to negative outcomes not with avoidance but with continued learning. His epistemic confidence appears high but not rigid—willing to reverse positions when evidence warrants.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_026",
+        "ev_028",
+        "ev_046",
+        "evt_015",
+        "evt_016",
+        "evt_017",
+        "evt_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction orientation; derives intrinsic reward from formalizing complex systems",
+      "finding": "Musk demonstrates strong abstraction orientation through his physics-based reasoning framework and systematic approach to complex problems. His five-step 'algorithm' for engineering (ev_016: 'The most common error is to optimize something that shouldn't exist') represents a formalizable meta-cognitive tool he applies across domains. He published the Hyperloop white paper (ev_049) not to build it himself but 'just to show it was possible' (ev_50)—demonstrating intrinsic reward from the intellectual exercise of formalizing a concept. His physics background and stated preference for 'reasoning from first principles' (ev_025) indicates reward derived from abstract reasoning itself rather than just its practical applications. This aligns with the intrinsic motivation dimension where competence satisfaction comes from mastery of abstract systems.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_049",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Extremely high control orientation; sensitive to autonomy threats; actively seeks system control",
+      "finding": "Musk shows extreme control orientation expressed through both direct leadership and intense sensitivity to perceived autonomy threats. His takeover of Tesla as CEO during the financial crisis (ev_011: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice') and his pattern of firing engineers who disagree (ev_054) reveal a drive for control that overrides normal interpersonal considerations. His ousting from X.com during his honeymoon (ev_007: 'That's the problem with vacations') reflects low tolerance for loss of control. His personal code review at Twitter (ev_052) and direct operation of factories (ev_056) demonstrate behavioral patterns consistent with high autonomy need. The DOGE role in 2025 (ev_043, ev_057) represents seeking control over government systems. This aligns with self-determination theory's autonomy need being a primary driver.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_011",
+        "ev_052",
+        "ev_054",
+        "ev_056",
+        "ev_043",
+        "ev_057"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Extreme mission prioritization; relational costs systematically subordinated to existential goals",
+      "finding": "Musk's reward system appears highly specialized toward mission-driven existential goals, with relational rewards showing marked desaturation. His statements about consciousness preservation ('I think we have a duty to maintain the light of consciousness' ev_029) and maximizing probability of 'the future being better' (ev_030) represent core driving motivations that dwarf relational concerns. The loss of 79% of Twitter's equity value (ev_055) and confrontation with advertisers ('Go fuck yourself' ev_019) indicate willingness to accept massive relational and financial costs for perceived mission alignment. His comment about his father as 'a terrible human being' and unhappy childhood (ev_002), along with his first son Nevada's death and immediate return to work (ev_040, ev_041), and statement 'There are many nights I sleep alone' (ev_039) suggest his mission pursuit has come at significant relational cost. The pattern aligns with Kent Berridge's 'wanting' without commensurate 'liking'—intense drive without proportional satisfaction.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_030",
+        "ev_039",
+        "ev_002",
+        "ev_040",
+        "ev_041",
+        "ev_055"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "High risk tolerance driven by novelty seeking and long time horizons; accepts low probability high-impact outcomes",
+      "finding": "Musk exhibits high risk tolerance anchored in two factors: high novelty-seeking drive and long time horizons that flatten delay discounting. His statement about SpaceX success probability being 'less than 10%' and accepting he would 'probably lose everything' (ev_008) reveals baseline risk tolerance significantly above population norms. His description of entrepreneurship as 'eating glass' (ev_034) and willingness to 'rather commit seppuku than fail' (ev_035) indicates not just tolerance but embrace of extreme risk. The Model 3 production crisis where Tesla came 'within weeks of bankruptcy' (evt_028) with Musk working 120-hour weeks (ev_032) demonstrates behavioral confirmation of stated risk tolerance. His explicit acknowledgment of high fatality risk for Mars missions (ev_023) shows willingness to accept personal and others' physical risk for mission. This aligns with high dopamine baseline associated with novelty seeking and risk preference.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_034",
+        "ev_035",
+        "ev_023",
+        "ev_032",
+        "evt_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex relationship: comfortable with personal power, resistant to external authority, uses hierarchy instrumentally",
+      "finding": "Musk's relationship to hierarchy reveals a dual pattern: resistance to external authority combined with comfortable exercise of personal power. He left South Africa to avoid mandatory military service under apartheid (ev_004), demonstrating early resistance to coercive hierarchy. His ousting from X.com and subsequent actions indicate low tolerance for subordinate position in hierarchies he perceives as illegitimate. Yet he readily assumes top positions—taking over Tesla as CEO (evt_020), leading DOGE (ev_043), and being described as 'de facto leader' by federal courts (ev_057). His political shift from Democrat to $288 million Republican donor (ev_045, ev_046) suggests instrumental use of hierarchy rather than ideological commitment. His direct confrontation with advertisers (ev_019) indicates willingness to use power provocatively rather than diplomatically. The pattern suggests power is a tool for mission advancement rather than an end in itself.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_007",
+        "ev_019",
+        "ev_043",
+        "ev_045",
+        "ev_046",
+        "ev_057",
+        "evt_020",
+        "evt_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-prone; engages conflict as signal of engagement; uses confrontation as default approach",
+      "finding": "Musk's conflict strategy reveals a pattern where conflict serves as a reward signal rather than a deterrent—he engages rather than avoids confrontation. His firing of engineers who disagree (ev_054), then sometimes rehiring them days later, suggests conflict is not about winning but about testing resolve. The SEC lawsuit over his $420 tweet (ev_015, evt_027) and his pattern of 'demon mode' management (ev_042: 'When Elon is in demon mode, he will fire people, destroy entire teams' work, demand impossible deadlines—and then somehow the product ships') indicate conflict is experienced as energizing rather than punishing. His confrontation with advertisers at DealBook Summit (ev_019) and ultimatum to Twitter employees (ev_053) demonstrate escalation as default strategy. This aligns with novelty-seeking where conflict provides arousing stimulation that the reward system interprets positively rather than as negative feedback.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_042",
+        "ev_053",
+        "ev_054",
+        "evt_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Extremely long time horizons; optimizes for multi-generational and species-level outcomes",
+      "finding": "Musk's temporal orientation extends to multi-generational horizons, well beyond typical entrepreneurial timeframes. His Mars colonization plan (evt_024), stated vision of humanity becoming 'multi-planetary species' (ev_022), and desire to 'die on Mars but not on impact' (ev_024) reveal time horizons measured in centuries. This maps onto very flat delay discounting curves—he accepts immediate suffering (the 'most painful year of my career' ev_013, sleeping on factory floor ev_056) for far-future payoffs. His 80-100 hour work weeks (ev_032) over sustained decades represent enormous present costs for projected future impact. The Hyperloop paper (ev_049), Neuralink (ev_037: 'If you can't beat them, join them'), and explicit goal of maintaining 'the light of consciousness' (ev_029) indicate temporal horizons extending beyond individual lifespan. This suggests either exceptional capacity for delay discounting or active use of self-binding strategies to maintain long-term orientation.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_024",
+        "ev_029",
+        "ev_032",
+        "ev_037",
+        "ev_049",
+        "ev_056",
+        "evt_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental improvement; rebuilds entire systems",
+      "finding": "Musk demonstrates consistent preference for radical redesign over incremental patching across multiple domains. Rather than improving existing rockets, he founded SpaceX to rebuild the entire launch infrastructure. Rather than accepting Tesla's initial approach, he took over as CEO and rebuilt production systems. Rather than improving Twitter incrementally, he acquired it and executed radical restructuring (80% workforce reduction ev_018). His statement that 'The most common error is to optimize something that shouldn't exist' (ev_016) reveals preference for questioning fundamental assumptions rather than optimizing within them. The Hyperloop white paper (ev_049) was published not because existing transit needed improvement but to demonstrate an entirely different approach was possible. This pattern aligns with high novelty-seeking and the stronger reward signals from creation versus repair.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_018",
+        "ev_049",
+        "evt_013",
+        "evt_020",
+        "evt_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; aware of own drive but less aware of wanting-liking separation",
+      "finding": "Musk demonstrates moderate metacognitive capacity—he can articulate his reasoning (first principles thinking, 'the algorithm') but shows limited awareness of motivational distortions. He explicitly states 'Nobody ever changed the world on 40 hours a week' (ev_031) and describes work as 'eating glass' (ev_034)—showing awareness that his drive involves suffering. However, his statement 'There are many nights I sleep alone' (ev_039) and admission that Model 3 production was 'the most painful year' (ev_013) suggest awareness of cost without corresponding adjustment of behavior. He appears less aware of the 'wanting' versus 'liking' separation—continuing intense pursuit despite evidence it doesn't produce proportional satisfaction. His explicit statement 'What I'm trying to do is to maximize the probability of the future being better' (ev_030) reveals goal-oriented self-understanding but less attention to whether the pursuing itself is producing well-being. The metacognitive gap appears greatest around the reward system itself.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_030",
+        "ev_031",
+        "ev_034",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Wanting-Liking Separation Intensity",
+      "definition": "The degree to which此人's reward system exhibits 'wanting' (pursuit drive) without proportional ' liking' (consummatory pleasure). Kent Berridge's research established these can operate independently. This dimension captures whether Musk's intense drive produces commensurate satisfaction or whether he experiences drive without proportionate pleasure.",
+      "finding": "Musk exhibits pronounced wanting-liking separation. His intense drive to 'maximize the probability of the future being better' (ev_030), work 80-100 hour weeks for decades, and accept extreme personal costs (financial near-bankruptcy, family strain, health sacrifice) continues despite evidence of low 'liking' return. His admission of sleeping alone (ev_039) and the 'most painful year' (ev_013) description reveal intense wanting without proportional liking. The pattern suggests his motivational system is dominated by goal-directed 'wanting' circuits while hedonic 'liking' circuits are relatively desensitized. He continues pursuing even when rationally should stop because the wanting signal remains strong even when liking has faded or never was high. This is the motivational mechanism underlying his relentless drive independent of satisfaction from outcomes.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_030",
+        "ev_039",
+        "ev_031",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Mission-Specific Reward Saturation",
+      "definition": "The degree to which someone's reward system has become specialized toward specific mission domains, with other reward categories (relationships, sensory pleasures, status comfort) showing relative desaturation. This is not about simple prioritization but about neural reward circuits becoming structurally biased toward certain activation patterns.",
+      "finding": "Musk's reward system appears highly specialized toward existential mission goals (multi-planetary civilization, consciousness preservation, AI safety), with other reward categories showing evidence of desaturation. The $44 billion Twitter acquisition resulting in 79% equity value loss (ev_055) with minimal apparent distress, the confrontation with advertisers causing major advertiser loss (ev_019), and his description of his father as 'terrible human being' with 'not a happy childhood' (ev_002) suggest relational reward processing operates differently. His immediate return to work after Nevada's death (ev_040, ev_041) and long work hours over family time indicate relationship rewards are not primary activators. This specialization means his reward system responds strongly to mission progress but weakly to relational or sensory rewards—the wanting is hyperspecific to existential goals rather than broadly calibrated to typical human reward sources.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_019",
+        "ev_040",
+        "ev_041",
+        "ev_055"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

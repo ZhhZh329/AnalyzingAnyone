@@ -1,0 +1,216 @@
+{
+  "subject": "Sam Altman",
+  "description": "Original-text corpus of Sam Altman's official blog posts from his Posthaven feed.",
+  "sources": [
+    {
+      "id": "src_001",
+      "type": "blog",
+      "date": "2025-10-04",
+      "file": "sources/001_sora_update_number_1.txt",
+      "context": "Sora update #1"
+    },
+    {
+      "id": "src_002",
+      "type": "blog",
+      "date": "2025-09-30",
+      "file": "sources/002_sora_2.txt",
+      "context": "Sora 2"
+    },
+    {
+      "id": "src_003",
+      "type": "blog",
+      "date": "2025-09-23",
+      "file": "sources/003_abundant_intelligence.txt",
+      "context": "Abundant Intelligence"
+    },
+    {
+      "id": "src_004",
+      "type": "blog",
+      "date": "2025-09-09",
+      "file": "sources/004_jakub_and_szymon.txt",
+      "context": "Jakub and Szymon"
+    },
+    {
+      "id": "src_005",
+      "type": "blog",
+      "date": "2025-06-10",
+      "file": "sources/005_the_gentle_singularity.txt",
+      "context": "The Gentle Singularity"
+    },
+    {
+      "id": "src_006",
+      "type": "blog",
+      "date": "2025-02-09",
+      "file": "sources/006_three_observations.txt",
+      "context": "Three Observations"
+    },
+    {
+      "id": "src_007",
+      "type": "blog",
+      "date": "2025-01-06",
+      "file": "sources/007_reflections.txt",
+      "context": "Reflections"
+    },
+    {
+      "id": "src_008",
+      "type": "blog",
+      "date": "2024-05-13",
+      "file": "sources/008_gpt_4o.txt",
+      "context": "GPT-4o"
+    },
+    {
+      "id": "src_009",
+      "type": "blog",
+      "date": "2023-12-21",
+      "file": "sources/009_what_i_wish_someone_had_told_me.txt",
+      "context": "What I Wish Someone Had Told Me"
+    },
+    {
+      "id": "src_010",
+      "type": "blog",
+      "date": "2022-07-13",
+      "file": "sources/010_helion_needs_you.txt",
+      "context": "Helion Needs You"
+    },
+    {
+      "id": "src_011",
+      "type": "blog",
+      "date": "2022-04-06",
+      "file": "sources/011_dall_star_e_2.txt",
+      "context": "DALL•E 2"
+    },
+    {
+      "id": "src_012",
+      "type": "blog",
+      "date": "2021-11-05",
+      "file": "sources/012_helion.txt",
+      "context": "Helion"
+    },
+    {
+      "id": "src_013",
+      "type": "blog",
+      "date": "2020-12-01",
+      "file": "sources/013_the_strength_of_being_misunderstood.txt",
+      "context": "The Strength of Being Misunderstood"
+    },
+    {
+      "id": "src_014",
+      "type": "blog",
+      "date": "2020-09-25",
+      "file": "sources/014_pg_and_jessica.txt",
+      "context": "PG and Jessica"
+    },
+    {
+      "id": "src_015",
+      "type": "blog",
+      "date": "2020-06-19",
+      "file": "sources/015_researchers_and_founders.txt",
+      "context": "Researchers and Founders"
+    },
+    {
+      "id": "src_016",
+      "type": "blog",
+      "date": "2020-06-16",
+      "file": "sources/016_project_covalence.txt",
+      "context": "Project Covalence"
+    },
+    {
+      "id": "src_017",
+      "type": "blog",
+      "date": "2020-05-28",
+      "file": "sources/017_idea_generation.txt",
+      "context": "Idea Generation"
+    },
+    {
+      "id": "src_018",
+      "type": "blog",
+      "date": "2020-03-30",
+      "file": "sources/018_please_fund_more_science.txt",
+      "context": "Please Fund More Science"
+    },
+    {
+      "id": "src_019",
+      "type": "blog",
+      "date": "2020-03-15",
+      "file": "sources/019_funding_for_covid_19_projects.txt",
+      "context": "Funding for COVID-19 Projects"
+    },
+    {
+      "id": "src_020",
+      "type": "blog",
+      "date": "2020-03-07",
+      "file": "sources/020_the_virus.txt",
+      "context": "The Virus"
+    },
+    {
+      "id": "src_021",
+      "type": "blog",
+      "date": "2020-02-26",
+      "file": "sources/021_hard_startups.txt",
+      "context": "Hard Startups"
+    },
+    {
+      "id": "src_022",
+      "type": "blog",
+      "date": "2020-01-13",
+      "file": "sources/022_how_to_invest_in_startups.txt",
+      "context": "How To Invest In Startups"
+    },
+    {
+      "id": "src_023",
+      "type": "blog",
+      "date": "2019-01-24",
+      "file": "sources/023_how_to_be_successful.txt",
+      "context": "How To Be Successful"
+    },
+    {
+      "id": "src_024",
+      "type": "blog",
+      "date": "2018-06-25",
+      "file": "sources/024_reinforcement_learning_progress.txt",
+      "context": "Reinforcement Learning Progress"
+    },
+    {
+      "id": "src_025",
+      "type": "blog",
+      "date": "2018-05-10",
+      "file": "sources/025_us_digital_currency.txt",
+      "context": "US Digital Currency"
+    },
+    {
+      "id": "src_026",
+      "type": "blog",
+      "date": "2018-04-10",
+      "file": "sources/026_productivity.txt",
+      "context": "Productivity"
+    },
+    {
+      "id": "src_027",
+      "type": "blog",
+      "date": "2017-12-16",
+      "file": "sources/027_a_clarification.txt",
+      "context": "A Clarification"
+    },
+    {
+      "id": "src_028",
+      "type": "blog",
+      "date": "2017-12-14",
+      "file": "sources/028_e_pur_si_muove.txt",
+      "context": "E Pur Si Muove"
+    },
+    {
+      "id": "src_029",
+      "type": "blog",
+      "date": "2017-12-07",
+      "file": "sources/029_the_merge.txt",
+      "context": "The Merge"
+    },
+    {
+      "id": "src_030",
+      "type": "blog",
+      "date": "2017-11-27",
+      "file": "sources/030_american_equity.txt",
+      "context": "American Equity"
+    }
+  ]
+}

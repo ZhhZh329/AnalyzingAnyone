@@ -1,0 +1,76 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 13/32
+
+Working with Disney gave us access to that wisdom that you can’t buy for love or money: the wisdom and experience of having made tens of feature animated films. And I think we learned a tremendous amount.
+
+SJ:  Ten years ago, when we made the landmark short film  Luxo Jr. , it took about three hours on average to render each frame. Fast-forward to today. Computers are a hundred times faster, and yet in  Toy Story  it took three hours on average to render each frame. And the reason was the frames were a hundred times more complex in many cases.
+
+And we’re throwing between five and ten times more computer power at our second feature film, code name  Bugs , than we did at  Toy Story . And it’ll still take three hours to render each frame. Our ambitions visually are growing as fast as the technology can feed them. And so I think the visual worlds which we’ll be able to create will be much richer over time.
+
+On the creative side, though, I think the art of storytelling is very old. And no amount of technology can turn a bad story into a good story. […] Storytelling is a real art, and that’s something that we’re always going to be working on very, very hard. I don’t think it’s changed in a long time, and I’m not sure it will. And I don’t think it’s something that the technology has anything to do with.
+
+SJ:  You can hardly find an Apple II around too much anymore. You still can in the schools, but that’s about it. It’s not clear whether you’ll be able to boot up a Macintosh five years from now or not. All these technology boxes and all this software: it has a life of a year or two, if you’re very lucky. If it has a life of five years, it’s extraordinary. And every once in a while, something has a life of ten to fifteen  years— and I’ve been lucky to be associated with a few of those products as well. But sooner or later, they all become part of the sedimentary layer that is the foundation for new innovation.
+
+[By contrast] Disney released its first animated feature film,  Snow White , in 1937. That’s sixty years ago. A few years ago, they rereleased it on video and sold 28 million copies, making probably around a quarter billion dollars of  profits— sixty years after its initial release!
+
+And I have a young son. We got  Snow White , and he loved it. He watched it thirty, forty times. And it really struck me that I know people on most of the continents of this world, and I think everyone I know knows the story of  Snow White . I don’t think I know one person who hasn’t seen it.
+
+Watching my son watch this, it really hit me that these stories renew themselves with each generation of young children. You read Joseph Campbell; these are our myths. Here’s something that’s sixty years old that’s regenerating itself in my son and other young children.
+
+And I think people are going to be watching  Toy Story  in sixty years. Not because of the computer graphics, but because of the story about friendship. And that’s something really amazing to me, something very different than the industry I worked in in the past.
+
+To have the opportunity to put these stories into the culture like this, if we can work really hard and be lucky again and again, is a rare opportunity. And I think everybody at Pixar feels really, really privileged to have this opportunity.
+
+Email to Pixar Employees
+
+“The Pixar Holiday Waltz”
+
+From: Steve Jobs
+
+To: Pixar
+
+Subject: Pixar Holiday Waltz
+
+Date: December 12, 1996, 4:03 p.m.
+
+I am told that around 40 of us are feeling uncomfortable coming to the Pixar Holiday Waltz because we don’t have a guest or because we feel it’s a “hoity toity*” affair that does not reflect “who we are.”
+
+I think very few of us belong to the waltz crowd, nor often attend formal affairs like this (my last waltz was ten years ago). That’s exactly why this promises to be so much fun – it’s a chance to see ourselves and our colleagues in a strange costume (tuxedo) doing a totally foreign activity (waltzing). This may be your last chance during this lifetime to see your favorite TD trying to dance in a tuxedo.
+
+As for being single, all I can say is that cutting in on a lovely lady or elegant gentleman during a waltz is considered proper and flattering. You might also enjoy the food, music, friends and ambience.
+
+I do hope those of you not planning to attend reconsider joining your friends and colleagues at our Pixar Holiday Waltz. We will miss you if you don’t come. What do you have to lose? You just might love it.
+
+Steve
+
+*hoity-toity adj (1690)
+
+1: thoughtlessly silly or frivolous: FLIGHTY
+
+2: marked by an air of assumed importance:
+
+HIGHFALUTIN
+
+A staff invitation to the Pixar Holiday Waltz.             Interview for  In the Company of Giants
+
+“The worst thing that someone can do in an interview is to agree with me.”
+
+In the 1990s, when Steve was running NeXT and Pixar, two Stanford Business School students won a lunch with him at a charity auction. They later interviewed him for a book profiling business leaders in technology.
+
+Steve Jobs:  You’d better have great people, or you won’t get your product to market as fast as possible. Or you might get a product to market really fast, but it will be really clunky and nobody will buy it. There are no shortcuts around quality, and quality starts with people. Maybe shortcuts exist, but I’m not smart enough to have ever found any.
+
+I spend 20 percent of my time recruiting, even now. I spend a day a week helping people recruit. It’s one of the most important things you can do.
+
+Q:  If finding the A players is so important, how can you tell who is an A player and who isn’t?
+
+SJ:  That’s a very hard question. Ultimately there are two paths. If a candidate has been in the workplace for a while, you have to look at the results. There are people who look so good on paper and talk such a good story but have no results behind them. They can’t point to breakthroughs or successful products that they shipped and played an integral part in. Ultimately the results should lead you to the people. As a matter of fact, that’s how I find great people. I look at great results and I find out who was responsible for them.
+
+However, sometimes young people haven’t had the opportunity yet to be in a position of influence to create such results. So here you must evaluate potential. It’s certainly more difficult, but the primary attributes of potential are intelligence and the ability to learn quickly. Much of it is also drive and  passion— hard work makes up for a lot.
+
+When you recruit, you’re rolling the dice. No matter what, you’re rolling the dice because you’ve only got an hour to assess the candidate. The most time I spend with somebody is an hour, and I must then recommend whether we hire the person or not. Others will recommend, too, so I won’t be the only one, but I’ll still have to throw my vote in the hat.
+
+Ultimately it comes down to your gut feeling. Your gut feeling gets refined as you hire more people and see how they do. Some you thought would do well don’t, and you can sense why. If you study it a bit you might say, “I thought this person was going to do well, but I overlooked this aspect,” or, “I didn’t think this person would do well, but they did and here’s why.” As you hire people over time, your gut instinct gets better and more precise.
+
+Over time, my digging in during an interview gets more precise. For example, many times in an interview I will purposely upset someone: I’ll criticize their prior work. I’ll do my homework, find out what they worked on and say, “God, that really turned out to be a bomb. That really turned out to be a bozo product. Why did you work on that?” I shouldn’t say this in your book, but the worst thing that someone can do in an interview is to agree with me and knuckle under.

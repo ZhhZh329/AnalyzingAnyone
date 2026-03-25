@@ -1,0 +1,130 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 9/32
+
+[Engineer 1]
+
+From: Steve Jobs
+
+To: [Engineer 1]
+
+Cc: Andy Grove
+
+Subject: Re: Pixar-3D graphics
+
+Date: September 25, 1995, 5:29 p.m.
+
+This approach has not served you well in the past, as evidenced by your poor graphics architectures and performance. Maybe you should think of changing it for the future…
+
+Steve
+
+From: Steve Jobs
+
+To: Andy Grove
+
+Subject: Re: Pixar-3D graphics
+
+Date: September 25, 1995, 10:27 p.m.
+
+Andy,
+
+Maybe it’s just me, but I find [Engineer 1]’s approach extremely arrogant, given Intel’s (his?) dismal showing in understanding computer graphics architectural issues in the past…
+
+If I were going to make hundreds of millions of something, I sure as hell would be willing to pay for the best advice money could buy… Any[way], this isn’t a sales pitch; I just wanted you to know what I thought, as always.
+
+Best,
+
+Steve
+
+From: Andy Grove
+
+To: Steve Jobs
+
+Subject: Re[2]: Pixar-3D graphics
+
+Date: September 26, 1995, 3:12 p.m.
+
+Steve,
+
+I am firmly on [Engineer 1]’s side on this one. He is taking your offer to help us very seriously, rounded up the best technical people and was ready to go when you introduced a brand new element into the discussion: money.
+
+You and I have talked many times about this subject; you never suggested or hinted at this being a commercial exchange. I took your offer to help us exactly as that: help, not an offer of a commercial relationship.
+
+You may remember, that from time to time I offered suggestions that pertained to your business. Examples range from porting NextStep to the 486 - - which was in our interest too - - to my presentation to your staff on repositioning NextStep beyond that. I am not suggesting that these are comparable in value to your expertise in graphics, but I gave what I had, put some thought into the problem I saw you were facing - - and it never entered my mind to charge for it. In my view, that’s what friendly companies (and friends) do for each other. In the long run, these things balance out.
+
+I am sorry you don’t feel that way. We will be worse off as a result, and so will the industry.
+
+Regards,
+
+a
+
+From: Steve Jobs
+
+To: Andy Grove
+
+Subject: Re[2]: Pixar-3D graphics
+
+Date: October 1, 1995, 3:50 p.m.
+
+Andy,
+
+I have many faults, but one of them is not ingratitude. And, I do agree with you that “In the long run, these things balance out.”
+
+Therefore, I have changed my position 180 degrees - - we will freely help [Engineer 1] make his processors much better for 3D graphics. Please ask [Engineer 1] to call me, and we will arrange for a meeting as soon as the appropriate Pixar technical folks can be freed up from the film.
+
+Thanks for the clearer perspective.
+
+Steve
+
+Email to Pixar Employees
+
+“To $175M and beyond!”
+
+From: Steve Jobs
+
+To: Pixar
+
+Subject: Toy Story Crosses $150M !!
+
+Date: January 2, 1996, 9:30 a.m.
+
+Yesterday Toy Story crossed $150M in domestic box office receipts -- only 13 days after crossing $100M !!
+
+Toy Story was the undisputed blockbuster of the holiday season, topping all other films including Jumanji, Father of the Bride II, Waiting to Exhale and, of course, Balto. Toy Story may even surpass the current 1995 box office leaders, Batman Forever ($184M) and Apollo 13 ($172M), and become the most successful film of 1995.
+
+Toy Story has already become the third most successful animated feature film of all time, topping all of Disney’s classics except “Aladdin” ($217M) and “The Lion King” ($312M).
+
+To $175M and beyond!
+
+Congratulations team,
+
+Steve
+
+Interview with Terry Gross
+
+“One of the things I always tried to coach myself on was not being afraid to fail.”
+
+In 1996, Steve and the  Fresh Air  radio host Terry Gross looked back on his time at Apple and ahead to the future of the computer industry. They spoke shortly after Pixar’s release of  Toy Story  and its successful initial public offering. NeXT, meanwhile, continued to struggle.
+
+Terry Gross:  How do you think that the web might change in the near future with the help of the type of software that you are producing now?
+
+Steve Jobs:  I think most large companies and medium-size companies (and even small companies) are starting to look at the web as the ultimate direct-to-customer distribution chain, bypassing all middlemen, going directly from the supplier to the consumer. That’s a pretty powerful concept when you think about it. One of the things that I love is that a very small company, if they invest a lot in their website, can look just as formidable and just as solid on the web as a very large company can. As a matter of fact, some of the smaller companies are more hip on the web, getting more hip to the web sooner, and so they actually look better than some of the large companies do right now. It’s going to be this very leveling phenomenon, but I think a tremendous amount of goods and services is going to be sold, or at least the demand created for such things, over the web.
+
+TG:  What else do you see in the near future for the web, besides the ability to shop in a more kind of complete way through the web?
+
+SJ:  It’s not just shopping for goods and services. It’s shopping for information. I mean, you’re going to find out … Already, when I want to find out the movies that are playing around Silicon Valley, I just go up on the local web page and check it out. It’s a lot faster than going through the newspaper, and a lot faster than calling the theaters, et cetera. More and more, we’re shopping for information on the web. I just recently bought a Sony, one of the new Sony camcorders. I went on Sony’s web page, and I found out all about the ones they offer and picked the one I wanted right from that web page before I even called the store to try to find it physically. The demand to get me to buy that thing was created from Sony’s web page. I think we’re going to see more and more of that. You’re going to be buying information or finding information, and really making a lot of decisions about what you’re going to do with your life, or what you’re going to purchase, from the web.
+
+TG:  Is the whole idea of going to the store to buy software going to become obsolete, too? Do you think we’ll be downloading our software from the web?
+
+SJ:  Of course. Yeah, there’s no question about it. There’s no question that that will happen, and I think it will happen in the next twenty-four months. There’s some software right now that’s still very large. The web on-ramps and off-ramps to corporations are now very fast, but the off-ramps to the consumers’ homes are still not so fast. For buying large software, such as CD-ROM games and stuff, they’ll still be distributed on physical media for a while, but when the off-ramps to the consumer get faster, possibly with cable modems in the near future, then that could possibly go fully electronic as well.
+
+TG:  Tell me what else you see for the web beyond the world of retail.
+
+SJ:  There’s a lot of things happening with the web right now, in terms of allowing people access to information that they would just never have before. What this does is, of course, it lets special-interest groups get together. I know people who have had, as an example, a stroke, and have gotten on the web and found that there are several web pages now devoted to information for stroke victims where they can learn about some of the latest treatments. They can learn about avoidance, the latest in avoidance advice, and things like that. Those things didn’t exist before, as well.
+
+TG:  Do you think that when you were ousted from Apple that people kind of wrote you off? I mean, here you are with these big successes now.
+
+SJ:  Oh golly, I don’t know. I’m sure that a lot of people did, and that was fine. It was a very painful time, as you might imagine.
+
+TG:  What, to be forced out of the company you created?

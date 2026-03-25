@@ -1,0 +1,15 @@
+{
+  "construct_key": "agency_orientation",
+  "assessment": "Avoidant: High apparent agency masked by relational withdrawal; appears as world-shaper but operates without relationship-based anchor",
+  "finding": "Musk presents as a supreme 'world-shaper' through ventures like SpaceX, Tesla, Neuralink, xAI—each represents fundamental reality reconstruction. However, the attachment pattern reveals this as a defensive strategy: when early relationships (father, peers) were unsafe, Musk learned to withdraw attachment from people and instead pour energy into controllable systems. His statement about Nevada's death—'I'm not sure what sitting around being sad is going to do' (ev_041)—shows emotional avoidance translated into action orientation. He explores technical domains freely but appears to avoid relational exploration. The pattern is: when interpersonal terrain is uncertain, retreat into concrete world-shaping. This is classic avoidant attachment—high behavioral agency while maintaining relational emptiness.",
+  "evidence_ids": [
+    "ev_002",
+    "ev_008",
+    "ev_012",
+    "ev_041",
+    "ev_042"
+  ],
+  "local_support": "strong",
+  "discipline": "psychology",
+  "lens": "attachment_theory_ainsworth"
+}

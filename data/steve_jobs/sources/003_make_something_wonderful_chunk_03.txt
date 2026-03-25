@@ -1,0 +1,58 @@
+Title: Make Something Wonderful
+Date: 2023
+URL: https://book.stevejobsarchive.com/
+Chunk: 3/32
+
+We thought if we could just get what’s called a printed circuit board, where you could just plug in the parts instead of having to hand-wire the whole thing, we could cut the assembly time down from maybe fifty hours to more like an hour. Woz sold his HP calculator, and I sold my VW Microbus, and we got enough money together to pay someone to design one of these printed circuit boards for us. Our goal was to just sell them as raw printed circuit boards to our friends and make enough money to recoup our calculator and transportation.
+
+What happened was that one of the early computer [stores], in fact, the first computer store in the world, which was in Mountain View at the time, said, “Well, I’ll take fifty of these computers, but I want them fully assembled.” Which was a twist that we’d never thought of.
+
+We went and bought the parts to build one hundred computers. We built fifty of them and delivered them. We got paid in cash and ran back and paid the people that sold us parts. Then we had the classic Marxian profit realization crisis, which was our profit wasn’t  liquid— it was in fifty computers sitting on the floor.
+
+We decided we had to start learning about sales and distribution so that we could sell the fifty computers and get back our money. That’s how we got in the business. We took our idea [for the computer] to a few companies, one where Woz worked [Hewlett-Packard] and one where I worked at the time [Atari]. Neither one was interested in pursuing it, so we started our own company.
+
+At work on an Apple I, 1976.                    An Apple I that Steve kept in his office.               Apple’s first fan letter, a Polaroid of a computer screen.               Steve demonstrates the Apple II prototype, 1977.             Interview with  The New Yorker
+
+“It’s a domesticated computer.”
+
+Steve’s first appearance in a national publication came in a 1977 issue of  The New Yorker . The magazine sent a reporter to the First Annual Personal Computing Expo, held in the New York Coliseum. Most people at the time had never seen a personal computer.
+
+At a booth marked “Apple Computer, Inc.,” we paused to chat with the young man in charge, who introduced himself as Steven Jobs, the company’s vice-president for operations. Mr. Jobs was pleased at the turnout for the exhibition. “I wish we’d had these personal machines when I was growing up,” he said. “People have been hearing all sorts of things about computers during the past ten years through the media. Supposedly, computers have been controlling various aspects of their lives. Yet in spite of that, most adults have no idea of what a computer really is, of what it can or can’t do.
+
+“Now, for the first time, people can actually buy a computer for the price of a good stereo, interact with it, and find out all about it. It’s analogous to taking apart 1955 Chevys. Or consider the camera. There are thousands of people across the country taking photography courses. They’ll never be professional photographers. They just want to understand what the photographic process is all about. Same with computers.
+
+“We started a little personal-computer manufacturing company in a garage in Los Altos in 1976. Now we’re the largest personal-computer company in the world. We make what we think of as the Rolls-Royce of personal computers. It’s a domesticated computer. People expect blinking lights, but what they find is that it looks like a portable typewriter, which, connected to a suitable readout screen, is able to display in color.
+
+“There’s a feedback it gives to people, and the enthusiasm of the users is tremendous. We’re always asked what it can do, and it can do many things, but in my opinion the real thing it is doing right now is to teach people how to program the computer.”
+
+Recalling Mr. Jobs’ wish that he had had such machines when he was growing up, we asked him if he would mind telling us his age.
+
+“Twenty-two,” Mr. Jobs said.
+
+Apple outgrew its headquarters twice in 1977.               With the Apple II in 1981, the year IBM introduced its PC.               Steve was an avid photographer.               He set up his bike in Apple’s lobby for design inspiration.             Speech at the International Design Conference in Aspen
+
+“Computers and society are out on a first date.”
+
+Steve spoke to designers at this annual gathering in Aspen, Colorado, on June 15, 1983, five months after Apple introduced the Lisa computer.
+
+How many of you are over thirty-six years old? You were born pre-computer. Computers are thirty-six years old. I think there’s going to be a little slice in the timeline of history as we look back, a pretty meaningful slice right there. A lot of you are products of the television generation. I’m pretty much a product of the television generation, but to some extent starting to be a product of the computer generation.
+
+But the kids growing up now are definitely products of the computer generation, and in their lifetimes the computer will become the predominant medium of communication, just as the television took over from the radio, took over from even the book.
+
+How many of you own an Apple? Any? Or just any personal computer?
+
+Uh-oh.
+
+How many of you have used one, or seen one, or anything like that? Good.
+
+Computers are really dumb. They’re exceptionally simple, but they’re really fast. The raw instructions that we have to feed these little  microprocessors— or even these giant  Cray-1   supercomputers— are the most trivial of instructions. They get some data from there, get a number from here, add two numbers together, and test to see if it’s bigger than zero. It’s the most mundane thing you could ever imagine.
+
+But here’s the key thing: let’s say I could move a hundred times faster than anyone in here. In the blink of your eye, I could run out there, grab a bouquet of fresh spring flowers, run back in here, and snap my fingers. You would all think I was a magician. And yet I would basically be doing a series of really simple instructions: running out there, grabbing some flowers, running back, snapping my fingers. But I could just do them so fast that you would think that there was something magical going on.
+
+And it’s the exact same way with a computer. It can do about a million instructions per second. And so we tend to think there’s something magical going on, when in reality, it’s just a series of simple instructions.
+
+One of the reasons I’m here is because I need your help. If you’ve looked at computers, they look like garbage. All the great product designers are off designing automobiles or buildings. But hardly any of them are designing computers. If we take a look, we’re going to sell 3 million computers this year, 10 million in ’86, whether they look like a piece of shit or they look great. People are just going to suck this stuff up so fast no matter what it looks like. And it doesn’t cost any more money to make them look great. They are going to be these new objects that are going to be in everyone’s working environment, everyone’s educational environment, and everyone’s home environment. We have a shot [at] putting a great object  there— and if we don’t, we’re going to put one more piece-of-junk object there.
+
+By ’86, ’87, pick a year, people are going to spend more time interacting with these machines than they do interacting with automobiles today. People are going to be spending two, three hours a day interacting with these  machines— longer than they spend in the car. And so the industrial design, the software design, and how people interact with these things certainly must be given the consideration that we give automobiles  today— if not a lot more.
+
+If you take a look, what we’ve got is a situation where most automobiles are not being designed in the United States. Televisions? Audio electronics? Watches, cameras, bicycles, calculators, you name it: most of the objects of our lives are not designed in America. We’ve blown it. We’ve blown it from an industrial point of view because we’ve lost the markets to foreign competitors. We’ve also blown it from a design point of view.

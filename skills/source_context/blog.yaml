@@ -1,0 +1,16 @@
+name: blog
+display_name: "Self-authored blog post"
+credibility_notes: |
+  Self-authored blog posts are deliberate long-form statements written in the
+  person's own voice. They are less formal than legal filings or speeches, but
+  much closer to the subject's real conceptual framing than third-party news.
+  Key considerations:
+  - Usually high first-person authenticity, but still curated for public reading
+  - Good for understanding priorities, reasoning style, and self-explanation
+  - Publication timing matters: some posts are reactive, others reflective
+  - Technical or strategic posts often reveal more than promotional ones
+  - Revisions or follow-up posts can show belief updating
+weight_guidance: |
+  High reliability for stated beliefs, intellectual style, and agenda-setting.
+  Moderate reliability for actual behavior; compare claims in blog posts with
+  later actions and outside reporting.
