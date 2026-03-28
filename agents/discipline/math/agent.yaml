@@ -1,0 +1,4 @@
+name: math
+display_name: "数学 Mathematics"
+role: discipline
+prompt: prompt.md
