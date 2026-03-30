@@ -1,15 +1,192 @@
 {
-  "construct_key": "agency_orientation",
-  "assessment": "Avoidant: High apparent agency masked by relational withdrawal; appears as world-shaper but operates without relationship-based anchor",
-  "finding": "Musk presents as a supreme 'world-shaper' through ventures like SpaceX, Tesla, Neuralink, xAI—each represents fundamental reality reconstruction. However, the attachment pattern reveals this as a defensive strategy: when early relationships (father, peers) were unsafe, Musk learned to withdraw attachment from people and instead pour energy into controllable systems. His statement about Nevada's death—'I'm not sure what sitting around being sad is going to do' (ev_041)—shows emotional avoidance translated into action orientation. He explores technical domains freely but appears to avoid relational exploration. The pattern is: when interpersonal terrain is uncertain, retreat into concrete world-shaping. This is classic avoidant attachment—high behavioral agency while maintaining relational emptiness.",
-  "evidence_ids": [
-    "ev_002",
-    "ev_008",
-    "ev_012",
-    "ev_041",
-    "ev_042"
-  ],
-  "local_support": "strong",
   "discipline": "psychology",
-  "lens": "attachment_theory_ainsworth"
+  "lens": "attachment_theory_ainsworth",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency with world-shaping orientation, but mediated through a secure base seeking strategy rather than genuine autonomous security",
+      "finding": "Musk exhibits powerful agentic orientation across multiple domains — SpaceX, Tesla, Neuralink, X/Twitter, DOGE — consistent with an individual who experiences himself as someone who acts upon the world rather than merely responding to it. However, attachment theory reframes this agency: Ainsworth's 'sensitivity' research suggests that secure attachment enables exploration precisely because the individual has internalized a reliable base. Musk's intense work patterns (evt_022, evt_024), extreme risk tolerance (ev_011, ev_015), and vision-driven action suggest a person who has constructed ambitious mission-work as his functional 'secure base' — the internal working model that says 'I can explore because I am anchored.' Yet his childhood with an abusive father (ev_001, ev_002) and his explicit choice to live with that father despite the suffering raises questions about what kind of base he internalized early. His later pattern of choosing to live at the office, work 120-hour weeks, and frame personal tragedy through productive activity (ev_048 — 'I'm not sure what sitting around being sad is going to do') suggests a person whose agency is partially organized around avoiding the unregulated distress that comes with emotional vulnerability. The pattern is not classic secure attachment (which would allow balance) but rather a compensatory high-agency style where the person uses mastery and mission as a substitute for felt security.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_011",
+        "ev_015",
+        "ev_033",
+        "ev_039",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Physics-first reasoning combined with emotional bypassing, creating an unusual integration of analytical and visceral processing that sometimes fails at relational reality-testing",
+      "finding": "Musk explicitly describes his epistemic approach as 'physics framework' — reasoning from first principles rather than analogy (ev_020). This first-principles thinking is well-documented: calculating rocket costs on a flight home (ev_010), reducing Mars colonization costs to raw materials, applying physics reasoning to entire industries. From an attachment perspective, this epistemic style is characteristic of individuals who learned early that emotional or relational information was unreliable — the father's behavior was abusive and unpredictable — and therefore developed compensatory confidence in 'hard' logical systems that cannot betray them. The avoidant attachment strategy of 'deactivating' emotional information and elevating cognitive processing is visible in how Musk approaches complex situations. However, attachment theory also highlights the cost: Musk's epistemic style shows vulnerability in contexts where relational and emotional data are actually valid. His insistence on 'Autopilot' and 'Full Self-Driving' branding despite engineering warnings (ev_032) represents a failure to integrate safety concerns — the cognitive system overrode relational/emotional data from colleagues. Similarly, the August 2018 tweet (ev_040, ev_041) — claiming funding was 'secured' when it was not — suggests a person whose epistemic confidence in his own judgment had outrun reality-testing. The SEC lawsuit for securities fraud indicates a consequential failure of the 'physics framework' when social/relational reality (market trust, regulatory compliance) was at stake. This pattern fits avoidant attachment's cognitive-emotional split: high trust in logical systems, low trust in relational data.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_032",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong formalization preference with selective deployment — uses abstraction when it serves strategic purpose but shows impatience with formal process that slows personal agency",
+      "finding": "Musk's first-principles approach is inherently a formalization strategy: taking complex systems and reducing them to fundamental parameters that can be optimized. His SpaceX approach (calculating raw material costs of rockets, rather than accepting industry 'truths' about what rockets must cost) exemplifies high abstraction_formalization. The Hyperloop white paper (ev_024) demonstrates willingness to do formal engineering analysis and publish it. However, attachment theory offers a nuanced reading: individuals with avoidant attachment patterns often show selective abstraction — comfortable with formal systems that provide structure and predictability, but uncomfortable with the informal, emotionally-laden processes of human relationships. Musk shows this pattern clearly: he can formalize rocket economics or Mars colonization logistics with high sophistication, but shows less formalization capacity in managing organizational culture, interpersonal conflicts, or regulatory relationships. His abrupt Twitter takeover (evt_028) — firing 80% of staff, sending ultimatums (ev_046) — reflects a preference for clean cuts over gradual formalization processes. The pattern of firing people on the spot then rehiring them (ev_034) suggests that his formalization impulse operates in bursts without integrated relational logic. He can design formal systems well but struggles with the informal relational systems that actually hold organizations together.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_024",
+        "ev_034",
+        "ev_046",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control orientation with characteristic approach-avoidance conflict — seeks mastery over systems and outcomes while showing limited investment in controlling relational dynamics",
+      "finding": "Ainsworth's framework identifies different control orientations by attachment type: anxious attachment leads to hypermonitoring of relationships; avoidant attachment leads to pseudo-control through self-reliance and emotional closure; disorganized attachment leads to unpredictable control attempts. Musk's control orientation has multiple layers. At the system level (rockets, cars, brain interfaces, government), he exhibits confident control orientation — 'first principles' reasoning is itself a control strategy, claiming the right to reengineer any system from its foundations. At the interpersonal level, his control style is more erratic. The 'demon mode' documented by Isaacson (ev_050) — firing people, destroying work, demanding impossible deadlines — represents control through intimidation that is characteristic of disorganized attachment: intense control attempts followed by reversal (rehiring people days later). His personal relationships show less evidence of control investment. Multiple marriages, divorces, and his admission of emotional solitude (ev_049) suggest that relational control receives less attention than system control. The Starlink-Crimea decision (ev_044, ev_045) — restricting access to avoid complicity in war despite Ukrainian pressure — shows principled control when he has clear moral ground, but his inconsistency on autonomous driving timelines (ev_026) shows control failure when his vision competes with engineering reality. Overall, control orientation is high but domain-differentiated: strong on technical/organizational systems, inconsistent on interpersonal/relational systems.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_038",
+        "ev_044",
+        "ev_045",
+        "ev_050",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Systematically prioritizes mission over relational cost, but with a notable pattern of relationship damage followed by brief acknowledgment then mission-resumption",
+      "finding": "Musk's career shows consistent prioritization of mission/goal over relational comfort across multiple domains. The Zip2 period (ev_006) — sleeping at the office while coding nightly — set a pattern of personal cost-tolerance that has continued throughout his career. The 2008 crises (SpaceX near-bankruptcy, Tesla near-bankruptcy) show him investing all remaining resources (ev_015: 'I could either let Tesla die or put all my remaining money into it') and personally working extreme hours. The 2018 Model 3 production crisis (evt_024) showed him living at the factory with workers. The pattern is not that he doesn't care about relationships — he has genuine relationships with engineers, publicly expresses care for workers (ev_039: 'If workers are suffering, I want to suffer with them') — but that when mission demands escalate, relational costs become expendable. From attachment theory, this pattern reflects an internal working model where attachment needs (for connection, security, relational repair) are chronically subordinated to achievement/drive systems. The Twitter acquisition (evt_028) shows this most starkly: firing 80% of staff, treating advertiser relationships as expendable (ev_051: 'Go fuck yourself' to advertisers), and accepting major financial losses as acceptable for mission (ev_052: 'worst deal in merger finance since 2008 financial crisis'). The emotional cost is visible in his acknowledged solitude (ev_049) and his pattern of returning to work after personal tragedy rather than processing loss (ev_048). Mission-vs-relational cost is strongly skewed toward mission across this timeline.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_015",
+        "ev_033",
+        "ev_039",
+        "ev_048",
+        "ev_049",
+        "ev_051",
+        "ev_052"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk tolerance with selective blind spots — willing to lose everything financially while showing poor calibration on social/reputational risks",
+      "finding": "Musk's documented risk posture is among the most extreme of any public figure. His own statements frame this clearly: ev_011 ('I thought the chance of success was less than 10%. I just accepted that I would probably lose everything') and ev_019 ('I'd rather commit seppuku than fail'). The 2008 period — when both SpaceX and Tesla were near bankruptcy and Musk had to borrow money for rent (ev_014) — exemplifies his financial risk tolerance. He bet $100 million of personal money on SpaceX (evt_009) and all remaining resources on Tesla. From attachment theory, this extreme risk posture has an interesting interpretation: individuals with insecure attachment (particularly avoidant) often show paradoxical risk patterns. On one hand, they can take extreme financial/professional risks because they have less attachment to material security or social standing — the internal working model says 'I cannot rely on external systems anyway, so I might as well bet everything.' On the other hand, they often show poor calibration on social and relational risks — not because they don't fear them, but because their attachment system is organized around avoiding emotional vulnerability rather than accurately assessing social consequences. The 2018 SEC lawsuit (ev_040, ev_041) is instructive: the tweet about 'funding secured' for Tesla privatization was not a financial risk (he had resources) but a reputational/social risk that he dramatically miscalculated. His 2023 verbal attack on advertisers (ev_051) shows similar pattern — accepting major financial damage for symbolic satisfaction. The Starlink-Crimea decision shows better calibration when moral stakes were clear, but overall risk posture is extremely high with blind spots in the social/reputational domain.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_019",
+        "ev_040",
+        "ev_041",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent relationship to hierarchy — rejects institutional hierarchy when it constrains his agency, but readily constructs personal hierarchy when he controls the system",
+      "finding": "Musk's relationship to hierarchy and power shows complexity across contexts. Early life (evt_004, ev_004) shows rejection of South African conscription system — chose to emigrate specifically to avoid participation in apartheid military hierarchy. Stanford dropout (evt_005, ev_005) reflects similar pattern: rejected institutional hierarchy of academia. The PayPal ouster (evt_008, ev_009) — being removed as CEO while on honeymoon — clearly affected him, and his response ('That's the problem with vacations') suggests he learned that institutional hierarchy can displace him at any moment. From attachment theory, this pattern fits avoidant attachment's characteristic relationship to authority: maintain distance from systems that could constrain autonomy. His later behavior shows the other face: when Musk controls a hierarchy (Tesla, SpaceX, Twitter/X), he exercises intense personal authority. The Twitter takeover (evt_028) — 'the bird is freed' — was framed as liberation from previous hierarchy, but was immediately followed by constructing himself as the sole authority. DOGE (evt_032, evt_033) shows similar dynamic: entering government as a 'special government employee' while functionally leading massive restructuring, exercising power without formal accountability. Isaacson's 'demon mode' documentation (ev_050) shows hierarchy as personal instrument — used to demand impossible things, fire people, reconstruct teams. His political shift (evt_030, ev_054 — 'I didn't leave the Democrats, the Democrats left me') reflects attachment grievance: hierarchical systems that once supported him are now framed as having abandoned him, which he responds to by defecting and constructing new power base.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_050",
+        "ev_047",
+        "ev_054",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-dominant with characteristic reversal pattern — engages in intense conflict followed by rapid de-escalation or reversion, without stable resolution",
+      "finding": "Musk's conflict strategy shows a pattern that attachment theory would recognize as characteristic of disorganized/anxious-avoidant oscillation. His predominant mode is escalation: direct confrontation, public conflicts, extreme demands. The SEC tweet (ev_040) escalated a conflict with his own board and regulators in a way that was predictably destructive. The 'Go fuck yourself' to advertisers (ev_051) escalated a business conflict to personal insult. Tesla engineers' warnings about Autopilot branding (ev_032) were overridden — he chose conflict with his own technical team rather than compromise. The Twitter ultimatums (ev_046) escalated employee relations to ultimatum level. Yet this escalation pattern is followed by characteristic reversals: firing people on the spot then rehiring them days later (ev_034). The Tesla production crisis (evt_024) showed him dismantling his own automated system — a form of escalation followed by capitulation. The 'demon mode' documentation (ev_050) explicitly describes this: 'will fire people, destroy entire teams' work, demand impossible deadlines — and then somehow the product ships.' From attachment theory, this pattern reflects the disorganized attachment hallmark of contradictory behaviors without stable resolution strategy. The person approaches conflict with high arousal (escalation), but lacks the regulatory capacity for constructive resolution — instead showing either flight (leaving, rehiring) or temporary submission rather than negotiated outcome. His tendency to avoid stable conflict resolution may relate to early learning: with an abusive father (ev_002), engaging in conflict was either dangerous (escalation led to worse outcomes) or meaningless (adult power was overwhelming), so the internal working model lacks stable conflict resolution schemas.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_050",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon with unique temporal reframing — operates on multi-decade to multi-century scales, which both enables extreme patience and justifies short-term relational neglect",
+      "finding": "Musk's temporal orientation is exceptional in its scope. The Mars colonization vision (evt_019, ev_027, ev_028, ev_029) operates on multi-decade to multi-century timeframes — 'History is going to bifurcate along two directions' frames his mission in civilizational time. Neuralink (evt_018, evt_031) is framed as insurance against AI existential risk — another multi-decade horizon. Tesla's mission of accelerating sustainable energy is framed in decades. Even Twitter/X acquisition is framed in terms of 'protecting free speech' for civilization. This mission-scale time horizon is visible in his patience through multiple rocket failures (evt_012 — fourth launch succeeded after three failures, and he had money for only one more attempt) and his willingness to wait years for Neuralink to reach human trials. From attachment theory, this temporal orientation serves important psychological functions: it reframes failure as temporary and failure as meaningful within larger narrative, which supports persistence. It also provides justification for short-term relational cost — 'the mission takes priority now but will matter in the future.' However, his temporal horizon shows blind spots in medium-term social contexts: the Twitter acquisition showed poor calibration of the ~1 year timeframe needed to stabilize a platform. His autonomous driving predictions (ev_026 — predicting fully autonomous cross-country drives by 2017) show significant time horizon errors in technical domains where he lacks direct control. Overall, extremely long time horizon with characteristic blind spots in medium-term planning.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_028",
+        "ev_029",
+        "ev_011",
+        "ev_013",
+        "ev_026",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for rebuild over patch across technical and organizational domains, with occasional acknowledgment that rebuild was premature",
+      "finding": "Musk's approach to problem-solving shows consistent preference for structural redesign over incremental repair. SpaceX was founded after Russian rocket-buying trip failed — rather than patching existing launch industry, Musk calculated he could build rockets for 10% of current cost (ev_010) and created an entirely new company. Tesla was founded to create electric car company from scratch rather than work within existing auto industry. Hyperloop was published as white paper rather than attempting to reform existing transportation systems. The Boring Company (evt_021) was created to reinvent tunneling rather than work within existing infrastructure industry. Twitter/X acquisition and restructuring (evt_028) is the clearest recent example: rather than patching an existing platform, he fired 80% of staff and fundamentally restructured the organization. The 2018 production crisis (evt_024) shows interesting data point: he removed the automated system he had insisted on (ev_037: 'Excessive automation at Tesla was a mistake. Humans are underrated') — a partial admission that rebuild was premature, though he framed this as learning rather than patch-over-rebuild failure. From attachment theory, this preference for rebuild has interesting interpretation: individuals who learned early that systems are unpredictable or dangerous (abusive father, bullying) may prefer the clarity of starting fresh over the ambiguity of patching — new systems can be controlled in ways established systems cannot. However, the Twitter acquisition outcome (ev_052 — 'worst deal since 2008 financial crisis') suggests that the rebuild strategy carries significant costs that are not always visible in the initial planning. Overall, strong rebuild preference with documented cases of rebuild failure.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_021",
+        "ev_035",
+        "ev_037",
+        "ev_046",
+        "ev_052"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Variable metacognition — strong capacity for first-principles thinking about systems, weak capacity for relational/emotional metacognition, with notable episodes of apparent self-awareness followed by limited behavior change",
+      "finding": "Metacognition in attachment theory refers to the capacity to reflect on one's own internal states, patterns, and cognitive processes. Secure attachment is associated with highest metacognitive capacity — the ability to observe oneself having emotions, to think about one's own thinking. Musk shows asymmetric metacognitive capacity. His first-principles thinking (ev_020) demonstrates excellent metacognition about systems and physics: he can reason about fundamental parameters, identify assumptions, and calculate new approaches. He shows self-awareness in acknowledging that living with his father was 'a mistake' (ev_001), that his first son's death required him to return to work ('I'm not sure what sitting around being sad is going to do,' ev_048), and that he has sleeping alone and emotional solitude (ev_049). He acknowledges being 'not trying to be anyone's savior' (ev_042). However, this self-awareness does not translate reliably into behavior change. He continues patterns of extreme work hours (ev_033), conflict escalation (ev_051), and relationship difficulty despite acknowledged awareness of costs. The 'demon mode' pattern (ev_050) suggests that during high activation states, metacognitive capacity is suspended — he operates in state rather than with reflective distance. From attachment theory, this is characteristic of anxious-avoidant combination: cognitive metacognition is intact but emotional metacognition (awareness of how attachment needs drive behavior) remains partial. He can think about rockets but struggles to think clearly about how his early attachment experiences shape his current relationship patterns. The SEC tweet episode shows a failure of social metacognition: he apparently could not adequately simulate how the market and regulators would respond to 'funding secured.' Overall, strong cognitive metacognition, weaker emotional metacognition, with notable gap between self-awareness and behavior change.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_020",
+        "ev_042",
+        "ev_048",
+        "ev_049",
+        "ev_050",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "attachment_pattern_classification",
+      "definition": "Synthesizing the above constructs into a primary attachment classification that captures Musk's dominant relational strategy across contexts. Ainsworth's framework distinguishes secure, avoidant, anxious-ambivalent, and disorganized patterns, with most adults showing a primary style with situational variation.",
+      "finding": "Based on the evidence across constructs, Musk's dominant attachment pattern appears to be disorganized/combined avoidant-anxious. The disorganized elements are visible in: contradictory behavior sequences (firing/rehiring, ev_034); 'demon mode' pattern of intense approach followed by withdrawal (ev_050); and high conflict escalation with inconsistent resolution. The avoidant elements are visible in: emotional restriction (describing childhood as unhappy but not elaborating, ev_001, ev_002); using mission/work as substitute secure base; rapid return to work after personal tragedy (ev_048); and intellectual deactivation as coping strategy (first-principles physics thinking as alternative to emotional processing). The anxious elements appear in: visible intensity when threatened (SEC tweet, advertiser confrontation); grievance about perceived abandonment (political shift framing, ev_054); and high need for autonomy maintenance. Primary attachment classification appears closest to 'fearful avoidant' or disorganized type, with avoidant as dominant strategy and anxious features emerging under threat. This pattern is consistent with Ainsworth's original observations of disorganized attachment: the individual shows no coherent strategy for obtaining security, instead oscillating between attempt-to-attach and withdrawal-to-protection. The evidence suggests Musk's internal working model is organized around 'I cannot rely on others for security, so I must control systems and pursue missions that provide functional security' — a compensation strategy rather than secure base.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_034",
+        "ev_050",
+        "ev_048",
+        "ev_049",
+        "ev_054"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "relational_stance_toward_intimacy",
+      "definition": "The degree to which an individual invests in maintaining close intimate relationships versus maintaining functional distance. Distinct from attachment security in that it specifically addresses how attachment needs are managed in ongoing intimate relationships rather than in separation/distress contexts.",
+      "finding": "Musk shows characteristic avoidant relational stance toward intimacy: multiple marriages and divorces, acknowledged nights sleeping alone (ev_049), and pattern of treating relationships as secondary to mission goals. His statement 'I don't want to be anyone's savior' (ev_042) reflects defensive distancing from idealized intimate connection. However, avoidant stance is incomplete: he has sought marriage repeatedly (suggesting ongoing attachment needs) and shows genuine — if intermittent — capacity for connection (ev_039: desire to suffer with workers). The pattern is not classic avoidant (who would avoid seeking marriage) but rather an anxious-avoidant oscillation where he pursues intimacy, finds it insufficiently compatible with mission, retreats, then pursues again. His acknowledged emotional solitude (ev_049) and the gap between stated mission ('maintaining light of consciousness,' ev_043) and personal relationship patterns suggests that intimacy needs are subordinated but not eliminated. This relational stance toward intimacy is particularly consequential because it affects his capacity to maintain stable support systems during mission crises — the 2008 financial stress would have been experienced with less isolation by someone with secure attachment, but Musk's avoidant stance meant he navigated near-bankruptcy with limited intimate support access. The pattern also affects organizational dynamics: employees and partners experience someone whose functional intimacy is work/mission rather than personal relationships, creating unique team dynamics.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_043",
+        "ev_049",
+        "ev_039",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    }
+  ]
 }

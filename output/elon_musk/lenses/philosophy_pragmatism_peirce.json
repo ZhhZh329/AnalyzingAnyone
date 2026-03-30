@@ -4,182 +4,185 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Musk is an archetypal world-shaper who creates new structures rather than responding to existing ones",
-      "finding": "Musk's career demonstrates consistent world-shaping agency across multiple industries. His statement 'I could either watch the Internet revolution happen or I could be part of it' (ev_005) explicitly frames reality as something to be shaped rather than responded to. He creates entirely new categories - private spaceflight, electric vehicles at scale, brain-computer interfaces - rather than improving existing solutions. This reflects Peirce's insight that agency in inquiry is not passive reception but active construction of the conditions for resolution.",
+      "assessment": "极度倾向世界塑造者：主动重构技术、交通、太空、政府等多个领域，而非适应现有结构",
+      "finding": "Musk展现出皮尔士意义上强烈的能动性取向——他不满足于在既有制度框架内运作，而是试图从根本上重建这些框架。2016年IAC演讲中，他明确表达了二歧式历史观：'我们成为太空文明并成为多行星物种'，或者灭绝（ev_029）。这种宏大叙事不是对外部压力的反应，而是主动创造新的可能性空间。他的第一性原理思维（ev_020）本质上是一种重构性框架——不是问'火箭为什么一直很贵'，而是从原材料成本重新推导。这种方法论与他改变多个行业的行为模式高度一致：Zip2、SpaceX、Tesla、Hyperloop、Neuralink、Boring Company、DOGE，每一项都试图从根本上重写游戏规则而非优化现有规则。",
       "evidence_ids": [
-        "ev_005",
-        "ev_013",
-        "ev_022",
-        "ev_024",
-        "ev_028"
+        "ev_020",
+        "ev_029",
+        "ev_030"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Musk employs first-principles reasoning as a form of pragmatic abduction, but with notable tensions around fallibilism",
-      "finding": "Musk explicitly claims to use 'physics framework' thinking: 'Physics teaches you to reason from first principles rather than by analogy' (ev_025). This aligns closely with Peirce's pragmatic maxim - reducing complex problems to their fundamental constituents and evaluating from there. However, his epistemic style shows tension: while he accepts low probability of success (<10% for SpaceX, ev_008) suggesting fallibilist tolerance, his behavior in 'demon mode' (ev_042) shows resistance to disconfirming evidence. He generates bold hypotheses (Mars colonization, AI danger) but his response to criticism (firing engineers, ev_054) suggests less openness to iterative belief revision than Peircean science requires.",
+      "assessment": "第一性原理推理主导，表现出准溯因能力，但对验证环节系统性忽视，可错论仅为口头接受",
+      "finding": "Musk的方法论最接近皮尔士的'实用主义格言'——从基本事实推导而非类比推理。2001年他从俄罗斯回国航班上的电子表格计算是经典的第一性原理分析：从原材料成本推导火箭造价，得出可以降至市场10%的结论（ev_010）。这展现了皮尔士所说的'从惊异中生成假说'的能力——面对火箭高成本的异常现象，他不是接受既定解释，而是追溯到物理层面重构问题。然而，证据显示他严重忽视验证环节。2016年他预测2017年实现完全自主驾驶（ev_026），工程师对Autopilot命名提出安全警告但他坚持己见（ev_032），2018年发推'资金到位'但实际未 secured（ev_040）。这些不是简单的预测错误，而是跳过了同行评审和假设验证的关键步骤。他声称接受可错论（ev_011承认90%失败概率），但实际行为中缺乏可错论的核心——对自身判断的系统性怀疑和迭代修正机制。",
       "evidence_ids": [
-        "ev_008",
-        "ev_025",
+        "ev_010",
+        "ev_011",
+        "ev_020",
         "ev_026",
-        "ev_054",
-        "ev_042"
+        "ev_032",
+        "ev_040"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Musk strongly prefers formal, systematic frameworks over intuitive or ad-hoc approaches",
-      "finding": "Musk's 'five-step algorithm' (ev_016) for engineering problem-solving exemplifies his formal approach. He publishes detailed white papers (Hyperloop, ev_049), applies physics-based reasoning to novel domains, and uses systematic metrics (personally reviewing code commits, ev_052). His preference for formalization extends to creating his own organizational systems - SpaceX's vertically integrated rocket development, Tesla's manufacturing automation. This aligns with Peirce's respect for formalization as a tool for precision in inquiry, though Musk's formal systems serve practical engineering goals rather than purely theoretical ones.",
+      "assessment": "极度偏好形式化与量化：火星殖民成本计算、Hyperloop白皮书、每周120小时工作制量化",
+      "finding": "Musk展现出皮尔士高度重视的形式化倾向。他不满足于定性主张，而是追求可量化的具体目标。火星殖民演讲中将目标锁定为'约20万美元，相当于美国房价中位数'（ev_027）；Hyperloop Alpha白皮书是57页技术规格文档（ev_024）；甚至工作伦理也被量化为'40小时永远改变不了世界'（ev_033）和'每周120小时'的具体投入（evt_024）。这种对数字和精确性的执着与他声称的物理学框架完全一致——物理学本质上是形式化的。但值得注意的是，这种形式化有时服务于说服而非严格分析。例如火星成本的计算基础从未被同行审查，Hyperloop的技术可行性论证是单方面推理。然而，他的符号系统具有内在一致性：用技术术语和物理原理来框定所有问题，这本身就是一种皮尔士意义上的符号操作——将世界翻译成他独特的第一性原理语言。",
       "evidence_ids": [
-        "ev_016",
-        "ev_049",
-        "ev_050",
-        "ev_052",
-        "ev_025"
+        "ev_020",
+        "ev_024",
+        "ev_027",
+        "ev_033",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Musk exhibits extremely high control orientation, seeking direct authority over systems, people, and outcomes",
-      "finding": "Multiple evidence streams demonstrate high control orientation. He took over as Tesla CEO during crisis (ev_020), personally reviews code to determine productivity (ev_052), fires engineers on the spot for disagreement (ev_054), and implemented 'demon mode' management characterized by destroying teams' work and demanding impossible deadlines (ev_042). His 'go fuck yourself' to advertisers (ev_019) reflects control over organizational narrative despite massive financial losses (79% equity value decline, ev_055). This control orientation aligns with Peirce's rejection of authority-based belief fixation - Musk doesn't submit to external authority but creates his own within organizations.",
+      "assessment": "极端控制导向：在公司内建立绝对权威，但面对外部监管和民主约束时表现出高度不适",
+      "finding": "Musk的控制模式呈现出皮尔士意义上矛盾的权威观。一方面，他明确批判政府官僚体制并试图用企业方法论改造政府（DOGE），这暗示对等级制度的某种拒绝——至少拒绝他不认同的权威形式。另一方面，他在自己的帝国内部建立绝对控制。Isaacson记录的'demon mode'模式（ev_050）：'他会解雇人、摧毁整个团队的工作、提出不可能的截止日期——然后产品莫名其妙地出货了'。他直接干预生产线设计推翻工程师建议（ev_038），在Twitter进行80%裁员并发出'极度硬核'最后通牒（ev_046）。这种控制欲延伸到了符号层面：坚持'Tesla自动驾驶'命名而非更准确的术语（ev_032），尽管这可能危及生命。SEC事件（ev_040, ev_041）揭示了他对外部控制的极端抗拒——推文未经法律审查就发布虚假信息。这是一种矛盾的控制观：他要控制结果，但不能接受任何外部权威对过程的约束。",
       "evidence_ids": [
-        "ev_020",
-        "ev_042",
-        "ev_052",
-        "ev_054",
-        "ev_019",
+        "ev_032",
+        "ev_038",
+        "ev_040",
+        "ev_041",
+        "ev_046",
+        "ev_050",
         "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Musk consistently prioritizes mission objectives over relational comfort, accepting high social costs",
-      "finding": "Musk's mission-driven orientation is evident across his ventures. He stated 'Nobody ever changed the world on 40 hours a week' (ev_031) and worked 120-hour weeks during Model 3 production crisis (ev_028). His confrontational approach to advertisers (ev_019), aggressive workforce reductions (80% at Twitter, ev_018), and willingness to alienate partners (SEC, engineers resigning over Autopilot, ev_033) demonstrate mission prioritization over relational maintenance. His existential mission - making humanity multi-planetary (ev_022) - justifies extreme personal and organizational costs. This reflects Peirce's scientific method orientation where truth-seeking may require accepting social friction.",
+      "assessment": "任务极端优先：愿意承受任何社会代价包括仇恨、广告商离去、家庭关系破裂来推进使命",
+      "finding": "Musk的行为模式显示任务目标完全压倒关系维护。工程师因Autopilot安全担忧辞职（ev_032），他继续推进；广告商因内容政策问题撤离Twitter，他的回应是'去你的'（ev_051）；2024年他成为美国历史上最大个人政治捐款人（$288M），公开支持共和党（ev_053），这与他早期民主党认同形成鲜明对比（ev_054）。DOGE期间他进行了大规模联邦政府裁员和系统关闭（evt_032），造成广泛职业损失但他继续推进。最具说明性的是Starlink事件（ev_044, ev_045）：他私下限制了乌克兰对克里米亚附近俄军的网络能力，尽管可能激怒盟友也拒绝成为'战争共犯'——这是一个基于原则而非关系的选择。'切腹'的隐喻（ev_019）准确捕捉了他的优先级：失败比维持关系更不可接受。皮尔士会说，这是一种极端的'固执法'变体——坚持自己的信念系统，即使付出巨大社会代价。",
       "evidence_ids": [
-        "ev_031",
-        "ev_028",
         "ev_019",
-        "ev_018",
-        "ev_022",
-        "ev_033",
-        "ev_032"
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_051",
+        "ev_053",
+        "ev_054"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Musk displays extremely high risk tolerance, actively seeking high-stakes endeavors with low probability of success",
-      "finding": "Musk's risk posture is extraordinarily high. He acknowledged the chance of SpaceX success was 'less than 10%' (ev_008), yet invested his entire PayPal fortune. He publicly stated willingness to die on Mars 'but not on impact' (ev_024), framed first Mars journeys as having 'quite high' fatality risk (ev_023), and described entrepreneurship as 'eating glass' and 'like staring into the abyss' (ev_034). He borrowed money from friends to pay rent during SpaceX's near-bankruptcy (ev_010). His risk tolerance appears driven by time-horizon considerations - accepting short-term failure probability for long-term existential impact. This aligns with Peircean abductive courage: willingness to propose hypotheses (and invest in them) despite incomplete evidence.",
+      "assessment": "极端风险承担者：多次押注全部身家，承认90%失败概率仍坚持，接受可能失去一切",
+      "finding": "Musk展现出皮尔士意义上对不确定性的极端容忍度——这是溯因推理者的典型特征。2002年创立SpaceX时，他说'我认为成功机会不到10%，我只是接受我可能会失去一切'（ev_011）。2008年他同时押注SpaceX和Tesla：'我可以让Tesla死掉，或者把我所有剩余的钱投进去。这不是真正的选择'（ev_015）。同年他几乎破产，'不得不向朋友借钱付租金'（ev_014）。2018年Model 3危机时他每周工作120小时，住在工厂（evt_024），声称'如果工人在受苦，我也要和他们一起受苦。我的痛苦应该大于他们'（ev_039）。他明确将创业比作'凝视深渊、吃玻璃'（ev_018），并说'我宁愿切腹也不愿失败'（ev_019）。这种风险承担不是盲目的——他确实计算过概率（10%成功机会），但他选择忽视这些概率并全力投入。这是皮尔士可错论的扭曲版本：承认失败可能性但拒绝让这改变行动。",
       "evidence_ids": [
-        "ev_008",
-        "ev_010",
-        "ev_023",
-        "ev_024",
-        "ev_034",
-        "ev_035"
+        "ev_011",
+        "ev_014",
+        "ev_015",
+        "ev_018",
+        "ev_019",
+        "ev_039"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Musk rejects external hierarchy and authority while creating internally dominant power structures",
-      "finding": "Musk consistently challenges external hierarchies: he left South Africa to avoid apartheid military service (ev_004), dropped out of Stanford after two days (ev_005), was ousted as X.com CEO (ev_007), and takes on established industries. His political shift (ev_045 - 'I didn't leave the Democrats, the Democrats left me') shows rejection of established political authority. Yet within his organizations, he creates intense hierarchical control (ev_052, ev_054). This dual pattern reflects Peirce's critique of authority-based belief fixation - Musk doesn't accept external authority but substitutes his own judgment, which he enforces through organizational power.",
+      "assessment": "矛盾权力观：拒绝外部权威约束但建立内部绝对控制；双重标准",
+      "finding": "Musk的权力观念在皮尔士框架下呈现出深刻矛盾。表面上，他似乎拥抱民主和市场力量——SpaceX和Tesla通过市场竞争崛起，Twitter收购被描述为'解放'（ev_047），DOGE被塑造为让政府对人民负责。但实际上，他建立了极其等级化的个人王国。Zip2被驱逐（ev_009），Tesla工程师因安全担忧辞职（ev_032），Twitter80%员工被裁员（evt_028）。他对权威的双重态度在Starlink事件中最为明显：他不接受乌克兰政府'请求'的限制（ev_044），但他同样抗拒SEC的监管约束（ev_041），最终和解但保留了CEO职位。2025年他成为政府效率部长（DOGE），将企业方法论应用于政府（evt_032）。这种模式表明：Musk不反对权力，他反对的是限制他个人权力的权力。他的权力观本质上是'我要成为最高权威'而非'权力应该分散'。",
       "evidence_ids": [
-        "ev_004",
-        "ev_005",
-        "ev_007",
-        "ev_045",
-        "ev_046",
-        "ev_052"
+        "ev_009",
+        "ev_032",
+        "ev_041",
+        "ev_044",
+        "ev_047",
+        "evt_028",
+        "evt_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Musk predominantly uses escalation and confrontation rather than negotiation or delay",
-      "finding": "Musk's conflict strategy is consistently escalatory. He publicly battles the SEC (ev_015), tells advertisers 'go fuck yourself' (ev_019), fires engineers on the spot for disagreement (ev_054), and uses Twitter/X as a platform for confrontational engagement. His 'demon mode' destroys entire teams' work (ev_042). However, he does show some capacity for translation - turning conflicts into engineering problems (the algorithm) or iterating through failure (SpaceX's four-launch campaign, ev_015-ev_018). His conflict approach aligns with what Peirce might call aggressive inquiry: pushing hypotheses to their consequences rather than avoiding confrontation, though Peirce would likely favor more iterative approaches.",
+      "assessment": "极度升级导向：通过公开对抗和极端行动而非谈判或妥协来处理冲突",
+      "finding": "Musk的冲突策略表现出皮尔士意义上'转化问题为探究'的反面——他倾向于将冲突转化为公开对抗。SEC事件（ev_040, ev_041）是教科书级别的冲突升级：一条推文导致证券欺诈起诉，最终和解但失去董事长职位。Twitter收购中，他公开挑衅广告商（ev_051）：'去fuck你自己'——这是一种极度升级的反应而非对话。对于工程师的安全担忧，他的回应是坚持Autopilot命名（ev_032）。DOGE期间他直接关闭政府机构而非渐进谈判（evt_032）。然而，他也展现出'分裂后快速修复'的模式：'他当场解雇工程师，有时几天后又重新雇用他们'（ev_034）。这不是真正的协商或妥协，而是控制-释放的循环。这种冲突模式与他的'恶魔模式'（ev_050）一致：通过极端压力摧毁抵抗，然后以胜利者姿态重塑关系。",
       "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_054",
-        "ev_042",
-        "ev_015",
-        "ev_018"
+        "ev_032",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_051",
+        "evt_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Musk optimizes for mission-scale horizons spanning decades to centuries",
-      "finding": "Musk's time horizon extends far beyond short-term optimization. His stated purpose is 'maximizing the probability of the future being better' (ev_030) and maintaining 'the light of consciousness' (ev_029). Mars colonization (ev_022, ev_024) spans decades, as does the Neuralink project (ev_037 - 'merge with AI'). SpaceX's iterative development over years (ev_015-ev_018) and Twitter's transformation (despite losses, ev_055) show willingness to accept short-term costs for long-term positioning. This mission-scale orientation aligns with Peirce's view of scientific inquiry as a long-term, community-based process - though Musk's individual timeline is unusually compressed by his personal urgency.",
+      "assessment": "使命级别时间视野：多行星物种、意识延续、百年政府重塑，而非季度或年度优化",
+      "finding": "Musk的时间视野延伸至皮尔士意义上'探究共同体'的长期维度——人类作为一个物种的延续。2016年IAC演讲明确将火星殖民定义为'关乎意识本身'（ev_029）：'历史将沿两个方向分叉——要么我们永远留在地球然后最终灭绝，要么成为太空文明和多行星物种'。Neuralink被框架为应对AI存在风险的方式（ev_030）：'如果你不能打败它，就加入它。与AI融合是最佳情景'。2020年播客中他说'我们有责任维护意识的火光'（ev_043）。DOGE被框架为改变政府'方式'而非短期政治（ev_055）：'DOGE使命将随时间推移而加强，因为它成为政府的生活方式'。这种时间视野解释了他的短期风险承担：火星殖民和人类意识延续这样宏大的目标面前，Tesla股票价格或广告商抵制都是微不足道的干扰。他从Douglas Adams那里学到：'正确地提出问题比找到答案更难'（ev_031）——这是对长期问题定义的强调。",
       "evidence_ids": [
         "ev_029",
         "ev_030",
-        "ev_022",
-        "ev_024",
-        "ev_037",
+        "ev_031",
+        "ev_043",
         "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Musk strongly prefers fundamental redesign over incremental improvement",
-      "finding": "Musk's preference for radical rebuild is evident across ventures. SpaceX built rockets from scratch using first principles rather than adapting existing designs. Tesla reimagined automotive manufacturing (including 'production hell' of radical redesign, ev_013). Twitter underwent 80% workforce reduction (ev_018) and fundamental platform restructuring. His 'algorithm' includes the principle 'The most common error is to optimize something that shouldn't exist' (ev_016) - a call for fundamental redesign rather than local optimization. This aligns with Peircean fallibilism: when beliefs fail, replace them rather than patch them. Musk's approach is less about patching SpaceX rockets and more about creating a new aerospace paradigm.",
+      "assessment": "极度偏好根本性重建而非渐进改进：从火箭到交通到政府，全部是系统重设计",
+      "finding": "Musk对渐进式改进表现出明显不耐烦，他的每一次介入都是试图创造新系统而非优化现有系统。SpaceX不是改进NASA的火箭，而是从零开始重建廉价火箭制造；Tesla不是改进内燃机汽车，而是试图让世界从零转向电动车；Hyperloop不是改进高铁，而是提出'第五种交通模式'（ev_024）；Boring Company不是改善交通，而是提出地下隧道网络；DOGE不是改进政府，而是'大幅裁员、系统关闭、联邦机构快速重组'（evt_032）。2024年他成为最大政治捐款人时，他的动机框架不是修补现有政策，而是'民主党已经离开我'（ev_054）——这是对整个政治路径的根本拒绝。最明显的证据是Hyperloop：发布白皮书说'我只是想要证明这是可能的'（ev_023），然后将概念开源让别人执行。这不是补丁，是播种然后让别人去建设。他的问题永远是'为什么不能从根本上重建？'而非'如何优化现有系统？'",
       "evidence_ids": [
-        "ev_016",
-        "ev_018",
-        "ev_013",
-        "ev_042",
-        "ev_008"
+        "ev_021",
+        "ev_023",
+        "ev_024",
+        "ev_029",
+        "ev_054",
+        "evt_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Musk shows moderate metacognitive awareness but significant blind spots around his own fallibilism",
-      "finding": "Musk demonstrates some metacognitive capacity: he reflects on excessive automation as 'a mistake' (ev_014), acknowledges 'humans are underrated', and accepts low probability of success (ev_008). He describes his work as 'the most painful year of my career' (ev_013), showing awareness of difficulty. Yet his behavior shows significant blind spots: he fires engineers for disagreement (ev_054), enters 'demon mode' that destroys teams' work (ev_042), and his public statements often lack epistemic humility. While he verbally acknowledges uncertainty ('less than 10% chance'), his actions suggest high certainty in his own judgment. True fallibilism would involve more systematic openness to disconfirming evidence - a pattern Musk inconsistently demonstrates.",
+      "assessment": "表面承认认知局限但实际行为相反：口头接受可错论但持续过度自信，时间预测系统性失误",
+      "finding": "Musk的元认知呈现出皮尔士意义上有趣的悖论。他声称接受可错论（ev_011承认90%失败），声称不追求成为救世主（ev_042：'我不是任何人的救主，我只是思考未来而不是悲伤'），承认第一性原理思维可能失败（ev_020谈到物理框架时）。然而，他的实际行为模式显示系统性的元认知盲点。Autopilot命名：工程师明确警告安全风险，他仍然坚持（ev_032）——这不是开放探讨而是对警告的系统性忽视。SEC推文：发布'资金到位'但未核实（ev_040）——缺乏对自身信息发布行为的监控。2022年他限制Starlink时没有通知政府官员（ev_44），事后才通过传记作者披露——缺乏对自身决策过程的反思记录。他的时间预测失误模式最为说明性：2016年预测2017年完全自动驾驶（ev_026），从未实现；火星成本目标从未接近；他继续做出精确时间预测然后系统性地未能实现。皮尔士会说，这是一个典型的'知道但不行动'——他可能在认知层面接受可错论，但在行为层面仍然是确定性的追求者。",
       "evidence_ids": [
-        "ev_014",
-        "ev_008",
-        "ev_013",
-        "ev_054",
+        "ev_011",
+        "ev_020",
+        "ev_026",
+        "ev_032",
+        "ev_040",
         "ev_042",
-        "ev_025"
+        "ev_044"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "experimental_iteration_orientation",
-      "definition": "Musk approaches problems through rapid physical prototyping and iterative testing rather than theoretical analysis alone - a pragmatic engineering epistemology where hypotheses are tested through action rather than solely through discourse. This goes beyond rebuild_over_patch by focusing on the method of inquiry (physical iteration) rather than the scope of change.",
-      "finding": "Musk's approach to SpaceX exemplifies this: rather than theoretical modeling, he built rockets, launched them, watched them fail (three times, ev_015-ev_017), and iterated. 'The fourth launch...succeeded' (ev_009). This mirrors Peirce's experimental method - putting hypotheses to the test of experience. His 'production hell' (ev_013) was similarly iterative physical testing. His Hyperloop white paper (ev_049) explicitly aimed to 'show it was possible' - making the idea testable by others. This experimental orientation aligns with Peirce's scientific method but with Musk's characteristic compression of timeline and intensity.",
+      "dimension_name": "pseudo_abductive_reasoning",
+      "definition": "Musk展现出皮尔士溯因推理的结构——从异常信号快速生成解释性假说——但系统性跳过验证环节。他产生大胆假说（火箭成本可降至10%、火星殖民可行、Twitter应开源），但缺乏皮尔士方法论中关键的'社区修正'过程。这不是真正的溯因推理，而是'快速假设生成+极端自信执行'的混合体。",
+      "finding": "皮尔士的溯因推理由三步组成：1）观察到异常现象，2）生成假说（可能但不必然），3）通过进一步调查验证假说。Musk的模式吻合第一步和第二步——他确实从异常出发（火箭太贵、火星殖民成本太高）生成了革命性假说——但他系统性地跳过了第三步。SpaceX的迭代测试（前三枚火箭失败）看起来像是验证过程，但这是被迫的而非主动的：在第三次失败后'只剩下一次机会'（ev_013）时，他已经将所有资金投入。Hyperloop案例最明显：发布白皮书说'我只是想要证明这是可能的'（ev_023），然后开源让别人验证。这是一种'播种假说'而非'验证假说'的模式。SEC事件是跳过验证的危险性的极端案例：一条未经充分审查的推文导致了证券欺诈指控。这种模式指向的不是科学方法论，而是工程直觉——快速原型、小范围测试、然后大规模部署。在皮尔士框架中，这种推理方式是危险的，因为它缺少共同体审查这一关键环节。Musk的假说在他自己的思想框架内看起来合理，但缺乏外部验证。",
       "evidence_ids": [
-        "ev_009",
-        "ev_015",
-        "ev_016",
-        "ev_017",
-        "ev_049",
-        "ev_050"
+        "ev_010",
+        "ev_013",
+        "ev_021",
+        "ev_023",
+        "ev_026",
+        "ev_040"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "existential_probability_reasoning",
-      "definition": "Musk applies reasoning about existential risks and timescales that differs from standard probabilistic thinking - treating very low probability but极高 impact outcomes as decision-relevant in ways that standard cost-benefit analysis would discount. This is distinct from risk_posture as it concerns the cognitive framework for reasoning about extreme outcomes rather than willingness to take risks.",
-      "finding": "Musk's reasoning about existential threats shows distinctive patterns: AI as 'summoning the demon' (ev_026), Mars colonization as humanity's 'backup plan' (ev_022), and consciousness as something to 'maintain' (ev_029). These are extremely low probability / extremely high impact scenarios that Musk treats as decision-relevant. His acceptance of 'high fatality risk' for Mars missions (ev_023) reflects this framework. This differs from typical risk assessment - Peirce's fallibilism applies to knowledge claims, but Musk extends it to existential bets about humanity's future. This suggests a philosophical orientation that treats extinction as a serious probability to hedge against, grounding long-term missions in what might be called 'existential pragmatism' - the pragmatic stance that some outcomes, if realized, cannot be corrected, and therefore require disproportionate prevention effort.",
+      "dimension_name": "narrative_vs_inquiry_tension",
+      "definition": "Musk的主要认知模式是构造宏大叙事（多行星物种、意识延续、政府重塑）而非皮尔士意义上的系统性探究。他的决定更多基于'这应该是真的'而非'证据表明这是真的'。这是一种工程式直觉叙事，与科学探究的迭代假设-验证模式存在根本张力。",
+      "finding": "皮尔士认为真正的探究始于'惊异'——当我们的预期被打破时的困惑感——然后通过溯因生成假说、演绎推导测试含义、归纳验证的迭代过程推进。Musk的模式不太一样：他的出发点不是具体的惊异，而是一套宏大叙事框架（人类应该成为多行星物种、意识应该延续、政府应该被重塑）。这些叙事更像是哲学立场或信仰宣言，而非从具体异常推导出的假说。例如，他的火星殖民演讲（ev_029）不是从某个技术异常出发，而是从存在主义的二元选择出发。他的Hyperloop（ev_024）也类似：他不是在解决一个具体的运输问题，而是在'发明第五种交通模式'。这种叙事优先的模式与皮尔士的科学探究有所不同：科学探究是从下到上的（具体异常→假说→验证），他的模式是从上到下的（宏大叙事→寻找落地方式）。这解释了为什么他的时间预测总是过于乐观：当他从叙事出发时，他不是在估计'基于当前证据X年内能实现'，而是在问'为了实现这个叙事需要多长时间'——然后设定那个时间为目标。这不是科学方法，而是叙事驱动的问题解决。",
       "evidence_ids": [
-        "ev_022",
-        "ev_023",
+        "ev_018",
+        "ev_020",
         "ev_024",
-        "ev_026",
+        "ev_027",
         "ev_029",
-        "ev_030"
+        "ev_042",
+        "ev_043"
       ],
       "local_support": "moderate"
     }

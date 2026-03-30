@@ -4,182 +4,187 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper: actively redesigns systems rather than adapting to existing structures",
-      "finding": "Musk exhibits a pronounced world-shaping orientation across multiple domains. He dropped out of Stanford after just two days to join the Internet revolution (ev_005), founded SpaceX after calculating he could build rockets for 10% of going rates rather than buying them (ev_008), and explicitly stated his mission as making 'the future be better' (ev_030). His approach to problems is fundamentally to redesign the system rather than optimize within it — as evidenced by his Hyperloop white paper published to show it was possible rather than building a company around it (ev_050), and his approach to government reform via DOGE. This pattern is consistent and pervasive across his career.",
+      "assessment": "Extreme world-shaper; consistently acts as an environment-transformer rather than structure-responder",
+      "finding": "Musk demonstrates one of the most pronounced agency orientations observable in any public figure. Rather than adapting to existing constraints, he systematically dismantles or bypasses them. He founded SpaceX after being told rockets cost $65 million each by Russian negotiators; his response was to calculate that he could build them for 10% of market rate (ev_010). His management style reflects similar patterns—ev_038 documents his direct intervention in production line design overriding engineering recommendations, and ev_034 shows him firing engineers on the spot for disagreement. His creation of entirely new companies (Zip2, X.com, SpaceX, Tesla, SolarCity, Neuralink, Boring Company) across disparate sectors—software, automotive, aerospace, energy, neurotechnology, infrastructure—demonstrates a persistent drive to reshape reality rather than optimize within existing structures. The Twitter acquisition represents perhaps the clearest recent example: acquiring a platform he had publicly criticized and immediately transforming its fundamental architecture and workforce. His stated philosophy is explicit: 'I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad' (ev_042), revealing that agency itself—the act of shaping—is the core psychological mechanism rather than benevolence or altruism.",
       "evidence_ids": [
-        "ev_005",
-        "ev_008",
-        "ev_030",
-        "ev_050",
-        "ev_043"
+        "ev_010",
+        "ev_038",
+        "ev_034",
+        "ev_046",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "First principles reasoning: reasons from physics-based fundamentals rather than analogy or authority",
-      "finding": "Musk explicitly articulated his thinking framework: 'I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy' (ev_025). This manifests behaviorally in his willingness to challenge established industries — automotive (Tesla), aerospace (SpaceX), telecommunications (Starlink), brain-computer interfaces (Neuralink). He calculates his own probability estimates (SpaceX had 'less than 10% chance of success') (ev_008) rather than deferring to expert consensus. His reading of The Hitchhiker's Guide to the Galaxy during an existential crisis taught him to focus on 'what questions to ask' (ev_051), suggesting a meta-cognitive approach to problem definition itself.",
+      "assessment": "First-principles reasoning; systematically rejects analogical thinking in favor of decomposing problems to physics-level constraints",
+      "finding": "Musk's epistemic approach is uniquely identifiable as first-principles reasoning applied to non-physics domains. In his own words: 'Physics teaches you to reason from first principles rather than by analogy' (ev_020). This manifests as a consistent pattern of rejecting industry assumptions and recomputing from raw material costs—a spreadsheet on a flight home from Russia calculated that rockets could be built for ~10% of market rate (ev_010). The Hyperloop white paper (ev_024) demonstrates systematic deconstruction: rather than accepting that high-speed transport must mean trains on tracks, he enumerated the physics of pods in partial vacuum tubes. This approach has productive value—enabling SpaceX to achieve cost reductions that incumbents claimed impossible—but also creates epistemic blind spots. He applies the same first-principles logic to domains where social, institutional, or psychological factors dominate (ev_032 shows engineers warning that his 'Full Self-Driving' branding endangered lives—he applied logical reasoning to technical capability without adequate weight to human behavioral factors). His attribution of intellectual formation to Douglas Adams—'once you can properly phrase the question, the answer is the easy part' (ev_031)—reveals that his epistemic style privileges problem-framing over solution-execution.",
       "evidence_ids": [
-        "ev_025",
-        "ev_008",
-        "ev_051",
-        "ev_018"
+        "ev_020",
+        "ev_010",
+        "ev_024",
+        "ev_026",
+        "ev_031"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Very high: strong preference for systems thinking, mathematical optimization, and engineered processes",
-      "finding": "Musk demonstrates a marked preference for formal, systematic approaches. His five-step 'algorithm' for engineering problem-solving — 'The most common error is to optimize something that shouldn't exist' (ev_016) — reflects a deeply systematic orientation. He applies the same first-principles reasoning to diverse domains (rockets, cars, AI, brain interfaces, tunneling). The publication of a detailed 57-page Hyperloop white paper (ev_049) and his systematic code review process at Twitter (ev_052) further demonstrate comfort with formalization. He explicitly models his companies on engineering principles rather than traditional business hierarchies.",
+      "assessment": "Exceptionally high; constructs elaborate formal systems with detailed technical specifications for visionary concepts",
+      "finding": "Musk demonstrates unusually high abstraction capacity combined with the willingness to produce formal documents. His Hyperloop Alpha was a 57-page technical white paper (ev_024) establishing specific parameters: 800 mph speeds, pod dimensions, vacuum requirements. His Mars colonization presentations outline specific cost targets ($200,000 per passenger), rocket specifications (ev_027), and mission profiles. This formalization extends to institutional design: DOGE's proposed government restructuring and Neuralink's technical specifications both show comfort with system-level abstraction. His 'physics framework' (ev_020) represents meta-level abstraction—treating business as an applied physics problem with deterministic constraints. However, the gap between formal documents and operational execution is notable. Hyperloop was open-sourced with Musk citing being 'too busy' (ev_022), suggesting that his abstraction_formalization is genuine but not always matched by sustained operational commitment. The 'demon mode' documented by Isaacson (ev_050) represents a shift from abstract planning to concrete confrontation, suggesting two cognitive modes rather than uniform high abstraction.",
       "evidence_ids": [
-        "ev_016",
-        "ev_049",
-        "ev_052",
-        "ev_025"
+        "ev_024",
+        "ev_027",
+        "ev_028",
+        "ev_022",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Very high: seeks direct operational control across all ventures, micro-manages critical areas",
-      "finding": "Musk exhibits an intense need for control manifested in multiple ways. During the Model 3 production crisis, he moved into the Fremont factory and slept on the production floor for months (ev_056). He personally reviewed code commits to determine productivity at Twitter (ev_052). At Zip2, he 'coded the website every night, often sleeping at the office' (ev_006). Walter Isaacson's biography describes his 'demon mode' where he 'will fire people, destroy entire teams' work, demand impossible deadlines — and then somehow the product ships' (ev_042). He took over as Tesla CEO when the company was nearly bankrupt (ev_020). This pattern suggests control is not just preferred but experienced as necessary for mission success.",
+      "assessment": "Very high; demonstrated preference for direct operational control across multiple ventures",
+      "finding": "Control orientation in Musk manifests across multiple domains: operational, narrative, and personnel. His hands-on intervention in Tesla production lines (ev_038)—personally overriding engineering recommendations—reflects discomfort with delegated decision-making. The 'demon mode' pattern (ev_050) documents firing entire teams, destroying work product, and demanding impossible deadlines—a control mechanism exercised through destruction and ultimatum rather than gradual process. His Twitter acquisition and immediate 80% workforce reduction (ev_046) followed the same pattern: absolute control exercised through radical action rather than negotiated change. The Starlink near Crimea decision (ev_044-45) shows control extended to geopolitical outcomes—unilaterally restricting a technology affecting military operations without external authorization. His SEC conflict (ev_040-41)—tweeting material information without counsel review—suggests preference for direct communication over institutional mediation. However, this control orientation has limits: he was ousted from PayPal while on honeymoon (ev_009), suggesting that institutional structures can override personal control. His framing of DOGE's lasting impact—'becomes a way of life throughout the government' (ev_055)—indicates ambition for control systems beyond personal tenure.",
       "evidence_ids": [
-        "ev_056",
-        "ev_052",
-        "ev_006",
-        "ev_042",
-        "ev_020"
+        "ev_038",
+        "ev_050",
+        "ev_046",
+        "ev_044",
+        "ev_045",
+        "ev_040",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission-dominant: consistently prioritizes goals over relational comfort, often at significant social cost",
-      "finding": "Musk consistently prioritizes mission over relationships. At Twitter, he laid off approximately 80% of the workforce (ev_018) and gave remaining employees an ultimatum of 'extremely hardcore work' with ~1,200 additional employees resigning (ev_053). He told advertisers at DealBook Summit 'Go fuck yourself' (ev_019), resulting in significant advertiser loss. Engineers who warned about Autopilot naming risks resigned (ev_033). He fired engineers on the spot for disagreeing with him (ev_054), sometimes rehiring days later. His statement 'Nobody ever changed the world on 40 hours a week' (ev_031) and his 80-100 hour work weeks (ev_032) reflect a worldview where relational costs are simply a variable to be optimized away in service of the mission.",
+      "assessment": "Extreme mission prioritization; relational costs accepted as necessary collateral",
+      "finding": "Musk's prioritization of mission over relational comfort is among the most clearly documented patterns in his biography. His own words establish this: 'I'd rather commit seppuku than fail' (ev_019), 'Starting a company is like staring into the abyss and eating glass' (ev_018). The financial crisis period demonstrates extreme cost acceptance: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_015). He explicitly framed work weeks of 80-100 hours as necessary prerequisites for changing the world (ev_033). His response to the death of his first child Nevada Alexander—returning to work almost immediately (ev_048)—and later stating 'I'm not sure what sitting around being sad is going to do' reveals mission prioritization even over grief processing. His public conflict with advertisers in 2023 (ev_051)—'Go fuck yourself'—shows willingness to destroy commercial relationships rather than compromise stated positions. The Twitter acquisition and mass layoffs (ev_046) similarly prioritized structural transformation over stakeholder relationships. However, ev_039—'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs'—suggests a parallel narrative of mission-as-solidarity, though this coexists with demonstrated willingness to eliminate jobs when operational needs demand.",
       "evidence_ids": [
-        "ev_018",
-        "ev_053",
         "ev_019",
+        "ev_018",
+        "ev_015",
         "ev_033",
-        "ev_054",
-        "ev_031",
-        "ev_032"
+        "ev_048",
+        "ev_051",
+        "ev_046",
+        "ev_039"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Very high risk tolerance with asymmetric payoff mental model: accepts high probability of total failure for low-probability high-impact outcomes",
-      "finding": "Musk describes SpaceX as having 'less than 10%' chance of success but 'accepted that I would probably lose everything' (ev_008). He stated he'd 'rather commit seppuku than fail' (ev_035) and described entrepreneurship as 'eating glass' (ev_034). He invested virtually all his resources into SpaceX and Tesla during their darkest periods, stating about Tesla: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_011). He borrowed money from friends to pay rent during SpaceX's near-death period (ev_010). His presentation of Mars colonization explicitly acknowledged 'the first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_023). This reflects a utility function where low-probability high-magnitude positive outcomes justify high-probability negative outcomes.",
+      "assessment": "Exceptionally risk-tolerant; repeatedly stakes entire net worth and accepts near-certain failure probabilities",
+      "finding": "Musk's risk posture is extraordinary both in stated probability estimates and financial exposure. His own assessment of SpaceX success probability was 'less than 10%' while investing $100 million of personal funds (ev_011). He accepted that he would 'probably lose everything' (ev_011). His Tesla investment—$6.3 million becoming largest shareholder (ev_012)—represented concentration risk that multiple colleagues reportedly considered irrational. During the combined SpaceX/Tesla crisis of 2008, he 'had to borrow money from friends just to pay rent' (ev_014), demonstrating complete depletion of personal financial buffers. The 2018 'funding secured' tweet (ev_040) and subsequent SEC action revealed willingness to risk legal consequences for strategic communication. His political spending—$288 million becoming the largest individual donor in U.S. history (ev_053)—represents new domain of extreme risk exposure. The Mars colonization speeches explicitly frame first missions as having 'quite high' fatality risk (ev_028). This risk posture appears driven by a specific logic: when expected value calculations favor extreme outcomes (asymmetric payoff if success, equivalent to zero if failure), Musk behaves as if risk is irrelevant to decision-making. His first-principles approach to risk assessment may blind him to bounded rationality in his own probability judgments.",
       "evidence_ids": [
-        "ev_008",
-        "ev_035",
-        "ev_034",
         "ev_011",
-        "ev_010",
-        "ev_023",
-        "ev_011"
+        "ev_012",
+        "ev_014",
+        "ev_040",
+        "ev_053",
+        "ev_028"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Low respect for existing hierarchy: challenges authority, removes established structures, seeks direct power",
-      "finding": "Musk demonstrates a consistent pattern of challenging or bypassing existing hierarchies. He left South Africa to avoid mandatory military service under apartheid (ev_004). He dropped out of Stanford after 2 days (ev_005). He was ousted as CEO of X.com/PayPal during his honeymoon (ev_007), later taking over Tesla as CEO. At Twitter, he rapidly removed 80% of the workforce (ev_018), fundamentally restructuring the organization. In government, he led DOGE as a 'special government employee' applying corporate approaches to federal systems (ev_043, ev_057). His political shift to becoming the largest individual donor in U.S. history ($288M to Republicans) (ev_046) reflects a willingness to use power directly rather than work within existing political structures. The SEC fraud lawsuit (ev_015, ev_027) reflects his willingness to challenge regulatory authority directly.",
+      "assessment": "Consistent challenger of existing hierarchies; prefers creating new authority structures over working within established ones",
+      "finding": "Musk demonstrates a persistent pattern of hierarchy-challenging across multiple domains. His departure from PayPal was via boardroom coup while he was on honeymoon (ev_009)—he characterizes this as the 'problem with vacations' (ev_009), revealing how institutional power structures can override even founders. His SEC conflict represents direct challenge to regulatory authority (ev_041). The Twitter acquisition and subsequent transformation of a major communications platform challenged both corporate governance norms and government regulatory expectations. His DOGE role—applying corporate methodology to federal government—represented direct challenge to bureaucratic authority structures (ev_032-33). His public conflict with advertisers (ev_051) challenged the market power of major corporations. His political shift—'I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me' (ev_054)—represented strategic reorientation away from institutional political hierarchy. This pattern may be partially explained by his South Africa upbringing: 'I didn't want to be conscripted into the army to fight for apartheid' (ev_004) represents an early choice to reject state authority. His choice to live with his abusive father and later call this 'a mistake' (ev_001) suggests complicated relationship with authority figures—seeking guidance then rejecting it.",
       "evidence_ids": [
+        "ev_009",
         "ev_004",
-        "ev_005",
-        "ev_007",
-        "ev_018",
-        "ev_043",
-        "ev_057",
-        "ev_046",
-        "ev_015"
+        "ev_041",
+        "ev_051",
+        "ev_054",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Direct confrontation and escalation: confronts directly, fires quickly, escalates to personal attacks when challenged",
-      "finding": "Musk's conflict strategy is predominantly confrontational and escalatory. He told advertisers 'Go fuck yourself' (ev_019). He fired engineers on the spot for disagreeing (ev_054). The SEC lawsuit followed a direct tweet claiming 'funding secured' to take Tesla private at $420 (ev_015) — a decision he made without consulting his board. He publicly called his father 'a terrible human being' (ev_002). His 'demon mode' involves destroying entire teams' work when angry (ev_042). However, there is evidence of a more complex pattern: he sometimes rehired fired engineers days later (ev_054), and his quote 'That's the problem with vacations' (ev_007) after being ousted as PayPal CEO suggests a capacity for emotional regulation in the aftermath of conflict. The overall pattern is predominantly confrontational with occasional calibration.",
+      "assessment": "Escalatory confrontation; prefers direct aggressive engagement over negotiation, compromise, or delay",
+      "finding": "Musk's conflict strategy is predominantly escalatory rather than diplomatic. His 'Go fuck yourself' to advertisers (ev_051) exemplifies willingness to use explicit aggression rather than managed conflict resolution. The 'demon mode' (ev_050) documents firing people on the spot for disagreement, destroying work, demanding impossible deadlines—a conflict style that escalates to termination. His immediate 80% workforce reduction at Twitter (ev_046) was conflict via ultimatum rather than negotiated transition. His approach to the 2018 SEC action was to settle rather than to negotiate incrementally—suggesting that escalatory confrontation left him with limited range of acceptable outcomes. His Russia rocket-buying trip ending in spreadsheet calculation and SpaceX founding shows a pattern of conflict transformation: when negotiation failed, he created a new competitive entity rather than continuing to negotiate within existing structures. His approach to Starlink (ev_044-45)—unilaterally restricting capability affecting military operations—demonstrates willingness to create international conflict rather than comply with implicit expectations. The one domain where this pattern is more complex is with his father: despite calling him 'a terrible human being' (ev_002), Musk initially chose to live with him after his parents divorced (ev_001)—suggesting that childhood conditioning may have established a conflict-avoidance pattern later overridden by later career behavior.",
       "evidence_ids": [
-        "ev_019",
-        "ev_054",
-        "ev_015",
+        "ev_051",
+        "ev_050",
+        "ev_046",
+        "ev_044",
+        "ev_045",
         "ev_002",
-        "ev_042",
-        "ev_007"
+        "ev_001"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Multi-generational: optimizing for mission-scale horizons spanning decades to centuries",
-      "finding": "Musk operates on extremely long time horizons. His stated purpose is 'to make sure [consciousness] continues into the future' (ev_029). His Mars colonization vision — presented at IAC in 2016 — frames the choice as 'one path is we stay on Earth forever, and then there will be some eventual extinction event. The alternative is to become a space-faring civilization and a multi-planetary species' (ev_022). He stated 'I would like to die on Mars. Just not on impact' (ev_024). OpenAI was founded in 2015 to develop 'friendly AI' (ev_027), and Neuralink was founded to address AI risk through human-machine merger (ev_037). These are century-scale time horizons. Even his shorter-term ventures (Tesla, SpaceX) are framed as steps toward this larger purpose rather than ends in themselves.",
+      "assessment": "Multi-generational; optimizes for outcomes measured in decades to centuries",
+      "finding": "Musk's time horizon extends further into the future than virtually any other public figure. His Mars colonization vision explicitly frames outcomes in multi-generational terms: 'History is going to bifurcate along two directions... become a space-faring civilization and a multi-planetary species' (ev_029). The stated cost target of $200,000 per passenger (ev_027) is designed to make colonization economically self-sustaining across decades. Neuralink—founded on the premise 'If you can't beat them, join them' (ev_030)—addresses century-scale AI development trajectories. His political donations (ev_053) represent investment in structural change whose effects will manifest over election cycles. His DOGE involvement aimed to institutionalize changes that 'becomes a way of life throughout the government' (ev_055)—implying generational persistence. However, this long-term orientation coexists with pattern of short-interval predictions that fail to materialize: 2017 autonomous cross-country driving predictions (ev_026) represent 1-2 year horizons that failed. This suggests that Musk's long-term orientation coexists with specific overconfidence about near-term technical timelines, rather than uniform century-scale planning.",
       "evidence_ids": [
         "ev_029",
-        "ev_022",
-        "ev_024",
         "ev_027",
-        "ev_037",
-        "ev_030"
+        "ev_030",
+        "ev_053",
+        "ev_055",
+        "ev_026"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for structural redesign over iterative improvement",
-      "finding": "Musk consistently chooses radical redesign over incremental improvement. Rather than buying Russian ICBMs, he calculated he could build rockets for 10% of the going rate and founded SpaceX (ev_013). Rather than investing in existing automotive companies, he built Tesla from the ground up as an electric car company. At Twitter, rather than optimizing the existing platform, he laid off 80% of staff (ev_018) and fundamentally changed policies. He published the Hyperloop white paper not to build a company but to show it was possible, inviting others to build it (ev_050). His 'algorithm' — that 'the most common error is to optimize something that shouldn't exist' (ev_016) — reflects this preference for questioning whether the current structure itself is correct. His statement 'humans are underrated' (ev_14) after the Model 3 automation crisis demonstrates a capacity to recognize when a rebuild approach failed, but the default remains radical redesign.",
+      "assessment": "Strong preference for structural redesign; demonstrates pattern of creating new systems rather than incremental improvement",
+      "finding": "Musk's preference for rebuilding over patching is evident across all his ventures. SpaceX was not an improvement on existing rocket technology but a complete vertical integration from raw materials—applying first-principles thinking to every component (ev_010). Tesla was not an incremental automotive improvement but a vertically integrated electric vehicle company including battery production and charging infrastructure. The Hyperloop was explicitly proposed as a 'fifth mode of transportation' (ev_024)—a new category rather than improvement of trains. Twitter acquisition and mass layoffs represented destruction of existing institutional architecture rather than gradual reform (ev_046-47). His DOGE approach to government—'mass layoffs, system shutdowns, rapid restructuring' (ev_032)—applied the same rebuild logic to federal institutions. The reversal of Tesla automation in 2018—'Humans are underrated' (ev_037)—represented a partial patch of a previous over-rebuild, suggesting capacity for learning. However, the overall pattern is one of structural transformation: creating new companies rather than acquiring and improving existing ones, and destroying existing structures when he gains control of them.",
       "evidence_ids": [
-        "ev_013",
-        "ev_018",
-        "ev_050",
-        "ev_016",
-        "ev_014"
+        "ev_010",
+        "ev_024",
+        "ev_046",
+        "ev_037",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Partial: demonstrates explicit self-awareness about thinking patterns but limited regulation of maladaptive states",
-      "finding": "Musk demonstrates explicit metacognitive awareness in some domains but not others. He explicitly describes his 'physics framework' for thinking (ev_025) and articulates his purpose as 'maximizing the probability of the future being better' (ev_030). His acknowledgment of 'demon mode' (ev_042) shows awareness of his operational pattern. However, his behavior during high-stress periods (2018 Model 3 crisis) shows limited self-regulation: he worked 120-hour weeks, slept on the factory floor, and described it as 'the most painful year of my career' (ev_013). His tweet about taking Tesla private at $420, which triggered the SEC lawsuit, demonstrates a pattern of acting on impulse without full consideration of consequences. His admission 'There are many nights I sleep alone' (ev_039) shows emotional self-awareness, but this awareness does not seem to translate into behavioral adjustment. The pattern suggests high metacognitive clarity about his worldview but limited metacognitive control over his emotional and behavioral states under stress.",
+      "assessment": "Moderate; demonstrates awareness of specific cognitive frameworks but with blind spots around social/interpersonal patterns",
+      "finding": "Musk demonstrates metacognitive awareness in specific domains: he explicitly describes his first-principles reasoning as a learned framework from physics (ev_020), indicating conscious awareness of his own epistemic method. He acknowledges making mistakes—'living with my father was a mistake' (ev_001)—demonstrating capacity for self-correction of past decisions. He publicly admitted the Tesla automation overreach—'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_037)—showing ability to recognize operational misjudgments. However, evidence suggests blind spots in interpersonal and social domains. His 'demon mode' (ev_050) appears to be a recurring pattern that others observe but he may not fully self-regulate: 'When Elon is in demon mode, he will fire people, destroy entire teams' work'—this suggests limited metacognitive access to his own interpersonal impact. His tweet behavior (ev_040) led to SEC action despite apparent confidence that his communications were appropriate. His repeated inaccurate timeline predictions (ev_026) suggest inadequate calibration of uncertainty in his own judgments. His description of entrepreneurship as 'staring into the abyss and eating glass' (ev_018) indicates awareness of psychological cost, but his response to personal tragedy (ev_048)—'I'm not sure what sitting around being sad is going to do'—may reflect limited metacognitive access to grief processing.",
       "evidence_ids": [
-        "ev_025",
-        "ev_030",
-        "ev_042",
-        "ev_013",
-        "ev_015",
-        "ev_039"
+        "ev_020",
+        "ev_001",
+        "ev_037",
+        "ev_050",
+        "ev_040",
+        "ev_026",
+        "ev_048"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "technological_projection_self",
-      "assessment": "Very high: treats technology and engineering as extension of self-identity; experiences company failures as personal mortality",
-      "finding": "Musk exhibits an unusual pattern where technology companies become extensions of his identity. He describes 'the bird is freed' (ev_017) upon Twitter acquisition in deeply personal terms. He describes his personal Tesla Roadster in space as something he 'love[s]' (ev_021). He frames AI risk in terms of his own mortality: 'If you can't beat them, join them. The merge with AI is the best-case scenario' (ev_037). This appears distinct from general 'mission orientation' in that it's specifically about technological capability as a form of personal empowerment and survival. The 2002 death of his first child Nevada at 10 weeks (ev_040) and his return to work almost immediately ('I'm not sure what sitting around being sad is going to do') (ev_041) may have contributed to this pattern of channeling existential anxiety into technological achievement.",
+      "dimension_name": "emotional_inversion",
+      "definition": "The pattern of inverting emotional responses into action orientations—using agency over feeling as a primary psychological defense mechanism. Rather than processing emotions through standard affective channels, Musk systematically translates emotional states into action imperatives. This differs from simple emotional suppression because the emotional energy is not denied but channeled into productive or disruptive action.",
+      "finding": "Multiple behavioral patterns suggest this dimension. His response to childhood bullying—rather than processing victimhood, he channeled it into technical achievement (ev_002-03: 'prime target' childhood leading to self-taught programming and game creation). His response to his son's death was reported as immediate return to work (ev_048) with 'I'm not sure what sitting around being sad is going to do'—explicit inversion of grief into action. His statement 'I just want to think about the future and not be sad' (ev_042) explicitly frames sadness as an obstacle to agency rather than a valid emotional state requiring processing. His 'We have a duty to maintain the light of consciousness' (ev_043) frames existential responsibility as action imperative rather than emotional connection. This pattern may explain his high productivity but also suggests vulnerability: emotions that aren't processed may accumulate, potentially manifesting in the 'demon mode' episodes and the pattern of destroying teams' work (ev_050). The tension between high public emotional expression (conflicts, expletives, apparent frustration) and reported emotional solitude ('There are many nights I sleep alone' - ev_049) is consistent with emotional inversion: expressed emotions serve instrumental purposes while genuine emotional needs remain unmet.",
       "evidence_ids": [
-        "ev_017",
-        "ev_021",
-        "ev_037",
-        "ev_040",
-        "ev_041"
+        "ev_002",
+        "ev_003",
+        "ev_048",
+        "ev_042",
+        "ev_043",
+        "ev_049",
+        "ev_050"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "suffering_as_identity",
-      "assessment": "High: actively seeks out and normalizes extreme suffering as proof of commitment and identity validation",
-      "finding": "Musk exhibits a pattern where extreme suffering is both anticipated and sought as validation of commitment. He stated 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_012). He worked 80-100 hour weeks (ev_032), slept on factory floors (ev_056), described the Model 3 production as 'production hell' (ev_013) and 'the most painful year of my career' (ev_013), yet continued. He stated 'Nobody ever changed the world on 40 hours a week' (ev_031), linking suffering directly to impact. This suggests suffering is not merely tolerated but is functionally integrated into his self-concept — it serves as both proof of commitment and a mechanism for identity validation. This pattern may have roots in his difficult childhood — being 'the youngest and smallest kid in class' and 'a prime target' for bullying (ev_001), and having a father he describes as 'a terrible human being' (ev_002).",
+      "dimension_name": "temporal_blending",
+      "definition": "The tendency to collapse temporal distinctions between immediate action and distant outcomes, treating all timescales as equivalently actionable. This differs from simple long-term thinking because it involves treating century-scale visions and next-week deadlines with equivalent urgency and the same decision-making frameworks, leading to calibration errors between timescales.",
+      "finding": "Musk's temporal posture shows a distinctive pattern of treating distant visions and immediate actions as equivalently real. His Mars colonization vision (ev_029—'bifurcate along two directions' over geological timescales) coexists with detailed 2017 autonomous driving predictions that failed (ev_026), suggesting he applies the same conviction-intensity to both near and far temporal horizons without calibrating uncertainty appropriately. His willingness to invest entire net worth in ventures with 'less than 10%' success probability (ev_011) treats decades-long payoff horizons as equivalent to immediate investments. His DOGE framing—'becomes a way of life throughout the government' (ev_055)—projects institutional transformation across generations while simultaneously demanding 'extremely hardcore' immediate work (ev_046). The Hyperloop represents an intermediate case: a formal document for a project he chose not to execute personally, suggesting capacity for temporally distant planning that doesn't necessarily mobilize immediate execution. This temporal blending may explain his difficulty with conventional timeline commitments: treating 10-year visions and 2-year product timelines with equivalent confidence leads to systematic over-promising on near-term deliverables.",
       "evidence_ids": [
-        "ev_012",
-        "ev_032",
-        "ev_056",
-        "ev_013",
-        "ev_031",
-        "ev_001",
-        "ev_002"
+        "ev_029",
+        "ev_026",
+        "ev_011",
+        "ev_055",
+        "ev_046",
+        "ev_024"
       ],
       "local_support": "moderate"
     }

@@ -264,8 +264,22 @@ def default_build_prompt(
     # ── V2 roles ───────────────────────────────────────────────
     elif role == "assemble":
         sources_block = build_sources_block(context["sources"])
-        system = fill_placeholders(system_raw, subject=subject, sources_block=sources_block)
-        user = fill_placeholders(user_raw, subject=subject, sources_block=sources_block)
+        timeline_limit = context.get("timeline_limit", 40)
+        evidence_limit = context.get("evidence_limit", 60)
+        system = fill_placeholders(
+            system_raw,
+            subject=subject,
+            sources_block=sources_block,
+            timeline_limit=timeline_limit,
+            evidence_limit=evidence_limit,
+        )
+        user = fill_placeholders(
+            user_raw,
+            subject=subject,
+            sources_block=sources_block,
+            timeline_limit=timeline_limit,
+            evidence_limit=evidence_limit,
+        )
 
     elif role == "discipline":
         assembly = context["assembly"]
@@ -581,18 +595,19 @@ async def call_llm(
                 )
         except httpx.HTTPStatusError as e:
             body = e.response.text[:500]
-            if e.response.status_code == 429 and attempt < _retries - 1:
+            status = e.response.status_code
+            if (status == 429 or 500 <= status < 600) and attempt < _retries - 1:
                 wait = 2 ** (attempt + 1)
-                print(f"  [runtime] 429 — {body}")
+                print(f"  [runtime] {status} — {body}")
                 print(f"  [runtime] waiting {wait}s (attempt {attempt + 1}/{_retries})")
                 await asyncio.sleep(wait)
             else:
                 raise httpx.HTTPStatusError(
-                    f"{e.response.status_code} from {provider}: {body}",
+                    f"{status} from {provider}: {body}",
                     request=e.request,
                     response=e.response,
                 ) from e
-        except (httpx.ReadTimeout, httpx.ConnectTimeout, httpx.RemoteProtocolError) as e:
+        except (httpx.ReadTimeout, httpx.ConnectTimeout, httpx.RemoteProtocolError, httpx.ConnectError) as e:
             if attempt < _retries - 1:
                 wait = 2 ** (attempt + 1)
                 print(f"  [runtime] {type(e).__name__} (attempt {attempt + 1}/{_retries}), retrying in {wait}s…")

@@ -4,176 +4,171 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Musk is an extreme world-shaper, consistently acting as though he can fundamentally restructure reality rather than merely respond to existing structures",
-      "finding": "Musk's career exemplifies the world-shaper orientation in the Heideggerian sense—he does not accept the given world but actively seeks to transform its very conditions. His founding of SpaceX, Tesla, Neuralink, and his DOGE role represent attempts to reshape aerospace, automotive, human cognition, and government according to his vision. Crucially, this orientation manifests not as naive optimism but as a deliberate acceptance of extreme odds: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_008). This acceptance of failure while still acting—essentially a form of existential courage in the face of thrownness—characterizes the authentic projection that Heidegger describes as this project's most fundamental possibility.",
+      "assessment": "极强的世界塑造者 - 不断创造新结构而非回应现有结构",
+      "finding": "Musk表现出典型的世界塑造者特征：17岁时主动离开南非以避免参与种族隔离制度的兵役（ev_004）；从斯坦福博士项目退学，理由是'在互联网上有所作为'比读博更有意义（ev_005）；2008年Tesla危机时投入全部剩余资金而非选择安全退出（ev_015）。他不断通过创立SpaceX、Tesla、Neuralink等公司来重新定义产业，而非在现有框架内优化。这符合海德格尔所说的此在的'筹划'(projection)——朝向可能性的先行行动。",
       "evidence_ids": [
-        "ev_008",
+        "ev_004",
+        "ev_005",
+        "ev_015",
         "ev_011",
-        "ev_020",
-        "ev_022",
-        "ev_043"
+        "ev_020"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Musk employs explicit first-principles reasoning that prioritizes物理框架 over analogical thinking, representing a form of existential understanding rather than mere theoretical knowledge",
-      "finding": "Musk's self-described approach is 'from a physics framework' (ev_025)—he understands things existentially rather than through received wisdom or theoretical abstraction. This aligns with Heidegger's distinction between 'existential understanding' (existential understanding) and mere 'knowing about' (theoretical cognition). When Musk builds rockets by calculating he could do it for 10% of prevailing costs (ev_013), he is not theorizing but understanding the being of rocketry from first principles, revealing the 'ready-to-hand' (上手) relationship with technology rather than the detached 'present-at-hand' (在手) stance. His repeated citations of existential crisis and reading of Hitchhiker's Guide to understand 'what questions to ask' (ev_051) further reveal a philosophical orientation toward questioning the meaning of technological existence itself.",
+      "assessment": "第一性原理思维与直觉主义的混合 - 理性框架下的非理性风险接受",
+      "finding": "Musk明确表述其思维方法来自物理学框架：'从第一性原理而非类比推理'（ev_020）。他通过计算原材料成本得出可以10%市场价格建造火箭的结论（ev_010）。然而，这种理性框架下，他同时做出非理性行为：如发推特称考虑以420美元将Tesla私有化导致SEC起诉（ev_040），以及将AI风险比作'召唤恶魔'（ev_025）——这是高度直觉性、诗意的比喻而非技术分析。他受Douglas Adams影响，认为'正确表述问题比找到答案更难'（ev_031），显示其认知风格既有系统性也有灵性维度。",
       "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_040",
         "ev_025",
-        "ev_013",
-        "ev_051",
-        "ev_016"
+        "ev_031"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Musk demonstrates strong preference for systematization and formalization, reducing complex phenomena to engineering problems subject to algorithmic optimization",
-      "finding": "Musk's management approach operates through a formalized five-step 'algorithm' where 'the most common error is to optimize something that shouldn't exist' (ev_016). This represents precisely what Heidegger critiques as 'enframing' (Gestell)—the tendency to reduce everything to calculable resource optimized for efficiency. However, Musk's abstraction is not purely technical; it extends to cosmic scales when he speaks of 'bifurcating' history toward extinction or multi-planetary civilization (ev_022). The tension in his abstraction style is that he simultaneously abstracts to enormous existential scales while reducing human organizations to code reviews and productivity metrics (ev_052). This reflects the Heideggerian danger: treating the world—and people—as 'standing-reserve' (Bestand) rather than authentic beings with their own possibilities.",
+      "assessment": "强偏好系统性重构 - 倾向从根本重新设计而非增量改进",
+      "finding": "Musk的企业家生涯展示了对系统性重构的强烈偏好：SpaceX从零开始重建火箭制造（ev_016）；Tesla从根本上重新定义汽车产业；Neuralink尝试重建人机交互范式（ev_030）；Hyperloop提出'第五种交通方式'的全新概念并选择开源而非自行开发（ev_022, ev_023）。这种倾向在其将物理学框架应用于商业决策中达到极致（ev_020）——不是问'火箭为什么一直很贵'，而是问'火箭实际上由什么制成'。这体现了海德格尔所批判的技术理性（Gestell）倾向：将一切还原为可计算的资源。",
       "evidence_ids": [
         "ev_016",
         "ev_022",
-        "ev_052",
-        "ev_054"
+        "ev_023",
+        "ev_030",
+        "ev_020"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Extremely high control orientation manifesting as direct intervention across all levels of his enterprises, from code review to production to governmental systems",
-      "finding": "Musk's control orientation represents a profound non-acceptance of thrownness—he cannot delegate the possibility of failure to others. He personally reviews code commits to determine productivity (ev_052), fires engineers on the spot for disagreement (ev_054), sleeps on the factory floor during production crises (ev_056), and takes over as CEO when companies face existential threats (ev_020). This pattern reflects Heidegger's concept of 'resoluteness' (Entschlossenheit) twisted toward control rather than authentic acceptance of finitude. The irony is that despite seeking total control, Musk has been ousted from CEO positions (ev_011), faced SEC legal action (ev_015), and lost significant value in acquisitions (ev_055)—demonstrating that the attempt to master thrownness through control ultimately fails against the fundamental uncontrollability of being.",
+      "assessment": "极高控制欲 - 深度介入运营细节并容忍冲突",
+      "finding": "Musk展现出极强的控制取向。2008年他将所有剩余资金投入Tesla和SpaceX（ev_015）；他坚持'Tesla Autopilot'和'Full Self-Driving'的品牌命名，尽管工程师警告这会危及生命（ev_032）；他经常亲自干预生产线设计，经常否决工程团队的建议（ev_038）；他会当场解雇不同意他的工程师，有时几天后才重新雇用（ev_034）。收购Twitter后，他立即解雇约80%员工并要求剩余员工'极度硬核'工作否则离职（ev_046）。这符合海德格尔所言的此在的'操心'(Care)结构——对自身存在境域的持续干预，但过度控制可能陷入技术理性的框架中。",
       "evidence_ids": [
-        "ev_052",
-        "ev_054",
-        "ev_056",
-        "ev_020",
-        "ev_011",
         "ev_015",
-        "ev_055"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission dominates overwhelmingly; Musk consistently prioritizes existential goals over relational comfort, accepting extreme social costs for mission advancement",
-      "finding": "Musk's prioritization of mission over relational comfort represents perhaps his most consistent existential pattern. He dropped out of Stanford after two days to join the Internet revolution because 'I felt a much stronger pull toward doing something meaningful in the world' (ev_005). He works 80-100 hour weeks because 'Nobody ever changed the world on 40 hours a week' (ev_031). His statement 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_011) reveals how the mission becomes a matter of being itself—the company becomes his way of 'maintaining the light of consciousness' (ev_029). The costs are enormous: he told advertisers at DealBook Summit 'Go fuck yourself' (ev_019), lost 79% of Twitter's equity value (ev_055), and faced the death of his first child at 10 weeks, returning to work immediately with 'I'm not sure what sitting around being sad is going to do' (ev_041). In Heideggerian terms, this is a form of authentic being-toward-possibility that sacrifices the 'they' (das Man) for the most own possibility.",
-      "evidence_ids": [
-        "ev_005",
-        "ev_031",
-        "ev_011",
-        "ev_029",
-        "ev_019",
-        "ev_055",
-        "ev_041"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": "Extreme risk tolerance grounded in explicit acceptance of low probability of success, framing risk as necessary condition for meaningful existence",
-      "finding": "Musk's risk posture exemplifies the Heideggerian 'being-toward-death' as the condition for authentic existence. He explicitly accepted 'less than 10%' chance of success at SpaceX (ev_008), stating he 'accepted that I would probably lose everything.' He described entrepreneurship as 'eating glass' (ev_034) and said he'd 'rather commit seppuku than fail' (ev_035). Most significantly, regarding Mars colonization: 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it' (ev_023), while simultaneously stating 'I would like to die on Mars. Just not on impact' (ev_024). This is being-toward-death as the ultimate horizon that makes all other possibilities meaningful—knowing one's time is finite and uncertain, one becomes capable of genuinely choosing projects that matter. The risk posture transforms from mere bravado to existential authenticity when death is acknowledged as the most 'own' possibility ( собственность).",
-      "evidence_ids": [
-        "ev_008",
+        "ev_032",
+        "ev_038",
         "ev_034",
-        "ev_035",
-        "ev_023",
-        "ev_024",
-        "ev_028"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Consistent pattern of challenging and bypassing established hierarchies, operating through direct action and confrontation rather than institutional channels",
-      "finding": "Musk's relationship to hierarchy is one of persistent confrontation with 'the they' (das Man). He emigrated from South Africa to avoid mandatory military service under apartheid (ev_004), left Stanford after two days rather than pursue academic credentials (ev_005), was ousted as CEO of X.com during his honeymoon (ev_011), confronted the SEC directly with his 'funding secured' tweet (ev_015), and transformed Twitter by laying off 80% of the workforce (ev_018). His political shift in 2024—becoming the largest individual political donor in U.S. history at $288 million (ev_046) and leading DOGE as a 'special government employee' (ev_043)—represents seeking to reshape political hierarchy from within. In Heideggerian terms, this reflects the tension between authentic Dasein and the 'they-self' that propagates 'idle talk' (Gerede) and 'curiosity' (Neugier). Musk's refusal to accept hierarchical authority as given may represent either authentic individuality or a form of 'rebellion against the they' that remains absorbed in the they.",
-      "evidence_ids": [
-        "ev_004",
-        "ev_005",
-        "ev_011",
-        "ev_015",
-        "ev_018",
-        "ev_043",
         "ev_046"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "conflict_strategy",
-      "assessment": "Direct confrontation and escalation, often public, with minimal negotiation or delay; uses conflict as a form of clarity and purification",
-      "finding": "Musk's conflict strategy reveals a pattern of direct escalation that functions as what might be called 'purification through confrontation.' When engineers warned that Autopilot naming put lives at risk, several resigned (ev_033)—he escalated rather than negotiated. His response to advertiser criticism at DealBook Summit was 'Go fuck yourself' (ev_019). He fires people on the spot for disagreement (ev_054), sometimes rehiring days later. This pattern suggests that for Musk, conflict serves as a sorting mechanism—separating those who can accept his vision from those who cannot. In Heideggerian terms, this could represent authentic 'conflict' as disclosure (αλήθεια) that reveals true positions, but it also risks becoming a form of domination that destroys the 'Being-with' (Mitsein) essential to authentic Dasein. The Twitter layoffs and advertiser boycott represent the costs of this strategy.",
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "极端任务优先 - 为使命牺牲关系舒适度甚至个人幸福",
+      "finding": "Musk明确将使命置于关系舒适度之上。他第一个孩子Nevada Alexander出生10周后死于婴儿猝死综合症，Musk'几乎立即'回到工作（ev_048）；他表示'我不确定坐在那里悲伤能做什么'（ev_048）；他声称愿意与工人同甘共苦且'我的痛苦应该大于他们的'（ev_039）；他宣称'没人一周工作40小时改变世界'并每周工作80-100小时（ev_033）；2023年他对撤离的广告商说'去你的'（ev_051）。这种模式表明其存在方式更多是'先行于自身'（朝向未来的筹划）而非沉溺于当前的关系舒适，符合本真性的某些面向但也可能陷入极端的工作异化。",
       "evidence_ids": [
+        "ev_048",
+        "ev_039",
         "ev_033",
-        "ev_019",
-        "ev_054",
+        "ev_051",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "极端风险承担者 - 接受高失败概率并拥抱存在危险",
+      "finding": "Musk对风险的态度近乎存在主义式的极端。他评估SpaceX成功概率'低于10%'并'接受可能失去一切'（ev_011）；他说创业是'凝视深渊并吃玻璃'（ev_018）；他声称'宁愿切腹也不失败'（ev_019）；在火星殖民演讲中，他承认首批旅程'风险很高，死亡率很高'并问听众'你准备好去死了吗'（ev_028）；他愿意投入全部资金并借钱付租金（ev_014）。这种姿态体现了海德格尔'向死而在'(Being-toward-Death)的核心洞见：意识到死亡的必然性使此在获得本真的紧迫性，敢于承担常规情况下不敢承担的风险。",
+      "evidence_ids": [
+        "ev_011",
         "ev_018",
-        "ev_055"
+        "ev_019",
+        "ev_028",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "反叛既有权力结构 - 摧毁旧秩序而非在其中攀升",
+      "finding": "Musk与等级权力结构的关系是对抗性的。2000年他被PayPal董事会休假期间解雇（ev_009）；他评论'这就是度假的问题'显示其对被操控的不满；2022年他收购Twitter后大规模裁员并称'鸟已解放'（ev_047）；2023年他对广告商爆粗口（ev_051）；他公开支持特朗普并成为美国历史上最大个人政治捐赠者（ev_053）。他似乎倾向于摧毁既有权力结构而非在其中攀升，这符合存在主义对'常人'(das Man)统治的批判——无人格的权力形式。他通过建立自己的公司帝国来创造新的权力中心。",
+      "evidence_ids": [
+        "ev_009",
+        "ev_047",
+        "ev_051",
+        "ev_053",
+        "ev_054"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": " escalate and confront - 公开对抗而非协商或延迟",
+      "finding": "Musk处理冲突的方式是公开对抗和升级。他与SEC的冲突导致证券欺诈诉讼最终和解（ev_041）；他与Tesla工程师在Autopilot命名上存在持续冲突（ev_032）；他在DealBook峰会上对广告商使用粗俗语言（ev_051）；Isaacson记录了他反复出现的'demon mode'——他会解雇员工、摧毁团队工作、要求不可能的截止日期（ev_050）。这种策略倾向于将冲突外化为公开对抗，而非内部协商或延迟处理。这可能是在面对'常人'世界压力时的本真反应，但也可能导致关系结构的破坏。",
+      "evidence_ids": [
+        "ev_041",
+        "ev_032",
+        "ev_051",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale time horizon extending to cosmic and geological timescales, dwarfing conventional long-term planning to make human civilization a multi-million year project",
-      "finding": "Musk's time horizon is unique in its cosmic scope. He speaks of 'history bifurcating' along two paths—one leading to extinction, the other to 'a multi-planetary species' (ev_022). His hope for the Tesla Roadster 'drifting apparently endlessly through space... discovered by an alien race millions of years in the future' (ev_021) reveals temporal horizons that exceed normal human planning by orders of magnitude. His 'duty to maintain the light of consciousness, to make sure it continues into the future' (ev_029) is explicitly civilizational. He wants to die on Mars 'not on impact' (ev_024)—having lived a full life on another planet. This is being-toward-death in its most genuine form: living toward an end that gives meaning to the entire arc of existence. The timeline extends beyond individual life, beyond generational concern, to species-level existence across millennia. In Heideggerian terms, this represents authentic temporality where the future is not an extension of the present but a genuine 'projection' (Entwurf) into possibility.",
+      "assessment": "mission-scale - 面向数十年甚至世纪的宏大时间视野",
+      "finding": "Musk的时间视野远超常规商业规划。他在2016年国际宇航大会上提出火星殖民计划，目标是将移民成本降至约20万美元并承认首批旅程危险（ev_027, ev_028）；他阐述'历史将沿两个方向分叉——或者我们永远留在地球直到某天灭绝，或者成为星际文明和多行星物种'（ev_029）；Neuralink项目旨在将人脑与AI融合，跨越数十年（ev_030）。这种时间尺度符合海德格尔所言的时间性(Temporality)结构——此在的存在是'向未来的筹划'，但Musk的时间视野是极端面向未来的，甚至可能忽视了当前的'沉沦'。",
       "evidence_ids": [
-        "ev_022",
-        "ev_021",
+        "ev_027",
+        "ev_028",
         "ev_029",
-        "ev_024"
+        "ev_030"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Consistent preference for complete system redesign over incremental improvement, demonstrated across multiple industries and institutions",
-      "finding": "Musk's approach to problem-solving is fundamentally reconstructive rather than修补. SpaceX did not seek incremental improvement in rocket technology—it created an entirely new model of space access. Tesla did not seek to improve internal combustion engines—it created a new category of vehicle. The Boring Company tunnels under existing cities. Neuralink seeks to merge with AI rather than treat symptoms. Twitter was acquired and fundamentally restructured with 80% workforce reduction (ev_018), not reformed through policy changes. His statement 'The most common error is to optimize something that shouldn't exist' (ev_016) reveals his constant question: is this thing even necessary? If not, destroy it and rebuild. This represents what Heidegger might call 'authentic repetition' (Wiederholung)—not returning to the past but retrieving the possibility of the future by fundamentally redesigning the present. The Twitter acquisition, however, also reveals the danger: rebuilding without sufficient 'Being-with' understanding of the institution's essence led to massive value destruction (ev_055).",
+      "assessment": "极端倾向重建 - 寻求彻底的结构性变革而非局部修复",
+      "finding": "Musk的企业活动明显倾向结构性重建而非增量修补。SpaceX没有试图改进现有火箭设计，而是从零开始用不同材料建造（ev_016）；Tesla没有在现有汽车制造商框架内优化，而是重新定义了电动汽车；Hyperloop提出全新交通概念并开源（ev_022）；Boring Company试图用地下隧道重新发明城市交通；Neuralink试图从根本上改变人机交互方式。这种模式一致地寻求'根本性重新设计'而非'局部修复'，符合海德格尔所言的'决断'(Resoluteness)——对整个存在方式的重新承担，而非局部修补。",
       "evidence_ids": [
         "ev_016",
-        "ev_018",
-        "ev_055",
-        "ev_023"
+        "ev_022",
+        "ev_023",
+        "ev_030",
+        "ev_021"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Partial metacognitive awareness with notable blindspots, especially around interpersonal and relational dimensions; can recognize errors in technical domains but struggles with social cognition",
-      "finding": "Musk demonstrates a complex metacognitive profile. He explicitly acknowledged 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_014)—a retrospective cognitive correction. He reflects philosophically: 'I was around 12 or 15 when I had an existential crisis. I was reading various books on philosophy and religion and I was trying to figure out the meaning of life' (ev_051). His statement about questioning what questions to ask reveals metacognitive awareness. However, significant blindspots exist: despite explicit warnings about Autopilot (ev_033), he proceeded; despite being ousted from X.com leadership (ev_011), he repeated similar patterns at Twitter; his personal life shows isolation (ev_039). In Heideggerian terms, he may have 'fallen' (verfallen) into the technological worldview he himself creates—seeing everything through the lens of optimization and control, including people. His inability to maintain relationships despite enormous success may represent a failure of authentic self-understanding. The 'demon mode' (ev_042) suggests states where metacognitive awareness is suspended.",
+      "assessment": "部分自我觉察 - 对特定决策有反思但整体存在方式缺乏批判性审视",
+      "finding": "Musk展现出一定程度的元认知能力。他承认'特斯拉的过度自动化是个错误。人类被低估了'（ev_037）；他在某些时刻对自身行为有反思。然而，他也做出明显的非反思性行为：如420美元推文（ev_040）——一个后来承认草率的冲动决定；Isaacson记录的'demon mode'（ev_050）表明他在某些状态下会失去自我监控。他对自身存在方式缺乏系统的批判性审视——他似乎没有意识到自己可能已陷入'常人'模式（通过极端工作时长、公众形象等）。他对'良知的呼声'的回应更多是行动导向而非存在论层面的觉醒。",
       "evidence_ids": [
-        "ev_014",
-        "ev_051",
-        "ev_033",
-        "ev_011",
-        "ev_039",
-        "ev_042"
+        "ev_037",
+        "ev_040",
+        "ev_050",
+        "ev_048"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "Being-toward-extinction-as-motivational-framework",
-      "definition": "Musk's existential framework centers on the imminent threat of human extinction as the primary horizon that makes all action meaningful, transforming what Heidegger calls 'being-toward-death' into 'being-toward-species-extinction'",
-      "finding": "This is a distinctive pattern not covered by existing constructs: Musk's rhetoric consistently frames all projects within the horizon of potential human extinction. His statement that 'there will be some eventual extinction event' (ev_022) unless humanity becomes multi-planetary positions every endeavor—Tesla, SpaceX, Neuralink—as ultimately directed against species-level death. This transforms individual being-toward-death into civilizational being-toward-extinction, creating an existential framework where the certainty of death becomes the certainty of human finitude. This is more radical than standard long-term thinking; it represents the application of individual authentic existence to the species level. The limitation is that this framework may prevent authentic relationship with the present—everything becomes means to future survival rather than genuine being-amidst.",
+      "dimension_name": "向死而在 (Being-toward-Death)",
+      "definition": "海德格尔核心概念：死亡作为此在最本己的、不可逾越的可能性，如何使本真生存成为可能。认识到有限性的人更敢于承担风险。",
+      "finding": "Musk的存在方式展现出鲜明的'向死而在'特征。在2016年火星殖民演讲中，他直接回应死亡风险：'首批火星旅程将非常危险。死亡风险很高。无法回避。你准备好死了吗？如果可以，你就是候选人'（ev_028）。他将创业比作切腹（ev_019），将创业描述为'凝视深渊并吃玻璃'（ev_018），并主动暴露于极高死亡风险的活动中。这种对死亡光明正大的直面，使其获得非常人所能承受的风险承担能力。他对多行星物种的论述（ev_029）更是将个体死亡意识提升到物种层面——要么成为星际文明，要么 eventual 灭绝。这是本真生存的极端表达：将死亡的必然性转化为当下的行动紧迫性。",
       "evidence_ids": [
-        "ev_022",
+        "ev_028",
+        "ev_019",
+        "ev_018",
         "ev_029",
-        "ev_030"
+        "ev_011"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
-      "dimension_name": "Thrownness-inversion",
-      "definition": "A pattern of actively seeking to transform rather than accept one's thrownness—Musk repeatedly places himself in new thrownnesses (new countries, new industries, new roles) rather than working from a fixed situation",
-      "finding": "Musk's life reveals a distinctive pattern: rather than accepting thrownness (Geworfenheit) as Heidegger describes it, he actively generates new thrownnesses. Born in South Africa, he emigrated to Canada, then the US (ev_004, evt_006). After success in internet startups, he moved to aerospace—where he had no credentials (ev_013). After PayPal, he took on automotive (ev_014) and space (ev_013). After business success, he entered government (ev_043). Each move creates a new thrownness—new country, new industry, new role—where he must rebuild from scratch. This could represent a form of authentic projection that refuses to be defined by any fixed situation, but it also suggests difficulty with what Heidegger calls 'facticity'—the acceptance of being already thrown into a specific world. The accumulation of new thrownnesses may function as escape from the burden of actual historical situatedness.",
+      "dimension_name": "被抛性与转化 (Thrownness and Transformation)",
+      "definition": "海德格尔概念：人被抛入特定历史、文化和境遇中——我们未经选择就已经在某种处境中。关键是被抛境况如何被承担和转化。",
+      "finding": "Musk的早年生活展示了典型的'被抛性'及其转化。1971年出生于南非种族隔离制度下（ev_001）；童年遭受严重欺凌，被描述为'班上最小最年轻的孩子，是主要目标'，被推下楼梯住院（ev_002）；父亲Errol被Musk称为'一个可怕的人'，幼年选择与父亲同住后来称之为'错误'（ev_001, ev_002）。这些非选择的境况构成了他的'被抛性'。关键转化在于：17岁时他主动移民加拿大以避免参与种族隔离制度的兵役（ev_004），将被动处境转化为主动选择。他在2020年播客中说'我只想思考未来而不是悲伤'（ev_042），表明其存在方式是将被抛的苦难记忆转化为朝向未来的筹划动力。这不是对被抛性的否认，而是在承认不可控基础上的本真决断。",
       "evidence_ids": [
+        "ev_001",
+        "ev_002",
         "ev_004",
-        "evt_006",
-        "ev_013",
-        "ev_014",
-        "ev_043"
+        "ev_042",
+        "ev_048"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }

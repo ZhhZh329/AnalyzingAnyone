@@ -4,148 +4,148 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Strong world-shaper with unclear moral autonomy",
-      "finding": "Musk acts as an aggressive world-shaper, founding multiple companies aimed at fundamentally transforming humanity's trajectory (SpaceX for multi-planetary existence, Tesla for sustainable energy, Neuralink for human-AI merger). However, from a Kantian perspective, his 'shaping' appears driven more by personal vision and existential anxieties (ev_051: existential crisis at age 12-15 seeking meaning; ev_029: 'duty to maintain the light of consciousness') rather than rational autonomy in the Kantian sense—the ability to legislate universal moral law for himself. His self-description 'the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_008) reveals a willingness to act based on personal conviction regardless of probability, but this is closer to consequentialist gamble than Kantian duty-driven action.",
+      "assessment": "Musk demonstrates extreme world-shaper orientation - he creates entirely new industries and technologies rather than adapting to existing structures",
+      "finding": "Musk's career trajectory exemplifies radical world-shaping: leaving Stanford PhD after 2 days to join the Internet revolution (ev_005), founding SpaceX to build rockets from scratch after calculating he could do it for 10% of market rate (ev_010), and creating Tesla during the financial crisis when others exited. His first-principles thinking framework explicitly rejects analogy-based reasoning ('rockets have always been expensive, so they always will be') in favor of fundamental reconstruction (ev_020). This aligns with Kantian agency in that he exercises rational autonomy to set his own ends rather than merely responding to circumstances - but diverges in that Kant emphasizes duty to moral law rather than personal technological vision.",
       "evidence_ids": [
-        "ev_008",
-        "ev_022",
-        "ev_029",
-        "ev_051"
+        "ev_005",
+        "ev_010",
+        "ev_020"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Pragmatic instrumentalism, not Kantian rationalism",
-      "finding": "Musk explicitly describes his thinking as 'from a physics framework' using 'first principles rather than by analogy' (ev_025). This is fundamentally different from Kant's transcendental rationalism—he treats reason as a tool for problem-solving rather than a source of a priori moral truths. His epistemic approach is empirical and engineering-driven: calculate the physics, build the system, iterate. He does not appeal to pure reason or universal moral law in forming judgments. The closest he comes is his 'the algorithm' (ev_016), but this is a technical optimization framework, not a moral maxim-testing procedure.",
+      "assessment": "Musk employs a rationalist first-principles approach that resembles Kant's emphasis on pure reason, though applied to engineering rather than ethics",
+      "finding": "Musk explicitly describes his thinking framework as physics-based: 'Physics teaches you to reason from first principles rather than by analogy' (ev_020). This mirrors Kant's approach to knowledge - deriving conclusions from理性 (reason) rather than mere observation or authority. However, while Kant sought to derive universal moral principles, Musk applies first-principles to technical and economic problems. His claim that 'formulating the right question is harder than finding answers' (ev_031) suggests metacognitive awareness. Yet this rationalism appears selective - his Twitter behavior and Autopilot decisions show reasoning breakdowns when emotions or strategic interests intervene.",
       "evidence_ids": [
-        "ev_025",
-        "ev_016"
+        "ev_020",
+        "ev_031"
       ],
-      "local_support": "weak"
+      "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "High formalization in engineering, low in ethics",
-      "finding": "Musk demonstrates strong formalization in technical domains—his 'algorithm' is a five-step engineering process (ev_016), and his first principles approach systematizes complex problems into fundamental physics. However, he shows no evidence of applying formalization to moral reasoning. There is no indication he tests his actions against the categorical imperative or considers whether his maxims could become universal law. His moral reasoning appears ad hoc and situational rather than systematic. The gap between his rigorous engineering methodology and his casual ethical decision-making is striking from a Kantian perspective.",
+      "assessment": "High formalization in technical domains but inconsistent application to ethical reasoning",
+      "finding": "Musk demonstrates high abstraction in his technical methodology - the Hyperloop white paper (ev_024) and Mars colonization plans (ev_027) are highly systematized proposals. His first-principles thinking is itself a formal method. However, Kant would critique his ethical reasoning as insufficiently formalized: when engineers warned about 'Autopilot' and 'Full Self-Driving' branding endangering lives (ev_032), Musk prioritized marketing over consistent application of safety principles. The 'demon mode' management style (ev_050) - firing people, destroying teams' work, demanding impossible deadlines - suggests his abstraction breaks down under emotional intensity.",
       "evidence_ids": [
-        "ev_016",
-        "ev_025"
+        "ev_024",
+        "ev_027",
+        "ev_032",
+        "ev_050"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Dominating control over systems and people",
-      "finding": "Musk exhibits intense control orientation: Walter Isaacson's biography describes his 'demon mode' where he 'will fire people, destroy entire teams' work, demand impossible deadlines' (ev_042). He personally reviewed code commits to determine productivity (ev_052), gave employees ultimatum to commit to 'extremely hardcore work' (ev_053), and fired engineers on the spot for disagreeing (ev_054). Kantian self-legislation requires respecting others' autonomy—yet Musk's control explicitly subordinates others' rational agency to his will. The Kantian test would ask: would he will a universal law where leaders can fire anyone who disagrees? This would destroy the rational discourse Kant requires.",
+      "assessment": "Extremely high control orientation - exercises detailed authority over systems, people, and outcomes within his enterprises",
+      "finding": "Musk's control orientation is extensively documented: he 'fired engineers on the spot for disagreeing with him' (ev_034), 'personally intervened in production line design, often overriding his engineering team's recommendations' (ev_038), and insisted on 'Autopilot' branding despite engineering warnings (ev_032). His statement 'If the workers are suffering, I want to suffer with them' (ev_039) suggests desire for alignment rather than distant control. From a Kantian perspective, this control orientation is problematic: it treats employees as means to ends rather than respecting their autonomous judgment. Even if his stated goal is noble (saving humanity), the means - demanding 'extremely hardcore work' (ev_046) and mass layoffs - fail the humanity formula test.",
       "evidence_ids": [
-        "ev_042",
-        "ev_052",
-        "ev_053",
-        "ev_054"
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_039",
+        "ev_046"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission-priority with some Kantian rigidity but misaligned moral content",
-      "finding": "Musk clearly prioritizes mission over relational comfort: he told advertisers 'go fuck yourself' (ev_019), costing Twitter significant value (ev_055); he shifted from Democrat to $288 million Republican donor (ev_046). His stated mission is 'to maximize the probability of the future being better' (ev_030) and 'make sure [consciousness] continues into the future' (ev_029). Yet Kant would challenge the content: is his personal vision of 'better future' a universalizable maxim? He acts as if his judgment alone determines what humanity should pursue—colonize Mars, merge with AI—which bypasses the rational consensus-building Kant requires. He pays the social cost but for his own ends, not moral duty.",
+      "assessment": "Musk prioritizes mission over relational comfort to an extreme degree, willing to sacrifice personal relationships and employee wellbeing for goals",
+      "finding": "This construct shows Musk's strongest Kantian tension. His first child died at 10 weeks, and he 'returned to work almost immediately' (ev_010) - a pattern suggesting mission trumps personal grief. He describes entrepreneurship as 'staring into the abyss and eating glass' (ev_018) and would 'rather commit seppuku than fail' (ev_019). The 'demon mode' behavior destroys entire teams' work (ev_050) for mission objectives. Kant would distinguish between legitimate commitment to duty and problematic elevation of personal vision to moral imperative. Musk conflates these: his stated mission of making humanity multi-planetary is arguably a genuine moral good, but his willingness to sacrifice employees' dignity, override their judgment, and treat them instrumentally violates the humanity formula. His treatment of Twitter employees (ev_046) and confrontation with advertisers (ev_051) show mission prioritized over relationship preservation.",
       "evidence_ids": [
+        "ev_010",
+        "ev_018",
         "ev_019",
-        "ev_029",
-        "ev_030",
-        "ev_045",
+        "ev_050",
         "ev_046",
-        "ev_055"
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Extreme risk tolerance with some affinity to duty-beyond-consequences",
-      "finding": "Musk exhibits extreme risk tolerance: he accepted <10% success probability for SpaceX (ev_008), acknowledged 'high fatality risk' for Mars missions (ev_023), and said 'I'd rather commit seppuku than fail' (ev_035). This shares surface similarity with Kantian duty-beyond-consequences—the right action regardless of outcome. However, the Kantian version concerns moral duty, not personal ambition. Musk risks his own fortune and life, but also subordinates others (employees, Twitter users, government agencies) to his risk tolerance. His willingness to let others bear consequences for his mission is distinct from Kant's principled agent who accepts personal cost for universal moral reasons.",
+      "assessment": "Extreme risk tolerance - willing to lose everything for his vision, but not in service of Kantian duty",
+      "finding": "Musk explicitly accepted less than 10% probability of SpaceX success, stating 'I just accepted that I would probably lose everything' (ev_011). He invested all remaining money in Tesla: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_015). This risk-taking mirrors Kantian 'moral courage' in its independence from outcome-based calculation - he acted from principle even with high personal cost. However, Kant would question whether these actions were truly motivated by duty (serving humanity's welfare) or by what Kant would call pathological love (personal passion for achievement). Musk's own framing - 'I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad' (ev_042) - suggests personal psychological relief more than pure duty.",
       "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_035"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Insufficient evidence for meaningful Kantian analysis",
-      "finding": "The evidence provided does not clearly demonstrate Musk's orientation toward hierarchy and authority in Kantian terms—whether he treats all rational beings as having equal intrinsic dignity, or whether he differentially respects people based on status or usefulness. His power is exercised through corporate structures and government access (DOGE), but the nature of his respect (or lack thereof) for persons in these relationships is not sufficiently documented in the evidence.",
-      "evidence_ids": [],
-      "local_support": "not_applicable"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Dominance and escalation, not rational discourse",
-      "finding": "Kant requires conflict resolution through rational argumentation treating all parties as rational agents. Musk's pattern is opposite: he fires engineers who disagree (ev_054), attacks advertisers with profanity (ev_019), and engages in public feuds. His SEC lawsuit stemmed from a tweet 'funding secured' (ev_015) made without the careful rational deliberation Kant demands. The categorical imperative test: if everyone resolved conflicts by attacking or firing opponents, rational discourse would be impossible. Musk's strategy destroys the conditions for Kantian rational consensus.",
-      "evidence_ids": [
+        "ev_011",
         "ev_015",
-        "ev_019",
-        "ev_054"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "time_horizon",
-      "assessment": "Long-horizon mission focus but ethically unprincipled",
-      "finding": "Musk explicitly optimizes for multi-generational timescales: his Mars colonization plan aims to make humanity 'multi-planetary species' to ensure survival against 'eventual extinction event' (ev_022). This aligns with Kant's non-instrumental time horizon—right action isn't determined by short-term consequences. Yet Kant's morally-grounded long-term view concerns universal principles, not personal visions. Musk's 'better future' is determined by his own preferences (space colonization, AI enhancement) without evidence of rational universalization. The temporal horizon is appropriate for Kantian analysis, but the moral content is not.",
-      "evidence_ids": [
-        "ev_022",
-        "ev_023",
-        "ev_024"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for radical redesign",
-      "finding": "Musk consistently demonstrates rebuild-over-patch orientation: SpaceX built entire rocket company from scratch, Tesla vertically integrated manufacturing, Twitter was radically restructured with 80% layoffs (ev_018), DOGE applies 'corporate approach to government' (ev_043). This aligns with Kant's requirement to reconstruct from first principles rather than patch faulty foundations. However, Kant's reconstruction is moral—rebuilding the rational framework for ethics. Musk rebuilds technical and organizational systems but shows no evidence of reconstructing his moral framework. His ethical decision-making remains ad hoc despite systematic engineering approach.",
-      "evidence_ids": [
-        "ev_018",
-        "ev_043",
-        "ev_016"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "metacognition",
-      "assessment": "Engineering metacognition without moral self-examination",
-      "finding": "Musk shows sophisticated metacognition in technical domains: 'the algorithm' is explicitly a systematic thinking framework (ev_016), and first principles thinking requires constant questioning of assumptions (ev_025). Yet there is no evidence of Kantian moral metacognition—habitually asking 'can my maxim become universal law?' or honestly examining whether his motives stem from duty or self-interest. His statement 'If the workers are suffering, I want to suffer with them' (ev_012) suggests some self-examination, but this is empathy rather than moral-principle checking. He does not appear to systematically interrogate his own moral reasoning or distinguish duty from inclination.",
-      "evidence_ids": [
-        "ev_016",
-        "ev_025",
-        "ev_012"
-      ],
-      "local_support": "moderate"
-    }
-  ],
-  "emergent_constructs": [
-    {
-      "dimension_name": "Moral Instrumentality (他人作为工具 vs. 目的本身)",
-      "definition": "Kant explicitly requires treating humanity 'always as an end, never merely as a means.' This construct captures the degree to which Musk treats other people as tools for his goals versus respecting their independent rational agency. This is not explicitly covered in shared_constructs but is central to Kant's second formulation of the categorical imperative.",
-      "finding": "Evidence strongly suggests instrumentalization of people: engineers fired for disagreement (ev_054), Twitter employees given ultimatum to conform or leave (ev_053), and his statement about going to 'war' with critics (ev_019). He uses people to achieve his vision rather than respecting their autonomous decision-making. The humanity formula test: if everyone used others as means to grand visions, rational beings would be reduced to tools, contradicting their dignity as ends in themselves. Musk's pattern fails this test consistently.",
-      "evidence_ids": [
-        "ev_019",
-        "ev_053",
-        "ev_054",
         "ev_042"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "Moral Self-Exemption (自我例外主义)",
-      "definition": "The tendency to apply strict moral standards to others while exempting oneself due to 'special circumstances'—a common moral failure pattern Kant specifically warns against. This dimension captures whether Musk holds himself to the same standards he demands of others.",
-      "finding": "Musk shows patterns of self-exemption: he demands extreme work hours from employees (ev_031, ev_032, ev_053) but his personal standards are presented as exceptional due to his unique vision; he attacked the SEC for fraud rules he himself violated (ev_015); he positioned himself as necessary 'savior' for various enterprises (ev_011: 'I could either let Tesla die or put all my remaining money in it') without evidence that others should make similar sacrifices. Kant would require universalizability—if his maxims ('I can break rules when my cause is important enough') were universalized, social trust would collapse. The self-exemption pattern is a significant departure from Kantian universalism.",
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex - challenges external hierarchies while imposing internal authority; treats some authorities as having no legitimacy",
+      "finding": "Musk's relationship to hierarchy reveals contradictions: he challenged established aerospace and automotive industries by creating SpaceX and Tesla, treating existing power structures as illegitimate. Yet within his companies, he exercises authoritarian control (ev_034, ev_038). His confrontation with SEC (ev_041) shows willingness to challenge external regulatory authority. The 2024 political donation (ev_053) and DOGE role (ev_032) represent new hierarchical alignments. Kantian ethics demands equal respect for all rational beings' dignity regardless of status - Musk's pattern of dismissing employees' safety concerns (ev_032), treating advertisers dismissively (ev_051), and marginalizing those who disagree suggests hierarchy influences his respect. He treats some persons as having instrumental rather than intrinsic value when they impede his mission.",
       "evidence_ids": [
-        "ev_015",
-        "ev_031",
         "ev_032",
-        "ev_011",
+        "ev_034",
+        "ev_038",
+        "ev_041",
+        "ev_051",
         "ev_053"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Predominantly escalation and confrontation rather than rational negotiation; uses power and dismissiveness more than Kantian dialogue",
+      "finding": "Musk's conflict strategy diverges sharply from Kantian ideal: he resolves disputes through confrontation rather than rational dialogue. His response to advertisers who left Twitter was 'Go fuck yourself' (ev_051). He fired employees who disagreed (ev_034), fought the SEC (ev_041), and has ongoing public feuds. While he does engage in public reasoning (his Mars talks, white papers), his pattern when facing opposition is escalation or dismissal rather than seeking consensus through argument. Kant requires treating conflict opponents as rational agents worthy of persuasion, not adversaries to be defeated or silenced. Musk's 'demon mode' (ev_050) treats disagreement as grounds for destruction rather than dialogue.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_041",
+        "ev_050",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon - optimizing for multi-generational goals like Mars colonization rather than short-term profit",
+      "finding": "Musk's stated time horizon is extraordinarily long: his Mars colonization vision frames humanity's future across centuries (ev_029), with costs targeted to median house price (ev_027) and explicit acknowledgment that early journeys will be dangerous (ev_028). He explicitly contrasts this with short-term thinking: 'Nobody ever changed the world on 40 hours a week' (ev_033). This aligns with Kant's non-instrumental time orientation in that the moral rightness of actions doesn't depend on temporal outcomes - but Kant would insist the criterion is duty, not technological ambition. The gap: Musk's long-term goals are instrumental (saving humanity through technology) rather than moral (becoming a morally worthy person through duty).",
+      "evidence_ids": [
+        "ev_027",
+        "ev_028",
+        "ev_029",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong rebuild orientation - prefers fundamental reinvention over incremental improvement",
+      "finding": "Musk's engineering philosophy exemplifies rebuild: SpaceX was founded because Musk calculated rockets could be built for 10% of market rate (ev_010) rather than accepting industry pricing. His first-principles thinking explicitly rejects 'it's always been done this way' (ev_020). The Hyperloop was open-sourced (ev_022) rather than built incrementally within existing transportation paradigms. Tesla represents fundamental automotive reinvention. This matches Kantian systematic thinking in its demand for coherent principles rather than patchwork solutions. However, his ethical approaches sometimes show the opposite - patching over problems with public relations rather than addressing root causes. The Twitter acquisition and subsequent management (ev_046, ev_047) appeared reactive rather than systematically principled.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_022",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Selective metacognition - high in technical domains, low in ethical and interpersonal domains",
+      "finding": "Musk shows sophisticated self-awareness in some domains: he credits Douglas Adams with teaching him to formulate questions properly (ev_031), explicitly describes his first-principles methodology (ev_020), and acknowledges 'excessive automation was a mistake' (ev_037). Yet his ethical metacognition appears deficient: he did not consistently apply the universal law test to Autopilot branding (would it be acceptable if all car manufacturers used potentially misleading names?), and he shows limited reflection on his treatment of employees as means rather than ends. His response to personal tragedy - 'I'm not sure what sitting around being sad is going to do' (ev_048) - suggests emotional suppression rather than reflective processing. The pattern: technical metacognition is high, ethical metacognition is low, potentially due to ego protection - his identity is tied to being a world-shaper rather than a morally exemplary person.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_031",
+        "ev_037",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "instrumentalization_of_people",
+      "definition": "Kantian ethics requires treating humanity always as an end, never merely as a means. This dimension captures the degree to which a person treats others as tools for their own objectives versus respecting their intrinsic worth and autonomous judgment.",
+      "finding": "Musk exhibits a consistent pattern of treating employees, contractors, and business partners instrumentally when they serve his mission objectives. His insistence on 'Autopilot' branding despite engineering warnings (ev_032) treated customers as means to market dominance rather than ends worthy of safety protection. The mass Twitter layoffs (ev_046) and 'demon mode' destruction of teams' work (ev_050) treated human dignity as subordinate to efficiency. Even his claimed solidarity with workers ('I want to suffer with them') (ev_039) frames them as partners in his mission rather than individuals with independent worth. This is the clearest violation of Kantian ethics in Musk's profile - his noble mission of saving humanity is undermined by his failure to treat the humans he depends on as ends in themselves.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_039",
+        "ev_046",
+        "ev_050"
       ],
       "local_support": "strong"
     }

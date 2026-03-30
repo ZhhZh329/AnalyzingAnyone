@@ -3,158 +3,156 @@
   "lens": "emotion_regulation",
   "constructs": [
     {
-      "construct_key": "default_regulation_strategy",
-      "assessment": "Uses intense cognitive reappraisal and high arousal engagement rather than suppression or avoidance",
-      "finding": "Musk's primary emotion regulation strategy appears to be cognitive reappraisal at the extreme end—he reframes suffering as necessary ('eating glass', 'summoning the demon') and actively seeks high-arousal situations rather than avoiding them. He does not suppress emotional expression (ev_019 shows public anger宣泄; ev_054 shows impulsive firing). His pattern suggests 'action-as-regulation'—processing emotions through intense work rather than reflection or relationship. Evidence includes his return to work immediately after his first child's death (ev_041), his description of work as the primary coping mechanism, and his 80-100 hour workweeks as baseline rather than crisis response (ev_032).",
-      "evidence_ids": [
-        "ev_041",
-        "ev_032",
-        "ev_019",
-        "ev_054",
-        "ev_034",
-        "ev_026"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "tolerance_window_width",
-      "assessment": "Very wide tolerance window with extreme oscillation between hyperarousal and functional intensity",
-      "finding": "Musk demonstrates exceptionally wide emotional tolerance—he functioned through SpaceX launch failures (2006-2008), Tesla near-bankruptcy (2008), Model 3 production hell (2018), SEC lawsuit, and Twitter crisis without visible collapse. However, his window shows dramatic oscillation: 'demon mode' episodes (ev_042) represent hyperarousal bursts where he destroys teams' work and fires people impulsively, while his reported emotional flatness around his son's death (ev_40, ev_41) suggests periods of hypoarousal. His capacity to work 120-hour weeks while sleeping on factory floors (ev_056) indicates extremely high activation tolerance, but the 'demon mode' pattern reveals the edges of his window are volatile—once activated, he struggles to modulate back to baseline.",
-      "evidence_ids": [
-        "ev_042",
-        "ev_056",
-        "ev_010",
-        "ev_013",
-        "ev_015",
-        "ev_040",
-        "ev_041"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "autonomic_state_pattern",
-      "assessment": "Chronic sympathetic dominance with limited ventral vagal social engagement capacity",
-      "finding": "Musk's autonomic pattern appears dominated by sympathetic activation—constant high alertness, competitive stance, fight responses to challenges (ev_019 'go fuck yourself', ev_054 firing dissenters). His public behavior rarely shows ventral vagal social engagement warmth; instead he uses hierarchy and control to manage relationships. However, his stated purpose orientation (ev_029 'maintain the light of consciousness', ev_030 'maximize probability of future being better') and his willingness to engage in long interviews suggest some ventral capacity exists but is subordinated to mission. The pattern is action-oriented sympathetic—'doing' rather than 'connecting' as primary emotional mode.",
-      "evidence_ids": [
-        "ev_029",
-        "ev_030",
-        "ev_019",
-        "ev_054",
-        "ev_042"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "emotional_granularity",
-      "assessment": "Low emotional granularity; uses broad categories rather than nuanced differentiation",
-      "finding": "Musk appears to have low emotional granularity—he treats all negative emotions as problems to solve rather than information to decode. He doesn't visibly distinguish between anxiety, fear, disappointment, or vulnerability in his public processing; they are all 'obstacles' to be eliminated through action. His self-statements focus on extreme binaries: success/failure, eating glass or triumph, 'demon mode' on/off (ev_042). The absence of nuanced emotional vocabulary in his documented statements suggests he processes emotions as intensity levels rather than qualitative states. This limits his ability to use emotions as informational signals—instead he responds to 'high stress' as a monolithic state requiring action rather than parsing what the feeling means.",
-      "evidence_ids": [
-        "ev_042",
-        "ev_034",
-        "ev_035",
-        "ev_031"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "co_regulation_dependence",
-      "assessment": "Extremely self-reliant; minimal co-regulation, high isolation in emotional processing",
-      "finding": "Musk shows extremely limited co-regulation reliance—he explicitly chose to sleep at the factory during crisis rather than seek support (ev_056), and his statement 'I want to suffer with them' (ev_012) frames suffering as shared activity rather than supported processing. His pattern suggests he processes emotions primarily alone through work immersion. His relationships are notably unstable (multiple divorces, limited close friends reported). He seems to lack both the practice and possibly the skill for co-regulation—his solution to emotional difficulty is more action, not connection. This creates a vulnerability: without co-regulation buffering, his sympathetic activation can escalate unchecked (as in 'demon mode').",
-      "evidence_ids": [
-        "ev_056",
-        "ev_012",
-        "ev_039"
-      ],
-      "local_support": "moderate"
-    },
-    {
       "construct_key": "agency_orientation",
-      "assessment": "Clear world-shaper orientation; creates new realities rather than responding to existing structures",
-      "finding": "While this falls under shared_constructs analysis, from emotion regulation lens: Musk's worldview treats reality as malleable—he regulates emotions by changing the world rather than adapting to it. His emotion regulation IS action: founding companies, building rockets, colonizing Mars. When faced with emotional challenges (bully childhood, difficult father, business failures), his pattern is not to regulate the internal state but to create external solutions. This is reflected in his first principles approach (ev_025)—he doesn't adapt to constraints, he reconstructs from base assumptions. His emotion regulation strategy mirrors his business strategy: rebuild rather than repair.",
+      "assessment": "极度主动型 - Musk 是典型的世界塑造者，持有强烈的能动性信念",
+      "finding": "Musk 的行为模式清晰地展现了一个世界塑造者的核心特征：他不是被动响应现有结构，而是主动创造新系统来改变现实。证据包括他自愿承担不到10%成功概率的风险（ev_011），将全部身家投入 Tesla 和 SpaceX（ev_015），以及公开声称创业如同'凝视深渊并吞食玻璃'（ev_018）。他明确表示愿意切腹自尽也不愿失败（ev_019），这种极端表述揭示了他对自身改变世界能力的深层信念——他认为情绪是可以而且应该被控制的，而非被动承受。",
       "evidence_ids": [
-        "ev_025",
-        "ev_001",
-        "ev_002",
-        "ev_008"
+        "ev_011",
+        "ev_015",
+        "ev_018",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "第一性原理导向 + 情绪化冲动决策的混合风格",
+      "finding": "Musk 在认知风格上展现出明显的张力：一方面他明确阐述第一性原理思维来源于物理学框架，从基本事实而非类比推理（ev_020），这代表高度理性主义的认知方式；另一方面，他的行为记录显示大量冲动性决策——如 420 美元私有化推文（ev_040）、' demon mode'下摧毁团队工作（ev_050）、以及在俄罗斯旅行中现场创建电子表格计算火箭成本（ev_010）。这种认知风格的双重性表明：Musk 在系统性分析问题上高度理性，但在情绪驱动下会快速切换到冲动决策模式。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_040",
+        "ev_010",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "高度抽象化和系统化思维偏好",
+      "finding": "Musk 展现出对抽象化和形式化系统的高度偏好。他创建的公司涉及复杂的工程技术（火箭、脑机接口、电动汽车），并在多个领域推动形式化系统的发展。他将第一性原理思维应用于商业决策，从物理学的角度看问题（ev_020）。他发布 Hyperloop 白皮书（ev_024）并开源该概念，表现出对抽象概念传播而非具体执行的偏好。这一切都指向他倾向于构建形式化、系统化的解决方案，而非处理具体的人际或情感问题。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_024",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "极高控制倾向 - 倾向于全面掌控系统和人员",
+      "finding": "Musk 的控制取向表现在多个层面：对产品的控制（坚持'Autopilot'和'Full Self-Driving'品牌名，尽管工程师警告危险（ev_032）），对生产的直接干预（经常绕过工程团队做生产决策（ev_038）），以及对人员的控制（当面解雇持不同意见的工程师，有时几天后重新雇用（ev_034））。这种极端控制导向与 Porges 理论中交感神经系统主导的表现一致——持续警觉、防御、竞争性行为。Musk 需要对复杂系统保持绝对控制，这可能是早期经历中缺乏控制感的补偿机制。",
+      "evidence_ids": [
+        "ev_032",
+        "ev_038",
+        "ev_034"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission overwhelmingly prioritized; relational costs systematically accepted or ignored",
-      "finding": "Musk systematically prioritizes mission over relational comfort—evidenced by: working through his infant's death (ev_041), 120-hour weeks during marriages (ev_028), Twitter acquisition that cost 79% equity value and destroyed relationships (ev_055), public confrontation with advertisers (ev_019). He explicitly frames personal cost as necessary (ev_012 'my suffering should be greater than theirs', ev_031 'nobody changed the world on 40 hours'). The pattern suggests emotional regulation is subordinated to mission achievement—relational harm is processed as acceptable cost rather than regulated. His relationships bear the cost of his emotional regulation through work rather than connection.",
+      "assessment": "极度使命优先 - 愿意承担巨大的人际关系代价",
+      "finding": "Musk 的行为模式清楚地表明他将使命追求置于人际关系之上。2018 年 Model 3 生产危机期间，他住在工厂每周工作 120 小时，表示'如果工人在受苦，我愿意与他们同甘共苦。我的痛苦应该比他们更大'（ev_039）。他将工作描述为'凝视深渊并吞食玻璃'（ev_018），并声称'没有人能靠每周40小时改变世界'（ev_033）。这种使命导向的代价包括：与第一个孩子的死亡后'几乎立即'返回工作（ev_048）、多次婚姻失败、以及与员工的冲突。他的行为模式表明他系统性地压抑关系需求以推进使命，长期可能导致情绪耗竭。",
       "evidence_ids": [
-        "ev_041",
-        "ev_012",
-        "ev_031",
-        "ev_019",
-        "ev_055",
-        "ev_028"
+        "ev_039",
+        "ev_018",
+        "ev_033",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "极端风险承担者 - 愿意押注全部资源于高风险目标",
+      "finding": "Musk 的风险承担行为达到了极端水平。在 SpaceX 第三次发射失败后，他表示'我的钱只够再试一次'（ev_013），他承认成功概率低于 10%但'接受我可能会失去一切'（ev_011）。2008 年金融危机期间，他需要向朋友借钱付房租（ev_014），同时将所有剩余资金投入 Tesla（ev_015）。这与 Porges 理论中描述的持续交感神经激活状态一致——处于高度唤醒的战或逃模式。他对风险的感知似乎被一种强烈的使命感所驱动：恐惧使他高估风险但他仍采取行动，这提示他的风险判断可能受到情绪调节异常的影响。",
+      "evidence_ids": [
+        "ev_013",
+        "ev_011",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "挑战权威型 - 通过创建自己的等级制度来对抗现有权力结构",
+      "finding": "Musk 与权力等级的关系呈现出矛盾模式：他公开挑战现有权威结构（离开南非避免参与种族隔离制度的军事征兵（ev_004），批评传统汽车和航空工业），但同时在自己的组织内建立绝对权威（' demon mode'（ev_050）、解雇不同意他的工程师（ev_034））。这种模式表明他内化了一套权力情绪脚本：在面对更高权力时使用成就来证明现有等级不合理，在面对下属时则直接行使权力。这与早期经历相关——他在情感虐待的父亲手中经历了权力滥用，后来选择居住在父亲身边被描述为'一个错误'（ev_001）。",
+      "evidence_ids": [
+        "ev_004",
+        "ev_050",
+        "ev_034",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "直接对抗型 - 倾向于正面冲突和极端解决方式",
+      "finding": "Musk 的冲突策略以直接对抗为特征，这与他描述的' demon mode'一致——他会解雇人员、摧毁整个团队的工作、要求不可能的截止日期（ev_050）。他当面解雇工程师（ev_034），在公开场合对广告商说'去你的'（ev_051）。这种模式与 Porges 理论中描述的杏仁核劫持症状相似——在冲突中被情绪劫持，进入战或逃模式，失去理性对话能力。然而，值得注意的是，他也能在某些情况下展现耐心（如第三次发射失败后坚持继续），这表明他的冲突策略更多是情境触发的情绪调节失败，而非固定模式。",
+      "evidence_ids": [
+        "ev_050",
+        "ev_034",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale time horizon (decades to centuries); short-term emotional comfort systematically sacrificed",
-      "finding": "Musk's emotional regulation operates on mission-scale timeframes—he accepts short-term suffering for long-term existential goals. His Mars colonization vision (ev_022, ev_023, ev_024) explicitly accepts current suffering for future species survival. He funds SpaceX despite 90% failure probability (ev_008), works through near-bankruptcy for future capability (ev_010). This creates a specific emotional pattern: short-term emotional regulation is dismissed as distraction; only mission-scale outcomes matter. This explains his tolerance for personal cost and his dismissal of conventional emotional self-care—within his framework, such 'comfort' is counterproductive to multi-generational goals.",
+      "assessment": "使命尺度 - 思考多行星文明和人类意识的长期存续",
+      "finding": "Musk 的时间视野远超常规商业领袖，延伸到物种和文明层面。他在 2016 年国际宇航大会上阐述火星殖民计划时，将移民成本降至约 20 万美元，并承认首批旅程风险极高（ev_027, ev_028）。他将历史描述为沿两个方向分叉——'一个方向是我们永远留在地球上，然后会发生某种最终的灭绝事件。另一种是成为太空文明和多行星物种'（ev_029）。他明确表示'我们有责任维护意识的火光'（ev_043）。这种使命尺度的时间观解释了为什么他愿意承担极端个人风险——他在优化远超短期利润甚至个人生命的长期目标。",
       "evidence_ids": [
-        "ev_022",
-        "ev_023",
-        "ev_024",
-        "ev_008",
-        "ev_010",
-        "ev_030"
+        "ev_027",
+        "ev_028",
+        "ev_029",
+        "ev_043"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for fundamental redesign over incremental repair—across technology and emotion",
-      "finding": "Musk's emotion regulation pattern mirrors his engineering approach: rebuild rather than patch. He doesn't do gradual emotional adjustment—his 'algorithm' (ev_016) applies to teams and self: optimize or eliminate. When facing emotional challenges, his response is not to regulate the feeling but to fundamentally change the situation (founding new companies, pivoting strategies, eliminating people). This applies to relationships too—he doesn't patch, he rebuilds (or destroys). The pattern suggests he lacks patience for gradual emotional processing; when emotion arises, the response is radical action to change the generating system rather than work within it.",
+      "assessment": "偏好系统性重建 - 倾向于创建全新系统而非改进现有系统",
+      "finding": "Musk 的商业策略明显偏好系统性重建而非局部修补：他创建了 SpaceX（全新的私人火箭公司）、Tesla（重新定义汽车行业）、Neuralink（脑机接口）、The Boring Company（地下交通）、OpenAI（AI研究）。他将 Hyperloop 概念开源而非自己建设（ev_022），表示'我只是想让人们知道这是可能的'（ev_023）。这种模式与他在工程中的干预风格一致——经常绕过现有团队重新设计生产线（ev_038）。他偏好从零开始构建新系统，反映了对其认为已经僵化的现有体系的根本性质疑。",
       "evidence_ids": [
-        "ev_016",
-        "ev_042",
-        "ev_054"
+        "ev_022",
+        "ev_023",
+        "ev_038"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Partial metacognitive awareness; recognizes patterns but struggles to change them",
-      "finding": "Musk shows some metacognitive capacity—he acknowledges 'demon mode' exists (ev_042), describes his management as destructive yet effective, admits 'humans are underrated' after automation failures (ev_014). He has language for his patterns. However, evidence suggests limited adaptive metacognition—he repeats destructive patterns despite awareness. His public statements don't show evidence of actively monitoring and adjusting his emotional responses in real-time; rather, he seems to process after the fact. The pattern is: aware-of-but-not-changing, suggesting either limited executive capacity to implement metacognitive insights or a belief that changing patterns would compromise mission effectiveness. The 'demon mode' persists despite documented awareness.",
+      "assessment": "低元认知 - 有限的自省和情绪模式意识",
+      "finding": "关于 Musk 的元认知能力，证据显示有限的自省意识。他对自身情绪模式的描述很少——他更倾向于讨论物理学框架（ev_020）而非情感模式。他表示'我不知道坐着悲伤能做什么'（ev_048），并声称'我只是想思考未来而不是悲伤'（ev_042）——这些表述反映了一种倾向，即将情绪视为需要克服的障碍而非需要理解的信息。他承认'有很多夜晚我独自入睡'（ev_049），这表明存在情感孤独感，但他似乎没有将这种模式与他早期创伤经历（童年虐待、父亲虐待）联系起来进行反思。元情绪方面，他对自身情绪的反应似乎主要是压抑而非好奇或接纳。",
       "evidence_ids": [
+        "ev_048",
         "ev_042",
-        "ev_014",
-        "ev_054"
+        "ev_049",
+        "ev_001"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "emotional_utility_function",
-      "definition": "Whether emotions are valued as instrumental (useful for goals) vs. intrinsic (valued in themselves). Musk treats emotions as purely instrumental—heavy reappraisal, suppression of 'inconvenient' emotions for mission. This differs from emotional suppression (blocking expression) by being cognitive: reframing emotions as irrelevant or counterproductive rather than blocking them. This constructs a specific vulnerability: emotions that don't serve mission become unregistered, leading to emotional information loss.",
-      "finding": "Musk's emotional utility function is exclusively instrumental—he explicitly prioritizes mission over emotional comfort (ev_012, ev_031), describes suffering as necessary rather than undesirable, and treats emotional states as obstacles to be overcome or ignored rather than signals to be processed. His statement 'I don't know what sitting around being sad is going to do' (ev_041) reveals this explicitly—emotions without utility are dismissed. This creates a population: emotional information that doesn't serve mission (grief, fear about personal risk, relational needs) is systematically under-processed, creating accumulation risk.",
+      "dimension_name": "情绪压抑即战略资源",
+      "definition": "Musk 将情绪压抑视为高效完成使命的必要工具，而非需要调节的信号。这种模式在神经层面表现为持续的交感神经激活和腹侧迷走神经社交参与功能的抑制。",
+      "finding": "这一维度揭示了 Musk 情绪调节的核心特征：功能性情绪压抑。第一孩子 Nevada Alexander 在 10 周大时死于婴儿猝死综合症后，Musk '几乎立即'返回工作，并表示'我不确定坐着悲伤能做什么'（ev_048）。他在 Joe Rogan 播客中说'我只是不想悲伤，只想思考未来'（ev_042）。这些表述反映了一种工具性情绪观——情绪是有待克服的障碍，而非携带信息的有机体验。这种调节模式短期可提高任务聚焦度，但长期可能导致身心症状和关系断裂。",
       "evidence_ids": [
-        "ev_041",
-        "ev_012",
-        "ev_031",
-        "ev_014"
+        "ev_048",
+        "ev_042",
+        "ev_049"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "public_private_emotional_divergence",
-      "definition": "The gap between public emotional expression and private emotional processing. Musk shows extreme divergence—publicly volatile (tweets, confrontations) while private processing is channeled entirely through work. This creates a specific pattern: public emotional expressions may be performance or release rather than regulated processing, while actual emotional regulation happens only through work immersion. The public volatility may serve as pressure-release for accumulated private unprocessed affect.",
-      "finding": "Musk demonstrates stark public-private emotional divergence: his public emotional expressions (SEC tweet, advertiser confrontation, 'demon mode' rages) appear as unfiltered releases rather than regulated expressions, while his private emotional processing happens exclusively through extreme work immersion. He has no documented private emotional processing (therapy, reflection, relationship-based regulation). The pattern suggests his public volatility may be a pressure-release mechanism for emotions that accumulate due to limited private processing—creating a cycle of accumulation-release without true regulation. This explains both his public explosions and his capacity to function under extreme sustained pressure: emotional processing is deferred until public overflow.",
+      "dimension_name": "情绪调节的情境性断裂",
+      "definition": "Musk 在不同情境下展现出极端不一致的情绪调节能力——在某些情境下能高度自控，在另一些情境下则完全失控。这种模式反映了其自主神经系统在不同状态间的剧烈振荡。",
+      "finding": "这一维度解释了 Musk 行为中最大的谜团——为什么一个能多年每周工作 120 小时、同时管理多家公司的人，会在 Twitter 上发布导致 SEC 起诉的冲动推文（ev_040），或在 DealBook 峰会上对广告商爆粗口（ev_051）。Isaacson 将其描述为'demon mode'：当处于这种状态时，他会'解雇人员、摧毁整个团队的工作、要求不可能的截止日期'（ev_050）。这种在极端自控和极端失控之间的振荡，表明他的情绪耐受窗可能非常窄，导致在低激活（超专注工作）和高激活（冲动爆发）之间来回摆荡，而非保持在稳定的中间地带。",
       "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_042",
-        "ev_056",
-        "ev_032"
+        "ev_040",
+        "ev_051",
+        "ev_050"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }

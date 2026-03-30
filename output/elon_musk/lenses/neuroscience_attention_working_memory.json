@@ -4,176 +4,167 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Highly autonomous attention control - Musk actively shapes his information environment rather than reacting to external stimuli",
-      "finding": "Musk demonstrates strong autonomous attention orientation through his pattern of creating his own information ecosystems. Rather than following established paths (dropping out of Stanford after 2 days, ev_005), he directs attention toward self-defined objectives. His first principles thinking approach (ev_025) reflects active information filtering rather than analogy-based responding. However, his attention can be hijacked by specific obsessions - his 'demon mode' management pattern (ev_042) shows periods where attention becomes externally driven by intense emotional states rather than strategic goals.",
+      "assessment": "高度主动导向的注意力控制者，表现出世界塑造者特质",
+      "finding": "Musk展现出极强的注意力主动控制能力。从12岁自学编程并开发游戏（ev_003），到1995年主动从斯坦福博士项目退学投身互联网革命（ev_005），再到同时管理SpaceX、Tesla、Neuralink等多家公司，他持续选择主动塑造世界而非被动响应结构。他的第一性原理思维方法（ev_020）本身就是一种主动认知策略——从基本物理事实出发推理而非依赖类比，这需要高度专注的注意力控制来抵制传统思维的牵引。",
       "evidence_ids": [
+        "ev_003",
         "ev_005",
-        "ev_025",
-        "ev_042"
+        "ev_020",
+        "ev_033"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Mixed modality - strong verbal-analytic processing with significant visuospatial components",
-      "finding": "Musk shows clear verbal-analytic WM preference through his first principles reasoning approach (ev_025 - physics framework), his extensive use of written communication (tweets, white papers), and his systematic five-step engineering process (ev_016). However, his visuospatial WM is equally developed - evidenced by his ability to conceptualize complex 3D systems like rockets, cars, and tunnels mentally before execution. His comment about the Tesla Roadster drifting in space (ev_021) reveals vivid visuospatial imagination integrated with his mission-oriented thinking.",
+      "assessment": "偏向言语-分析型与视空间直觉型的混合，物理框架主导",
+      "finding": "Musk的WM偏好模态呈现独特混合特征。第一性原理思维（ev_020）体现典型的言语-分析模式，通过逻辑推理从基本事实构建理解。他同时展现出强大的空间思维——火星殖民计划（ev_027-029）、Hyperloop设计（ev_024）、Boring Company的隧道工程都需要高度发达的视空间画板。更关键的是，他将物理学框架作为认知核心（\"physics teaches you to reason from first principles\"），这种跨模态整合能力表明情景缓冲器的高效运作。",
       "evidence_ids": [
-        "ev_016",
-        "ev_021",
-        "ev_025"
+        "ev_020",
+        "ev_024",
+        "ev_027",
+        "ev_031"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "High abstraction preference with strong formalization tendency - uses first principles as the most abstract foundation",
-      "finding": "Musk's cognitive architecture strongly favors abstraction. His first principles thinking (ev_025) represents the most extreme form of abstraction - stripping problems to fundamental physics. This is evident in his approach to SpaceX (calculating rocket costs from raw materials rather than market rates), Hyperloop (white paper published to show it was possible, ev_050), and his Mars colonization vision. His five-step 'algorithm' (ev_016) with 'The most common error is to optimize something that shouldn't exist' reflects deep abstract reasoning about problem definition itself. He shows the capacity to hold multiple abstract levels simultaneously.",
+      "assessment": "高度抽象化与形式化偏好，同时具备强组块化能力",
+      "finding": "Musk表现出对抽象框架的强烈偏好。第一性原理思维本身就是将具体问题抽象到基本物理原理层次的认知策略（ev_020）。他将火星殖民问题组块化为核心成本目标——\"约20万美元\"（ev_027），将多行星物种议题抽象为\"历史分叉\"的二元选择（ev_029）。Hyperloop白皮书（ev_024）展示了他将复杂交通系统形式化为57页技术文档的能力。这种抽象化倾向与他的WM容量使用策略密切相关——通过将复杂信息压缩为少数关键组块来管理认知负荷。",
       "evidence_ids": [
-        "ev_016",
-        "ev_025",
-        "ev_049",
-        "ev_050"
+        "ev_020",
+        "ev_024",
+        "ev_027",
+        "ev_029"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Extreme control orientation - seeks tight control over systems, people, and outcomes",
-      "finding": "Musk demonstrates the strongest control orientation in the attention-working memory framework. Evidence includes his personal code review at Twitter (ev_052) to determine productivity, his pattern of firing engineers on the spot for disagreement (ev_054), and his ultimatum to Twitter employees demanding 'extremely hardcore work' (ev_053). During the Model 3 crisis, he moved into the factory and slept on the production floor (ev_056), maintaining direct oversight. His 'demon mode' (ev_042) represents a control malfunction where the need for control overrides rational judgment. This likely compensates for the perceived loss of control following his ousting as X.com CEO (ev_007).",
+      "assessment": "极端紧密的注意力控制，表现为高支配性与即时干预倾向",
+      "finding": "Musk展现出极度紧密的注意力控制模式。证据显示他在\"demon mode\"下会\"fire people, destroy entire teams' work, demand impossible deadlines\"（ev_050），并经常绕过工程团队直接做生产决策（ev_038）。Model 3危机期间他住在工厂车间每周工作120小时（ev_024），亲自干预生产线设计（ev_038）。这种控制导向在工作超负荷时表现为过度专注的\"隧道视野\"，导致2018年SEC诉讼中的冲动推文行为（ev_040-041）。他同时运营多家公司需要持续的注意力分配控制，这对他的执行控制网络构成持续高负荷。",
       "evidence_ids": [
-        "ev_007",
-        "ev_042",
-        "ev_052",
-        "ev_053",
-        "ev_054",
-        "ev_056"
+        "ev_038",
+        "ev_040",
+        "ev_041",
+        "ev_050",
+        "ev_024"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Very high mission priority - mission success frequently overrides relational considerations",
-      "finding": "Musk consistently prioritizes mission over relational comfort, often to extreme degrees. His immediate return to work after his son Nevada's death at 10 weeks (ev_040, ev_041) exemplifies this. His statement 'There are many nights I sleep alone' (ev_039) reflects relational costs. The Autopilot naming controversy (ev_033, ev_025) shows he pressed forward with marketing despite engineer warnings, and his confrontational 'Go fuck yourself' to advertisers (ev_019) prioritized message over business relationships. His Twitter acquisition resulted in laying off 80% of the workforce (ev_018). However, his statement 'If the workers are suffering, I want to suffer with them' (ev_012) suggests a complex relationship where mission includes shared suffering rather than pure instrumentalization of others.",
+      "assessment": "高度任务导向，频繁牺牲关系舒适度",
+      "finding": "Musk的注意力分配明显优先于任务目标而非人际关系。他承认\"If the workers are suffering, I want to suffer with them\"（ev_039），但这更多是任务共情而非关系维护。他因工程团队不同意其观点而解雇工程师（ev_032），在Twitter收购后立即裁员80%并要求\"extremely hardcore work\"（ev_046）。第一性原理思维驱动的决策往往忽视社会接受度——如2014年警告AI风险（ev_025）、2023年对广告商\"Go fuck yourself\"的回应（ev_051）都显示他愿意承担社交关系成本来维护其 mission。",
       "evidence_ids": [
-        "ev_012",
-        "ev_018",
-        "ev_019",
-        "ev_033",
+        "ev_032",
         "ev_039",
-        "ev_040"
+        "ev_046",
+        "ev_051",
+        "ev_025"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "High risk tolerance but with calibrated probability assessment - alert to threats but accepts high-risk paths",
-      "finding": "Musk's risk posture shows complex patterns. His statement that SpaceX had 'less than 10%' chance of success (ev_008) demonstrates calibrated probability assessment - he doesn't ignore risk, he accepts it consciously. He described entrepreneurship as 'eating glass' (ev_034) and said he'd 'rather commit seppuku than fail' (ev_035), showing high threshold for suffering. However, his risk assessment appears to be filtered through mission importance - he accepted enormous personal financial risk (borrowing money for rent, ev_010) when mission survival was at stake. His 80-100 hour work weeks (ev_032) represent sustained risk-taking with personal health as the stake. His approach to Mars colonization explicitly warns of high fatality risk (ev_023).",
+      "assessment": "极高风险容忍度的警觉网络特征",
+      "finding": "Musk的警觉网络呈现极端模式——他对威胁和机会的感知极其敏锐但判断标准独特。2008年他表示\"I thought the chance of success was less than 10%. I just accepted that I would probably lose everything\"（ev_011），并坦承需借钱付租金（ev_014）。他将创业描述为\"staring into the abyss and eating glass\"（ev_018），表示\"I'd rather commit seppuku than fail\"（ev_019）。这种风险 posture 既是极端的（愿意押注全部身家），又是计算性的——他在俄罗斯之行中打开电子表格计算火箭原材料成本（ev_010），展示理性风险评估。",
       "evidence_ids": [
-        "ev_008",
         "ev_010",
-        "ev_023",
-        "ev_032",
-        "ev_034",
-        "ev_035"
+        "ev_011",
+        "ev_014",
+        "ev_018",
+        "ev_019"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Complex relationship - initially resists hierarchy but ultimately seeks to control or become the hierarchy",
-      "finding": "Musk shows an evolving relationship with hierarchy. Early patterns show hierarchy resistance - leaving South Africa to avoid mandatory military service (ev_004), dropping out of Stanford (ev_005), being ousted as CEO of X.com (ev_007). However, his trajectory moves toward hierarchy capture - becoming Tesla's largest shareholder and chairman (ev_014), then taking over as CEO (ev_020), and ultimately leading DOGE as a 'special government employee' (ev_043, ev_057). His attention allocation at Twitter reveals his orientation - he personally reviewed code commits (ev_052) to determine productivity, bypassing existing management structures. The shift to becoming the largest individual political donor ($288 million, ev_046) represents another form of hierarchy capture.",
+      "assessment": "层级权力的快速颠覆者与重建者",
+      "finding": "Musk对层级和权力采取极端工具化态度。他2000年被自己创立的X.com董事会罢免CEO后（ev_009），2022年以440亿美元收购Twitter并立即解雇约80%员工（ev_028,ev_046），2025年领导DOGE并对联邦机构进行\"mass layoffs, system shutdowns\"（ev_032）。这些行为显示他对层级结构没有传统尊重，更关注快速重建符合其愿景的新系统。注意力分配上，他在会议中可能更关注技术可行性而非谁在发言，表现出对传统权力象征的漠视。",
       "evidence_ids": [
-        "ev_004",
-        "ev_005",
-        "ev_007",
-        "ev_014",
-        "ev_020",
-        "ev_043",
-        "ev_046",
-        "ev_052",
-        "ev_057"
+        "ev_009",
+        "ev_028",
+        "ev_032",
+        "ev_046"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Escalation-dominant strategy - escalates conflicts rather than avoiding or negotiating",
-      "finding": "Musk's conflict strategy shows consistent escalation patterns. Rather than suppressing conflict or negotiating, he often forces extremes. His 'demon mode' (ev_042) involves firing people, destroying team work, demanding impossible deadlines. The Twitter acquisition (ev_029, ev_030) shows escalation - after acquiring, he immediately laid off 80% of staff, then confronted advertisers with hostility. His response to SEC (ev_015) shows impulsive escalation through the $420 tweet. His approach to SpaceX launches shows persistence through repeated failure (three consecutive launch failures, ev_015-017) - escalation of effort rather than retreat. However, his willingness to sometimes rehire fired engineers (ev_054) suggests the escalation isn't permanent - it's a pressure tactic.",
+      "assessment": "即时升级与极端施压的冲突策略",
+      "finding": "Musk的执行控制网络在冲突情境中表现为快速升级模式。他会在分歧当下立即解雇不同意他的工程师，有时几天后才重新雇用（ev_034）。2018年推文私有化事件显示他在压力下的冲动决策导致与SEC的正面冲突（ev_040-041）。Twitter收购后的\"Go fuck yourself\"回应（ev_051）也展现了其不寻求谈判或延迟的即时表达模式。这种冲突策略与其高风险 posture 和紧密注意力控制相关——他倾向于用极端施压快速解决冲突而非传统谈判。",
       "evidence_ids": [
-        "ev_015",
-        "ev_017",
-        "ev_018",
-        "ev_019",
-        "ev_030",
-        "ev_042",
-        "ev_054"
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale time horizon - optimizes for multi-decade to multi-generational objectives",
-      "finding": "Musk demonstrates an exceptionally long time horizon consistent with his multi-planetary mission. His Mars colonization vision (ev_022, ev_024) explicitly frames in terms of human survival 'millions of years in the future.' His statement 'What I'm trying to do is to maximize the probability of the future being better' (ev_030) and 'I think we have a duty to maintain the light of consciousness' (ev_029) show existential time framing. However, this mission-scale horizon coexists with extreme short-term intensity - 120-hour work weeks during crises (ev_028), immediate responses to tweets, and intense production sprints. The Model 3 production crisis (ev_028) showed him working '120-hour weeks' with sustained attention through the most painful year (ev_013). He can compress time horizon based on crisis demands while maintaining long-term orientation.",
+      "assessment": "极端长期导向的任务追踪能力",
+      "finding": "Musk展现出卓越的长期目标追踪能力。火星殖民愿景始于2016年IAC演讲（ev_027-029）并持续推进；SpaceX从2002年创立到2008年Falcon 1成功（ev_012）经历6年坚持；Tesla从2004年投资到2008年接管CEO（ev_011）跨越金融危机。他的注意力能在极长时间跨度内维持于单一使命，2008年同时管理频临破产的SpaceX和Tesla体现这种跨时间的任务追踪韧性。\"Nobody ever changed the world on 40 hours a week\"（ev_033）的表述进一步确认其长期主义的认知框架。",
       "evidence_ids": [
-        "ev_022",
-        "ev_024",
+        "ev_011",
+        "ev_012",
+        "ev_027",
         "ev_028",
-        "ev_029",
-        "ev_030"
+        "ev_033"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Strong rebuild preference - frequently tears down and rebuilds rather than patching existing systems",
-      "finding": "Musk consistently demonstrates rebuild orientation over patching. His approach to SpaceX involved starting from first principles to build rockets for 10% of market rates rather than incrementally improving existing approaches. The Hyperloop (ev_049) was published as a concept precisely because he wanted to show it could be rebuilt differently. Twitter acquisition followed by laying off 80% of staff (ev_018) represented total reconstruction rather than incremental change. His 'the algorithm' (ev_016) emphasizes that 'the most common error is to optimize something that shouldn't exist' - a core rebuild-over-patch principle. When faced with Model 3 production problems, his response was to remove excessive automation and rebuild the human workflow (ev_014). His founding of multiple companies (SpaceX, Tesla, Neuralink, xAI, Boring Company) represents serial system-building rather than single-system optimization.",
+      "assessment": "强烈偏好结构性重建而非局部修补",
+      "finding": "Musk的WM更新效率体现为对旧框架的快速放弃与新结构重建。他多次展示这种模式：Tesla生产危机时移除整个自动化输送系统改用人工（ev_037\"Excessive automation at Tesla was a mistake. Humans are underrated\"）；SpaceX经历三次火箭发射失败后进行根本性重新设计而非修补；Twitter收购后进行大规模重组而非渐进改革。Hyperloop案例尤其明显——他发布白皮书后选择开源而非自己建设（ev_022-023），展示愿意让他人重新构建而非维护现有方案的倾向。",
       "evidence_ids": [
-        "ev_014",
-        "ev_016",
-        "ev_018",
-        "ev_049"
+        "ev_037",
+        "ev_022",
+        "ev_023",
+        "ev_013"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Moderate metacognitive awareness - can reflect on patterns but often fails to catch cognitive limits in real-time",
-      "finding": "Musk shows evidence of metacognitive capacity through his articulated frameworks (first principles thinking, 'the algorithm'), yet demonstrates significant blind spots. He explicitly stated 'humans are underrated' (ev_014), acknowledging he had failed to recognize automation limits - showing post-hoc metacognition. His recognition of 'demon mode' (ev_042) by Isaacson suggests some awareness of his state, though the pattern continued. However, his impulsive tweet about taking Tesla private (ev_015), his confrontational advertiser response (ev_019), and his sleeping on the factory floor for months (ev_056) suggest failure to monitor attention state and cognitive limits in real-time. He appears to use metacognition more for post-hoc rationalization than real-time adjustment - 'excessive automation was a mistake' is retrospective rather than prospective. He has not developed effective external cognitive scaffolding to compensate for his WM limits.",
+      "assessment": "有限的元认知能力，存在显著的认知盲点",
+      "finding": "Musk的元注意能力呈现复杂图景。他能够反思性地表述自己的思维方法论（第一性原理）并承认错误（如自动化决策，ev_037），但证据同时显示他存在显著的元认知盲点。2020年他表示\"I'm not trying to be anyone's savior\"（ev_042），然而其行为模式持续展现救世主倾向。他对悲伤的处理\"I'm not sure what sitting around being sad is going to do\"（ev_048）暗示对自身情绪状态的认知有限。冲动的推文导致SEC诉讼（ev_040-041）以及工程师警告 Autopilot 品牌危险仍坚持己见（ev_032）都指向其执行控制网络在自我监控方面的局限。他似乎更多依赖外部反馈（如法律后果）来校准行为，而非主动的元认知监控。",
       "evidence_ids": [
-        "ev_014",
-        "ev_015",
-        "ev_019",
+        "ev_032",
+        "ev_037",
+        "ev_040",
+        "ev_041",
         "ev_042",
-        "ev_056"
+        "ev_048"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "cognitive_load_shedding_capacity",
-      "definition": "The ability to intentionally discard attention investments and WM content to redirect toward higher-priority goals. Distinct from rebuild_over_patch (which is about system design preference) - this is about personal cognitive economy: can this person walk away from cognitive investments they've made?",
-      "finding": "Musk demonstrates exceptional cognitive load shedding. He left Stanford after 2 days despite enrollment (ev_005), abandoned a promising PayPal executive role after being ousted (moved to SpaceX instead of fighting to return), and has repeatedly walked away from companies after building them (Zip2 sold, X.com lost, PayPal exited). His 2015 shift from OpenAI to founding xAI (ev_027, ev_028) shows willingness to abandon previous cognitive investments when direction changed. His statement 'If you can't beat them, join them' regarding AI (ev_037) shows flexible redirection. This capacity allows him to maintain mission-scale attention without being trapped by sunk cognitive costs.",
+      "dimension_name": "注意力恢复的异常模式",
+      "definition": "标准理论假设高强度认知消耗后需要恢复，但Musk展现出将工作本身作为注意力恢复策略的异常模式——从一家公司的压力转向另一家公司反而成为认知充电",
+      "finding": "证据显示Musk在极端工作负荷下表现出反直觉的认知稳定性。他同时管理多家公司、在Model 3危机期间住在工厂每周120小时（ev_024），2018年处理SpaceX和Tesla双线金融危机。传统理论预期这种负荷会导致认知疲劳和决策质量下降，但Musk似乎将不同项目间的转换作为注意力恢复机制。这种模式可能源于他的执行控制网络对多任务处理的特殊适应，或者他的警觉网络始终维持在高位激活状态，使其难以进入真正的放松模式。",
       "evidence_ids": [
-        "ev_005",
-        "ev_007",
-        "ev_027",
-        "ev_028",
-        "ev_037"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "dimension_name": "attention_recovery_velocity",
-      "definition": "Speed of recovery from attention exhaustion or cognitive overload. High-capacity individuals can rapidly restore WM resources through strategic rest; low-capacity individuals remain in depleted states. Important for sustained high-performance.",
-      "finding": "Musk's attention recovery patterns are paradoxical. His 80-100 hour work weeks (ev_032) and factory-floor sleeping (ev_056) suggest minimal recovery, yet he maintains sustained performance across decades. His comment about 'the most painful year' (ev_013) and 'production hell' suggests the toll is real but doesn't incapacitate him. His ability to pivot between companies (SpaceX, Tesla, Twitter, Neuralink, xAI, DOGE) shows rapid context-switching that may serve as cognitive refresh. However, his statement 'There are many nights I sleep alone' (ev_039) hints at attention recovery deficits in personal domain. His approach appears to rely on switching attention targets rather than traditional rest - using novelty as recovery mechanism.",
-      "evidence_ids": [
-        "ev_013",
-        "ev_032",
-        "ev_039",
-        "ev_056"
+        "ev_024",
+        "ev_012",
+        "ev_014",
+        "ev_015"
       ],
       "local_support": "weak"
+    },
+    {
+      "dimension_name": "外部认知支架的大规模使用",
+      "definition": "标准WM理论关注个体内部认知过程，但Musk展现出创建外部系统（公司、团队、技术架构）作为WM扩展装置的独特策略",
+      "finding": "Musk通过构建复杂组织和系统来补偿WM容量限制。他的多家公司可以被视为\"认知支架\"——SpaceX处理火箭工程、 Tesla处理能源转型、Neuralink处理人机界面、Boring Company处理交通基础设施。传统理论认为WM容量限制在4个组块（Cowan），但Musk通过将不同领域知识外部化到专业团队来突破这一限制。他不是一个人试图在WM中保持所有信息，而是创建能够独立处理信息子系统的组织架构。这种策略在Hyperloop案例中尤其明显——他发布概念验证后选择开源而非自行建设（ev_022-023），实质上是邀请外部认知资源参与问题解决。",
+      "evidence_ids": [
+        "ev_022",
+        "ev_023",
+        "ev_030",
+        "ev_018"
+      ],
+      "local_support": "moderate"
     }
   ]
 }

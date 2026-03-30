@@ -4,174 +4,221 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper who actively constructs and imposes new interaction frames rather than responding to existing structures",
-      "finding": "From a Goffman dramaturgical perspective, Musk exemplifies the 'director' role in the theatrical metaphor—he not only performs within given frames but actively creates and defines new frames. His 2016 Mars colonization presentation (ev_022, ev_024) exemplifies frame creation: he constructed a new definition of the situation where humanity's survival depends on his personal mission. Rather than responding to existing institutional frames (NASA, automotive industry), he created parallel structures (SpaceX, Tesla) with his own rules. His Twitter acquisition (ev_017, ev_029) further demonstrates frame imposition—he redefined the platform's purpose and the company's operational framework through unilateral action. This pattern suggests Musk sees himself as authorized to define 'what is happening' in any interaction, a classic Goffmanian frame-control strategy.",
+      "assessment": "极端主动型表演者——作为世界塑造者而非结构响应者，Musk将生活视为可以重新框架的舞台脚本",
+      "finding": "从戈夫曼的视角看，Musk展现出对舞台的高度控制意识——他不是在既有社会结构中寻找位置，而是主动创造新的互动框架。第一性原理思维（ev_020）本质上是一种框架操控策略：将'火箭很贵'重新定义为'火箭由原材料构成，成本可重构'。这种思维模式贯穿其整个职业生涯：从Zip2代码编写（ev_006）到火星殖民愿景（ev_027-029），Musk始终在扮演那个重新定义'这里正在发生什么'的角色。他在推特上宣布私有化（ev_040）和收购Twitter后的'鸟已解放'宣言（ev_047）都是典型的框架争夺行为——试图在公众认知中占据定义权位置。他的自我陈述'Nobody ever changed the world on 40 hours a week'（ev_033）是前台宣言，直接宣示其作为世界塑造者的角色声称。这种高能动性表演的代价是高度的情绪劳动——持续的印象管理需求可能导致自我认同的碎片化风险。",
       "evidence_ids": [
-        "ev_017",
-        "ev_022",
-        "ev_024",
+        "ev_020",
+        "ev_006",
+        "ev_027",
+        "ev_028",
         "ev_029",
-        "ev_043"
+        "ev_040",
+        "ev_047",
+        "ev_033"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "First-principles reasoning as frame rejection strategy—systematically dismantling conventional frameworks to rebuild from underlying elements",
-      "finding": "Musk's self-described 'physics framework' thinking (ev_025) aligns with Goffman's concept of 'rekeying'—the transformation of an activity's meaning by changing its frame. Rather than analogical reasoning (accepting existing frames), he engages in systematic frame deconstruction. His statement 'physics teaches you to reason from first principles rather than by analogy' (ev_025) describes a cognitive process where he treats established frameworks as negotiable rather than given. This produces dramatic reframe operations: rockets should be 10% of current cost, cars should be electric, Twitter should be 'the bird is freed' (ev_017). This epistemic style is strategically valuable in dramaturgical terms—it allows him to reframe situations where others accept the given definition, giving him frame-control advantage in interactions.",
+      "assessment": "直觉-分析混合型，擅长从物理框架出发进行第一性原理推理，但对社交情境的微妙线索感知较弱",
+      "finding": "Musk的认知风格呈现有趣的二元性。一方面，他明确阐述第一性原理思维方法——从物理框架出发推理而非通过类比（ev_020），这反映了一种高度自觉的认知策略。他在2023年表示对Douglas Adams的崇拜，引用'正确表述问题比找到答案更难'（ev_031），这表明他对元认知的重视。另一方面，他的社交认知存在明显盲点：他坚持使用'Autopilot'和'Full Self-Driving'品牌（ev_032），尽管工程师警告这会危及生命；他发推引发SEC诉讼（ev_040-041）；他在DealBook峰会对广告商爆粗口（ev_051）。这些行为反映的不是信息缺乏，而是对社交互动中'泄漏'信息（given off expressions）的忽视——对公众和监管者反应的低估。这种认知风格使他在技术领域表现出色，但在人际互动中频繁'表演崩溃'。戈夫曼框架下，他的社交感知能力远落后于其框架操控能力。",
       "evidence_ids": [
-        "ev_025",
-        "ev_008",
-        "ev_017",
-        "ev_050"
+        "ev_020",
+        "ev_031",
+        "ev_032",
+        "ev_040",
+        "ev_041",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "High formalization in engineering and organizational systems, but performative theatricality in public presentation—unusual combination of systematizer and showman",
-      "finding": "Goffman's framework distinguishes between 'routine' performances (highly scripted) and 'dramatic realizations' (expressive displays). Musk exhibits both: his 'algorithm' management methodology (ev_016) demonstrates high formalization—five-step processes that assume reality can be systematized. Yet his public performances reveal theatrical calculation: the Falcon Heavy launch with his Tesla Roadster (ev_020, ev_021) was pure 'dramatic realization'—transforming a test payload into a media event that encoded his personal brand. The Hyperloop white paper (ev_049) represents formalization as performance—he published detailed plans not to execute but to 'show it was possible' (ev_050), essentially performing competence for an audience. This suggests a performer comfortable with both systematized backstage operations and highly visible frontstage theatricality.",
+      "assessment": "极高形式化倾向——将复杂社会互动简化为可计算的命题，偏好系统化解决方案",
+      "finding": "Musk展现出典型的工程师形式化思维对社会互动的移植。他在多处表现出将人类行为系统化的冲动：将火星殖民成本降至20万美元（ev_027）、Hyperloop的800mph规格（ev_024）、Twitter'硬核'工作文化要求（ev_046）、DOGE的政府效率量化目标（ev_055）。这种形式化倾向在'Demon mode'管理风格中达到极致：他'fired people, destroyed entire teams' work, demanded impossible deadlines'（ev_050）——将人际冲突简化为可快速执行的决策。他在2022年描述Starlink限制克里米亚的决策时，用'explicitly complicit in a major act of war'（ev_044）这样的准法律框架来合理化自己的选择。这种形式化倾向的优点是决策效率高，但代价是在需要微妙面子功夫的场合（与广告商关系、与监管机构互动）频繁失败。他在2023年WSJ评价Twitter为'worst deal since 2008'（ev_052）后仍坚持'Go fuck yourself'的回应，是形式化思维在需要弹性社交策略场合的典型失败。",
       "evidence_ids": [
-        "ev_016",
-        "ev_020",
-        "ev_021",
-        "ev_049",
-        "ev_050"
+        "ev_024",
+        "ev_027",
+        "ev_046",
+        "ev_050",
+        "ev_044",
+        "ev_052",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Maximum control over impression management, with extensive personal front management and micro-level performance monitoring",
-      "finding": "Musk's control orientation manifests in multiple Goffman-relevant dimensions. First, personal front control: his public persona is carefully managed across platforms—the 'hardcore' work email (ev_053), the code commit review (ev_052), the performative factory-floor sleeping (ev_056). Second, he attempts to control others' performances: firing engineers on the spot for disagreement (ev_054), then sometimes rehiring them—treating people as props that can be added or removed from the production. Third, he controls the frame: his $420 tweet (ev_015) was an attempt to define the situation unilaterally, and when the SEC challenged his frame-definitions, he engaged in what Goffman would call 'face-work'—negotiating the terms of his self-presentation under institutional pressure. His control extends to the micro-level—he monitors productivity through code commits rather than trusting institutional delegation structures.",
+      "assessment": "极高控制需求——试图掌控叙事框架、技术系统、组织和公众认知多个层面",
+      "finding": "戈夫曼的印象管理理论指出，控制需求与表演焦虑相关。Musk的控制范围远超典型CEO：他不仅控制公司和产品，还试图控制公共叙事（通过推特直接与公众互动绕过媒体）、控制技术框架（开源Hyperloop但保留命名权，ev_021-023）、控制政治进程（DOGE，ev_032）。这种全面控制需求的代价是极高的情绪劳动和频繁的表演崩溃。他的推特使用模式是典型案例：作为主要前台工具，推特给予他即时控制叙事的能力，但也导致SEC诉讼（ev_040-041）和多次公众危机。他的名言'If someone's going to try to blackmail me with advertising, blackmail me with money? Go fuck yourself'（ev_051）是对控制权威胁的极端反应。这种控制导向在他对DOGE的陈述中达到制度化顶峰：'The DOGE mission will only strengthen over time as it becomes a way of life throughout the government'（ev_055）——将控制从个人层面扩展到制度层面。",
       "evidence_ids": [
-        "ev_015",
-        "ev_052",
-        "ev_053",
-        "ev_054",
-        "ev_056",
-        "ev_057"
+        "ev_040",
+        "ev_041",
+        "ev_021",
+        "ev_023",
+        "ev_032",
+        "ev_051",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Consistent mission-optimization with minimal relational cost calculation—will sacrifice relationships and social standing to pursue defined objectives",
-      "finding": "Goffman's 'face-work' theory distinguishes between self-oriented and other-oriented face maintenance. Musk consistently prioritizes mission-oriented face-work over relational maintenance. His statement that 'nobody ever changed the world on 40 hours a week' (ev_031) frames relational costs as irrelevant to the mission. The Model 3 production crisis (ev_028, ev_056) exemplifies this: he worked 120-hour weeks, slept on the factory floor (ev_056), and his 'demon mode' (ev_42) destroyed teams and relationships for outcomes. His confrontational stance at DealBook Summit—telling advertisers 'go fuck yourself' (ev_019)—prioritized message delivery over relational preservation, accepting massive financial loss (ev_055). The father-son relationship dynamic (ev_002) suggests early experience that relationships are subordinate to other values. Even his charitable giving through America PAC (ev_046) appears instrumental to mission rather than relational maintenance. Goffman would note this is a 'performative orientation' where the role (mission-carrier) dominates personal relationships.",
+      "assessment": "极端任务导向——当使命与关系冲突时，几乎总是选择使命，关系成本被视为可接受的损耗",
+      "finding": "Musk的面子功夫分析揭示了一种极端的任务优先模式。他的多处自述直接表达这种取向：'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice'（ev_015）；'Starting a company is like staring into the abyss and eating glass'（ev_018）；'I'd rather commit seppuku than fail'（ev_019）。当工程师因安全问题辞职时，Musk坚持品牌命名（ev_032）。他在Starlink克里米亚问题上的决策（ev_044-045）是关键案例：尽管可能损害与乌克兰的关系，他选择避免'major act of war'的共谋——这是任务逻辑而非关系逻辑的胜利。2018年儿子Nevada Alexander死于SIDS后'returned to work almost immediately'（ev_048）的行为模式，以及他对悲痛的实用主义态度'not sure what sitting around being sad is going to do'（ev_048），都指向同一模式：关系成本在使命面前几乎可以忽略。这种模式在DOGE任务中达到制度化：大规模裁员和系统关闭（ev_032）完全无视政府与员工、联邦机构与公众的既有关系网络。",
       "evidence_ids": [
+        "ev_015",
+        "ev_018",
         "ev_019",
-        "ev_028",
-        "ev_031",
         "ev_032",
-        "ev_042",
-        "ev_046",
-        "ev_055",
-        "ev_056"
+        "ev_044",
+        "ev_045",
+        "ev_048",
+        "ev_032_again"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Risk-embracing with dramatic performance implications—treats high-stakes situations as opportunities for frame-redefining theatrical displays",
-      "finding": "Musk's risk posture aligns with Goffman's concept of 'risky' performances—actions where the gap between frontstage claims and backend reality could cause 'performance collapse.' He acknowledged <10% success probability for SpaceX (ev_008) and 'accepted losing everything.' This is dramaturgically significant because he chose to perform confidence in a high-risk frame publicly—which Goffman would analyze as 'dramatic realization' of confidence. His Mars presentation explicitly framed risk as inherent: 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_023). The SEC confrontation (ev_015, ev_027) shows risk-taking in the definition of the situation itself—he tweeted a frame ('funding secured') that was contested, creating a high-risk performance. His willingness to accept personal financial and reputational risk allows for more dramatic frontstage performances because the 'backstage' safety net is conceptually removed—he performs as if he has nothing to lose, which intensifies the performance.",
+      "assessment": "极端风险接受者——将个人财务和情感风险视为必要赌注，且拥有异常强的损失承受能力",
+      "finding": "Musk的风险偏好是戈夫曼框架中'后台安全感'缺失的典型案例。他坦承SpaceX成功概率'less than 10%'且'I just accepted that I would probably lose everything'（ev_011）。他在2008年同时面临SpaceX和Tesla破产危机时'had to borrow money from friends just to pay rent'（ev_014）。他描述极端工作周'80-100 hours'为必要条件（ev_033）。这种风险 posture建立在一种独特的'底线思维'上：认为已经失去一切就无所畏惧。这解释了为何他在2022-2024年介入政治（ev_030, ev_053-054）和政府DOGE任务（ev_032）时愿意承担巨大声誉和财务风险。戈夫曼框架下，极端风险承担者通常拥有强大的后台支撑——但Musk的后台是空洞的：他早年经历霸凌和情感虐待（ev_001-002），第一个孩子早逝（ev_048），公开承认情感孤独（ev_049）——这些反而成为他敢于冒险的心理基础，即'失去的已经够多了'。",
       "evidence_ids": [
-        "ev_008",
-        "ev_015",
-        "ev_023",
-        "ev_027"
+        "ev_011",
+        "ev_014",
+        "ev_033",
+        "ev_001",
+        "ev_002",
+        "ev_048",
+        "ev_049",
+        "ev_030",
+        "ev_053",
+        "ev_054",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Ambivalent—challenges institutional authority to create personal alternatives while simultaneously constructing new hierarchies around himself",
-      "finding": "Goffman's analysis of 'deference' and 'demeanor' illuminates Musk's complex relationship with hierarchy. He exhibits what might be termed 'hierarchy arbitrage'—when confronted with existing power structures (NASA, auto industry, traditional media), he creates parallel institutions where he occupies the power position rather than accepting subordination. His statement about leaving the Democrats (ev_045) reflects this: he rejects existing hierarchies to position himself as a new hierarchy-constructor. At the same time, his own organizations are characterized by extreme vertical control—he is the definitional authority in his companies, with little delegation of frame-control. His DOGE role (ev_043, ev_057) represents an unusual position: using his personal brand authority to impose corporate frames on government structures. This reveals a dramaturgical orientation where hierarchy is a tool to be captured or built, not respected as given—a performer's relationship to institutional power that treats all hierarchies as reversible scripts.",
+      "assessment": "权力工具化者——将权力视为实现使命的手段，但对传统权力结构既依赖又颠覆",
+      "finding": "Musk的权力动态呈现复杂图景。一方面，他展示了对组织权力结构的精确理解：2008年接管Tesla CEO职位（ev_011）、在SpaceX危机后坚持领导（ev_013, ev_017）、收购Twitter后立即裁员80%（ev_046）。另一方面，他对传统权力结构持批判态度：移民南非是为了避免参与种族隔离制度（ev_004）、公开警告AI风险呼吁监管（ev_025）、创建OpenAI作为制衡（与他的AI叙事一致）。在DOGE角色中（ev_032），他将企业权力逻辑应用到政府，挑战联邦机构的传统权力结构。他的名言'I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me'（ev_054）揭示了一种对权力关系的动态理解：不是被动接受现有位置，而是主动重新配置权力关系。他的权力使用模式是'破坏性创造'：摧毁现有团队和系统以实现新的框架（ev_050的'demon mode'）。",
       "evidence_ids": [
-        "ev_043",
-        "ev_045",
-        "ev_046",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Direct escalation with confrontational face-work—prefers frame-dominance over frame-negotiation; treats conflict as opportunity for theatrical positioning",
-      "finding": "Musk's conflict strategy aligns with Goffman's 'aggressive face-work'—direct attacks on others' face to establish frame-dominance. The DealBook confrontation (ev_019) exemplifies: 'Go fuck yourself' is a maximum confrontation statement that refuses the 'face-saving' mechanisms Goffman identifies as central to social interaction. The Autopilot controversy (ev_033) and subsequent engineer resignations show conflict escalation—he pressed forward with his chosen frame despite warnings, treating the conflict as secondary to his frame-definition. His ability to 'fire on the spot' (ev_054) and occasionally rehire demonstrates use of conflict as theatrical tool—creating dramatic tension for effect. Goffman would note that this is a high-risk strategy because it exhausts 'corrective interchange' options; once you've told someone to 'go fuck yourself,' there's limited face-saving room left. This creates what might be called 'burned earth' conflict management—after maximal confrontation, the relationship must be entirely reconstructed rather than repaired.",
-      "evidence_ids": [
-        "ev_019",
-        "ev_033",
-        "ev_054"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "time_horizon",
-      "assessment": "Mission-scale temporal orientation—optimizing for civilization-level outcomes spanning decades, with short-term disruptions accepted as necessary",
-      "finding": "Goffman's 'situated identity' concept involves temporal dimensions—individuals maintain self-conceptions across time. Musk's temporal orientation is distinctly 'mission-scale': the Mars colonization frame (ev_022) positions humanity's timeline in relation to his personal mission. His statement about maintaining 'the light of consciousness' (ev_029) suggests a temporal horizon extending beyond his lifetime. The Hyperloop release (ev_050)—publishing rather than profiting—suggests time-horizon optimization for idea-adoption rather than immediate returns. This produces specific dramaturgical effects: acceptance of short-term performance failures (repeated rocket launch failures ev_015-017, eventually succeeded ev_009) because the frame is 'long-term mission.' His DOGE role (ev_044) explicitly frames work as 'a way of life throughout the government'—temporal extension. This suggests a performer who treats short-term relational costs (conflict, burned-earth interactions) as acceptable given the long-term frame.",
-      "evidence_ids": [
-        "ev_009",
-        "ev_015",
+        "ev_011",
+        "ev_013",
         "ev_017",
-        "ev_022",
-        "ev_029",
-        "ev_044",
+        "ev_004",
+        "ev_025",
+        "ev_046",
+        "ev_054",
+        "ev_032",
         "ev_050"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "rebuild_over_patch",
-      "assessment": "Structural redesign preference—rejects incremental adjustment in favor of frame-replacement; treats existing systems as scripts to be rewritten",
-      "finding": "Musk exhibits clear preference for structural redesign over local repair across multiple domains. Twitter acquisition (ev_029) exemplifies: rather than adjusting the platform's operations, he implemented total restructuring—80% workforce reduction (ev_018), platform rebranding, definition reframe. This aligns with Goffman's frame analysis—he treats existing frameworks as 'keying' opportunities: transformation rather than optimization. His 'algorithm' framework (ev_016) explicitly prioritizes 'not optimizing something that shouldn't exist'—first determine if the activity should exist at all before improving it. This is frame-replacement logic rather than frame-refinement. His co-founding of parallel institutions (SpaceX as alternative to NASA-aligned aerospace, Tesla as alternative to traditional auto, X as alternative to traditional social media) demonstrates systemic rebuild preference. The 'new Twitter' rebrand represents complete frame-transformation rather than修补. From a dramaturgical perspective, this is a performer who treats social structures as scripts that can be rewritten rather than performed—the 'backstage' is not a place to prepare performances but a site for structural construction.",
+      "construct_key": "conflict_strategy",
+      "assessment": "正面升级型——倾向于直面冲突并提高赌注，而非回避、协商或延迟",
+      "finding": "Musk的冲突模式高度统一：选择直面而非回避。在SEC诉讼中，他选择和解而非抗辩，但保留了推特活跃度——这是一种有限妥协。他在DealBook峰会对广告商说'Go fuck yourself'（ev_051）是正面对抗而非策略性沉默。'Demon mode'描述（ev_050）显示他在组织内部冲突中'fire people, destroy entire teams' work'——而非修复或协商。他的推特使用是公开冲突场域：420美元私有化推文（ev_040）直接引发SEC起诉。他对Starlink克里米亚限制（ev_044-045）的处理显示，他愿意为了特定的'不成为共谋'立场而承担外交冲突成本。戈夫曼框架中，修正过程（corrective process）通常是修复受损互动的首选，但Musk倾向于将冲突框架为'根本性差异'而非'可修复的误解'。他在2024年成为最大政治捐款人（ev_053）的行为本身就是将冲突从商业领域扩展到政治领域。",
       "evidence_ids": [
-        "ev_016",
-        "ev_018",
+        "ev_041",
+        "ev_051",
+        "ev_050",
+        "ev_040",
+        "ev_044",
+        "ev_045",
+        "ev_053"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "多尺度混合——短期生存压力与长期使命愿景并存，但使命维度主导决策优先级",
+      "finding": "Musk的时间视野呈现三个层次。第一层是即时操作：Model 3危机中住在工厂（ev_024, ev_039）、推特实时互动（ev_040, ev_047）、DOGE日常决策（ev_032）。第二层是5-10年项目：Tesla产能扩展、SpaceX发射频率提升、Neuralink人体试验（ev_031）。第三层是数十年尺度的使命：火星殖民（ev_027-029）、人类意识维护（ev_043）、多行星物种生存（ev_029）。这三层时间视野在他的决策中同时存在，但优先级不同。2018年的决策显示短期危机可以覆盖长期计划（ev_024的工厂生活）。然而，他的叙事始终围绕长期使命展开：'History is going to bifurcate along two directions'（ev_029）这样的二元框架将当下选择嵌入历史尺度的叙事。他的时间取向本质上是戏剧性的——将日常生活转化为史诗叙事的组成部分。Hyperloop开源决定（ev_022-023）显示他愿意让渡短期项目控制权以服务长期可行性证明目标。",
+      "evidence_ids": [
+        "ev_024",
+        "ev_039",
+        "ev_040",
+        "ev_047",
+        "ev_031",
+        "ev_027",
+        "ev_028",
         "ev_029",
-        "ev_044"
+        "ev_043",
+        "ev_022",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "极端重建型——当面临系统性问题时，倾向于彻底推翻重建而非渐进修补",
+      "finding": "Musk的决策模式显示出强烈的重建偏好而非修补倾向。最明显的案例是Twitter收购（ev_028, ev_046）：他解雇约80%员工，发送'extremely hardcore work'最后通牒——这是一次彻底的机构重建而非修补。他对Tesla自动化系统的处理也显示了这种模式：'Excessive automation at Tesla was a mistake. Humans are underrated'（ev_037）——他从高度自动化转向人工劳动，这是理念的根本性转变而非渐进调整。在DOGE角色中（ev_032），他将企业方法论'corporate approach'应用到政府：'mass layoffs, system shutdowns, rapid restructuring'——典型的全面重建逻辑。他的'demon mode'（ev_050）特征就是'fire people, destroy entire teams' work'——彻底否定现有成果而非修补。他对推特'鸟已解放'（ev_047）的框架暗示旧系统本质上是需要被摧毁的压迫性结构。他的Hyperloop开源决定（ev_021-023）也是一种重建策略——不是自己构建完整系统，而是通过开源邀请他人重建。这种模式的风险在于：重建过程中大量社会关系和制度知识被摧毁。",
+      "evidence_ids": [
+        "ev_028",
+        "ev_046",
+        "ev_037",
+        "ev_032",
+        "ev_050",
+        "ev_047",
+        "ev_021",
+        "ev_023"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Moderate—explicitly articulates thinking frameworks but may have blind spots around social performance dynamics and relational impact",
-      "finding": "Goffman's dramaturgical framework itself represents a metacognitive level—seeing social interaction as performance. Musk demonstrates explicit metacognition in some domains: his articulation of 'first principles' thinking (ev_025) shows awareness of his own reasoning process. His 'algorithm' (ev_016) is a metacognitive structure—he's thinking about thinking. However, the Goffman lens reveals potential metacognitive blind spots: he may not fully recognize his own performative choices as performance. His 'demon mode' (ev_042) is described as genuine intensity rather than theatrical choice. The contrast between his public statements ('humans are underrated' ev_014) and his extreme automation push suggests possibly incomplete metacognition about how his communications affect others. His personal reflection 'there are many nights I sleep alone' (ev_039) suggests some awareness of relational costs, but framed as inevitability rather than performance consequence. Goffman would note that high metacognition about social performance can create 'performance anxiety'—excessive self-awareness that undermines natural interaction. Musk may partially avoid this by treating his performances as 'authentic expressions' rather than performances, which could be a metacognitive protection mechanism.",
+      "assessment": "选择性元认知——对技术框架和长期使命有高度反思，但对社交互动中的自我呈现缺乏同等觉察",
+      "finding": "Musk展现出选择性的元认知能力。在技术领域，他对第一性原理思维有明确的自我意识（ev_020），能反思Douglas Adams对其问题框架的影响（ev_031）。他承认Hyperloop开源是因为'我太忙了'（ev_022），承认过度自动化是错误（ev_037）——这些是技术决策层面的反思性自我评估。然而，他在社交互动层面的元认知明显较弱。他坚持'Autopilot'和'Full Self-Driving'品牌（ev_032）而无视工程师警告，他对广告商的粗口回应（ev_051），他发推私有化声明（ev_040）引发SEC诉讼——这些都显示对社交互动后果的低估。他在Joe Rogan播客中说'I'm not trying to be anyone's savior'（ev_042）是一种反讽性的自我去神秘化尝试，但他随后的行动（大规模政治捐赠、DOGE任务）又重新强化了救世主形象。这种元认知的分裂可能源于他的工程师训练——对技术系统有反思性，对社会系统缺乏同等训练。戈夫曼框架下，高度的框架意识反而可能导致过度自信于框架操控能力。",
       "evidence_ids": [
-        "ev_014",
-        "ev_016",
-        "ev_025",
-        "ev_039",
+        "ev_020",
+        "ev_031",
+        "ev_022",
+        "ev_037",
+        "ev_032",
+        "ev_051",
+        "ev_040",
         "ev_042"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "authenticity_performance_tension",
-      "definition": "The degree to which someone's self-presentation is consciously performed versus claimed as genuine identity; central to Goffman's analysis but not directly measured in shared constructs",
-      "finding": "Musk exhibits a distinctive pattern: he performs authenticity by rejecting performance. His public persona claims to reject 'politically correct' performance—'Go fuck yourself' (ev_019) is framed as authentic non-performance. Yet his entire persona (the mission narratives, the dramatic launches, the code-review sessions) is highly constructed. This creates what might be termed 'anti-performance performance'—the rejection of decorum becomes a theatrical choice. Goffman's framework notes that 'sincere' performers believe in their own performance, while 'cynical' performers may not. Musk appears to oscillate: he seems to genuinely believe in his mission-frame, suggesting sincere performance, yet his tactical choices (the Twitter rebrand, the flamethrower sales ev_038) indicate cynical calculation. This tension is analytically important because it affects how audiences interpret his performances—and may explain the polarized reactions he provokes.",
+      "dimension_name": "backstage_deprivation_pattern",
+      "definition": "一种源于早期创伤（霸凌、情感虐待、丧子）的后台安全感缺失，导致个体在前台表演中表现出极端风险承担和过度控制需求，以补偿内心的不稳定感",
+      "finding": "Musk的早年经历（严重霸凌、情感虐待的父亲 ev_001-002）和第一个孩子的早逝（ev_048）与他的表演模式之间存在显著关联。从戈夫曼视角看，正常的自我呈现依赖于'后台'——一个可以放松表演、恢复真实自我的安全空间。然而，Musk似乎缺乏这样的后台。他的情感孤独自白'很多夜晚我独自睡觉'（ev_049）和对悲痛的实用主义态度'sitting around being sad is going to do'（ev_048）暗示他将情感处理外部化到公共舞台。他接受采访时说'I think we have a duty to maintain the light of consciousness'（ev_043）——这种宏大叙事可能是一种补偿机制，将个人脆弱性转化为历史使命的宏大框架。他的'demon mode'管理风格（ev_050）和极端风险承担（ev_011, ev_014）可能是后台缺失的症状表现：在公共舞台上通过极端控制来补偿内心的空虚感。这种模式在戈夫曼的全控机构研究中有类似发现——长期缺乏后台安全感的个体会发展出极端的角色纪律或极端的角色距离。",
       "evidence_ids": [
-        "ev_019",
-        "ev_038",
-        "ev_042"
+        "ev_001",
+        "ev_002",
+        "ev_048",
+        "ev_049",
+        "ev_043",
+        "ev_050",
+        "ev_011",
+        "ev_014"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "backstage_leakage_management",
-      "definition": "How此人 manages the boundary between frontstage performance and backstage reality; specifically how private information becomes public and how private states are shielded from observation",
-      "finding": "Musk's backstage management exhibits unusual patterns. His childhood bullying experiences (ev_001, ev_002) became public material that he discussed in biographies, suggesting partial backstage disclosure. His factory-floor sleeping (ev_056) can be read as 'backstage leakage' performed as frontstage—he made private suffering visible as performance. The first child death (ev_040, ev_041) represents extreme backstage exposure that he processed by returning to work immediately—treating the private trauma as not requiring conventional relational support. His public statements about loneliness (ev_039) suggest some conscious backstage revelation. However, his code-review productivity measurement (ev_052) represents unusual frontstage/backstage boundary collapse—he brought performance-evaluation into visible space. Goffman would note that effective impression management requires maintaining some backstage privacy. Musk may partially fail at this, exposing backstage material either intentionally (as authenticity-performance) or through compulsive performance intensity that doesn't allow genuine backstage recovery.",
+      "dimension_name": "theatrical_scale_expansion",
+      "definition": "个体将表演场域从单一组织/领域扩展到政治、文化、公共话语等多维度的过程，反映对更大规模叙事控制的需求",
+      "finding": "Musk的职业生涯展现了一种'戏剧规模扩张'模式：早期在Zip2/Tech领域（ev_006），中期扩展到汽车和航天工业（Tesla、SpaceX），后期进入政治领域（支持Trump、DOGE，ev_030, ev_032-033, ev_053-054）和社会平台管理（Twitter/X，ev_028, ev_046-047）。这种扩张不是简单的业务多元化，而是一种叙事控制需求的体现：他试图在每个领域都扮演重新定义情境的角色。从戈夫曼视角看，这是前台/后台边界的模糊——政治行为和商业行为、公众互动和私人决策之间的界限变得透明。他在2024年成为最大政治捐款人（ev_053），随后加入DOGE（ev_032），将企业戏剧逻辑扩展到政府舞台。他对广告商的'Go fuck yourself'回应（ev_051）是在试图重新定义平台与广告商的关系框架。这种扩张的代价是：他需要同时在多个舞台上进行高强度表演，导致情绪劳动的极端化和潜在的表演崩溃风险。他的Hyperloop开源决定（ev_021-023）和Starlink限制（ev_044-045）是试图通过技术框架统一不同表演场域的尝试。",
       "evidence_ids": [
-        "ev_001",
-        "ev_002",
-        "ev_039",
-        "ev_040",
-        "ev_041",
-        "ev_052",
-        "ev_056"
+        "ev_006",
+        "ev_030",
+        "ev_032",
+        "ev_033",
+        "ev_053",
+        "ev_054",
+        "ev_028",
+        "ev_046",
+        "ev_047",
+        "ev_051",
+        "ev_021",
+        "ev_023",
+        "ev_044",
+        "ev_045"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }
