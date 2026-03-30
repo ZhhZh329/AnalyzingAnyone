@@ -1,0 +1,158 @@
+{
+  "discipline": "medicine",
+  "lens": "sleep_circadian_medicine",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "World-shaper who routinely treats sleep and recovery as adjustable costs to bend reality toward goals.",
+      "finding": "Across ventures, Musk operationalizes agency by compressing recovery time to push throughput, e.g., coding nights and sleeping at the office during Zip2 (ev_006). He publicly frames long hours as prerequisite to impact—\"Nobody ever changed the world on 40 hours a week\"—indicating a normative devaluation of sleep (ev_033). During later crises, he exported this stance to organizations via an \"extremely hardcore\" ultimatum, reinforcing recovery compression as the operating mode (ev_046). He also valorizes personal suffering relative to workers—\"My suffering should be greater than theirs\"—which in practice encourages further reduction of his own rest (ev_039).",
+      "evidence_ids": [
+        "ev_006",
+        "ev_033",
+        "ev_046",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "First-principles thinker who appears to discount biological recovery constraints in favor of effort-maximization heuristics.",
+      "finding": "Musk explicitly reasons from first principles, translating physics-style decomposition into business design (ev_020). Yet his public stance that 40-hour weeks cannot change the world suggests a belief that output scales with extreme hours, downplaying sleep debt and circadian limits (ev_033). He treats time-off as liability—\"That's the problem with vacations\"—which further signals an undervaluation of recovery windows in his mental model (ev_009). His visceral framing of entrepreneurship as \"staring into the abyss and eating glass\" aligns with an epistemic narrative that normalizes suffering over integrated recovery (ev_018).",
+      "evidence_ids": [
+        "ev_020",
+        "ev_033",
+        "ev_009",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High on abstraction and systematization, but tends to model human recovery as a tunable variable rather than a hard constraint.",
+      "finding": "He demonstrates a strong bias for formal reasoning (first-principles) in assessing systems and costs (ev_020). Organizationally, he has deployed blunt, system-wide rules—e.g., an all-hands \"extremely hardcore\" commitment—treating hours as a controllable parameter (ev_046). Capacity framing like being \"too busy with SpaceX and Tesla\" to personally build Hyperloop indicates time is explicitly budgeted, but without visible emphasis on circadian regularity or protected sleep (ev_022). This pattern shows high formalization with limited incorporation of biological recovery variables.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_046",
+        "ev_022"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control over processes and people, including imposing extreme schedules that compress recovery.",
+      "finding": "Musk frequently overrides engineering processes and personally intervenes in production design, reflecting a high control set point (ev_038). He exercises immediate personnel control (firing and rehiring), consistent with rapid, top-down modulation of organizational behavior (ev_034). His mass ultimatum for \"extremely hardcore\" work institutionalizes long hours, leveraging authority to dictate rest-averse norms (ev_046). Together, these indicate a readiness to steer human systems even at the cost of circadian health.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_034",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission over relational comfort and personal recovery.",
+      "finding": "After the death of his first child, reports indicate he returned to work almost immediately, later echoing, \"I'm not sure what sitting around being sad is going to do\"—a clear action-over-rest stance despite acute stress (ev_010, ev_048). He acknowledges many nights sleeping alone, implying relational trade-offs aligned with work immersion (ev_049). Organizationally, the \"extremely hardcore\" email and associated layoffs elevate mission speed over staff comfort and recovery needs (ev_046). This persistent pattern signals a willingness to sacrifice recovery and relationships for goal pursuit.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_048",
+        "ev_049",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "High risk tolerance, including acceptance of functional risks from chronic long-hour norms.",
+      "finding": "He has openly embraced low odds of success (\"<10%\" for SpaceX) and staked all remaining capital to keep ventures alive (ev_011, ev_015). In parallel, he normalizes 80–100-hour work weeks as necessary, implicitly absorbing performance degradation risks linked to sleep debt (ev_033). The pattern extends to high-stakes communications (e.g., the tweet that drew SEC action), suggesting comfort operating at edges of cognitive bandwidth, although causation to sleep is not claimed (ev_041). Overall, his risk posture includes discounting recovery-related risks in favor of speed.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_015",
+        "ev_033",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Uses hierarchical power to export recovery compression as a cultural expectation.",
+      "finding": "The organization-wide ultimatum demanding \"extremely hardcore\" work codifies long hours as a prerequisite for belonging (ev_046). Accounts of firing on the spot reinforce a coercive control style that can suppress boundary-setting around rest (ev_034). His hands-on overrides of engineering decisions consolidate authority to set tempo and schedule without shared governance over recovery (ev_038). This consistent use of power aligns with enforcing sleep-restrictive norms.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_034",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Tends to escalate and confront, with limited evidence of pause for recovery or de-escalation cycles.",
+      "finding": "He employed a blunt ultimatum during the Twitter reorganization, escalating conflict to force alignment (ev_046). Publicly telling advertisers to \"go [expletive] yourself\" exhibits a confrontational posture rather than negotiated pacing (ev_051). Firing-and-rehiring patterns reflect acute escalations to assert control (ev_034). Within a sleep-circadian lens, this suggests a propensity to push through conflict rather than create recovery buffers that might enable more deliberative resolution.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_051",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale horizons with short-term willingness to sacrifice sleep and regularity.",
+      "finding": "He consistently articulates civilization-scale goals (e.g., multi-planetary species framing), reflecting long strategic horizons (ev_029). Despite this, his operational mode frequently relies on acute surges of effort—public endorsement of extreme weekly hours and cultural ultimatums—to bridge near-term gaps (ev_033, ev_046). This duality indicates long-term vision coupled with short-term recovery compression as the default bridge between now and the mission end state.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_033",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Crisis response leans on patching via prolonged hours; structural rebuilds occur but are not oriented to circadian sustainability.",
+      "finding": "When under pressure, he defaults to more hours and personal immersion (normalized via public statements and culture-setting), a patch that boosts short-term throughput while accruing sleep debt (ev_033, ev_046). He does execute structural technical shifts—e.g., reversing excessive automation—but these changes reallocate human load without visible safeguards for fatigue or shift design (ev_037). Earlier patterns of night coding/sleeping at the office underline the recurring reliance on time-intensity patches across eras (ev_006). The record shows limited emphasis on rebuilding with recovery-protective architecture.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_046",
+        "ev_037",
+        "ev_006"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness in technical reasoning; limited explicit acknowledgement of sleep debt or circadian limits.",
+      "finding": "He articulates his own cognitive framework (first-principles reasoning), indicating meta-level insight about how he thinks (ev_020). He also publicly recognizes and reverses strategic missteps (e.g., automation excess), showing capacity for error correction (ev_037). However, he persistently endorses extreme hours and dismisses rest signals (e.g., vacations framed as problematic), with no evidence of calibrated guardrails for sleep or circadian alignment (ev_033, ev_009). In the sleep-circadian domain, metacognitive monitoring of fatigue boundaries appears limited.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_037",
+        "ev_033",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "recovery_compression_as_identity_and_norm",
+      "definition": "The tendency to frame personal sleep/recovery sacrifice as a moral signal of leadership and to encode that sacrifice into organizational expectations.",
+      "finding": "Musk publicly equates world-changing impact with long hours, making recovery sacrifice a marker of commitment (ev_033). He explicitly states a desire for his own suffering to exceed workers', reinforcing identity through endurance (ev_039). This personal stance becomes institutional via the \"extremely hardcore\" ultimatum, exporting recovery compression as a team norm (ev_046). Earlier patterns of sleeping at work while coding nights establish the long-standing identity link between endurance and progress (ev_006).",
+      "evidence_ids": [
+        "ev_033",
+        "ev_039",
+        "ev_046",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "circadian_toolization",
+      "definition": "Operating schedules are treated as freely malleable levers (nights, extended stretches) with limited regard for biological synchrony or stable rhythms.",
+      "finding": "Early-stage behavior included coding through nights and sleeping at the office, indicating deliberate circadian misalignment for throughput (ev_006). Later, a company-wide demand for \"extremely hardcore\" work generalized irregular, extended schedules across the workforce (ev_046). His quip about vacations being a \"problem\" reflects a broader posture that rest windows are dispensable when in conflict with mission velocity (ev_009). The consistent theme is using time-of-day and duration as tunable inputs rather than constraints, with little evidence of rhythm-preserving design.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_046",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

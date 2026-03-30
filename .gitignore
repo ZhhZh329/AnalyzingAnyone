@@ -11,3 +11,6 @@ wheels/
 
 # LLM config with API keys — never commit
 llm.yaml
+
+# macOS Finder metadata
+.DS_Store

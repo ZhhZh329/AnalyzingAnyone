@@ -90,6 +90,10 @@ def parse_date_key(date_value: str) -> tuple[int, int, int, str]:
     return numbers[0], numbers[1], numbers[2], raw
 
 
+def normalize_text(value: str) -> str:
+    return " ".join((value or "").strip().lower().split())
+
+
 def merge_assemblies(subject: str, assemblies: list[dict]) -> dict:
     """
     Merge chunked evidence-assembly outputs into one globally indexed assembly.
@@ -101,9 +105,28 @@ def merge_assemblies(subject: str, assemblies: list[dict]) -> dict:
             indexed_events.append((parse_date_key(event.get("date", "")), chunk_idx, event))
     indexed_events.sort(key=lambda item: (item[0], item[1], item[2].get("id", "")))
 
+    deduped_events: list[tuple[tuple[int, int, int, str], int, dict]] = []
+    event_seen: dict[tuple[str, str, str], int] = {}
+    for sort_key, chunk_idx, event in indexed_events:
+        dedupe_key = (
+            event.get("date", ""),
+            normalize_text(event.get("what", "")),
+            normalize_text(event.get("context", "")),
+        )
+        existing_idx = event_seen.get(dedupe_key)
+        if existing_idx is None:
+            merged_event = dict(event)
+            merged_event["source_ids"] = list(dict.fromkeys(event.get("source_ids", [])))
+            deduped_events.append((sort_key, chunk_idx, merged_event))
+            event_seen[dedupe_key] = len(deduped_events) - 1
+        else:
+            existing_event = deduped_events[existing_idx][2]
+            combined_sources = existing_event.get("source_ids", []) + event.get("source_ids", [])
+            existing_event["source_ids"] = list(dict.fromkeys(combined_sources))
+
     event_id_map: dict[tuple[int, str], str] = {}
     merged_events: list[dict] = []
-    for position, (_, chunk_idx, event) in enumerate(indexed_events, start=1):
+    for position, (_, chunk_idx, event) in enumerate(deduped_events, start=1):
         old_id = event.get("id", f"evt_local_{chunk_idx}_{position}")
         new_id = f"evt_{position:03d}"
         event_id_map[(chunk_idx, old_id)] = new_id
@@ -123,8 +146,29 @@ def merge_assemblies(subject: str, assemblies: list[dict]) -> dict:
             indexed_cards.append((parse_date_key(card.get("date", "")), chunk_idx, merged_card))
     indexed_cards.sort(key=lambda item: (item[0], item[1], item[2].get("source_id", ""), item[2].get("summary", "")))
 
+    deduped_cards: list[dict] = []
+    card_seen: dict[tuple[str, str, str, str, str], int] = {}
+    for _, _, card in indexed_cards:
+        dedupe_key = (
+            card.get("source_id", ""),
+            card.get("kind", ""),
+            card.get("date", ""),
+            normalize_text(card.get("summary", "")),
+            normalize_text(card.get("verbatim_quote", "")),
+        )
+        existing_idx = card_seen.get(dedupe_key)
+        if existing_idx is None:
+            merged_card = dict(card)
+            merged_card["timeline_refs"] = list(dict.fromkeys(card.get("timeline_refs", [])))
+            deduped_cards.append(merged_card)
+            card_seen[dedupe_key] = len(deduped_cards) - 1
+        else:
+            existing_card = deduped_cards[existing_idx]
+            combined_refs = existing_card.get("timeline_refs", []) + card.get("timeline_refs", [])
+            existing_card["timeline_refs"] = list(dict.fromkeys(combined_refs))
+
     merged_cards: list[dict] = []
-    for position, (_, _, card) in enumerate(indexed_cards, start=1):
+    for position, card in enumerate(deduped_cards, start=1):
         merged_card = dict(card)
         merged_card["id"] = f"ev_{position:03d}"
         merged_cards.append(merged_card)
