@@ -255,6 +255,12 @@ discipline prompt 的职责，不是提供领域知识本身，而是提供：
 
 ## 11. 新增一个 discipline 时的推荐流程
 
+默认采用最小实现：
+
+- 直接在 `agents/discipline/<name>/` 下写 `agent.yaml`、`prompt.md` 和 `skills/`
+- 优先把时间花在梳理二级学科/流派以及 skill 边界上
+- 除非确实有复用价值，否则不要额外搭研究卡、边界文档、样例目录等辅助层
+
 1. 先定义这个 discipline 在项目里的边界
 2. 明确它与相邻学科的分工
 3. 选 4-8 个真正有区分度的 lens

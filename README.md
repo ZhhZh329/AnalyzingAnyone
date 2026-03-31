@@ -271,7 +271,6 @@ Current helper scripts include:
 - [`scripts/fetch_sam_altman_blog.py`](./scripts/fetch_sam_altman_blog.py)
 - [`scripts/fetch_obama_weekly_addresses.py`](./scripts/fetch_obama_weekly_addresses.py)
 - [`scripts/fetch_steve_jobs_book.py`](./scripts/fetch_steve_jobs_book.py)
-- [`scripts/run_medicine_example.py`](./scripts/run_medicine_example.py)
 - [`scripts/test_openai_compat_api.py`](./scripts/test_openai_compat_api.py)
 
 ## Notes
@@ -285,7 +284,7 @@ Current helper scripts include:
 The repository currently contains:
 
 - multiple discipline packs
-- a medicine discipline and example outputs
+- a medicine discipline
 - a reusable OpenAI-compatible API test script
 - an internal agent guide for writing future skills
 
