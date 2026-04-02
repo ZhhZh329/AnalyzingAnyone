@@ -1,0 +1,5 @@
+name: economics
+display_name: "经济学 Economics"
+role: discipline
+prompt: prompt.md
+skills: []
