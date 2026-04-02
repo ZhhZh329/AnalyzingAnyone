@@ -11,3 +11,9 @@ wheels/
 
 # LLM config with API keys — never commit
 llm.yaml
+
+# macOS
+.DS_Store
+
+# Debug output
+output/debug_*.json
