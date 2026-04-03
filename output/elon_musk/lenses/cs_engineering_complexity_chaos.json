@@ -4,163 +4,172 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper - acts as if he can fundamentally reorder systems",
-      "finding": "Musk consistently demonstrates world-shaper orientation across decades. He doesn't merely respond to existing structures but attempts to reshape them entirely - from space exploration (ev_008, ev_018) to automotive (ev_011) to government (ev_033). His 2002 statement that SpaceX had less than 10% success probability yet he 'accepted that I would probably lose everything' reveals a belief in agency that borders on willful creation of reality. He acts as though the future is malleable rather than determined by structural forces. This orientation is consistent from Zip2 through Tesla, SpaceX, Twitter, and DOGE.",
+      "assessment": "极端的世界塑造者，主动构建而非被动响应结构",
+      "finding": "Musk表现出强烈的能动性信念——他不是等待世界改变，而是主动创造改变。从第一性原理思维（ev_020）到同时管理多家革命性公司，Musk坚信个体可以塑造历史进程。这种姿态在2008年达到顶峰——当Tesla和SpaceX几乎同时破产时，他选择将所有剩余资金投入而非接受失败（ev_015）。然而，这种过高的能动性信念在DOGE项目中遭遇挑战：他尝试用企业方法论改造政府系统，但发现复杂机构的演化路径远超个人控制能力（ev_055）。",
       "evidence_ids": [
-        "ev_008",
-        "ev_011",
-        "ev_018",
-        "ev_033"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "epistemic_style",
-      "assessment": "First principles reasoning mixed with impulsive Twitter-era leaps",
-      "finding": "Musk explicitly articulates first principles thinking (ev_025: 'physics teaches you to reason from first principles rather than by analogy'), and his engineering successes (Falcon rockets, SpaceX Dragon, Neuralink) demonstrate this. However, the $420 tweet (ev_015) and Autopilot controversy (ev_033) show epistemic failures - he reasoned to a conclusion (funding secured) without adequate verification. His epistemic style is: rigorous on technical problems, impulsive on social/business judgment. He holds beliefs with extreme conviction but can be badly wrong when those beliefs involve complex social systems rather than physical constraints.",
-      "evidence_ids": [
-        "ev_025",
+        "ev_020",
         "ev_015",
-        "ev_033"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "abstraction_formalization",
-      "assessment": "Dual capacity - abstracts vision but operationalizes hands-on",
-      "finding": "Musk shows high abstraction in his visions (Mars colonization as 'bifurcation of history' ev_022; Hyperloop white paper ev_049), but equally high operational involvement (code review ev_052, sleeping on factory floor ev_056). His 'algorithm' management framework (ev_016: 'most common error is optimizing something that shouldn't exist') is an abstraction for problem-solving. The pattern is: abstract vision → massive operational engagement to make it real. He doesn't stay at the abstraction level - he descends into implementation.",
-      "evidence_ids": [
-        "ev_016",
-        "ev_022",
-        "ev_049",
-        "ev_052",
-        "ev_056"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": "Seeks control over mission-critical systems, accepts loss of control elsewhere",
-      "finding": "Musk demonstrates strong control orientation but strategically. He took over Tesla as CEO when near bankruptcy (ev_011), invests all capital into his ventures, leads DOGE (ev_033). Yet he was ousted from PayPal (ev_007) and sold Twitter (ev_029). The pattern suggests he seeks control over systems where he believes his involvement is mission-critical, but will yield control where he judges his contribution less essential. His control is means to an end, not an end in itself - he lets go when mission doesn't require holding on.",
-      "evidence_ids": [
-        "ev_007",
-        "ev_011",
-        "ev_029",
-        "ev_033"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission overwhelmingly dominates - relational costs treated as acceptable losses",
-      "finding": "Musk's pattern is unambiguous: mission drives all. He told advertisers 'go fuck yourself' (ev_019) and lost 79% of Twitter equity value. He fired engineers on the spot for disagreement (ev_054), laid off 80% of Twitter workforce (ev_018). His statement that he'd 'rather commit seppuku than fail' (ev_035) captures the intensity. He genuinely seems to believe that the mission (making humanity multi-planetary, accelerating sustainable energy) justifies massive relational destruction. This is a feature, not a bug in his operating model.",
-      "evidence_ids": [
-        "ev_018",
-        "ev_019",
-        "ev_035",
-        "ev_054"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": "Embraces extreme risk probabilistically - knows odds are bad but acts anyway",
-      "finding": "Musk's risk posture is distinctive: he explicitly calculates and accepts very low probability of success. SpaceX: 'less than 10%' (ev_008). Mars: 'risk of fatality is quite high... no way around it' (ev_023). He works 80-100 hour weeks (ev_032), borrowed money to pay rent during SpaceX crisis (ev_010). He doesn't ignore risk - he acknowledges it clearly, then acts anyway. This is not recklessness (which ignores risk) but rather extreme risk tolerance founded on conviction that the mission justifies the gamble. His personal fortunes and physical safety are fully committed.",
-      "evidence_ids": [
-        "ev_008",
-        "ev_010",
-        "ev_023",
-        "ev_032"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Opportunistic relationship - subverts existing hierarchies, creates new ones",
-      "finding": "Musk exhibits a paradoxical relationship with hierarchy. He left South Africa to avoid mandatory military service under apartheid (ev_004), was ousted from PayPal CEO role (ev_007), yet now leads a government efficiency initiative (ev_033, ev_057). His pattern is: reject hierarchies that constrain his mission; create or capture hierarchies that enable it. He doesn't have ideological opposition to hierarchy - he has pragmatic engagement with it. When he ran Tesla and SpaceX, he was the hierarchy. His $288 million political donation (ev_046) bought access to institutional power.",
-      "evidence_ids": [
-        "ev_004",
-        "ev_007",
-        "ev_033",
-        "ev_046",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Escalates conflicts publicly - uses confrontation as default tool",
-      "finding": "Musk's conflict strategy is consistently escalatory. He publicly feuded with SEC (ev_015), told advertisers to 'go fuck yourself' (ev_019), fired engineers on the spot (ev_054). His 'demon mode' (ev_042) description by Isaacson captures this: 'he will fire people, destroy entire teams' work, demand impossible deadlines - and then somehow the product ships.' He treats conflict as productive rather than destructive - a feature of chaos-edge operation. He doesn't seem capable of or interested in suppression or delay strategies. Conflict is his native mode for disagreement.",
-      "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_042",
-        "ev_054"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "time_horizon",
-      "assessment": "Mission-scale - optimizing for multi-decade to century horizons",
-      "finding": "Musk's time horizon is distinctly mission-scale, not short or conventional long-term. His Mars colonization vision (ev_022) is explicitly about 'history bifurcating' - a multi-century framing. He accepts that first Mars journeys will kill people (ev_023) and says he'd 'like to die on Mars but not on impact' (ev_024). His $420 billion net worth fluctuations (ev_055) matter less to him than the 100-year mission. His 2013 statement that he wants to 'maximize the probability of the future being better' (ev_030) frames everything in terms of very long time horizons. Short-term suffering is rationalized as necessary for distant payoffs.",
-      "evidence_ids": [
-        "ev_022",
-        "ev_023",
-        "ev_024",
-        "ev_030",
         "ev_055"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for structural redesign over incremental repair",
-      "finding": "Musk consistently chooses rebuild over patch. SpaceX rebuilt rocket industry from scratch. Tesla rebuilt car manufacturing (ev_014, ev_028). Twitter was radically restructured - 80% workforce reduction, fundamental platform changes (ev_018). Hyperloop was a new design not an improvement on existing rail (ev_049). His 'the algorithm' (ev_016) is explicitly about identifying fundamental problems versus symptoms. His statement that 'the most common error is to optimize something that shouldn't exist' is a rebuild manifesto. He seems constitutionally incapable of patch-mode thinking - when problems exist, he wants to redesign the system.",
+      "construct_key": "epistemic_style",
+      "assessment": "第一性原理思维，从基本物理事实推导而非类比推理",
+      "finding": "Musk的认识论根植于物理学框架，表现为对还原主义的强烈偏好。他明确表示'物理学教会我从第一性原理而非类比推理'（ev_020）——火箭成本不应基于市场价格，而应计算原材料的物理成本。这种方法论在SpaceX取得突破性成功（ev_010），但也可能导致他对复杂系统中涌现现象的低估。值得注意的是，他承认Douglas Adams的《银河系漫游指南》影响了他的认识论——'正确表述问题比找到答案更难'（ev_031），这暗示他意识到问题框架本身比答案更重要。",
       "evidence_ids": [
-        "ev_016",
+        "ev_020",
+        "ev_010",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "高度偏好抽象化与形式化，同时能在复杂现象中识别简单生成规则",
+      "finding": "Musk展现出复杂系统思维的核心能力——从复杂现象中提取简单规则。他将火星殖民问题抽象为成本方程：'移民火星的成本应大致相当于美国房价中位数，约20万美元'（ev_027）。他发布了Hyperloop白皮书（ev_024）并将概念开源——'我只是想让人们知道这是可能的'（ev_023）。这种形式化能力在2016年IAC演讲中达到高潮，他将人类未来简化为二元选择：'留在地球等待灭绝，或成为多行星物种'（ev_029）。然而，他对简单规则的执念有时导致过度简化——如在Tesla自动驾驶命名上忽视了工程团队关于安全风险的警告（ev_032）。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_024",
+        "ev_023",
+        "ev_029",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "试图在复杂系统中施加高度控制，但结果常超出预期",
+      "finding": "Musk的控制取向呈现复杂图景。在技术系统他表现出极强控制欲——坚持'Autopilot'和'Full Self-Driving'品牌命名，尽管工程师警告这会危及生命（ev_032）。他在Tesla生产线上经常绕过工程团队做决策（ev_038），这种直接干预在Model 3危机中短暂有效。然而，在复杂社会-技术系统中，他的控制往往产生非预期结果。Twitter收购（ev_046-47）后的大规模裁员和'DOGE'政府效率部门（ev_055）都引发了远超预期的混乱——系统自有其演化逻辑。Isaacson记录了Musk的'demon mode'：他会解雇员工、摧毁团队工作、设定不可能的截止日期，然后产品 somehow 竟然发货（ev_050），这正是试图用机械式控制管理涌现系统的典型表现。",
+      "evidence_ids": [
+        "ev_032",
+        "ev_038",
+        "ev_046",
+        "ev_047",
+        "ev_050",
+        "ev_055"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "极端使命驱动，愿为宏大目标承担任何人际代价",
+      "finding": "Musk的行为模式显示他为使命可以牺牲几乎任何关系成本。2018年Twitter收购后，他立即解雇约80%员工并发出最后通牒：'极端硬核工作或离开'（ev_046）。他曾因不同意而当场解雇工程师（ev_034），有时几天后才重新雇用。他对Joe Rogan说：'我只想思考未来而不是悲伤'（ev_042），暗示情感关系为使命让路。在2023年DealBook峰会上，他对撤离的广告商爆粗口：'去你的'（ev_051）——宁可失去收入来源也不妥协于他认为不合理的压力。然而，这种模式也有代价：他的第一任妻子Justine描述他'在情感上缺席'，他的个人生活充满破裂的关系。",
+      "evidence_ids": [
+        "ev_046",
+        "ev_034",
+        "ev_042",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "极端风险承担者，将个人财务推向悬崖边缘，在不确定性中主动寻求高波动",
+      "finding": "Musk的风险姿态远超常规企业家。他公开表示：'我以为成功概率不到10%。我只是接受我可能会失去一切'（ev_011）——在创办SpaceX时。在2008年金融危机期间，他向朋友借钱付租金（ev_014），同时将所有资金投入Tesla和SpaceX。他的名言'宁可切腹也不失败'（ev_019）和'创业就是凝视深渊并吃玻璃'（ev_18）将风险承担戏剧化为存在主义选择。值得注意的是，Musk区分了两种风险：可预测的商业风险（他接受）和不可预测的系统性风险（他有时低估，如在DOGE项目中）。他对自动驾驶时间表的反复预测失败（ev_026）显示他在技术不确定性面前有时过度自信。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_019",
         "ev_018",
-        "ev_028",
-        "ev_049"
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "藐视传统等级制度，通过个人影响力而非正式权威领导",
+      "finding": "Musk对正式权威和等级结构表现出持续藐视。他不接受传统商业等级——在Tesla他经常绕过管理层直接与工程师交流，在SpaceX他深入技术细节而非战略决策。他公开挑战NASA、SEC和汽车行业的既定权威。他通过个人推特（ev_040, ev_047）而非正式渠道发布重大消息，显示对传统企业传播渠道的不屑。然而，他的权力运作依赖非正式网络和个人魅力——Isaacson描述他通过'demon mode'和'魅力时刻'的交替来驱动组织（ev_050）。在DOGE项目中，他试图将这种个人主导模式移植到政府机构，但发现联邦机构的权力分布远比企业分散且有弹性。",
+      "evidence_ids": [
+        "ev_040",
+        "ev_047",
+        "ev_050",
+        "ev_055"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "对抗性冲突策略，倾向于升级而非和解",
+      "finding": "Musk的冲突处理模式是激进对抗。面对工程师对Autopilot命名的安全担忧，他选择忽略（ev_032）。SEC起诉他证券欺诈时，他选择了法律战而非和解条款的软化（ev_041）。在DealBook峰会上，他对广告商的回应是公开羞辱（ev_051）。在Starlink事件中，他秘密限制克里米亚附近的覆盖范围以避免'成为战争帮凶'（ev_044-45），展现了单边决策而非多方协商的模式。他的'the bird is freed'推文（ev_047）将冲突戏剧化为解放叙事。这种策略在某些情况下有效——SpaceX通过对抗NASA既有的火箭采购体系成功了——但在需要长期合作的场景中（如与广告商、监管机构）效果较差。",
+      "evidence_ids": [
+        "ev_032",
+        "ev_041",
+        "ev_051",
+        "ev_044",
+        "ev_045",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "极端长期主义，思考数十年到数百年时间尺度",
+      "finding": "Musk的决策视野远超常规商业领袖。他思考的是地质时间尺度——将人类转变为'多行星物种'以应对'最终灭绝事件'（ev_029）。Neuralink的创立源于他对AI存在风险的担忧，目标是'如果无法击败AI，就加入它'（ev_030）——这是一个跨代际的技术愿景。他的火星殖民计划将成本降至20万美元（ev_027），这需要数十年的技术演进。Starlink在乌克兰的部署体现了他对地缘政治格局的长期关注。然而，这种长期主义也导致对短期后果的低估——Tesla生产危机（ev_024）和Twitter混乱（ev_046）显示他有时忽视近期组织健康。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_030",
+        "ev_027",
+        "ev_024",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "极端偏好结构性重建，对局部修补缺乏耐心",
+      "finding": "Musk明显倾向于革命性重构而非渐进式改进。Twitter收购后，他不是优化现有结构，而是立即解雇80%员工并发送'极端硬核或离开'的最后通牒（ev_046）。在Tesla Model 3危机中，他移除了昂贵的自动化输送系统，改用人工劳动——'人类被低估了'（ev_037），这是一个根本性的系统重设计。DOGE项目更是如此——不是改革流程，而是大规模裁员和系统关闭（ev_055）。他曾承认'过度自动化是一个错误'（ev_037），但这更多是对执行层面的反思，而非对重构偏好的修正。Hyperloop概念的开源（ev_023）也是同样逻辑——他选择发布蓝图让'任何人都可以做'，而非自己逐步构建。",
+      "evidence_ids": [
+        "ev_046",
+        "ev_037",
+        "ev_055",
+        "ev_023"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Partial metacognition - aware of some patterns but repeats destructive ones",
-      "finding": "Musk shows genuine self-awareness in some domains but blind spots in others. He recognizes his suffering (ev_012: 'my suffering should be greater than theirs') and admits to 'demon mode' (ev_042). He acknowledges his childhood was unhappy (ev_002) and his father was terrible. Yet his pattern of conflict escalation, sleep deprivation, and relationship destruction repeats despite visible costs. He seems aware of what he does but not able to change the pattern. His statement that 'there are many nights I sleep alone' (ev_039) reveals awareness of personal costs. The gap between awareness and change is the notable pattern - metacognition without behavioral modification.",
+      "assessment": "有限的自我认知，在技术判断上有明显盲点",
+      "finding": "Musk展现出部分元认知能力——他承认过度自动化是错误（ev_037），承认童年选择与虐待父亲同住是'一个错误'（ev_001）。然而，他在关键领域存在系统性盲点。他对自动驾驶时间表的预测反复失败（ev_026）显示他未能从错误中学习。他对自身影响力和权力范围的评估在DOGE项目中受到挑战——联邦法官裁定他实际上是DOGE的'de facto leader'（ev_055）。他的风险评估能力也有局限：尽管公开表示SpaceX成功概率不到10%（ev_011），但他显然低估了2008年同时面临两家公司破产的系统性风险。他对'做有意义的事'的追求（ev_005）体现了一种元认知框架——反思什么值得做——但对'如何做'的系统复杂性认知不足。",
       "evidence_ids": [
-        "ev_002",
-        "ev_012",
-        "ev_039",
-        "ev_042"
+        "ev_037",
+        "ev_001",
+        "ev_026",
+        "ev_055",
+        "ev_011",
+        "ev_005"
       ],
       "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "chaos_navigation",
-      "definition": "The capacity to intentionally position oneself at the 'edge of chaos' - the critical zone between order and disorder where adaptation and innovation are maximized. This differs from risk tolerance because it's about seeking complex, high-uncertainty environments rather than merely accepting bad odds.",
-      "finding": "Musk demonstrates exceptional chaos navigation ability. He chooses domains (rocketry, electric vehicles, brain-computer interfaces, government reform) that are inherently chaotic and resistant to control. Rather than trying to reduce chaos, he operates within it - SpaceX succeeded precisely because traditional aerospace was too ordered and bureaucratic. His move into government (DOGE) was a chaos-seeking act - applying corporate disruption methods to one of the most complex, emergent systems in existence. His stated desire to maintain 'the light of consciousness' (ev_029) suggests he views chaos as necessary for progress, not something to be eliminated. This is not risk tolerance - it's active navigation of complexity.",
+      "dimension_name": "临界催化型干预 (Critical Point Intervention)",
+      "definition": "在复杂系统的临界点施加最小化精准干预以触发最大级联效应的能力。这是复杂性科学中识别杠杆点的实践体现——在正确时刻的少量资源投入可以改变整个系统演化轨迹。",
+      "finding": "Musk展现出卓越的临界催化能力。2008年SpaceX第三次发射失败后，他用仅剩的资金进行第四次尝试并取得成功（ev_016），这一小步触发了NASA价值16亿美元的合同（ev_017），彻底改变了商业航天轨迹。2018年Model 3生产危机时，他搬入工厂车间，每周工作120小时（ev_024），这一个人牺牲不仅解决了即时生产问题，还重塑了Tesla的组织文化。在Starlink事件中，他在乌克兰危机中做出单边决定——限制克里米亚附近的覆盖范围以避免成为'战争帮凶'（ev_044-45）——这一微小但关键的干预影响了地缘政治动态。Hyperloop白皮书（ev_023-24）的发布则是在思想市场中植入一个'吸引子'，期望它自我演化。Musk的策略不是持续施加力量，而是在临界点选择正确的杠杆。",
       "evidence_ids": [
-        "ev_008",
-        "ev_029",
-        "ev_033"
+        "ev_016",
+        "ev_017",
+        "ev_024",
+        "ev_044",
+        "ev_045",
+        "ev_023",
+        "ev_024"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "temporal_discounting_pattern",
-      "definition": "A distinctive approach to time preference where the near future is heavily discounted in service of far-future outcomes. This differs from 'long-term thinking' because it involves actively choosing immediate suffering and accepting near-term failure probability for distant payoffs.",
-      "finding": "Musk exhibits extreme positive temporal discounting - he acts as though the present matters little compared to the far future. He works 120-hour weeks (ev_031, ev_032), sleeps on factory floors (ev_056), accepts near-zero probability of success for SpaceX (ev_008), and publicly states first Mars journeys will be fatal (ev_023). His 'Go fuck yourself' to advertisers (ev_019) and 79% Twitter value destruction (ev_055) are acceptable because the timeline of those decisions doesn't intersect with the timeline of Mars colonization success. This is not simple patience - it's active depression of present-utility in favor of far-future utility. It's a cognitive pattern that enables extraordinary short-term sacrifice but also enables short-term destruction that's hard to reverse.",
+      "dimension_name": "混沌驾驭者悖论 (Chaos Surfer Paradox)",
+      "definition": "在某些系统中表现出驾驭混沌的卓越能力（接受不确定性、在危机中发现机会、利用涌现），但在另一些系统中表现出过度控制的倾向（试图消除混沌、用机械式方法管理复杂系统）。这种内在张力是许多极端成就和失败的根本原因。",
+      "finding": "Musk的行为揭示了一个深层悖论。在技术领域，他是天生的混沌驾驭者——SpaceX的迭代式开发（ev_013）、Tesla在Model 3危机中的适应性调整（ev_037）、Starlink在乌克兰的快速部署（ev_027）都展现了对不确定性的拥抱和对涌现机会的捕捉。他曾表示'人类被低估了'（ev_037），承认涌现性。但在组织和社会系统面前，他倾向于过度控制——Twitter的彻底重组（ev_046）、DOGE的大规模裁员和系统关闭（ev_055）、坚持Autopilot命名而忽视工程师警告（ev_032）都反映了他试图用命令与控制模式管理本质上不可预测的系统。他的'demon mode'（ev_050）——高压、即时决策、摧毁团队工作然后 somehow 成功——是混沌驾驭与过度控制交替出现的具体表现。这一悖论解释了为何他在技术领域持续成功，但在复杂社会系统中频繁遭遇非预期后果。",
       "evidence_ids": [
-        "ev_008",
-        "ev_019",
-        "ev_023",
-        "ev_031",
-        "ev_032",
+        "ev_013",
+        "ev_037",
+        "ev_027",
+        "ev_046",
         "ev_055",
-        "ev_056"
+        "ev_032",
+        "ev_050"
       ],
       "local_support": "strong"
     }

@@ -4,150 +4,165 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Musk是典型的世界塑造者，主动构建、重构甚至摧毁网络结构，而非被动适应现有网络位置",
-      "finding": "从网络视角看，Musk展现出极强的网络建构能动性(network agency)。他频繁主动打破既有关系网络以追求战略目标：离开南非( evt_005)、放弃斯坦福博士学位(evt_007)、在PayPal被驱逐后创建SpaceX(evt_013)、收购Twitter后大规模裁员80%(evt_018)。他不是网络结构的响应者，而是主动重塑网络格局的行动者。Burt的结构洞理论在此适用——Musk反复在不同领域间跳跃，占据新的中介位置而非固守已有网络。",
+      "assessment": "Strong network agency with preference for building over bonding—Musk creates new network structures rather than working within existing ones",
+      "finding": "Musk exhibits exceptionally high network agency through deliberate network construction and destruction patterns. His emigration from South Africa (evt_004), dropping out of Stanford PhD (evt_005), and repeated willingness to 'burn bridges' with organizations (PayPal ousting at evt_008, Twitter acquisition at evt_028) demonstrate a pattern of treating network positions as strategic assets to be reassembled rather than stable social capital to preserve. The Twitter acquisition and subsequent firing of ~80% of employees (ev_046) reveals that Musk approaches existing networks with a 'rebuild over patch' philosophy even when the cost is enormous organizational disruption. His network agency is further evidenced by his ability to simultaneously occupy bridging positions across aerospace (SpaceX), automotive (Tesla), brain-computer interfaces (Neuralink), social media (X), and government (DOGE)—each requiring distinct network cultivation. However, his network building is notably 'node-centric' rather than 'community-centric'—he builds networks that concentrate power at his position rather than distribute influence across connected actors.",
       "evidence_ids": [
-        "ev_007",
-        "ev_013",
-        "ev_018"
+        "ev_004",
+        "ev_005",
+        "ev_046",
+        "ev_047"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Musk更依赖跨圈层的弱连接获取异质信息，而非深度嵌入某一紧密知识群体",
-      "finding": "Musk的信息获取模式呈现典型的'弱连接中介'特征。他从物理学(first principles thinking, ev_025)跨界到互联网(Zip2, PayPal)、航天(SpaceX)、汽车(Tesla)、脑机接口(Neuralink)、社交媒体(Twitter/X)、AI(xAI)。这种跨领域知识桥接能力正是Granovetter弱连接理论的体现——非冗余信息往往来自弱连接而非强连接。Musk公开表示'物理学框架'思维(ev_025)，倾向于从第一性原理而非类比推理，这种认知风格强化了对跨领域弱连接的依赖。",
+      "assessment": "First-principles reasoning as explicit rejection of network-derived knowledge—seeks raw data over social information channels",
+      "finding": "Musk's epistemic style explicitly positions him against relying on network-transmitted knowledge (analogy, convention, 'how it's always been done'). His description of first-principles thinking (ev_020) frames social transmission of knowledge as epistemically inferior to individual deduction from 'fundamental truths.' This creates a distinctive network position: Musk positions himself as a direct information processor rather than a network information intermediary. However, this self-presentation somewhat contradicts his actual practice—his SpaceX founding (evt_009) involved learning from aerospace community experts in Russia, and his Tesla involvement (evt_011) relied on engineering networks. The 'first-principles' framing may function more as a legitimacy narrative for his unconventional decisions than an accurate description of his information gathering. His Twitter/X platform ownership (evt_028) gives him control over an information distribution network, suggesting he understands the value of information flow even while claiming to bypass social information channels. This creates an interesting tension between stated epistemology and structural behavior.",
       "evidence_ids": [
-        "ev_025",
-        "ev_027",
-        "ev_028"
+        "ev_020",
+        "ev_010",
+        "ev_012"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Musk展现出关系型思维模式，能够识别和利用结构洞位置进行网络套利",
-      "finding": "从网络视角分析，Musk表现出对结构位置的高度敏感性。他多次精确识别尚未被连接的网络节点并进行'网络套利'：早期识别互联网创业机会(Zip2)、在NASA和商业航天之间找到间隙(SpaceX)、在传统汽车与软件之间建立Tesla、在AI发展路线上创立xAI(evt_028)。这种思维模式超越了传统'这个人有什么能力'的个体属性视角，转向'谁能连接谁''什么位置最有价值'的关系视角。",
+      "assessment": "Moderate-High—prefers structural/systemic thinking but subordinates it to mission goals and immediate feasibility",
+      "finding": "Musk demonstrates moderate-high abstraction capacity, particularly in system design (Hyperloop white paper in evt_016, Mars colonization architecture in evt_019) and technical frameworks (first-principles physics approach in ev_020). However, his abstraction is consistently subordinated to feasibility and mission rather than pursued for its own intellectual satisfaction—witness the rapid drop from Stanford PhD (evt_005) which he described as not helping 'the world in any significant way' (ev_005). His network thinking shows structural awareness—he recognizes structural holes between industries (space + automotive, energy + transport) and positions himself to exploit them. Yet his high-profile predictions (fully autonomous driving by 2017 in evt_018) and the 'Autopilot' branding controversy (evt_020, ev_032) reveal instances where abstraction outpaces practical constraints. His formalization tendency is most visible in his organizational approaches: The Boring Company (evt_021) and DOGE (evt_032) both apply explicit systematic frameworks to human systems. The 'demon mode' management pattern (ev_050) suggests a structure where abstraction becomes literal destruction of existing organizational structures rather than careful formalization.",
       "evidence_ids": [
-        "ev_008",
-        "ev_011",
-        "ev_028"
+        "ev_020",
+        "ev_024",
+        "ev_027",
+        "ev_050"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Musk的控制主要来自网络位置而非正式权力，但会同时动用两者实现控制目标",
-      "finding": "Musk的控制策略呈现'网络控制+正式权威'混合模式。网络控制体现在：他通过控制信息流和资源分配实现影响(如Tesla Autopilot命名争议中工程师的警告未被采纳, evt_025)。正式权力方面，他在Twitter收购后亲自审查代码提交以确定生产力(ev_052)，在DOGE中被联邦法官裁定为实际领导者(evt_057)。两种控制机制的使用体现了他对网络位置价值(信息优势)和正式权威(决策权)的双轨依赖。",
+      "assessment": "Very High—seeks information flow control, organizational dominance, and gatekeeping positions across all networks",
+      "finding": "Musk's network behavior reveals extremely high control orientation across multiple dimensions. First, information flow control: Twitter/X acquisition (evt_028) can be understood as acquiring structural position over a global information network—his 'the bird is freed' tweet (ev_047) frames this as liberation, but the subsequent content moderation decisions and advertiser confrontation (evt_029, ev_051) reveal desire to control information flow. Second, organizational dominance: the 'demon mode' pattern (ev_050) shows Musk repeatedly destroying and rebuilding organizational structures around himself, with firing engineers on the spot (ev_034) demonstrating low tolerance for autonomous nodes in his networks. Third, gatekeeping: the Starlink near-Crimea decision (ev_044-45) shows him positioning himself as a critical infrastructure gatekeeper with geopolitical implications—his statement that agreeing to Ukrainian requests would make SpaceX 'explicitly complicit in a major act of war' reveals awareness of network control as a form of geopolitical power. Fourth, technical control: Tesla's 'Autopilot' branding dispute (ev_032) reveals willingness to control how technology is perceived and named, subordinating engineering safety concerns to narrative control. The DOGE role (evt_032) extends this to government systems—applying corporate control logic to federal networks.",
       "evidence_ids": [
-        "ev_033",
-        "ev_052",
-        "ev_057"
+        "ev_047",
+        "ev_050",
+        "ev_044",
+        "ev_045",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Musk高度优先 mission，频繁以关系网络为代价追求战略目标",
-      "finding": "网络视角下，Musk展现出明显的' mission优先于关系'模式。典型案例包括：PayPal合并后被驱逐，他并未试图修复与Confinity团队的关系，而是转向全新领域(evt_011)；Twitter收购后大规模裁员并对广告主说'Go fuck yourself'(ev_019)，显然将收购使命置于既有关系网之上；2024年政治转向共和党，捐出2.88亿美元(evt_046)，打破了其原有政治网络。这种模式对应Burt理论中' tertius gaudens'——利用网络结构追求自身目标，不惜破坏既有关系。",
+      "assessment": "Consistently prioritizes mission over relational maintenance—willing to destroy networks for goal achievement",
+      "finding": "Musk's career shows a consistent pattern of prioritizing mission over relational comfort. The Zip2 sale (evt_006) required functioning with co-founder brother Kimbal but the subsequent PayPal ousting (evt_008) occurred despite (or because of) his absence on honeymoon—implying trust relationships were subordinate to organizational control. The 2008 crisis period (evt_011, evt_013) shows him investing personal fortune (ev_015) rather than building coalition support. The Model 3 production crisis (evt_024) saw him remove automation systems and work 120-hour weeks—prioritizing mission achievement over both financial efficiency and sustainable work relationships. The Twitter acquisition and mass layoffs (evt_028, ev_046) destroyed thousands of employment relationships for strategic reorganization. The Starlink geopolitical decision (ev_044) prioritized maintaining his own moral position over preserving the relationship with Ukrainian military partners. His political shift (evt_030, ev_054) shows a willingness to abandon his previous political network when it no longer served his perceived mission. The 'go fuck yourself' to advertisers (ev_051) is perhaps the most visible expression of mission-over-relations prioritization—explicitly choosing confrontation over maintaining advertiser relationships. However, his statements about suffering with workers (ev_039) and describing his first child's death and returning to work (ev_048) suggest this prioritization extends to personal relationships as well.",
       "evidence_ids": [
-        "ev_007",
-        "ev_018",
-        "ev_019",
-        "ev_046"
+        "ev_015",
+        "ev_044",
+        "ev_046",
+        "ev_051",
+        "ev_048",
+        "ev_039"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Musk的网络结构偏向'机会网'导向——稀疏但跨界的连接模式，偏好高风险高回报机会",
-      "finding": "从网络封闭度与风险关系分析，Musk的网络是典型的'机会网'模式：弱连接丰富但强连接相对稀疏。他从一个领域跨越到另一个全新领域(南非→加拿大→美国→互联网→航天→汽车→脑机接口→AI→社交媒体→政府)，每次跨界都断开旧有网络、构建全新连接。这种结构对应高风险偏好——稀疏网络缺乏紧密网络的'安全网'功能，但提供了跨界套利的优势(SpaceX在NASA合同 evt_019, Tesla在汽车/软件交汇处 evt_014)。",
+      "assessment": "Extreme risk tolerance with asymmetric exposure—willing to risk catastrophic loss for transformative outcomes",
+      "finding": "Musk's network position around risk is distinctive: he takes on catastrophic personal exposure while maintaining structural positions that limit true downside. His $100M personal investment in SpaceX (evt_009) with acknowledged <10% success probability (ev_011), personal borrowing to pay rent during SpaceX crisis (ev_014), and 'commit seppuku rather than fail' statement (ev_019) demonstrate extreme personal financial risk tolerance. However, this risk is strategically positioned—he secured NASA contract (evt_013) to transfer launch failure risk to government, and his Twitter acquisition was financed heavily through debt rather than personal capital. Network-wise, his risk posture shows a pattern of building 'bridge' positions (structure holes between industries) that provide optionality—if one venture fails, his cross-sector network provides fallback. The Mars colonization vision (evt_019, ev_028-29) frames existential risk acceptance as a feature, not a bug—asking 'are you prepared to die?' as a recruitment filter for high-risk tolerance network participants. The 2018 SEC confrontation (evt_025, ev_040-41) shows him taking legal/political risk that would destroy most executives' careers. His political donations (evt_030, ev_053) at $288M represent another extreme risk exposure, though one with potential structural returns if political network becomes favorable.",
       "evidence_ids": [
-        "ev_004",
-        "ev_008",
-        "ev_013",
-        "ev_020"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Musk对正式等级持矛盾态度——有时利用，有时挑战，核心依赖网络影响力而非职位本身",
-      "finding": "Musk对层级权力的态度呈现复杂模式：一方面他挑战传统权力结构(质疑SEC权威 evt_015, 对抗广告主 ev_019, 挑战政府系统 evt_033)，另一方面他策略性地利用正式层级(Tesla CEO身份 evt_020, DOGE特殊政府雇员身份 evt_043)。更关键的是，他的实际影响力远超其正式职位——一个没有政府职位的人被法官认定为DOGE的实际领导者(evt_057)。这体现了网络权力的核心特征：影响力来自网络位置而非正式头衔。他的权力更多是'关系性的'而非'位置性的'。",
-      "evidence_ids": [
-        "ev_015",
-        "ev_043",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Musk在冲突中倾向于网络重构而非网络修补——直接断绝关系、重新构建替代网络",
-      "finding": "Musk的冲突策略呈现'断舍离'模式。当PayPal事件(evt_011)导致他被驱逐，他并未试图修复关系或争取复权，而是转向SpaceX这个全新网络。当Twitter收购后面临广告主抵制(ev_019)，他选择对抗而非协商。当DOGE面临法律挑战(evt_057)，他继续推进而非妥协退让。这种模式对应' rebuild over patch'——面对网络危机，Musk倾向于断开旧连接、构建新网络，而非修补现有关系。这在Twitter案例中最为明显：大规模裁员后留下的人被要求' extremely hardcore work'，原有关系网络几乎完全重建(ev_053)。",
-      "evidence_ids": [
-        "ev_007",
-        "ev_018",
+        "ev_011",
+        "ev_014",
+        "ev_019",
+        "ev_028",
         "ev_053"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "time_horizon",
-      "assessment": "Musk偏好mission-scale时间视野，长期网络投资与短期工具性使用并存",
-      "finding": "Musk的时间视野呈现多层次特征。长期层面：他对殖民火星( evt_024)、AI风险(evt_026)、脑机融合(evt_037)等mission-scale目标有清晰的长远规划。这些目标驱动他进行长期关系投资(如与NASA的长期合同关系 evt_019)。但短期层面，Musk也会工具性地激活网络资源(如Starlink在乌克兰的使用, evt_047)。关键观察：他愿意'立即断奶'——例如在2022年迅速切断与乌克兰的某些网络联系以避免战争卷入(evt_048)。这体现了一种灵活的长期主义：核心mission(确保公司生存、公司控制权)保持长期导向，但具体网络关系可随短期情境快速调整。",
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent—rejects formal hierarchy constraints while building personal authority structures around himself",
+      "finding": "Musk's relationship with hierarchy reveals a consistent pattern: rejecting existing hierarchical constraints while building new authority structures centered on himself. His emigration from South Africa (evt_004) explicitly avoided the apartheid regime's hierarchical conscription. His Stanford dropout (evt_005) rejected academic hierarchy. The PayPal ousting (evt_008) removed him from one hierarchy but he later leveraged that to found SpaceX independently. The 2018 SEC confrontation (evt_025) directly challenged regulatory hierarchy. The Twitter acquisition and 'the bird is freed' statement (evt_028, ev_047) framed hierarchy destruction as liberation. Yet his own management style is intensely hierarchical—the 'demon mode' (ev_050) shows him deploying absolute authority. His DOGE role (evt_032-33) applied corporate hierarchy logic to government structures, with a federal judge ruling he acted as 'de facto leader' despite lacking formal hierarchical position—demonstrating informal authority exceeding formal hierarchy. The Boring Company flamethrower sales (ev_035) and hat-selling before any product (ev_035) show him building brand authority independent of traditional corporate hierarchy. Network-wise, he positions himself as an essential node—Tesla without Musk is seen as structurally different, SpaceX as dependent on his vision. This creates a 'star network' structure where all value flows through him.",
       "evidence_ids": [
-        "ev_022",
-        "ev_024",
         "ev_047",
-        "ev_048"
+        "ev_050",
+        "ev_008",
+        "ev_035"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalatory confrontation—prefers direct confrontation, public confrontation, and network destruction over negotiation or compromise",
+      "finding": "Musk's conflict strategy shows a consistent escalation pattern: direct confrontation, public visibility, and willingness to destroy network ties rather than compromise. The 2018 SEC tweet (evt_025, ev_040) directly defied regulatory authority in a public forum, leading to securities fraud charges (ev_041). The Twitter advertiser confrontation (evt_029, ev_051) chose public expletive confrontation over relationship maintenance with major revenue sources. The 'demon mode' pattern (ev_050) shows on-the-spot firing (network destruction) when conflict arises rather than working through disagreement. The Autopilot branding conflict with engineers (evt_020, ev_032) shows him overriding safety concerns through authority rather than negotiating technical standards. The Starlink decision (ev_044-45) shows conflict translation—choosing his own ethical framework over accommodating ally request. His political shift (evt_030, ev_054) frames the Democratic party as having become an adversary ('the Democrats left me') rather than negotiating within that network. However, some evidence suggests strategic flexibility: his early PayPal ousting (evt_008) occurred while he was absent, and he later accepted SEC settlement (ev_041). The Hyperloop open-sourcing (evt_016, ev_022-23) shows conflict avoidance by releasing the idea rather than fighting over it. His overall pattern suggests confrontation as default, but with situational calculation about when confrontation serves versus damages mission.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_041",
+        "ev_051",
+        "ev_050",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-generational mission scale—optimizes for civilizational timescales while engaging in short-term crisis management",
+      "finding": "Musk's time horizon is distinctive in its layering: immediate crisis management (2018 Model 3 production, SEC confrontation) combined with civilizational planning (multi-planetary species,evt_029, consciousness preservation,ev_043). Network-wise, his multi-generational framing shapes relationship investment: he builds networks that serve long-term goals (space exploration, AI safety) while being willing to destroy networks that impede those goals, regardless of short-term relational cost. The Mars colonization cost target of $200,000 (ev_027) and his description of 'history bifurcating' along space-faring vs. extinction paths (ev_029) position his network building within a civilization-scale temporal frame. His AI safety concerns (evt_017, ev_025) framed as existential risk across human history. The DOGE mission statement (ev_055) that it 'will only strengthen over time' extends his civilizational thinking to government systems. Yet his actual network behavior shows he can shift rapidly to short-term crisis mode—the 2018 period combined production crisis, SEC confrontation, and personal financial strain simultaneously. His statement about not being sad (ev_042) suggests a deliberate strategy to not let present suffering slow civilizational pace. The Hyperloop open-sourcing (evt_016) shows long-term thinking prioritizing proof-of-concept over proprietary control.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_029",
+        "ev_043",
+        "ev_055",
+        "ev_042"
+      ],
+      "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Musk高度偏好网络重建而非修补，尤其在面临网络冲突或目标变化时",
-      "finding": "Musk展现出强烈的'重建者'特征。典型案例：1)PayPal被驱逐后未试图修补与PayPal团队的关系，而是创办SpaceX进入全新网络(evt_013)；2)Twitter收购后不是渐进改革，而是大规模裁员80%(evt_018)、更换品牌、重新定义整个平台定位(evt_017)；3)政治立场从民主党转向共和党，建立全新政治网络(evt_046)。即使在组织内部，他也经常采取'烧掉重写'策略(Isaacson描述的'demon mode'，evt_042)。这与科尔曼网络封闭理论形成对比——Musk并不依赖封闭网络的社会资本积累，而是倾向于不断打破封闭网络以追求新机会。",
+      "assessment": "Strong preference for rebuilding—systematically destroys existing networks and replaces with new structures rather than incremental repair",
+      "finding": "Musk demonstrates a strong 'rebuild over patch' pattern across multiple contexts. The Twitter acquisition and ~80% layoffs (evt_028, ev_046) destroyed an existing organizational network rather than incremental reform—despite massive institutional knowledge loss and advertiser flight. The Model 3 production crisis (evt_024) saw removal of entire automated systems (ev_037) and replacement with human labor networks rather than fixing the automation. The Starlink near-Crimea decision (ev_044-45) effectively destroyed the trusting relationship with Ukrainian military partners rather than finding a compromise. His management 'demon mode' (ev_050) systematically destroys team work and rebuilds from zero. The political network rebuild (evt_030) involved abandoning Democratic connections and constructing new Republican relationships at massive financial cost. However, some evidence suggests strategic hybrid approaches: SpaceX built incrementally from failures rather than total rebuild (evt_012), and his Neuralink (evt_018, evt_031) maintained consistent network investment over time. The Hyperloop open-source decision (evt_016) showed preference for building a new network of idea adopters rather than controlling an existing one. His pattern suggests rebuild is preferred when existing networks become obstacles to his vision, but sustained investment when networks serve ongoing mission.",
       "evidence_ids": [
-        "ev_007",
-        "ev_018",
-        "ev_042",
-        "ev_046"
+        "ev_046",
+        "ev_037",
+        "ev_044",
+        "ev_050",
+        "ev_030"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Musk对自身网络位置有一定认知，但更关注技术/产品层面而非关系结构层面",
-      "finding": "Musk的'网络意识'呈现选择性特征。他对自己在特定领域的市场位置和技术能力有清晰认知(first principles thinking, ev_025)，但对网络结构效应的理解更多是无意识的而非系统性的元认知。例如，他反复在不同领域建立新公司，但对为何这种方式能成功(跨领域桥接弱连接的价值)并无明确的理论阐述。相较于Burt明确提出的结构洞理论，Musk是'实践的结构洞占据者'而非'理论的结构洞分析者'。他的网络行为更多来自直觉和生存本能，而非对网络结构的清晰认知。这与他在技术领域的系统化思维形成对比——技术层面他强调第一性原理，但网络层面他更依赖经验法则。",
+      "assessment": "Moderate—explicit awareness of reasoning frameworks and some self-awareness about network effects, but blind spots around relational impact",
+      "finding": "Musk demonstrates moderate metacognitive capacity with distinctive strengths and blind spots. His explicit articulation of first-principles reasoning (ev_020) and its connection to physics frameworks shows high awareness of his own cognitive methodology—he has named and can explain his thinking approach. His Douglas Adams attribution (ev_031) shows awareness of intellectual influences shaping his worldview. His acknowledgment of childhood mistakes regarding his father (ev_001) demonstrates some capacity for evaluating past decisions. However, significant metacognitive blind spots exist: his repeated unrealistic timeline predictions (autonomous driving by 2017 in evt_018, Starlink activation decisions in evt_027) suggest poor calibration of feasibility assessments. His 'Autopilot' branding insistence despite engineering warnings (evt_020, ev_032) shows limited perspective-taking regarding how others perceive risk. His public conflict escalation pattern (SEC tweet, advertiser confrontation) suggests limited awareness of how his communication affects network relationships. His admission of emotional solitude (ev_049) and statements about sleeping alone suggest some awareness of relational costs, but these appear underweighted relative to his rational mission framing. Network-wise, his metacognition seems to focus on technical and strategic systems more than social/relational systems—understanding how rockets work better than how relationships work.",
       "evidence_ids": [
-        "ev_025",
-        "ev_016"
+        "ev_020",
+        "ev_031",
+        "ev_001",
+        "ev_049"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "network_trust_patterns",
-      "definition": "Musk如何在不同网络类型间分配信任资源——对技术/产品网络的深度信任 vs 对人情网络的工具性使用",
-      "finding": "分析发现Musk的信任模式呈现显著二元性：他对技术系统(如SpaceX的工程能力、Tesla的产品潜力)展现出近乎偏执的信任和长期投入，即使面对多次失败仍坚持(evt_008, evt_009)。但他对人情网络更多持工具性态度——PayPal团队、Twitter员工、甚至政治盟友都可以被快速替换或牺牲。这种模式导致他能在技术网络中获得极高忠诚度(工程师愿意为他工作120小时/周, evt_032)，但人情网络极不稳定(频繁断交、裁员、转向)。这解释了为何他的企业能创新但组织关系始终动荡。",
+      "dimension_name": "Network Hub Centrality vs. Distributed Node Value",
+      "definition": "The degree to which this person creates network structures where all value flows through them as indispensable hub vs. building networks where nodes have value independent of the center. This captures a structural pattern where some network actors increase others' capability while others extract value to themselves.",
+      "finding": "Musk shows a consistent pattern of creating 'star network' structures where his presence becomes the load-bearing element of the network. His companies (Tesla, SpaceX, X/Twitter, Neuralink) are structurally organized around his vision and decision-making—the organizations have value conditional on his continued involvement, not independent of it. This contrasts with network actors who build organizations that develop their own momentum and value beyond the founder. The Twitter acquisition destroyed a network that had value independent of any single leader and restructured it around Musk as indispensable node. His public statements ('Nobody ever changed the world on 40 hours a week', ev_033) explicitly position individual exceptionalism over distributed network contribution. This 'hub dependency' pattern has significant implications: it creates personal leverage but also fragility (what happens to Tesla if Musk leaves?), and it shapes how others in his networks relate to him—as resources toward his goals rather than autonomous agents with their own goals. This network structure is both a source of power and a fundamental constraint on organizational sustainability.",
       "evidence_ids": [
-        "ev_008",
-        "ev_009",
-        "ev_032",
-        "ev_053"
+        "ev_033",
+        "ev_050",
+        "ev_046",
+        "ev_039"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "network_chaining_pattern",
-      "definition": "Musk通过跨领域公司创建形成'公司链'网络，每个公司为其他公司提供资源/保护/合法性",
-      "finding": "Musk的企业帝国呈现独特的'网络链'模式：SpaceX为Tesla提供航天技术借鉴和品牌合法性；Tesla为SpaceX提供资金和公众关注；Twitter/X为各种企业提供传播平台和舆论影响力；Neuralink和xAI代表AI领域的战略卡位。这种链式结构使Musk能够跨网络动员资源，但这也意味着一旦某个节点失败(如Twitter价值蒸发79%, evt_055)，整个网络链可能承压。这种模式超越了简单的'多元化'——公司间形成资源流动和风险共享的网络，而非独立实体。",
+      "dimension_name": "Network Boundary Permeability",
+      "definition": "The degree to which this person maintains clear boundaries between their different network domains vs. allowing contamination/extension across domains. This captures how network actors manage the separation (or integration) between their different relationship systems and role identities.",
+      "finding": "Musk demonstrates unusually high boundary permeability—allowing different network domains to interact and influence each other in ways that create both opportunities and conflicts. His tech entrepreneur network intersected with government (DOGE role in evt_032), political networks ($288M donations in evt_030), military networks (Starlink Ukraine in evt_027), media networks (Twitter/X ownership), and scientific networks (Neuralink, SpaceX). This permeability creates information and influence advantages—he can broker connections across domains. However, it also creates conflicts: the Starlink decision was fundamentally a network boundary issue (where does commercial satellite network end and military network begin?), and the Twitter advertiser conflict emerged from allowing political identity to contaminate commercial platform relationships. His public statements frame these as principled decisions rather than network management failures, but the pattern suggests difficulty maintaining separation between his multiple network roles. His 'the Democrats left me' statement (ev_054) and the DOGE government role extension show networks becoming increasingly entangled rather than maintained as distinct domains. This permeability pattern is strategically powerful but creates accountability and conflict management challenges.",
       "evidence_ids": [
-        "ev_020",
-        "ev_055",
-        "ev_028"
+        "ev_054",
+        "ev_044",
+        "ev_051",
+        "ev_032"
       ],
       "local_support": "moderate"
     }

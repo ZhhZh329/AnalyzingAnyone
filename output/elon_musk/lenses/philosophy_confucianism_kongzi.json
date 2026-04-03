@@ -4,159 +4,157 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Musk is primarily a world-shaper who seeks to reshape reality through technological and organizational interventions, rather than responding to or working within existing structures",
-      "finding": "Musk's career demonstrates consistent world-shaping orientation: he left Stanford after two days to join the Internet revolution (ev_005), founded SpaceX to democratize space access despite only 10% success probability (ev_008), and articulated a vision to make humanity multi-planetary (ev_022). This contrasts sharply with Confucian relational agency, which achieves self-fulfillment through proper fulfillment of social roles. Musk defines himself through transformative outcomes rather than role-based responsibilities—his self-description centers on 'maximizing the probability of the future being better' (ev_030) rather than on being a proper son, father, or citizen. His agency is Promethean rather than relational.",
+      "assessment": "Musk epitomizes the world-shaper archetype, but his agency is technologically directed rather than relationally moral",
+      "finding": "Musk's agency manifests as fundamental reality-defiation and human destiny-shaping (ev_029: 'History is going to bifurcate along two directions... become a space-faring civilization and multi-planetary species'). However, unlike Confucian agency which achieves transformation through moral self-cultivation and fulfilling social roles ('修己以安人'), Musk seeks to reshape the world through technological intervention. His definition of meaningful action centers on engineering outcomes rather than the Confucian project of moral self-cultivation and relationship cultivation. The 'first-principles thinking' (ev_020) he advocates treats the physical world as the primary domain of agency rather than the human relational world that Confucius prioritized.",
       "evidence_ids": [
-        "ev_005",
-        "ev_008",
-        "ev_022",
-        "ev_030"
+        "ev_029",
+        "ev_020",
+        "ev_027"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Musk employs first-principles reasoning as a fundamental cognitive framework, favoring physics-based deduction over analogical or inherited wisdom",
-      "finding": "Musk explicitly articulates his epistemic method: 'I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy' (ev_025). This represents a sharp departure from Confucian epistemology, which emphasizes learning from tradition, teachers, and historical examples—'三人行，必有我师焉'. Where Confucius asks learners to build upon accumulated wisdom, Musk's first-principles approach involves tearing down assumptions and rebuilding from fundamental facts. This is evident in his SpaceX approach where he calculated rockets could be built for 10% of going rates by starting from component costs rather than accepted market prices. His epistemic style privileges individual reasoning over inherited knowledge.",
+      "assessment": "Musk employs physics-based first-principles reasoning rather than the Confucian '学而思' learning tradition",
+      "finding": "Musk explicitly describes his thinking method as originating from physics framework: 'Physics teaches you to reason from first principles rather than by analogy... what are the fundamental truths of this problem, and reason up from there' (ev_020). This contrasts sharply with Confucian epistemology, which values learning from established texts, teachers, and the Socratic '三人行必有我师焉' (learning from everyone) approach. Musk's self-education (ev_003: teaching himself programming at age 12, ev_031: crediting Douglas Adams for teaching him to formulate questions) is autodidactic but oriented toward technical mastery rather than moral cultivation through the Confucian classics. The '知行合一' (unity of knowledge and action) element partially aligns with Musk's empiricist approach, but the content differs: Musk tests physics and engineering hypotheses rather than moral principles.",
       "evidence_ids": [
-        "ev_025",
-        "ev_008"
+        "ev_020",
+        "ev_003",
+        "ev_031"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Musk demonstrates high preference for systematic, formalizable frameworks and algorithmic problem-solving approaches",
-      "finding": "Musk's management methodology is characterized by explicit systematization. His 'algorithm' approach—documented in Walter Isaacson's biography—involves five-step engineering processes with the principle that 'the most common error is to optimize something that shouldn't exist' (ev_016). This reveals a highly formalized, systematic thinking pattern. Confucius, by contrast, favored contextual, situation-specific moral reasoning using parables and examples rather than abstract systems—'举一隅不以三隅反，则不复也'. Musk's abstraction appears more similar to engineering optimization than Confucian moral reasoning. The Hyperloop white paper (ev_049) exemplifies this: a 57-page formal proposal treating transportation as a solvable engineering problem rather than considering human and social dimensions.",
+      "assessment": "Musk demonstrates high abstraction preference, using mathematical and physical first-principles over concrete social particulars",
+      "finding": "Musk's method centers on reducing complex problems to their fundamental physical components (ev_020: calculating raw material costs of rockets, resulting in 10% of market rate). This preference for systematic abstraction appears across ventures: Hyperloop as a fifth mode of transportation conceptualized mathematically (ev_024: 800 mph), Neuralink as a brain-machine interface based on neuroscience principles, Starlink as a satellite constellation system. However, unlike Confucianism's contextual, relationship-specific reasoning, Musk's abstraction treats human problems as engineering challenges. The tension between abstraction and concrete implementation appears in his Hyperloop approach: 'I was too busy with SpaceX and Tesla' (ev_022) to build it himself, open-sourcing instead. This reveals potential abstraction-practice gap—proposing systemic solutions while leaving execution to others (ev_021).",
       "evidence_ids": [
-        "ev_016",
-        "ev_049"
+        "ev_020",
+        "ev_024",
+        "ev_022",
+        "ev_021"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Musk exhibits intense control orientation focused on systems and outcomes, but with notably less emphasis on self-cultivation compared to Confucian ideals",
-      "finding": "Musk's control orientation manifests in multiple dimensions: direct operational control (reviewing code commits personally at Twitter, ev_052), extreme work commitment (80-100 hour weeks, ev_032), and willingness to take over leadership during crisis (taking over as Tesla CEO in 2008, ev_020). However, this differs fundamentally from Confucian '修身' (self-cultivation). While Confucius locates control in moral self-discipline and role fulfillment, Musk's control is external—over systems, organizations, and technological outcomes. His statement 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_011) reveals control through resource commitment rather than through inner cultivation. The Confucian path from self to family to nation to world is inverted: Musk attempts to fix the world first.",
+      "assessment": "Musk exhibits intense operational control, applying engineering precision to organizational management",
+      "finding": "Musk's control orientation follows the '由内而外' (from inner to outer) pattern in that he starts with personal commitment then extends to organizations: living at factory during Model 3 crisis (ev_024), working 120-hour weeks, stating 'My suffering should be greater than theirs' (ev_039). However, unlike Confucian self-cultivation that controls the self first, Musk controls systems and people aggressively. He 'personally intervened in production line design, often overriding his engineering team's recommendations' (ev_038), fires engineers on the spot for disagreement (ev_034), yet paradoxically admits 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_037). This reveals a controlling nature that struggles with bounded control—the need to dominate systems and timelines while sometimes recognizing human limitations. His application of corporate efficiency to government (ev_032, evt_033: DOGE mass layoffs, rapid restructuring) extends this control orientation to state systems.",
       "evidence_ids": [
-        "ev_052",
-        "ev_032",
-        "ev_020",
-        "ev_011"
+        "ev_038",
+        "ev_037",
+        "ev_039",
+        "ev_034",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Musk consistently prioritizes mission and goal achievement over relational comfort and social harmony",
-      "finding": "Musk's pattern of prioritizing mission over relationships is consistent across his career. He fired engineers on the spot for disagreeing with him (ev_054), laid off 80% of Twitter's workforce immediately after acquisition (ev_018), and described entrepreneurship as 'eating glass' and stated he'd 'rather commit seppuku than fail' (ev_034, ev_035). Most dramatically, after his first child Nevada died at 10 weeks from SIDS in 2002, Musk returned to work almost immediately, stating 'I'm not sure what sitting around being sad is going to do' (ev_041). This contrasts sharply with Confucian doctrine where '修己以安人' (self-cultivation aims at stabilizing others). For Musk, mission deliverables—getting rockets to orbit, producing cars, colonizing Mars—take absolute precedence over relational harmony. His statement to advertisers at DealBook Summit—'Go fuck yourself' (ev_019)— exemplifies willingness to bear extreme relational costs for mission integrity.",
+      "assessment": "Musk consistently prioritizes mission over relational costs, often damaging relationships in service of goals",
+      "finding": "Musk exemplifies mission prioritization to an extreme degree: 'Nobody ever changed the world on 40 hours a week' (ev_033), 'I'd rather commit seppuku than fail' (ev_019), 'Starting a company is like staring into the abyss and eating glass' (ev_018). His first child Nevada Alexander's death at 10 weeks is met with immediate return to work (ev_048: 'I'm not sure what sitting around being sad is going to do'), showing emotional suppression in service of mission. When workers suffer, he demands equal or greater suffering from himself (ev_039), but this does not translate to relational preservation—the cost is borne by others through his management decisions (ev_034: firing engineers). The Twitter acquisition (evt_028) shows mission over relational cost dramatically: firing 80% of staff, sending ultimatum for 'extremely hardcore work' (ev_046). These patterns conflict with the Confucian ideal that personal relationships and social harmony are the foundation from which mission flows, not sacrifices to be made for it.",
       "evidence_ids": [
-        "ev_054",
+        "ev_033",
+        "ev_019",
         "ev_018",
-        "ev_034",
-        "ev_035",
-        "ev_041",
-        "ev_019"
+        "ev_048",
+        "ev_046",
+        "ev_034"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Musk displays high risk tolerance in service of existential missions, accepting significant personal and organizational risk",
-      "finding": "Musk's risk posture is characterized by deliberate acceptance of high failure probability. He acknowledged about SpaceX: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_008). His Mars colonization presentation explicitly warned that 'the first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it' (ev_023), while stating 'I would like to die on Mars. Just not on impact' (ev_024). This represents the opposite of Confucian risk aversion—'暴虎冯河，死而无悔者，吾不与也'. Yet interestingly, Musk shows strategic caution in other domains: his 2022 decision to restrict Starlink near Crimea was based on not wanting to be 'explicitly complicit in a major act of war' (ev_048). His risk posture might be characterized as mission-driven recklessness combined with tactical prudence.",
+      "assessment": "Musk embraces extreme personal risk as prerequisite for meaningful change, contravening Confucian prudent approach",
+      "finding": "Musk actively courts existential risk in ways Confucianism would counsel against: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_011), 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_028), 'Are you prepared to die? If that's okay, then you're a candidate for going.' His risky choices—investing all money into Tesla when nearly bankrupt (ev_015), borrowing money for rent during SpaceX crisis (ev_014)—align more with the Confucian courage principle of '见义不为，无勇也' (acting when righteousness demands) than prudent '暴虎冯河' (crossing river without boat) caution. However, Musk elevates technological audaciousness to a moral virtue: accepting personal extinction risk for species survival (ev_028). This represents a radical reconceptualization of Confucian '勇' (bravery) as technological pioneering rather than moral courage.",
       "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_024",
-        "ev_048"
+        "ev_011",
+        "ev_028",
+        "ev_015",
+        "ev_014"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Musk demonstrates conditional, pragmatic relationship with hierarchy, willing to use it instrumentally but also challenge it when it impedes mission",
-      "finding": "Musk's relationship to hierarchy is complex. He will engage with power structures when useful—becoming largest individual political donor in US history in 2024 (ev_046), leading DOGE in the Trump administration (ev_043)—yet shows contempt for institutional authority in other contexts. His statement 'I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me' (ev_045) reveals categorical rejection of political affiliation when perceived as misaligned. Confucian doctrine requires '君仁臣忠'—conditional loyalty based on mutual obligation. Musk seems to treat all hierarchies as instrumental: useful when aligned with mission, obstacles when not. His firing of employees who disagree (ev_054) and confrontation with advertisers (ev_019) reveals little deference to positional authority. His approach resembles engineer treating organizational charts as technical constraints to be optimized.",
+      "assessment": "Musk shows ambivalent relationship to hierarchy—claiming meritocracy while wielding decisive authority",
+      "finding": "Musk both resists and exercises hierarchical power. He emigrated from South Africa to avoid participating in the apartheid regime's military conscription (ev_004: 'I didn't want to be conscripted into the army to fight for apartheid'), showing resistance to unjust authority. Yet he exercises unilateral control over his companies: taking over Tesla as CEO during crisis (evt_011), ousting original PayPal leadership (ev_008), installing himself at Twitter and DOGE with minimal consultation. His political giving (ev_053: largest individual donor at $288 million) represents a different kind of hierarchical influence—economic power translated to political sway. The Confucian ideal of reciprocal hierarchy (君仁臣忠, 父慈子孝—rulers benevolent, ministers loyal; parents kind, children filial) is absent: Musk expects employees to follow his vision without the complementary obligation of paternal care.",
       "evidence_ids": [
-        "ev_046",
-        "ev_043",
-        "ev_045",
-        "ev_054",
-        "ev_019"
+        "ev_004",
+        "ev_008",
+        "ev_053"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Musk handles conflict through direct escalation and termination rather than negotiation, harmony-maintenance, or moral suasion",
-      "finding": "Musk's conflict strategy consistently favors direct confrontation and team dissolution over repair. He fired engineers on the spot for disagreeing (ev_054), destroyed entire teams' work during 'demon mode' (ev_042), and issued ultimatums to Twitter employees—'commit to extremely hardcore work or leave with severance'—leading approximately 1,200 additional employees to resign (ev_053). This contrasts with Confucian '和而不同' (harmonize without being identical)—the ideal of maintaining relationship while allowing disagreement. Musk's approach is more akin to organizational pruning: when conflict arises, remove the conflicting element rather than reconcile. His confrontational style with advertisers (ev_019) and SEC (ev_015) suggests conflict as acceptable cost of mission-advancement.",
+      "assessment": "Musk employs confrontational conflict strategy, openly attacking rather than the Confucian '和而不同' harmonious disagreement",
+      "finding": "Musk's conflict management diverges sharply from Confucian '和而不同' (harmonize without uniformity) ideal. Rather than maintaining relationship while expressing dissent, he escalates publicly: SEC lawsuit over 'funding secured' tweet (ev_041), calling ads 'Go fuck yourself' (ev_051), calling his father 'a terrible human being' (ev_002). His management shows pattern of firing people on the spot (ev_034), destroying entire teams' work when in 'demon mode' (ev_050)—then sometimes rehiring days later, suggesting conflict as temporary dominance rather than resolution. The Twitter content moderation conflict resulted in advertiser exodus; his response was contempt rather than negotiation. The Confucian path would require '谏' (proper dissent) and relationship preservation through '中庸' balance—Musk instead chooses public confrontation, treating conflict as zero-sum.",
       "evidence_ids": [
-        "ev_054",
-        "ev_042",
-        "ev_053",
-        "ev_019",
-        "ev_015"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "time_horizon",
-      "assessment": "Musk optimizes for mission-scale, multi-generational time horizons that far exceed normal business planning cycles",
-      "finding": "Musk's time horizon is distinctly mission-scale: his stated purpose is ensuring 'the light of consciousness' continues into the future (ev_029), with explicit colonization of Mars as the central goal. His presentation at the International Astronautical Congress in 2016 outlined plans spanning decades (ev_022, ev_024). This aligns with Confucian long-term thinking—'人无远虑，必有近忧'—but differs in substance: Confucius focuses on moral cultivation across generations and ritual continuity, while Musk focuses on technological survival and species expansion. His willingness to work 'like hell' for decades toward goals with <10% success probability (ev_008) suggests extraordinary patience. However, this long-term orientation doesn't extend to relational timescales: his own statement 'There are many nights I sleep alone' (ev_039) suggests personal relationships are subordinated to mission time.",
-      "evidence_ids": [
-        "ev_029",
-        "ev_022",
-        "ev_024",
-        "ev_008",
-        "ev_039"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "rebuild_over_patch",
-      "assessment": "Musk strongly prefers structural redesign and complete transformation over incremental repair or localized solutions",
-      "finding": "Musk's pattern consistently favors complete reconstruction over patching. SpaceX was founded because Musk concluded rockets could be built for 10% of going rates by starting fresh (ev_008)—not by improving existing approaches. Twitter acquisition and subsequent 80% workforce reduction (ev_018) represented complete organizational demolition rather than incremental reform. His 'algorithm' approach explicitly warns against 'optimizing something that shouldn't exist' (ev_016)—the first step is questioning whether the system itself is valid. This aligns with some Confucian elements—Confucius sought to restore '礼' (ritual propriety) to proper forms—but differs fundamentally: Confucius wanted to recover an idealized past, while Musk wants to build unprecedented futures. His publishing of the Hyperloop white paper (ev_049, ev_050) with intent to show possibility rather than implement personally exemplifies 'rebuild' orientation.",
-      "evidence_ids": [
-        "ev_008",
-        "ev_018",
-        "ev_016",
-        "ev_049",
+        "ev_041",
+        "ev_051",
+        "ev_002",
+        "ev_034",
         "ev_050"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "metacognition",
-      "assessment": "Musk shows limited evidence of systematic self-reflection about thinking patterns, though he demonstrates awareness of operational mistakes in specific domains",
-      "finding": "Musk's metacognitive patterns are mixed. Positive evidence includes: acknowledging 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_014) after the Model 3 production crisis; accepting responsibility for the SEC tweet as a learning moment; and co-founding OpenAI to address AI risks (ev_027). However, his fundamental self-conception appears fixed—he defines himself as working toward species-level goals with little revision. Confucius emphasized '吾日三省吾身' (self-reflection daily) and '知之为知之，不知为不知' (recognizing knowledge boundaries). Musk rarely admits uncertainty about core beliefs; his confidence in first-principles reasoning ('I think I'm good at reasoning from first principles') appears unchecked. His statement that he 'accepted' losing everything on SpaceX (ev_008) reveals acceptance of outcome uncertainty but not reflective revision of the approach. The gap between his stated values and relational outcomes (multiple failed marriages, limited close friendships) doesn't seem to prompt systematic self-examination.",
+      "construct_key": "time_horizon",
+      "assessment": "Musk operates on mission-scale (generational) time horizons, akin to Confucian long-term thinking but with different content",
+      "finding": "Musk's temporal orientation aligns with Confucian长远 and 代际 horizons—he thinks in terms of species survival: 'History is going to bifurcate along two directions... become a space-faring civilization' (ev_029), making consciousness 'continue into the future' (ev_043), reducing Mars colonization cost to median house price ($200,000) for multi-generational viability (ev_027). This exceeds even the Confucian concern for '人无远虑，必有近忧' (long-term thinking about future troubles). However, the content differs: Musk thinks about technological speciescontinuation while Confucianism emphasizes moral transmission across generations through education and proper ritual practice. His short-term contradictions—missed timelines for autonomous driving (ev_026), hyperloop (never built), Twitter disruption—suggest horizon misalignment between cosmic mission and operational execution.",
       "evidence_ids": [
-        "ev_014",
+        "ev_029",
+        "ev_043",
         "ev_027",
-        "ev_008"
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Musk strongly prefers radical rebuilding over incremental improvement, the opposite of Confucian '温故知新'",
+      "finding": "Musk's venture creation follows radical rebuilding rather than Confucian incremental '温故知新' (review old to understand new): SpaceX built rockets from scratch at 10% cost (ev_010), Tesla revolutionized automotive industry, Neuralink proposes brain reconstruction, Hyperloop as 'fifth mode' (ev_024), The Boring Company digs new tunnels. This aligns with his statement: asking 'what are rockets actually made of' rather than 'rockets have always been expensive' (ev_020)—rejecting path dependency entirely. However, consistent with this rebuild tendency, Twitter acquisition and DOGE government restructuring both applied disruptive rather than reformative approaches—mass layoffs, system shutdowns. This differs fundamentally from Confucian reverence for tradition: '述而不作, 信而好古' (transmit without inventing, trust and love the ancient). Musk treats existing systems as problems to be disrupted rather than wisdom sources to build upon.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Musk shows limited metacognitive self-awareness, often misjudging his own limitations while projecting onto external problems",
+      "finding": "Metacognitive honesty—'知之为知之, 不知为不知, 是知也' (knowing what you know and don't know)—appears weakly in Musk. He claims not to be a savior (ev_042: 'I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad'), yet his actions suggest messianic self-conception (controlling humanity's planetary destiny). He misjudged automation (ev_037: 'Excessive automation was a mistake. Humans are underrated') only after failure, not anticipatorily. He shows limited reflection on relational damage: continues firing people, high-profile conflicts, despite consistent patterns. His 'demon mode' (ev_050) suggests awareness of destructive states but frame as uncontrollable rather than subjects of self-cultivation. The one area of metacognitive clarity is his acknowledgment of solitude (ev_049: 'There are many nights I sleep alone')—a rare admission of limitation. Confucian '吾日三省吾身' self-examination practice appears absent from documented behaviors.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_037",
+        "ev_050",
+        "ev_049"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "cosmological_mission_orientation",
-      "definition": "Unlike Confucian focus on human relationships within existing cosmic order, Musk exhibits orientation toward species-level, cosmic-scale objectives (colonization, consciousness preservation, AI alignment) that transcend traditional social roles",
-      "finding": "Musk's stated mission—'I think we have a duty to maintain the light of consciousness, to make sure it continues into the future' (ev_029)—transcends Confucian conception of duty. For Confucius, moral responsibility begins with parents and extends through the five relationships to all humanity; for Musk, the primary obligation is to consciousness itself as an abstract principle. His founding of Neuralink to achieve 'merge with AI' as 'the best-case scenario' (ev_037) and co-founding OpenAI to develop 'friendly AI' (ev_027) reveal cosmic-scale concern absent from Confucian framework. This creates an emergent dimension where mission transcends human relationships entirely—Musk would apparently sacrifice relational comfort for species survival probability.",
+      "dimension_name": "技术儒家主义 (Techno-Confucianism) vs 正宗儒家主义",
+      "definition": "Musk represents a functional analog to Confucian concern for collective human destiny but substituting technological systems for moral cultivation as the primary means of human flourishing. Where Confucianism seeks to perfect human relations through ritual (礼) and benevolence (仁), Musk seeks to preserve consciousness and extend humanity through technology (SpaceX, Neuralink, Tesla). This 'technological transcendence' serves a function analogous to Confucian moral transcendence but bypasses interpersonal ethics.",
+      "finding": "Musk's expressed existential philosophy—'We have a duty to maintain the light of consciousness' (ev_043), making humanity 'multi-planetary' (ev_029)—operates as a secular substitute for Confucian Tian (Heaven) mandate thinking. He's attempting to determine humanity's cosmic fate through technological agency rather than moral self-cultivation. This emergent dimension reveals that modern technological entrepreneurs can perform analogous social functions to traditional moral philosophers (articulating human flourishing), but with fundamentally different means. The Confucian critique would be that technological transcendence without relational cultivation is incomplete—keeping consciousness alive but not cultivating it.",
       "evidence_ids": [
+        "ev_043",
         "ev_029",
-        "ev_037",
-        "ev_027"
+        "ev_030"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "suffering_as_virtue",
-      "definition": "Musk's self-characterization involves voluntary acceptance of extreme personal suffering as evidence of commitment and moral seriousness, distinct from Confucian self-cultivation through proper behavior",
-      "finding": "Musk explicitly frames suffering as evidence of virtue: 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_012). His sleeping on the factory floor during Model 3 production (ev_056), 80-100 hour work weeks (ev_032), and description of 2018 as 'the most painful year of my career' (ev_013) suggest suffering is used as proof of commitment. This differs from Confucian '君子求诸己' (exemplary persons seek it in themselves)—self-cultivation is about proper behavior and moral refinement, not endurance testing. Musk's suffering is more quasi-martyristic, demonstrating 'I am willing to sacrifice my existence for the mission.' This creates a distinct pattern where physical and emotional hardship becomes a spiritual practice, though one aimed at outcomes rather than moral refinement.",
+      "dimension_name": "家庭牺牲伦理 (Familial Sacrifice Ethic)",
+      "definition": "Musk's relationship with family shows a pattern of choosing early independence from abusive father (later called mistake), emotional distance after personal tragedy, and demanding extreme work over family presence. This represents an emergent ethical dimension of prioritizing technological mission over family obligation—contrasting with Confucian five-relations priority (五伦) that positions family as关系的根基 (foundation of relationships).",
+      "finding": "Musk's childhood choice to live with abusive father Errol (ev_001: 'Living with him was not a happy childhood,' later called 'a mistake'), his first child's death prompting immediate return to work (ev_048), and working 120-hour weeks represent a systematic prioritization of mission over family relationship. His father relationships (multiple children with different partners, limited presence documented) suggest personal relationships bear high costs of his mission focus. This pattern—though complicated by his abuse circumstances—differs from Confucian filial piety (孝) emphasis. The emergent dimension is whether technological mission at species scale requires family sacrifice, or whether this represents category error—using species-level justifications for personal relational failures.",
       "evidence_ids": [
-        "ev_012",
-        "ev_056",
-        "ev_032",
-        "ev_013"
+        "ev_001",
+        "ev_048",
+        "ev_002"
       ],
       "local_support": "moderate"
     }

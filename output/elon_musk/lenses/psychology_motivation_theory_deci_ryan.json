@@ -4,197 +4,185 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Musk展现出极强的自主型能动性，典型地作为世界塑造者而非结构响应者",
-      "finding": "从SDT的因果定向理论来看，Musk表现出强烈的自主定向(autonomy orientation)。他在1995年从斯坦福博士项目退学投身互联网革命(ev_005)，2002年创立SpaceX时自认为成功概率不到10%仍坚持投入(ev_008)，2008年在特斯拉几乎破产时自掏腰包接任CEO(ev_011)——这些决策均源于内在使命驱动而非外部奖惩或指令。他将个人财富和精力完全投入到改变人类未来的宏伟目标中，而非响应外部期待或社会规范，典型体现了自我决定理论中高度自主的能动性模式。",
+      "assessment": "Musk exhibits a strong autonomous orientation as a world-shaper, consistently choosing self-directed action over structure response despite extreme personal risk",
+      "finding": "Elon Musk's agency orientation demonstrates a classic autonomous causality orientation in SDT terms. His decision to drop out of Stanford PhD after just 2 days to join the Internet revolution (ev_005) exemplifies his self-determined choice-making. He explicitly stated he wanted to 'do something meaningful in the world' rather than complete a PhD that 'wouldn't help the world in any significant way' - this reflects intrinsic motivation driven by personal values rather than external demands. His founding of SpaceX with $100 million of his own money, despite admitting 'the chance of success was less than 10%' (ev_011), demonstrates autonomous agency in its purest form - he chose to act as a causal agent even when the odds were against him. The 2016 Mars colonization speech where he stated 'History is going to bifurcate along two directions' (ev_029) reveals he explicitly positions himself as a world-shaper who determines which direction humanity takes. However, this autonomous orientation exists alongside controlling behaviors toward others, suggesting a complex interplay between personal autonomy and controlling interpersonal style.",
       "evidence_ids": [
         "ev_005",
-        "ev_008",
         "ev_011",
-        "ev_022",
-        "ev_024",
         "ev_029",
-        "ev_030"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "epistemic_style",
-      "assessment": " Musk的认知风格以第一性原理(physics framework)思维为特征，呈现内在动机驱动的探索式开放认知",
-      "finding": "Musk明确表述采用物理学框架进行第一性原理思维而非类比推理(ev_025)。这种认知风格体现了他对知识本身深度的追求——他需要理解事物的根本原理而非表面应用。在SpaceX火箭制造、特斯拉电池技术、Neuralink脑机接口等领域的实践中，他均展现出从基本物理和工程原理出发重新设计系统的倾向。这种开放式探索式认知与SDT中内在动机驱动的认知模式高度一致：对知识本身好奇，而非仅为实用或外部奖励学习。",
-      "evidence_ids": [
-        "ev_025",
-        "ev_049",
-        "ev_050",
-        "ev_008"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "abstraction_formalization",
-      "assessment": "Musk高度偏好抽象化和系统化，同时在需要时保持极端的亲力亲为",
-      "finding": "Musk展现出对抽象思维和系统化设计的高度偏好。2013年他发表57页Hyperloop白皮书，展示对复杂技术系统的完整理论构建(ev_049, ev_050)；其火星殖民计划涉及完整的工程和商业逻辑推理(ev_022, ev_024)。然而，他的同时在特斯拉工厂亲自审查代码提交、睡在生产线上(ev_052, ev_056)——这种极端的Hands-on参与表面上是务实操作，但实质上反映了他对系统每个层级的深度掌控欲望。这种\"抽象与具体交织\"的模式符合SDT中内在动机者对深度理解的追求：既要从根本原理抽象思考，又要亲手验证和实现。",
-      "evidence_ids": [
-        "ev_049",
-        "ev_050",
-        "ev_022",
-        "ev_024",
-        "ev_052",
-        "ev_006"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": "Musk的控制取向极强，呈现典型的控制型定向(control orientation)，同时混合无个人定向(impersonal orientation)的某些特征",
-      "finding": "从SDT的因果定向理论来看，Musk的控制定向极为明显。传记中记载他在\"恶魔模式\"下会当场解雇持反对意见的工程师(ev_054, ev_042)；收购Twitter后立即裁撤80%员工并亲自审查代码提交来确定生产力(ev_018, ev_052)；面对广告商时\"去你的\"的极端回应(ev_019)。他追求对系统、人员和流程的绝对控制。然而，在面对SpaceX初期连续三次发射失败、几乎破产的极端压力时(ev_008, ev_010)，他表现出某种\"无个人定向\"的特征——感到个人努力似乎无法改变命运的失控感，但最终仍选择全力投入。这种混合的控制-无个人定向反映了他在极度控制欲与面对宇宙级挑战时的无力感之间的张力。",
-      "evidence_ids": [
-        "ev_054",
-        "ev_042",
-        "ev_018",
-        "ev_052",
-        "ev_019",
-        "ev_008",
-        "ev_010",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Musk极度优先使命目标，频繁以关系舒适为代价追求宏大目标",
-      "finding": "在SDT的需求满足框架中，Musk的关系性(relatedness)需求明显被mission所压制。2018年Model 3生产危机期间，他在工厂地板上睡几个月，每周工作120小时(ev_012, ev_031, ev_032, ev_056)，并表示\"如果工人在受苦，我也想和他们一起受苦\"(ev_012)——这既是极端的使命投入，也是一种将关系需求完全边缘化的模式。他公开对广告商说\"去你的\"(ev_019)，在Twitter收购后给出极端工作要求导致1200人辞职(ev_053)，在DOGE实施企业化政府改革(ev_043)——这些决策均显示他愿意承担巨大的关系和社会成本来实现其认为正确的使命。这种模式在SDT中属于典型的整合调节(integrated regulation)水平极高：已将外部目标(殖民火星、可持续能源)完全内化为自我核心价值，使命与自我融为一体，因此不存在使命感-关系性的撕裂——这是其动机模式的显著特征。",
-      "evidence_ids": [
-        "ev_012",
-        "ev_031",
-        "ev_032",
-        "ev_056",
-        "ev_019",
-        "ev_053",
-        "ev_043",
-        "ev_044",
-        "ev_011"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": "Musk对风险持极端开放态度，主动拥抱高风险高回报的探索性风险",
-      "finding": "Musk的风险姿态完美符合SDT中内在动机驱动的探索式风险接受。他明确知道SpaceX成功概率不到10%，仍接受\"可能会失去一切\"(ev_008)；将首次火星之旅描述为\"非常危险，死亡率风险很高\"(ev_023)；表示\"宁愿切腹也不愿失败\"(ev_035)，将创业比作\"凝视深渊并吃玻璃\"(ev_034)。这种风险接受并非源于外部奖赏驱动(外在动机)，而是源于对探索未知的内在好奇和对使命的深度认同——与SDT的内在动机理论一致：好奇心驱动探索性风险，而非害怕惩罚的规避性风险。",
-      "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_034",
-        "ev_035",
-        "ev_022",
-        "ev_024"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Musk对等级权力持复杂态度：既抵抗外部控制型权威，又在自己的帝国内建立绝对控制",
-      "finding": "从SDT的因果定向视角，Musk对等级权力的关系呈现独特的双重模式。年轻时期他逃离南非避免参与种族隔离制度下的强制兵役(ev_004)，展现出对外部控制型权威的抵抗。他公开称父亲为\"可怕的人\"(ev_002)，对抗父亲权威。然而，一旦建立自己的组织和公司，他立刻转变为绝对控制者——在特斯拉、SpaceX、Twitter、DOGE中均要求绝对权威(ev_042, ev_054, ev_057)。这反映了他并非简单地反权威，而是追求在自主定向下的自我主导：反抗他人的控制，同时在自己的领地建立控制。这种模式与SDT中自主定向者的典型行为一致——他们抵抗外部强加的控制，但并不排斥在自主决策框架内建立结构和权威。",
-      "evidence_ids": [
-        "ev_004",
-        "ev_002",
-        "ev_042",
-        "ev_054",
-        "ev_043",
-        "ev_057",
-        "ev_053"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Musk倾向于escalation(升级)而非negotiation(协商)或translation(转化)的冲突策略",
-      "finding": "Musk的冲突策略明显以escalation(升级)和confrontation(对抗)为主。2018年SEC起诉他证券欺诈时(ev_015)，他选择硬刚而非和解；面对广告商\"勒索\"时直接回应\"去你的\"(ev_019)；工程师在Autopilot命名上与其意见分歧时，他推动命名导致多人辞职(ev_033)；他能在冲突中迅速解雇反对者(ev_054)但缺乏将冲突转化为建设性结果的耐心。这与SDT中自主性受挫的典型反应有所不同——Musk的对抗更多源于其强烈的控制定向和自我主张，而非自主性被剥夺后的反应性攻击。他的冲突策略更接近\"自我导向型对抗\"：基于对自身愿景的极端自信而无法容忍异见。",
-      "evidence_ids": [
-        "ev_015",
-        "ev_019",
         "ev_033",
-        "ev_054",
         "ev_042"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "time_horizon",
-      "assessment": "Musk的时间视野是 mission-scale（任务级规模），典型地以数十年为周期思考",
-      "finding": "Musk的时间视野远超常规的长期规划，来到\"mission-scale\"——以数十年为周期的使命驱动时间框架。他在2016年IAC大会上展示的火星殖民计划以数十年为时间线(ev_022, ev_024)；其对AI风险的关注从2014年\"召唤恶魔\"(ev_026)延续到2023年创立xAI(ev_028)；Hyperloop概念从2013年提出至今仍在推进(ev_049)。这种时间视野与SDT中整合调节(integrated regulation)和内在动机支持的长期投入模式一致：行为本身具有内在意义，因此能够支持数十年尺度的持续投入，而不受短期奖惩影响。他对可持续能源(特斯拉)和多行星生存(SpaceX)的投入均属于此类mission-scale时间框架。",
+      "construct_key": "epistemic_style",
+      "assessment": "Musk's epistemic style combines first-principles reasoning with intuitive, sometimes impulsive decision-making - oscillating between rigorous analysis and reactive judgment",
+      "finding": "Musk's epistemic style reveals a distinctive first-principles thinking pattern fused with intuitive leaps. In his 2013 TED interview, he explicitly articulated his physics-based reasoning framework: 'Physics teaches you to reason from first principles rather than by analogy' (ev_020), explaining how he applied this to SpaceX by asking 'what are rockets actually made of? What's the raw material cost?' rather than accepting industry assumptions about cost structures. This represents a high-functioning, systematic epistemic approach. However, this coexists with highly impulsive belief-action patterns - his tweet claiming 'Funding secured' for Tesla privatization at $420 (ev_040) was made without proper verification, leading to SEC fraud charges (ev_041). His public statements about AI risk ('summoning the demon', ev_025) reflect conviction-based rather than evidence-based reasoning. The pattern suggests a mind that can deploy rigorous analytical frameworks when motivated, but which also engages in rapid, emotionally-driven belief formation - particularly when excited or angered.",
       "evidence_ids": [
-        "ev_022",
+        "ev_020",
+        "ev_040",
+        "ev_041",
+        "ev_025",
+        "ev_031",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Very high preference for abstraction and formalization in technical domains, paired with hands-on execution when needed",
+      "finding": "Musk demonstrates strong abstraction_formalization capabilities, particularly in technical and engineering contexts. At age 12, he self-taught programming and created the video game Blastar (ev_003), showing early affinity for formal systems. His SpaceX approach exemplifies abstraction at work - he rejected industry assumptions about rocket costs and rebuilt from raw materials calculations (ev_010). He described Hyperloop as 'a fifth mode of transportation' (ev_024) through formal white paper publication. However, he balances abstraction with concrete hands-on engagement - during the 2018 Model 3 production crisis, he lived at the factory working 120-hour weeks (ev_024), and later admitted 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_037). This suggests a capacity to operate at high abstraction levels while maintaining willingness to engage with practical execution when the situation demands it.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_010",
+        "ev_020",
         "ev_024",
-        "ev_026",
-        "ev_028",
-        "ev_049",
+        "ev_037",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Very high control orientation manifesting as direct intervention in systems, people, and outcomes - often overriding others' judgments",
+      "finding": "Musk's control orientation is among his most prominent behavioral patterns. Multiple evidence sources document his tendency to directly override others' expertise: 'He personally intervened in production line design, often overriding his engineering team's recommendations' (ev_038). The famous 'demon mode' pattern documented by Isaacson captures this: 'When Elon is in demon mode, he will fire people, destroy entire teams' work, demand impossible deadlines' (ev_050). His 2017 insistence on 'Autopilot' and 'Full Self-Driving' branding despite engineering warnings (ev_032) exemplifies controlling behavior that prioritizes his vision over safety concerns. At Twitter, he gave employees an ultimatum: 'commit to extremely hardcore work or leave with severance' (ev_046) - controlling the work environment through施加极端压力. His takeover of government functions in 2025 (ev_032) exemplifies control orientation at institutional scale. The 2018 tweet 'Nobody ever changed the world on 40 hours a week' (ev_033) reflects his desire to control not just outcomes but others' effort levels. This control orientation appears driven by a belief that he alone can see the correct path, leading to bypassing collaborative decision-making.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_046",
         "ev_050",
+        "ev_033",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission objectives over relational comfort, willing to accept severe interpersonal costs for goal achievement",
+      "finding": "Musk demonstrates a strong mission-over-relational-cost orientation throughout his career. The most striking evidence is his response to personal tragedy: his first child Nevada Alexander died at 10 weeks from sudden infant death syndrome, and 'Musk reportedly returned to work almost immediately after the tragedy' (ev_010). When asked about this, he stated 'I'm not sure what sitting around being sad is going to do' (ev_048) - revealing instrumental rather than emotionally-processing approach to loss. His statement about workers 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_039) suggests he subordinates relational comfort to mission - workers should suffer for the mission, and he will too, but the mission comes first. His Mars colonization speech explicitly acknowledged 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_028) - accepting extreme human cost. The pattern is consistent: mission outcomes supersede relational and emotional considerations, both for himself and others.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_048",
+        "ev_039",
+        "ev_028",
+        "ev_034",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Embraces extreme personal financial risk and existential risk-taking as necessary for changing the world",
+      "finding": "Musk's risk posture is exceptional even among entrepreneurs - he systematically accepts risk levels that others consider irrational. He invested his entire $22 million from Zip2 into new ventures (ev_006), then put $100 million of his own money into SpaceX despite estimating less than 10% success probability (ev_011). He stated 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_015) - framing risk-taking as obligation rather than choice. His 2012 statement 'Starting a company is like staring into the abyss and eating glass' (ev_018) and 'I'd rather commit seppuku than fail' (ev_019) reveal visceral acceptance of suffering and failure as necessary costs. He works 80-100 hour weeks (ev_033) and during the 2018 production crisis lived at the factory working 120 hours weekly (ev_024). His 'demon mode' (ev_050) represents willingness to demand impossible outcomes. The risk posture appears intrinsic to his self-concept: changing the world requires accepting risks others won't take.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_015",
+        "ev_018",
+        "ev_019",
+        "ev_033",
+        "ev_024",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent relationship - rejects external hierarchy while creating his own dominant hierarchical control",
+      "finding": "Musk's relation to hierarchy and power reveals a complex pattern of rejecting external authority while establishing his own. He emigrated from South Africa at 17 partly to avoid military conscription in the apartheid regime (ev_004) - rejecting that hierarchy. His insistence on 'Autopilot' branding against engineering warnings (ev_032) and his direct intervention overriding engineering teams (ev_038) demonstrate disregard for expert hierarchy within his own organizations. At Twitter, he implemented corporate-style restructuring on government (ev_032), applying corporate control to bypass traditional bureaucratic hierarchies. Yet he creates intense internal hierarchy - firing engineers on the spot for disagreement (ev_034), demanding extreme work commitment (ev_046). His shift from moderate Democrat to Republican mega-donor (ev_054) reflects pragmatic relationship with political power. The pattern suggests he accepts hierarchy instrumentally when he controls it, but rejects external hierarchy that constrains his agency.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_032",
+        "ev_038",
+        "ev_034",
+        "ev_046",
+        "ev_054",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalates conflict rather than avoiding or negotiating - uses direct confrontation, public shaming, and unilateral action",
+      "finding": "Musk's conflict strategy consistently involves escalation rather than avoidance or negotiation. Firing people on the spot for disagreement (ev_034) reflects immediate escalation. His confrontation with the SEC resulted in securities fraud charges (ev_041) - escalating legal conflict. The 2023 DealBook summit where he told advertisers 'Go fuck yourself' (ev_051) exemplifies public escalation over reconciliation. His unilateral production decisions overriding team recommendations (ev_038) represent conflict through bypass rather than negotiation. At Twitter, the 'extremely hardcore work or leave' ultimatum (ev_046) escalates conflict to binary choice. His tweet stating 'the bird is freed' (ev_047) after acquiring Twitter suggests he views conflict as liberation. The pattern is not splitting or delaying - it's confrontational escalation, often public, reflecting either confident dominance or inability to tolerate opposition.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_041",
+        "ev_051",
+        "ev_038",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time horizon - combines long-term mission orientation (multi-planetary species) with extreme short-term intensity",
+      "finding": "Musk operates across multiple time scales simultaneously. At the mission scale, his 2016 Mars speech envisioned humanity becoming 'a space-faring civilization and a multi-planetary species' (ev_029) - a multi-generational horizon. He stated 'The cost of moving to Mars needs to be roughly equivalent to the median house price in the US - around $200,000' (ev_027) - a goal requiring decades. At the same time, he demands extreme short-term intensity: working 120-hour weeks during production crises (ev_024), tweeting 'Nobody ever changed the world on 40 hours a week' (ev_033). His 2017 prediction of fully autonomous driving by 2017 (ev_026) failed to materialize - showing he makes aggressive short-term commitments that don't pan out. The Hyperloop was open-sourced because he was 'too busy' (ev_022), revealing prioritization of immediate demands over longer projects. This creates tension: vision for distant futures coexists with unrealistic short-term timelines and extreme present intensity.",
+      "evidence_ids": [
         "ev_029",
-        "ev_030"
+        "ev_027",
+        "ev_024",
+        "ev_033",
+        "ev_026",
+        "ev_022"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Musk极端偏好系统性重新设计(first principles redesign)而非局部修补",
-      "finding": "Musk的\"第一性原理\"思维直接导致其偏好根本性重新设计而非渐进式修补。SpaceX之前，火箭发射被视为NASA主导的政府项目；他从物理原理出发认为可以降低90%成本(ev_013)，最终实现了完全可重复使用的火箭。特斯拉的生产危机中，他批评\"过度自动化是一个错误\"(ev_014)，但解决方式是大规模重新设计生产线而非小修小补。他发布了完整的Hyperloop白皮书后开放给全世界而非申请专利(ev_050)，展示了他对完整系统设计的信心。这种\"根本重新设计\"倾向与SDT中内在动机驱动者面对系统性问题的典型反应一致：既然行为本身有意义，当发现根本性问题时，倾向于从基础上重新构建。",
+      "assessment": "Strong preference for fundamental redesign over incremental patching across multiple domains",
+      "finding": "Musk consistently chooses rebuild over patch when confronting established systems. His SpaceX founding exemplifies this - rather than accepting that 'rockets have always been expensive, so they always will be,' he asked 'what are rockets actually made of? What's the raw material cost?' (ev_020) and built rockets for ~10% of market rate. Tesla represented rebuild of the automotive industry. The Hyperloop was proposed as 'a fifth mode of transportation' (ev_024) - adding a new category rather than improving existing ones. When excessive automation at Tesla failed, he didn't patch the system but fundamentally changed the production approach: 'Humans are underrated' (ev_037). His 2025 government restructuring through DOGE applied corporate rebuild logic to federal agencies (ev_032). The Boring Company was created to rebuild transportation infrastructure fundamentally (ev_021). This pattern reflects first-principles thinking applied not just to technical problems but to entire industries - when something is fundamentally wrong, rebuild rather than repair.",
       "evidence_ids": [
-        "ev_014",
-        "ev_013",
-        "ev_049",
-        "ev_050",
-        "ev_016",
-        "ev_028",
-        "ev_056"
+        "ev_020",
+        "ev_037",
+        "ev_021",
+        "ev_024",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Musk展现出有限的元认知能力——能进行第一性原理思考但缺乏对自身动机来源的深度觉察",
-      "finding": "在SDT的整合调节(integrated regulation)维度上，Musk的元认知呈现复杂图景。一方面，他明确表述使用\"物理学框架\"进行推理(ev_025)，展现出对自身思维方法论的有意识反思；另一方面，他在2023年播客中承认\"很多夜晚我独自入睡\"(ev_039)，显示对自身人际关系的某种觉察，但其后并未见明显的行为调整。2002年第一个孩子因SIDS去世后他几乎立即返回工作，被引述为\"我不确定坐着悲伤有什么用\"(ev_041)——这种将情感体验工具化的应对方式，暗示他对自身情感需求和动机来源缺乏深度审视。他对使命的投入已达到深度整合水平，但这种整合似乎更多是无意识的深度内化而非有意识的元认知整合——后者需要持续觉察自身动机的真实来源并做出调整。",
+      "assessment": "Moderate metacognitive awareness - demonstrates capacity for self-observation and framework articulation but limited evidence of adjusting behavior based on self-reflection",
+      "finding": "Musk shows moderate metacognitive capacity with important limitations. He can articulate his own cognitive frameworks explicitly: 'I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy' (ev_020) - demonstrating conscious awareness of his reasoning approach. His acknowledgment of 'demon mode' (ev_050) shows capacity for labeling his own extreme behavioral states, suggesting self-observation. He stated 'I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad' (ev_042) - reflective self-characterization. However, there's limited evidence of him adjusting behavior based on metacognitive insight. Despite recognizing his 'demon mode,' it recurs. His SEC violation (ev_040-041) suggests real-time cognitive control failures. He acknowledged Starlink decisions created 'a major act of war' (ev_044) but made the call unilaterally. The pattern suggests he can observe and label his patterns but struggles to modify them in real-time - metacognition operates more as post-hoc recognition than prospective regulation.",
       "evidence_ids": [
-        "ev_025",
-        "ev_039",
-        "ev_041",
+        "ev_020",
+        "ev_042",
+        "ev_050",
         "ev_040",
-        "ev_034",
-        "ev_035"
+        "ev_041",
+        "ev_044"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "需求满足的非对称性——胜任感主导与关系性长期挫败",
-      "definition": "SDT指出三大基本心理需求的满足是不对称的——自主性挫败破坏力最大，但Musk呈现一种特殊模式：他在胜任感(competence)需求上获得极大满足(通过挑战不可能任务并持续成功)，但在关系性(relatedness)需求上长期挫败却似乎不影响其整体功能——这种\"关系性需求钝化\"是其动机系统的独特特征",
-      "finding": "Elon Musk的人生轨迹呈现一个独特的SDT模式：他在胜任感维度获得极大满足——10岁自学编程(ev_003)，12岁创造游戏并出售(ev_003)，从Zip2到PayPal到SpaceX到特斯拉，持续在极端挑战中证明自己的能力(ev_009, ev_020)。然而关系性维度几乎持续挫败：童年遭受严重欺凌(ev_001, ev_002)，与父亲关系破裂(ev_002)，第一任妻子描述其\"难以接近\"，多次婚姻失败(ev_039)，公开表示\"很多夜晚独自入睡\"(ev_039)。然而，与SDT理论预期相反，这种关系性需求挫败似乎并未显著削弱其功能——这可能因为他的使命已深度整合到自我核心，形成了某种\"替代性意义来源\"。这种模式在SDT文献中较少被讨论：可能是极度整合调节的副产品，即当使命与自我完全融合时，关系性需求的重要性被系统性地降低。",
+      "dimension_name": "need_frustration_adaptation",
+      "definition": "SDT traditionally focuses on need satisfaction, but Musk shows a pattern where chronic need frustration (particularly autonomy from controlling father, early bullying) may have produced adaptive overcompensation - extreme self-reliance and intolerance of external constraint",
+      "finding": "Musk's childhood provides evidence of significant autonomy frustration through an emotionally abusive father and severe bullying (ev_001, ev_002). He later called living with his father 'a mistake' and described his childhood as deeply unhappy. Rather than producing passive submission, this appears to have catalyzed extreme autonomous orientation - a compensatory self-reliance that rejects all external control. His pattern of controlling others may represent projection: having experienced controlling behavior, he either replicates it or overcorrects by demanding complete autonomy. This emergent dimension suggests need frustration can produce not just the passive helplessness SDT predicts, but active overcompensation toward extreme agency - a form of 'I'll control before I'm controlled.'",
       "evidence_ids": [
         "ev_001",
         "ev_002",
-        "ev_003",
-        "ev_039",
-        "ev_040",
-        "ev_041",
-        "ev_009",
-        "ev_020",
-        "ev_011"
+        "ev_004",
+        "ev_034",
+        "ev_050"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "控制型自主性——自主定向与控制定向的独特混合",
-      "definition": "SDT传统上将因果定向分为自主定向、控制定向和无个人定向三者，但Musk展现出一种\"控制型自主性\"：他追求自主决策和自我主导，但同时强烈需要控制和主导他人——这是标准的自主定向理论未能充分覆盖的混合模式",
-      "finding": "标准的SDT因果定向理论将自主定向与控制定向视为两种相对稳定的倾向——自主定向者追求自我决定，控制定向者依赖外部奖惩。然而，Musk展现出独特的\"控制型自主性\"：他在个人决策层面极度自主(从斯坦福退学、创立SpaceX、选择使命方向)，但在组织管理层面极度控制(解雇异议者、审查代码、裁员80%)。这在SDT文献中属于未被充分概念化的混合模式。他的自主性似乎是有边界的——在他认定的\"自己的领地\"内追求绝对控制，但当自主性受他人挑战时迅速转变为控制型反应。2025年DOGE角色中他被联邦法官裁定为\"实际领导者\"(ev_057)——这既是自主定向(主动承担使命)的体现，也是控制定向(追求对政府系统的绝对影响)的体现。这种模式可能反映了他早年经历(被欺凌、父亲权威控制)形成的独特应对机制：通过极端的主动控制来避免被动控制。",
+      "dimension_name": "functional_significance_reversal",
+      "definition": "SDT posits that external events have different effects depending on whether they're experienced as autonomy-supportive or controlling. Musk shows a pattern where events others would interpret as controlling (firing, SEC制裁) he frames as functional to mission - suggesting he may have a unique functional significance map",
+      "finding": "Musk interprets events through an instrumental lens that differs from typical functional significance mapping. Being fired from X.com while on honeymoon (ev_009) produced only a wry comment about vacations. The SEC lawsuit (ev_041) resulted in settlement but didn't substantially change behavior. Firing employees on the spot (ev_034) is framed as necessary for mission execution. This contrasts with SDT predictions that controlling events should undermine intrinsic motivation. Musk seems to have a unique 'functional significance' calibration where almost anything that advances mission is experienced as autonomy-supportive, while anything constraining mission is controlling - regardless of how others would categorize it. This could explain his seeming immunity to typical demotivating effects of conflict, failure, or adversity - he reinterprets them functionally. This emergent dimension suggests his internal motivational economics work differently than SDT's typical population-level predictions.",
       "evidence_ids": [
-        "ev_005",
-        "ev_054",
-        "ev_042",
-        "ev_052",
-        "ev_053",
-        "ev_057",
-        "ev_002",
-        "ev_001"
+        "ev_009",
+        "ev_041",
+        "ev_034",
+        "ev_018",
+        "ev_019",
+        "ev_048"
       ],
       "local_support": "moderate"
     }

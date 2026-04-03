@@ -4,195 +4,193 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper driven by Hero archetype with strong Puer Aeternus qualities",
-      "finding": "Musk operates from a profound Hero archetype - he explicitly frames his mission as saving humanity (ev_029 'maintain the light of consciousness', ev_022 'becoming a multi-planetary species'). His agency is not passive response to structure but active reshaping of reality at civilizational scale. However, his specific projects (Mars colonization, Neuralink, Hyperloop, Twitter) also show Puer Aeternus energy - grand visions launched with dramatic flair (Falcon Heavy with Tesla Roadster, ev_020) but often incomplete execution. The Puer shows in starting many 'heroic quests' simultaneously rather than deeply completing one. His claim that 'nobody changed the world on 40-hour weeks' (ev_031) reveals Hero's necessity for epic struggle - the mission justifies extraordinary personal sacrifice.",
+      "assessment": "Hyper-agency: Musk functions as an extreme world-shaper who believes individual will can fundamentally redirect historical trajectory",
+      "finding": "Musk's entire trajectory exemplifies the Hero archetype in maximal activation. From age 12 coding Blastar (ev_003) through his refusal to accept 'rockets have always been expensive' (ev_020) to his DOGE role in 2025 (evt_032), he operates from the premise that one determined individual can reshape entire systems. His first-principles reasoning (ev_020) explicitly rejects precedent as constraint—'what are rockets actually made of? What's the raw material cost?' This represents a fundamental denial of structural determinism. His framing of humanity's choice as 'stay on Earth forever' versus becoming 'a multi-planetary species' (ev_029) positions him at the center of species-level agency. The 2022 Starlink decision (evt_027, ev_044, ev_045) shows him exercising unilateral control over infrastructure affecting a war's trajectory—a level of individual agency that historically required states. His political donation of $288 million (evt_030, ev_053) and DOGE role represent the ultimate expansion of individual agency into governmental systems. The shadow: such extreme agency orientation often masks a terror of vulnerability—the boy who was 'the youngest and smallest kid in class' (ev_002) may have built an empire of agency to never feel that powerless again.",
       "evidence_ids": [
-        "ev_008",
-        "ev_022",
-        "ev_024",
+        "ev_002",
+        "ev_003",
+        "ev_011",
+        "ev_020",
         "ev_029",
-        "ev_030",
-        "ev_031",
-        "ev_051"
+        "ev_044",
+        "ev_053"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Thinking-intuition hybrid with dominant first-principles physics framework, but with significant blind spots",
-      "finding": "Musk explicitly describes his thinking as 'physics framework' (ev_025) - reasoning from first principles rather than analogy. This indicates a Thinking-type with Intuition辅助. However, his disadvantage function appears in emotional/feeling areas - he admits 'humans are underrated' (ev_014) only after automation disaster, showing delayed integration of Feeling. His epistemic confidence is extreme - he calculates SpaceX success probability at less than 10% yet proceeds (ev_008). This suggests Intuition's pattern-recognition overriding rational probability assessment. His existential crisis at age 12-15 reading philosophy and Hitchhiker's Guide (ev_051) points to a genuine philosophical concern that he subsequently translated into engineering solutions - typical of Intuition working through Thinking to create frameworks.",
+      "assessment": "Intuitive-dominant with auxiliary thinking; first-principles reasoning as a defense against analogical conformism",
+      "finding": "Musk's epistemic style reflects the intuitive-thinking configuration (NT in MBTI terms). His first-principles approach (ev_020)—'reason from first principles rather than by analogy'—represents a psychological strategy for bypassing inherited assumptions. This is not purely rational; it involves pattern-recognition across domains (seeing rocket construction as materials science rather than aerospace tradition). His Douglas Adams attribution (ev_031) reveals the foundation: 'Once you can properly phrase the question, the answer is the easy part.' This suggests an epistemic orientation where problem-framing (intuition) precedes solution-generation (thinking). However, evidence of timeline predictions that didn't materialize (ev_026) suggests his intuition sometimes outruns empirical validation. The Hyperloop pattern—proposing revolutionary ideas but leaving execution to others (ev_021)—may indicate a cognitive style where the intuitive 'vision' feels complete without requiring full implementation. His AI 'summoning the demon' metaphor (ev_025) uses archetypal imagery rather than technical specification, revealing intuitive processing dominating. The劣势功能 (inferior function) appears in his occasional contempt for empirical feedback (engineering warnings about Autopilot branding overridden, ev_032).",
       "evidence_ids": [
+        "ev_020",
         "ev_025",
-        "ev_014",
-        "ev_051",
-        "ev_034"
+        "ev_026",
+        "ev_031",
+        "ev_032",
+        "ev_021"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Very high abstract thinking combined with extreme hands-on operational engagement",
-      "finding": "Musk demonstrates both high abstraction (ev_016 'the algorithm' five-step engineering process) and extreme concretization (ev_056 sleeping on factory floor, ev_012 'suffer with the workers'). This unusual combination suggests a well-developed Sensing function in service of Intuitive goals - he doesn't just conceptualize but physically embeds himself in production. His formalization shows in systems thinking ('the algorithm'), but also impulsivity (ev_015 tweet at $420). The abstraction is mission-driven - Hyperloop white paper (ev_049) was published to 'show it was possible' (ev_050), not to execute. This reveals Thinking-Intuition pairing: abstract vision with theoretical formalization, but execution often chaotic. His code-reviewing at Twitter (ev_052) shows the concrete verification of abstract systems.",
+      "assessment": "High formalization capacity but deployed strategically rather than uniformly; uses abstraction as a cognitive weapon against inherited constraints",
+      "finding": "Musk demonstrates sophisticated abstract reasoning in his first-principles method (ev_020)—reframing rockets as 'raw material costs' rather than existing industry practices. His 2013 TED explanation shows a deliberate physics-framework application to business problems. However, his relationship with formalization is complex: Hyperloop was open-sourced (ev_022, ev_023) rather than proprietary, suggesting he values idea-dissemination over system-capture. His stated motivation—'I just wanted to show it was possible'—reveals abstraction as demonstration rather than implementation. The Boring Company and flamethrower marketing (ev_035) demonstrates a capacity for abstraction operating in parallel with deliberately unconventional tactics. He's capable of both hyper-systematized thinking (physics frameworks, Mars colonization economics) and deliberately informal approaches (Twitter acquisition drama, live-streamed interviews). This flexibility may indicate that abstraction is a tool in his toolkit rather than a default mode—chosen when it serves strategic purposes, abandoned when it doesn't.",
       "evidence_ids": [
-        "ev_016",
-        "ev_012",
-        "ev_014",
-        "ev_049",
-        "ev_050",
-        "ev_052",
-        "ev_056"
+        "ev_020",
+        "ev_022",
+        "ev_023",
+        "ev_024",
+        "ev_035"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Extremely high control with volatile expression - 'demon mode' archetype",
-      "finding": "Musk's control orientation manifests as what Isaacson calls 'demon mode' (ev_042) - when activated, he 'will fire people, destroy entire teams' work, demand impossible deadlines.' This is not the controlled execution of a rational manager but the eruption of powerful unconscious forces. His firing of engineers who disagree (ev_054) followed by sometimes rehiring them suggests control in service of Shadow - the impulse to annihilate opposition then reinstate. His control extends to systems: SpaceX (complete vertical integration), Tesla (direct production involvement), Twitter (ev_018 laid off 80%). The autocratic transformation of Twitter post-acquisition reveals control as primary response to uncertainty. His controlling 'the bird is freed' (ev_017) tweet shows he controls even liberation. Control may be compensation for early helplessness - childhood as 'youngest and smallest' (ev_001) being bullied.",
+      "assessment": "Extreme control orientation manifested across systems, people, and information flows; represents both strategic necessity and psychological imperative",
+      "finding": "Control orientation permeates Musk's trajectory at multiple levels. At the interpersonal level: 'firing people on the spot for disagreeing' (ev_034) and 'demon mode' management (ev_050). At the systems level: personally intervening in production line design (ev_038), removing expensive automation systems (ev_037), making unilateral Starlink decisions affecting war outcomes (ev_044, ev_045). At the information level: his Twitter acquisition and 'the bird is freed' (ev_047) followed by mass layoffs (ev_046). The Twitter acquisition represents a control-seeking behavior that contradicted rational financial analysis—WSJ calling it 'the worst deal in merger finance' (ev_052). This suggests control serves psychological needs beyond strategic optimization. His statement about suffering with workers (ev_039)—'My suffering should be greater than theirs'—reveals a complex relationship with control: one can simultaneously impose extreme demands while framing it as shared sacrifice. The DOGE role represents the ultimate control aspiration: restructuring federal government itself. Shadow interpretation: childhood powerlessness (ev_002) may have generated a compensatory need for total control; each acquisition of new control domains may represent ongoing repair of the original wound.",
       "evidence_ids": [
-        "ev_001",
-        "ev_042",
-        "ev_054",
-        "ev_017",
-        "ev_018",
-        "ev_053",
-        "ev_057"
+        "ev_034",
+        "ev_037",
+        "ev_038",
+        "ev_039",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_050",
+        "ev_052"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Extreme mission prioritization with explicit disregard for relational costs",
-      "finding": "Musk explicitly sacrifices relationships for mission: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_011). His treatment of Twitter advertisers - 'Go fuck yourself' (ev_019) - demonstrates willingness to accept massive financial loss (Twitter lost 79% equity value, ev_055) rather than compromise mission. His children: first child died at 10 weeks (ev_040), he returned to work almost immediately saying 'I'm not sure what sitting around being sad is going to do' (ev_041). This shows emotional bypassing in service of mission. However, his statement 'There are many nights I sleep alone' (ev_039) reveals the relational cost he silently pays. The mission-vs-relational pattern suggests Great Mother archetype (serving humanity-as-collective) at cost of personal intimacy - or perhaps Anima unintegration causing emotional isolation.",
+      "assessment": "Mission always supersedes relational costs; interpersonal damage is systematically discounted as acceptable collateral",
+      "finding": "Musk's career demonstrates systematic prioritization of mission over relational comfort at every major decision point. The Zip2 ousting (evt_008, ev_009)—'that's the problem with vacations'—reveals an early pattern of subordinating personal life to enterprise. The 2008 crisis decisions show mission-critical orientation: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_015). His first child Nevada's death reportedly led to immediate return to work (evt_010, ev_048)—'I'm not sure what sitting around being sad is going to do.' The 2018 Model 3 crisis shows him living at the factory, working 120-hour weeks (evt_024), subordinating personal relationships to production mission. The Twitter acquisition (evt_028) involved firing ~80% of employees with ultimatums to remaining staff (ev_046). The 2023 DealBook response to advertisers—'Go fuck yourself' (ev_051)—reveals willingness to burn relationships for principle. Notably, he maintains self-framing as relational: 'I want to suffer with them' (ev_039), 'the Democrats left me' (ev_054). This suggests mission-relational conflicts are experienced as persecution rather than personal choices. The pattern may indicate underdeveloped affect: mission accomplishments provide meaning while relationships remain emotionally under-developed.",
       "evidence_ids": [
-        "ev_011",
-        "ev_019",
+        "ev_009",
+        "ev_015",
         "ev_039",
-        "ev_040",
-        "ev_041",
-        "ev_055",
-        "ev_030"
+        "ev_048",
+        "ev_051",
+        "ev_054"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Extreme risk tolerance framed as existential necessity -鸵鸟or genuine comfort with annihilation",
-      "finding": "Musk accepts extreme personal and venture risk: SpaceX had 'less than 10%' chance (ev_008), first Mars journeys will have 'quite high' fatality risk (ev_023), he would 'rather commit seppuku than fail' (ev_035). This is not calculated risk but existential identification with the mission. His 'eating glass' (ev_034) metaphor reveals he doesn't see risk as negative - suffering is the price of significance. The Falcon Heavy launch with his own car (ev_020, ev_021) demonstrates risk as personal stakes. However, this could represent Hero's need for mortal challenge or Puer's denial of consequences. His risk-taking may also be compensation for early helplessness (ev_001) - becoming the opposite of the bullied child. The Twitter acquisition (ev_055 worst deal since 2008 crisis) shows risk doesn't always succeed.",
+      "assessment": "Existential risk tolerance combined with personal psychological invulnerability; appears to use extreme risk-taking as both strategy and psychological defense",
+      "finding": "Musk's risk posture reflects the Hero archetype at its most extreme: 'less than 10%' chance of SpaceX success (ev_011), 'I'd rather commit seppuku than fail' (ev_019), 'staring into the abyss and eating glass' (ev_018). The 2008 period—when he had to borrow money for rent (ev_014)—exemplifies willingness to risk personal financial destruction for mission. His statements about Mars colonization explicitly frame the first journeys as having 'quite high' fatality risk (ev_028). This is not mere recklessness; his first-principles approach involves genuine calculation (the spreadsheet calculation on the flight home, ev_010). However, the pattern suggests risk tolerance exceeds normal parameters. Psychodynamically, extreme risk-taking may serve as defense: if one has already accepted potential failure and personal destruction, the anxiety of uncertainty is neutralized. The 'nobody ever changed the world on 40 hours a week' (ev_033) frames excessive work as virtue rather than compulsion. The 2018 tweet and SEC response (evt_025, ev_040, ev_041) suggests impulsivity in risk-taking—tweets have consequences but appear unfiltered. His political interventions (evt_030) represent risk at civilizational scale. The question of whether risk tolerance serves mission or serves psychological need for perpetual crisis cannot be fully resolved from external evidence.",
       "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_034",
-        "ev_035",
-        "ev_020",
-        "ev_021",
-        "ev_055"
+        "ev_011",
+        "ev_014",
+        "ev_018",
+        "ev_019",
+        "ev_028",
+        "ev_033",
+        "ev_040",
+        "ev_041"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Complex - rejects external authority while creating internal dominance structures; power shadow appears significant",
-      "finding": "Musk was ousted as CEO of X.com/PayPal (ev_011) - experiencing power loss - but subsequently became dominant in his own companies. His political shift to Republican (ev_045 'The Democrats left me') and becoming largest donor ($288 million, ev_046) shows alignment with power. He leads DOGE (ev_043, ev_057) as 'de facto leader' despite being 'special government employee.' This reveals complex power relation: he rejects hierarchical constraints when they constrain him but uses hierarchy when it serves his goals. The 'demon mode' (ev_042) shows power expressed through destruction rather than construction. His statement 'if you can't beat them, join them' regarding AI (ev_037) shows pragmatic power alignment. Power shadow likely exists - someone so focused on 'saving humanity' may have strong power need hidden beneath altruistic framing.",
+      "assessment": "Ambivalent relationship with hierarchy: actively dismantles external hierarchies while building internal ones; power is a means to mission rather than an end",
+      "finding": "Musk's relation to hierarchy reveals complex shadow dynamics. Early emigration from South Africa was partly to escape military hierarchy serving apartheid (ev_004). The Stanford dropout (evt_005) rejected academic hierarchy. SpaceX and Tesla represented challenging aerospace and automotive establishment hierarchies. His 'funding secured' tweet (ev_040) and SEC consequences revealed impulsivity around hierarchy-defying actions. However, simultaneously: Tesla engineers' warnings about Autopilot branding were overridden (ev_032); he fired people on the spot (ev_034); DOGE role involved mass federal layoffs (evt_032). The pattern suggests: hierarchies are acceptable when he controls them, intolerable when others do. This represents a power shadow: the person who insists they don't seek power may be most driven by it. His framing of DOGE as 'a way of life throughout the government' (ev_055) reveals aspirations beyond temporary role. The political donation (evt_030, ev_053) and Trump endorsement represent direct alignment with power structures he once opposed. His Starlink Crimea decision (ev_044, ev_045)—refusing to be 'explicitly complicit in a major act of war'—shows hierarchical restraint under pressure. The emergent pattern: Musk will use hierarchy to achieve anti-hierarchical goals, or oppose hierarchy to serve personal vision. The underlying dynamic may be not anti-hierarchy but anti-any-hierarchy-not-under-his-control.",
       "evidence_ids": [
-        "ev_011",
-        "ev_043",
-        "ev_045",
-        "ev_046",
-        "ev_057",
-        "ev_037",
-        "ev_042"
+        "ev_004",
+        "ev_032",
+        "ev_034",
+        "ev_040",
+        "ev_053",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Escalation-dominant with explosive confrontation and occasional strategic withdrawal",
-      "finding": "Musk's conflict strategy is predominantly escalation: SEC lawsuit (ev_027, ev_015), advertiser confrontation (ev_019), firing engineers who disagree (ev_054). The 'Go fuck yourself' is archetypal Trickster behavior - shocking rupture of social contract. However, there are strategic withdrawals: he settled with SEC, eventually stepped back from DOGE (ev_044). The pattern suggests Trickster archetype with Power Shadow - conflict as dramatic performance but also serious destruction. His Twitter approach (ev_018 80% layoff, ev_053 ultimatum causing 1200 resignations) shows conflict as purification ritual - destroying to rebuild. The 'destroy entire teams' work' (ev_042) in demon mode reveals conflict as Shadow eruption rather than strategic choice. He may also split in relationships - hiring then firing same engineers (ev_054).",
+      "assessment": "Escalation-dominant; conflict is approached through intensification rather than negotiation or delay; 'demon mode' represents controlled shadow emergence",
+      "finding": "Musk's conflict strategy reflects the Hero archetype's direct confrontation pattern. Rather than avoiding conflict, he appears to seek decisive resolution through intensification. The 'demon mode' documented by Isaacson (ev_050)—'firing people, destroying entire teams' work, demanding impossible deadlines'—represents controlled eruption of shadow material. The Twitter mass layoffs (ev_046) and DealBook 'go fuck yourself' (ev_051) represent escalatory responses to perceived conflicts. His pattern of firing engineers then rehiring them days later (ev_034) suggests a conflict style where destruction precedes reconstruction—the Hero's 'burn it down to build it better' pattern. However, there are exceptions: the Starlink Crimea decision (ev_045) showed restraint and explicit reasoning about complicity rather than escalation. The Neuralink establishment after AI warnings (evt_018) represents converting an opponent (AI risk) into a collaborator (brain-machine interface). The pattern suggests Musk alternates between confrontation and integration depending on whether the conflict is framed as threatening the mission. His first-principles approach extends to conflict: 'what are the fundamental issues?' rather than 'how do we manage this diplomatically?' Shadow interpretation: the frequent destruction-rebuild cycles may indicate unintegrated aggression that requires periodic discharge.",
       "evidence_ids": [
-        "ev_019",
-        "ev_027",
-        "ev_015",
-        "ev_054",
-        "ev_018",
-        "ev_053",
-        "ev_042",
-        "ev_044"
+        "ev_034",
+        "ev_046",
+        "ev_050",
+        "ev_051",
+        "ev_045"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale: multi-generational to civilizational timeframes",
-      "finding": "Musk's time horizon extends to centuries: 'history is going to bifurcate' (ev_022), Mars colonization, 'maintain the light of consciousness' (ev_029), 'make sure it continues into the future' - these are civilizational statements. The Mars vision (ev_024 'I would like to die on Mars') reveals identification with multi-generational mission. This is neither short-term nor typical long-term but True Long (mission-scale). However, his execution shows impulsivity - Twitter purchase in weeks, Model 3 crisis months. The gap between long-term vision and short-term execution may reflect Puer energy (grand visions, impatient execution). His statement about 'extremely hardcore work' (ev_053) implies present suffering for future payoff. Time horizon also shows in his 'algorithm' - 'most common error is to optimize something that shouldn't exist' (ev_016) - ensuring the entire framework is worth building before starting.",
+      "assessment": "Mission-scale time orientation; present moment serves future vision; long-term thinking is both strategic and psychological",
+      "finding": "Musk operates with an unusually extended time horizon that colors all decisions. The Mars colonization vision (evt_019)—reducing costs to $200,000 (ev_027), acknowledging first-journey fatality risk (ev_028), framing as species survival choice (ev_029)—represents multi-generational thinking. The 'history will bifurcate' framing (ev_029) positions current actions within century-scale narratives. Neuralink (evt_018, evt_031) represents a 20+ year development horizon for brain-machine interfaces. Even Hyperloop—open-sourced rather than built—was positioned as 'fifth mode of transportation' requiring decades to realize (ev_024). However, this long-term orientation coexists with short-term impulsivity: the 'funding secured' tweet (ev_040), the flamethrower marketing (ev_035), the immediate responses to conflicts. The pattern suggests Musk lives simultaneously in two time registers: a grand future-vision horizon and a hyper-present crisis-management mode. His statement about consciousness maintenance (ev_043)—'we have a duty to maintain the light of consciousness'—extends his time horizon to cosmic scale. This temporal orientation serves psychological functions: long-term mission framing justifies present sacrifices ('nobody changed the world on 40 hours a week,' ev_033) and provides meaning-structure for deferred gratification. The question of whether this represents genuine strategic long-termism or psychological avoidance of present-moment relationships remains open.",
       "evidence_ids": [
-        "ev_022",
-        "ev_024",
+        "ev_027",
+        "ev_028",
         "ev_029",
-        "ev_030",
-        "ev_016",
-        "ev_028"
+        "ev_033",
+        "ev_043",
+        "ev_024"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "reuild_over_patch",
-      "assessment": "Extreme preference for fundamental redesign over incremental improvement",
-      "finding": "Musk consistently rebuilds rather than patches: Twitter layoffs 80% (ev_018), 'destroy entire teams' work' (ev_042), Twitter ultimatum (ev_053), Tesla factory transformation, SpaceX building rockets from scratch at 10% of going rate (ev_013). This is radical reconstructionist - if something is broken, burn it down and rebuild. The Hyperloop white paper (ev_049) published to show possibility (ev_050) rather than incrementally improve existing transport. His 'algorithm' (ev_016) first step is 'make requirements less dumb' - questioning fundamentals rather than optimizing existing specs. This shows Thinking function's drive to examine first principles before building. However, this pattern can become destructive when applied to institutions (Twitter) that require preservation of some existing function. The rebuild impulse may also serve Shadow - destruction as release of pent-up aggressive energy.",
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign; incremental improvement is rejected as insufficient; 'burn and rebuild' as default approach",
+      "finding": "Musk demonstrates consistent preference for structural redesign over incremental improvement throughout his career. SpaceX represented not improving rocket technology but rethinking materials science from first principles (ev_020). Tesla represented not incremental automotive improvement but reimagination of vehicles as software platforms. The Hyperloop proposal (evt_016, ev_024) explicitly offered a 'fifth mode' rather than improvement of existing transportation. The Boring Company (evt_021) proposed underground infrastructure redesign rather than surface-level improvements. The Twitter acquisition (evt_028) involved '鸟已解放'—complete liberation rather than reform (ev_047)—followed by firing 80% of staff (ev_046). The DOGE role (evt_032) sought government restructuring rather than process optimization. However, evidence of patch-over-rebuild also exists: the Model 3 crisis involved removing expensive automation systems (ev_037)—'Humans are underrated'—a temporary retreat from the full automation vision. This suggests the rebuild preference may be ideologically held even when circumstances require patching. The pattern has Shadow implications: radical reconstruction requires destruction of existing structures, which generates conflict. The 'demon mode' (ev_050) may be the psychological prerequisite for rebuild behavior—permission to destroy before building. The tendency may also represent difficulty with transition states: full redesign is psychologically simpler than managed evolution.",
       "evidence_ids": [
-        "ev_018",
-        "ev_042",
-        "ev_053",
-        "ev_016",
-        "ev_013",
-        "ev_049",
+        "ev_020",
+        "ev_024",
+        "ev_037",
+        "ev_046",
+        "ev_047",
         "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Low metacognitive awareness - limited capacity to observe own thinking patterns and biases",
-      "finding": "Musk shows limited metacognition: the Autopilot naming controversy (ev_033) with engineer warnings led to resignations rather than self-reflection. His SEC tweet (ev_015) showed poor self-monitoring - 'funding secured' was not accurate. He described Model 3 year as 'production hell' (ev_013) but didn't recognize his automation mistakes until after (ev_14 'humans are underrated'). He rarely admits errors publicly - instead doubles down. The lack of observable self-questioning is notable: he acts from conviction without visible uncertainty. However, his first-principles thinking (ev_025) could be considered meta-level reasoning - reasoning about reasoning. Yet this seems more intellectual pattern than emotional self-awareness. The existential crisis at 12-15 (ev_051) shows he did engage with philosophical metacognition, but appears to have resolved it through action rather than continued inquiry. Low Anima integration limits his ability to see his emotional blind spots.",
+      "assessment": "Moderate metacognitive capacity; first-principles thinking represents a form of metacognition, but shadow material frequently bypasses reflective awareness",
+      "finding": "Musk demonstrates metacognitive capacity in his explicit articulation of first-principles reasoning (ev_020)—he can describe his own thinking methodology and recognize when analogical thinking leads to suboptimal conclusions. His Douglas Adams attribution (ev_031)—learning to 'properly phrase the question' rather than just finding answers—suggests metacognitive awareness of problem-framing. His AI warnings (ev_025) show capacity to recognize risks in technologies he helps develop. The Starlink Crimea decision (ev_044) involved explicit reasoning about complicity—'if I agreed, SpaceX would be explicitly complicit in a major act of war'—which demonstrates moral metacognition. However, significant blind spots exist: the Autopilot branding issue (ev_032) shows failure to integrate engineering safety concerns into brand decisions despite clear warnings. The SEC tweet (ev_040) represents impulsive action bypassing reflective consideration. The DealBook 'go fuck yourself' (ev_051) suggests emotional override of strategic thinking. Isaacson's 'demon mode' documentation (ev_050) suggests states where reflective capacity is suspended. His self-description—'I'm not trying to be anyone's savior' (ev_042)—may indicate identity-protection from messianic attributions he recognizes but cannot fully integrate. The pattern suggests metacognition is operational in technical and strategic domains but compromised in interpersonal and emotional domains. This is consistent with Jung's model of主导功能 (dominant function) and劣势功能 (inferior function): thinking dominates, feeling remains underdeveloped.",
       "evidence_ids": [
-        "ev_033",
-        "ev_015",
-        "ev_013",
-        "ev_014",
+        "ev_020",
+        "ev_025",
+        "ev_031",
+        "ev_032",
+        "ev_040",
+        "ev_044",
         "ev_051",
-        "ev_025"
+        "ev_042"
       ],
       "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "Shadow Integration vs. Projection",
-      "definition": "The degree to which one has integrated rather than projected the Shadow - the denied, repressed, or inferior aspects of self. Measured by: what one criticizes in others, how one handles personal failure, whether projected 'enemies' reflect internal qualities.",
-      "finding": "Musk shows strong Shadow projection combined with partial integration. His public criticism of others (engineers, advertisers, Democrats) and his 'demon mode' destruction suggest active Shadow. He calls his father 'a terrible human being' (ev_002) - complete externalization of bad. Yet his 'suffer with the workers' (ev_012) shows partial shadow integration - some capacity to identify with the suffering. The pattern: what he destroys externally (Twitter, teams) may represent his own rejected inferior functions. His 'go fuck yourself' to advertisers (ev_019) is classic shadow projection - attacking the 'other' (advertisers) as blackmailers when he controls the platform. Full Shadow integration would involve recognizing these destructive impulses as partly his own rather than purely external enemies.",
+      "dimension_name": "原型激活模式与个体化阶段",
+      "definition": "荣格框架中的原型理论对理解Musk尤为关键——他的行为模式与多个原型的激活密切相关，而他对这些原型的整合程度揭示了其个体化进程的位置",
+      "finding": "Musk demonstrates simultaneous activation of multiple archetypes. The Hero archetype is most evident: his mission-driven transformation of industries, willingness to sacrifice everything, and self-presentation as agent of historical change. However, the Puer Aeternus (Eternal Youth) pattern is equally present: revolutionary ideas without implementation (Hyperloop), optimistic timelines that don't materialize (autonomous driving by 2017, ev_026), the grand visions always in future tense. The Trickster emerges in his marketing—selling 20,000 flamethrowers (ev_035), the Tesla-in-space spectacle (ev_036), 'the bird is freed' (ev_047)—playful subversion of seriousness. The Savior archetype activates in his AI warnings (ev_025) and Neuralink as salvation from AI (ev_030), though he denies this role explicitly (ev_042). The Tyrant/Shadow emerges in demon mode (ev_050), firing people on the spot (ev_034), crude responses to advertisers (ev_051). His childhood abuse (ev_001, ev_002) suggests early shadow material that informed later compensation. The critical Jungian question is whether these archetypes are fully owned or projected outward. His explicit denial of messianic motivation ('not trying to be anyone's savior,' ev_042) while behaving as if humanity depends on his actions suggests archetypal inflation—the person and the role have merged. Individualization requires discriminating the ego from the Self, but Musk appears to have identified his ego with transformative historical agency. This represents a specific type of inflation: not grandiosity for personal gain but genuine identification with saving-functions. The path toward integration would require recognizing that his mission-drive serves psychological needs (to escape his childhood powerlessness, to maintain consciousness-meaning) as well as external goals. The unresolved question is whether his interventions represent mature Self-regulation or ego-inflation. The 2025 DOGE role represents a critical test: using enormous power for publicly stated mission rather than personal gain would support healthy agency; using power to resolve internal psychological conflicts would represent continued inflation. 证据支持：ev_042 (否认救世主角色), ev_050 (demon mode原型), ev_030 (Neuralink作为救赎), ev_031 (Adams影响与问题框架), ev_002 (童年阴影来源)",
       "evidence_ids": [
-        "ev_002",
-        "ev_019",
-        "ev_012",
         "ev_042",
-        "ev_054"
+        "ev_050",
+        "ev_030",
+        "ev_031",
+        "ev_002",
+        "ev_026"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "Ego Inflation Assessment",
-      "definition": "The degree to which the ego has inflated - identifying too strongly with the Persona or with archetypal energies, losing contact with the balancing center of the Self. Measured by: grandiose self-image, inability to acknowledge limits, identification with savior/superhero narratives.",
-      "finding": "Musk shows significant ego inflation. His self-identification with saving humanity (ev_029 'maintain the light of consciousness', ev_022 'multi-planetary species'), his stated purpose 'maximize probability of future being better' (ev_030), and his explicit Mars colonization mission (ev_022-024) indicate identification with the Hero-Savior archetype. The 'bird is freed' (ev_017) tweet shows mythic self-framing. He takes on roles - AI safety (ev_026 'summoning the demon') then creates xAI competitor, then Neuralink as 'merge with AI' (ev_037) - continuously occupying savior positions. This inflation is typical of Hero archetype at certain individuation stages. The test: can he acknowledge limitation, failure, or that others might contribute equally? His 'nobody changed the world on 40-hour weeks' implies only extraordinary individuals (him) change history - which fuels inflation. However, the 10% success probability (ev_008) shows some realism, and 'humans are underrated' (ev_014) shows some deflation after failure.",
+      "dimension_name": "劣势功能（感觉-情感）的原始爆发",
+      "definition": "Jung模型中的劣势功能代表人格中未整合的、被忽视的面向。Musk的主导直觉-思维型需要感觉-情感功能作为劣势——这可能在压力下以原始形式爆发",
+      "finding": "Musk's dominant functions appear to be intuition (seeing patterns and possibilities) and thinking (first-principles logical analysis). His inferior function would be sensation (grounded in concrete reality) and feeling (relational and emotional values). Evidence for inferior function emergence under pressure includes: the SEC tweet (ev_040)—'funding secured'—appears to have bypassed reality-testing (sensation) in a moment of emotional excitement. The DealBook outburst (ev_051) represents emotional feeling-function eruption in its crudeness and relationship-destruction. The pattern of firing-then-rehiring (ev_034) suggests difficulty with sustained emotional processing—reactive discharge followed by reconsideration. His statements about returning to work after his child's death (ev_048)—'I'm not sure what sitting around being sad is going to do'—suggest underdeveloped grief-processing and emotional embodiment. The Starlink Crimea decision (ev_044) shows more integrated function usage—explicit moral reasoning balancing multiple values—but this may represent conscious override rather than integrated feeling. The pattern suggests Musk experiences emotions primarily as disruptions to mission rather than as information requiring integration. His 'many nights I sleep alone' (ev_049) acknowledgment reveals emotional solitude, consistent with underdeveloped feeling function. The critical question is whether recent events (2024 political engagement, DOGE role) represent increasingly integrated feeling function—genuine values-based engagement—or merely emotional reactivity (frustration with Democrats, attraction to power). Jung would suggest that inferior function integration requires acknowledging that feelings exist within the psyche as legitimate guides, not merely as obstacles to thinking. The development trajectory remains uncertain from external evidence.",
       "evidence_ids": [
-        "ev_017",
-        "ev_022",
-        "ev_024",
-        "ev_026",
-        "ev_029",
-        "ev_030",
-        "ev_031",
-        "ev_037"
+        "ev_040",
+        "ev_048",
+        "ev_049",
+        "ev_051",
+        "ev_044",
+        "ev_034"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     }
   ]
 }

@@ -4,161 +4,173 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper: actively attempts to reshape human civilization through multi-planetary expansion, energy transition, and AI development",
-      "finding": "Musk exhibits the most pronounced world-shaping orientation in contemporary business. His actions span creating new industries (commercial space, electric vehicles), attempting to civilizational redirection (Mars colonization), and intervened in geopolitics (Starlink Ukraine). His self-conception is explicitly teleological: 'History is going to bifurcate along two directions' (ev_022). This aligns with Stoic cosmology where the logos demands rational beings participate in cosmic reason. However, his agency is not purely Stoic—he acts as if external outcomes ARE controllable, rather than accepting the dichotomy of control. His statement 'I could either watch the Internet revolution happen or I could be part of it' (ev_005) reveals drive without Stoic detachment from results.",
+      "assessment": "Extreme world-shaper whose agency extends far beyond Stoic boundaries into Promethean territory, attempting to control external systems rather than internal responses",
+      "finding": "Musk exhibits hyperactive world-shaping orientation, famously declaring 'Nobody ever changed the world on 40 hours a week' (ev_033) and dropping out of Stanford PhD to 'do something meaningful in the world' (ev_005). His first-principles methodology explicitly seeks to reshape fundamental systems - rockets, cars, brain-computer interfaces, government. However, this differs critically from Stoic agency: the Stoic world-shaper modifies their OWN judgments and responses to reality, not reality itself. Musk's agency targets external systems as if controlling outcomes equals controlling one's inner state. This conflation becomes evident when external control fails - SEC enforcement, Twitter valuation collapse (ev_052), Twitter advertiser exodus (ev_051) - his inner state destabilizes, revealing that his 'stoicism' is really aggressive control-seeking with philosophical rationalization rather than genuine Stoic practice.",
       "evidence_ids": [
-        "ev_022",
         "ev_005",
-        "ev_030",
-        "ev_013"
+        "ev_033",
+        "ev_051",
+        "ev_052"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "First-principles reasoning as explicit methodology; tests impressions but applies this selectively",
-      "finding": "Musk explicitly advocates first-principles thinking: 'Physics teaches you to reason from first principles rather than by analogy' (ev_025). This aligns remarkably well with Stoic 'testing of impressions' (probōsis)—the discipline of not accepting things at face value but examining their underlying nature. He applies this to rocket economics (calculating 10% of going rate), automotive manufacturing, and AI development. However, his epistemic discipline appears selective—he rigorously questions certain domains (engineering, physics) while exhibiting confirmation bias in others (Tesla Autopilot safety, Twitter content moderation). The Stoic ideal requires consistent application across all domains, which Musk does not achieve.",
+      "assessment": "Genuine first-principles reasoning alongside significant epistemic overconfidence, lacking Stoic epistemological humility about the limits of knowledge",
+      "finding": "Musk's first-principles thinking (ev_020) shows authentic Stoic characteristics - 'reason from first principles rather than by analogy,' questioning fundamental assumptions rather than accepting conventions. However, his epistemic style lacks the epistemological humility essential to Stoic epistemology. Stoic doctrine requires rigorous 'testing of impressions' (dokimastic prosthrepse) and honest acknowledgment of knowledge limits. Musk instead shows epistemic overconfidence: predicting fully autonomous cross-country Tesla drives by 2017 (ev_026) that failed to materialize; the infamous 'funding secured' tweet (ev_040) that the SEC found false and misleading (ev_041); repeated timeline predictions that proved unrealistic. This pattern suggests his first-principles methodology functions as a tool for aggressive problem-solving rather than for genuine epistemological humility - he uses it to prove what's possible rather than to honestly assess what he knows and doesn't know.",
       "evidence_ids": [
-        "ev_025",
-        "ev_008",
-        "ev_033"
+        "ev_020",
+        "ev_026",
+        "ev_040",
+        "ev_041"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "High formalization in engineering contexts; mixed with extreme hands-on operational involvement",
-      "finding": "Musk exhibits a dual pattern: systematic framework development alongside intense operational engagement. His 'algorithm' (ev_016)—a five-step engineering process—demonstrates high formalization. Yet he also sleeps on factory floors (ev_056), reviews code commits personally (ev_052), and works 120-hour weeks. This mirrors Stoic practicality—they were not mere theorists but applied philosophy to daily life. However, Stoic abstraction emphasizes universality and generality; Musk's formalizations are highly domain-specific engineering frameworks rather than universal life principles. His theoretical output (Hyperloop white paper, Mars plans) serves concrete engineering goals rather than philosophical abstraction.",
+      "assessment": "Strong tendency toward system-level abstraction combined with impulsive concretization, exhibiting tension between strategic frameworks and action-level discipline",
+      "finding": "Musk demonstrates genuine aptitude for system-level abstraction: the physics framework for first-principles thinking (ev_020), multi-planetary species thinking (ev_029), Hyperloop white paper (ev_024) as formal conceptual framework. This aligns with Stoic Logos - understanding reality through rational, systemic frameworks. However, his abstraction-formalization practice shows internal tension: he writes formal white papers (Hyperloop) yet open-sources the concept rather than building (ev_022, ev_023); he articulates sophisticated long-term visions yet tweets impulsively 'funding secured' without formal verification. The Stoic ideal demands consistent application of rational frameworks across all domains - speech, action, judgment. Musk's pattern suggests abstraction serves as intellectual justification for instinctive decisions rather than as genuine discipline constraining behavior. His impulsivity (SEC tweet, flamethrower marketing, Twitter tantrums) reveals the abstraction is not fully integrated into behavioral control.",
       "evidence_ids": [
-        "ev_016",
-        "ev_056",
-        "ev_052",
-        "ev_049"
+        "ev_020",
+        "ev_022",
+        "ev_023",
+        "ev_024"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Maximum control orientation across technical stacks, organizations, and increasingly political systems",
-      "finding": "Musk's control orientation is extreme and manifests across multiple domains: vertical integration at Tesla/SpaceX, complete Twitter restructuring (80% workforce reduction), DOGE role in government. This is anti-Stoic in the strict sense—Stoicism teaches accepting what cannot be controlled. However, one could argue his control orientation represents rational response to instrumental dependencies: to achieve multi-planetary civilization requires control over launch, manufacturing, energy, and communications. The paradox is that he seeks total control while pursuing goals whose success involves enormous factors beyond his control (technological feasibility, market adoption, political support). He displays the Stoic virtue of courage but violates the Stoic wisdom of knowing limits of control.",
+      "assessment": "Pathological control-seeking that fundamentally inverts Stoic doctrine - attempting to dominate external reality rather than accepting what lies beyond control",
+      "finding": "This is where Musk's 'stoicism' most critically fails Stoic principles. Stoicism's core insight is the dichotomy of control (dichotomia tes es thelias): distinguishing what lies within our power (our judgments, intentions, desires, aversions) from what doesn't (external outcomes, others' behavior, reputation, possessions). The Stoic practices apatheia - freedom from being enslaved by desire for what cannot be controlled. Musk exhibits the precise inversion: micromanaging engineering decisions (ev_038), demanding 'Autopilot' branding despite engineering safety warnings (ev_032), instant firing of dissenting engineers (ev_034), DOGE restructuring federal agencies (ev_029, ev_055). The pattern reveals control-seeking extended far beyond legitimate domain into systems, people, and outcomes he cannot actually control. When control fails - SEC enforcement, Twitter advertiser boycott, Ukrainian military frustrations - his inner state destabilizes catastrophically. This demonstrates his 'stoicism' is actually dominance-seeking with philosophical window dressing. A true Stoic would accept that external systems cannot be controlled, only one's relationship to them.",
       "evidence_ids": [
-        "ev_018",
-        "ev_052",
-        "ev_043",
-        "ev_057"
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_051",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission prioritization nearly absolute; relational costs repeatedly borne without evident Stoic equanimity",
-      "finding": "Musk consistently prioritizes mission over relational comfort: 'Nobody ever changed the world on 40 hours a week' (ev_031), working 80-100 hour weeks (ev_032). He fired engineers on the spot for disagreement (ev_054), laid off 80% of Twitter (ev_018), confronted advertisers with 'Go fuck yourself' (ev_019). Yet this mission-priority is not Stoically neutral—he exhibits visible emotional distress during setbacks (Model 3 crisis called 'the most painful year of my career' (ev_013)). Stoic mission-priority involves acting virtuously without attachment to outcomes; Musk seems attached to outcomes (Tesla stock, Twitter success) and his emotional responses suggest relational costs are not truly accepted but suffered. He acts like a Stoic but does not appear to feel like a Stoic.",
+      "assessment": "Mission dominates relationships to an extreme degree that violates Stoic balance between duty and human connection",
+      "finding": "Musk's prioritization of mission over relationships is documented across multiple domains: returning to work almost immediately after his infant son's death (ev_048), characterizing entrepreneurship as 'staring into the abyss and eating glass' (ev_018), stating he'd 'rather commit seppuku than fail' (ev_019). The Stoic virtue of justice requires maintaining proper relationships - the cosmopolitan duty extends to those immediately around us, not just abstract humanity. Musk's pattern shows mission execution consuming relational capacity: firing engineers who disagree (ev_034), massive Twitter layoffs (ev_046), willingness to spend $288 million on political donations (ev_053). Yet Stoic balance does not demand abandoning relationships entirely - it requires maintaining proper proportion between cosmic duty and proximate obligations. The fact that Musk acknowledges emotional solitude ('many nights I sleep alone,' ev_049) suggests the relational cost is not incidental but structural. His claimed identification with worker suffering ('my suffering should be greater than theirs,' ev_039) reads more as performative solidarity than genuine relational investment.",
       "evidence_ids": [
-        "ev_031",
-        "ev_032",
+        "ev_018",
         "ev_019",
-        "ev_013",
-        "ev_054"
+        "ev_034",
+        "ev_046",
+        "ev_048",
+        "ev_049",
+        "ev_053"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Surprisingly high tolerance for low-probability outcomes; accepts personal financial ruin as likely",
-      "finding": "This is where Musk most closely approaches Stoicism. He accepted less than 10% chance of success for SpaceX: 'I just accepted that I would probably lose everything' (ev_008). He stated 'I'd rather commit seppuku than fail' (ev_035). This aligns with Stoic premeditatio malorum—premeditation of evils—and acceptance of fate. He also acknowledged first Mars journeys will have 'high fatality risk' (ev_023). However, his risk tolerance is not purely Stoic acceptance of whatever comes—it is aggressive risk-taking motivated by desire to shape outcomes. True Stoics accept risk with indifference; Musk accepts risk as acceptable price for potentially world-changing success. The distinction is attachment to the outcome versus acceptance of the risk.",
+      "assessment": "High tolerance for external risk combined with insufficient internal risk management, violating Stoic proportionality between external uncertainty and internal integrity",
+      "finding": "Musk demonstrates genuine risk tolerance for external outcomes: accepting SpaceX success probability below 10% (ev_011), claiming he'd 'probably lose everything,' stating he invested all remaining money in Tesla when 'that wasn't really a choice' (ev_015). This aligns partially with Stoic risk posture - the Stoic accepts uncertainty about external outcomes while maintaining internal coherence. However, Musk's risk posture lacks Stoic proportionality: his external risks (SpaceX, Tesla) were calculated from genuine first-principles analysis, but his later risks (Twitter acquisition at inflated price, SEC violation, political entanglement) show escalating pattern disconnected from rational calculation. The Stoic accepts fortune (tyche) without being reckless - Marcus Aurelius maintained strategic caution alongside personal courage. Musk's pattern suggests external risk-taking serves psychological need for extreme states rather than rational assessment. His 'demon mode' (ev_050) indicates risk posture driven by emotional flooding rather than philosophical clarity - the opposite of Stoic equilibrium.",
       "evidence_ids": [
-        "ev_008",
-        "ev_035",
-        "ev_023"
+        "ev_011",
+        "ev_015",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Pragmatic utilitarianism toward hierarchy; uses when convenient, challenges when not",
-      "finding": "Musk's relationship to hierarchy is instrumental rather than principled. He entered government through DOGE (ev_043), was ruled as 'de facto leader' by federal court (ev_057), and applies corporate management to government. Yet his history shows both submission to and rebellion against authority: left South Africa to avoid military service (ev_004), was ousted as X.com CEO (ev_007), challenged SEC (ev_015). Stoic relation to hierarchy is contextual—obey natural authorities but maintain inner autonomy. Musk seems to use hierarchy for mission advancement without evident inner freedom from its influence. His political shift from Democrat to $288M Republican donor (ev_046) suggests consequentialist calculation rather than principled stance—another indicator of hierarchical pragmatism.",
+      "assessment": "Instrumental relationship to hierarchy - challenging it when out of power, dominating it when in power, lacking consistent Stoic principle about power's proper use",
+      "finding": "Musk exhibits contradictory relationship to hierarchy and power. Initially positioned as challenger to establishment (SpaceX vs. aerospace giants, Tesla vs. incumbent auto industry), yet within his own organizations he exercises extreme hierarchical control: firing engineers on the spot (ev_034), overruling engineering teams (ev_038), demanding 'extremely hardcore' work commitment (ev_046). This suggests instrumental rather than principled relationship to power - he challenges hierarchies that constrain him while demanding absolute obedience within his own domains. The Stoic relationship to power is grounded in justice and cosmic order (Logos) - power is legitimate only when exercised for the benefit of the whole. Musk's DOGE role (ev_029, ev_055) and massive political donation (ev_053, ev_054) reveal rapid transition from anti-establishment positioning to establishment capture. This pattern violates Stoic consistency - Marcus Aurelius maintained philosophical integrity across shifts in imperial power because his principles were internal, not contingent on position.",
       "evidence_ids": [
-        "ev_004",
-        "ev_007",
+        "ev_034",
+        "ev_038",
         "ev_046",
-        "ev_043",
-        "ev_057"
+        "ev_053",
+        "ev_054",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Predominantly escalation and confrontation; minimal evidence of translation or negotiation",
-      "finding": "Musk's conflict strategy is predominantly escalatory: SEC fraud lawsuit (ev_015), 'Go fuck yourself' to advertisers (ev_019), firing engineers on the spot (ev_054). This is anti-Stoic—Stoic conflict strategy prioritizes changing one's own judgment rather than external situation, and certainly avoids provoked emotional responses. His statement about being ousted as CEO—'That's the problem with vacations' (ev_007)—shows deflective humor rather than Stoic acceptance. His public conflicts (Twitter advertiser confrontation, SEC, various technical disputes) suggest difficulty inserting the 'space between stimulus and response' that Stoicism prizes. He does not seem to practice the Stoic discipline of response-ability—choosing one's response rather than being driven by provocation.",
+      "assessment": "Consistent escalation tendency that violates Stoic requirements for measured, principle-driven conflict resolution",
+      "finding": "Musk's conflict strategy consistently escalates rather than suppresses, negotiates, or delays. His 'demon mode' (ev_050) involves immediate firing of personnel, destroying teams' work, demanding impossible deadlines - raw aggression rather than Stoic measured response. The SEC confrontation (ev_041) shows escalation until被迫和解 - he did not accept the regulatory judgment with Stoic grace but fought until settlement was imposed. His DealBook outburst toward advertisers (ev_051) - 'Go fuck yourself' - represents extreme escalation when challenged, not Stoic restraint. Stoic conflict strategy requires distinguishing between what's in our control (our response) and what isn't (others' actions), then acting from principle rather than impulse. Musk's pattern shows conflict triggering emotional flooding that overrides rational framework. Even his more successful conflicts (SpaceX fourth launch, Tesla production crisis) succeeded through personal pressure and intensity rather than through Stoic virtue - the outcomes happened despite his approach, not because of it.",
       "evidence_ids": [
-        "ev_019",
-        "ev_015",
-        "ev_054",
-        "ev_007"
+        "ev_050",
+        "ev_051",
+        "ev_041"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale temporal horizon with explicit orientation toward civilizational continuity",
-      "finding": "Musk operates on mission-scale time horizons explicitly: 'I would like to die on Mars. Just not on impact' (ev_024), maintaining 'the light of consciousness' into the future (ev_029). This aligns with Stoic cosmic time—the Stoic perspective sees humans as brief participants in eternal cosmic process. His memento mori consciousness appears not as anxiety but as motivation: knowing life is finite drives urgency. However, his time horizon also includes extreme short-term crisis mode—Model 3 production had him 'within weeks of bankruptcy' (ev_028), he slept on factory floor for months. This oscillation between mission-scale and acute crisis fits the pattern of a founder navigating existential business threats while pursuing civilizational goals—a pattern the Stoics would recognize as navigating the tension between fate and agency in time.",
+      "assessment": "Long-term cosmic vision combined with short-term reactive behavior, violating Stoic requirement for consistent temporal integration",
+      "finding": "Musk exhibits genuine long-term temporal orientation: multi-planetary species thinking (ev_029), 'history will bifurcate' framework (ev_028), 80-year timeline to Mars colonization. His memento mori awareness appears in statements about existential risk and consciousness preservation (ev_043). This aligns with Stoic time horizon - the sage recognizes mortal limits while acting for eternal significance. However, Musk's long-term vision coexists with severe short-term reactive behavior: impulsive tweets (ev_040), immediate firing responses (ev_034), Twitter tantrums and advertiser confrontations (ev_051). The Stoic integrates temporal awareness through consistent present-moment discipline - Marcus Aurelius maintained philosophical practice daily, not just when convenient. Musk's pattern suggests long-term vision functions as motivational narrative rather than as integrated temporal discipline. His daily behavior remains reactive to immediate triggers rather than manifesting long-term principles consistently. The gap between cosmic vision and daily conduct reveals temporal horizon is aspirational rather than Practiced.",
       "evidence_ids": [
-        "ev_024",
-        "ev_029",
         "ev_028",
-        "ev_012"
+        "ev_029",
+        "ev_040",
+        "ev_043",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "reuild_over_patch",
-      "assessment": "Consistent preference for fundamental redesign over incremental improvement",
-      "finding": "Musk consistently chooses structural redesign: SpaceX built rockets from scratch when established players existed, Tesla redesigned automotive manufacturing, Twitter was acquired and completely restructured (ev_018), Hyperloop was published as open design (ev_050), Neuralink represents fundamental reimagining of human-computer interface. He states 'The most common error is to optimize something that shouldn't exist' (ev_016)—directly advocating rebuild over patch. This aligns with Stoic 'rebuild over patch' in the philosophical sense—Stoicism teaches fundamental reorientation of judgment rather than tactical adjustment. However, his rebuilds are engineering/organizational rather than the deep psychological reformation Stoicism demands. He rebuilds systems but does not evidence equivalent attention to rebuilding his own patterns of judgment and response.",
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign that sometimes manifests as avoidance rather than genuine transformation, inconsistently applied",
+      "finding": "Musk demonstrates authentic preference for structural redesign over local repair: first-principles approach inherently questions existing systems (ev_020); Falcon rocket development from raw materials rather than incremental improvement (ev_016); removing Tesla's automated production system entirely and rebuilding with human labor (ev_037). This aligns with Stoic preference for addressing root causes rather than symptoms. However, the rebuild preference shows inconsistency: Hyperloop remained white paper rather than actual construction (ev_021, ev_022, ev_023) - this suggests preference for proposing transformation while delegating execution to others, potentially avoiding the difficult implementation work that would test the structural redesign. The Stoic requirement for structural change involves sustained commitment through difficulty - addressing the third launch failure by continuing to the fourth attempt (ev_013) demonstrates genuine rebuild orientation under pressure. But Twitter acquisition and DOGE operations suggest rebuild preference serving impulse rather than principle - restructuring for its own sake rather than as measured response to systematic problems.",
       "evidence_ids": [
         "ev_016",
-        "ev_050",
-        "ev_018",
+        "ev_020",
+        "ev_021",
+        "ev_022",
+        "ev_023",
         "ev_037"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Mixed: explicit first-principles methodology but poor emotional regulation and limited self-awareness in interpersonal contexts",
-      "finding": "Musk's metacognition is paradoxical. He explicitly teaches first-principles thinking (ev_025)—testing assumptions, reasoning from foundations—which is inherently metacognitive. Yet his emotional responses to challenges (SEC, Twitter advertisers, production crises) show limited self-regulation. He admits 'There are many nights I sleep alone' (ev_039)—a rare acknowledgment of personal cost but without evident Stoic processing. His response to his first child's death—'I'm not sure what sitting around being sad is going to do' (ev_041)—shows cognitive avoidance rather than Stoic acceptance. He does not appear to practice prosoche (Stoic attention) consistently. His self-assessment of 'demon mode' management pattern (ev_042) shows awareness but without evident modification. The Stoic emperor Marcus Aurelius maintained constant self-examination in his Meditations; Musk shows awareness of his patterns but without evidence of the sustained reflective practice that defines Stoic metacognition.",
+      "assessment": "Selective metacognitive awareness that serves self-justification rather than genuine self-examination, violating Stoic requirement for continuous self-scrutiny",
+      "finding": "Musk demonstrates some metacognitive capacity: articulating his first-principles thinking framework (ev_020), acknowledging past errors (calling living with his father 'a mistake,' ev_001), recognizing automation overreach at Tesla (ev_037, 'humans are underrated'). However, his metacognition exhibits critical limitations characteristic of the pseudo-Stoic rather than the genuine practitioner. The Stoic ideal - exemplified by Marcus Aurelius's Meditations - requires continuous, honest self-examination even when one is powerful and successful. Musk's metacognition appears selectively applied: he acknowledges tactical errors but not strategic ones; admits personal pain (ev_049) but not philosophical inconsistency. The SEC tweet (ev_040) and subsequent enforcement suggest inadequate self-monitoring of impulsive behavior. His 'demon mode' (ev_050) indicates limited awareness of emotional state during episodes. Most critically, the gap between his stated philosophy (thinking about future, not being sad - ev_042) and his actual behavior (SEC confrontation, advertiser outbursts, Twitter chaos) reveals metacognition serving post-hoc rationalization rather than guiding real-time behavior adjustment. True Stoic metacognition operates continuously, not just when convenient.",
       "evidence_ids": [
-        "ev_025",
-        "ev_039",
-        "ev_041",
-        "ev_042"
+        "ev_001",
+        "ev_020",
+        "ev_037",
+        "ev_040",
+        "ev_042",
+        "ev_050"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "emotional_integration",
-      "definition": "The degree to which此人能够将情感经历转化（transform）而非压抑（suppress）或表达（express）——斯多葛主义认为情感应被理性审视后转化为符合德性的行动。Musk displays high emotional expression but low evidence of Stoic transformation—he suffers visibly ( Model 3 'most painful year'), responds impulsively to provocation, and shows limited evidence of the emotional 'work' that defines Stoic practice.",
-      "finding": "Musk is not emotionally suppressed—he expresses frustration, anger, joy, and sadness openly. Yet he shows minimal evidence of Stoic emotional transformation—the process of examining an emotion, understanding its judgment component, and reframing. His responses to SEC, advertiser confrontation, and production crises are reactive rather than considered. This is a critical gap: a person can exhibit many Stoic behaviors (risk acceptance, long time horizons, first-principles thinking) without the emotional integration that defines Stoic practice. The Stoic goal is not to eliminate emotion but to align it with reason. Musk's emotional life appears largely unaligned with his rational mission.",
+      "dimension_name": "Control-acceptance inversion pattern",
+      "definition": "The degree to which a person conflates external control with internal tranquility, pursuing dominion over external systems as if this equals the Stoic goal of mastery over one's own responses and judgments",
+      "finding": "This dimension captures Musk's core deviation from Stoicism. He explicitly states willingness to work extreme hours, control engineering decisions, dominate organizational outcomes - treating these as equivalent to Stoic equanimity. But the Stoic dichotomy of control distinguishes precisely: external systems cannot be controlled (others' behavior, market outcomes, regulatory enforcement), only our relationship to them can be mastered. Musk's internal states (anxiety during SpaceX crisis, rage during SEC confrontation, contempt toward advertisers) demonstrate that his 'stoicism' doesn't actually achieve the advertised tranquility. His distress when external control fails proves the control was never genuine - it was just domination seeking with philosophical rationalization. This inversion pattern explains the paradox of a person who articulates Stoic-adjacent ideas while exhibiting consistently reactive, emotionally volatile behavior under pressure. The diagnosis: he practices Stoic language without Stoic substance because he fundamentally misunderstands the control dichotomy.",
       "evidence_ids": [
-        "ev_013",
-        "ev_019",
-        "ev_015",
-        "ev_039"
+        "ev_011",
+        "ev_014",
+        "ev_051",
+        "ev_040",
+        "ev_041"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
-      "dimension_name": "attachment_to_outcomes",
-      "definition": "核心斯多葛维度：真正的斯多葛实践者对结果持'热爱命运'（amor fati）态度——完全接受无论什么结果都会到来，同时全力行动。Musk claims to accept low probability of success but is visibly distressed when outcomes go badly (stock price, Twitter value decline 79%, production crises).",
-      "finding": "The Stoic ideal is acting with full commitment while remaining genuinely indifferent to results—doing one's duty without attachment to whether duty succeeds. Musk exhibits the commitment (he puts everything on the line) but not the detachment (he is visibly affected by failures). His statement that Twitter lost 79% of equity value (ev_055), his distress during Model 3 crisis, and his public emotional responses suggest attachment to outcomes. This is the central Stoic tension in Musk's case: he acts like a Stoic (extreme commitment, acceptance of personal risk) but feels like a non-Stoic (attached to results, distressed by failures). The gap between his stated philosophy (first principles, long-term thinking) and his emotional responses reveals that Stoic practice is not merely behavioral but fundamentally involves internal transformation that evidence does not clearly show.",
+      "dimension_name": "Philosophy-behavior gap under adversity",
+      "definition": "The degree to which stated philosophical frameworks maintain coherence when tested by difficult circumstances, versus collapsing into reactive behavior - measuring Stoic virtue consistency",
+      "finding": "Stoicism holds that virtue is proven under adversity, not in favorable conditions. The sage's character is revealed when outcomes are uncertain, when powerful actors challenge us, when we face genuine loss. Musk's adversity responses (SEC enforcement, Twitter crisis, political entanglements, Starlink Ukraine decision) show systematic philosophy-behavior gaps: he articulates long-term thinking then reacts to daily provocations; claims acceptance of risk then sues when consequences arrive; invokes first-principles reasoning then tweets impulsively without verification. His own statements acknowledge this: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice' (ev_015) reveals not Stoic acceptance but false necessity rationalization. The consistency between philosophy and behavior that defines genuine Stoic practice - visible in Epictetus's response to being enslaved, in Aurelius's response to plague and military threats - is absent in Musk. His adversity responses remain reactive, emotionally driven, and inconsistent with his stated frameworks.",
       "evidence_ids": [
-        "ev_055",
-        "ev_013",
-        "ev_012",
-        "ev_010"
+        "ev_015",
+        "ev_040",
+        "ev_041",
+        "ev_044",
+        "ev_045",
+        "ev_050"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }

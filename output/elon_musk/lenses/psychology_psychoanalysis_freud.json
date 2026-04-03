@@ -4,176 +4,191 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Strong world-shaper with ego functioning that organizes massive resources toward altering external reality",
-      "finding": "Musk demonstrates exceptional ego strength in shaping external reality - founding multiple companies that disrupted entire industries (SpaceX, Tesla, Twitter, Neuralink). However, from a Freudian perspective, this 'world-shaping' may be driven by unconscious forces: the childhood experience of being 'the youngest and smallest' and a 'prime target' for bullying (ev_001) likely generated a deep-seated need to prove strength and control. His statement that he 'accepted that I would probably lose everything' when starting SpaceX (ev_008) reveals the ego's capacity to tolerate extreme risk, but also hints at a compensatory mechanism - if one cannot be safe, one becomes audacious. The repetition of founding companies from scratch suggests a compulsion to recreate and master early experiences of helplessness.",
+      "assessment": "极度世界塑造者，其能动性受无意识驱动指向克服早年被动的创伤性处境",
+      "finding": "Musk展现出典型的世界塑造者姿态——辍学参与互联网革命(ev_005)、将火箭成本降至市场价格的10%(ev_010)、接受个人财务风险低于10%成功概率的赌注(ev_011)。然而，弗洛伊德框架要求追问：这种极度能动性是否部分是无意识中对抗童年无力感的防御反应？证据显示他在学校是\"最年轻、最矮小的孩子\"和\"主要目标\"(ev_002)，遭受严重欺凌和情感虐待的父亲(ev_001,ev_002)，他后来称父亲为\"一个可怕的人类\"。这些早期经历本该产生习得性无助，却在成年后转化为压倒性的掌控冲动——在每个企业中他都以极端风险押注，声称\"我可能失去一切\"(ev_011)。这种强迫性重复模式——反复将自己置于看似绝望的处境并试图翻盘——暗示其能动性部分是无意识中试图修复原始创伤。升华(sublimation)在此成功运作，将攻击驱力转化为创造性的世界改造。但\"demon mode\"模式(ev_050)也表明当升华受挫时，破坏性力量会直接爆发。",
       "evidence_ids": [
+        "ev_002",
         "ev_001",
-        "ev_008",
-        "ev_013",
-        "ev_022"
+        "ev_011",
+        "ev_015",
+        "ev_050",
+        "ev_005"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Intellectualization as dominant defense mechanism - uses rational frameworks to avoid emotional content",
-      "finding": "Musk explicitly describes his thinking as 'reasoning from first principles rather than by analogy' using a 'physics framework' (ev_025). This represents classic intellectualization - employing abstract, rational analysis to distance oneself from emotionally threatening material. His childhood existential crisis at age 12-15, trying to 'figure out the meaning of life' (ev_051), and his subsequent turn to philosophy books, suggests an early engagement with meaning-making that was then channeled into technical rationality. The physics framework serves as a protective insulation against the anxiety that would accompany deeper emotional exploration. His public statements about consciousness and humanity's future (ev_029, ev_030) are grand and abstract, notably devoid of personal emotional texture.",
+      "assessment": "理智化作为一种核心防御机制，其理性框架部分服务于隔离情感真相",
+      "finding": "Musk明确将第一性原理思维描述为源自物理学框架——\"从第一性原理而非类比推理\"(ev_020)。这在表面上呈现为理性主义认识论，但在弗洛伊德框架中，理智化(intellectualization)是关键的防御机制——用认知框架隔离令人不安的情感内容。证据支持这一解读：他对儿子死于SIDS的反应是\"我不确定坐在那里悲伤能做什么\"(ev_048)——明显回避哀悼的情感过程。他将问题定义为\"正确表述问题后答案就容易了\"(ev_031)，将认识论重构为技术性解码而非情感性理解。他反复做出未能实现的雄心勃勃预测（2017年全自动驾驶穿越美国(ev_026)），但未显示出修正其预测框架的元认知能力。这并非真正的科学理性主义——真正的理性会内省失败并调整方法。他的\"理性\"更多是防御性结构，用来隔离面对不确定性时的焦虑，以及处理早期创伤情境中积累的情感痛苦。",
       "evidence_ids": [
-        "ev_025",
-        "ev_051",
+        "ev_020",
+        "ev_048",
+        "ev_031",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "高度倾向于抽象化和形式化，其愿景横跨物种延续的时间尺度",
+      "finding": "Musk的抽象化倾向体现在其项献的本体论规模上——维护意识之光(ev_043)、多行星物种、人类与AI融合。他的第一性原理方法论(ev_020)本身就是一种抽象化操作——剥除历史偶然性，从物理公理推导。Hyperloop白皮书(ev_024)是这一倾向的典型例证：在没有任何物理基础设施的情况下发布理论运输系统规格。Boring Company同样先卖帽子再挖隧道(ev_035)。然而，这种强烈的形式化倾向也暗示隔离情感(isolation of affect)的防御——抽象化系统设计可以绕过与他人情感性连接的需求。火星殖民演讲中\"历史沿两个方向分叉\"(ev_029)的人类纪元叙事，将人类命运呈现为可以系统优化的参数而非需要关怀的关系网络。这种抽象化既是认知优势也是情感疏离的机制。",
+      "evidence_ids": [
+        "ev_043",
+        "ev_020",
+        "ev_024",
+        "ev_035",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "对系统和人的极端控制需求，防御深层失控恐惧",
+      "finding": "控制取向在Musk的行为中表现为多个层面。他的\"demon mode\"管理风格(ev_050)——当场解雇员工、摧毁整个团队的工作——体现了一种近乎肛门期的控制驱力。对\"Autopilot\"和\"全自动驾驶\"品牌名称的坚持(ev_032)表明他无法容忍外部约束，即使工程师警告这会危及生命。他反复将全部个人资金押注于企业(ev_015)，这不是理性的风险承担，而是对失控的深层恐惧的对抗——将外部世界拉入其掌控是心理存活的必要条件。肛门期固着理论认为：强迫性秩序、吝啬、顽固三联征与对控制的需求直接相关。Musk的模式——睡在办公室、每周120小时工作、亲自干预生产线设计(ev_012,ev_024,ev_038)——反映了一种无法信任他人独立运作的深层需要。控制丧失的威胁会触发极端反应：SEC执法时他接受了和解但保持对抗性，他的推文表明对失去公司控制权的深度恐惧。",
+      "evidence_ids": [
+        "ev_050",
+        "ev_032",
+        "ev_015",
+        "ev_012",
+        "ev_024",
+        "ev_038",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "任务/目标优先于关系亲密度，但有迹象表明这种优先化是无意识冲突的体现",
+      "finding": "证据强烈支持任务导向行为模式：儿子去世后几乎立即返回工作(ev_048,evt_010)；声称工人受苦时他愿同甘共苦(ev_039)但实际行动将员工视为可替换资源；推特大规模裁员后声称\"鸟已解放\"(ev_047)。他直言\"没人每周40小时改变世界\"(ev_033)，将工作狂美化为人格优点。2024年政治捐款2.88亿美元(ev_053)、DOGE联邦大规模重组(ev_032)继续优先考虑使命而非社会成本。然而，弗洛伊德框架会追问：他坚持的\"使命\"本身是否是对无意识冲突的防御？火星殖民作为物种保险的叙事(ev_029)、Neuralink作为对抗AI风险的保险(ev_030)——这些宏大使命的心理功能是什么？它们是否是他无法处理的情感痛苦的转移？私下他承认\"很多夜晚我独自睡觉\"(ev_049)，偶尔流露出情感孤立的觉察。这表明任务导向部分是对亲密关系焦虑的防御性逃避。",
+      "evidence_ids": [
+        "ev_048",
+        "ev_039",
+        "ev_047",
+        "ev_033",
+        "ev_053",
+        "ev_032",
+        "ev_049",
         "ev_029",
         "ev_030"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "abstraction_formalization",
-      "assessment": "Very high - systematization serves as primary mechanism for managing anxiety about uncertainty",
-      "finding": "Musk's 'algorithm' - a five-step engineering process - exemplifies his preference for formalization (ev_016). From a Freudian viewpoint, this represents a sophisticated isolation of affect: the algorithm abstracts problems away from their human, emotional context. His statement that 'the most common error is to optimize something that shouldn't exist' reveals a meta-level systematization that attempts to preempt failure through structure rather than through emotional attunement. This pattern appears consistently across his companies - creating formal processes at SpaceX, Tesla, and Twitter. The abstraction serves a dual function: it is genuinely effective as a problem-solving tool, but it also defends against the vulnerability that comes with engaging with messy human realities.",
-      "evidence_ids": [
-        "ev_016",
-        "ev_052",
-        "ev_053"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": "Extreme control orientation consistent with anal-stage fixation dynamics",
-      "finding": "Freud's anal stage (age 1-3) produces three character traits when fixation occurs: orderliness, stubbornness, and吝啬 (parsimony). Musk exhibits all three: detailed control over code commits (ev_052), willingness to fire people on the spot for disagreeing (ev_054), and tight financial control over his ventures. His public declaration 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_014) is revealing precisely because it represents a rare acknowledgment of control limits. Isaacson's description of 'demon mode' - where Musk 'will fire people, destroy entire teams' work, demand impossible deadlines' (ev_042) - illustrates the anxiety that emerges when control is threatened. The childhood bullying, where he was 'the youngest and smallest' with no control over his environment, likely created a compensatory need for total control in adulthood.",
-      "evidence_ids": [
-        "ev_001",
-        "ev_042",
-        "ev_054",
-        "ev_014",
-        "ev_052"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission clearly prioritized; relationships systematically sacrificed with minimal distress",
-      "finding": "Musk's statement that 'nobody ever changed the world on 40 hours a week' (ev_031) and his 80-100 hour work weeks (ev_032) illustrate the prioritization of mission over relational comfort. From Freud, this represents successful sublimation - the transformation of underlying psychic energy into achievement. His description of entrepreneurship as 'eating glass' (ev_034) and his willingness to 'rather commit seppuku than fail' (ev_035) reveals the intensity driving this sublimation. The Twitter acquisition and subsequent 80% workforce reduction (ev_018), his confrontation with advertisers telling them to 'go fuck yourself' (ev_019), and the statement 'if someone's going to try to blackmail me with advertising... Go fuck yourself' demonstrate minimal regard for relational costs when mission (in this case, perceived free speech mission) is at stake. However, his statement 'there are many nights I sleep alone' (ev_039) hints at the hidden cost of this orientation.",
-      "evidence_ids": [
-        "ev_031",
-        "ev_032",
-        "ev_034",
-        "ev_035",
-        "ev_018",
-        "ev_019",
-        "ev_039"
-      ],
-      "local_support": "strong"
-    },
-    {
       "construct_key": "risk_posture",
-      "assessment": "Extreme risk-taking with apparent indifference to danger, potentially expressing death drive (Thanatos)",
-      "finding": "Musk acknowledges the 'chance of success was less than 10%' for SpaceX (ev_008) and that the 'first journeys to Mars will be very dangerous. The risk of fatality is quite high' (ev_023). His desire to 'die on Mars. Just not on impact' (ev_024) reveals a striking comfort with mortality. From Freud's drive theory, this could be interpreted as Thanatos - the death drive - expressed not as self-destruction but as attraction to existential risk. His childhood feeling of being 'the prime target' for bullying (ev_001) created early exposure to danger without control. The repetition compulsion may manifest as repeatedly placing himself in near-death business situations (Tesla near bankruptcy in 2008, Model 3 production crisis). His comment that 'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' (ev_012) suggests a need to share in suffering that goes beyond normal empathy.",
+      "assessment": "风险承担受死本能驱动，伪装成英雄主义的使命追求",
+      "finding": "Musk对风险的关系呈现出弗洛伊德框架中最复杂的模式。他声称成功概率\"低于10%\"并接受可能失去一切(ev_011)；声称\"与其失败不如切腹\"(ev_019)——将失败等同于死亡；用\"凝视深渊、吃玻璃\"描述创业(ev_018)。这远非健康的冒险姿态，而是死本能(Thanatos)在起作用——不是真正的勇敢，而是对毁灭的强迫性接近。每次创业他都押注全部个人财富——这不是理性的风险管理，而是重复童年无力感同时试图翻盘的强迫性重复。火星旅行的公开承认风险（\"你会死\"）(ev_028)与Neuralink的实验性质进一步支持这一点。然而，死亡驱力被生本能(Eros)伪装——他的使命叙事（保护意识、殖民火星）赋予自我毁灭行为以意义。这种升华是弗洛伊德框架中最成熟的防御机制，在他身上运作得相当成功，但其稳定性在压力下会崩解。",
       "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_024",
-        "ev_001",
-        "ev_012",
-        "ev_028"
+        "ev_011",
+        "ev_019",
+        "ev_018",
+        "ev_028",
+        "ev_030"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Complex pattern of challenging established authority while simultaneously seeking supreme control",
-      "finding": "Musk's relationship with hierarchy reveals an unresolved Oedipal dynamic. He left South Africa to avoid mandatory military service under apartheid (ev_004) - an early act of defiance against an unjust system. His description of his father Errol as 'a terrible human being' (ev_002) with 'not a happy childhood' represents both rejection and intense engagement with the father figure. In business, he challenges established powers (NASA, auto industry, media) while creating hierarchical structures where he holds supreme control. His shift to the Republican Party and becoming 'the largest individual political donor in U.S. history' (ev_046) with $288 million (ev_046) represents a dramatic repositioning in the power structure. The pattern suggests identification with power combined with perpetual conflict with existing power structures - the Oedipal wish to surpass the father combined with the fear of being displaced.",
+      "assessment": "对权威的俄狄浦斯式冲突，表面反叛但实际寻求纳入权力结构",
+      "finding": "Musk与权威的关系呈现复杂的动力学。他移居加拿大明确为避免种族隔离军事服务(ev_004)——对国家权力的拒绝；称父亲为\"可怕的人类\"(ev_002)——对父权的攻击性拒绝；推文\"资金已到位\"导致SEC起诉(ev_040,ev_041)——他对监管权威的挑衅。然而，这种反叛模式与他在权力结构中寻求核心位置并存：他接受NASA合同(ev_017)、最终成为联邦DOGE的领导者(ev_032)。这在弗洛伊德框架中呈现为典型的俄狄浦斯冲突——对权威的竞争与认同双重动力。被赶出PayPal CEO职位时他感叹\"这就是度假的问题\"(ev_009)——贬低权威同时掩盖被动的痛苦。DOGE角色中他将企业逻辑应用于政府——不是摧毁权力结构而是夺取它。推特收购后\"鸟已解放\"的叙事将其定位为解放者而非权力的另一持有者，这是一种典型的自我欺骗。",
       "evidence_ids": [
-        "ev_002",
         "ev_004",
-        "ev_046",
-        "ev_045",
-        "ev_011"
+        "ev_002",
+        "ev_040",
+        "ev_041",
+        "ev_009",
+        "ev_017",
+        "ev_032",
+        "ev_047"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Escalation and confrontation as primary strategy; minimal use of negotiation or delay",
-      "finding": "Musk's conflict strategy consistently favors escalation over negotiation. His tweet 'Am considering taking Tesla private at $420. Funding secured' (ev_015) led directly to SEC fraud lawsuit - an extreme escalation. The confrontation with advertisers 'Go fuck yourself' (ev_019) cost Twitter an estimated 79% of equity value (ev_055). His pattern of firing engineers on the spot for disagreeing (ev_054) represents immediate escalation to termination. From a Freudian perspective, this pattern could be understood as projection - attributing his own aggressive impulses to others and responding to perceived hostility with preemptive aggression. Alternatively, it may represent a defensive strategy: by escalating quickly, he controls the narrative and doesn't allow ambivalence to develop. The pattern of 'destroying entire teams' work' (ev_042) suggests that conflict is not just tolerated but almost sought as a mechanism for maintaining control.",
+      "assessment": "攻击性外向化，缺乏对冲突的内在加工能力",
+      "finding": "Musk处理冲突的方式展现出原始的攻击性外向化而非成熟的社会化解决。当工程师对\"Autopilot\"品牌提出安全担忧时，他无视专业建议并坚持己见(ev_032)。他描述的\"demon mode\"模式包括当场解雇员工、摧毁团队工作(ev_034,ev_050)。面对广告商撤离，他以\"去你的\"直接攻击回应(ev_051)——这远非策略性谈判，而是冲动性攻击。推特私有化推文(ev_040)引发的SEC执法进一步显示他无法延迟冲动满足。这些模式在弗洛伊德框架中代表压抑攻击性的失败——冲动越过理性审查直接化为行动。真正的升华应该是建设性地将攻击能量转化为创造性成就；他在SpaceX的迭代中确实部分做到了这一点，但压力下（私有化推文、DOGE激进主义）原始攻击性总是重新浮现。他对批评的反应模式——贬低、威胁、反唇相讥——表明缺乏内化的自我安抚机制。",
       "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_055",
-        "ev_054",
-        "ev_042"
+        "ev_032",
+        "ev_034",
+        "ev_050",
+        "ev_051",
+        "ev_040"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Mission-scale horizon spanning decades to centuries, with minimal concern for short-term costs",
-      "finding": "Musk's time horizon is exceptional in its length - Mars colonization (ev_022), 'the light of consciousness' continuing into the future (ev_029), 'maximizing the probability of the future being better' (ev_030). These represent mission-scale horizons spanning generations. From Freud, this could be interpreted as reaction formation against mortality anxiety - by focusing on humanity's distant future, one manages the terror of individual death. His statement about 'some eventual extinction event' if humanity stays on Earth (ev_022) reveals the existential anxiety underlying this time orientation. The hyperloop white paper, published simply to 'show it was possible' (ev_050), demonstrates a willingness to invest in ideas with extremely long payback periods. His political donation of $288 million (ev_046) represents similar long-term investment in shaping the future.",
+      "assessment": "物种尺度的时间视野，但情感层面存在现时性空洞",
+      "finding": "Musk的时间视野在理性层面跨越文明尺度：火星殖民作为物种保险(ev_029)、维护意识之光作为永恒责任(ev_043)、Neuralink作为人类与AI融合的多代际项目。他的使命叙事将人类历史框架为需要在宇宙时间尺度上管理的系统。这种超我式的时间维度——内疚不随时间消退，使命不因当前成功而终结——支撑了他持续的高风险投入。然而，情感层面的证据揭示了另一种模式：儿子去世后\"几乎立即\"返回工作(ev_048)，推文冲动不等待理性审查(ev_040)，对批评的即时攻击性反应(ev_051)。这种分裂——理性层面的长期使命与情感层面的即时满足——表明他的时间视野部分是被超我绑架的。他无法在当下处理情感痛苦，因此将其转化为永恒的使命追求。火星殖民的具体目标价格（20万美元）显示一种精确性与情感抽象化的奇特混合。",
       "evidence_ids": [
-        "ev_022",
+        "ev_043",
         "ev_029",
         "ev_030",
-        "ev_050",
-        "ev_046"
+        "ev_048",
+        "ev_040",
+        "ev_051",
+        "ev_027"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for structural redesign over incremental repair; multiple complete rebuilds",
-      "finding": "Musk's pattern consistently favors complete rebuilds over patching: SpaceX built rockets from scratch when established aerospace had failed for decades; Tesla rebuilt the entire automotive paradigm; Twitter acquisition followed by 80% workforce reduction (ev_018) represented structural demolition rather than reform. His statement that 'the most common error is to optimize something that shouldn't exist' (ev_016) reveals a preference for questioning fundamental assumptions rather than optimizing existing structures. From Freud, this could be understood as a repetition compulsion expressed at the organizational level - the repeated pattern of destroying and rebuilding rather than gradually improving. The 2018 Model 3 production crisis, where he 'slept on the production floor for months' (ev_056), was a radical intervention - completely dismantling and rebuilding the production system - rather than incremental fixes.",
+      "assessment": "强烈的结构重建偏好，但部分是对关系性工作的回避",
+      "finding": "Musk倾向于彻底重建而非渐进修复，这在多个领域重复出现：Twitter收购后80%裁员和彻底重组(ev_046)、Model 3生产危机中拆除昂贵的自动化系统改用人工(ev_037)、SpaceX从零开始而非购买现有火箭技术(ev_010)。他的第一性原理思维方法论(ev_020)是重建偏好的认知基础——不接受历史形成的约束条件。然而，这种重建倾向也服务于回避关系性工作——修复既有系统需要与他人的情感调谐，而彻底重建允许他作为孤立创造者从零开始。Hyperloop发布白皮书而非建造(ev_024)、Boring Company先卖商品再挖隧道(ev_035)表明他更喜欢理论框架而非执行中的关系维护。这与他在管理中\"demon mode\"摧毁团队的模式一致——他不修复关系而是消灭并重建。真正的洞察力要求识别旧模式并从根本上重建；Musk在火箭和汽车领域做到了这一点，但在人际关系领域他仍重复相同的模式。",
       "evidence_ids": [
-        "ev_016",
-        "ev_018",
-        "ev_056",
-        "ev_028",
-        "ev_042"
+        "ev_046",
+        "ev_037",
+        "ev_010",
+        "ev_020",
+        "ev_024",
+        "ev_035",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Partial metacognitive awareness with significant blind spots; intellectual understanding exceeds emotional insight",
-      "finding": "Musk demonstrates some metacognitive capacity - he explicitly recognizes his 'demon mode' (ev_042) and acknowledges that 'excessive automation... was a mistake. Humans are underrated' (ev_014). His statement 'I didn't want to be conscripted into the army to fight for apartheid' (ev_004) shows awareness of his motivations. However, there are significant blind spots: his characterization of his father as 'a terrible human being' (ev_002) suggests incomplete processing of early relationships. His return to work 'almost immediately' after his son Nevada died at 10 weeks (ev_041), with the reported quote 'I'm not sure what sitting around being sad is going to do,' represents a defensive avoidance of grief rather than its integration. The repetitive pattern of intense work followed by interpersonal conflicts suggests limited insight into the compulsive nature of his behavior. His focus on 'first principles' thinking (ev_025) is a cognitive meta-strategy but does not address emotional patterns.",
+      "assessment": "有限的自我洞察，其自我描述存在系统性的否认模式",
+      "finding": "Musk的元认知呈现出显著的限制。他称与虐待性父亲同住是\"错误\"(ev_001)，但之后的行为模式——与管理者的冲突、被驱逐出CEO职位、SEC执法——显示出强迫性重复而非学习。2020年他声称\"我不是想成为任何人的救世主\"(ev_042)，但随后以 DOGE 身份获得近乎帝王权力，表明否认与行为之间的脱节。他对风险的认知（\"低于10%成功概率\"）(ev_011)与持续押注全部个人财富之间的矛盾，显示出缺乏将自我认知转化为行为修正的能力。他的第一性原理方法论是认知性而非情感性的——它要求推理的正确性而非自我理解。弗洛伊德的核心洞见是\"本我之所在，自我当兴之\"——将无意识提升为意识。Musk的案例显示这种提升严重受阻。他能够分析火箭成本和自动驾驶算法，但对自己的心理模式——为什么他总是赌一切、为什么他与权威的关系如此冲突、为什么他无法维持亲密关系——缺乏同等深度的洞察。这不是偶然的；防御机制的功能正是阻止这种洞察。",
       "evidence_ids": [
+        "ev_001",
         "ev_042",
-        "ev_014",
-        "ev_004",
-        "ev_002",
-        "ev_041",
-        "ev_040",
-        "ev_025"
+        "ev_011",
+        "ev_050",
+        "ev_040"
       ],
       "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "Repetition Compulsion in Career Formation",
-      "definition": "The pattern of repeatedly founding and nearly losing companies suggests an unconscious repetition of early helplessness scenarios, attempting to master trauma through extreme challenge",
-      "finding": "Musk's career shows a striking pattern: Zip2 (nearly failed), PayPal (ousted as CEO), SpaceX (three launch failures, near bankruptcy in 2008), Tesla (nearly bankrupt in 2008, Model 3 production hell), Twitter (massive value destruction). Each venture involves near-death experience followed by survival and growth. This mirrors his childhood experience of helplessness as the 'youngest and smallest' bullied (ev_001). The pattern suggests repetition compulsion - unconsciously recreating dangerous situations to ultimately achieve mastery. The twist is that unlike typical repetition compulsion which fails to achieve mastery, Musk's ventures often succeed, providing genuine mastery that may partially resolve the original trauma. However, the perpetual need to create new crisis situations suggests the resolution is incomplete.",
+      "dimension_name": "强迫性重复与掌控逆转",
+      "definition": "无意识地将自己置于重复童年创伤性情境，试图通过主动选择来获得掌控感，而非被动接受同样的痛苦。表现为反复选择\"不可能\"的赌注，将\"最小最弱的孩子\"重演为\"单枪匹马对抗整个行业\"并获胜。",
+      "finding": "Musk的创业模式完美体现了弗洛伊德的强迫性重复概念。他反复将自己置于极端劣势情境——SpaceX前三次发射失败、只有一次机会；特斯拉濒临破产；他公开承认成功概率低于10%(ev_011)。这些并非随机选择，而是对童年无力感的精确重演：被欺凌、被动挨打、被更强大者控制。但关键区别在于——在强迫性重复中他主动选择了这些情境，因此是施动者而非受害者。通过每次\"翻盘\"他试图修复原始创伤，将被动性转化为能动性。这种模式解释了为什么他无法接受\"足够好\"的成功——每次胜利必须重演掌控逆转才能完成无意识的心理功能。Hyperloop和Boring Company作为概念先于执行、Neuralink尚未有产品时就已公开——这些都服务于在想象中提前完成掌控逆转。这种模式的局限性在于它需要越来越多的极端情境来满足情感需求，最终可能将真实生活当作满足无意识需要的工具。",
       "evidence_ids": [
-        "ev_001",
-        "ev_008",
-        "ev_009",
-        "ev_010",
         "ev_011",
-        "ev_028",
-        "ev_055"
+        "ev_013",
+        "ev_018",
+        "ev_019",
+        "ev_002",
+        "ev_001"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
-      "dimension_name": "Grief Processing and Defensive Isolation",
-      "definition": "The rapid return to work after儿子的死亡 and minimal emotional processing suggests primary defense mechanism of isolation of affect",
-      "finding": "The death of his first child Nevada at 10 weeks from SIDS (ev_040) in 2002 - a period when he was founding SpaceX - represents a significant trauma. His reported response was to return to work almost immediately, with the statement 'I'm not sure what sitting around being sad is going to do' (ev_041). This represents classic isolation of affect - the ability to remove emotional content from traumatic experience and continue functioning. Unlike healthy grief work which involves processing loss, Musk's pattern suggests defensive isolation. This aligns with his broader pattern of using work as the primary coping mechanism (ev_031, ev_032) and his intellectualization in other domains. The deflection 'what sitting around being sad is going to do' explicitly frames emotional processing as unproductive - a rationalization that serves to suppress the grief work that would be threatening to his functioning.",
+      "dimension_name": "死本能伪装为使命驱力",
+      "definition": "将破坏性驱力（自我毁灭倾向）升华为\"更高目标\"，使危险的冲动获得社会可接受的表达渠道，同时保持心理上的正当性。表现为以使命为名接近毁灭边缘，将自我牺牲重构为对人类未来的投资。",
+      "finding": "Musk的风险承担模式无法仅用理性冒险解释。他的声明\"与其失败不如切腹\"(ev_019)、\"凝视深渊吃玻璃\"(ev_018)、承认火星旅程可能死亡(ev_028)——这些不是对风险的冷静评估，而是对毁灭的渴望穿上使命感的外衣。弗洛伊德的死本能(Thanatos)在他身上表现为一种持续的存在性张力——他需要感觉到自己在边界处行走。对比分析显示：他愿意押注全部个人财富（不仅是金钱，更是生存安全）；他反复进入可能毁灭他的情境（特斯拉破产边缘、SEC起诉、Twitter灾难性收购）；他在私人生活中承认情感孤立(ev_049)却无法修复。然而，这种破坏性被生本能(Eros)伪装——火星殖民、保护意识、Neuralink都呈现为对人类的爱护。弗洛伊德会认为这种升华是真实的，但深层驱力仍是死本能。这解释了为什么他的使命追求常常带有毁灭性边缘——不是因为他不在乎，而是因为部分的他需要这种接近毁灭的边缘感。",
       "evidence_ids": [
-        "ev_040",
-        "ev_041",
-        "ev_031",
-        "ev_032"
+        "ev_019",
+        "ev_018",
+        "ev_028",
+        "ev_049",
+        "ev_043",
+        "ev_029",
+        "ev_030",
+        "ev_052"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }

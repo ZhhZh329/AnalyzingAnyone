@@ -1,0 +1,5 @@
+name: medicine
+display_name: "医学 Medicine"
+role: discipline
+prompt: prompt.md
+skills: []

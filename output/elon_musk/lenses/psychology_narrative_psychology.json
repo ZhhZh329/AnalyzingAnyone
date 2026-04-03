@@ -4,163 +4,189 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "极强能动性—— Musk 是典型的世界塑造者，以史诗级使命改写人生剧本",
-      "finding": "Musk 的叙事以强烈的能动性为主导旋律。从离开南非（避免应召入伍）、辍学投身互联网浪潮、到倾注全部身家进入航空航天和汽车行业，他的每一个关键决策都体现为主动的世界塑造而非被动响应结构。他明确表示'Nobody ever changed the world on 40 hours a week'，将自己定位为改变人类命运的唯一主角而非历史进程的旁观者。在 SpaceX 风险高达 90% 失败率时，他'accepted that I would probably lose everything' 仍选择行动——这是极致能动性的体现。",
+      "assessment": "极强的能动性叙事 - Musk将自己叙述为改变世界的主动塑造者，而非结构响应者",
+      "finding": "Musk的人生叙事展现出强烈的主人公意识。从童年遭受霸凌的受害者（ev_002）到成为同时掌控SpaceX、Tesla、Neuralink等多家改变世界的公司缔造者，他的叙事弧线是典型的\"从被动遭遇转向主动掌控\"的救赎序列。他17岁移民加拿大是为了避免参与种族隔离制度（ev_004），辍学Stanford是为了投身互联网革命而非被动等待（ev_005），每次重大人生抉择都呈现为主动选择而非被迫接受。最标志性的是2008年危机时刻的自我陈述：\"I could either let Tesla die or put all my remaining money into it. That wasn't really a choice\"（ev_015）——将个人财务崩溃风险转化为拯救人类文明的机会。",
       "evidence_ids": [
+        "ev_002",
         "ev_004",
         "ev_005",
-        "ev_008",
-        "ev_031"
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_042"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "第一性原理思维——偏好从物理框架而非类比推理理解世界",
-      "finding": "Musk 的认知风格高度结构化，偏好第一性原理（first principles）思维。他明确表述：'I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy.' 这意味着他倾向于追问根本性问题而非接受表面解释。这种思维模式在他的工程决策中反复出现——计算火箭制造成本仅为市价 10%、用物理学约束重新设计特斯拉生产流程。他的叙事充满'如果基本物理原理允许，那么即可实现'的逻辑，而非依赖行业惯例或历史类比。",
+      "assessment": "鲜明的第一性原理思维 - 偏好从基本物理定律推导而非类比推理",
+      "finding": "Musk的认知风格高度结构化且富有理论色彩，这不是叙事思维（通过故事理解世界），而是典型的物理学框架驱动的推理方式。他在2013年TED访谈中明确阐述：\"I tend to approach things from a physics framework. Physics teaches you to reason from first principles rather than by analogy\"（ev_020）。这一思维模式在多个场合得到验证：2001年从俄罗斯返回航班上用电子表格计算火箭原材料成本，得出可按市场价10%建造的结论（ev_010）；2016年火星殖民计划演讲中用经济学基本原理推演将成本降至20万美元（ev_027）；2018年Model 3危机中推翻过度自动化、回归人力劳动的决策也源于对\"什么是真正有效\"的第一性原理反思（ev_037）。然而值得注意的是，这种高度抽象化的认知风格也可能意味着对个人叙事情感维度的回避——他鲜少深情叙述丧子之痛，而是以\"I don't know what sitting around being sad is going to do\"（ev_048）快速翻过。",
       "evidence_ids": [
-        "ev_025",
-        "ev_016",
-        "ev_050"
+        "ev_010",
+        "ev_020",
+        "ev_027",
+        "ev_037",
+        "ev_048"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "强系统化与形式化倾向——追求根本性重构而非局部优化",
-      "finding": "Musk 展现出对系统性重构的强烈偏好。他发展出称为'the algorithm'的五步工程流程，强调'The most common error is to optimize something that shouldn't exist.' 这表明他首先质疑问题本身的存在合理性，而非在给定框架内优化解法。2013年他发布 Hyperloop 白皮书却不开拓公司——他表示'I just wanted to show it was possible'——这是典型的抽象形式化思维：他先证明概念可行，让他人执行。他不是修补现有系统，而是创造新范式。",
+      "assessment": "极高的抽象化与系统化偏好",
+      "finding": "Musk展现出对宏大系统设计的强烈偏好。他不是修补现有系统，而是创造全新范式：SpaceX重新定义了私人航天准入门槛（ev_016），Tesla重新定义了电动汽车产业（ev_012），Neuralink提出脑机接口新范式（ev_030），The Boring Company提出地下交通新系统（ev_021），Hyperloop提出第五种交通方式（ev_024），Twitter收购后进行\"极端硬核\"式重组而非渐进改革（ev_046），DOGE将企业方法论系统性植入政府机构（ev_055）。他的抽象化不仅体现在商业战略上，更体现在对人类文明叙事的宏观建构：多行星物种（ev_029）、维护意识火光（ev_043）、人类与AI融合（ev_030）。这种系统性思维与\"重新撰写\"不同——Musk不是修改旧剧本，而是创造全新的叙事框架。",
       "evidence_ids": [
+        "ev_012",
         "ev_016",
-        "ev_049",
-        "ev_050"
+        "ev_021",
+        "ev_024",
+        "ev_030",
+        "ev_046",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "极强控制导向——对系统、流程和人员有近乎极端的掌控需求",
-      "finding": "Musk 的控制欲在其叙事中表现为对权威的挑战和对系统的全面接管。他公开称父亲为'a terrible human being' [ev_002]，在 Twitter 收购后立即解雇约 80% 员工 [ev_018]，并亲自审查代码提交以判定员工生产力 [ev_052]。他给员工最后通牒：'extremely hardcore work or leave with severance' [ev_053]。传记中描述其'demon mode'：'When Elon is in demon mode, he will fire people, destroy entire teams' work, demand impossible deadlines' [ev_042]。这种极端控制源于童年作为最小最弱的学生被严重霸凌的经历 [ev_001]——他通过掌控来防御脆弱感。",
+      "assessment": "极强的控制欲 - 体现在对系统、人员、流程和结果的全面掌控",
+      "finding": "Musk的控制取向贯穿其所有企业的运营模式。Zip2时期他每晚编码、睡在办公室（ev_006）；Tesla Model 3危机期间他住在工厂车间、每周工作120小时（ev_024）；他经常绕过工程团队直接干预生产线设计（ev_038）；他会在会议上当场解雇不同意他观点的工程师，有时几天后再重新雇用（ev_034）——这种\"恶魔模式\"（demon mode）在Isaacson的传记中被详细记录（ev_050）。对系统的控制欲也体现在：坚持使用\"Autopilot\"和\"Full Self-Driving\"品牌名，即使工程师警告这会危及用户生命（ev_032）；收购Twitter后立即解雇约80%员工并发送最后通牒（ev_046）；DOGE期间对企业方法的全面应用。控制取向的极致表现是对自己人生的\"作者身份\"意识——\"I'm just trying to think about the future and not be sad\"（ev_042）体现了他试图掌控叙事走向的元认知努力。",
       "evidence_ids": [
-        "ev_001",
-        "ev_002",
-        "ev_018",
-        "ev_042",
-        "ev_052",
-        "ev_053"
+        "ev_006",
+        "ev_024",
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_046",
+        "ev_050"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "极端使命优先——愿为宏大使命承受巨大个人和关系代价",
-      "finding": "Musk 的叙事将使命置于所有关系之上。为维持特斯拉，他投入所有资金并坦言'That wasn't really a choice' [ev_011]。Model 3 生产危机期间，他睡在工厂地板上数月，每周工作 120 小时 [ev_056]，表示'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs' [ev_012]。他公开承认'There are many nights I sleep alone' [ev_039]，承认使命追求的人际代价。SpaceX 和特斯拉的危机几乎让他破产，但将苦难重新叙事 为为人类文明做大事的必要牺牲。他的叙事中，使命不是追求幸福的手段，而是幸福本身。",
+      "assessment": "极端的任务优先模式 - 愿意为使命承担巨大的人际关系代价",
+      "finding": "Musk的人生叙事中，使命/目标优先于关系舒适度是最核心的主题之一。他的公开声明提供了充分证据：\"Nobody ever changed the world on 40 hours a week\"（ev_033），\"If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs\"（ev_039）。这种叙事模式在多个维度展开：对公司的控制远超一般CEO的参与深度（ev_038），对家人的情感距离（ev_049承认\"many nights I sleep alone\"），以及对批评者/广告商的直接对抗（ev_051）。值得注意的是，在使命追求过程中，他多次展现与权力/权威结构的冲突：被PayPal董事会在蜜月期间罢免（ev_009），与SEC的公开冲突（ev_041），在DealBook峰会对广告商爆粗口（ev_051），这些都被他叙述为追求更高使命的必要代价，而非需要修复的关系损伤。",
       "evidence_ids": [
-        "ev_011",
-        "ev_012",
+        "ev_009",
+        "ev_033",
         "ev_039",
-        "ev_056"
+        "ev_049",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "极端风险承受——将高风险决策叙事 为救赎序列的开端",
-      "finding": "Musk 的风险容忍度在其叙事中被建构为英雄故事的必要条件。他描述 SpaceX 成功概率'less than 10%'，却选择'accepted that I would probably lose everything' [ev_008]。他用极端比喻描述创业：'staring into the abyss and eating glass' [ev_034]，'I'd rather commit seppuku than fail' [ev_035]。在火星计划演讲中，他明确告知听众：'The first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it' [ev_023]。他的叙事不回避风险，而是将其吸收为使命的庄严部分——选择高风险不是因为鲁莽，而是因为使命足够重大值得冒险。",
+      "assessment": "极端风险承受型 - 主动追求高风险、高不确定性机会",
+      "finding": "Musk的风险姿态是其叙事中最引人注目的维度之一。他明确表示愿意接受极高的个人失败概率：\"I thought the chance of success was less than 10%. I just accepted that I would probably lose everything\"（ev_011）；\"Starting a company is like staring into the abyss and eating glass\"（ev_018）；\"I'd rather commit seppuku than fail\"（ev_019）。2008年SpaceX和Tesla同时面临破产，他描述当时\"I had to borrow money from friends just to pay rent\"（ev_014），但这并未阻止他将所有剩余资金投入两家公司。他的风险叙事具有鲜明的\"救赎序列\"特征：将极端风险决策叙述为人生转变的关键时刻。第三次Falcon 1发射失败后，同事回忆\"I'd never seen Elon look that defeated. He said we would keep going until we ran out of money\"（ev_013），这一危机叙事最终以2008年9月28日发射成功（ev_016）和NASA合同（ev_017）作为救赎高潮。对于火星殖民，他公开承认\"The first journeys to Mars will be very dangerous. The risk of fatality is quite high\"（ev_028），但将这种高风险转化为愿意参与者的筛选机制。",
       "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_034",
-        "ev_035"
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_016",
+        "ev_017",
+        "ev_018",
+        "ev_019",
+        "ev_028"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "对抗性权力关系——倾向于挑战、接管而非服从既有权威结构",
-      "finding": "Musk 的权力叙事是对抗性的。早期离开南非是对抗种族隔离制度下的强制征兵 [ev_004]。被 PayPal 董事会驱逐后 [ev_007]，他收购了整个 Twitter 以对抗他眼中的审查制度 [ev_017]。他曾对抗 SEC 监管机构 [ev_015]，并在 DealBook 峰会对广告商说'Go fuck yourself' [ev_019]。他将 NASA 合同视为'the government is the customer'但非权威来源。他不追求在层级中攀升，而是创建新系统取代旧系统。他的权力叙事是“如果你不认同我的愿景，我将建立一个替代品让你过时”。",
+      "assessment": "对抗权威型 - 持续挑战和重塑层级权力结构",
+      "finding": "Musk与权力层级的关系呈现出持续的反叛与重塑模式。童年的创伤记忆与权力滥用相关联——他的父亲Errol被描述为\"a terrible human being\"（ev_002），Musk选择与父亲同住后来称这是\"a mistake\"（ev_001）。这种对权威的复杂态度贯穿其职业生涯：离开南非部分原因是避免参与国家支持的种族隔离军事机器（ev_004）；2000年被PayPal董事会罢免后仍保持\"That's the problem with vacations\"的讽刺回应（ev_009）；2018年发推特考虑私有化Tesla引发SEC诉讼（ev_040, ev_041）；收购Twitter后称\"the bird is freed\"（ev_047）并大规模裁员；2023年在DealBook峰会怒斥广告商（ev_051）；2024年成为美国历史上最大个人政治捐赠者，向共和党捐款2.88亿美元（ev_053），并将自己的政治转向叙述为\"I didn't leave the Democrats. The Democrats left me\"（ev_054）。在DOGE的政府改革中，他采取直接挑战现有官僚体系结构的方式，而非协商或渐进改革（ev_055）。",
       "evidence_ids": [
+        "ev_001",
+        "ev_002",
         "ev_004",
-        "ev_007",
-        "ev_015",
-        "ev_017",
-        "ev_019"
+        "ev_009",
+        "ev_040",
+        "ev_041",
+        "ev_047",
+        "ev_051",
+        "ev_053",
+        "ev_054",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "极端化冲突策略——要么立即解雇/对抗，要么完全无视",
-      "finding": "Musk 处理冲突的方式是非此即彼的极端化。面对 Autopilot 命名争议，他忽视工程师对客户安全的警告 [ev_033]，导致多人辞职。当工程师反对时，他当场解雇——'firing engineers on the spot for disagreeing with him, then sometimes rehiring them days later' [ev_054]。这种模式与其'demon mode'一致：冲突被快速升级或忽略，但从不谈判或延迟。他的叙事中，冲突要么证明对方是错误的（因此该被移除），要么对方无关紧要（因此被忽视）。他不会将冲突视为需要管理的常态，而是要么全胜要么全输的零和博弈。",
+      "assessment": "直接 escalated confrontation - 不回避冲突升级",
+      "finding": "Musk处理冲突的风格是直接 escalation 而非传统意义上的协商、延迟或分裂。多个关键事件体现这一模式：2017年Tesla工程师因Autopilot品牌问题辞职——Musk坚持原有品牌而非妥协（ev_032）；2018年SEC诉讼——直接发布引发诉讼的推文而非事先协商（ev_040）；2022年Twitter收购后大规模裁员（ev_046）；2023年DealBook峰会对广告商的公开辱骂（ev_051）。他更倾向于将冲突框架为价值观冲突或存在性威胁（如AI风险），而非可以通过谈判解决的常规分歧。然而值得注意的是，这种冲突策略在其叙事中通常被正当化为\"必要的对抗\"——因为对手（传统汽车制造商、化石燃料行业、政府监管机构、媒体）代表的是需要被克服的障碍。这种叙事策略使冲突本身成为英雄叙事的必要组成部分。",
       "evidence_ids": [
-        "ev_033",
-        "ev_042",
-        "ev_054"
+        "ev_032",
+        "ev_040",
+        "ev_041",
+        "ev_046",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "文明尺度时间视野——优化以百万年计的未来",
-      "finding": "Musk 的时间视野是超长期的文明尺度。他的人类多行星使命将时间线延伸至数百万年：'History is going to bifurcate along two directions... become a space-faring civilization and a multi-planetary species' [ev_022]。他想象特斯拉汽车' drifting apparently endlessly through space... discovered by an alien race millions of years in the future' [ev_021]。他谈论' duty to maintain the light of consciousness' [ev_029]——将人类存在延长至无限未来。他在 2024 年成为美国历史上最大个人政治捐赠者 [ev_046]，也是为长远文明影响投资。他的叙事不是关于下一个季度或十年，而是关于人类物种的未来。",
+      "assessment": "超长期 mission-scale视野 - 优化数十年乃至数百年时间尺度",
+      "finding": "Musk的叙事时间视野远超大多数企业家，达到\"mission-scale\"层次。核心体现包括：2016年国际宇航大会上将火星殖民描述为\"History is going to bifurcate along two directions\"——人类要么留在地球面对灭绝，要么成为多行星物种（ev_029）；Neuralink的创立动机是\"If you can't beat them, join them. The merge with AI is the best-case scenario\"（ev_030），应对的是数十年后的AI风险；他在2020年Joe Rogan播客中表达的\"We have a duty to maintain the light of consciousness\"（ev_043）是典型的跨越个人生命尺度的关怀。这种时间视野在其早期人生中已有伏笔——12岁时经历存在性危机，阅读Douglas Adams的《银河系漫游指南》学到\"once you can properly phrase the question, the answer is the easy part\"（ev_031），这暗示他从青少年时期就形成了对宏大问题的关注框架。2024年政治捐赠和2025年DOGE角色也都体现了将个人视野扩展至文明存续层面的尝试。",
       "evidence_ids": [
-        "ev_021",
-        "ev_022",
         "ev_029",
-        "ev_046"
+        "ev_030",
+        "ev_031",
+        "ev_043",
+        "ev_053",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "极端重构偏好——选择从根本上重建而非局部修复",
-      "finding": "Musk 的叙事呈现持续的“彻底重建”模式。SpaceX 三次火箭发射失败后，他用第四次尝试的全部资金赌一把——不是修复第三次问题而是彻底重新设计 [ev_015, ev_017, ev_018]。Model 3 生产危机中，他搬入工厂睡在地板上 [ev_056]，不是改善现有产线而是重构整个生产系统。Twitter 收购后，他不是渐进式改革，而是裁员 80% 然后彻底重新定位公司 [ev_018, ev_053]。他的叙事逻辑是：如果一个问题无法通过修补解决，那么根本性的重新设计是唯一答案。他称之为“删除不必要的部分”——不仅是产品也是组织。",
+      "assessment": "极端的结构性重建偏好 - 不修补，直接重造",
+      "finding": "Musk展现出一种系统性的\"重建而非修补\"倾向，这在多个层面得到验证。在技术/商业战略层面：他创办SpaceX而非加入现有航空公司，是因为他认为传统航天工业的成本结构可以通过根本性重新设计来颠覆（ev_010, ev_011）；Tesla的创立是为了重新定义汽车产业范式而非生产更高效的燃油车；Hyperloop被设计为\"第五种交通方式\"而非对现有铁路的改进（ev_024, ev_027）。在公司运营层面：2018年Model 3危机中，他移除了昂贵的自动化输送系统，改用人工劳动——这是一个根本性的范式转换而非渐进调整（ev_037）；Twitter收购后的大规模裁员和\"极端硬核\"工作要求，不是对原有组织的修补而是彻底重塑（ev_046）；DOGE对联邦政府机构的改革采取\"大规模裁员、系统关闭、快速重组\"的企业方法论（ev_055）。在个人叙事层面，他将此倾向表述为第一性原理思维的延伸——从基本事实出发而非接受现状的\"类比推理\"（ev_020）。",
       "evidence_ids": [
-        "ev_015",
-        "ev_017",
-        "ev_018",
-        "ev_053",
-        "ev_056"
+        "ev_010",
+        "ev_011",
+        "ev_020",
+        "ev_024",
+        "ev_037",
+        "ev_046",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "高度但有选择的元认知——能反思但对特定领域存在盲点",
-      "finding": "Musk 展现出对自身思维的显著元认知能力。他明确表述其思维框架：'I tend to approach things from a physics framework' [ev_025]。他反思自动化过度：'Excessive automation at Tesla was a mistake. Humans are underrated' [ev_014]。他表述其核心动机：'What I'm trying to do is to maximize the probability of the future being better' [ev_030]。他意识到自己睡工厂的极端行为是'suffering with the workers'的叙事需要。然而，他在 Autopilot 命名问题上的坚持表明，元认知存在选择性——他可以反思某些失败，但对那些他认为与核心使命冲突的反馈（如安全警告）选择忽略。他是自我叙事的作者，但并非完全自由的作者。",
+      "assessment": "中等至强的元认知 - 对自身思维模式有部分觉察但存在盲点",
+      "finding": "Musk展现出一定程度的元认知能力：他明确知道自己的思维框架来自物理学（ev_020），他将自己的工作哲学表述为对未来的主动塑造而非被动接受（ev_042），他承认自己在特斯拉过度自动化上犯了错（ev_037）。然而，这种元认知存在明显的盲点和不一致。在自动化决策上，他的\"第一性原理\"有时变成了自我正当化的工具——坚持Autopilot品牌命名，尽管工程师警告这会危及生命（ev_032），这表明他对自己认知局限的觉察有限。对于风险概率的评估也呈现选择性：他对SpaceX和Tesla的成功概率有清醒认知（ev_011），但对Autonomous Driving的时间表反复出现过度乐观预测（ev_026），这暗示对自身判断力的元认知存在系统性高估倾向。2020年他否认自己是救世主（ev_042），但其行为模式持续展现\"人类文明拯救者\"的自我定位，这是一个值得注意的认知张力。",
       "evidence_ids": [
-        "ev_014",
-        "ev_025",
-        "ev_030",
-        "ev_033"
+        "ev_020",
+        "ev_026",
+        "ev_032",
+        "ev_037",
+        "ev_042"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "叙事转化能力（Salvific Recoding）",
-      "definition": "将极端痛苦经历主动重新编码为神圣使命叙事的独特能力——这是McAdams救赎序列的极致表现，但超出一般定义：不仅将苦难转化为成长，而是将苦难本身建构为使命的必要条件",
-      "finding": "Musk 展现出极强的叙事转化能力。童年严重霸凌被重新编码为'smallest kid became最强创新者'的起源故事 [ev_001]。父亲是'terrible human being'被编码为逃离压迫追求自由 [ev_002]。第一个孩子 Nevada 10周大去世，他几乎立即返回工作——'I'm not sure what sitting around being sad is going to do' [ev_041]——死亡被编码为无意义的哭喊浪费时间而非意义化的哀悼。2022年孩子死亡后他继续工作。这种能力将所有痛苦经历无缝嵌入其宏大救赎叙事：不是'尽管经历苦难所以成功'，而是'正是因为苦难，使命才如此重要'。这是他心理韧性的核心机制，也是其叙事力量与脆弱性的双重来源。",
+      "dimension_name": "叙事连贯性中的创伤裂隙",
+      "definition": "McAdams的生命故事模型强调叙事的因果连贯性、主题连贯性和时间连贯性。Musk的叙事整体具有高度连贯性（从受害者到英雄的救赎序列），但早期丧子事件（evt_010, ev_048）未被整合进他的主导叙事，而是被快速翻过——这种叙事断裂可能提示未整合的重大创伤",
+      "finding": "在Musk的公开叙事中，第一个孩子Nevada Alexander在10周大时死于婴儿猝死综合症是一个几乎被完全忽略的事件。2023年播客中被问及时，他的回应是\"I'm not sure what sitting around being sad is going to do\"（ev_048），这一表述将悲伤视为需要被克服的障碍而非需要整合的经历。对比他对SpaceX/Tesla危机的高调叙事（那些失败被转化为英雄叙事的核心部分），丧子之痛的叙事缺失表明：虽然他展现出强大的意义建构能力将逆境转化为成长，但这种能力似乎仅限于与使命相关的危机，而非个人生命中的创伤性丧失。这可能导致其叙事认同中存在一个\"静音\"的核心场景——一个未被救赎序列整合的污染事件。",
       "evidence_ids": [
-        "ev_001",
-        "ev_002",
-        "ev_040",
-        "ev_041"
+        "ev_048",
+        "ev_010",
+        "ev_018"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     },
     {
-      "dimension_name": "极端共融伪装下的极致能动（Apparent Communion as Mask for Hyper-Agency）",
-      "definition": "表面上关怀人类整体命运的共融主题实则是能动性的延伸——'为人类'服务实际上是'由我（ Musk）单独为人类'，将集体利益个人化",
-      "finding": "Musk 的叙事表面上具有宏大共融主题：'humanity becoming multi-planetary' [ev_022]、'duty to maintain the light of consciousness' [ev_029]、'maximizing the probability of the future being better' [ev_030]。然而，这些共融主题的叙事结构完全围绕他个人展开——使命不是由人类共同追求，而是由他作为单独个体推动。他创办 OpenAI（预防 AI 灾难）、Neuralink（人类与 AI 融合）、SpaceX（人类多行星）、Tesla（可持续能源）——所有这些都是他个人的救赎序列。'Communion'在此是伪装的'Agency'：他的共融性是为了正当化其极致的个人掌控与使命追求。这是一个重要的叙事洞察：他的大爱叙事服务于更深层的个人英雄叙事。",
+      "dimension_name": "救赎叙事的边界条件",
+      "definition": "McAdams的研究表明救赎序列与心理健康正相关，但Musk的情况揭示了一个重要限定：他的救赎叙事似乎只在\"为他人/人类\"的框架下运作。纯粹的個人創傷（如喪子）未被转化为意义建构，而是被快速压制，这提示其叙事认同中存在一个选择性机制",
+      "finding": "Musk的救赎叙事具有鲜明特征：每一次公司危机都成为展示韧性的舞台——2008年的破产危机被叙述为NASA合同的救赎铺垫（ev_017），Falcon 1的前三次失败被转化为第四次成功的戏剧性前奏（ev_016）。然而，当创伤与\"改变世界\"的使命无关时，他采用了完全不同的叙事策略——快速跳过而非转化。2020年他明确表述\"I'm not trying to be anyone's savior. I'm just trying to think about the future and not be sad\"（ev_042），这揭示了一个关键洞察：他的\"未来思考\"和\"不悲伤\"实际上是防御性的叙事策略——通过将注意力完全聚焦于可塑的未来，来避免面对不可逆转的过去损失。这种策略在商业决策中极为有效，但在个人心理整合层面可能存在代价。",
       "evidence_ids": [
-        "ev_022",
-        "ev_029",
-        "ev_030",
-        "ev_027",
-        "ev_037"
+        "ev_016",
+        "ev_017",
+        "ev_042",
+        "ev_048"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     }
   ]
 }

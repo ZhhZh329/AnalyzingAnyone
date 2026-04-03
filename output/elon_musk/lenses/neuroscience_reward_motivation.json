@@ -3,192 +3,242 @@
   "lens": "reward_motivation",
   "constructs": [
     {
-      "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper: actively creates reward opportunities rather than waiting for external triggers",
-      "finding": "Musk's reward system is fundamentally oriented toward active creation rather than passive response. Rather than waiting for external opportunities, he creates new fields (space exploration, electric vehicles, brain-computer interfaces, AI) that no existing market provided. His statement 'I could either watch the Internet revolution happen or I could be part of it' (ev_005) reveals an agentic orientation where external events are triggers for deliberate action, not determinants. The founding of SpaceX after Russia refused to sell ICBMs exemplifies this—rather than accepting the constraint, he calculated he could build rockets for 10% of the going rate (evt_013) and built an entirely new company. This aligns with high dopamine baseline driving approach behavior and novelty-seeking.",
+      "construct_key": "reward_sensitivity_profile",
+      "assessment": "高度多元化奖赏敏感型——对社会认可、智识发现、新奇体验和权力地位均有强烈反应",
+      "finding": "Musk的奖赏敏感性图谱呈现显著的多元化特征。证据显示他在三个核心领域表现出强烈奖赏敏感性：(1) 智识发现——12岁自学编程并创建游戏Blastar (ev_003)，体现对技术探索的内在奖赏；(2) 社会认可与使命——通过'第一性原理'框架( ev_020 )重新定义问题，从物理学方法论中获得智识满足；(3) 权力与控制——从Zip2到SpaceX到Tesla到Twitter的扩张轨迹显示对系统控制权的持续追求。值得注意的是，他的奖赏敏感性并非单一维度，而是多巴胺系统在不同领域的高度激活，这与其新奇寻求特质和跨领域创新行为一致。",
+      "evidence_ids": [
+        "ev_003",
+        "ev_020",
+        "ev_006",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "wanting_liking_separation",
+      "assessment": "存在显著的'想要'与'喜欢'分离——追求过程本身成为奖赏回路的核心，而非目标达成后的满足",
+      "finding": "Musk展现了典型的'想要-喜欢分离'模式。证据显示：(1) 他将创业描述为'直视深渊并吞食玻璃'(ev_018)，承认过程痛苦但仍坚持；(2) 2018年Model 3生产危机期间，他自愿住在工厂每周工作120小时(ev_024)，这种极端投入超出了理性收益计算，暗示行为已被奖赏回路'劫持'；(3) 他频繁设定宏大目标（火星殖民、完全自动驾驶），当目标未按期实现时不是放弃而是重新设定类似目标，形成一种持续追求但永不满足的模式。这种分离在其身上表现为：目标达成后的满足感是短暂的，新的'想要'立即被激活——这符合Berridge理论中多巴胺驱动'想要'而非'喜欢'的神经机制。",
+      "evidence_ids": [
+        "ev_018",
+        "ev_019",
+        "ev_024",
+        "ev_026",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "delay_discounting",
+      "assessment": "极低的时间折扣率——展现出为远期宏大目标（多行星物种、可持续能源）承受短期巨大牺牲的异常能力",
+      "finding": "Musk的时间折扣模式极为独特，展现出平缓的延迟折扣曲线。关键证据包括：(1) 2008年SpaceX和Tesla同时面临破产，他描述'我不得不向朋友借钱付房租'(ev_014)但仍坚持投入；(2) 他将所有剩余资金投入Tesla，声明'这不是真正的选择'(ev_015)，显示延迟满足不是选项而是必然；(3) 火星殖民计划设定为20万美元单程票价( ev_027 )，这是一个数十年后才能验证的愿景；(4) 2018年他声称每周工作120小时以实现目标( ev_033 )，自愿用即时牺牲换取远期愿景。这种模式表明他能够将未来奖赏的主观价值维持极高水平，但这种能力可能是通过将愿景'神话化'（成为'多行星物种'的元叙事）来实现的，而非自然的延迟满足。",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_027",
+        "ev_033",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "intrinsic_vs_extrinsic_motivation",
+      "assessment": "高度内在动机驱动——但外在激励（财富、地位、公众关注）与其使命追求形成复杂交织",
+      "finding": "Musk的动机结构以内在驱动为核心，但存在外在激励的渗透。内在动机证据：(1) 1995年从斯坦福PhD辍学，理由是'做PhD不会以任何重要方式帮助世界'( ev_005 )，追求意义而非报酬；(2) Hyperloop概念他选择开源而非自己建设，理由是'太忙'( ev_022 )，验证动机是可能性证明而非商业回报；(3) 他对物理学框架的热爱( ev_020 )是纯粹的认知内在奖赏。然而，外在动机也存在：(1) 2018年他发推考虑Tesla私有化( ev_040 )后被SEC起诉，显示对外部资本游戏规则的参与；(2) 2024年成为美国历史上最大个人政治捐款人( ev_053 )，显示权力地位作为独立奖赏来源；(3) Twitter收购后的'鸟已解放'( ev_047 )叙事显示对公众关注的追求。关键问题是外在奖赏是否侵蚀内在动机——目前证据表明其使命追求仍占主导，但外在激励作为补充奖赏来源持续存在。",
       "evidence_ids": [
         "ev_005",
-        "ev_008",
-        "ev_025",
+        "ev_022",
+        "ev_023",
+        "ev_040",
+        "ev_047",
+        "ev_053"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "novelty_seeking",
+      "assessment": "极高新奇寻求倾向——持续在新领域间切换，探索行为显著强于深化利用",
+      "finding": "Musk展现了典型的高新奇寻求模式。从时间线可观察到明显的'探索-切换'模式：(1) 1995-1999: Zip2 → 1999: X.com → 2002: SpaceX → 2004: Tesla → 2013: Hyperloop概念 → 2016: Neuralink + Boring Company → 2022: Twitter收购 → 2025: DOGE。这种在已知领域尚未完全'利用'时就转向新领域的模式，是高新奇寻求的典型表现。证据显示他将Hyperloop开源( ev_022 )是因为'太忙'，但更深层动机是证明可能性——新奇驱动而非完成驱动。Neuralink的创立动机明确与AI风险相关( ev_030 )，显示他被新问题的出现所驱动。值得注意的是，他在多个领域的同时投入不是深化，而是通过极高工作强度( ev_033 )来同时追求多个探索线索——这本身就是时间折扣极端化的表现，用即时高强度工作同时满足多个新奇追求。",
+      "evidence_ids": [
+        "ev_021",
+        "ev_022",
+        "ev_030",
+        "ev_033",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "极端世界塑造者——主动创造奖赏机会而非等待环境提供，极高能动性",
+      "finding": "Musk的行为模式完全符合'世界塑造者'原型。证据显示其能动性不仅体现在行动层面，更体现在主动定义现实：(1) 2001年俄罗斯之行失败后，他在飞机上用电子表格计算出以市场价10%建造火箭的可能性( ev_010 )——不是接受现有现实，而是重新定义成本结构；(2) 第一性原理思维( ev_020 )本质上是拒绝类比推理，选择从基本物理重新推导；(3) 2016年IAC火星演讲( ev_027 )中他将问题从'如何盈利'重新框架为'人类物种的终极命运'；(4) 他在多个领域被描述为'demon mode'( ev_050 )——在此模式下他会解雇人员、摧毁整个团队工作、设定不可能的截止日期，然后'不知怎的，产品成功了'。这种模式显示他不是响应现有结构，而是主动重塑结构。他的能动性不仅高，而且是创造性的——不是做更多，而是定义什么是'做'。",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_027",
         "ev_050",
-        "evt_013"
+        "ev_034"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "High learning drive with tolerance for prediction errors; first principles reasoning as cognitive framework",
-      "finding": "Musk exhibits a learning-driven epistemic style characterized by first principles reasoning (ev_025: 'Physics teaches you to reason from first principles rather than by analogy') and active seeking of prediction errors. His approach to SpaceX involved calculating fundamental cost structures rather than accepting industry assumptions. He demonstrates willingness to update beliefs dramatically—evolving from AI 'summoning the demon' (ev_026) to founding xAI (ev_028), and shifting from Democratic affiliation to $288 million Republican donor (ev_046). The tolerance for failure across four Falcon 1 launches (evt_015-018) indicates his prediction error system responds to negative outcomes not with avoidance but with continued learning. His epistemic confidence appears high but not rigid—willing to reverse positions when evidence warrants.",
+      "assessment": "预测误差驱动型学习者——对意外和非常规持开放态度，从认知挑战中获得奖赏",
+      "finding": "Musk的认知风格呈现典型的预测误差驱动模式。关键证据：(1) 他明确阐述物理学框架作为思维方法( ev_020 )，从第一性原理而非类比推理——这本质上是一种主动寻求预测误差的策略，因为类比推理是确认现状而第一性原理挑战现状；(2) 他曾表示Douglas Adams的《银河系漫游指南》对他影响深远：'正确表述问题后，答案就变得简单'( ev_031 )——这表明他将认知挑战本身视为奖赏；(3) 他对AI风险持续预警( ev_025 )，本质上是对技术发展可能带来的'负面预测误差'的高度敏感；(4) 2018年Falcon Heavy发射他选择将Tesla Roadster送入太空( ev_036 )，这是一个'无用'但出人意料的行为——不是基于效用计算而是基于新奇和象征价值。这种认知风格显示他被预测误差所驱动而非被其困扰将他引向创新探索，但可能导致对可预测任务的耐心不足。",
       "evidence_ids": [
+        "ev_020",
+        "ev_031",
         "ev_025",
-        "ev_026",
-        "ev_028",
-        "ev_046",
-        "evt_015",
-        "evt_016",
-        "evt_017",
-        "evt_018"
+        "ev_036"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "High abstraction orientation; derives intrinsic reward from formalizing complex systems",
-      "finding": "Musk demonstrates strong abstraction orientation through his physics-based reasoning framework and systematic approach to complex problems. His five-step 'algorithm' for engineering (ev_016: 'The most common error is to optimize something that shouldn't exist') represents a formalizable meta-cognitive tool he applies across domains. He published the Hyperloop white paper (ev_049) not to build it himself but 'just to show it was possible' (ev_50)—demonstrating intrinsic reward from the intellectual exercise of formalizing a concept. His physics background and stated preference for 'reasoning from first principles' (ev_025) indicates reward derived from abstract reasoning itself rather than just its practical applications. This aligns with the intrinsic motivation dimension where competence satisfaction comes from mastery of abstract systems.",
+      "assessment": "高度抽象化倾向——从形式化系统中获得内在满足，但同时表现出对物理实现的执着",
+      "finding": "Musk展现了复杂的抽象-具体张力。证据支持高度抽象化倾向：(1) 他明确表述从物理学框架思考问题( ev_020 )，将商业决策还原到物理基本定律；(2) Hyperloop白皮书( ev_024 )是一个纯概念设计——高铁真空管运输系统；(3) 他描述火星殖民的框架是'人类物种的二元选择'( ev_029 )——极高层次的概念框架。同时存在对物理实现的执着：(1) 他坚持在Tesla生产线上驻厂( ev_024 )，亲自干预工程设计( ev_038 )；(2) SpaceX的核心竞争力是实际降低火箭成本而非仅设计概念；(3) 他公开承认'过度的自动化是一个错误，人类被低估'( ev_037 )。这种张力表明：他的抽象能力是工具性的——用于突破思维限制，而非逃避具体实施。抽象是起点而非终点，第一性原理思维服务于而非阻碍工程实现。",
       "evidence_ids": [
-        "ev_016",
-        "ev_025",
-        "ev_049",
-        "ev_050"
+        "ev_020",
+        "ev_024",
+        "ev_027",
+        "ev_037",
+        "ev_038"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Extremely high control orientation; sensitive to autonomy threats; actively seeks system control",
-      "finding": "Musk shows extreme control orientation expressed through both direct leadership and intense sensitivity to perceived autonomy threats. His takeover of Tesla as CEO during the financial crisis (ev_011: 'I could either let Tesla die or put all my remaining money into it. That wasn't really a choice') and his pattern of firing engineers who disagree (ev_054) reveal a drive for control that overrides normal interpersonal considerations. His ousting from X.com during his honeymoon (ev_007: 'That's the problem with vacations') reflects low tolerance for loss of control. His personal code review at Twitter (ev_052) and direct operation of factories (ev_056) demonstrate behavioral patterns consistent with high autonomy need. The DOGE role in 2025 (ev_043, ev_057) represents seeking control over government systems. This aligns with self-determination theory's autonomy need being a primary driver.",
+      "assessment": "极高控制需求——对系统和人员的深度控制，且表现出对自主权被剥夺的强烈反感",
+      "finding": "Musk的控制取向表现为多层次深度控制。证据显示：(1) 2000年他被董事会从X.com CEO职位上撤换( ev_008 )，在蜜月期间被取代后仅评论'这就是假期的麻烦'——显示出对控制权丧失的隐忍而非接受；(2) Twitter收购后他解雇约80%员工( ev_046 )并发送最后通牒：'极度硬核'工作或离职；(3) 他绕过工程团队直接做生产决策( ev_038 )，包括在Tesla Model 3危机中移除自动化系统；(4) 在DOGE他被描述为'de facto leader'( evt_033 )——实际而非名义的领导；(5) Starlink在乌克兰的案例( ev_044 )显示他在自己创建的系统中有绝对控制权，甚至拒绝乌克兰使用该系统攻击俄方船只。这些证据表明他的控制需求不仅高，而且是本质性的——不仅是控制结果，而是控制过程和人员。控制权被剥夺时他的反应不是适应而是反击或离开。",
       "evidence_ids": [
-        "ev_007",
-        "ev_011",
-        "ev_052",
-        "ev_054",
-        "ev_056",
-        "ev_043",
-        "ev_057"
+        "ev_008",
+        "ev_046",
+        "ev_038",
+        "ev_044",
+        "evt_033"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Extreme mission prioritization; relational costs systematically subordinated to existential goals",
-      "finding": "Musk's reward system appears highly specialized toward mission-driven existential goals, with relational rewards showing marked desaturation. His statements about consciousness preservation ('I think we have a duty to maintain the light of consciousness' ev_029) and maximizing probability of 'the future being better' (ev_030) represent core driving motivations that dwarf relational concerns. The loss of 79% of Twitter's equity value (ev_055) and confrontation with advertisers ('Go fuck yourself' ev_019) indicate willingness to accept massive relational and financial costs for perceived mission alignment. His comment about his father as 'a terrible human being' and unhappy childhood (ev_002), along with his first son Nevada's death and immediate return to work (ev_040, ev_041), and statement 'There are many nights I sleep alone' (ev_039) suggest his mission pursuit has come at significant relational cost. The pattern aligns with Kent Berridge's 'wanting' without commensurate 'liking'—intense drive without proportional satisfaction.",
+      "assessment": "极端使命优先——愿意为宏大使命承担一切关系和社会代价",
+      "finding": "Musk的行为模式是使命优先的极端案例。关键证据：(1) 2008年他第一孩子因SIDS去世后'几乎立即返回工作'( ev_010 )——个人悲剧服从于使命进度；(2) 2018年Model 3危机期间他表示'如果工人在受苦，我愿意和他们一起受苦。我的痛苦应该大于他们'( ev_039 )——这是一种将关系工具化的叙事，痛苦被重新框架为使命的证明；(3) 2022年他秘密限制Starlink在克里米亚的覆盖范围以'避免成为战争同谋'( ev_044 )，显示他在使命框架内做道德决策而非关系决策；(4) 2024年政治捐款( ev_053 )和2025年DOGE领导( evt_032 )——他愿意承担巨大的公众批评和政治风险来追求其使命中的政府效率改革；(5) Twitter收购他公开对广告商说'去你的'( ev_051 )——愿意承担经济损失以维护其内容决策的控制。这些行为模式显示使命追求系统高度激活，而关系奖赏系统可能处于抑制状态——他可以为了使命目标而牺牲关系舒适，这是其动机系统的核心特征。",
       "evidence_ids": [
-        "ev_019",
-        "ev_029",
-        "ev_030",
+        "ev_010",
         "ev_039",
-        "ev_002",
-        "ev_040",
-        "ev_041",
-        "ev_055"
+        "ev_044",
+        "ev_051",
+        "ev_053",
+        "evt_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "High risk tolerance driven by novelty seeking and long time horizons; accepts low probability high-impact outcomes",
-      "finding": "Musk exhibits high risk tolerance anchored in two factors: high novelty-seeking drive and long time horizons that flatten delay discounting. His statement about SpaceX success probability being 'less than 10%' and accepting he would 'probably lose everything' (ev_008) reveals baseline risk tolerance significantly above population norms. His description of entrepreneurship as 'eating glass' (ev_034) and willingness to 'rather commit seppuku than fail' (ev_035) indicates not just tolerance but embrace of extreme risk. The Model 3 production crisis where Tesla came 'within weeks of bankruptcy' (evt_028) with Musk working 120-hour weeks (ev_032) demonstrates behavioral confirmation of stated risk tolerance. His explicit acknowledgment of high fatality risk for Mars missions (ev_023) shows willingness to accept personal and others' physical risk for mission. This aligns with high dopamine baseline associated with novelty seeking and risk preference.",
+      "assessment": "极端风险寻求——主动追求高风险高回报，并将极端个人财务风险内化为必要代价",
+      "finding": "Musk的风险姿态是极端的。证据显示：(1) 2002年他评估SpaceX成功概率'低于10%'并'接受可能失去一切'( ev_011 )；(2) 2012年他声明'我宁愿切腹也不愿失败'( ev_019 )——将失败等同于死亡；(3) 2008年双重危机中他将所有资金投入Tesla和SpaceX，描述为'这不是真正的选择'( ev_015 )——风险承担不是选择而是必然；(4) 2016年火星演讲他明确承认'第一批火星旅程风险极高...死亡风险相当高'( ev_028 )并邀请志愿者准备好死亡；(5) 2018年他发推称'没有人每周工作40小时改变世界'( ev_033 )——将极端工作时间重新框架为高风险策略的必要成分；(6) Twitter收购( 440亿美元)和DOGE(大规模裁员)都是极高风险的行动。这种风险模式不是计算性的，而是冲动性的——他愿意为高风险行动承担后果，但似乎从风险承担本身中获得奖赏信号。这符合高多巴胺基线与风险寻求行为相关的神经机制。",
       "evidence_ids": [
-        "ev_008",
-        "ev_034",
-        "ev_035",
-        "ev_023",
-        "ev_032",
-        "evt_028"
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_028",
+        "ev_033",
+        "ev_046"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Complex relationship: comfortable with personal power, resistant to external authority, uses hierarchy instrumentally",
-      "finding": "Musk's relationship to hierarchy reveals a dual pattern: resistance to external authority combined with comfortable exercise of personal power. He left South Africa to avoid mandatory military service under apartheid (ev_004), demonstrating early resistance to coercive hierarchy. His ousting from X.com and subsequent actions indicate low tolerance for subordinate position in hierarchies he perceives as illegitimate. Yet he readily assumes top positions—taking over Tesla as CEO (evt_020), leading DOGE (ev_043), and being described as 'de facto leader' by federal courts (ev_057). His political shift from Democrat to $288 million Republican donor (ev_045, ev_046) suggests instrumental use of hierarchy rather than ideological commitment. His direct confrontation with advertisers (ev_019) indicates willingness to use power provocatively rather than diplomatically. The pattern suggests power is a tool for mission advancement rather than an end in itself.",
+      "assessment": "权力作为独立奖赏来源——追求权力地位本身，且对等级制度持工具性态度",
+      "finding": "Musk对权力和等级的态度是工具性的——权力是实现使命的工具，但也是独立奖赏。证据显示：(1) 他在Tesla的角色从投资人到董事长到CEO( evt_011 )，逐步获取控制权；(2) Twitter收购后他成为'绝对权威'( ev_046 )并迅速裁员；(3) 2025年他被任命为DOGE负责人，尽管他不是政府官员——这是政府权力的大胆获取；(4) 2018年SEC起诉他证券欺诈( ev_041 )显示他愿意挑战制度权威；(5) 他描述父亲为'一个可怕的人'( ev_002 )并选择与父亲生活——这是对权威的复杂态度，混合了反叛和依赖。权力对他而言既是手段也是目的：它服务于使命（如SpaceX/Tesla的发展），但获取权力本身也提供奖赏——这解释了为何在Tesla和SpaceX成功后他继续获取Twitter和DOGE的权力。这种模式与物质成瘾共享相似的神经机制——权力作为多巴胺奖赏信号。",
       "evidence_ids": [
-        "ev_004",
-        "ev_007",
-        "ev_019",
-        "ev_043",
-        "ev_045",
+        "ev_041",
         "ev_046",
-        "ev_057",
-        "evt_020",
-        "evt_011"
+        "evt_011",
+        "evt_032",
+        "ev_002"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Escalation-prone; engages conflict as signal of engagement; uses confrontation as default approach",
-      "finding": "Musk's conflict strategy reveals a pattern where conflict serves as a reward signal rather than a deterrent—he engages rather than avoids confrontation. His firing of engineers who disagree (ev_054), then sometimes rehiring them days later, suggests conflict is not about winning but about testing resolve. The SEC lawsuit over his $420 tweet (ev_015, evt_027) and his pattern of 'demon mode' management (ev_042: 'When Elon is in demon mode, he will fire people, destroy entire teams' work, demand impossible deadlines—and then somehow the product ships') indicate conflict is experienced as energizing rather than punishing. His confrontation with advertisers at DealBook Summit (ev_019) and ultimatum to Twitter employees (ev_053) demonstrate escalation as default strategy. This aligns with novelty-seeking where conflict provides arousing stimulation that the reward system interprets positively rather than as negative feedback.",
+      "assessment": "escalation-dominant策略——倾向于冲突升级而非协商或延迟，在冲突中体验到奖赏信号",
+      "finding": "Musk的冲突策略明显倾向于升级而非和解。证据显示：(1) 他被描述为'demon mode'时会立刻解雇反对者( ev_050 )；(2) 2017年Tesla工程师因Autopilot品牌问题辞职( evt_020 )——他坚持品牌命名而非妥协；(3) 2023年DealBook峰会他对广告商说'去你的'( ev_051 )——公开冲突升级；(4) SEC起诉后他未选择和解谈判而是直接对抗；(5) Twitter收购后大规模裁员和内容政策180度转变——不通过渐进谈判而是激进变革。这种模式显示冲突对他而言可能不是惩罚信号而是奖赏信号——胜利的快感或至少是行动快感的来源。他在冲突中表现出的不是焦虑而是兴奋，这与奖赏系统对冲突情境的正向反应一致。",
       "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_042",
-        "ev_053",
-        "ev_054",
-        "evt_027"
+        "ev_050",
+        "evt_020",
+        "ev_051",
+        "ev_041",
+        "ev_046"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Extremely long time horizons; optimizes for multi-generational and species-level outcomes",
-      "finding": "Musk's temporal orientation extends to multi-generational horizons, well beyond typical entrepreneurial timeframes. His Mars colonization plan (evt_024), stated vision of humanity becoming 'multi-planetary species' (ev_022), and desire to 'die on Mars but not on impact' (ev_024) reveal time horizons measured in centuries. This maps onto very flat delay discounting curves—he accepts immediate suffering (the 'most painful year of my career' ev_013, sleeping on factory floor ev_056) for far-future payoffs. His 80-100 hour work weeks (ev_032) over sustained decades represent enormous present costs for projected future impact. The Hyperloop paper (ev_049), Neuralink (ev_037: 'If you can't beat them, join them'), and explicit goal of maintaining 'the light of consciousness' (ev_029) indicate temporal horizons extending beyond individual lifespan. This suggests either exceptional capacity for delay discounting or active use of self-binding strategies to maintain long-term orientation.",
+      "assessment": "mission-scale时间视野——以数十年为单位的超长期视角，但伴随即时行动主义",
+      "finding": "Musk的时间视野是独特的多尺度组合。证据显示：(1) 火星殖民计划( ev_027 )是以数十年为单位的愿景；(2) 电动汽车和可持续能源转型也是数十年视野；(3) Neuralink脑机接口( evt_031 )——面向未来的技术；(4) 2014年AI警告( ev_025 )和OpenAI创立——是对远期生存风险的响应；(5) 但是这些长远愿景通过极高的即时行动强度来追求——120小时工作周( ev_033 )、驻厂生产( ev_024 )、即时决策。这种模式显示：远期目标不是抽象的思考而是具体的动力来源，但实现方式是通过极端即时投入而非渐进积累。他似乎将未来'现在化'——不是延迟满足而是同时满足，用极端即时努力来压缩时间线。这可能是一种策略性时间折扣，通过将远期目标转化为即时行动来绕过延迟折扣的负面影响。",
       "evidence_ids": [
-        "ev_022",
+        "ev_027",
+        "ev_033",
         "ev_024",
-        "ev_029",
-        "ev_032",
-        "ev_037",
-        "ev_049",
-        "ev_056",
-        "evt_024"
+        "ev_025",
+        "evt_031"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Strong preference for structural redesign over incremental improvement; rebuilds entire systems",
-      "finding": "Musk demonstrates consistent preference for radical redesign over incremental patching across multiple domains. Rather than improving existing rockets, he founded SpaceX to rebuild the entire launch infrastructure. Rather than accepting Tesla's initial approach, he took over as CEO and rebuilt production systems. Rather than improving Twitter incrementally, he acquired it and executed radical restructuring (80% workforce reduction ev_018). His statement that 'The most common error is to optimize something that shouldn't exist' (ev_016) reveals preference for questioning fundamental assumptions rather than optimizing within them. The Hyperloop white paper (ev_049) was published not because existing transit needed improvement but to demonstrate an entirely different approach was possible. This pattern aligns with high novelty-seeking and the stronger reward signals from creation versus repair.",
+      "assessment": "极端重建偏好——当现有结构阻碍时会选择彻底重建而非修补",
+      "finding": "Musk明显倾向于重建而非修补。关键证据：(1) 2013年Hyperloop他选择开源设计而非在现有交通系统上修补( ev_022 )；(2) 2016年他创立Boring Company来建设地下隧道而非改善现有交通( ev_021 )；(3) 2022年Twitter收购后不是渐进改革而是'鸟已解放'( ev_047 )然后大规模裁员——彻底重建；(4) 2025年DOGE他不是渐进裁减而是'system shutdowns, mass layoffs'( evt_032 )——彻底重构；(5) 2018年他移除Tesla的自动化系统( ev_037 )不是优化而是彻底推翻原有方案。这种模式显示他不是增量改进者而是范式转换者。当现有结构被认为是根本性阻碍时，重建不仅提供功能改进更重要的是提供新奇和掌控奖赏——重建本身的奖赏信号强于修补。",
       "evidence_ids": [
-        "ev_016",
-        "ev_018",
-        "ev_049",
-        "evt_013",
-        "evt_020",
-        "evt_029"
+        "ev_022",
+        "ev_021",
+        "ev_047",
+        "evt_032",
+        "ev_037"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Moderate metacognitive awareness; aware of own drive but less aware of wanting-liking separation",
-      "finding": "Musk demonstrates moderate metacognitive capacity—he can articulate his reasoning (first principles thinking, 'the algorithm') but shows limited awareness of motivational distortions. He explicitly states 'Nobody ever changed the world on 40 hours a week' (ev_031) and describes work as 'eating glass' (ev_034)—showing awareness that his drive involves suffering. However, his statement 'There are many nights I sleep alone' (ev_039) and admission that Model 3 production was 'the most painful year' (ev_013) suggest awareness of cost without corresponding adjustment of behavior. He appears less aware of the 'wanting' versus 'liking' separation—continuing intense pursuit despite evidence it doesn't produce proportional satisfaction. His explicit statement 'What I'm trying to do is to maximize the probability of the future being better' (ev_030) reveals goal-oriented self-understanding but less attention to whether the pursuing itself is producing well-being. The metacognitive gap appears greatest around the reward system itself.",
+      "assessment": "有限的自我觉察——对自身动机系统有部分意识但存在系统性盲点，尤其在'想要-喜欢'分离上",
+      "finding": "Musk展现出部分的元认知能力但存在显著盲点。部分觉察证据：(1) 他2020年接受Rogan播客时说'我只想思考未来而不是悲伤'( ev_042 )——这是对自身情感管理的元认知陈述；(2) 他承认过度自动化是错误( ev_037 )——对自己决策的反思；(3) 他曾表示'我不试图成为任何人的救世主'( ev_042 )——对自身公众形象的元认知。然而，存在系统性盲点：(1) 他未意识到自己在Autopilot命名上的坚持可能反映的奖赏追求而非安全考量( evt_020 )；(2) 他对工作时间的吹嘘( ev_033 )可能未意识到这是成瘾回路的表现而非纯粹理性选择；(3) 他在Starlink乌克兰案例中的决策( ev_044 )显示他可能将自我框架为道德决策者而未反思其背后的控制需求；(4) 他对孩子死亡后立即工作的叙述( ev_010 , ev_048 )显示他可能将情感脱离合理化而未真正处理悲伤。他的元认知在智识层面强于情感层面——他理解物理学框架但可能不理解自己为何无法停止追求。",
       "evidence_ids": [
-        "ev_013",
-        "ev_030",
-        "ev_031",
-        "ev_034",
-        "ev_039"
+        "ev_042",
+        "ev_037",
+        "evt_020",
+        "ev_033",
+        "ev_044",
+        "ev_048"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "Wanting-Liking Separation Intensity",
-      "definition": "The degree to which此人's reward system exhibits 'wanting' (pursuit drive) without proportional ' liking' (consummatory pleasure). Kent Berridge's research established these can operate independently. This dimension captures whether Musk's intense drive produces commensurate satisfaction or whether he experiences drive without proportionate pleasure.",
-      "finding": "Musk exhibits pronounced wanting-liking separation. His intense drive to 'maximize the probability of the future being better' (ev_030), work 80-100 hour weeks for decades, and accept extreme personal costs (financial near-bankruptcy, family strain, health sacrifice) continues despite evidence of low 'liking' return. His admission of sleeping alone (ev_039) and the 'most painful year' (ev_013) description reveal intense wanting without proportional liking. The pattern suggests his motivational system is dominated by goal-directed 'wanting' circuits while hedonic 'liking' circuits are relatively desensitized. He continues pursuing even when rationally should stop because the wanting signal remains strong even when liking has faded or never was high. This is the motivational mechanism underlying his relentless drive independent of satisfaction from outcomes.",
+      "dimension_name": "动机系统的'圣杯'结构",
+      "definition": "Musk的奖赏系统似乎围绕少数极端宏大的'圣杯'目标组织——这些目标因其不可能性和终极性而获得独特的多巴胺激活。这不是一般的新奇寻求，而是对'终极奖赏'的追求——如成为多行星物种、避免AI灾难、确保人类意识延续。这些目标因其不可能即时实现而成为持续的奖赏来源，而非可实现的目标。",
+      "finding": "这种'圣杯'结构解释了为何他可以在多次被告知不可能后仍坚持——失败只是延迟而非终结；也解释了在常规成功（如Tesla盈利、SpaceX稳定发射）后他为何转向新领域——因为这些成就不再提供相同的奖赏信号。他的奖赏系统需要'终极问题'来激活，而非渐进成功。",
       "evidence_ids": [
-        "ev_013",
-        "ev_030",
-        "ev_039",
-        "ev_031",
-        "ev_032"
+        "ev_027",
+        "ev_029",
+        "ev_025",
+        "ev_043",
+        "ev_030"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     },
     {
-      "dimension_name": "Mission-Specific Reward Saturation",
-      "definition": "The degree to which someone's reward system has become specialized toward specific mission domains, with other reward categories (relationships, sensory pleasures, status comfort) showing relative desaturation. This is not about simple prioritization but about neural reward circuits becoming structurally biased toward certain activation patterns.",
-      "finding": "Musk's reward system appears highly specialized toward existential mission goals (multi-planetary civilization, consciousness preservation, AI safety), with other reward categories showing evidence of desaturation. The $44 billion Twitter acquisition resulting in 79% equity value loss (ev_055) with minimal apparent distress, the confrontation with advertisers causing major advertiser loss (ev_019), and his description of his father as 'terrible human being' with 'not a happy childhood' (ev_002) suggest relational reward processing operates differently. His immediate return to work after Nevada's death (ev_040, ev_041) and long work hours over family time indicate relationship rewards are not primary activators. This specialization means his reward system responds strongly to mission progress but weakly to relational or sensory rewards—the wanting is hyperspecific to existential goals rather than broadly calibrated to typical human reward sources.",
+      "dimension_name": "痛苦耐受力的工具化",
+      "definition": "Musk将极端痛苦耐受力重新框架为竞争优势和道德证明——他将痛苦视为进入'精英行列'的必要筛选机制。这是自我决定理论中自主性需要的极端表达，但走向了功能性失调方向：痛苦不是失败的信号而是成功的必要条件。",
+      "finding": "证据显示他明确表述工人们的痛苦应该被他更大的痛苦所超越( ev_039 )，将痛苦竞争道德化；他描述创业是'吞食玻璃'( ev_018 )并愿意'切腹'( ev_019 )——痛苦被浪漫化为英雄叙事的必要成分。这种模式可能是一种认知策略来绕过延迟折扣的主观痛苦，但其极端表达可能导致对正常情感体验的去敏感化。他对痛苦耐受力的推崇可能反映对'脆弱'的恐惧——因为童年创伤( ev_002 )可能使脆弱性与生存威胁相关联。",
       "evidence_ids": [
-        "ev_002",
+        "ev_039",
+        "ev_018",
         "ev_019",
-        "ev_040",
-        "ev_041",
-        "ev_055"
+        "ev_002",
+        "ev_048"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     }
   ]
 }

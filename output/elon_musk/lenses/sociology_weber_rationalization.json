@@ -4,163 +4,168 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Elon Musk 是韦伯意义上典型的「世界塑造者」— 他主动创造结构性变革，而非被动回应既有结构",
-      "finding": "Musk 从不将自己定位为现有体制的参与者，而是通过创业和愿景主动重塑行业和文明。从Zip2到SpaceX、火星殖民计划、Neuralink、DOGE，他持续扮演卡里斯马型变革者角色，试图将人类意识延展到地球之外（ev_022）。他明确表示要成为'多行星物种'的缔造者，这是对韦伯所述现代性路径的根本性改写——不是适应铁笼，而是打破地球约束。",
+      "assessment": "Extreme world-shaper who systematically attempts to redesign entire societal systems rather than work within existing structures",
+      "finding": "Musk's trajectory from Zip2 through SpaceX, Tesla, Neuralink, Twitter/X, and DOGE demonstrates a consistent pattern of creating new institutional structures or taking over existing ones to impose his vision. His founding of SpaceX with $100 million of personal capital (ev_009) and willingness to accept <10% success probability (ev_011) exemplifies radical world-shaping over structural accommodation. His first principles thinking framework explicitly rejects the analogy-based reasoning that accepts existing system constraints (ev_020). The DOGE role in 2025 represents the culmination of this orientation—applying corporate restructuring logic to federal government, a domain traditionally governed by separate rationalized bureaucracies. Rather than working within established aviation, automotive, or social media industries, Musk created parallel systems or captured existing ones to implement his preferred rationality. This places him at the extreme end of the world-shaper pole in Weber's framework.",
       "evidence_ids": [
-        "evt_013",
-        "evt_022",
-        "evt_024",
-        "evt_033"
+        "ev_009",
+        "ev_011",
+        "ev_020",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Musk 的认识论以「第一性原理」为核心——从物理法则而非类比推理出发构建理解",
-      "finding": "Musk 明确表述其思维框架：'我倾向于从物理学框架解决问题。物理学教你用第一性原理而非类比来推理'（ev_025）。这种认识论倾向使其在火箭、汽车、AI 等领域能够突破行业传统认知——计算他认为火箭成本可以降到市价的10%（evt_013）。然而，这种理性框架与其冲动性推特行为（如$420私有化推文 ev_015）形成张力，表明其认知风格存在断裂。",
+      "assessment": "Physics-based first principles reasoning combined with confident predictions that frequently exceed available evidence",
+      "finding": "Musk explicitly describes his cognitive approach as deriving from physics frameworks—reasoning from 'fundamental truths' rather than analogy (ev_020). This represents Weber's ideal-typical reasoning style: constructing analytical models based on first principles rather than historical precedent. However, there is tension between this articulated framework and documented patterns of overconfident predictions that did not materialize, such as fully autonomous driving by 2017 (ev_026), and the 2018 'funding secured' tweet that led to SEC fraud charges (ev_040). His self-attributed methodology shows high formalization and abstraction—calculating rocket costs on a spreadsheet from raw materials (ev_010), specifying Mars colonization costs to the dollar (ev_027). The epistemic style is simultaneously rigorous in technical domains and notably less constrained in political/societal predictions. This may reflect Weber's concept of 'Verstehen' applied selectively—deep understanding of technical systems combined with intuitive certainty about human/organizational outcomes where such rigor is absent.",
       "evidence_ids": [
-        "ev_025",
-        "ev_015",
-        "ev_008"
+        "ev_010",
+        "ev_020",
+        "ev_026",
+        "ev_040"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Musk 展现出对抽象系统的高度偏好，将复杂现实还原为可计算的数学物理框架",
-      "finding": "Musk 的管理方法论高度系统化——他发展出'五步算法'（the algorithm）作为工程决策的标准化流程（ev_016），将火箭设计还原为成本优化方程。在Twitter他亲自审查代码提交以确定生产力（ev_052），在DOGE他将政府机构视为可优化的系统。这种倾向在Hyperloop白皮书中达到极致——57页的技术文件将交通问题完全形式化为数学模型（ev_049）。",
+      "assessment": "High formalization in technical/strategic domains, but management style remains intensely personal rather than systematically bureaucratic",
+      "finding": "Musk demonstrates sophisticated abstract reasoning in technical conception—his Hyperloop white paper (ev_024) was a 57-page formal specification for a new transportation mode; his Mars colonization plan (ev_027) specified target costs ($200,000) and risk parameters; his SpaceX founding calculation used spreadsheet-based cost analysis from raw materials (ev_010). This aligns with Weber's 'formal rationality'—precise calculation and systematic planning. However, actual management behavior shows significant deviation from bureaucratic rationality: he personally overrides engineering teams (ev_038), fires employees on the spot for disagreement then sometimes rehires days later (ev_034), and removes automated systems in favor of manual labor during Tesla crisis (ev_037). His management operates more through personal charisma and crisis response than systematic rule-following. This creates an unusual hybrid: highly formalized strategic vision combined with personalized, often impulsive operational decisions. The abstraction appears in what he builds, not how he governs day-to-day.",
       "evidence_ids": [
-        "ev_016",
-        "ev_049",
-        "ev_052",
-        "ev_050"
+        "ev_010",
+        "ev_024",
+        "ev_034",
+        "ev_037",
+        "ev_038"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "control_orientation",
-      "assessment": "Musk 展现出极端的控制导向——不仅是产品和流程，还延伸至组织和制度层面",
-      "finding": "Musk 的控制欲体现在多个层面：对技术细节的绝对掌控（在工厂睡地板监督生产 ev_056）、对代码的亲自审查（ev_052）、对Twitter员工发出'极其硬核工作或离开'的 ultimatum（ev_053）。他曾因工程师不同意他的观点而当场解雇，然后又可能在几天后重新雇用（ev_054）。2025年他虽无正式政府职位，却成为'DOGE的实际领导者'（ev_057），将企业理性注入政府系统——这是对韦伯官僚制理想类型的极端实践。",
+      "assessment": "Extremely high control orientation extending from technical systems to information platforms to government operations",
+      "finding": "Musk's control orientation manifests across multiple domains: technically, he personally intervenes in production line design against engineering recommendations (ev_038); organizationally, he took over as Tesla CEO during financial crisis rather than delegate (ev_015); informationally, the Twitter acquisition represented explicit control over a major communications infrastructure; politically, DOGE represented attempts to control federal agency operations directly. His pattern of firing disagreeing engineers (ev_034) and insisting on 'Autopilot' branding despite safety warnings (ev_032) demonstrates preference for controlling narrative and design over collegial decision-making. The 2022-2023 Twitter restructuring—firing ~80% of staff and demanding 'extremely hardcore' work commitment (ev_046)—shows control orientation applied as an end in itself. This aligns with Weber's analysis of rationalization as control, but Musk's form includes personal authority dimensions (charismatic rather than purely bureaucratic). The scale of control attempts—from cars to rockets to social media to government—suggests a worldview where coordination requires singular vision rather than distributed decision-making.",
       "evidence_ids": [
-        "ev_053",
-        "ev_054",
-        "ev_056",
-        "ev_057"
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_046",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "mission_vs_relational_cost",
-      "assessment": "Musk 的行为模式展现了韦伯意义上的「天职」精神——使命优先于一切人际关系和个人幸福",
-      "finding": "Musk 的入世禁欲主义倾向极其明显。2002年他的第一个孩子因婴儿猝死综合征去世后，他几乎立即返回工作：'我不知道坐着悲伤能做什么'（ev_041）。他公开表示愿意工作100小时一周以改变世界（ev_031, ev_032），并在Model 3生产危机期间睡在工厂地板上，表示'如果工人受苦，我愿意与他们一同受苦。我的痛苦应当比他们更大'（ev_012）。他承认'有很多夜晚我独自入睡'（ev_039），将亲密关系置于使命之下。这是新教伦理世俗化的极端案例——工作不再是手段而是内在目的。",
+      "assessment": "Extreme mission prioritization with documented relational costs; behavior patterns suggest ascetic orientation toward personal relationships",
+      "finding": "Weber's concept of 'inner-worldly asceticism' from the Protestant Ethic finds modern expression in Musk's behavior: mission becomes Beruf (calling) that consumes other life domains. Evidence includes his return to work 'almost immediately' after his infant son's death from SIDS (ev_048), his statement that there are 'many nights I sleep alone' (ev_049), 80-100 hour work weeks publicly justified as necessary for world-changing (ev_033), and willingness to lose everything on SpaceX (ev_011). His statement 'I'd rather commit seppuku than fail' (ev_019) and characterization of entrepreneurship as 'staring into the abyss and eating glass' (ev_018) frame mission pursuit in existential/religious terms even without religious content. The Twitter acquisition and subsequent personal focus, combined with multiple divorces and acknowledged emotional solitude, suggest systematic relational cost. This aligns with Weber's warning about rationalization's 'iron cage'—Musk builds systems that constrain not just others but himself, creating a self-imposed asceticism where mission success replaces other meaning sources. The question becomes whether this represents authentic value-rational (Wertrational) action or becomes instrumental even to himself—serving not values but his own drive.",
       "evidence_ids": [
-        "ev_039",
-        "ev_041",
-        "ev_012",
-        "ev_031",
-        "ev_032"
+        "ev_011",
+        "ev_018",
+        "ev_019",
+        "ev_033",
+        "ev_048",
+        "ev_049"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "risk_posture",
-      "assessment": "Musk 展现出极端的风险承担意愿——将个人财富和公司命运推向物理可能性的边界",
-      "finding": "Musk 明确表示SpaceX成功概率不到10%，但'我接受了我可能会失去一切'（ev_008）。2008年他用全部剩余资金投入Tesla和SpaceX，Tesla数周内就可能破产（evt_020）。他将个人财富作为赌注的程度远超理性计算。在火星殖民演讲中他明确警告：'第一批火星旅程将非常危险，死亡率风险很高，没有办法回避'（ev_023）。这种风险姿态既非官僚式的风险最小化，也非传统赌博——而是一种将个人存在转化为使命赌注的存在性风险承担。",
+      "assessment": "Deliberate selection of high-personal-stakes situations with low probability of success; frames risk in existential rather than probabilistic terms",
+      "finding": "Musk's risk posture demonstrates what Weber might analyze as value-rational action accepting instrumental rationality's worst outcomes. His explicit acknowledgment that SpaceX had <10% success probability (ev_011), combined with willingness to invest all remaining capital (ev_015), represents extreme risk concentration rather than diversification. The 'going to extremes rather than accept failure' stance (ev_019) frames risk not probabilistically but existentially—failure is not an acceptable outcome to be managed but a form of death to be avoided. This differs from Weber's bureaucratic risk-minimization through formal rules and redundancy; instead, Musk adopts a charismatic risk posture where singular vision justifies singular bets. His documented statement that 'I could either let Tesla die or put all my remaining money in' (ev_015) shows risk posture as false binary rather than portfolio thinking. The Pattern of making high-stakes decisions despite documented engineering warnings (Autopilot branding, ev_032) suggests risk calculation that privileges vision over probability-weighted outcomes. This creates a distinctive risk posture: technically sophisticated in some domains (rocket cost analysis), wildly overconfident in others (Twitter valuation, autonomous driving timelines).",
       "evidence_ids": [
-        "ev_008",
-        "evt_019",
-        "ev_023",
-        "ev_010"
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_032"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Musk 藐视传统层级权威，依赖卡里斯马型个人魅力和工程技术专长建立权威",
-      "finding": "Musk 的权威来源是韦伯所定义的卡里斯马型——通过个人愿景、技术能力和极端成就赢得追随者。他公开蔑视传统权威（从南非种族隔离制度下离开 ev_004，到公开对抗SEC ev_015）。在Twitter他解雇80%员工（ev_018），在DOGE他虽无正式头衔却成为'实际领导者'（ev_057）。他用工程思维重新定义权威——谁能否定物理法则？在IAC演讲中他作为'文明拯救者'形象出现，号召人类成为多行星物种（ev_022）。",
+      "assessment": "Ambivalent relationship—uses hierarchy instrumentally while publicly rejecting its authority over him; prefers personal over positional authority",
+      "finding": "Musk demonstrates complex authority relations: he submits to elected hierarchy when it aligns with his goals (working within SEC framework after settlement, ev_041; accepting DOGE role within government structure) while rejecting administrative or technical authority that constrains his vision. His management style relies on personal authority—firing people directly (ev_034), making unilateral technical decisions (ev_038)—rather than institutional hierarchy. The Twitter acquisition and 'the bird is freed' statement (ev_047) expressed liberation from prior ownership hierarchy as personal mission. However, his DOGE role represents willingness to work within government hierarchy when positioned at its apex. This suggests Weber's charismatic authority type: legitimacy derives from personal vision rather than traditional or legal-rational grounds, but it seeks to capture or replace institutional authority rather than operate within it. His public dismissal of advertisers ('Go fuck yourself', ev_051) rejects the informal power of economic pressure. The pattern shows preference for direct personal authority over distributed institutional power, with willingness to restructure institutions to concentrate authority when possible.",
       "evidence_ids": [
-        "ev_004",
-        "ev_015",
-        "ev_018",
-        "ev_057",
-        "ev_022"
+        "ev_034",
+        "ev_038",
+        "ev_047",
+        "ev_051",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "conflict_strategy",
-      "assessment": "Musk 的冲突策略是公开对抗和极端升级，而非制度化的谈判或调解",
-      "finding": "Musk 处理冲突的方式高度非制度化。面对SEC诉讼他选择直接对抗而非和解（ev_015）。在DealBook峰会上他对广告商说'去他妈的'（ev_019）。他曾当面解雇持异议的工程师（ev_054）。这种模式在DOGE中延续——他藐视法院命令，联邦法官裁定他'实际上是DOGE的领导者'（ev_057）。这是卡里斯马型权威面对法理型官僚制时的典型冲突方式——绕过制度而非在制度内解决。",
+      "assessment": "Primarily escalation and confrontation rather than negotiation or institutional processing; treats conflict as signal of opposition to be overcome",
+      "finding": "Weber's rationalized conflict processing would route disputes through formal procedures—contracts, arbitration, bureaucratic channels. Musk's documented conflict strategies show preference for direct confrontation or structural override. The SEC confrontation involved direct legal battle rather than negotiated resolution initially (ev_041). The 'Go fuck yourself' response to advertisers (ev_051) represents maximal escalation rather than compromise. Engineer conflicts result in immediate firing rather than deliberation (ev_034). Twitter restructuring eliminated the conflict resolution infrastructure entirely (ev_046). This represents what Weber might describe as charismatic authority's conflict approach—directly confronting opposition rather than institutionalizing it. The pattern suggests conflict is interpreted as resistance to vision rather than legitimate interest articulation. His Russia rocket trip failure (ev_010) leading directly to building SpaceX himself shows preference for vertical action over negotiated solutions. The documented 'demon mode' behavior pattern (ev_050)—firing people, destroying work, demanding impossible deadlines—represents conflict strategy as pure escalation. Institutional bypass is preferred over institutional navigation.",
       "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_054",
-        "ev_057"
+        "ev_034",
+        "ev_041",
+        "ev_050",
+        "ev_051"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "time_horizon",
-      "assessment": "Musk 的时间视野是文明尺度的——思考数百万年后的未来，而非季度财报",
-      "finding": "Musk 的时间取向远超常规商业理性。他在2016年IAC演讲中明确将历史描述为在两条路径间的分叉：'一种是我们永远留在地球，然后面临某种最终的灭绝事件。另一种是成为太空文明和多行星物种'（ev_022）。他公开表示想要'死在火星上，但不是撞击时'（ev_024）。在2020年播客中他说'我们有责任维护意识之光，确保它延续到未来'（ev_029）。这种时间尺度是韦伯意义上的价值理性——为可能永远不会实现的终极目标赋予意义。",
+      "assessment": "Dual-horizon orientation: extreme long-term (multi-generational for Mars, neural interfaces) combined with crisis-driven short-term intensity",
+      "finding": "Musk's stated time horizons span Weber's distinction between traditional/charismatic (qualitative future) and rationalized (quantified planning). Long-term commitments include Mars colonization as species survival insurance (ev_029), Neuralink as human-AI symbiosis hedge (ev_030), and sustainable energy transition (implicit in Tesla founding). These represent mission-scale temporal orientation—optimizing for civilization-level outcomes over decades-centuries. Simultaneously, documented behavior shows intense short-term crisis response: sleeping at office during Zip2 (ev_006), 120-hour weeks during Model 3 production crisis (ev_024), immediate return to work after son's death (ev_048). This creates an unusual temporal pattern: strategic planning operates at generational scales while operational attention operates at crisis scales. His first principles thinking (ev_020) supports long-horizon reasoning by rejecting analogical constraints from current state. However, the crises themselves often appear self-generated through overcommitment and underestimation. The DOGE role (ev_032-033) represents attempting to apply both orientations simultaneously—radical long-term restructuring of government while imposing immediate operational demands. This temporal complexity may reflect Weber's observation that rationalization creates both long-term calculability and immediate pressure toward efficiency.",
       "evidence_ids": [
-        "ev_022",
+        "ev_006",
         "ev_024",
+        "ev_028",
         "ev_029",
-        "ev_030"
+        "ev_048"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "Musk 偏好彻底重建而非渐进修补——当系统失败时，他的解决方案是摧毁并重建",
-      "finding": "Musk 的模式不是修补现有结构，而是创建全新系统。他没有改良航空公司，而是创建SpaceX；没有改良传统汽车，而是创建Tesla；没有改良传统社交媒体，而是收购后解雇80%员工重新设计（ev_018, ev_053）。Hyperloop案例最为典型——他发表白皮书证明可能性后，将技术开源让其他人实现（ev_050），而非在现有交通系统中渐进改进。在DOGE他采用同样策略——不是优化政府流程，而是试图从根本上重构政府运作方式（evt_033）。",
+      "assessment": "Strong preference for structural rebuild over incremental repair when founding new ventures, mixed pattern in operational management",
+      "finding": "Musk's entrepreneurial history shows consistent preference for new institutional creation over patching existing structures: SpaceX was founded to rebuild rocket industry rather than improve existing providers; Tesla to rebuild automotive rather than transform existing manufacturers; Neuralink to rebuild human-machine interface rather than improve existing interfaces; Hyperloop to invent new transportation mode rather than improve rail; Twitter/X restructuring eliminated existing organizational structure rather than reforming it; DOGE aimed to rebuild federal agency operations rather than reform them within existing rules. This represents Weber's ideal type of charismatic foundation—creating new rationalized structures rather than incrementally adjusting existing ones. However, operational decisions show mixed pattern: removing Tesla automation in favor of manual labor represented repair rather than rebuild (ev_037); his personal intervention in production lines was patching rather than redesigning system architecture. The inconsistency may reflect different domains—technical systems get rebuilt while human/organizational systems get patched when under pressure. His stated first principles approach (ev_020) intellectually commits to rebuild (reasoning from fundamental truths), but execution defaults to patch when crisis limits bandwidth. The Twitter rebuild after acquisition was most explicit—a new organizational structure built by elimination rather than transformation.",
       "evidence_ids": [
-        "ev_018",
-        "ev_053",
-        "ev_049",
-        "ev_050",
-        "evt_033"
+        "ev_037",
+        "ev_046",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "Musk 对自身认知模式有部分反思——但这种反思在实践中经常被其冲动性和极端主义所override",
-      "finding": "Musk 确实展现出对自身思维框架的自觉——他明确表述使用'物理学框架'和'第一性原理'（ev_025），并发展出系统化的工程决策流程（ev_016）。然而，这种元认知自觉与其行为模式存在显著张力：尽管他警告AI是'召魔'（ev_026），却创建了Neuralink和xAI；尽管工程师警告Autopilot命名有安全风险，他仍一意孤行导致多人辞职（ev_033）；他在2018年承认'特斯拉的过度自动化是个错误，人类被低估了'（ev_014）。这种认知与行动的断裂表明他的元认知存在盲点——能够反思但难以自我纠正。",
+      "assessment": "Limited metacognition despite high self-awareness in some domains; articulated reasoning patterns frequently diverge from actual behavioral patterns",
+      "finding": "Musk demonstrates what Weber might describe as Verstehen applied asymmetrically—he deeply understands technical systems and can articulate coherent reasoning frameworks (first principles, physics-based thinking), but shows limited awareness of his own behavioral patterns and their consistency. The gap between his articulated first principles methodology (ev_020) and documented prediction failures (ev_026), impulsive management decisions (ev_034, ev_038), and conflict escalation patterns (ev_050) suggests metacognitive blind spots. His self-description of 'demon mode' (ev_050) indicates some pattern awareness but without evident adjustment—acknowledging the pattern occurs but not reducing its occurrence. His statements about working 80-100 hours (ev_033) and being willing to suffer with workers (ev_039) suggest self-awareness about behavioral intensity without recognition of relational costs. The documented emotional solitude (ev_049) and rapid return to work after personal tragedy (ev_048) show awareness of own state without connection to broader pattern implications. Weber's rationalization theory suggests modern actors often lack metacognition about rationalization's effects—the 'iron cage' is built and entered without conscious choice. Musk's case shows high self-awareness within his stated framework (first principles, physics thinking) but blind spots outside it—particularly regarding how his own patterns constitute a form of personal rationalization limiting his freedom even as he tries to expand others' options.",
       "evidence_ids": [
-        "ev_025",
-        "ev_016",
-        "ev_026",
+        "ev_020",
         "ev_033",
-        "ev_014"
+        "ev_048",
+        "ev_049",
+        "ev_050"
       ],
       "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "理性化的自我颠覆者",
-      "definition": "Musk既是最极端的理性化践行者（将效率逻辑推向极致），又是最激进的理性化批判者（试图打破现有技术理性的铁笼）。这种悖论性使其成为韦伯理论中独特的'反铁笼的理性化者'——他用理性化工具摧毁理性化本身创造的制度约束。",
-      "finding": "Musk通过技术理性建立SpaceX和Tesla等高效系统，但这些系统的终极目标——火星殖民、Neuralink、xAI——恰恰是为了打破地球文明的技术官僚铁笼，将人类意识延展到理性化无法存在的星际空间。他的'the algorithm'是理性化的极致，但算法指向的目标却是反理性化的——在物理法则允许的边界上赌博式地扩张人类存在。这使其成为韦伯理论中最复杂的案例：他是铁笼的建筑师，也是试图拆卸铁笼的工程师。",
+      "dimension_name": "rationalization_frontierism",
+      "definition": "The pattern of using rationalized means (calculative thinking, systematic planning, bureaucratic methods) to pursue anti-rationalized ends (existential meaning, cosmic significance, species survival)—creating new rationalized systems to escape or override existing rationalized structures rather than to optimize within them.",
+      "finding": "Musk's ventures consistently attempt to use rationalized tools (engineering, finance, organizational design) to pursue what Weber would classify as value-rational goals—species survival through multi-planetary expansion, consciousness preservation through neural interfaces, sustainable energy through market transformation. These are not efficiency goals (Zweckrationalität) but existential goals (Wertrationalität). However, the means are hyper-rationalized—SpaceX achieves cost reductions through first-principles calculation (ev_010), Tesla through manufacturing optimization, Neuralink through medical technology rationalization. The emergent pattern is 'rationalization frontierism': creating new rationalized institutions (SpaceX, Tesla) to escape or replace existing rationalized industries (aerospace, automotive) while pursuing anti-rationalized ends. This differs from Weber's iron cage metaphor—Musk builds new cages rather than being trapped in existing ones. But the cage-building dynamic persists: his ventures become rationalized structures (bureaucracies, production systems) that constrain their creators. The Twitter/X acquisition most clearly demonstrates this—acquiring a communication platform to 'free' it (ev_047) but immediately imposing hyper-rationalized (and personally controlled) organizational structure (ev_046). The pattern suggests rationalization frontierism as a distinctive modern variant: using rationalization to escape rationalization, but recreating its dynamics in new domains.",
       "evidence_ids": [
-        "ev_022",
-        "ev_024",
-        "ev_037",
-        "ev_016"
+        "ev_010",
+        "ev_020",
+        "ev_046",
+        "ev_047",
+        "ev_055"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "祛魅与重新赋魅的张力",
-      "definition": "Musk同时代表了韦伯意义上的'祛魅'（用第一性原理消除神秘感）和'重新赋魅'（将技术愿景变成新的世俗宗教）。他的工程理性消解了传统意义，但他的火星殖民叙事又创造了新的集体意义——技术成为新的世俗救赎。",
-      "finding": "Musk的思维框架是极度祛魅的——'从物理学框架思考'（ev_025），将火箭降本还原为材料科学计算。然而他的公开表述又充满了韦伯所警告的'诸神之争'：他既警告AI是'召魔'（ev_026），又创建Neuralink来'加入AI'（ev_037）；他将星际旅行重新神圣化为'维护意识之光'（ev_029）。这种张力在其存在性叙事中达到顶峰——'历史将在两条路径间分叉'（ev_022）听起来像是世俗化的末世论，第一性原理思维反而成为新信仰的理性外衣。",
+      "dimension_name": "charismatic_bureaucracy_paradox",
+      "definition": "The tension between charismatic authority (personal vision, direct intervention, crisis response) and bureaucratic rationalization (formal rules, systematic procedures, impersonal coordination)—and the tendency to oscillate between or attempt to fuse them in ways that undermine both.",
+      "finding": "Musk's management style exhibits systematic tension between Weber's charismatic authority type and bureaucratic rationalization. He operates through personal vision and direct intervention ('demon mode', ev_050), making unilateral decisions against institutional advice (ev_034, ev_038), responding to crisis rather than planning for it. Yet his ventures require bureaucratic structures—SpaceX and Tesla are formal corporations with thousands of employees operating through rationalized procedures. The attempted fusion produces documented problems: engineers leave over Autopilot branding disagreements (ev_032), production decisions bypass systematic review (ev_038), organizational restructuring eliminates institutional memory (ev_046). The Twitter acquisition and DOGE role represent attempts to apply charismatic authority directly to large bureaucracies—replacing Twitter's institutional structure with personal control, applying corporate restructuring logic to federal agencies. Weber's authority typology suggests these forms are 'pure types' that rarely coexist cleanly—charismatic authority routinizes into traditional or legal-rational forms over time. Musk appears to resist routinization, maintaining charismatic posture while commanding bureaucratic organizations. The resulting paradox produces both successes (rapid iteration, vision clarity) and dysfunctions (institutional knowledge loss, strategic inconsistency). This emergent dimension captures a distinctive modern pattern: attempting to run rationalized institutions through charismatic rather than bureaucratic coordination.",
       "evidence_ids": [
-        "ev_025",
-        "ev_026",
-        "ev_037",
-        "ev_029",
-        "ev_022"
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_046",
+        "ev_050",
+        "ev_055"
       ],
       "local_support": "moderate"
     }

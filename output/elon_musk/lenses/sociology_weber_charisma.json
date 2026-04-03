@@ -4,174 +4,169 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "Extreme world-shaper: Musk actively constructs new social structures rather than responding to existing ones",
-      "finding": "Musk exemplifies the world-shaper archetype through his systematic creation of parallel institutions (SpaceX, Tesla, Neuralink, xAI, DOGE) that challenge and replace existing industrial and governmental structures. His self-stated mission to 'maximize the probability of the future being better' (ev_030) and his assertion of a 'duty to maintain the light of consciousness' (ev_029) reveal a conception of personal agency that extends far beyond individual achievement to cosmic-scale intervention in human destiny. This aligns with Weber's characterization of the charismatic leader as one who reshapes the social world through pure will, not adaptation to it.",
+      "assessment": "Elon Musk 是典型的 world-shaper，主动创造结构而非响应结构",
+      "finding": "Musk展现出强烈的能动性特征，他不被动等待机会而是主动创造机会。1971年出生后，他在12岁自学编程并出售游戏(evt_003)，17岁为避免南非种族隔离制度兵役而移居加拿大(evt_004)，1995年从斯坦福博士项目退学以便'做一些有意义的事'(evt_005)，2002年用自己100万美元创立SpaceX(evt_009)。他在2008年金融危机期间接管Tesla，将所有剩余资金投入公司——'这不是真正的选择'(ev_015)。这些行为完全符合韦伯所说的卡里斯马领袖的能动性特征：一个人通过超凡品质改变社会结构，而非在既有结构中寻求晋升。",
       "evidence_ids": [
-        "ev_029",
-        "ev_030",
-        "ev_022",
-        "ev_024"
+        "ev_003",
+        "ev_004",
+        "ev_005",
+        "ev_015",
+        "ev_011"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "epistemic_style",
-      "assessment": "Revelatory first-principles reasoning: Musk claims direct access to truth through physics-based intuition rather than empirical analysis",
-      "finding": "Musk's epistemic style is distinctly revelatory rather than analytical. He explicitly frames his thinking as 'reasoning from first principles rather than by analogy' (ev_025), positioning himself as someone who perceives underlying truths that others miss through conventional reasoning. His existential crisis at age 12-15, searching for meaning through philosophy and religion (ev_051), and his subsequent adoption of the Hitchhiker's Guide's method of question-asking as the path to truth, suggests a cognitive orientation toward vision and intuition. This is characteristic of Weber's prophetic charisma—claiming to see what others cannot see.",
+      "assessment": "Musk的认知方式是启示性的，声称从物理学第一性原理'看到'他人看不到的东西",
+      "finding": "Musk在2013年TED访谈中明确阐述了他的第一性原理思维框架：'我倾向于从物理学框架处理问题。物理学教我从第一性原理而非类比推理。'(ev_020)。这种认知方式本质上是启示性的——他声称能够从基本事实推导出他人忽视的结论。12岁时他受Douglas Adams影响，认为'正确表述问题比找到答案更难'(ev_031)。他计算火箭成本的方式不是基于行业惯例，而是从原材料成本推算(ev_010)。这种认知风格在创造性领域有效，但也导致风险——他多次做出未实现的时间预测(evt_018, evt_026)，这表明他的'愿景力'有时超越了可实现的边界。",
       "evidence_ids": [
-        "ev_025",
-        "ev_051",
-        "ev_022",
+        "ev_020",
+        "ev_031",
+        "ev_010",
         "ev_026"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "abstraction_formalization",
-      "assessment": "Dual orientation: Musk creates abstract systems (the 'algorithm') but resists institutional formalization of his personal authority",
-      "finding": "Musk exhibits a complex relationship with abstraction and formalization. He developed a systematic five-step 'algorithm' for engineering problem-solving (ev_016), suggesting high tolerance for formalization. However, his management approach remains intensely personal—personally reviewing code commits (ev_052), firing engineers on the spot for disagreement (ev_054), and maintaining direct control over multiple ventures rather than delegating through formal structures. This tension represents a classic charismatic leader's resistance to routinization: Musk wants systematic thinking but not systematic power distribution. His enterprises are highly formalized in technical terms but personalized in authority terms.",
-      "evidence_ids": [
-        "ev_016",
-        "ev_052",
-        "ev_054",
-        "ev_018"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": "Extreme control-seeking: Musk exercises granular operational control across multiple organizations simultaneously",
-      "finding": "Musk's control orientation is exceptionally high, manifesting across multiple domains. At Twitter, he personally reviewed code commits to determine productivity (ev_052), gave ultimatums requiring 'extremely hardcore work' (ev_53), and laid off 80% of the workforce (ev_018). His 'demon mode' management involves firing people, destroying entire teams' work, and demanding impossible deadlines (ev_042). This aligns with Weber's observation that charismatic authority is inherently personal and direct—Musk refuses intermediate layers of management. His control extends beyond organizational boundaries to technological domains (Starlink decisions in Ukraine, ev_047-48) and now governmental systems (DOGE). The control is not merely coercive but performative—he demonstrates his commitment by sleeping on factory floors (ev_056) and working 120-hour weeks (ev_032).",
-      "evidence_ids": [
-        "ev_052",
-        "ev_053",
-        "ev_018",
-        "ev_042",
-        "ev_056",
-        "ev_032",
-        "ev_047"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Extreme mission prioritization: Musk systematically prioritizes goals over relational comfort, accepting high social costs",
-      "finding": "Musk demonstrates extreme mission prioritization consistent with Weber's prophetic charisma. He explicitly stated 'Nobody ever changed the world on 40 hours a week' (ev_031) and claimed 'my suffering should be greater than theirs' during the Model 3 crisis (ev_012). His first child died at 10 weeks and he returned to work almost immediately, stating 'I'm not sure what sitting around being sad is going to do' (ev_041)—a striking example of instrumental orientation toward personal tragedy. His confrontational approach to advertisers ('Go fuck yourself', ev_019) and his statement that he would 'rather commit seppuku than fail' (ev_35) reveal a willingness to accept severe relational costs in service of mission. This reflects Weber's insight that the charismatic leader may treat relationships as instrumental to the cause.",
-      "evidence_ids": [
-        "ev_031",
-        "ev_012",
-        "ev_041",
-        "ev_019",
-        "ev_035",
-        "ev_032"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": "Extraordinary risk tolerance: Musk accepts near-certain personal financial ruin as acceptable probability for transformative goals",
-      "finding": "Musk's risk posture exemplifies the Weberian charismatic leader's need for visible risk-taking. He explicitly calculated that SpaceX had 'less than 10%' chance of success and 'accepted that I would probably lose everything' (ev_008). He risked nearly everything during the 2008 crisis, borrowing money from friends to pay rent (ev_010) while simultaneously leading Tesla and SpaceX. His 2016 statement that 'The first journeys to Mars will be very dangerous. The risk of fatality is quite high. There's no way around it' (ev_023) frames personal mortality as acceptable collateral for the mission. The 2018 Model 3 production crisis brought Tesla 'within weeks of bankruptcy' (evt_028)—another high-stakes gamble. This pattern of risk-taking is not merely strategic but performative: the willingness to lose everything is itself what establishes charismatic credentials in Weber's framework.",
-      "evidence_ids": [
-        "ev_008",
-        "ev_010",
-        "ev_023",
-        "ev_028",
-        "ev_012"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "Ambivalent: Musk rejects existing hierarchies while creating new ones, embodying the revolutionary outsider who becomes the new establishment",
-      "finding": "Musk's relationship with hierarchy follows Weber's classic charismatic pattern: anti-hierarchical rebellion that creates new hierarchy. He left South Africa to avoid compulsory military service under apartheid (ev_004), dropped out of Stanford after two days to join the Internet revolution (ev_005), and was ousted as CEO of X.com (ev_011)—experiences that reinforced his outsider identity. Yet his enterprises have become extremely hierarchical, with Musk at the apex of multiple organizations. His 2024 shift to become the largest individual political donor in U.S. history ($288 million, ev_046) and leading DOGE (ev_043) represents the classic charismatic trajectory: the revolutionary becomes the establishment. Weber noted this paradox—that successful charismatic movements must create the bureaucracy they originally opposed.",
-      "evidence_ids": [
-        "ev_004",
-        "ev_005",
-        "ev_011",
-        "ev_046",
-        "ev_043",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "Escalation and polarization: Musk uses confrontational tactics that polarize rather than resolve conflicts",
-      "finding": "Musk's conflict strategy consistently involves escalation and polarization rather than negotiation or compromise. His 2018 tweet claiming 'funding secured' to take Tesla private at $420 led to SEC fraud charges (ev_015). At the 2023 DealBook Summit, he told advertisers 'Go fuck yourself' (ev_19), costing Twitter an estimated 79% equity value loss (ev_055). He fires engineers on the spot for disagreeing with him (ev_054). These actions follow Weber's observation that the charismatic leader often resolves conflict through 'either/or' polarization that mobilizes followers by demonizing opponents. Musk frames conflicts in binary terms: 'my way or the highway.' This escalation strategy is functional for charismatic mobilization but destructive for institutional sustainability.",
-      "evidence_ids": [
-        "ev_015",
-        "ev_019",
-        "ev_055",
-        "ev_054",
-        "ev_033"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "time_horizon",
-      "assessment": "Mission-scale temporal orientation: Musk optimizes for multi-generational horizons that render present costs irrelevant",
-      "finding": "Musk's time horizon extends to mission-scale—multi-generational horizons that dwarf conventional planning. His stated goal to 'make life multi-planetary' (ev_022) and his desire 'to die on Mars, just not on impact' (ev_024) frames temporal thinking across centuries. He explicitly presents current challenges as insignificant compared to the ultimate mission: the first Mars journeys will be 'very dangerous' with 'high fatality risk' but this is acceptable because the alternative is 'some eventual extinction event' (ev_023). This aligns with Weber's concept of charismatic temporality—the leader lives in an eternal 'now' that is simultaneously the decisive moment of transformation. Current suffering, financial risk, and relational costs are all justified by their contribution to a future that only the charismatic leader can envision.",
+      "assessment": "Musk偏好概念抽象化，但执行层面经常绕过系统化流程",
+      "finding": "Musk发布Hyperloop白皮书但选择开源而非自己建设，解释为'我只是想证明这是可能的'(ev_022, ev_023)。这显示他对抽象概念的热爱但不完全愿意将其形式化到执行的终点。他承认在Tesla过度自动化是错误——'人类被低估了'(ev_037)，但这是事后反思。他在2018年Model 3危机中经常绕过工程团队做生产决策(ev_038)，表明他在日常运营中经常放弃系统化流程。Isaacson记录了Musk的'demon mode'：'他会解雇人员，摧毁整个团队的工作，要求不可能的截止日期——然后产品 somehow 出货'(ev_050)。这种模式显示他的抽象化能力很强但形式化不足，经常通过个人意志突破系统限制。",
       "evidence_ids": [
         "ev_022",
-        "ev_024",
         "ev_023",
-        "ev_030",
-        "ev_029"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "rebuild_over_patch",
-      "assessment": "Extreme rebuild preference: Musk systematically destroys and reconstructs rather than incrementally improving",
-      "finding": "Musk consistently demonstrates preference for radical reconstruction over incremental improvement. His Twitter acquisition and immediate 80% workforce reduction (ev_018) exemplifies this pattern—the platform was not reformed but fundamentally rebuilt. His management style includes 'destroying entire teams' work' (ev_042) as part of the creative process. His approach to the Model 3 production crisis was to tear down existing systems and rebuild: 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_014). This aligns with Weber's insight that charismatic authority is inherently revolutionary—it cannot accept the existing order and must continuously recreate. The Hyperloop white paper (ev_049) similarly demonstrated his preference for proposing entirely new transportation systems rather than improving existing ones. Rebuilding also serves a charismatic function: each reconstruction demonstrates the leader's continued relevance and supernatural capacity.",
-      "evidence_ids": [
-        "ev_018",
-        "ev_042",
-        "ev_014",
-        "ev_049",
+        "ev_037",
+        "ev_038",
         "ev_050"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "metacognition",
-      "assessment": "Partial awareness with blind spots: Musk displays sophisticated self-monitoring but exhibits classic charismatic distortions in feedback reception",
-      "finding": "Musk demonstrates partial metacognitive awareness but with significant blind spots consistent with Weberian charismatic dynamics. He explicitly reflects on consciousness and meaning ('trying to figure out the meaning of life', ev_051) and appears to monitor his own thinking processes. However, his position at the apex of multiple organizations creates the classic charismatic 'echo chamber' problem: surrounded by employees who depend on his approval, he receives filtered information. His statement 'humans are underrated' (ev_014) after removing automation suggests learning from failure, but this learning occurs within a framework that still centers his own judgment. The tension between his statement that 'there are many nights I sleep alone' (ev_039)—revealing loneliness and uncertainty—and his continued high-risk, high-control patterns suggests incomplete integration of self-knowledge into behavior. The Musk case exemplifies Weber's warning that the charismatic leader cannot easily distinguish between genuine revelation and self-generated illusion.",
+      "construct_key": "control_orientation",
+      "assessment": "Musk展现出极强的控制欲，通过个人意志掌控多个复杂系统",
+      "finding": "Musk的控制导向表现在多个层面：对公司的绝对控制(2008年接管Tesla成为CEO evt_011)，通过推特直接影响市场(evt_025)，以及2022年收购Twitter后立即解雇80%员工(evt_028)。他在2018年发推'没有人一周工作40小时改变世界'(ev_033)，并要求员工每周工作120小时(evt_022)。在DOGE项目中，他被联邦法官认定为'de facto leader'(evt_033)。这种控制欲与韦伯描述的卡里斯马权威特征一致：个人超凡品质完全主导组织的运作。但这也带来了脆弱性——他的控制越强，组织的可持续性越依赖于他个人的持续'证明'。",
       "evidence_ids": [
-        "ev_051",
-        "ev_014",
-        "ev_039",
-        "ev_052",
-        "ev_054"
+        "ev_033",
+        "ev_022",
+        "ev_028",
+        "ev_025",
+        "ev_034"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Musk经常将使命置于人际关系之上，愿意承担人际代价",
+      "finding": "Musk的第一个孩子Nevada Alexander在10周大时死于婴儿猝死综合症，据报道他'几乎立即'回到工作(ev_048)。在2016年IAC火星殖民演讲中，他明确表示'第一批火星旅程将非常危险。死亡风险很高。无法避免。你准备好去死了吗？如果可以，你就是候选人'(ev_028)。他告诉工人'如果工人在受苦，我想和他们一起受苦。我的痛苦应该比他们更大'(ev_039)。在2023年DealBook峰会，他对撤离的广告商说'去你的'(ev_051)。这些行为显示他愿意为了使命牺牲关系舒适度——他将追随者视为实现使命的手段而非目的。这与韦伯所说的卡里斯马领袖的典型特征相符：强烈的使命感使工具化人际关系成为可能。",
+      "evidence_ids": [
+        "ev_048",
+        "ev_028",
+        "ev_039",
+        "ev_051",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Musk展现出极端的风险承担意愿，将个人财务和生命押于使命",
+      "finding": "在创办SpaceX时，Musk评估成功概率低于10%并'接受我可能会失去一切'(ev_011)。他承认在2008年金融危机期间'不得不向朋友借钱付房租'(ev_014)，并将自己的所有钱投入Tesla——'我可以选择让Tesla死去，或者把我所有的钱投进去。那不是真正的选择'(ev_015)。他公开表示'我宁愿切腹也不愿失败'(ev_019)，并称创业为'凝视深渊并吃玻璃'(ev_018)。他每周工作80-100小时(evt_022)，2018年住在工厂车间每周工作120小时监督Model 3生产(evt_024)。这种风险承担是真实的而非表演性的——他确实将个人财富和健康置于风险中以维护其卡里斯马光环。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_015",
+        "ev_018",
+        "ev_019",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Musk本质上反等级，但成功后将创建新的等级结构",
+      "finding": "Musk的成长经历显示对等级制度的早期反抗：17岁离开南非是为了避免参与种族隔离制度的军事服役(ev_004)。2000年他在蜜月期间被PayPal董事会驱逐(ev_009)，这是一次深刻的等级背叛经历。他在多个场合公开对抗权威：2022年收购Twitter并称'鸟已解放'(ev_047)，2023年对广告商爆粗口(evt_029)。然而，韦伯指出卡里斯马领导者的悖论——他们打破等级但最终创建新等级。Musk确实如此：他创建了高度个人化的帝国，每个公司都围绕他运转。在DOGE项目中，他应用'企业方法到政府'——大规模裁员、系统关闭(evt_032)。他对记者说'我不试图成为任何人的救世主。我只是想思考未来而不是悲伤'(ev_042)，这否认卡拉里斯马角色，但其行为模式表明他确实扮演着这一角色。",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_047",
+        "ev_051",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Musk在冲突中倾向升级和极化，使用两极化叙事动员追随者",
+      "finding": "Musk的冲突策略明显是升级而非妥协。2018年他发推考虑以420美元将Tesla私有化——'资金已到位'，这引发SEC诉讼并导致他被迫辞去董事长职位(evt_025)。在2016年IAC演讲中，他将历史描述为两条路径的分叉——'一条是我们永远留在地球上，然后会有某种最终的灭绝事件。另一种是成为一个太空文明和多行星物种'(ev_029)。他在2023年对广告商说'去你的，如果有人想用广告勒索我...去他们的'(ev_051)。这些行为显示典型的卡里斯马冲突策略：通过极化叙事('跟我们还是反我们')来动员追随者。Twitter收购后的做法——'极度硬核'工作或离开(evt_046)——也是制造追随者必须选择立场的场景。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_051",
+        "ev_046",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Musk的时间视野是mission-scale，将每个当下框定为决定性转折点",
+      "finding": "Musk的时间取向明显是长期mission-scale。在2016年IAC演讲中，他谈的是使人类成为'多行星物种'——这是跨越数代人的视野(evt_019)。他在Starlink问题上的立场——'如果我们同意他们的请求，SpaceX将明确成为重大战争行为的帮凶'(ev_044)——显示了超越当下地缘政治的计算。他的Hyperloop概念(evt_016)、Neuralink脑机接口(evt_018)、以及火星殖民计划都指向数十年甚至数百年的影响。然而，这与卡里斯马的紧迫感并存：'历史将沿两个方向分叉'(ev_029)，仿佛当下就是决定人类命运的关键时刻。这种将每个时刻框定为决定性转折点的倾向，是卡里斯马领袖动员追随者的典型策略。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_019",
+        "ev_044",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Musk明显偏好结构性重建而非渐进修补",
+      "finding": "Musk的职业生涯显示了对重建的强烈偏好，而非修补现有系统。从Zip2、PayPal、X.com这些早期公司，到SpaceX、Tesla、Neuralink、Boring Company、DOGE——每次都是进入新领域、创造新结构。他没有在现有航空公司基础上发展SpaceX，而是从零开始；没有加入现有汽车公司，而是创建Tesla。在Twitter收购中，他解雇了80%员工并重塑公司(evt_028)，而非渐进改革。Hyperloop概念他选择开源而不是自己建设(ev_022)——如果不能按他的方式重建，不如将概念留给其他人。Isaacson记录的'demon mode'显示他经常'摧毁整个团队的工作'然后重新开始(ev_050)。这符合韦伯所说的卡里斯马权威的革命性倾向：修补和渐进改良不足以维持卡里斯马光环。",
+      "evidence_ids": [
+        "ev_050",
+        "ev_022",
+        "ev_028",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Musk有一定自我反思但存在回音室效应，坚信自己vision导致认知盲点",
+      "finding": "Musk展现出一定的元认知能力。他否认自己是救世主——'我只是想思考未来而不是悲伤'(ev_042)，这显示他意识到自己被投射了弥赛亚角色。他公开承认在Tesla的自动化过度是错误(ev_037)，表明他能够事后反思。然而，他的元认知存在明显局限：他多次做出未实现的时间预测(evt_018, evt_026)，显示他未能调整自己的判断。他坚持'Autopilot'和'Full Self-Driving'品牌命名，尽管工程师警告这危及生命(evt_032)，这表明他忽视了不同意见。在Starlink事件中，他秘密限制克里米亚附近的范围以防止乌克兰攻击俄罗斯舰船(ev_045)，这显示他有自己的道德计算但未必被团队充分知悉。卡里斯马领袖的认知陷阱——回音室效应——在Musk身上明显存在：追随者的肯定可能替代了真实的现实检验。",
+      "evidence_ids": [
+        "ev_042",
+        "ev_037",
+        "ev_032",
+        "ev_045",
+        "ev_026"
+      ],
+      "local_support": "strong"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "Charismatic Routinization Resistance",
-      "definition": "The degree to which the charismatic leader actively resists the institutionalization and succession that Weber identified as inevitable. This emerges because Musk's pattern of founding and controlling multiple organizations simultaneously—while maintaining personal operational involvement—represents a conscious or unconscious strategy to prevent the 'dailyization' (Veralltäglichung) of his charisma.",
-      "finding": "Musk demonstrates high resistance to charismatic routinization by maintaining direct operational control across multiple organizations rather than delegating to successors or creating institutional structures that could function without him. His personal review of code commits at Twitter (ev_052), his presence on factory floors during production crises (ev_056), and his simultaneous leadership of SpaceX, Tesla, Neuralink, xAI, and DOGE reflect a strategy of perpetual charismatic demonstration. However, this creates an inherent instability: the moment his personal involvement diminishes (as in his step-down from DOGE in 2025, ev_044), the sustainability of his enterprises depends on whether they have achieved genuine institutionalization. Musk's case represents the tension Weber identified between the revolutionary force of charisma and its eventual institutionalization—Musk appears to resist the latter while his enterprises necessarily drift toward it.",
+      "dimension_name": "卡里斯马身体力行 (Embodied Charisma)",
+      "definition": "Musk通过可见的个人牺牲和身体力行来'证明'其使命感，这种'殉道式展示'是其卡里斯马权威的核心维持机制",
+      "finding": "韦伯强调卡里斯马必须通过持续的'证明'来维持。Musk不仅用言语宣称使命，更通过极端的身体力行来展示：2018年Model 3危机期间，他住在工厂车间每周工作120小时，与工人同甘共苦(evt_024)；他曾说自己愿意去火星'如果准备好死亡'(ev_028)。他在2022年Starlink事件中的决策——限制克里米亚附近服务以避免'成为战争帮凶'(ev_044)——显示他愿意承担个人道德风险。他的第一个孩子夭折后'几乎立即'返回工作(ev_048)，以及在Joe Rogan播客中说'我们有责任维护意识的火光'(ev_043)，都显示他将个人痛苦转化为使命的燃料。这种身体力行的殉道式展示，是比言语承诺更强的卡里斯马'证明'。",
       "evidence_ids": [
-        "ev_052",
-        "ev_056",
-        "ev_044",
+        "ev_048",
         "ev_043",
-        "ev_018"
+        "ev_044",
+        "ev_028",
+        "ev_039"
       ],
       "local_support": "moderate"
     },
     {
-      "dimension_name": "Charismatic Performance Authenticity",
-      "definition": "The degree to which the charismatic leader's dramatic gestures, risk-taking, and self-presentation are genuinely felt versus strategically performed. This is theoretically important because Weber noted that the distinction between 'genuine' and 'manufactured' charisma is empirically difficult to maintain—'as long as followers believe, it is real.'",
-      "finding": "Musk's case presents a complex authenticity puzzle. His early childhood experiences of severe bullying (ev_001) and having 'a terrible human being' as a father (ev_002) suggest genuinely formative suffering that informs his later risk tolerance. His statement about first child Nevada's death—that 'sitting around being sad' wouldn't help (ev_041)—reads as authentic coping rather than performance. However, his Falcon Heavy launch, which placed his own Tesla Roadster as payload (ev_020) with his comment about the car 'drifting endlessly through space... being discovered by an alien race' (ev_021), represents a calculated blend of authentic vision and theatrical spectacle that is difficult to disentangle. His sale of 20,000 flamethrowers through The Boring Company (ev_038) suggests awareness of brand management. The authenticity question may be analytically irresolvable in Weber's framework—the question becomes whether the distinction matters functionally. Musk's followers appear to believe, which makes the charisma effective regardless of authenticity.",
+      "dimension_name": "卡里斯马日常化困境 (Charismatic Routinization Dilemma)",
+      "definition": "Musk的多个帝国同时面临日常化压力——他需要在维持个人卡里斯马与建立可持续制度之间寻找平衡",
+      "finding": "Musk现在同时管理多家公司——SpaceX、Tesla、Neuralink、Boring Company、X(原Twitter)、以及DOGE——每个都在日常化过程中。SpaceX已成为NASA的主要承包商(evt_017)，Tesla是上市公司，DOGE被联邦法官认定由他'de facto'领导(evt_033)。韦伯指出卡里斯马运动最终会自我消解——成功的卡里斯马运动变成它最初反抗的那种官僚组织。Musk似乎意识到了这一张力：他在2025年表示'DOGE使命将随着时间推移而加强，因为它将成为政府中的一种生活方式'(ev_055)，这正是日常化的表述。但同时他的个人化控制模式——'demon mode'(ev_050)、随意解雇员工(ev_034)——表明他抗拒制度化。他的困境在于：他需要将个人卡里斯马转化为制度遗产，但他本人似乎是日常化的最大障碍。",
       "evidence_ids": [
-        "ev_001",
-        "ev_002",
-        "ev_041",
-        "ev_020",
-        "ev_021",
-        "ev_038"
+        "ev_055",
+        "ev_050",
+        "ev_034",
+        "ev_033",
+        "ev_017"
       ],
       "local_support": "moderate"
     }

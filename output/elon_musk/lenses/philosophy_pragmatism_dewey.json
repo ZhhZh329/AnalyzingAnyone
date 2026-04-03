@@ -4,166 +4,187 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": " Musk展现了强烈的情境性世界塑造者特质，但带有强烈的掌控欲，而非纯粹的杜威式协作交互",
-      "finding": "Musk的能动性模式体现了杜威式情境行动的核心特征——通过与环境的交互实现目标而非凭空创造。他创办SpaceX（ev_008）、Tesla（ev_011）的过程显示，他在面对航空航天和汽车工业的既有格局时，不是被动适应而是主动重塑情境。然而，这种能动性与他对控制的强烈需求交织在一起。Twitter收购后，他亲自审查代码提交（ev_052）并给予员工'极限加班或离职'的最后通牒（ev_053），这超出了杜威所强调的'通过智慧改造情境'的范畴，呈现出更接近强行控制的特征。",
-      "evidence_ids": [
-        "ev_008",
-        "ev_011",
-        "ev_052",
-        "ev_053"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "epistemic_style",
-      "assessment": " Musk的认知风格部分是工具主义的，但缺乏完整的反思性探究循环，更多是快速行动验证假设",
-      "finding": "Musk明确表述了第一原理思维（ev_025）：'物理学教导我们从第一原理而非类比来推理'。这与杜威的工具主义一致——将思维视为解决问题的工具而非静态教条。然而，他的认知风格缺乏杜威所强调的完整反思性探究循环。面对Falcon 1火箭的三次发射失败（ev_015, ev_016, ev_017），他并没有表现出系统性的问题界定和假设评估，而是直接进行第四次尝试（ev_009）。这种模式更接近杜威所警惕的'鲁莽的试错'而非审慎的探究。在SEC欺诈诉讼中，他发推称'正在考虑以420美元将特斯拉私有化，资金已到位'（ev_015），这种未经充分推理就公开声明的行为，与反思性思维相差甚远。",
-      "evidence_ids": [
-        "ev_025",
-        "ev_015",
-        "ev_016",
-        "ev_017",
-        "ev_009",
-        "ev_015"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "abstraction_formalization",
-      "assessment": " Musk展现了将复杂工程概念有效落地为行动方案的能力，但同时表现出对正式系统的反感和即时性",
-      "finding": "Musk发布的Hyperloop白皮书（ev_049）展示了他将抽象概念系统化表达的能力——'我只是想让人们知道这是可能的'（ev_050）。这体现了杜威所强调的理论落地为行动方案的能力。然而，他的管理风格显示出对正式系统和层级结构的明显反感。在Twitter，他裁减了约80%的员工（ev_018），并采用极简的代码审查方式（ev_052）来替代传统的管理系统。杜威强调'通过智慧地改造情境来实现控制'，但Musk更倾向于绕过情境中的正式结构，直接介入操作层面。这种模式在SpaceX的垂直整合战略中有效，但在需要系统性制度建设的场合（如Twitter的长期运营）则显示出局限性。",
-      "evidence_ids": [
-        "ev_049",
-        "ev_050",
-        "ev_018",
-        "ev_052"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": " Musk表现出强烈的控制取向，远超杜威式智慧改造情境的范畴，倾向于对人和过程施加直接控制",
-      "finding": "从杜威实用主义视角看，Musk的控制取向明显超出了'智慧地改造情境'的范畴。他采用的管理模式被描述为'demon mode'：'当Elon处于恶魔模式时，他会解雇人员，摧毁整个团队的工作，要求不可能的截止日期——然后产品 somehow 最终问世'（ev_042）。他会在现场解雇持不同意见的工程师（ev_054），这种行为与杜威所强调的'将冲突视为共同探究的起点，通过重新界定问题来超越对立'完全相反。在Twitter收购中，他亲自审查代码以确定生产力（ev_052），这反映了一种微观管理倾向，而非通过构建良好情境来引导结果。杜威式控制寻求的是情境的智慧重构，而Musk的控制更接近对人和过程的直接操控。",
-      "evidence_ids": [
-        "ev_042",
-        "ev_054",
-        "ev_052"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": " Musk明确将使命置于关系之上，但这种使命导向与杜威式'个体成长与社群福祉的统一'存在张力",
-      "finding": "Musk多次明确表态使命优先于个人舒适和关系成本。他的宣言'nobody ever changed the world on 40 hours a week'（ev_031）和'工作像地狱一样。我是说，你每周必须投入80到100小时'（ev_032），体现了一种极端的使命驱动取向。在Model 3生产危机期间，他睡在工厂地板上数月（ev_056），并表示'如果工人在受苦，我想和他们一起受苦。我的痛苦应该比他们更大'（ev_012）。然而，这种使命导向与杜威式民主理念存在根本张力。杜威强调真正的使命应'促进而非牺牲关系'。Musk在DealBook峰会对广告商说'如果有人想用广告敲诈我，用钱敲诈我？去他妈的'（ev_019），以及Twitter大规模裁员（ev_018），都显示了为达目标而牺牲关系成本的倾向。",
-      "evidence_ids": [
-        "ev_031",
-        "ev_032",
-        "ev_012",
-        "ev_019",
-        "ev_018"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": " Musk对有方向的冒险持开放态度，但冒险更多基于个人意志而非杜威式审慎探究",
-      "finding": "Musk对高风险持明确的开放态度，这符合杜威式探究对'有方向冒险'的开放性。他创办SpaceX时表示：'我以为成功的可能性小于10%。我接受了我可能会失去一切'（ev_008）。他将第一批火星之旅描述为'非常危险。死亡风险很高。没有办法避免'（ev_023）。然而，这种冒险姿态与杜威式的审慎探究有所不同。杜威强调通过系统的假设检验来降低风险，而Musk的冒险更多带有个人意志驱动的色彩——'If the workers are suffering, I want to suffer with them'（ev_012）更像是一种近乎存在主义的个人承担，而非基于情境分析的审慎决策。他在2002年失去儿子后几乎立即返回工作：'我不知道坐着悲伤能做什么'（ev_041），这种对痛苦的控制性接纳而非通过反思性探究来处理悲痛，体现了其风险 posture 的独特性。",
-      "evidence_ids": [
-        "ev_008",
-        "ev_023",
-        "ev_012",
-        "ev_041"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": " Musk对僵化等级持藐视态度，但他建立的是另一种基于个人威权的等级结构",
-      "finding": "Musk明显反对传统的企业等级结构，这符合杜威式民主对僵化等级的反对。他逃离南非（ev_004）以避免服兵役，辍学离开斯坦福（ev_007）以投身互联网革命，都体现了他对既定体制的反抗。然而，他所建立的并非杜威式的功能性差异基础上的协作结构，而是围绕个人威权构建的等级体系。他在Twitter的' ultimatum '——'要么承诺极限加班，要么带着遣散费离开'（ev_053）——是一种极端的威权表达。杜威式民主接受'基于专业能力的功能性差异'，但Musk的决策模式往往是即时的、个人化的，他的著名'算法'——'最常见的错误是优化本不该存在的东西'（ev_016）——更像是一种直觉性的工程判断而非基于专业分工的协作决策。",
+      "assessment": "Strongly world-shaping; Musk frames himself as active transformer of systems rather than responder to external structures",
+      "finding": "Musk consistently positions himself as the agent who reshapes systems from first principles rather than adapting to existing structures. His emigration from South Africa (ev_004) and abandonment of Stanford after two days (ev_005) both demonstrate rejection of given structures in pursuit of transformative action. His first principles approach at SpaceX—calculating rocket costs from raw materials rather than market rates (ev_010)—exemplifies Dewey's ideal of treating ideas as tools for action rather than static truths. However, his agency is not purely autonomous; he strategically works within institutions (NASA contract, ev_017) and later entered government service (DOGE, ev_032), suggesting a pragmatic relationship with structure that Dewey would recognize as adaptive rather than idealistic. The pattern across Zip2, SpaceX, Tesla, Neuralink, and Boring Company reveals a pragmatist in the Deweyan sense: continuous reconstruction of situations through intelligent action rather than passive adjustment to circumstances.",
       "evidence_ids": [
         "ev_004",
-        "ev_007",
-        "ev_053",
-        "ev_016"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": " Musk倾向于将冲突视为需要压制的存在，而非杜威式的共同探究起点",
-      "finding": "Musk处理冲突的模式与杜威式解决方式完全相反。杜威强调'将冲突视为共同探究的起点，通过重新界定问题来超越对立'，而Musk的模式是直接压制甚至摧毁。Walter Isaacson描述的'demon mode'——'他会解雇人员，摧毁整个团队的工作'（ev_042）——清楚地体现了这一倾向。他会在现场解雇不同意的工程师，然后有时几天后再雇用他们（ev_054），这种模式将冲突视为需要立即压制的威胁，而非可以转化为建设性探究的起点。在Autopilot命名争议中，多名工程师因此辞职（ev_033），显示了他倾向于坚持己见而非通过重新界定问题来达成共识。这种策略在技术决策上可能有效，但在需要团队协作和民主沟通的场合则显示出明显局限。",
-      "evidence_ids": [
-        "ev_042",
-        "ev_054",
+        "ev_005",
+        "ev_010",
+        "ev_020",
+        "ev_032",
         "ev_033"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "time_horizon",
-      "assessment": " Musk同时关注长期使命和即时目标，但他的时间视野更多由个人愿景驱动而非植根于当下情境",
-      "finding": "Musk的时间视野呈现出独特的双重性：长期使命导向与极端即时性并存。他的火星殖民愿景——'历史将沿两个方向分叉。一个是我们永远留在地球，然后会有某种最终的灭绝事件。另一种是成为一个太空文明和多星球物种'（ev_022）——体现了杜威式'经验的连续性'所强调的长期成长轨迹。然而，这一愿景更多是由个人使命驱动（'我想死在火星上，但不是撞击而死'（ev_024）），而非杜威式的'每一步都必须植根于当下情境'。在操作层面，Musk展现出极端的即时性：Model 3生产危机期间连续数月睡在工厂（ev_056），这是对当下情境的极端介入，但并非杜威式的渐进重建，而是近乎绝望的应急反应。他的Hyperloop提案（ev_049）——公开白皮书让其他人去实现——也显示了对长期目标的独特态度：提供愿景而非参与持续的建设过程。",
+      "construct_key": "epistemic_style",
+      "assessment": "Strong first-principles reasoning, but with significant gaps in the full reflective inquiry cycle",
+      "finding": "Musk's epistemic style shows alignment with Dewey's 'first principles' reasoning—he explicitly describes physics as his framework for avoiding analogical thinking (ev_020). This represents the pragmatist emphasis on reasoning from concrete experience rather than inherited dogmas. However, his epistemic process frequently breaks down at the verification stage. The 2018 'funding secured' tweet (ev_040) led to SEC fraud charges (ev_041), suggesting Musk sometimes announces conclusions before completing the inquiry cycle Dewey considered essential. His 2016 prediction of cross-country autonomous driving by 2017 (ev_026) similarly shows premature certainty. The Adams influence he cites (ev_031)—that properly formulating the question is harder than finding answers—shows sophisticated metacognitive awareness, yet this insight seems inconsistently applied. His behavior suggests someone who excels at the hypothesis-generation stage of Dewey's reflective inquiry but sometimes skips the careful validation phase when urgency or confidence overrides systematic checking.",
       "evidence_ids": [
+        "ev_020",
+        "ev_031",
+        "ev_040",
+        "ev_041",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization capability anchored in physical reality; unconventional relationship with implementation",
+      "finding": "Musk demonstrates sophisticated capacity for formalization—he published a 57-page technical white paper on Hyperloop (ev_024) that treated the problem with engineering rigor. His first principles approach (ev_020) explicitly rejects abstraction for its own sake, insisting on grounding reasoning in 'fundamental truths' and raw material costs. This aligns with Dewey's suspicion of abstractions untethered from lived experience. However, Musk's relationship with implementation is unusual: he published Hyperloop as open-source and explained he was 'too busy' to build it (ev_022), later saying he just wanted to 'prove it was possible' (ev_023). The Boring Company began selling hats and flamethrowers (ev_035) before excavating tunnels. These patterns suggest Musk values the formalization and conceptual breakthrough more than the sustained execution that Dewey would consider integral to complete inquiry. His approach treats ideas as genuinely tools—useful for demonstrating possibility or catalyzing others' action—rather than as ends in themselves.",
+      "evidence_ids": [
+        "ev_020",
         "ev_022",
+        "ev_023",
         "ev_024",
-        "ev_056",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Exceptionally high; attempts to control systems, people, processes, and outcomes with minimal tolerance for deviation",
+      "finding": "Musk's control orientation is extreme and manifests across multiple domains. In technical matters, he insisted on 'Autopilot' and 'Full Self-Driving' branding despite engineering warnings about safety risks (ev_032). In management, he fired engineers on the spot for disagreement, sometimes rehiring days later (ev_034)—a pattern Isaacson terms 'demon mode' (ev_050) that shows control through disruption rather than systematic authority. He personally intervened in Model 3 production line design, overriding engineering recommendations (ev_038). His DOGE approach (ev_032, ev_033) applied corporate restructuring to government with mass layoffs and system shutdowns. The Starlink Crimea decision—unilaterally restricting access without Ukrainian consultation (ev_044, ev_045)—demonstrates control over critical geopolitical infrastructure based on his own judgment. Dewey would critique this as a failure to engage in the 'shared inquiry' essential to democratic problem-solving; Musk's control orientation privileges his own judgment over collaborative intelligence-gathering. The pattern suggests someone who experiences loss of control as a threat to the inquiry itself rather than as an opportunity for learning.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_034",
+        "ev_038",
+        "ev_044",
+        "ev_045",
+        "ev_050"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission over relational maintenance; personal relationships suffer significant documented costs",
+      "finding": "Musk's behavior demonstrates systematic prioritization of mission over relational comfort across multiple contexts. After his first son's death at ten weeks, he reportedly returned to work almost immediately, stating 'I'm not sure what sitting around being sad is going to do' (ev_048). He was ousted as PayPal CEO while on honeymoon and commented 'that's the problem with vacations' (ev_009). He described working 80-100 hour weeks as necessary (ev_033) and claimed 'nobody ever changed the world on 40 hours a week.' When his father was described as abusive, Musk chose to live with him after his parents divorced, later calling this 'a mistake' (ev_001)—suggesting even childhood relational decisions were subordinated to other priorities. The Tesla Model 3 crisis shows him living at the factory with workers (ev_039)—a form of solidarity, but one oriented toward mission completion rather than relational depth. Dewey's democratic vision emphasized growth through shared experience; Musk's pattern suggests mission-achievement through intensity of personal effort rather than collaborative relationship-building. His acknowledged emotional solitude ('many nights I sleep alone,' ev_049) is consistent with this orientation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_033",
+        "ev_039",
+        "ev_048",
         "ev_049"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk tolerance; repeatedly gambles entire fortune and wellbeing on low-probability high-impact outcomes",
+      "finding": "Musk's risk posture exemplifies the pragmatist willingness to act under uncertainty, but in an extreme form that Dewey might find concerning. He estimated SpaceX's success probability at less than 10% and 'accepted that I would probably lose everything' (ev_011). When Tesla faced bankruptcy, he invested all remaining money, calling it 'not really a choice' (ev_015)—a phrase revealing how completely mission consumed alternatives. He described entrepreneurship as 'like staring into the abyss and eating glass' (ev_018) and claimed 'I'd rather commit seppuku than fail' (ev_019). During the SpaceX crisis he had to 'borrow money from friends just to pay rent' (ev_014). The Falcon 1 launches show this pattern concretely: after three failures with money for only one more attempt, he continued (ev_013). Musk openly accepts fatality risk for Mars colonists (ev_028). For Dewey, risk-taking in service of problem-solving is integral to inquiry, but the balance between courage and recklessness depends on whether actions are grounded in careful assessment of consequences. Musk's pattern suggests high tolerance for personal destruction in pursuit of transformative outcomes—a pragmatist orientation taken to extreme limits.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_015",
+        "ev_018",
+        "ev_019",
+        "ev_028",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent; rejects hierarchies that constrain his goals but leverages those that serve them",
+      "finding": "Musk's relationship with hierarchy and authority is marked by strategic inconsistency. He emigrated to avoid South African military conscription (ev_004) and left Stanford after two days rather than pursue academic credentials (ev_005)—both show rejection of prescribed paths. His Twitter approach demanded 'extremely hardcore' work or departure (ev_046), treating hierarchy as something to impose rather than respect. He publicly confronted advertisers with 'go fuck yourself' (ev_051), showing willingness to destroy relationships with powerful economic actors. Yet he worked within NASA structures (ev_017), accepted government appointment to DOGE (ev_032), and built Tesla within automotive regulatory frameworks. His political evolution—'I used to be a moderate Democrat. I didn't leave the Democrats. The Democrats left me' (ev_054)—frames hierarchy-relations as responsive to personal utility. Dewey envisioned democracy as collaborative inquiry that transcends rigid hierarchy while respecting expertise; Musk's pattern suggests hierarchy is a tool to be used or discarded based on its service to his goals rather than an embedded feature of social organization he engages with collaboratively.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_017",
+        "ev_032",
+        "ev_046",
+        "ev_051",
+        "ev_054"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalatory; uses conflict as a primary tool for forcing change rather than negotiating or suppressing",
+      "finding": "Musk consistently escalates conflicts rather than pursuing Dewey's model of conflict as an opportunity for collaborative problem redefinition. The Twitter acquisition (ev_028) led to immediate mass layoffs and public declaration 'the bird is freed' (ev_047). His confrontation with advertisers (ev_051) used vulgar language that guaranteed rupture. The 2018 privatization tweet (ev_040) created legal conflict with SEC (ev_041). His management style features 'demon mode'—firing people, destroying teams' work, demanding impossible deadlines (ev_050). The Starlink Crimea decision (ev_045) created conflict with Ukrainian expectations, which he defended based on avoiding 'complicity in a major act of war' (ev_044)—showing principled reasoning, but deployed through unilateral decision rather than dialogue. For Dewey, conflict should initiate reflective inquiry that recontextualizes the problem; Musk's approach uses conflict instrumentally to force outcomes (compliance, change, submission) rather than to deepen collective understanding. His style suggests that conflict functions as a testing mechanism—the intense pressure reveals what matters and what will bend—rather than as a problem-solving phase in shared inquiry.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_041",
+        "ev_045",
+        "ev_047",
+        "ev_050",
+        "ev_051",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term oriented in stated vision, but exhibits impulsive short-term behavior in execution",
+      "finding": "Musk articulates profoundly long-term visions: multiplanetary human existence (ev_029), maintaining 'the light of consciousness' for future (ev_043), reducing Mars colonization cost to median house price (ev_027). These represent Dewey's commitment to consequences extending across generations—the kind of temporal scope that pragmatist ethics would prioritize. However, his actual behavior shows tension with this long-term orientation. The 'funding secured' tweet (ev_040) was a spontaneous public statement that caused immediate market disruption. His Twitter takeover was executed with extreme speed and mass layoffs. His DOGE role (ev_032, ev_033) pursued rapid restructuring of federal government. The pattern suggests someone who holds long-term visions as orienting principles but executes through intense short-term pressure and impulsive communication. For Dewey, temporal horizon involves the continuity of experience—each action reshaping future possibilities. Musk's long-term visions are genuinely Deweyan in scope, but his execution often treats the present as immediately consequential in ways that may undermine the long-term goals he articulates.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_029",
+        "ev_040",
+        "ev_043",
+        "ev_032"
       ],
       "local_support": "moderate"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": " Musk明显偏好结构性重建而非局部修补，但重建更多是基于个人意志的激进变革而非渐进重建",
-      "finding": "Musk的管理风格明确倾向于结构性重建而非局部修补，这符合杜威对持续重建的强调，但实现方式与杜威式渐进重建有所不同。他创办SpaceX来彻底改革航空航天业（ev_013），创办Tesla来重新定义汽车工业（ev_014），这些都体现了结构性变革的取向。杜威强调'既非激进革命也非保守修补'的渐进重建，但Musk的变革往往带有激进色彩。Twitter收购后裁减80%员工（ev_018）、将Twitter更名为X、施加极端工作要求（ev_053），这些都更接近激进变革而非渐进的制度重构。他的'Demon mode'管理模式（ev_042）——'摧毁整个团队的工作'——更是体现了对现有结构的彻底否定而非渐进改进。值得注意的是，他在2025年领导DOGE时采用了类似的企业方法论应用于政府机构（ev_043），这体现了他对系统性重构的偏好，但这种方法的适用性和可持续性仍待观察。",
+      "assessment": "Strong preference for fundamental redesign; demonstrates willingness to abandon failed approaches completely",
+      "finding": "Musk's engineering and business philosophy consistently prioritizes reconstruction over incremental improvement. SpaceX was founded on the calculation that rockets could be built for 10% of market rates (ev_010)—a fundamental redesign of the aerospace industry rather than marginal improvement. The Falcon 1's fourth successful launch (ev_016) came only after completely rebuilding the rocket after three failures, with Musk stating they would 'keep going until we ran out of money' (ev_013). When Model 3 automation proved unworkable, Musk publicly acknowledged 'Excessive automation at Tesla was a mistake. Humans are underrated' (ev_037) and completely rebuilt the production approach. Hyperloop represented a fifth mode of transportation (ev_024) rather than improvement of existing rail. Neuralink proposes fundamental merger of human and machine cognition (ev_030) as response to AI risk. This pattern aligns with Dewey's concept of 'reconstruction'—the pragmatist commitment to fundamental transformation when situations prove problematic rather than mere adjustment. However, the speed and completeness of these rebuilds sometimes lacks the careful experimental character Dewey would emphasize; Musk's approach often involves dramatic pivots driven by his judgment rather than gradual iteration through collective inquiry.",
       "evidence_ids": [
+        "ev_010",
         "ev_013",
-        "ev_014",
-        "ev_018",
-        "ev_053",
-        "ev_042",
-        "ev_043"
+        "ev_016",
+        "ev_024",
+        "ev_037",
+        "ev_030"
       ],
       "local_support": "strong"
     },
     {
       "construct_key": "metacognition",
-      "assessment": " Musk展现出有限的元认知能力，更多依赖直觉和物理框架而非对自身思维过程的系统性监控",
-      "finding": "杜威的反思性思维本质上就是元认知——'对自身探究过程的有意识监控'。从证据来看，Musk的元认知能力呈现出独特的模式。他明确表述的'物理学框架'（ev_025）是一种认知方法论，但更接近于思维框架而非对思维本身的反思。他承认过度自动化是'一个错误。人类被低估了'（ev_014），这显示了一定程度的自我反思，但这种反思更多是事后调整而非对思考过程的前瞻性监控。在2018年的Tweet私有化事件（ev_015）中，他没有展现出对自身决策过程的元认知监控——SEC诉讼随后认定这构成证券欺诈。在面对巨大压力时（如Model 3生产地狱），他选择极限工作而非反思性暂停（ev_013），这与杜威所强调的反思性停顿形成了对比。他的名言'开始一家公司就像凝视深渊并吃玻璃'（ev_034）体现了一种对痛苦的哲学性接纳，但这更多是对创业艰辛的描述而非对自身认知偏见的系统性觉察。",
+      "assessment": "Selective self-awareness; recognizes some patterns but repeatedly fails to see recurring dynamics in his own behavior",
+      "finding": "Musk demonstrates sophisticated metacognitive abilities in specific domains while showing significant blind spots in others. He credits Douglas Adams with teaching him that 'properly phrasing the question' matters more than answers (ev_031)—a metacognitive insight he applies to first principles reasoning. He explicitly acknowledged the Model 3 automation mistake (ev_037), showing capacity to recognize and verbalize his own errors. He describes his childhood as unhappy and calls living with his abusive father 'a mistake' (ev_001, ev_002), demonstrating insight into formative patterns. Yet he repeatedly makes optimistic timeline predictions that don't materialize (ev_026) without apparent recognition of the pattern. His 'demon mode' (ev_050) is documented behavior he appears not to systematically self-regulate. The 'funding secured' tweet (ev_040) represents a significant epistemic failure he did not anticipate or correct before publishing. For Dewey, metacognition is integral to reflective inquiry—monitoring one's own assumptions and reasoning processes. Musk's pattern suggests high metacognitive capacity in analytical domains (physics frameworks, problem formulation) but underdevelopment in social-emotional domains (relational patterns, interpersonal dynamics) and limited transfer across contexts. He seems to apply self-reflection selectively rather than systematically.",
       "evidence_ids": [
-        "ev_025",
-        "ev_014",
-        "ev_015",
-        "ev_013",
-        "ev_034"
+        "ev_001",
+        "ev_002",
+        "ev_031",
+        "ev_026",
+        "ev_037",
+        "ev_040",
+        "ev_050"
       ],
-      "local_support": "weak"
+      "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "extreme_work投入作为存在性实践",
-      "definition": "Musk将极限工作（每周80-100小时）不仅视为达成目标的手段，更近乎一种存在性的自我实现方式。这超出了杜威框架中'通过行动验证假设'的范围，呈现出一种通过极度忙碌来确认自身存在意义的倾向。杜威强调'成长本身作为目的'，但Musk的工作伦理更接近于将痛苦和牺牲本身神圣化。",
-      "finding": "这一维度揭示了Musk工作伦理的独特性：极限工作不仅是工具性的，更是存在性的。他的声明'If the workers are suffering, I want to suffer with them. My suffering should be greater than theirs'（ev_012）将痛苦视为连接自我与他人的存在性纽带，而非需要解决的问题。这与杜威将反思性思维视为智慧探究形成了鲜明对比——Musk更倾向于用行动的热度来替代反思的深度。",
+      "dimension_name": "inquiry_as_crisis_management",
+      "definition": "Musk treats inquiry not as a gradual, cooperative process but as a series of existential crises that function as forcing functions for breakthrough. Dewey conceptualized inquiry as a transformation from indeterminate to determinate situations; Musk appears to prefer situations of extreme indeterminacy as the precondition for revolutionary reconstruction.",
+      "finding": "Across SpaceX, Tesla, and government roles, Musk consistently generates or enters crisis conditions as the primary mode of driving change. SpaceX achieved orbit only after three failures with money for one more attempt (ev_013). Tesla required his complete financial commitment and personal presence at the factory during the Model 3 crisis (ev_024). Twitter was acquired during financial distress, immediately followed by mass layoffs (ev_028). DOGE operated through rapid shutdowns and mass firing (ev_032). This pattern suggests Musk does not engage in Dewey's gradual 'reflective inquiry' but rather uses crisis intensity to bypass organizational resistance and force reconstruction. For Dewey, this approach would be problematic because it eliminates the careful democratic deliberation that grounds legitimate problem-solving. Musk's approach treats uncertainty as fuel for radical action rather than a condition requiring patient, collaborative inquiry. The pattern shows up in his self-description of entrepreneurship as 'eating glass' (ev_018) and willingness to accept personal destruction (ev_019)—he requires the existential pressure of crisis to mobilize his full capacities. This emergent dimension captures something central to Musk's pragmatism that the standard constructs miss: the specific relationship between crisis-tolerance and the reconstruction of problematic situations.",
       "evidence_ids": [
-        "ev_012",
-        "ev_031",
-        "ev_032",
-        "ev_056"
+        "ev_013",
+        "ev_018",
+        "ev_019",
+        "ev_024",
+        "ev_028",
+        "ev_032"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     },
     {
-      "dimension_name": "叙事性使命与工程现实的张力",
-      "definition": "Musk的使命叙事（火星殖民、AI安全、人机融合）具有强烈的史诗性和叙事性，这与他作为工程师的实证倾向形成持续张力。杜威式探究强调从具体情境出发，但Musk的许多行动源于宏大叙事的牵引，这可能导致对当下情境的忽视或过度简化。",
-      "finding": "Musk的火星计划——'我想死在火星上，但不是撞击而死'（ev_024）——是一种典型的叙事性使命宣言，而非基于当前航天技术情境的审慎分析。他的AI警告'summoning the demon'（ev_026）与随后创办xAI形成矛盾，这种叙事驱动而非情境驱动的决策模式，显示了其使命观与杜威式经验连续性的根本差异。",
+      "dimension_name": "democratic_participation_as_instrumental",
+      "definition": "Musk engages democracy instrumentally—when it serves mission goals, he leverages democratic structures; when it obstructs, he works around or through them without engaging the deliberative processes Dewey considered essential to democratic life.",
+      "finding": "Musk's democratic engagement is functional rather than principled. He accepts government roles (DOGE, ev_032) and government contracts (NASA, ev_017) as instruments for achieving his visions. He uses Twitter as a platform for direct public communication, bypassing traditional media gatekeepers—a democratization of voice that he later leveraged for political purposes (ev_030, ev_054). However, his DOGE approach applied corporate restructuring logic to government without engaging democratic deliberation; his Twitter management fired 80% of staff without collaborative process. He frames his political shift as the Democrats 'leaving' him (ev_054), treating party affiliation as personal convenience rather than principled commitment. For Dewey, democracy was a 'way of life' involving continuous participation, dialogue, and shared experience. Musk treats democratic participation as a tool for achieving predetermined goals rather than as an ongoing process of collective inquiry. This instrumental relationship to democratic structures is significant because it reveals how Musk's pragmatism operates selectively—he applies first principles thinking to technical problems while treating democratic participation as secondary to mission achievement when conflicts arise.",
       "evidence_ids": [
-        "ev_024",
-        "ev_026",
-        "ev_022",
-        "ev_027",
-        "ev_037"
+        "ev_017",
+        "ev_030",
+        "ev_032",
+        "ev_034",
+        "ev_054"
       ],
-      "local_support": "moderate"
+      "local_support": "strong"
     }
   ]
 }

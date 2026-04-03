@@ -4,160 +4,174 @@
   "constructs": [
     {
       "construct_key": "agency_orientation",
-      "assessment": "以世界塑造者自居，但在资本主义结构约束内行动",
-      "finding": "Musk明确将自己定位为改变世界的塑造者，通过技术创新（SpaceX、Tesla、Neuralink）追求宏大目标。他声称'我想最大化未来变得更好的概率'（ev_030），将人类意识延续视为己任。然而从马克思视角看，这种能动性本质上是资产阶级的能动性——在资本主义框架内寻求技术突破，而非挑战生产关系本身。他的行动服务于资本的积累和扩张，其'塑造'是在维护而非颠覆现有经济基础。",
+      "assessment": "Strong self-perception as world-shaper, but structurally enabled by capital position",
+      "finding": "Musk consistently presents himself as an agent who bends history to his will: dropping out of Stanford to 'do something meaningful' (ev_005), taking over Tesla when near-bankrupt (ev_015), framing himself as enabling human multi-planetary existence (ev_029). His statement 'Nobody ever changed the world on 40 hours a week' (ev_033) crystallizes this worldview. However, Marx would observe that this agency is not self-generated but structurally enabled—his capacity to take extreme financial risks (SpaceX with personal $100M, ev_009; only 10% success probability, ev_011) was only possible because he had already accumulated capital from Zip2 ($22M, ev_008). His 'first principles' thinking (ev_020) is itself a bourgeois individualist framework that treats the thinking subject as neutral and decontextualized when it is actually shaped by class position. The Marxian analysis reveals a contradiction: Musk sees himself as transcending social structures while his very capacity to act is constituted by his position in the relations of production.",
       "evidence_ids": [
-        "ev_030",
-        "ev_022",
-        "ev_029"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "epistemic_style",
-      "assessment": "自称第一性原理但受资产阶级立场塑造",
-      "finding": "Musk声称'I tend to approach things from a physics framework'（ev_025），强调从第一性原理而非类比推理。然而马克思视角揭示，这种认知方式本身受到其阶级位置的塑造——他将技术视为解决一切问题的终极方案，这恰恰是技术官僚资本主义的意识形态。他对AI的态度（'summoning the demon' ev_026）虽然是警告，但解决方案仍是资本主导的技术开发（OpenAI、xAI），而非反思技术资本主义本身。他的认知框架排除了结构性批判维度。",
-      "evidence_ids": [
-        "ev_025",
-        "ev_026",
-        "ev_037"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "abstraction_formalization",
-      "assessment": "高度系统化、算法化的思维模式",
-      "finding": "Musk发展出名为'the algorithm'的五步工程流程：质疑需求、删除要素、优化流程、加速执行、自动化（ev_016）。他强调'最常见的错误是优化本不应存在的东西'，体现了一种技术乌托邦式的抽象理性。这种思维将社会问题技术化——将复杂的社会关系简化为可优化的工程系统。Neuralink将人脑与AI融合的计划（ev_037）、火星殖民方案（ev_022）都是高度抽象化、系统化的愿景，但忽视了这些技术背后的社会关系和阶级内涵。",
-      "evidence_ids": [
-        "ev_016",
-        "ev_037",
-        "ev_022"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "control_orientation",
-      "assessment": "极强控制欲，体现资产阶级权力意志",
-      "finding": "Musk展现出极端的控制取向。在Twitter收购中，他'亲自审查代码提交以确定生产力'（ev_052），并发出最后通牒要求员工'极其硬核的工作'或离开（ev_053）。他的'demon mode'管理模式包括'解雇人、摧毁整个团队的工作、要求不可能的截止日期'（ev_042）。从马克思角度看，这种控制欲是资产阶级对生产过程绝对控制的表现——他不仅控制资本，还试图通过技术（Neuralink、脑机接口）控制人的生物层面，这代表了异化的最高形式：对劳动者身心的全面控制。",
-      "evidence_ids": [
-        "ev_052",
-        "ev_053",
-        "ev_042"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "mission_vs_relational_cost",
-      "assessment": "Mission优先，愿意牺牲一切包括人际关系",
-      "finding": "Musk明确表示'没有人每周40小时改变世界'（ev_031），他工作'80到100小时每周'（ev_032）。2018年Model 3生产危机时，他在工厂地板上睡了几个月（ev_056），声称'如果工人们受苦，我想和他们一起受苦。我的痛苦应该比他们更大'（ev_012）。他第一个孩子 Nevada 出生10周后死于SIDS，他几乎立即返回工作（ev_041）。从马克思异化理论看，这体现了他与自身类本质的深度异化——工作成了目的本身，人际关系和情感需求被完全压制。更深刻地说，他的'mission'——技术殖民火星、AI发展——本质上是资产阶级对无限资本积累的隐喻。",
-      "evidence_ids": [
-        "ev_031",
-        "ev_032",
-        "ev_012",
-        "ev_041",
-        "ev_056"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "risk_posture",
-      "assessment": "极端风险承担者，但风险被资本地位缓冲",
-      "finding": "Musk描述SpaceX成功概率'不到10%'，并'接受可能失去一切'（ev_008）。2008年他几乎将全部资金投入特斯拉和SpaceX，'向朋友借钱付房租'（ev_010）。他将创业比作'凝视深渊和吃玻璃'（ev_034），宁愿'切腹'也不愿失败（ev_035）。从马克思角度看，这种极端风险承担具有双重性：一方面它确实展现了某种超越资产阶级保守性的冒险精神；另一方面，这种风险的最终承担者并非Musk本人——当公司失败时，是工人（特斯拉工厂员工、SpaceX工程师）承担失业风险，而资本损失通过公司结构被分散。这反映了资产阶级将风险外部化的特征。",
-      "evidence_ids": [
-        "ev_008",
-        "ev_010",
-        "ev_034",
-        "ev_035"
-      ],
-      "local_support": "moderate"
-    },
-    {
-      "construct_key": "relation_to_hierarchy_power",
-      "assessment": "试图颠覆旧权威但建立新权威",
-      "finding": "Musk公开挑战传统权力结构——他离开南非避免种族隔离的强制兵役（ev_004），在2024年成为美国历史上最大个人政治捐赠者（ev_046），直接对抗民主党（ev_045）。但在企业内部，他建立绝对权威——随时解雇持不同意见的工程师（ev_054），在Twitter进行大规模裁员（ev_018）。2025年他领导DOGE，被联邦法官裁定为'de facto leader'（ev_057）。从马克思理论看，这种矛盾反映了资产阶级的权力逻辑：打破旧的统治结构是为了建立新的统治。Musk的、政治转向不是反对权力，而是选择服务于另一个资产阶级派系。",
-      "evidence_ids": [
-        "ev_004",
-        "ev_046",
-        "ev_045",
-        "ev_018",
-        "ev_054",
-        "ev_057"
-      ],
-      "local_support": "strong"
-    },
-    {
-      "construct_key": "conflict_strategy",
-      "assessment": "直接对抗、拒绝妥协",
-      "finding": "Musk在冲突中倾向于直接对抗。2018年SEC诉讼他公开挑衅' funding secured'的420美元推文（ev_015），最终虽被迫和解但从未承认错误。2023年DealBook峰会上他对广告商说'去他妈的'（ev_019）。他曾当场解雇持不同意见的工程师，然后可能几天后重新雇用（ev_054）。从马克思角度看，这种冲突策略反映了资产阶级内部的竞争逻辑——不是寻求调和，而是试图通过绝对胜利确立支配地位。这种策略在特斯拉 Autopilot 命名争议中导致工程师辞职（ev_033），显示了冲突策略对生产过程的破坏性。",
-      "evidence_ids": [
+        "ev_005",
+        "ev_009",
+        "ev_011",
         "ev_015",
-        "ev_019",
-        "ev_054",
+        "ev_020",
+        "ev_029",
         "ev_033"
       ],
       "local_support": "strong"
     },
     {
-      "construct_key": "time_horizon",
-      "assessment": "超长期mission-scale视野",
-      "finding": "Musk的时间视野极具特色：火星殖民计划考虑数万年（ev_022），他表示'我想死在火星上，但不是撞击时'（ev_024）。他的使命被表述为'维持意识之火'（ev_029），这是一个几乎无限的时间框架。从马克思历史唯物主义看，这种超长期视野服务于资本逻辑——火星殖民和AI发展都是资本积累的新前沿，将积累过程延伸到地外空间和人的意识层面。然而，这种视野与当下工人的处境形成尖锐对比：Musk可以为了遥远的未来牺牲当下工人——Model 3生产危机中工人长时间高强度工作，Musk 却在谈论人类成为多行星物种的愿景。",
+      "construct_key": "epistemic_style",
+      "assessment": "Rationalist individualism that masks ideological assumptions as technical truths",
+      "finding": "Musk's epistemic framework is explicitly rationalist-individualist: 'I tend to approach things from a physics framework... reason from first principles rather than by analogy' (ev_020). He frames belief formation as a neutral, technical process of stripping away context to reach 'fundamental truths.' Marx would critique this as ideological naturalization—the presentation of bourgeois individualist assumptions as if they were universal rational principles. His cost-per-kilogram analysis for Mars colonization (ev_027) reduces complex social and political questions to engineering calculations, while his AI risk discourse (ev_025) presents particular class interests as concern for humanity. The epistemic style treats social conditions as fixed parameters to be optimized rather than historically constituted relations to be transformed. This 'standpoint-free' self-conception is precisely what Marx identified as the illusion of the ruling class—presenting its particular viewpoint as universal human reason.",
       "evidence_ids": [
-        "ev_022",
-        "ev_024",
-        "ev_029",
-        "ev_012"
+        "ev_020",
+        "ev_025",
+        "ev_027"
       ],
       "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization applied to social questions, reducing complex relations to technical problems",
+      "finding": "Musk consistently employs rigorous formalization and abstraction, applying physics frameworks to what are fundamentally social and political questions. His 57-page Hyperloop Alpha white paper (ev_024) treats transportation as a technical optimization problem, while his Mars colonization plan reduces existential questions about humanity's future to cost-per-seat calculations ($200,000 target, ev_027). The abstraction form follows Marx's critique of bourgeois economics—treating social relations as things and relations between things. The Hyperloop project specifically reveals the limit of this approach: proposing revolutionary ideas but leaving execution to others (ev_021, ev_022), demonstrating that formal models cannot substitute for actual social organization of production. This abstraction serves an ideological function: presenting capitalist social relations as natural and technical rather than historical and political.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_022",
+        "ev_024",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Extreme control orientation manifesting as managerial intensity and monopoly ambition",
+      "finding": "Musk's control orientation manifests across multiple domains: production (removing Tesla's automation system, ev_037; personally intervening in production line design, ev_038), personnel (firing engineers on the spot, ev_034), information (massive Twitter/X layoffs, ev_046), and political institutions (DOGE restructuring federal agencies, ev_055). His 'demon mode' management style—'firing people, destroying entire teams' work, demanding impossible deadlines' (ev_050)—represents raw managerial control under capital. The Marxian analysis reveals this as the direct exercise of capital's control function over labor. The Twitter acquisition and DOGE role extend this control orientation into new domains: media/information and state administration. Notably, this control is not merely personal but structural—Musk accumulates control over multiple critical infrastructure systems (space launch, electric vehicles, social media, brain-machine interfaces, government efficiency). This concentration of control is consistent with Lenin's analysis of monopoly capital's drive toward total social control.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_037",
+        "ev_038",
+        "ev_046",
+        "ev_050",
+        "ev_055"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission absorption manifests as extreme work dedication and possible emotional alienation",
+      "finding": "Musk explicitly subordinates personal relations and well-being to mission: returning to work almost immediately after his son's death (ev_048), working 80-100 hour weeks (ev_033), stating willingness to 'commit seppuku' rather than fail (ev_019). His own admission of emotional solitude—'many nights I sleep alone' (ev_049)—and pragmatic response to tragedy 'I'm not sure what sitting around being sad is going to do' (ev_048) suggest the prioritization of mission over personal processing. Marx's concept of alienation applies here, but in a specific direction: the capitalist entrepreneur is not merely alienated from the product of labor but from human relationality itself. Musk's 'light of consciousness' rhetoric (ev_043) frames human connections instrumentally—relationships are valuable only insofar as they serve the mission of consciousness preservation. This reveals the limits of the Marxian framework: where Marx saw alienation as stemming from capitalist relations of production, Musk's pattern suggests something closer to Weber's 'iron cage'—the rationalization of all life spheres toward instrumental efficiency.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_019",
+        "ev_033",
+        "ev_043",
+        "ev_048",
+        "ev_049"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Extreme risk tolerance that distributes risk asymmetrically across class lines",
+      "finding": "Musk's risk posture is extreme and self-consciously declared: 'I thought the chance of success was less than 10%. I just accepted that I would probably lose everything' (ev_011); had to 'borrow money from friends just to pay rent' during SpaceX crisis (ev_014). His 'going to extremes rather than accept failure' (ev_019) and entrepreneurial metaphor of 'staring into the abyss and eating glass' (ev_018) frame risk as existential drama. However, Marx would observe that this risk-taking is only possible because of class position—Musk could lose millions and survive because he had millions to lose. The 'risk' is not equivalent to what a worker faces when risking job security. Furthermore, his risk-taking was subsidized by public contracts (NASA's $1.6B contract, ev_017) and later by political patronage (DOGE role). The risk posture is thus not pure individual courage but rather the specific risk tolerance of the rentier class, enabled by social safety nets (bankruptcy protection, family wealth transfers, government contracts). The dramatic self-presentation of risk functions ideologically to obscure the structural conditions that make such risk-taking possible.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_017",
+        "ev_018",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Ambivalent relationship to formal hierarchy, seeking to replace state power with technocratic control",
+      "finding": "Musk's relationship to hierarchy is complex. He operates through formal corporate structures (CEO, chairman) but channels power through personal dominance rather than institutional authority. His Twitter acquisition saw 'the bird is freed' (ev_047) rhetoric framing the takeover as liberation from previous authority. His DOGE role represents the penetration of corporate logic into state hierarchy—applying 'corporate approach to government' with 'mass layoffs, system shutdowns, rapid restructuring' (evt_032). This reflects a neoliberal project: using state power to dismantle state capacity, transferring public functions to private control. His political donation of $288 million (ev_053) and support for Trump represents an alignment with authoritarian-capitalist power rather than traditional party hierarchy. The pattern is not simple hierarchy-seeking but rather hierarchy-subversion—replacing existing authority structures with technocratic-corporate control, which is itself a form of power consolidation. The 'de facto leader' ruling (evt_033) suggests this posture has encountered legal limits.",
+      "evidence_ids": [
+        "ev_047",
+        "ev_053",
+        "evt_032",
+        "evt_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation tendency with public confrontation and legal consequences",
+      "finding": "Musk's conflict strategy is predominantly escalatory. His ouster from PayPal CEO—'That's the problem with vacations' (ev_009)—shows a willingness to confront and replace rivals. The SEC securities fraud suit (ev_041) resulted from his tweet claiming 'funding secured' for Tesla privatization (ev_040), demonstrating risk tolerance for legal confrontation. His DealBook confrontation with advertisers—'Go fuck yourself' (ev_051)—represents direct public escalation. The Starlink-Crimea episode (ev_044, ev_045) shows conflict navigation through unilateral decision-making rather than negotiation. His management style features 'demon mode' destruction of teams (ev_050). This pattern reflects the conflict mode of the capitalist who sees confrontation as natural rather than abnormal—consistent with Marx's analysis of class conflict as built into capitalist relations. Unlike workers who must often suppress conflict to maintain employment, capital-holders can escalate because they own the means of production or can relocate. The Twitter layoffs (ev_046) represent conflict translated into structural violence—eliminating positions rather than negotiating.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_040",
+        "ev_041",
+        "ev_044",
+        "ev_045",
+        "ev_050",
+        "ev_051"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term existential framing combined with immediate tactical action",
+      "finding": "Musk exhibits dual time horizons: long-term existential framing ('History is going to bifurcate along two directions,' ev_029; maintaining 'light of consciousness,' ev_043) and immediate tactical intervention (Twitter takeover, DOGE restructuring). His Mars colonization project targets multi-generational human survival (ev_029), while Neuralink represents technological transcendence of human limits (ev_030). Yet this long-term framing coexists with immediate responses: the Twitter 'freedom' acquisition (ev_047), the 'go fuck yourself' to advertisers (ev_051). This dual horizon is consistent with Marxian analysis of capital's relationship to time—capital has both a long-term interest in reproducing the system and immediate imperatives for accumulation and control. Musk's self-description as someone who 'just wants to think about the future and not be sad' (ev_042) masks the immediate political power accumulation that serves his long-term technological goals. The DOGE role represents compression of long-term restructuring into immediate action.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_042",
+        "ev_043",
+        "ev_047",
+        "ev_051"
+      ],
+      "local_support": "moderate"
     },
     {
       "construct_key": "rebuild_over_patch",
-      "assessment": "坚决选择根本性重建而非局部修补",
-      "finding": "Musk明显偏好彻底重建。在Twitter收购中，他解雇了80%的员工（ev_018），进行了全面改版而非渐进改革。他发布了Hyperloop白皮书，却说'我只是想让人们知道这是可能的'（ev_050），没有亲自参与建设而是开放源码。他的火箭战略从Falcon 1失败中学习，直接跳跃到Falcon 9的完全重新设计。从马克思视角看，这种'重建'的实质是资产阶级对生产资料控制权的重新确认——不是改变生产关系，而是改变技术手段。Twitter的重建不是改变其作为资本流通媒介的性质，而是改变了资本增值的方式。",
+      "assessment": "Strong preference for structural redesign, especially in transportation and space domains",
+      "finding": "Musk consistently prefers structural redesign over incremental improvement. His SpaceX founding principle was to 'build rockets for 10% of the market rate' (ev_010) by questioning fundamental assumptions rather than accepting industry norms. His first principles approach explicitly rejects analogy-based reasoning: 'not saying rockets have always been expensive, so they always will be' (ev_020). The Hyperloop proposal represented a 'fifth mode of transportation' (ev_024) rather than improvement of existing modes. Tesla's vertical integration represents structural redesign of automotive production. The 'rebuild' preference manifests even in personal context—willing to 'commit seppuku' rather than accept failure (ev_019). However, the Twitter acquisition (ev_052, described as 'worst deal since 2008 financial crisis') and some Hyperloop execution patterns (proposing but not building, ev_022) suggest that structural redesign preference may sometimes serve as rhetoric rather than consistent practice. The DOGE restructuring represents the most direct application of rebuild logic to political institutions.",
       "evidence_ids": [
-        "ev_018",
-        "ev_050",
-        "ev_009",
-        "ev_016"
+        "ev_010",
+        "ev_019",
+        "ev_020",
+        "ev_022",
+        "ev_024",
+        "ev_052"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     },
     {
       "construct_key": "metacognition",
-      "assessment": "有限反思，陷入技术乌托邦意识形态",
-      "finding": "Musk展现出一定的自我反思——他承认过度自动化是错误，'人类被低估'（ev_014），承认创业是'吃玻璃'。但这种反思是技术层面的，而非结构性反思。他没有质疑技术资本主义本身——Neuralink、xAI、SpaceX都是资本积累的新形式。2024年他成为最大政治捐赠者（ev_046），完全转向共和党，标志着他放弃了任何可能的对现状的结构性批判。他的'metacognition'停留在'我可以用更好的技术方法达到目标'层面，而非'我应该质疑目标本身'。这是典型的资产阶级意识形态批判能力的缺失——他无法看到自己的思想是被阶级位置塑造的。",
+      "assessment": "Limited self-awareness of structural and ideological dimensions of own thinking",
+      "finding": "Musk demonstrates some metacognitive awareness of personal patterns—acknowledging 'demon mode' (ev_050) and 'excessive automation' as mistakes (ev_037)—but this awareness is limited to tactical and interpersonal domains. He lacks critical awareness of the structural and ideological dimensions of his thinking. His 'first principles' framework explicitly denies the role of social position in shaping cognition (ev_020)—treating his perspective as viewpoint-neutral when it is deeply shaped by class position. He presents technological solutions to what Marx would identify as social and political problems, without recognizing the ideological function of this framing. His self-description as someone who 'just wants to think about the future' (ev_042) masks the particular class interests his actions serve. The Starlink-Crimea decision (ev_044) shows a capacity for moral reasoning but not for structural analysis—他能识别个体行为对战争的影响，却无法理解其商业利益与国家权力之间的系统性关联。马克思的意识形态批判会指出，Musk对自己的认知局限性缺乏系统性的自觉。",
       "evidence_ids": [
-        "ev_014",
-        "ev_046",
-        "ev_045",
-        "ev_042"
+        "ev_020",
+        "ev_037",
+        "ev_042",
+        "ev_050",
+        "ev_044"
       ],
-      "local_support": "strong"
+      "local_support": "moderate"
     }
   ],
   "emergent_constructs": [
     {
-      "dimension_name": "异化表现的独特形态",
-      "definition": "Musk展现了当代资产阶级特有的异化形态——不是传统工人与劳动产品的异化，而是资本所有者与'人类本身'的异化。他对人的态度（工程师、工人）被视为可替换的'人力资源'，他的Neuralink项目试图将人的意识本身技术化，这是异化的极致形态——将人的本质（意识）变成可被资本控制的技术系统。",
-      "finding": "Musk的异化表现为多层次：与劳动产品的异化（他的公司属于股东而非他个人）、与劳动过程的异化（他将工作延伸到极端但不从中获得意义，而是将意义投射到遥远的'使命'）、与类本质的异化（他试图通过Neuralink将人与AI融合，放弃人类本质）、与他人的异化（他的个人生活孤独，ev_039）。但最深刻的异化是他与自身阶级位置的矛盾——他既是资产阶级又是某种意义上的'变革者'，这种张力本身就是异化的表现。",
+      "dimension_name": "technological_solutionism_as_class_ideology",
+      "definition": "The presentation of technological innovation as the solution to social problems, which functions ideologically to obscure the class relations and power structures that produce those problems, while advancing the interests of the technological bourgeoisie.",
+      "finding": "Musk consistently frames social and existential problems as technical challenges solvable through innovation: Mars colonization for human survival (ev_029), Neuralink for human-AI symbiosis (ev_030), Hyperloop for transportation (ev_024), DOGE for government efficiency (ev_055). This 'technological solutionism' (to use Evgeny Morozov's term) performs an ideological function: it diverts attention from the social relations that produce problems (climate change, inequality, governance failure) toward technical fixes that can be delivered by private capital. Marx's base-superstructure analysis reveals this as a form of false consciousness—presenting solutions that serve particular class interests (expanding capital's domains, securing state support for technological ventures) as universal human salvation. The framework naturalizes the role of the tech billionaire as humanity's savior while obscuring that this role is itself constituted by capitalist social relations. Musk's AI risk discourse (ev_025) exemplifies this—framing existential AI threat in terms that justify his own Neuralink venture as protective.",
       "evidence_ids": [
-        "ev_039",
-        "ev_037",
-        "ev_042",
-        "ev_012"
+        "ev_024",
+        "ev_029",
+        "ev_030",
+        "ev_025",
+        "ev_055"
       ],
       "local_support": "strong"
     },
     {
-      "dimension_name": "虚假意识的典型表现",
-      "definition": "Musk展现了资产阶级技术精英的虚假意识——他认为自己是为'人类'工作，而非为资本积累服务。他的使命叙事（火星殖民、AI安全）掩盖了其活动的真实阶级内容：从Tesla获取利润、通过SpaceX获取NASA合同、通过Twitter影响政治。他的'利他主义'修辞服务于更有效的资本积累。",
-      "finding": "Musk的虚假意识体现在：他说'I think we have a duty to maintain the light of consciousness'（ev_029），但他的行动（给特朗普2880万美元 ev_046、与广告商冲突 ev_019、大规模裁员 ev_018）与此完全矛盾。他声称离开南非是为了避免种族隔离的强制兵役（ev_004），但他在2024年支持共和党——一个在许多社会问题上立场相似的政党。他关于AI的警告（ev_026）被他通过xAI的盈利性开发所抵消。这种虚假意识是马克思所说的'意识形态'——看似为普遍人类服务，实则服务于特定阶级利益。",
+      "dimension_name": "entrepreneurial_creative_destruction_as_identity",
+      "definition": "The degree to which personal identity is constituted through the Schumpeterian logic of creative destruction—perceiving oneself as an agent of revolutionary transformation that necessarily destroys existing structures, with destruction itself becoming a source of meaning and legitimacy.",
+      "finding": "Musk's identity is constitutively tied to creative destruction logic. He presents himself as breaking existing structures: rockets (SpaceX disrupting aerospace), automobiles (Tesla disrupting auto industry), social media (Twitter/X disruption), government (DOGE disruption). His 'demon mode' management (ev_050) explicitly channels destruction into organizational control—destroying teams' work, demanding impossible deadlines. The Twitter acquisition framed as 'the bird is freed' (ev_047) and the 'go fuck yourself' to advertisers (ev_051) express destruction-as-liberation rhetoric. This pattern goes beyond strategic behavior to identity constitution—Musk is not merely using destruction tactics but experiencing destruction of existing structures as meaningful in itself. Marx would critique this as the fetishization of capital's creative-destructive dynamic—mistaking the logic of capital accumulation for human emancipation. The historical materialist would note that 'creative destruction' serves the function of maintaining capital accumulation by any means necessary, legitimizing destruction of labor protections, regulatory frameworks, and public institutions in the name of innovation.",
       "evidence_ids": [
-        "ev_029",
-        "ev_046",
-        "ev_019",
-        "ev_018",
-        "ev_004",
-        "ev_026"
+        "ev_047",
+        "ev_050",
+        "ev_051",
+        "evt_032"
       ],
       "local_support": "strong"
     }
