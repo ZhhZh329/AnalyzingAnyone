@@ -600,7 +600,12 @@ async def call_llm(
                     read_timeout=read_timeout,
                 )
         except httpx.HTTPStatusError as e:
-            body = e.response.text[:500]
+            try:
+                # Streaming responses may not have been read yet.
+                await e.response.aread()
+                body = e.response.text[:500]
+            except Exception:
+                body = "<response body unavailable>"
             status = e.response.status_code
             if (status == 429 or 500 <= status < 600) and attempt < _retries - 1:
                 wait = 2 ** (attempt + 1)
