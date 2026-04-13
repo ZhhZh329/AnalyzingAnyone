@@ -12,6 +12,7 @@ Usage:
     uv run python main.py data/elon_musk
 """
 
+import argparse
 import asyncio
 import json
 import sys
@@ -31,6 +32,62 @@ from runtime import (
 ASSEMBLY_CHUNK_CHAR_BUDGET = 4000
 ASSEMBLY_TIMELINE_LIMIT = 40
 ASSEMBLY_EVIDENCE_LIMIT = 60
+
+
+def _read_subject_dir_from_input_file(input_file: Path) -> str:
+    """
+    Accept either:
+    - plain text file containing a subject_dir path
+    - JSON file containing {"subject_dir": "..."} or {"input": "..."}
+    """
+    if not input_file.exists():
+        raise FileNotFoundError(f"Input file not found: {input_file}")
+
+    raw = input_file.read_text(encoding="utf-8").strip()
+    if not raw:
+        raise ValueError(f"Input file is empty: {input_file}")
+
+    if input_file.suffix.lower() == ".json":
+        try:
+            payload = json.loads(raw)
+        except json.JSONDecodeError as exc:
+            raise ValueError(f"Invalid JSON in input file: {input_file}") from exc
+        subject_dir = (payload.get("subject_dir") or payload.get("input") or "").strip()
+        if not subject_dir:
+            raise ValueError(
+                f"JSON input file must contain 'subject_dir' or 'input': {input_file}"
+            )
+        return subject_dir
+
+    return raw
+
+
+def _build_feedback_payload(
+    status: str,
+    subject: str,
+    output_dir: Path,
+    timeline_count: int = 0,
+    evidence_count: int = 0,
+    lens_count: int = 0,
+    flagged_count: int = 0,
+    findings_count: int = 0,
+    report_path: Path | None = None,
+    message: str = "",
+) -> dict:
+    payload = {
+        "status": status,
+        "subject": subject,
+        "output_dir": str(output_dir),
+        "timeline_count": timeline_count,
+        "evidence_card_count": evidence_count,
+        "lens_output_count": lens_count,
+        "flagged_claim_count": flagged_count,
+        "summary_finding_count": findings_count,
+        "message": message,
+    }
+    if report_path is not None:
+        payload["report_path"] = str(report_path)
+    return payload
 
 
 def chunk_sources_by_size(sources: list[dict], max_chars: int = ASSEMBLY_CHUNK_CHAR_BUDGET) -> list[list[dict]]:
@@ -235,7 +292,7 @@ async def assemble_evidence(agent_dir: Path, subject: str, sources: list[dict], 
     return merge_assemblies(subject, partial_assemblies)
 
 
-async def run(subject_dir: str) -> None:
+async def run(subject_dir: str) -> dict:
     # ── Load config ───────────────────────────────────────────
     config = yaml.safe_load(Path("config.yaml").read_text(encoding="utf-8"))
 
@@ -259,7 +316,8 @@ async def run(subject_dir: str) -> None:
     print(f"Discovered agents: { {k: [p.name for p in v] for k, v in agents.items()} }", flush=True)
 
     # ── Load data ─────────────────────────────────────────────
-    data = loader.load(Path(subject_dir))
+    subject_path = Path(subject_dir)
+    data = loader.load(subject_path)
     subject = data["subject"]
     print(f"\nSubject: {subject}", flush=True)
     print(f"Sources loaded: {len(data['sources'])}", flush=True)
@@ -457,11 +515,92 @@ async def run(subject_dir: str) -> None:
     print(f"   synthesis.json           ({findings_count} findings)", flush=True)
     print(f"   report.md", flush=True)
 
+    return _build_feedback_payload(
+        status="ok",
+        subject=subject,
+        output_dir=out_dir,
+        timeline_count=timeline_count,
+        evidence_count=card_count,
+        lens_count=len(valid_annotations),
+        flagged_count=flagged_count,
+        findings_count=findings_count,
+        report_path=report_path,
+        message=f"Pipeline completed for subject_dir={subject_path}",
+    )
+
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: uv run python main.py <subject_dir>")
-        print("Example: uv run python main.py data/elon_musk")
+    parser = argparse.ArgumentParser(
+        description="Run AnalyzingAnyone pipeline with optional file-based input/output feedback."
+    )
+    parser.add_argument(
+        "subject_dir",
+        nargs="?",
+        help="Subject directory, e.g. data/elon_musk",
+    )
+    parser.add_argument(
+        "--input-file",
+        type=str,
+        help="Read subject_dir from a file (text path or JSON with subject_dir/input key).",
+    )
+    parser.add_argument(
+        "--feedback-out",
+        type=str,
+        help="Write a JSON feedback file with run status and artifact locations.",
+    )
+    parser.add_argument(
+        "--check-only",
+        action="store_true",
+        help="Only validate input and dataset availability, do not call LLM.",
+    )
+    args = parser.parse_args()
+
+    if args.subject_dir and args.input_file:
+        print("Use either <subject_dir> or --input-file, not both.")
         sys.exit(1)
 
-    asyncio.run(run(sys.argv[1]))
+    if args.input_file:
+        try:
+            final_subject_dir = _read_subject_dir_from_input_file(Path(args.input_file))
+        except Exception as exc:
+            print(f"Input parse failed: {exc}")
+            sys.exit(1)
+    elif args.subject_dir:
+        final_subject_dir = args.subject_dir
+    else:
+        print("Usage: uv run python main.py <subject_dir>")
+        print("   or: uv run python main.py --input-file input.txt")
+        sys.exit(1)
+
+    subject_path = Path(final_subject_dir)
+    manifest_path = subject_path / "manifest.json"
+    if not subject_path.exists():
+        print(f"Subject directory not found: {subject_path}")
+        sys.exit(1)
+    if not manifest_path.exists():
+        print(f"manifest.json not found in: {subject_path}")
+        sys.exit(1)
+
+    if args.check_only:
+        data = loader.load(subject_path)
+        subject = data["subject"]
+        output_dir = Path("output") / subject.lower().replace(" ", "_")
+        feedback = _build_feedback_payload(
+            status="checked",
+            subject=subject,
+            output_dir=output_dir,
+            message=f"Input valid. Ready to run full pipeline for {final_subject_dir}",
+        )
+    else:
+        feedback = asyncio.run(run(final_subject_dir))
+
+    if args.feedback_out:
+        feedback_path = Path(args.feedback_out)
+        feedback_path.parent.mkdir(parents=True, exist_ok=True)
+        feedback_path.write_text(
+            json.dumps(feedback, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
+        print(f"Feedback written to: {feedback_path}")
+
+    print(json.dumps(feedback, ensure_ascii=False, indent=2))

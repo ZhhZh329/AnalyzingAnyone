@@ -1,0 +1,14 @@
+default:
+  provider: openai
+  model: "gpt-5"
+  max_concurrency: 5
+
+keys:
+  # Fill your API key, then copy this file to llm.yaml
+  # openai: "sk-..."
+  openai: ""
+
+api_bases:
+  # Optional: leave empty to use provider defaults
+  # openai: "https://api.openai.com/v1"
+  openai: ""

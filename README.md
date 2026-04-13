@@ -139,6 +139,19 @@ Then run:
 uv run python main.py data/elon_musk
 ```
 
+New CLI options:
+
+```bash
+# read subject_dir from file (text path or JSON with {"subject_dir": "..."} / {"input": "..."})
+uv run python main.py --input-file input_subject.txt
+
+# dry-run validation only (no LLM call)
+uv run python main.py --check-only --input-file input_subject.txt
+
+# write machine-readable feedback JSON
+uv run python main.py --check-only --input-file input_subject.txt --feedback-out output/check_feedback.json
+```
+
 If successful, outputs are written under:
 
 ```text

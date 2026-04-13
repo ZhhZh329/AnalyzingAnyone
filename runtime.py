@@ -27,7 +27,13 @@ def discover_agents(agents_dir: Path) -> dict[str, list[Path]]:
     result: dict[str, list[Path]] = {}
     for yaml_path in sorted(agents_dir.rglob("agent.yaml")):
         cfg = yaml.safe_load(yaml_path.read_text(encoding="utf-8"))
-        role = cfg["role"]
+        if not isinstance(cfg, dict):
+            print(f"  [runtime] WARNING: invalid agent.yaml (skipped): {yaml_path}")
+            continue
+        role = cfg.get("role")
+        if not role:
+            print(f"  [runtime] WARNING: missing role in agent.yaml (skipped): {yaml_path}")
+            continue
         result.setdefault(role, []).append(yaml_path.parent)
     return result
 
