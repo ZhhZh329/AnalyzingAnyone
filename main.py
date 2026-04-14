@@ -32,6 +32,13 @@ from runtime import (
 ASSEMBLY_CHUNK_CHAR_BUDGET = 4000
 ASSEMBLY_TIMELINE_LIMIT = 40
 ASSEMBLY_EVIDENCE_LIMIT = 60
+CRITIC_EVIDENCE_LIMIT = 30
+CRITIC_ANALYSES_LIMIT = 10
+SYNTH_ANALYSES_LIMIT = 10
+SYNTH_CONSTRUCT_MATRIX_CHAR_LIMIT = 12000
+SYNTH_CRITIC_FLAGS_LIMIT = 30
+REPORT_ANALYSES_LIMIT = 8
+REPORT_CRITIC_FLAGS_LIMIT = 20
 
 
 def _read_subject_dir_from_input_file(input_file: Path) -> str:
@@ -88,6 +95,135 @@ def _build_feedback_payload(
     if report_path is not None:
         payload["report_path"] = str(report_path)
     return payload
+
+
+def _trim_text(value: str, max_chars: int = 300) -> str:
+    text = (value or "").strip()
+    if len(text) <= max_chars:
+        return text
+    return text[: max_chars - 3] + "..."
+
+
+def _prepare_critic_inputs(assembly: dict, analyses: list[dict]) -> tuple[dict, list[dict]]:
+    """
+    MiniMax currently errors on oversized context for critic.
+    Keep the critic stage stable by sending a compact, representative subset.
+    """
+    evidence_cards = assembly.get("evidence_cards", [])
+    timeline = assembly.get("timeline", [])
+
+    selected_cards = evidence_cards[:CRITIC_EVIDENCE_LIMIT]
+    selected_event_ids = {
+        ref
+        for card in selected_cards
+        for ref in card.get("timeline_refs", [])
+    }
+    selected_timeline = [evt for evt in timeline if evt.get("id") in selected_event_ids]
+
+    compact_assembly = {
+        "subject": assembly.get("subject", ""),
+        "timeline": selected_timeline,
+        "evidence_cards": selected_cards,
+    }
+
+    compact_analyses: list[dict] = []
+    for ann in analyses[:CRITIC_ANALYSES_LIMIT]:
+        ann_copy = dict(ann)
+        constructs = []
+        for c in ann_copy.get("constructs", []):
+            c_copy = dict(c)
+            c_copy["assessment"] = _trim_text(c_copy.get("assessment", ""), 260)
+            c_copy["finding"] = _trim_text(c_copy.get("finding", ""), 260)
+            constructs.append(c_copy)
+        ann_copy["constructs"] = constructs
+        emergent = []
+        for e in ann_copy.get("emergent_constructs", []):
+            e_copy = dict(e)
+            e_copy["finding"] = _trim_text(e_copy.get("finding", ""), 260)
+            emergent.append(e_copy)
+        ann_copy["emergent_constructs"] = emergent
+        compact_analyses.append(ann_copy)
+
+    return compact_assembly, compact_analyses
+
+
+def _prepare_synthesis_inputs(
+    analyses: list[dict],
+    critic_output: dict,
+    construct_matrix: str,
+) -> tuple[list[dict], dict, str]:
+    """
+    Keep synthesis payload within provider context limits.
+    """
+    compact_analyses: list[dict] = []
+    for ann in analyses[:SYNTH_ANALYSES_LIMIT]:
+        ann_copy = dict(ann)
+        constructs = []
+        for c in ann_copy.get("constructs", []):
+            c_copy = dict(c)
+            c_copy["assessment"] = _trim_text(c_copy.get("assessment", ""), 240)
+            c_copy["finding"] = _trim_text(c_copy.get("finding", ""), 240)
+            constructs.append(c_copy)
+        ann_copy["constructs"] = constructs
+        emergent = []
+        for e in ann_copy.get("emergent_constructs", []):
+            e_copy = dict(e)
+            e_copy["finding"] = _trim_text(e_copy.get("finding", ""), 240)
+            emergent.append(e_copy)
+        ann_copy["emergent_constructs"] = emergent
+        compact_analyses.append(ann_copy)
+
+    compact_critic = dict(critic_output)
+    compact_critic["flagged_claims"] = (critic_output.get("flagged_claims", []) or [])[
+        :SYNTH_CRITIC_FLAGS_LIMIT
+    ]
+
+    compact_matrix = _trim_text(
+        construct_matrix or "",
+        SYNTH_CONSTRUCT_MATRIX_CHAR_LIMIT,
+    )
+
+    return compact_analyses, compact_critic, compact_matrix
+
+
+def _prepare_report_inputs(
+    analyses: list[dict],
+    critic_output: dict,
+    synthesis: dict,
+) -> tuple[list[dict], dict, dict]:
+    """
+    Keep report payload compact to avoid provider context-window errors.
+    """
+    compact_analyses: list[dict] = []
+    for ann in analyses[:REPORT_ANALYSES_LIMIT]:
+        ann_copy = dict(ann)
+        constructs = []
+        for c in ann_copy.get("constructs", []):
+            c_copy = dict(c)
+            c_copy["assessment"] = _trim_text(c_copy.get("assessment", ""), 220)
+            c_copy["finding"] = _trim_text(c_copy.get("finding", ""), 220)
+            constructs.append(c_copy)
+        ann_copy["constructs"] = constructs
+        emergent = []
+        for e in ann_copy.get("emergent_constructs", []):
+            e_copy = dict(e)
+            e_copy["finding"] = _trim_text(e_copy.get("finding", ""), 220)
+            emergent.append(e_copy)
+        ann_copy["emergent_constructs"] = emergent
+        compact_analyses.append(ann_copy)
+
+    compact_critic = dict(critic_output)
+    compact_critic["flagged_claims"] = (critic_output.get("flagged_claims", []) or [])[
+        :REPORT_CRITIC_FLAGS_LIMIT
+    ]
+
+    compact_synthesis = dict(synthesis)
+    compact_synthesis["summary_findings"] = (synthesis.get("summary_findings", []) or [])[:20]
+    compact_synthesis["complementary_views"] = (synthesis.get("complementary_views", []) or [])[:12]
+    compact_synthesis["tensions"] = (synthesis.get("tensions", []) or [])[:12]
+    compact_synthesis["scenario_implications"] = (synthesis.get("scenario_implications", []) or [])[:12]
+
+    return compact_analyses, compact_critic, compact_synthesis
 
 
 def chunk_sources_by_size(sources: list[dict], max_chars: int = ASSEMBLY_CHUNK_CHAR_BUDGET) -> list[list[dict]]:
@@ -450,10 +586,17 @@ async def run(subject_dir: str) -> dict:
 
     # ── Stage 3: Critic ───────────────────────────────────────
     print("\n[Stage 3] Running critic...", flush=True)
+    critic_assembly, critic_analyses = _prepare_critic_inputs(assembly, valid_annotations)
+    print(
+        f"  [critic] compact payload: "
+        f"{len(critic_assembly.get('evidence_cards', []))} cards, "
+        f"{len(critic_analyses)} analyses",
+        flush=True,
+    )
     critic_output = await run_agent(
         agents["critique"][0],
         "critique",
-        {"subject": subject, "assembly": assembly, "analyses": valid_annotations},
+        {"subject": subject, "assembly": critic_assembly, "analyses": critic_analyses},
         config,
     )
     flagged_count = len(critic_output.get("flagged_claims", []))
@@ -465,14 +608,26 @@ async def run(subject_dir: str) -> dict:
 
     # ── Stage 4: Synthesis ────────────────────────────────────
     print("\n[Stage 4] Synthesizing...", flush=True)
+    synth_analyses, synth_critic, synth_matrix = _prepare_synthesis_inputs(
+        valid_annotations,
+        critic_output,
+        construct_matrix,
+    )
+    print(
+        f"  [synthesize] compact payload: "
+        f"{len(synth_analyses)} analyses, "
+        f"{len(synth_critic.get('flagged_claims', []))} flags, "
+        f"{len(synth_matrix)} chars matrix",
+        flush=True,
+    )
     synthesis = await run_agent(
         agents["synthesize"][0],
         "synthesize",
         {
             "subject": subject,
-            "analyses": valid_annotations,
-            "critic_output": critic_output,
-            "construct_matrix": construct_matrix,
+            "analyses": synth_analyses,
+            "critic_output": synth_critic,
+            "construct_matrix": synth_matrix,
         },
         config,
     )
@@ -486,14 +641,26 @@ async def run(subject_dir: str) -> dict:
 
     # ── Stage 5: Report generation ────────────────────────────
     print("\n[Stage 5] Generating report...", flush=True)
+    report_analyses, report_critic, report_synthesis = _prepare_report_inputs(
+        valid_annotations,
+        critic_output,
+        synthesis,
+    )
+    print(
+        f"  [report] compact payload: "
+        f"{len(report_analyses)} analyses, "
+        f"{len(report_critic.get('flagged_claims', []))} flags, "
+        f"{len(report_synthesis.get('summary_findings', []))} findings",
+        flush=True,
+    )
     report = await run_agent(
         agents["report"][0],
         "report",
         {
             "subject": subject,
-            "synthesis": synthesis,
-            "analyses": valid_annotations,
-            "critic_output": critic_output,
+            "synthesis": report_synthesis,
+            "analyses": report_analyses,
+            "critic_output": report_critic,
         },
         config,
     )
