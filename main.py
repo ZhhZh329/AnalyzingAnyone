@@ -562,13 +562,35 @@ async def run(subject_dir: str) -> dict:
             print(f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: {error}", flush=True)
             continue
 
-        # Ensure discipline and lens fields are set
+        # Normalize unexpected outputs from providers/models.
+        normalized_result = None
         if isinstance(result, dict):
-            result.setdefault("discipline", disc)
-            result.setdefault("lens", lens_key)
-        valid_annotations.append(result)
-        construct_count = len(result.get("constructs", []))
-        emergent_count = len(result.get("emergent_constructs", []))
+            normalized_result = result
+        elif isinstance(result, list):
+            for item in result:
+                if isinstance(item, dict):
+                    normalized_result = item
+                    break
+            if normalized_result is None:
+                print(
+                    f"  [{completed}/{total}] ! {disc}/{lens_key}: "
+                    "unexpected list output (no dict item), skipped",
+                    flush=True,
+                )
+                continue
+        else:
+            print(
+                f"  [{completed}/{total}] ! {disc}/{lens_key}: "
+                f"unexpected output type={type(result).__name__}, skipped",
+                flush=True,
+            )
+            continue
+
+        normalized_result.setdefault("discipline", disc)
+        normalized_result.setdefault("lens", lens_key)
+        valid_annotations.append(normalized_result)
+        construct_count = len(normalized_result.get("constructs", []))
+        emergent_count = len(normalized_result.get("emergent_constructs", []))
         print(
             f"  [{completed}/{total}] ✓ {disc}/{lens_key}: "
             f"{construct_count} constructs, {emergent_count} emergent",
@@ -576,7 +598,7 @@ async def run(subject_dir: str) -> dict:
         )
         # Save individual lens file
         (lenses_dir / f"{disc}_{lens_key}.json").write_text(
-            json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
+            json.dumps(normalized_result, ensure_ascii=False, indent=2), encoding="utf-8"
         )
 
     print(f"  → {len(valid_annotations)}/{len(annotation_specs)} successful", flush=True)
