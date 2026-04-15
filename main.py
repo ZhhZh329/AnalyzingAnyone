@@ -226,6 +226,32 @@ def _prepare_report_inputs(
     return compact_analyses, compact_critic, compact_synthesis
 
 
+def _coerce_to_dict_output(value: object, stage_name: str) -> dict:
+    """
+    Normalize agent outputs that sometimes come back as a list.
+    """
+    if isinstance(value, dict):
+        return value
+    if isinstance(value, list):
+        for item in value:
+            if isinstance(item, dict):
+                print(
+                    f"  [{stage_name}] WARNING: got list output, using first dict item",
+                    flush=True,
+                )
+                return item
+        print(
+            f"  [{stage_name}] WARNING: got list output with no dict item, using empty object",
+            flush=True,
+        )
+        return {}
+    print(
+        f"  [{stage_name}] WARNING: unexpected output type={type(value).__name__}, using empty object",
+        flush=True,
+    )
+    return {}
+
+
 def chunk_sources_by_size(sources: list[dict], max_chars: int = ASSEMBLY_CHUNK_CHAR_BUDGET) -> list[list[dict]]:
     """
     Split sources into stable-size chunks so evidence assembly doesn't rely on one
@@ -474,7 +500,7 @@ async def run(subject_dir: str) -> dict:
     )
     timeline_count = len(assembly.get("timeline", []))
     card_count = len(assembly.get("evidence_cards", []))
-    print(f"  → {timeline_count} timeline events, {card_count} evidence cards", flush=True)
+    print(f"  [assemble] {timeline_count} timeline events, {card_count} evidence cards", flush=True)
     (out_dir / "assembly.json").write_text(
         json.dumps(assembly, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -501,7 +527,7 @@ async def run(subject_dir: str) -> dict:
             print(f"  WARNING: No skills found for {disc_name}, skipping", flush=True)
             continue
 
-        print(f"  {disc_name}: {len(skills)} skill(s) → {[s['key'] for s in skills]}", flush=True)
+        print(f"  {disc_name}: {len(skills)} skill(s) -> {[s['key'] for s in skills]}", flush=True)
 
         for skill in skills:
             annotation_specs.append(
@@ -559,7 +585,7 @@ async def run(subject_dir: str) -> dict:
         completed += 1
 
         if error is not None:
-            print(f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: {error}", flush=True)
+            print(f"  [{completed}/{total}] [fail] {disc}/{lens_key} FAILED: {error}", flush=True)
             continue
 
         # Normalize unexpected outputs from providers/models.
@@ -592,7 +618,7 @@ async def run(subject_dir: str) -> dict:
         construct_count = len(normalized_result.get("constructs", []))
         emergent_count = len(normalized_result.get("emergent_constructs", []))
         print(
-            f"  [{completed}/{total}] ✓ {disc}/{lens_key}: "
+            f"  [{completed}/{total}] [ok] {disc}/{lens_key}: "
             f"{construct_count} constructs, {emergent_count} emergent",
             flush=True,
         )
@@ -601,7 +627,7 @@ async def run(subject_dir: str) -> dict:
             json.dumps(normalized_result, ensure_ascii=False, indent=2), encoding="utf-8"
         )
 
-    print(f"  → {len(valid_annotations)}/{len(annotation_specs)} successful", flush=True)
+    print(f"  [discipline] {len(valid_annotations)}/{len(annotation_specs)} successful", flush=True)
 
     # Build construct matrix for synthesizer
     construct_matrix = build_construct_matrix(valid_annotations, config)
@@ -615,15 +641,16 @@ async def run(subject_dir: str) -> dict:
         f"{len(critic_analyses)} analyses",
         flush=True,
     )
-    critic_output = await run_agent(
+    critic_raw = await run_agent(
         agents["critique"][0],
         "critique",
         {"subject": subject, "assembly": critic_assembly, "analyses": critic_analyses},
         config,
     )
+    critic_output = _coerce_to_dict_output(critic_raw, "critic")
     flagged_count = len(critic_output.get("flagged_claims", []))
     confidence_count = len(critic_output.get("construct_confidence", []))
-    print(f"  → {flagged_count} flagged claims, {confidence_count} construct confidence entries", flush=True)
+    print(f"  [critic] {flagged_count} flagged claims, {confidence_count} construct confidence entries", flush=True)
     (out_dir / "critic_output.json").write_text(
         json.dumps(critic_output, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -642,7 +669,7 @@ async def run(subject_dir: str) -> dict:
         f"{len(synth_matrix)} chars matrix",
         flush=True,
     )
-    synthesis = await run_agent(
+    synthesis_raw = await run_agent(
         agents["synthesize"][0],
         "synthesize",
         {
@@ -653,10 +680,15 @@ async def run(subject_dir: str) -> dict:
         },
         config,
     )
+    synthesis = _coerce_to_dict_output(synthesis_raw, "synthesize")
     findings_count = len(synthesis.get("summary_findings", []))
     tensions_count = len(synthesis.get("tensions", []))
     scenarios_count = len(synthesis.get("scenario_implications", []))
-    print(f"  → {findings_count} findings, {tensions_count} tensions, {scenarios_count} scenario implications", flush=True)
+    print(
+        f"  [synthesize] {findings_count} findings, {tensions_count} tensions, "
+        f"{scenarios_count} scenario implications",
+        flush=True,
+    )
     (out_dir / "synthesis.json").write_text(
         json.dumps(synthesis, ensure_ascii=False, indent=2), encoding="utf-8"
     )
@@ -688,17 +720,17 @@ async def run(subject_dir: str) -> dict:
     )
     report_path = out_dir / "report.md"
     report_path.write_text(report, encoding="utf-8")
-    print(f"  → Report written ({len(report)} chars)", flush=True)
+    print(f"  [report] written ({len(report)} chars)", flush=True)
 
     # ── Done ──────────────────────────────────────────────────
     print(f"\n完成！所有产物已保存至 {out_dir}/", flush=True)
     print(f"   assembly.json            ({timeline_count} events, {card_count} cards)", flush=True)
     print(f"   lenses/                  ({len(valid_annotations)} lens annotations)", flush=True)
     for disc, lens_key in task_meta:
-        marker = "✓" if any(
+        marker = "[ok]" if any(
             a.get("discipline") == disc and a.get("lens") == lens_key
             for a in valid_annotations
-        ) else "✗"
+        ) else "[fail]"
         print(f"     {marker} {disc}_{lens_key}.json", flush=True)
     print(f"   critic_output.json       ({flagged_count} flags)", flush=True)
     print(f"   synthesis.json           ({findings_count} findings)", flush=True)

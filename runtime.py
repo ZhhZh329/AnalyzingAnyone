@@ -839,7 +839,58 @@ async def default_parse_response(
         try:
             return extract_json_from_response(raw2)
         except (json.JSONDecodeError, ValueError) as e:
-            raise ValueError(
-                f"JSON parse failed twice for role={role}.\n"
-                f"Last response:\n{raw2[:500]}"
-            ) from e
+            print(f"  [runtime] JSON parse failed twice for role={role}, attempting repair pass...")
+            repaired = await attempt_json_repair_with_llm(
+                raw2,
+                role,
+                model,
+                api_key,
+                provider=provider,
+                api_base=api_base,
+                max_tokens=min(max_tokens, 4096),
+            )
+            try:
+                return extract_json_from_response(repaired)
+            except (json.JSONDecodeError, ValueError) as repair_error:
+                raise ValueError(
+                    f"JSON parse failed after retry+repair for role={role}.\n"
+                    f"Last response:\n{raw2[:500]}"
+                ) from repair_error
+
+
+async def attempt_json_repair_with_llm(
+    broken_json_text: str,
+    role: str,
+    model: str,
+    api_key: str,
+    provider: str = "anthropic",
+    api_base: str | None = None,
+    max_tokens: int = 4096,
+) -> str:
+    """
+    Ask the model to repair malformed JSON text and return strict JSON only.
+    This is a best-effort fallback for providers/models that occasionally emit
+    invalid JSON (e.g. unescaped quotes or truncated braces).
+    """
+    repair_system = (
+        "You repair malformed JSON. "
+        "Return valid JSON only, with no markdown, no commentary, no extra text. "
+        "Preserve original fields and values whenever possible. "
+        "If the input is truncated, minimally complete the structure."
+    )
+    repair_user = (
+        f"role={role}\n"
+        "Fix this malformed JSON and output strict valid JSON only:\n\n"
+        "```json\n"
+        f"{broken_json_text[:20000]}\n"
+        "```"
+    )
+    return await call_llm(
+        repair_system,
+        repair_user,
+        model,
+        api_key,
+        provider=provider,
+        api_base=api_base,
+        max_tokens=max_tokens,
+    )
