@@ -1,4 +1,4 @@
-# Python-generated files
+﻿# Python-generated files
 __pycache__/
 *.py[oc]
 build/
@@ -17,3 +17,9 @@ llm.yaml
 
 # Debug output
 output/debug_*.json
+
+# Gateway runtime state
+gateway_store/
+
+# Local notes
+中间层完成说明.md

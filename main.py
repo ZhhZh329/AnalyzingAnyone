@@ -1,4 +1,4 @@
-"""
+﻿"""
 main.py — Orchestrator for the V2.1 multi-disciplinary human profiling pipeline.
 
 Stages:

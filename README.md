@@ -1,4 +1,4 @@
-# AnalyzingAnyone
+﻿# AnalyzingAnyone
 
 AnalyzingAnyone is a multi-agent, multi-lens pipeline for building structured public-figure profiles from source material.
 
