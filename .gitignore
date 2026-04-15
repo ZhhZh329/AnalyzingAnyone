@@ -15,3 +15,6 @@ llm.yaml
 
 # Gateway runtime state
 gateway_store/
+
+# Local notes
+中间层完成说明.md
