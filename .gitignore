@@ -5,9 +5,13 @@ build/
 dist/
 wheels/
 *.egg-info
+.DS_Store
 
 # Virtual environments
 .venv
 
 # LLM config with API keys — never commit
 llm.yaml
+
+# Gateway runtime state
+gateway_store/
