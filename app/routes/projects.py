@@ -88,7 +88,7 @@ def get_evidence_assembly(project_id: str, run_id: str) -> ApiResponse:
     return build_success_response(
         request_id=request_id,
         trace_id=detail.run.trace_id,
-        data=assembly.model_dump(mode="json"),
+        data=assembly,
         status=detail.run.status.value,
     )
 

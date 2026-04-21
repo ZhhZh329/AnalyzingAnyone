@@ -21,7 +21,6 @@ from .schemas import (
     DEFAULT_STAGE_KEYS,
     CreateProjectRequest,
     CreateRunRequest,
-    EvidenceAssemblyView,
     FinalReport,
     Run,
     RunDetail,
@@ -333,13 +332,26 @@ class GatewayService:
         stages = [StageStatus(**stage) for stage in status_doc.get("stages", [])]
         return RunDetail(run=run, stages=stages)
 
-    def get_evidence_assembly(self, project_id: str, run_id: str) -> EvidenceAssemblyView:
+    def get_evidence_assembly(self, project_id: str, run_id: str) -> dict[str, Any]:
         self._assert_run_project(project_id, run_id)
         artifact = self._resolve_run_output_dir(run_id) / "assembly.json"
         if not artifact.exists():
             self._raise_missing_artifact(run_id, "assembly", artifact)
         data = self._read_json(artifact)
-        return EvidenceAssemblyView(**data)
+        if not isinstance(data, dict):
+            raise GatewayError(
+                "ASSEMBLY_FORMAT_INVALID",
+                "assembly artifact is not a valid JSON object",
+                status_code=500,
+                details={"run_id": run_id, "artifact": str(artifact)},
+            )
+
+        # Keep the response robust to new/extra fields while preserving the
+        # minimal contract expected by downstream callers.
+        data.setdefault("subject", "")
+        data.setdefault("timeline", [])
+        data.setdefault("evidence_cards", [])
+        return data
 
     def get_report(self, project_id: str, run_id: str) -> FinalReport:
         self._assert_run_project(project_id, run_id)
