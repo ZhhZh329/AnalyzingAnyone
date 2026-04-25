@@ -61,7 +61,7 @@ body {
   width: 100%;
   height: 14px;
   transform-origin: center;
-  animation: helixDrift 5s ease-in-out infinite;
+  animation: helixDrift 4.2s ease-in-out infinite;
 }
 
 .helix-line {
@@ -87,7 +87,7 @@ body {
     transform: translateX(0px);
   }
   50% {
-    transform: translateX(3px);
+    transform: translateX(6px);
   }
 }
 

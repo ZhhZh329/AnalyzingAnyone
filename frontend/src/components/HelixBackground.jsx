@@ -17,7 +17,7 @@
 
         return {
           id: i,
-          top: 14 + i * 14,
+          top: 14 + i * 30,
           leftX,
           rightX,
           tilt,
@@ -42,6 +42,7 @@
                     left: `${row.leftX}px`,
                     width: `${lineLength}px`,
                     transform: `translateY(-50%) rotate(${row.tilt}deg)`,
+                    height: '2px',
                     opacity: 0.62,
                     background: '#CBD9F4',
                   }}
@@ -49,13 +50,13 @@
 
                 <span
                   className="helix-base"
-                  style={{ left: `${row.leftX}px`, opacity: row.opacity, color: '#355C9A', fontSize: '15px' }}
+                  style={{ left: `${row.leftX}px`, opacity: row.opacity, color: '#355C9A', fontSize: '60px' }}
                 >
                   {row.leftChar}
                 </span>
                 <span
                   className="helix-base"
-                  style={{ left: `${row.rightX}px`, opacity: row.opacity * 0.66, color: '#86A6DA', fontSize: '15px' }}
+                  style={{ left: `${row.rightX}px`, opacity: row.opacity * 0.66, color: '#86A6DA', fontSize: '60px' }}
                 >
                   {row.rightChar}
                 </span>
