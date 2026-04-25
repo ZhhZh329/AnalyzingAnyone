@@ -2,8 +2,8 @@ const I18N_DICT = {
   zh: {
     landing: {
       protocol: '版本 0.1',
-      status: '处理中...',
-      title: 'Analyzing\nAnyone\n重构认知的架构',
+      status: '',
+      title: 'Analyzing\nAnyone',
       blurb: '选取文本语料库，将该语料库转换为时间线和证据卡片，通过多个特定理论专家agent分析，生成人物调研报告',
       enter: '开始分析',
     },
