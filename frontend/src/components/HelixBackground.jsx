@@ -31,7 +31,7 @@
 
     return (
       <div className="helix-canvas" aria-hidden="true">
-        <div className="helix-column">
+        <div className="helix-column" style={{ left: '68%' }}>
           {rows.map((row) => {
             const lineLength = row.rightX - row.leftX;
             return (
@@ -43,13 +43,20 @@
                     width: `${lineLength}px`,
                     transform: `translateY(-50%) rotate(${row.tilt}deg)`,
                     opacity: 0.62,
+                    background: '#CBD9F4',
                   }}
                 ></span>
 
-                <span className="helix-base" style={{ left: `${row.leftX}px`, opacity: row.opacity, color: '#111111' }}>
+                <span
+                  className="helix-base"
+                  style={{ left: `${row.leftX}px`, opacity: row.opacity, color: '#355C9A', fontSize: '15px' }}
+                >
                   {row.leftChar}
                 </span>
-                <span className="helix-base" style={{ left: `${row.rightX}px`, opacity: row.opacity * 0.66, color: '#777777' }}>
+                <span
+                  className="helix-base"
+                  style={{ left: `${row.rightX}px`, opacity: row.opacity * 0.66, color: '#86A6DA', fontSize: '15px' }}
+                >
                   {row.rightChar}
                 </span>
               </div>
