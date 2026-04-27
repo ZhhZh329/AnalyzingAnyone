@@ -17,10 +17,14 @@ from pathlib import Path
 from typing import Any
 
 from .errors import GatewayError, generate_prefixed_id, now_local
+from .repository import GatewayRepository
 from .schemas import (
     DEFAULT_STAGE_KEYS,
+    ArtifactRefs,
+    AuxiliaryInfo,
     CreateProjectRequest,
     CreateRunRequest,
+    ErrorDetail,
     EvidenceAssemblyView,
     FinalReport,
     Run,
@@ -49,12 +53,11 @@ MAX_SOURCE_CHARS = int(os.environ.get("GATEWAY_MAX_SOURCE_CHARS", "12000"))
 class GatewayService:
     def __init__(self) -> None:
         self.store_root = Path(os.environ.get("GATEWAY_STORE_ROOT", REPO_ROOT / "gateway_store"))
-        self.projects_root = self.store_root / "projects"
-        self.runs_root = self.store_root / "runs"
-        self.projects_root.mkdir(parents=True, exist_ok=True)
-        self.runs_root.mkdir(parents=True, exist_ok=True)
+        self.repo = GatewayRepository(self.store_root)
+        self.projects_root = self.repo.projects_root
+        self.runs_root = self.repo.runs_root
 
-    def create_project(self, payload: CreateProjectRequest) -> dict[str, Any]:
+    def create_project(self, payload: CreateProjectRequest, *, request_id: str) -> dict[str, Any]:
         project_id = generate_prefixed_id("proj")
         subject_id = generate_prefixed_id("subj")
         created_at = now_local().isoformat()
@@ -69,11 +72,23 @@ class GatewayService:
             },
             "status": "active",
             "created_at": created_at,
+            "updated_at": created_at,
+            "request_id": request_id,
             "latest_package_id": None,
         }
         project_dir = self._project_dir(project_id)
         (project_dir / "packages").mkdir(parents=True, exist_ok=True)
         self._write_json(project_dir / "project.json", project)
+        self.repo.append_request_event(
+            project_dir,
+            {
+                "request_id": request_id,
+                "event_type": "create_project",
+                "created_at": created_at,
+                "project_id": project_id,
+                "subject_id": subject_id,
+            },
+        )
         return {
             "project_id": project_id,
             "subject_id": subject_id,
@@ -84,6 +99,7 @@ class GatewayService:
         self,
         project_id: str,
         *,
+        request_id: str,
         subject_id: str,
         filename: str,
         package_type: str,
@@ -134,6 +150,9 @@ class GatewayService:
             "sha256": sha256,
             "status": "processing",
             "created_at": now_local().isoformat(),
+            "updated_at": now_local().isoformat(),
+            "request_id": request_id,
+            "trace_id": trace_id,
             "user_notes": user_notes,
             "default_source_hint": default_source_hint,
             "raw_file_count": 0,
@@ -225,7 +244,22 @@ class GatewayService:
         )
 
         project["latest_package_id"] = package_id
+        project["updated_at"] = now_local().isoformat()
         self._write_json(self._project_dir(project_id) / "project.json", project)
+        self.repo.append_request_event(
+            package_dir,
+            {
+                "request_id": request_id,
+                "trace_id": trace_id,
+                "event_type": "ingest_package",
+                "created_at": now_local().isoformat(),
+                "project_id": project_id,
+                "subject_id": subject_id,
+                "package_id": package_id,
+                "filename": filename,
+                "package_type": package_type.lower(),
+            },
+        )
 
         return trace_id, {
             "package_id": package_id,
@@ -244,7 +278,7 @@ class GatewayService:
             "warnings": package_record["warnings"],
         }
 
-    def create_run(self, project_id: str, payload: CreateRunRequest) -> dict[str, Any]:
+    def create_run(self, project_id: str, payload: CreateRunRequest, *, request_id: str) -> dict[str, Any]:
         project = self._load_project(project_id)
         if project["subject"]["id"] != payload.subject_id:
             raise GatewayError(
@@ -280,20 +314,41 @@ class GatewayService:
             "project_id": project_id,
             "subject_id": payload.subject_id,
             "package_id": package["id"],
+            "request_id": request_id,
             "trace_id": trace_id,
             "subject_display_name": project["subject"]["display_name"],
             "status": RunStatus.QUEUED.value,
             "current_stage": None,
             "started_at": now_local().isoformat(),
             "finished_at": None,
+            "updated_at": now_local().isoformat(),
             "output_ref": None,
             "feedback_ref": str(run_feedback_path),
+            "input_snapshot_ref": str((input_dir / "manifest.json").resolve()),
+            "status_ref": str((run_dir / "status.json").resolve()),
+            "stdout_ref": str((meta_dir / "stdout.log").resolve()),
+            "stderr_ref": str((meta_dir / "stderr.log").resolve()),
             "run_config": payload.run_config.model_dump(),
         }
         self._write_json(meta_dir / "run.json", run_record)
         status_doc = self._initial_status_document(run_record)
         self._mark_stage_success(status_doc, "input_normalize", output_ref=str(input_dir))
         self._write_json(run_dir / "status.json", status_doc)
+        request_events_ref = self.repo.append_request_event(
+            meta_dir,
+            {
+                "request_id": request_id,
+                "trace_id": trace_id,
+                "event_type": "create_run",
+                "created_at": now_local().isoformat(),
+                "project_id": project_id,
+                "subject_id": payload.subject_id,
+                "package_id": package["id"],
+                "run_id": run_id,
+            },
+        )
+        run_record["request_events_ref"] = str(request_events_ref.resolve())
+        self._write_json(meta_dir / "run.json", run_record)
 
         worker = threading.Thread(
             target=self._run_workflow_process,
@@ -304,6 +359,8 @@ class GatewayService:
 
         return {
             "run_id": run_id,
+            "project_id": project_id,
+            "subject_id": payload.subject_id,
             "trace_id": trace_id,
             "status": RunStatus.QUEUED.value,
             "stage_count": len(DEFAULT_STAGE_KEYS),
@@ -319,27 +376,65 @@ class GatewayService:
                 details={"project_id": project_id, "run_id": run_id},
             )
         status_doc = self._read_json(self._run_dir(run_id) / "status.json")
+        output_dir = self._resolve_run_output_dir(run_id)
+        manifest = self._load_run_manifest(output_dir)
+        merged_status = self._merge_status_with_manifest(status_doc, manifest)
         run = Run(
             id=run_record["id"],
             project_id=run_record["project_id"],
             subject_id=run_record["subject_id"],
             trace_id=run_record["trace_id"],
-            status=status_doc.get("status", run_record["status"]),
-            current_stage=status_doc.get("current_stage"),
-            started_at=status_doc.get("started_at", run_record.get("started_at")),
-            finished_at=status_doc.get("finished_at", run_record.get("finished_at")),
-            output_ref=run_record["output_ref"],
+            status=self._normalize_run_status(merged_status.get("status", run_record["status"])),
+            current_stage=merged_status.get("current_stage"),
+            started_at=merged_status.get("started_at", run_record.get("started_at")),
+            finished_at=merged_status.get("finished_at", run_record.get("finished_at")),
+            output_ref=str(output_dir) if output_dir else run_record["output_ref"],
         )
-        stages = [StageStatus(**stage) for stage in status_doc.get("stages", [])]
-        return RunDetail(run=run, stages=stages)
+        stages = [StageStatus(**stage) for stage in merged_status.get("stages", [])]
+        error_payload = merged_status.get("error")
+        error = ErrorDetail(**error_payload) if error_payload else None
+        artifacts = ArtifactRefs(
+            output_dir=str(output_dir) if output_dir else run_record.get("output_ref"),
+            run_manifest_ref=self._manifest_ref(output_dir),
+            assembly_ref=self._artifact_ref(str(output_dir) if output_dir else run_record.get("output_ref"), "assembly.json"),
+            critic_output_ref=self._artifact_ref(str(output_dir) if output_dir else run_record.get("output_ref"), "critic_output.json"),
+            synthesis_ref=self._artifact_ref(str(output_dir) if output_dir else run_record.get("output_ref"), "synthesis.json"),
+            report_ref=self._artifact_ref(str(output_dir) if output_dir else run_record.get("output_ref"), "report.md"),
+            feedback_ref=run_record.get("feedback_ref"),
+            stdout_ref=run_record.get("stdout_ref"),
+            stderr_ref=run_record.get("stderr_ref"),
+        )
+        auxiliary = AuxiliaryInfo(
+            request_id=run_record.get("request_id"),
+            created_at=run_record.get("started_at"),
+            updated_at=run_record.get("updated_at") or merged_status.get("updated_at"),
+            input_snapshot_ref=run_record.get("input_snapshot_ref"),
+            status_ref=run_record.get("status_ref"),
+            manifest_ref=self._manifest_ref(output_dir),
+            request_events_ref=run_record.get("request_events_ref"),
+            latest_feedback_ref=run_record.get("feedback_ref"),
+            latest_stdout_ref=run_record.get("stdout_ref"),
+            latest_stderr_ref=run_record.get("stderr_ref"),
+        )
+        return RunDetail(run=run, stages=stages, error=error, artifacts=artifacts, auxiliary=auxiliary)
 
-    def get_evidence_assembly(self, project_id: str, run_id: str) -> EvidenceAssemblyView:
+    def get_evidence_assembly(self, project_id: str, run_id: str) -> dict[str, Any]:
         self._assert_run_project(project_id, run_id)
         artifact = self._resolve_run_output_dir(run_id) / "assembly.json"
         if not artifact.exists():
             self._raise_missing_artifact(run_id, "assembly", artifact)
         data = self._read_json(artifact)
-        return EvidenceAssemblyView(**data)
+        if not isinstance(data, dict):
+            raise GatewayError(
+                "ASSEMBLY_FORMAT_INVALID",
+                "assembly artifact is not a valid JSON object",
+                status_code=500,
+                details={"run_id": run_id, "artifact": str(artifact)},
+            )
+        data.setdefault("subject", "")
+        data.setdefault("timeline", [])
+        data.setdefault("evidence_cards", [])
+        return data
 
     def get_report(self, project_id: str, run_id: str) -> FinalReport:
         self._assert_run_project(project_id, run_id)
@@ -358,12 +453,12 @@ class GatewayService:
 
     def _run_workflow_process(self, run_id: str, run_input_path: Path, run_feedback_path: Path) -> None:
         run_dir = self._run_dir(run_id)
-        run_record = self._load_run_record(run_id)
         status_path = run_dir / "status.json"
         stdout_path = run_dir / "meta" / "stdout.log"
         stderr_path = run_dir / "meta" / "stderr.log"
         env = os.environ.copy()
         self._mark_stage_running(status_path, "assemble")
+        self._update_run_record(run_id, status=RunStatus.RUNNING.value, current_stage="assemble")
 
         override = os.environ.get("GATEWAY_WORKFLOW_COMMAND")
         if override:
@@ -401,6 +496,7 @@ class GatewayService:
                         "feedback_ref": str(run_feedback_path),
                     },
                 )
+                self._update_run_record(run_id, status=RunStatus.FAILED.value, finished_at=now_local().isoformat())
                 return
             feedback = self._load_feedback(run_feedback_path)
             output_dir = self._normalize_output_dir(feedback["output_dir"])
@@ -417,8 +513,11 @@ class GatewayService:
                     message=feedback.get("message", "workflow reported a non-ok status"),
                     details=feedback,
                 )
+                self._update_run_record(run_id, status=RunStatus.FAILED.value, current_stage="report")
                 return
             self._ensure_final_status(status_path, output_ref=str(output_dir))
+            final_status = self._read_json(status_path).get("status", RunStatus.COMPLETED.value)
+            self._update_run_record(run_id, status=final_status, current_stage="report")
         except Exception as exc:  # pragma: no cover
             self._mark_run_failed(
                 status_path,
@@ -426,6 +525,7 @@ class GatewayService:
                 message="failed to launch workflow process",
                 details={"exception": str(exc)},
             )
+            self._update_run_record(run_id, status=RunStatus.FAILED.value, finished_at=now_local().isoformat())
 
     def _parse_files_to_sources(
         self,
@@ -991,6 +1091,126 @@ class GatewayService:
             return output_dir
         return self._run_dir(run_id) / "output"
 
+    def _load_run_manifest(self, output_dir: Path) -> dict[str, Any] | None:
+        manifest_path = output_dir / "run_manifest.json"
+        if not manifest_path.exists():
+            return None
+        manifest = self._read_json(manifest_path)
+        return manifest if isinstance(manifest, dict) else None
+
+    def _merge_status_with_manifest(self, status_doc: dict[str, Any], manifest: dict[str, Any] | None) -> dict[str, Any]:
+        if not manifest:
+            return status_doc
+
+        merged = json.loads(json.dumps(status_doc))
+        manifest_status = manifest.get("status")
+        if manifest_status:
+            merged["status"] = self._normalize_run_status(manifest_status).value
+        manifest_started = manifest.get("started_at")
+        if manifest_started and not merged.get("started_at"):
+            merged["started_at"] = manifest_started
+        manifest_finished = manifest.get("finished_at")
+        if manifest_finished:
+            merged["finished_at"] = manifest_finished
+        merged["updated_at"] = now_local().isoformat()
+
+        stage_map = {
+            stage["stage_key"]: stage
+            for stage in merged.get("stages", [])
+            if isinstance(stage, dict) and stage.get("stage_key")
+        }
+        for raw_stage in manifest.get("stages", []) or []:
+            normalized_stage = self._normalize_manifest_stage(raw_stage)
+            existing = stage_map.get(normalized_stage["stage_key"])
+            if existing:
+                existing["status"] = normalized_stage["status"]
+                existing["error_message"] = normalized_stage["error_message"]
+                if normalized_stage["output_ref"]:
+                    existing["output_ref"] = normalized_stage["output_ref"]
+            else:
+                merged.setdefault("stages", []).append(normalized_stage)
+                stage_map[normalized_stage["stage_key"]] = normalized_stage
+
+        error_payload = manifest.get("error")
+        if error_payload and not merged.get("error"):
+            merged["error"] = {
+                "code": error_payload.get("code", "WORKFLOW_ERROR"),
+                "message": error_payload.get("message", "workflow reported an error"),
+                "details": error_payload.get("details", {}),
+                "retryable": bool(error_payload.get("retryable", False)),
+                "stage_key": error_payload.get("stage_key"),
+            }
+
+        current_stage = merged.get("current_stage")
+        if not current_stage:
+            running_or_failed = [
+                stage["stage_key"]
+                for stage in merged.get("stages", [])
+                if stage.get("status") in {StageStatusEnum.RUNNING.value, StageStatusEnum.FAILED.value}
+            ]
+            if running_or_failed:
+                merged["current_stage"] = running_or_failed[-1]
+            elif merged.get("stages"):
+                merged["current_stage"] = merged["stages"][-1]["stage_key"]
+
+        return merged
+
+    def _normalize_manifest_stage(self, raw_stage: dict[str, Any]) -> dict[str, Any]:
+        status_value = self._normalize_stage_status(raw_stage.get("status")).value
+        started_at = raw_stage.get("started_at")
+        finished_at = raw_stage.get("finished_at")
+        duration_ms = None
+        if started_at and finished_at:
+            duration_ms = self._duration_ms(started_at, finished_at)
+        return {
+            "stage_key": raw_stage.get("stage_key", "unknown"),
+            "status": status_value,
+            "started_at": started_at,
+            "finished_at": finished_at,
+            "duration_ms": duration_ms,
+            "error_message": raw_stage.get("error_message"),
+            "output_ref": raw_stage.get("output_ref"),
+        }
+
+    def _normalize_stage_status(self, raw_status: str | None) -> StageStatusEnum:
+        mapping = {
+            "pending": StageStatusEnum.PENDING,
+            "queued": StageStatusEnum.PENDING,
+            "running": StageStatusEnum.RUNNING,
+            "success": StageStatusEnum.SUCCESS,
+            "completed": StageStatusEnum.SUCCESS,
+            "ok": StageStatusEnum.SUCCESS,
+            "failed": StageStatusEnum.FAILED,
+            "error": StageStatusEnum.FAILED,
+            "partial_failed": StageStatusEnum.PARTIAL_FAILED,
+        }
+        if raw_status is None:
+            return StageStatusEnum.PENDING
+        return mapping.get(str(raw_status).lower(), StageStatusEnum.PENDING)
+
+    def _normalize_run_status(self, raw_status: str | None) -> RunStatus:
+        mapping = {
+            "created": RunStatus.CREATED,
+            "queued": RunStatus.QUEUED,
+            "running": RunStatus.RUNNING,
+            "completed": RunStatus.COMPLETED,
+            "success": RunStatus.COMPLETED,
+            "ok": RunStatus.COMPLETED,
+            "failed": RunStatus.FAILED,
+            "error": RunStatus.FAILED,
+            "partial_failed": RunStatus.PARTIAL_FAILED,
+            "cancelled": RunStatus.CANCELLED,
+        }
+        if raw_status is None:
+            return RunStatus.QUEUED
+        return mapping.get(str(raw_status).lower(), RunStatus.QUEUED)
+
+    def _manifest_ref(self, output_dir: Path | None) -> str | None:
+        if output_dir is None:
+            return None
+        manifest_path = output_dir / "run_manifest.json"
+        return str(manifest_path.resolve()) if manifest_path.exists() else None
+
     def _update_run_record(
         self,
         run_id: str,
@@ -998,6 +1218,7 @@ class GatewayService:
         output_ref: str | None = None,
         finished_at: str | None = None,
         status: str | None = None,
+        current_stage: str | None = None,
     ) -> None:
         run_record = self._load_run_record(run_id)
         if output_ref is not None:
@@ -1006,6 +1227,9 @@ class GatewayService:
             run_record["finished_at"] = finished_at
         if status is not None:
             run_record["status"] = status
+        if current_stage is not None:
+            run_record["current_stage"] = current_stage
+        run_record["updated_at"] = now_local().isoformat()
         self._write_json(self._run_dir(run_id) / "meta" / "run.json", run_record)
 
     def _extract_zip_safe(self, archive_path: Path, destination: Path) -> None:
@@ -1100,7 +1324,7 @@ class GatewayService:
                 status_code=404,
                 details={"project_id": project_id},
             )
-        return self._read_json(path)
+        return self.repo.load_project(project_id)
 
     def _load_package(self, project_id: str, package_id: str) -> dict[str, Any]:
         path = self._package_dir(project_id, package_id) / "package.json"
@@ -1111,7 +1335,7 @@ class GatewayService:
                 status_code=404,
                 details={"project_id": project_id, "package_id": package_id},
             )
-        return self._read_json(path)
+        return self.repo.load_package(project_id, package_id)
 
     def _load_run_record(self, run_id: str) -> dict[str, Any]:
         path = self._run_dir(run_id) / "meta" / "run.json"
@@ -1122,7 +1346,7 @@ class GatewayService:
                 status_code=404,
                 details={"run_id": run_id},
             )
-        return self._read_json(path)
+        return self.repo.load_run(run_id)
 
     def _project_dir(self, project_id: str) -> Path:
         return self.projects_root / project_id
@@ -1134,13 +1358,10 @@ class GatewayService:
         return self.runs_root / run_id
 
     def _write_json(self, path: Path, payload: Any) -> None:
-        path.parent.mkdir(parents=True, exist_ok=True)
-        temp_path = path.with_suffix(path.suffix + ".tmp")
-        temp_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-        temp_path.replace(path)
+        self.repo.write_json(path, payload)
 
     def _read_json(self, path: Path) -> Any:
-        return json.loads(path.read_text(encoding="utf-8"))
+        return self.repo.read_json(path)
 
     def _duration_ms(self, started_at: str, finished_at: str) -> int | None:
         try:
@@ -1152,3 +1373,8 @@ class GatewayService:
 
     def _coerce_datetime(self, value: str):
         return datetime.fromisoformat(value)
+
+    def _artifact_ref(self, output_dir: str | None, filename: str) -> str | None:
+        if not output_dir:
+            return None
+        return str((Path(output_dir) / filename).resolve())

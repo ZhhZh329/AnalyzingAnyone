@@ -14,7 +14,7 @@ service = GatewayService()
 @router.post("", response_model=ApiResponse)
 def create_project(payload: CreateProjectRequest) -> ApiResponse:
     request_id = generate_prefixed_id("req")
-    data = service.create_project(payload)
+    data = service.create_project(payload, request_id=request_id)
     trace_id = f"trace_{data['project_id']}"
     return build_success_response(
         request_id=request_id,
@@ -39,6 +39,7 @@ async def upload_ingestion_package(
     payload = await package_file.read()
     trace_id, data = service.ingest_package(
         project_id,
+        request_id=request_id,
         subject_id=subject_id,
         filename=package_name or package_file.filename or "ingestion.zip",
         package_type=package_type,
@@ -58,7 +59,7 @@ async def upload_ingestion_package(
 @router.post("/{project_id}/runs", response_model=ApiResponse)
 def create_run(project_id: str, payload: CreateRunRequest) -> ApiResponse:
     request_id = generate_prefixed_id("req")
-    data = service.create_run(project_id, payload)
+    data = service.create_run(project_id, payload, request_id=request_id)
     return build_success_response(
         request_id=request_id,
         trace_id=data["trace_id"],
@@ -88,7 +89,7 @@ def get_evidence_assembly(project_id: str, run_id: str) -> ApiResponse:
     return build_success_response(
         request_id=request_id,
         trace_id=detail.run.trace_id,
-        data=assembly.model_dump(mode="json"),
+        data=assembly,
         status=detail.run.status.value,
     )
 

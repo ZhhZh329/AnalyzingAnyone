@@ -1,0 +1,148 @@
+{
+  "test_cases": [
+    {
+      "id": "obvious_utilitarian",
+      "name": "The Obvious Utilitarian",
+      "description": "Someone who clearly maximizes consequences in every answer. Should score high consequentialism.",
+      "statements": [
+        "I think we should do whatever produces the most happiness for the most people.",
+        "Sometimes you have to sacrifice one person's interests for the greater good.",
+        "I judge policies by their outcomes, not their intentions.",
+        "Morality is basically about reducing suffering in the world.",
+        "If lying saves five lives, you should lie. The math is simple.",
+        "I don't care about tradition or rules if they lead to worse outcomes."
+      ],
+      "expected": {
+        "primary_branch": "Ethics",
+        "top_school": "Consequentialism",
+        "min_score": 70,
+        "should_also_flag": ["Possible moral realism (believes suffering is objectively bad)", "Empiricism in epistemology (outcome-focused)"],
+        "should_not_flag": ["Deontology > 20%", "Virtue Ethics > 25%"]
+      }
+    },
+    {
+      "id": "hidden_kantian",
+      "name": "The Hidden Kantian",
+      "description": "Someone who never says 'duty' but consistently reasons about universalizability and respect for persons. Tests diagnostic marker quality.",
+      "statements": [
+        "I ask myself: what if everyone did that? If the answer is chaos, then it's wrong.",
+        "You can't use people as stepping stones to get what you want, no matter the outcome.",
+        "There are some things you just shouldn't do, period. Doesn't matter if it works out.",
+        "Every person deserves to be treated as an end in themselves, not a tool.",
+        "Lying is wrong even if it leads to good results. The principle matters.",
+        "I believe morality has to be based on reason, not feelings or consequences."
+      ],
+      "expected": {
+        "primary_branch": "Ethics",
+        "top_school": "Deontology",
+        "min_score": 55,
+        "should_also_flag": ["Rationalism in epistemology", "Moral realism"],
+        "should_not_flag": ["Consequentialism > 30%"]
+      }
+    },
+    {
+      "id": "contradictory_thinker",
+      "name": "The Contradictory Thinker",
+      "description": "Determinist about free will but strong moral realist. Tests tension detection.",
+      "statements": [
+        "Free will is an illusion. Every decision we make is determined by prior causes — neurons, chemistry, physics.",
+        "But I absolutely believe some things are objectively morally wrong. Torture is wrong, period.",
+        "Science shows us that consciousness is just brain activity. There's no ghost in the machine.",
+        "Yet I think we have genuine moral obligations. Not preferences — obligations.",
+        "I think the universe is purely physical, but moral facts are as real as physical facts.",
+        "People don't really choose their actions, but some actions are still truly evil."
+      ],
+      "expected": {
+        "primary_branch": "Metaphysics",
+        "tensions": ["Physicalism/Hard Determinism vs Moral Realism — if all events are physical and determined, how can moral facts be objective and how can people be morally responsible?"],
+        "should_flag_branches": ["Metaphysics", "Ethics", "Philosophy of Mind"],
+        "metaphysics_top": "Physicalism",
+        "ethics_flags": "Moral Realism",
+        "tension_detected": true
+      }
+    },
+    {
+      "id": "naive_person",
+      "name": "The Philosophically Naive Person",
+      "description": "Uses everyday language, no jargon. Tests whether the skill can profile without technical vocabulary.",
+      "statements": [
+        "I just think you should treat people right, you know?",
+        "Science tells us how things really are.",
+        "I believe in God but I'm not super religious or anything.",
+        "Everyone's entitled to their own opinion.",
+        "I think people should be free to do what they want as long as they're not hurting anyone.",
+        "Some things are just beautiful — you can't explain why, you just feel it.",
+        "I think most people are basically good."
+      ],
+      "expected": {
+        "confidence_levels": "mostly Low",
+        "should_produce_profile": true,
+        "possible_detections": {
+          "Ethics": "Virtue Ethics or Care Ethics (moderate-weak)",
+          "Epistemology": "Empiricism (weak)",
+          "Philosophy of Religion": "Theism (weak)",
+          "Political Philosophy": "Classical Liberalism / Libertarianism (weak — harm principle)",
+          "Aesthetics": "Subjectivism (weak)"
+        },
+        "should_flag": "Low confidence across all branches; probing questions recommended"
+      }
+    },
+    {
+      "id": "mill_writings",
+      "name": "Known Philosopher — John Stuart Mill",
+      "description": "Paraphrased core positions from Mill's works. The profile should accurately reflect Mill's known positions.",
+      "statements": [
+        "Actions are right in proportion as they tend to promote happiness, wrong as they tend to produce the reverse of happiness.",
+        "By happiness is intended pleasure and the absence of pain; by unhappiness, pain and the privation of pleasure.",
+        "It is better to be Socrates dissatisfied than a fool satisfied.",
+        "The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others.",
+        "Over himself, over his own body and mind, the individual is sovereign.",
+        "The sole evidence it is possible to produce that anything is desirable is that people do actually desire it.",
+        "All knowledge comes from experience, and reason alone cannot tell us about the world."
+      ],
+      "expected": {
+        "primary_branches": ["Ethics", "Political Philosophy", "Epistemology"],
+        "ethics_top": "Consequentialism",
+        "ethics_min": 65,
+        "political_top": "Classical Liberalism",
+        "epistemology_top": "Empiricism",
+        "historical_match": "John Stuart Mill",
+        "should_also_flag": ["Qualitative hedonism (higher/lower pleasures)", "Harm principle in political philosophy"]
+      }
+    },
+    {
+      "id": "genuine_pluralist",
+      "name": "The Genuine Pluralist",
+      "description": "Someone who thoughtfully draws from multiple traditions. Tests whether the system avoids forcing people into single boxes.",
+      "statements": [
+        "I think both consequences and character matter. You can't ignore outcomes, but a good person matters too.",
+        "I lean toward science for understanding the physical world, but I think there are limits to what science can tell us about meaning and value.",
+        "I find wisdom in Buddhism, Stoicism, and existentialism. I don't think any one tradition has all the answers.",
+        "Free will is complicated. I think we're more determined than we realize, but I still hold people responsible.",
+        "Knowledge comes from both experience and reasoning — I don't think you have to pick one.",
+        "I'm politically moderate. I value individual liberty but also think we have obligations to each other.",
+        "I think beauty is partly in the eye of the beholder and partly in the object. It's both."
+      ],
+      "expected": {
+        "no_school_above": 55,
+        "multiple_moderate_scores": true,
+        "should_flag": "Genuinely pluralistic outlook drawing from multiple traditions",
+        "possible_detections": {
+          "Ethics": "Virtue Ethics ~35%, Consequentialism ~35%, Care Ethics ~15%",
+          "Epistemology": "Pragmatism ~40%, Empiricism ~35%",
+          "Metaphysics": "Compatibilism signal",
+          "Aesthetics": "Mixed objectivism/subjectivism"
+        },
+        "should_not_flag": "Any single school > 55% in any branch"
+      }
+    }
+  ],
+  "evaluation_criteria": {
+    "accuracy": "Does the top-scoring school match the expected school?",
+    "calibration": "Are confidence levels appropriate (high for clear cases, low for ambiguous)?",
+    "tension_detection": "Are genuine tensions flagged?",
+    "pluralism_handling": "Does it avoid forcing the pluralist into a single box?",
+    "naive_handling": "Can it profile someone who uses no jargon?",
+    "historical_matching": "Does it correctly identify the known philosopher?"
+  }
+}

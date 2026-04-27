@@ -1,0 +1,340 @@
+{
+  "obvious_utilitarian": {
+    "name": "The Obvious Utilitarian",
+    "profile": {
+      "summary": "The respondent demonstrates a strong utilitarian worldview, prioritizing outcomes and aggregate welfare over deontological rules or virtuous character. They explicitly endorse maximizing happiness and minimizing suffering, and show willingness to violate traditional moral constraints when consequences warrant. This reflects classical consequentialist thinking with little regard for rule-based or virtue-based moral frameworks.",
+      "branches": {
+        "Ethics": {
+          "confidence": "High",
+          "scores": {
+            "Consequentialism": 85,
+            "Moral Relativism": 10,
+            "Deontology": 5
+          }
+        },
+        "Metaphysics": {
+          "confidence": "Medium",
+          "scores": {
+            "Physicalism": 60,
+            "Monism": 40
+          }
+        },
+        "Political Philosophy": {
+          "confidence": "Medium",
+          "scores": {
+            "Egalitarian Liberalism": 55,
+            "Socialism": 30,
+            "Classical Liberalism": 15
+          }
+        }
+      },
+      "tensions": [
+        "Potential conflict between pure utilitarian calculus and recognition that some rules exist for good reasons even if outcomes occasionally justify breaking them",
+        "No explicit engagement with how to measure or compare suffering/happiness, which is central to consequentialist theory"
+      ],
+      "historical_match": {
+        "thinker": "John Stuart Mill",
+        "reason": "Mill's act utilitarianism emphasizing outcomes and aggregate welfare, with willingness to sacrifice individual interests for greater good"
+      },
+      "open_questions": [
+        "How does the respondent handle uncertainty about consequences when making moral decisions?",
+        "Do they accept rule utilitarianism or only act utilitarianism?",
+        "What is their epistemological foundation for measuring happiness/suffering?",
+        "Do they hold any constraints on which outcomes are permissible to pursue?"
+      ]
+    },
+    "status": "SUCCESS"
+  },
+  "hidden_kantian": {
+    "name": "The Hidden Kantian",
+    "profile": {
+      "summary": "This person is a committed deontologist who prioritizes universal moral principles and rational duty over consequences. They reject consequentialist reasoning entirely, instead grounding morality in categorical imperatives and the inherent dignity of persons. They emphasize that certain actions are intrinsically wrong regardless of outcomes, indicating a rationalist approach to ethics that treats moral rules as binding principles rather than contextual guidelines.",
+      "branches": {
+        "Ethics": {
+          "confidence": "Very High",
+          "scores": {
+            "Deontology": 92,
+            "Moral Realism": 5,
+            "Virtue Ethics": 3
+          }
+        },
+        "Epistemology": {
+          "confidence": "High",
+          "scores": {
+            "Rationalism": 85,
+            "Foundationalism": 10,
+            "Empiricism": 5
+          }
+        },
+        "Metaphysics": {
+          "confidence": "Medium",
+          "scores": {
+            "Realism": 60,
+            "Compatibilism": 25,
+            "Libertarian Free Will": 15
+          }
+        }
+      },
+      "tensions": [
+        "Rationalist epistemology combined with deontology raises questions about how moral principles are known or justified",
+        "Emphasis on universal principles conflicts with any potential commitment to moral particularism"
+      ],
+      "historical_match": {
+        "thinker": "Immanuel Kant",
+        "reason": "The categorical imperative test ('what if everyone did that'), the rejection of using people as means, the emphasis on duty over consequences, and the grounding of morality in reason all directly align with Kantian deontological ethics"
+      },
+      "open_questions": [
+        "How are moral principles justified or known - through pure reason, intuition, or divine command?",
+        "What is the source of moral realism if endorsed?",
+        "Does this person accept hard constraints on free will or libertarian freedom?",
+        "How are conflicting duties resolved when universal principles clash?"
+      ]
+    },
+    "status": "SUCCESS"
+  },
+  "contradictory_thinker": {
+    "name": "The Contradictory Thinker",
+    "profile": {
+      "summary": "This speaker holds a physicalist metaphysics and hard determinist view of free will, yet maintains robust moral realism with objective moral facts. They believe consciousness is entirely brain-based with no dualism, while simultaneously affirming genuine moral obligations and objective moral wrongness. This creates a tension between denying libertarian free will and asserting objective moral facts.",
+      "branches": {
+        "Metaphysics": {
+          "confidence": "High",
+          "scores": {
+            "Physicalism": 85,
+            "Hard Determinism": 80,
+            "Monism": 40,
+            "Dualism": 5,
+            "Idealism": 0
+          }
+        },
+        "Ethics": {
+          "confidence": "High",
+          "scores": {
+            "Moral Realism": 75,
+            "Deontology": 35,
+            "Consequentialism": 20,
+            "Emotivism": 5,
+            "Moral Relativism": 0
+          }
+        },
+        "Philosophy of Mind": {
+          "confidence": "High",
+          "scores": {
+            "Eliminative Materialism": 50,
+            "Identity Theory": 40,
+            "Functionalism": 15,
+            "Substance Dualism": 0,
+            "Panpsychism": 0
+          }
+        },
+        "Epistemology": {
+          "confidence": "Medium",
+          "scores": {
+            "Empiricism": 60,
+            "Rationalism": 30,
+            "Pragmatism": 10
+          }
+        }
+      },
+      "tensions": [
+        "Hard determinism (no free will) vs. Moral realism (objective moral obligations) — how can actions be truly evil if agents lack libertarian agency?",
+        "Physicalism about mind vs. objective moral facts — moral facts lack obvious physical grounding",
+        "Denying libertarian free will while maintaining that agents bear genuine moral responsibility"
+      ],
+      "historical_match": {
+        "thinker": "J.L. Mackie or Galen Strawson",
+        "reason": "Both defend hard determinism while grappling with the objectivity of moral facts. Mackie's error theory addresses this tension explicitly; Strawson argues we can maintain moral discourse without libertarian free will."
+      },
+      "open_questions": [
+        "What grounds objective moral facts in a purely physical universe?",
+        "How are moral obligations binding without libertarian agency?",
+        "Is moral realism compatible with hard determinism, or does the speaker lean toward error theory?"
+      ]
+    },
+    "status": "SUCCESS"
+  },
+  "naive_person": {
+    "name": "The Philosophically Naive Person",
+    "profile": {
+      "summary": "This person holds a pragmatic, moderate worldview emphasizing harm prevention and intuitive moral judgments. They combine empiricist trust in scientific knowledge with a moderate religious perspective and aesthetic subjectivism. Their philosophy prioritizes individual freedom within social constraints and appeals to common-sense ethics over systematic philosophy.",
+      "branches": {
+        "Ethics": {
+          "confidence": "Medium",
+          "scores": {
+            "Consequentialism": 45,
+            "Care Ethics": 25,
+            "Virtue Ethics": 20,
+            "Moral Particularism": 10
+          }
+        },
+        "Epistemology": {
+          "confidence": "Medium",
+          "scores": {
+            "Empiricism": 60,
+            "Pragmatism": 30,
+            "Reliabilism": 10
+          }
+        },
+        "Political Philosophy": {
+          "confidence": "High",
+          "scores": {
+            "Classical Liberalism": 55,
+            "Egalitarian Liberalism": 30,
+            "Libertarianism": 15
+          }
+        },
+        "Philosophy of Religion": {
+          "confidence": "Medium",
+          "scores": {
+            "Deism": 50,
+            "Classical Theism": 30,
+            "Agnosticism": 20
+          }
+        },
+        "Aesthetics": {
+          "confidence": "High",
+          "scores": {
+            "Subjectivism": 70,
+            "Expressionism": 30
+          }
+        }
+      },
+      "tensions": [
+        "Moral relativism ('everyone's entitled to their own opinion') conflicts with harm-based consequentialism which requires objective standards for harm",
+        "Trust in science's objectivity about reality tensions with aesthetic and moral subjectivism",
+        "Belief in people's inherent goodness underspecified against willingness to limit freedom when harm occurs"
+      ],
+      "historical_match": {
+        "thinker": "John Stuart Mill",
+        "reason": "Combines empiricist epistemology, harm-principle-based liberalism, moderate theism, and intuitive aesthetics with pragmatic trust in science"
+      },
+      "open_questions": [
+        "How do they reconcile moral relativism with claims about 'treating people right'?",
+        "What counts as harm—do they adopt objective criteria or subjective interpretations?",
+        "Does their 'basic goodness' assumption ground moral particularism or underlie broader claims about human nature?",
+        "How engaged is their religious belief—closer to deism or classical theism?"
+      ]
+    },
+    "status": "SUCCESS"
+  },
+  "mill_writings": {
+    "name": "Known Philosopher — John Stuart Mill",
+    "profile": {
+      "summary": "This worldview is grounded in classical utilitarian philosophy that grounds ethics in empirical facts about human desire and happiness. It combines consequentialist ethics with empiricist epistemology and liberal political philosophy emphasizing individual sovereignty and harm prevention. The perspective values both quantitative maximization of pleasure and qualitative distinctions in human flourishing, creating a sophisticated hedonistic framework.",
+      "branches": {
+        "Ethics": {
+          "confidence": "High",
+          "scores": {
+            "Consequentialism": 75,
+            "Virtue Ethics": 15,
+            "Empiricism": 10
+          }
+        },
+        "Epistemology": {
+          "confidence": "High",
+          "scores": {
+            "Empiricism": 80,
+            "Pragmatism": 15,
+            "Rationalism": 5
+          }
+        },
+        "Political Philosophy": {
+          "confidence": "High",
+          "scores": {
+            "Classical Liberalism": 65,
+            "Egalitarian Liberalism": 25,
+            "Libertarianism": 10
+          }
+        },
+        "Metaphysics": {
+          "confidence": "Medium",
+          "scores": {
+            "Physicalism": 60,
+            "Compatibilism": 40
+          }
+        }
+      },
+      "tensions": [
+        "Tension between quantitative utilitarianism (happiness as measurable pleasure/pain) and qualitative distinctions (Socrates dissatisfied vs fool satisfied) suggests move beyond simple hedonism",
+        "Empiricist claim that all knowledge comes from experience conflicts with the a priori nature of ethical principles like harm prevention as foundational",
+        "Individual sovereignty principle potentially conflicts with happiness-maximization if collective welfare requires individual sacrifice"
+      ],
+      "historical_match": {
+        "thinker": "John Stuart Mill",
+        "reason": "Statements directly reference Mill's utilitarian formulations, distinction between higher/lower pleasures, harm principle, individual sovereignty doctrine, and empiricist epistemology from On Liberty and Utilitarianism"
+      },
+      "open_questions": [
+        "How are conflicts between individual liberty and collective happiness resolved?",
+        "What is the relationship between desirability (what is desired) and normativity (what ought to be)?",
+        "How does the framework handle rights that may conflict with happiness maximization?"
+      ]
+    },
+    "status": "SUCCESS"
+  },
+  "genuine_pluralist": {
+    "name": "The Genuine Pluralist",
+    "profile": {
+      "summary": "A philosophically eclectic worldview that synthesizes multiple traditions while rejecting dogmatism. The person values both empirical and rational ways of knowing, seeks balance between consequences and character in ethics, acknowledges determinism while maintaining moral responsibility, and adopts moderate political positions that honor both individual and collective interests. Their aesthetic and epistemological views reflect a nuanced both/and rather than either/or approach.",
+      "branches": {
+        "Ethics": {
+          "confidence": "High",
+          "scores": {
+            "Consequentialism": 45,
+            "Virtue Ethics": 40,
+            "Deontology": 10,
+            "Moral Particularism": 5
+          }
+        },
+        "Epistemology": {
+          "confidence": "High",
+          "scores": {
+            "Pragmatism": 40,
+            "Empiricism": 35,
+            "Rationalism": 20,
+            "Skepticism": 5
+          }
+        },
+        "Metaphysics": {
+          "confidence": "Medium",
+          "scores": {
+            "Compatibilism": 75,
+            "Hard Determinism": 20,
+            "Libertarian Free Will": 5
+          }
+        },
+        "Political Philosophy": {
+          "confidence": "High",
+          "scores": {
+            "Egalitarian Liberalism": 50,
+            "Classical Liberalism": 35,
+            "Communitarianism": 15
+          }
+        },
+        "Aesthetics": {
+          "confidence": "Medium",
+          "scores": {
+            "Objectivism": 45,
+            "Subjectivism": 45,
+            "Formalism": 10
+          }
+        }
+      },
+      "tensions": [
+        "Commitment to both empiricism and acknowledging limits of science creates potential epistemological tension",
+        "Holding people morally responsible while accepting determinism relies heavily on compatibilism but may face pressure from hard determinism",
+        "Balancing individual liberty with collective obligations could generate political tensions depending on specific policy contexts"
+      ],
+      "historical_match": {
+        "thinker": "Aristotle (modified by contemporary pragmatism)",
+        "reason": "Virtue ethics foundation combined with consequence-consideration mirrors Aristotelian ethics; both/and approach to knowledge, determinism, and aesthetics reflects pragmatist synthesis; political moderation echoes Aristotelian political theory"
+      },
+      "open_questions": [
+        "What specific role does intuition play in moral decision-making versus reasoning?",
+        "How would this person adjudicate conflicts between individual liberty and collective obligation in specific policy areas?",
+        "What is the metaphysical basis for responsibility if determinism is true—is this purely compatibilist or does it rely on other frameworks?",
+        "How does engagement with Buddhist, Stoic, and existential thought affect their stance on metaphysical questions about the nature of self?"
+      ]
+    },
+    "status": "SUCCESS"
+  }
+}

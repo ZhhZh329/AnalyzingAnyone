@@ -10,8 +10,10 @@ Stages:
 
 Usage:
     uv run python main.py data/elon_musk
+    uv run python main.py --input-file run_input.json --feedback-out run_feedback.json
 """
 
+import argparse
 import asyncio
 import json
 import os
@@ -176,9 +178,41 @@ def _mark_run_failure(stage_key: str, exc: Exception) -> None:
     )
 
 
-async def run(subject_dir: str) -> None:
+def _resolve_output_dir(subject: str) -> Path:
+    output_override = os.environ.get("ANALYZINGANYONE_OUTPUT_DIR")
+    if output_override:
+        return Path(output_override)
+    return Path("output") / subject.lower().replace(" ", "_")
+
+
+def _write_feedback(feedback_out: Path | None, payload: dict) -> None:
+    if feedback_out is None:
+        return
+    feedback_out.parent.mkdir(parents=True, exist_ok=True)
+    feedback_out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def _load_subject_dir(input_file: Path | None, subject_dir: str | None) -> str:
+    if input_file is not None:
+        payload = json.loads(input_file.read_text(encoding="utf-8"))
+        resolved = payload.get("subject_dir")
+        if not resolved:
+            raise ValueError("input file is missing subject_dir")
+        if payload.get("run_id") and not os.environ.get("ANALYZINGANYONE_RUN_ID"):
+            os.environ["ANALYZINGANYONE_RUN_ID"] = str(payload["run_id"])
+        if payload.get("trace_id") and not os.environ.get("ANALYZINGANYONE_TRACE_ID"):
+            os.environ["ANALYZINGANYONE_TRACE_ID"] = str(payload["trace_id"])
+        return str(resolved)
+    if subject_dir:
+        return subject_dir
+    raise ValueError("either <subject_dir> or --input-file must be provided")
+
+
+async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only: bool = False) -> None:
     current_stage = "input_normalize"
     had_partial_failures = False
+    subject = ""
+    out_dir: Path | None = None
     try:
         # ── Load config ───────────────────────────────────────────
         config = yaml.safe_load(Path("config.yaml").read_text(encoding="utf-8"))
@@ -211,14 +245,22 @@ async def run(subject_dir: str) -> None:
         _update_stage("input_normalize", stage_status="success", output_ref=str(Path(subject_dir)))
 
         # Prepare output directory
-        output_override = os.environ.get("ANALYZINGANYONE_OUTPUT_DIR")
-        if output_override:
-            out_dir = Path(output_override)
-        else:
-            out_dir = Path("output") / subject.lower().replace(" ", "_")
+        out_dir = _resolve_output_dir(subject)
         out_dir.mkdir(parents=True, exist_ok=True)
         lenses_dir = out_dir / "lenses"
         lenses_dir.mkdir(exist_ok=True)
+
+        if check_only:
+            _write_feedback(
+                feedback_out,
+                {
+                    "status": "checked",
+                    "subject": subject,
+                    "output_dir": str(out_dir),
+                },
+            )
+            print(f"\nCheck-only 通过：输入目录可读取，输出目录将写入 {out_dir}/")
+            return
 
         # ── Stage 1: Evidence assembly ────────────────────────────
         current_stage = "assemble"
@@ -432,14 +474,57 @@ async def run(subject_dir: str) -> None:
         print(f"   critic_output.json       ({flagged_count} flags)")
         print(f"   synthesis.json           ({findings_count} findings)")
         print(f"   report.md")
+        _write_feedback(
+            feedback_out,
+            {
+                "status": "ok",
+                "subject": subject,
+                "output_dir": str(out_dir),
+                "timeline_count": timeline_count,
+                "evidence_card_count": card_count,
+                "lens_output_count": len(valid_annotations),
+                "flagged_claim_count": flagged_count,
+                "summary_finding_count": findings_count,
+                "report_path": str(report_path),
+            },
+        )
     except Exception as exc:
+        if feedback_out is not None:
+            _write_feedback(
+                feedback_out,
+                {
+                    "status": "failed",
+                    "subject": subject,
+                    "output_dir": str(out_dir) if out_dir is not None else None,
+                    "message": str(exc),
+                    "stage_key": current_stage,
+                },
+            )
         _mark_run_failure(current_stage, exc)
         raise
 
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: uv run python main.py <subject_dir>")
-        print("Example: uv run python main.py data/elon_musk")
+    parser = argparse.ArgumentParser(description="Run the AnalyzingAnyone workflow.")
+    parser.add_argument("subject_dir", nargs="?", help="input directory containing manifest.json and sources/")
+    parser.add_argument("--input-file", dest="input_file", help="json file containing subject_dir and runtime metadata")
+    parser.add_argument("--feedback-out", dest="feedback_out", help="where to write workflow feedback json")
+    parser.add_argument("--check-only", dest="check_only", action="store_true", help="validate inputs without running the full workflow")
+    args = parser.parse_args()
+
+    try:
+        resolved_subject_dir = _load_subject_dir(
+            Path(args.input_file) if args.input_file else None,
+            args.subject_dir,
+        )
+    except Exception as exc:
+        print(f"Input resolution failed: {exc}", file=sys.stderr)
         sys.exit(1)
-    asyncio.run(run(sys.argv[1]))
+
+    asyncio.run(
+        run(
+            resolved_subject_dir,
+            feedback_out=Path(args.feedback_out) if args.feedback_out else None,
+            check_only=args.check_only,
+        )
+    )

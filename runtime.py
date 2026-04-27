@@ -26,7 +26,9 @@ def discover_agents(agents_dir: Path) -> dict[str, list[Path]]:
     """
     result: dict[str, list[Path]] = {}
     for yaml_path in sorted(agents_dir.rglob("agent.yaml")):
-        cfg = yaml.safe_load(yaml_path.read_text(encoding="utf-8"))
+        cfg = yaml.safe_load(yaml_path.read_text(encoding="utf-8")) or {}
+        if not isinstance(cfg, dict) or not cfg.get("role"):
+            continue
         role = cfg["role"]
         result.setdefault(role, []).append(yaml_path.parent)
     return result
@@ -51,9 +53,12 @@ def discover_skills(skills_dir: Path) -> list[dict]:
     skills = []
     for item in sorted(skills_dir.iterdir()):
         if item.is_file() and item.suffix == ".md":
+            content = item.read_text(encoding="utf-8").strip()
+            if not content:
+                continue
             skills.append({
                 "key": item.stem,
-                "content": item.read_text(encoding="utf-8"),
+                "content": content,
                 "source": str(item),
             })
         elif item.is_dir():
@@ -69,15 +74,23 @@ def discover_skills(skills_dir: Path) -> list[dict]:
 
             if independent:
                 for md in md_files:
+                    content = md.read_text(encoding="utf-8").strip()
+                    if not content:
+                        continue
                     skills.append({
                         "key": f"{item.name}_{md.stem}",
-                        "content": md.read_text(encoding="utf-8"),
+                        "content": content,
                         "source": str(md),
                     })
             else:
-                combined = "\n\n---\n\n".join(
-                    md.read_text(encoding="utf-8") for md in md_files
-                )
+                combined_parts = [
+                    md.read_text(encoding="utf-8").strip()
+                    for md in md_files
+                    if md.read_text(encoding="utf-8").strip()
+                ]
+                if not combined_parts:
+                    continue
+                combined = "\n\n---\n\n".join(combined_parts)
                 skills.append({
                     "key": item.name,
                     "content": combined,

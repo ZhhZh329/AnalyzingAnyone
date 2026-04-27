@@ -125,9 +125,37 @@ class Run(GatewayModel):
     output_ref: str | None = None
 
 
+class ArtifactRefs(GatewayModel):
+    output_dir: str | None = None
+    run_manifest_ref: str | None = None
+    assembly_ref: str | None = None
+    critic_output_ref: str | None = None
+    synthesis_ref: str | None = None
+    report_ref: str | None = None
+    feedback_ref: str | None = None
+    stdout_ref: str | None = None
+    stderr_ref: str | None = None
+
+
+class AuxiliaryInfo(GatewayModel):
+    request_id: str | None = None
+    created_at: datetime | None = None
+    updated_at: datetime | None = None
+    input_snapshot_ref: str | None = None
+    status_ref: str | None = None
+    manifest_ref: str | None = None
+    request_events_ref: str | None = None
+    latest_feedback_ref: str | None = None
+    latest_stdout_ref: str | None = None
+    latest_stderr_ref: str | None = None
+
+
 class RunDetail(GatewayModel):
     run: Run
     stages: list[StageStatus] = Field(default_factory=list)
+    error: "ErrorDetail | None" = None
+    artifacts: ArtifactRefs | None = None
+    auxiliary: AuxiliaryInfo | None = None
 
 
 class EventView(GatewayModel):
