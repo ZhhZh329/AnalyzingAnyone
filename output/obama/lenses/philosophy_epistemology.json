@@ -1,0 +1,190 @@
+{
+  "discipline": "philosophy",
+  "lens": "epistemology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Obama operates as a pragmatic world-shaper, believing collective action through democratic institutions can systematically address challenges while acknowledging structural constraints",
+      "finding": "Obama demonstrates high agency orientation through consistent articulation of presidential capacity to shape outcomes. His speeches frequently position the executive branch as an active problem-solving force: he lists over 20 executive actions taken (ev_019), frames himself as issuing 'challenges' to private sector (ev_009), and declares 'Year of Action' as theme (evt_015). However, this world-shaping impulse is channeled through institutional means rather than purely unilateral will—he explicitly calls for Congressional action (ev_026), emphasizes partnerships with business (evt_004), and frames government as 'the best tool we've got' for collective problem-solving (ev_036). This suggests a structure-responsive world-shaper: he believes in active agency but works within and through established institutional structures rather than against them. His repeated references to bipartisan coalitions (ev_008) and his refusal to negotiate over debt ceiling 'under any circumstances' (ev_015) reflect a president who sees agency as meaningful within principled constraints.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_009",
+        "ev_036",
+        "ev_008",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Obama displays an empirically-grounded pragmatic epistemology, heavily reliant on verifiable data, stakeholder consensus, and demonstrated outcomes rather than pure rational deduction or ideological first principles",
+      "finding": "Obama's epistemic style reveals clear empirical orientations alongside pragmatic elements. He consistently anchors arguments in verifiable statistics: 11 million jobs created (ev_025), wind tripled and solar 30x (ev_040), 26 million consumers recovering $11 billion (ev_028), specific deadlines like 'seven days away' and 'eight days away' (ev_011). This data-dependence suggests empirical grounding. Yet he also shows pragmatic tendencies—he acknowledges past trade deals 'haven't always lived up to the hype' (ev_027) while continuing forward, demonstrating adaptive rather than rigid belief systems. His epistemic approach treats stakeholder consensus as significant evidence: bringing AFL-CIO and Chamber of Commerce together (ev_008) serves an epistemic function of validating policy soundness. He shows appropriate epistemic humility for a leader—attributing progress to 'the American people' (ev_032, ev_044) rather than claiming personal epistemic superiority. His willingness to cite his own limitations ('I'm the first to admit,' ev_027) and his documented learning from citizens (ev_044) suggests epistemic openness. The empirical and pragmatic elements dominate over rationalist deduction or ideological certainty.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_028",
+        "ev_011",
+        "ev_027",
+        "ev_008",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Obama operates at moderate-high abstraction, capable of articulating broad philosophies ('middle-out economics') while anchoring them in concrete measurable outcomes, showing balanced integration rather than pure abstraction",
+      "finding": "Obama demonstrates capacity for both abstract policy philosophy and concrete operationalization. His 'middle-out' economic philosophy (ev_021) represents genuine abstraction: a general principle about wealth distribution and economic causality. Yet he consistently ties this to measurable outcomes: 'raising middle-class wages and incomes,' specific job creation numbers, and concrete policy proposals. His articulation of democratic governance as 'the best tool we've got' (ev_036) is philosophically abstract, but he immediately grounds it in operational terms: 'it's only as good as we make it.' He balances philosophical framing (ev_021) with statistical enumeration (ev_033) and granular policy details (ev_011: specific countdown deadlines). This suggests a moderate-to-high abstraction capability with deliberate grounding in the concrete—a president comfortable with both framework-level thinking and implementation details. He shows lower comfort with pure formalization: he references surveys of small business owners (ev_023) but doesn't build elaborate theoretical models; his abstractions remain anchored in practical governance rather than systematic philosophy.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_036",
+        "ev_033",
+        "ev_011",
+        "ev_023"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Obama demonstrates strong systemic control orientation, seeking to establish permanent institutional frameworks and predictable policy environments rather than ad hoc responses, with willingness to use executive power when Congressional action fails",
+      "finding": " Obama's control orientation operates at systemic rather than personal level. He consistently seeks to lock in policy achievements: 'I will veto' any Wall Street Reform repeal (ev_029), extending Medicare solvency by 12+ years (ev_002), and establishing permanent regulatory frameworks like CFPB (ev_028). His preference for 'balanced' deficit reduction (ev_013) reflects desire for predictable fiscal architecture rather than one-time fixes. When legislative control fails, he pivots to executive action: declaring 'Year of Action' (evt_015), signing minimum wage executive order (ev_017), and announcing government modernization through Presidential Innovation Fellows (ev_043). His refusal to negotiate over debt ceiling (ev_015) demonstrates control orientation as non-negotiable principle—he will not cede control over constitutional obligations. His framing of sequester effects on vulnerable populations (ev_014) reveals concern for systemic control over social programs. The Cancer Moonshot (evt_026) represents another control-oriented initiative: establishing cross-agency coordination and searchable clinical trial databases as permanent infrastructure. This pattern suggests strong systemic control orientation—building durable institutional frameworks rather than managing short-term crises.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_002",
+        "ev_028",
+        "ev_013",
+        "ev_015",
+        "ev_017",
+        "ev_043",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Obama consistently prioritizes policy missions and institutional commitments over relational harmony, willing to publicly criticize Congressional opponents and issue veto threats to protect policy goals",
+      "finding": "Clear evidence of mission prioritization over relational comfort throughout Obama's communications. He publicly names and criticizes Congressional Republicans: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), and condemns Senate obstruction as 'certainly not what our founding fathers envisioned' (ev_010). His 'Year of Action' framing directly positions Republican obstruction as the context for executive action (ev_020). He issues explicit veto threats for Wall Street Reform repeal (ev_029) and frames debt ceiling negotiations as matters of national credit worthiness 'not negotiable' (ev_015). Yet his mission orientation contains relational elements—he frequently emphasizes bipartisan framing (ev_008: 'This isn't a Democratic or a Republican issue') and credits Congressional cooperation for achievements (ev_048). His farewell address attribution of progress to 'the American people' (ev_044) suggests relational orientation to citizens even when partisan conflict dominates. The pattern suggests selective mission-prioritization: non-negotiable principles (debt ceiling, Wall Street Reform, ACA) trigger relational rupture, while general policy advocacy employs inclusive framing. This indicates calibrated mission orientation rather than pure mission-maximization or pure relational maintenance.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_044",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Obama demonstrates risk-averse epistemic posture, favoring incremental certainty over speculative boldness, anchoring decisions in empirical data and established consensus rather than unproven hypotheses",
+      "finding": " Obama's communications reveal risk-averse epistemic tendencies. He gravitates toward empirical certainty: citing Medicare Trustees data (ev_002), specific job creation numbers (ev_025), and measurable outcomes like carbon pollution reduction (ev_040). His 'balanced approach' to deficit reduction (ev_013) reflects preference for diversified strategy over concentrated bets. When advocating TPP, he simultaneously acknowledges past trade deal failures (ev_027), demonstrating hedging rather than uncritical embrace. His response to sequester effects shows risk aversion—documenting real human costs (ev_014) to mobilize action against uncertain future harm. He favors incremental institutionalization: building CFPB as permanent structure (ev_028), extending Medicare solvency (ev_002), and establishing cross-agency Cancer Moonshot infrastructure (ev_043). His cautious approach to energy policy explicitly rejects 'drilling alone' as insufficient (ev_005), preferring diversified approach over single-solution risk. The absence of speculative or high-risk rhetorical postures suggests moderate-to-strong epistemic risk aversion—he prefers demonstrated pathways over unproven boldness, even when this means slower, consensus-dependent progress.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_002",
+        "ev_040",
+        "ev_013",
+        "ev_027",
+        "ev_014",
+        "ev_028",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Obama maintains sophisticated institutional relationship with hierarchy—respecting formal authority while actively deploying executive power, treating democratic institutions as legitimate but malleable tools for collective action",
+      "finding": "Obama's relationship with hierarchy reveals sophisticated institutionalism. He respects formal authority structures: repeatedly calling on Congress, acknowledging constitutional separation of powers, and framing his own actions as within proper executive bounds. His 'I will not negotiate' stance on debt ceiling (ev_015) treats constitutional obligation as non-negotiable constraint—respecting the hierarchy that binds all actors. Yet he actively deploys executive power: executive orders on minimum wage (ev_017), Presidential Innovation Fellows (ev_043), and Cancer Moonshot task forces (ev_042). He demonstrates awareness of power dynamics in global relations—framing TPP as preventing China from 'writing the rules of the global economy' (ev_031)—treating international trade rules as power structures to be shaped. His domestic policy discourse treats institutions like CFPB (ev_028) as mechanisms for protecting citizens from power asymmetries. He shows cognitive sophistication about hierarchy: framing federal government as tool for 'collective challenges' (ev_036) while acknowledging it requires modernization. The pattern suggests hierarchical instrumentalism—treating formal authority structures as legitimate and powerful tools to be actively shaped and deployed rather than merely respected or opposed.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_043",
+        "ev_042",
+        "ev_031",
+        "ev_028",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Obama employs a translate-escalate conflict strategy, initially framing issues as non-partisan before escalating to direct confrontation when core principles are challenged, with explicit use of veto threats and public criticism",
+      "finding": " Obama demonstrates a translate-then-escalate conflict pattern. Initially, he consistently frames issues in non-partisan terms: transportation funding 'isn't a Democratic or Republican issue' (ev_008), and he builds coalitions across AFL-CIO and Chamber of Commerce. His trade rhetoric frames TPP as serving 'American values' and 'American workers' without partisan framing (ev_030). However, when his core commitments face opposition, he escalates directly: condemning Senate obstruction as contrary to 'founding fathers' intent' (ev_010), publicly listing Republican blocks on minimum wage, equal pay, and unemployment insurance (ev_020), and issuing explicit veto threats for Wall Street Reform repeal (ev_029). His debt ceiling position ('will not negotiate over full faith and credit') represents maximal escalation—treating it as matter of national identity rather than negotiation. His farewell address call for 'full span of a lifetime' civic engagement (ev_046) reflects strategy to translate partisan conflict into broader democratic participation. The pattern suggests sophisticated conflict management: using inclusive framing for tactical advantage while reserving escalation for principled commitments. He tends to translate conflict from partisan terms to national/moral terms when escalating.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Obama consistently optimizes for long-term institutional outcomes rather than short-term political wins, establishing durable frameworks, permanent agencies, and intergenerational policy commitments",
+      "finding": " Obama's temporal orientation strongly favors long-term institutional horizons over short-term political calculation. He consistently emphasizes durability: extending Medicare solvency 'by at least 12 years' (ev_002), establishing CFPB as 'independent' consumer protection with permanent mandate (ev_028), and framing Cancer Moonshot as multi-generational challenge (ev_042). His energy blueprint targets 2025 (evt_004), and his climate rhetoric invokes 'our children' as beneficiaries of Paris Agreement (ev_041). He frames policy failures as threats to long-term national identity: 'United States of America is not a deadbeat nation' (ev_015) treats creditworthiness as enduring national characteristic. His deficit discourse emphasizes trajectory ('deficits falling at fastest rate since World War II,' ev_016) rather than current snapshot. He explicitly positions himself as building legacy: 'that's not something to tear up—it's something to build upon' (ev_041) directly addresses potential reversal by successors. His farewell address reflects on eight years as foundation for future work (ev_047). The absence of short-term electoral rhetoric in favor of policy durability indicators suggests strong long-term orientation. He appears willing to accept short-term political costs for long-term institutional gains, as evidenced by executive actions when Congressional cooperation failed.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_042",
+        "ev_041",
+        "ev_015",
+        "ev_016",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Obama demonstrates moderate preference for structural redesign over incremental repair, establishing new institutional frameworks when existing structures prove inadequate, but preferring bipartisan compromise when politically feasible",
+      "finding": " Obama shows mixed but detectable preference for structural redesign. He establishes new institutions when existing ones prove inadequate: creating CFPB as 'independent' agency to protect consumers (ev_028), establishing Presidential Innovation Fellows for government modernization (ev_043), and building Cancer Moonshot cross-agency task force (ev_042). His energy strategy explicitly rejects 'drilling alone' as insufficient (ev_005), advocating comprehensive approach combining domestic drilling, fuel efficiency, and clean energy. He frames ACA as structural redesign ('put Medicare on sounder financial footing,' ev_002) rather than minor adjustment. However, he consistently prefers bipartisan compromise when available: 'balanced approach' to deficit reduction (ev_013), bipartisan budget celebrations (ev_048), and bipartisan education bill (evt_027). He explicitly acknowledges 'neither party has been blameless' in procedural tactics (ev_010). When structural redesign is blocked, he patches through executive action: 'Year of Action' with 20+ executive orders (ev_019) represents patching institutional gaps through unilateral means. This pattern suggests rebuild orientation constrained by political feasibility—preferring structural solutions but accepting patches when reconstruction is blocked. The absence of fundamental critiques of existing structures suggests moderate rather than revolutionary redesign preference.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_042",
+        "ev_005",
+        "ev_002",
+        "ev_013",
+        "ev_010",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Obama demonstrates moderate-high metacognitive awareness, explicitly reflecting on learning processes, acknowledging limitations, and demonstrating awareness of how beliefs are formed and updated through experience",
+      "finding": " Obama displays notable metacognitive sophistication. In his farewell address, he explicitly reflects on learning: 'Every day, I learned from you. You made me a better President' (ev_044)—this directly addresses his own cognitive development. He acknowledges epistemic limitations publicly: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) demonstrates awareness that his prior beliefs were incomplete or incorrect. He frames progress as collective cognitive achievement: 'It's you—the American people... because of workers rolling up their sleeves' (ev_032)—attributing knowledge creation to distributed processes rather than individual brilliance. He shows metacognitive awareness of democratic cognition: government 'is only as good as we make it' (ev_036) treats democratic participation as affecting collective epistemic quality. His explicit naming of cognitive improvement ('better President, and better man,' ev_044) reveals self-monitoring of personal development. However, his metacognition appears reactive rather than systematic—he reflects on learning in farewell addresses but doesn't display ongoing skepticism about his own reasoning processes. He shows lower metacognition about political biases: his 'Year of Action' framing treats Republican opposition as entirely obstructive without acknowledging own potential blind spots. The pattern suggests moderate-high but context-specific metacognition—capable of sophisticated self-reflection in reflective contexts while operating with more certainty in action contexts.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional epistemic validation",
+      "definition": "The degree to which a leader treats institutional processes and stakeholder consensus as sources of epistemic legitimacy, using broad agreement across diverse actors as evidence for policy soundness rather than purely empirical or rational criteria",
+      "finding": "Obama's rhetoric reveals significant reliance on institutional epistemic validation—a pattern where broad stakeholder agreement functions as evidence for policy legitimacy. His transportation funding appeal explicitly cited AFL-CIO and Chamber of Commerce agreement as validation (ev_008). His minimum wage argument referenced surveys of small business owners (ev_023), treating majority support among relevant stakeholders as significant evidence. His deficit reduction 'balanced approach' treats bipartisan congressional support as epistemic warrant for policy soundness (ev_013). This institutional validation appears alongside rather than instead of empirical data—he uses both job statistics and stakeholder consensus to support claims. This represents a distinct epistemic strategy: treating democratic participation and stakeholder agreement as contributing to knowledge about policy validity, not merely as political cover. The pattern suggests Obama operates with an expanded epistemology that includes institutional processes as knowledge sources, not merely implementation mechanisms. This differs from purely empirical approaches (which require direct data) and purely rationalist approaches (which require logical derivation)—it's a pragmatic institutionalism that treats broad agreement as meaningful evidence.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_023",
+        "ev_013",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Skepticism",
+      "Instrumentalism",
+      "Institutionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_emotion_self_regulation_hierarchy_of_needs",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with adaptive deployment of available tools",
+      "finding": "Obama consistently demonstrates high agency through proactive policy initiation rather than reactive adaptation. He systematically deployed executive actions when Congressional obstruction blocked legislative priorities (ev_019, ev_020), signed executive orders raising contractor minimum wage (ev_017), and championed structural reforms in healthcare, financial regulation, and climate policy. His approach reflects B-motivation world-shaping - not merely responding to structural constraints but actively restructuring systems where possible. The farewell address reveals internalized agency orientation: he explicitly credited American people for progress while framing himself as facilitator of collective action rather than sole driver (ev_032, ev_044).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven openness with principled boundaries",
+      "finding": "Obama's epistemic approach demonstrates growth-motivated (B-motivation) openness to evidence while maintaining clear normative boundaries. He explicitly acknowledged past trade deals 'haven't always lived up to the hype' (ev_027), showing capacity to hold complexity without defensive closure. His policy positions were consistently grounded in quantitative evidence - 11 million jobs created, $11 billion recovered for consumers, Head Start cuts affecting children (ev_014, ev_025, ev_028). However, he maintained firm positions on non-negotiable principles (debt ceiling - ev_015) and core identities (America not at war with Islam - ev_012). This suggests sophisticated epistemic functioning: evidence-seeking within principled frameworks rather than unbounded relativism or defensive certainty.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_014",
+        "ev_015",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for abstract principle articulation within concrete policy contexts",
+      "finding": "Obama demonstrates strong abstraction capacity, consistently articulating overarching principles that unify specific policy initiatives. His 'middle-out' economic philosophy (ev_021) and 'opportunity for all' principle (ev_018) function as organizing abstractions that give coherence to diverse policies. He can move fluidly between abstract principle ('freedom to marry is now the law' - ev_035) and concrete specifics ('$10.10/hour minimum wage' - ev_017). This abstraction-formalization capacity is characteristic of self-actualizers who can integrate symbolic meaning systems with practical action. His Climate Speech demonstrates abstraction in service of legacy-building: Paris agreement framed as something to 'build upon' for children's future (ev_041).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_018",
+        "ev_021",
+        "ev_035",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Adaptive control with principled non-negotiables",
+      "finding": "Obama exhibits sophisticated control orientation - not rigid domination but adaptive assertion of available control mechanisms. He demonstrated this clearly in fiscal matters: refused to negotiate over debt ceiling under any circumstances (ev_015, termed 'irresponsibility'), while advocating 'balanced approach' combining spending cuts with tax reform (ev_013). Importantly, when legislative control proved unavailable due to Congressional opposition, he pivoted to executive action as alternative control mechanism (ev_019 - 'Year of Action'). This adaptive control pattern reflects self-actualizer orientation: strong goal commitment with flexible means selection. His control orientation serves collective welfare rather than personal domination - protecting consumers (ev_028), supporting veterans (ev_038), and defending Medicare commitments (ev_001).",
+      "evidence_ids": [
+        "ev_001",
+        "ev_013",
+        "ev_015",
+        "ev_019",
+        "ev_028",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with genuine care for affected populations",
+      "finding": "Obama demonstrates pronounced mission orientation, accepting significant relational costs in pursuit of policy goals. He directly criticized Republican obstruction, stating they had 'blocked or voted down every serious idea to create jobs' (ev_020), and condemned Senate procedural tactics as contrary to founders' intent (ev_010). However, his mission commitment appears grounded in genuine other-oriented concern rather than egoic ambition. His documented concern for vulnerable populations - documenting Head Start children displaced, seniors losing Meals on Wheels, military families bearing 'invisible wounds' (ev_014, ev_038) - suggests belongingness needs are satisfied, allowing growth-motivated mission pursuit. The Cancer Moonshot initiative (ev_042, ev_043) demonstrates institutional mission-creation serving collective rather than personal goals. This pattern suggests healthy self-actualization: mission-driven without defensiveness about relational costs.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_038",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Growth-oriented risk acceptance with calculated uncertainty tolerance",
+      "finding": "Obama demonstrates B-motivation risk posture - willingness to undertake venturesome initiatives with uncertain outcomes. His Trade Promotion Authority advocacy for TPP acknowledged past deal failures while proceeding with new agreement (ev_026, ev_027). Iran nuclear deal and Paris climate agreement represent significant international commitments with inherently uncertain outcomes. His confidence statement - 'I'm absolutely confident we will get there' (ev_004) - suggests risk tolerance grounded in efficacy beliefs rather than defensive denial of uncertainty. The farewell address shows mature risk reflection: 'Whether we've seen eye-to-eye or rarely agreed at all' (ev_044) acknowledges contested trajectory. Importantly, he distinguished between acceptable uncertainty in policy innovation and non-negotiable fiscal principles (debt ceiling), suggesting calibrated risk acceptance rather than recklessness or excessive caution.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_026",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority leveraged for collective welfare with principled limits",
+      "finding": "Obama's relationship to hierarchy demonstrates sophisticated power deployment. As President, he leveraged institutional authority systematically - using veto threats (ev_029), executive orders (ev_017, ev_019), and international agreements (TPP, Paris, Iran deal). However, his power orientation served institutional and collective purposes rather than personal aggrandizement. He explicitly rejected bailouts of 'too big to fail' institutions (ev_003), established independent consumer protection mechanisms (ev_028), and sought Congressional authorization for trade agreements rather than unilateral action (ev_026). His refusal to negotiate on debt ceiling ('I will not negotiate over the full faith and credit') (ev_015) demonstrates principled boundary-setting with hierarchy rather than unlimited accommodation. This pattern suggests healthy esteem needs satisfied through institutional role competence rather than power-seeking for its own sake.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_015",
+        "ev_017",
+        "ev_026",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of obstruction with problem-translation approach",
+      "finding": "Obama employs direct confrontation strategy when facing principled opposition, consistently framing conflicts as problems requiring solutions rather than relational ruptures. He directly named Congressional obstruction: 'One senator gumming up the works for the whole country' (ev_010) and Republicans 'said no to raising minimum wage, no to equal pay' (ev_020). However, his conflict approach remained problem-centered rather than personalistic: repeatedly framing transportation funding and student loan rates as 'not Democratic or Republican' but 'American' issues (ev_008, ev_011). He documented human costs of conflict outcomes to reframe stakes (ev_014 - Head Start children, seniors, military families). His Memorial Day approach demonstrates mature conflict handling: 'solemn obligation' language frames shared values rather than partisan positioning (ev_038). This suggests self-actualizer conflict strategy: direct acknowledgment of opposition with problem-translation rather than avoidance, suppression, or escalation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_014",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural transformation with mission-scale time perspective",
+      "finding": "Obama consistently operates on extended time horizons oriented toward structural transformation rather than short-term gains. His 57-month job growth statistic (ev_025) and projection of energy independence by 2025 (ev_004) demonstrate multi-year planning perspective. Healthcare reform was framed as extending Medicare solvency 'by at least 12 years' (ev_002), and climate policy as legacy 'to build upon' for children (ev_041). His farewell address explicitly rejected transactional citizenship: 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). This temporal orientation is characteristic of self-actualizers who operate on mission-scale time horizons, investing in structural changes with delayed returns. Importantly, his time horizon extends beyond his own presidency - seeking 'Year of Action' (ev_019) that would outlast current political moment.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_025",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference across policy domains",
+      "finding": "Obama demonstrates consistent preference for structural reform over incremental adjustment. Rather than piecemeal healthcare fixes, he championed comprehensive ACA reform extending Medicare solvency dramatically (ev_002). Rather than regulatory patches for financial markets, he pushed Dodd-Frank structural reforms including consumer protection agency and elimination of 'too big to fail' bailouts (ev_003, ev_028). His energy policy rejected 'drilling alone' as insufficient, calling for systematic approach to reduce oil imports by one-third through multiple mechanisms (ev_005). Education reform was pursued through comprehensive bipartisan legislation rather than executive patches (ev_048). Climate policy pursued binding international agreement rather than voluntary commitments. This structural redesign preference reflects self-actualizer tendency to address root causes rather than symptoms - investing cognitive resources in system-level intervention rather than local repair.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_028",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Highly developed self-awareness with explicit reflective practice",
+      "finding": "Obama demonstrates exceptional metacognitive capacity, actively monitoring his own reasoning, impact, and growth edges. His farewell address explicitly reflected on learning from American people: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledged trade deal shortcomings as first to admit (ev_027) - evidence of self-awareness about policy limitations. His 'Year of Action' reflection on what executive tools were available when legislative paths blocked (ev_019) demonstrates strategy awareness. Importantly, his metacognition includes recognition of his own potential for blind spots - reflected in seeking Silicon Valley partnerships for government modernization (ev_036, ev_037), explicitly acknowledging government needed 'help' to modernize. This metacognitive capacity is a core self-actualization marker, suggesting healthy integration of cognitive monitoring with adaptive action.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_037",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_efficacy_belief",
+      "definition": "The generalized belief in a nation's or society's capacity for cooperative problem-solving through democratic institutions. This extends beyond individual self-efficacy to collective agency beliefs about democratic governance capacity. Shared constructs do not adequately capture how Obama's motivational profile includes faith in collective institutional action rather than merely individual or elite-driven change.",
+      "finding": "Obama's motivational profile reveals a distinctive 'collective efficacy belief' - faith in democratic institutions and American citizenry as problem-solving capacity. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges' (ev_036) exemplifies this emergent construct. His year-end attribution of progress 'because of workers rolling up their sleeves... entrepreneurs starting new businesses... teachers and health workers and parents - all of us taking care of each other' (ev_032) demonstrates他把 collective agency rather than individual heroism as primary causal driver. This contrasts with leaders who emphasize personal charisma or elite competence; Obama's worldview assumes latent collective capacity requiring institutional activation. This construct helps explain his dual commitment to structural reform AND civic engagement - he believes systemic change requires activated citizenry, not merely policy intervention.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "legacy_orientation",
+      "definition": "Motivational orientation toward actions framed primarily in terms of their future impact on subsequent generations and long-term historical trajectory. This extends beyond normal long-term planning to include explicit inter-generational responsibility framing and legacy consciousness. Shared constructs capture time horizon but not the specifically intergenerational and commemorative quality of Obama's motivation.",
+      "finding": "Obama's communications reveal strong 'legacy orientation' - explicit framing of current actions in terms of obligations to future generations and historical contribution. His climate policy framing - Paris agreement as something to 'build upon' for children's future (ev_041) - exemplifies inter-generational responsibility framing. His Memorial Day address calls for remembrance not merely as ceremonial observance but as ongoing commitment: 'We have to do more than honor their memory. We have to be there for their families' (ev_038). His farewell optimism statement - 'I am even more optimistic about our country's promise' (ev_047) - suggests investment in continuing institutional trajectory beyond personal tenure. This legacy orientation appears as distinct motivational quality: he acts as steward rather than owner, with psychological investment in what continues after his departure. This may be particularly characteristic of self-actualizers in late-career phases who have largely satisfied lower needs and can invest in generativity beyond personal achievement.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

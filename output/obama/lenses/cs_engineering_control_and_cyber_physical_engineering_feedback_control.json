@@ -1,0 +1,177 @@
+{
+  "discipline": "political_leadership",
+  "lens": "control_and_cyber_physical_engineering_feedback_control",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Balanced adaptive-active: combines proactive goal-setting with responsive adjustment to structural constraints",
+      "finding": "Obama demonstrates a feedback-oriented agency that sets ambitious targets while continuously calibrating based on institutional responses. He established quantifiable objectives like reducing oil imports by one-third by 2025 (evt_004) and challenged private companies to hire 100,000 veterans by 2013 (evt_007), then actively measured and reported progress. However, his approach shows significant responsiveness to the legislative environment—when Congress blocked minimum wage legislation, he pivoted to executive orders (evt_014, evt_015); when sequester threatened programs, he documented human costs to shift the political calculation (ev_014). This suggests a control orientation that treats the political environment as a system to be actively tuned rather than one where commands are simply issued. The 'Year of Action' declaration (evt_015) illustrates his willingness to expand agency when feedback signals institutional blockage, while his repeated calls for Congressional action show he continuously monitors the gap between desired and actual states.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_007",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded with public-facing data presentation: relies heavily on metrics and statistics while framing arguments accessibly",
+      "finding": "Obama's epistemic approach demonstrates strong reliance on quantifiable evidence and measurable outcomes. He frequently cited specific statistics: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers through CFPB (ev_028), 12-year Medicare solvency extension (ev_002), and energy metrics showing wind power tripled and solar power 30x increased (ev_040). His sequester warnings included precise counts of affected populations—Head Start children, seniors on Meals on Wheels, military families under strain (ev_014). He also incorporated survey data, noting that 'a majority of small business owners support a gradual increase to ten dollars and ten cents an hour' (ev_023). This suggests a leader who frames policy problems as measurable systems where inputs and outputs can be tracked. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) indicates willingness to incorporate feedback that corrects prior optimistic projections, demonstrating epistemic humility when evidence warrants it.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_014",
+        "ev_023",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction: articulates governing philosophies and frameworks while maintaining accessible public communication",
+      "finding": "Obama demonstrates capacity for formal policy abstraction while translating it for public audiences. He articulated the 'middle-out' economic philosophy—'Our economy grows best not from the top-down, but from the middle-out' (ev_021)—which functions as an abstract organizing principle for multiple policy initiatives. He framed TPP as about 'writing the rules of the global economy' (ev_031), abstracting a concrete trade agreement into a systemic governance concept. His energy strategy was presented as a 'Blueprint for a Secure Energy Future' (evt_004), suggesting formal architectural thinking. However, his abstraction tendency is tempered by communication discipline: he avoided pure technocratic framing, instead using concrete examples and personal stories (ev_006: growing up without his father; ev_007: coaching daughter's basketball team) to ground abstract commitments. His government modernization initiative (evt_023) involved bringing 'Silicon Valley' minds to 'help us modernize the federal government'—a systematic approach to institutional reform. This suggests he recognizes value in formalizing policy as integrated systems while maintaining accessibility for democratic legitimacy.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_036",
+        "ev_037",
+        "ev_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation: leverages available mechanisms (executive orders, vetoes, public pressure) while respecting institutional boundaries",
+      "finding": "Obama exhibits a proactive control orientation that seeks to maintain desired system states through available mechanisms. He issued definitive veto threats against Wall Street Reform repeal—'I will veto it' (ev_029)—establishing a firm control boundary. He set measurable targets with clear deadlines: 'seven days away from thousands of American workers having to walk off the job' (ev_011) on transportation funding, and 'eight days away from nearly seven and a half million students seeing their loan rates double' (ev_011). His veteran hiring initiative (evt_007) included specific numeric commitments: federal government already hired 120,000 veterans, with a private sector challenge of 100,000 more. When Congress blocked legislation, he systematically deployed executive actions (evt_014: contractor minimum wage; evt_015: 20+ executive actions catalogued). However, his control approach respects institutional boundaries—he repeatedly called on Congress rather than circumventing it entirely, and on the debt ceiling specifically declared he 'will not negotiate' (ev_015) while not suggesting he could eliminate the Congressional role. This indicates sophisticated control that operates within system constraints while maximizing available leverage.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_011",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-dominant with calculated relationship costs: willing to absorb significant political friction to preserve policy objectives",
+      "finding": "Obama demonstrates willingness to prioritize mission over relational comfort, particularly on core policy commitments. His debt ceiling position (evt_013)—refusing to negotiate 'over the full faith and credit of the United States' (ev_015)—accepted significant political confrontation rather than compromise a foundational principle. He publicly catalogued Republican opposition: blocking minimum wage, equal pay, and unemployment insurance extension (ev_020), explicitly naming the relational cost while maintaining policy pressure. On Wall Street Reform, he declared he 'will never' accept repeal (ev_003), treating this as a non-negotiable system state. The ACA commitment was framed absolutely: 'As long as I am President, that's a commitment this country is going to keep' (ev_001). However, his relational cost tolerance shows calibration—he sought bipartisan coalitions where possible: transportation bills previously passed seven times with bipartisan support (evt_006), and in his final address described bipartisan budget and education bills as 'Christmas miracles' (ev_048). This suggests mission-priority that is strategically modulated: non-negotiable on core system properties while seeking coalition support for implementation details.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Tiered risk management: accepts calculated policy risks while building defensive margins on critical system boundaries",
+      "finding": "Obama's risk approach demonstrates differentiated handling across policy domains. On climate and clean energy (evt_025), he pursued ambitious transformation despite political uncertainty, defending Paris Agreement and stating 'that's not something to tear up—it's something to build upon' (ev_041). He accepted the Cancer Moonshot's inherent research uncertainty (evt_026, ev_042) as worthwhile investment. However, on financial and constitutional system boundaries, his posture was more conservative—he refused to negotiate on debt ceiling (ev_015) and issued hard veto commitments (ev_029), treating these as boundaries where risk of failure was unacceptable. His sequester response (evt_011, evt_012) documented downstream risks to vulnerable populations to build political pressure. He acknowledged past trade deals 'haven't always lived up to the hype' (ev_027), suggesting awareness that policy interventions carry inherent uncertainty. The energy strategy explicitly rejected drilling alone as insufficient risk mitigation, preferring a portfolio approach (ev_005). This suggests a risk posture that accepts innovation and experimentation on policy design while maintaining defensive margins on macro-financial and constitutional stability.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_015",
+        "ev_027",
+        "ev_029",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Dual-mode authority usage: leverages formal hierarchy while building alternative power networks outside traditional channels",
+      "finding": "Obama demonstrates sophisticated understanding of authority structures, deploying formal power while constructing parallel networks. He explicitly used executive authority: signing executive orders on minimum wage (ev_017), directing federal hiring of veterans (ev_009), and framing these as legitimate Presidential functions. However, his government modernization initiative (evt_023) represented alternative power network construction—bringing 'Silicon Valley' minds into government not through traditional civil service channels but through innovation fellowships (ev_037). His civic engagement calls (evt_023, evt_027) attempted to distribute power outward: 'Our founders trusted us with the keys to this system of self-government' (ev_036), positioning citizens as distributed authority nodes. He publicly challenged Congressional power structures, criticizing single senator obstruction as contrary to founders' intent (ev_010). At the same time, he respected legislative boundaries—repeatedly calling on Congress rather than usurping its role. His father's day initiative (evt_005) created partnerships with businesses outside government hierarchy entirely. This indicates understanding that stable control requires both formal authority and legitimacy from distributed networks.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_010",
+        "ev_017",
+        "ev_036",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation with selective escalation: publicly names opposition while maintaining institutional channels",
+      "finding": "Obama's conflict approach favors direct public engagement over private negotiation or suppression. He explicitly named Congressional obstruction: Republicans 'have said no to raising the minimum wage, no to equal pay for equal work' (ev_020), making the conflict visible rather than managing it through back channels. His sequester messaging documented human costs to generate public pressure on Congressional opponents (ev_014), using constituency impact as political leverage. He distinguished wars on al-Qaeda from respect for Islam (ev_012), drawing clear moral boundaries in conflict framing. However, he maintained institutional channel commitment—calling on Congress rather than working around it, and on debt ceiling refusing to negotiate while not suggesting unilateral action. His TPP approach (evt_019) sought Congressional authorization rather than circumventing it, demonstrating preference for legitimate process even when slower. The 'Year of Action' framing (evt_015) presented executive action as response to Congressional blockage, legitimizing conflict escalation as reactive rather than aggressive. His bipartisan budget celebration (ev_048) suggests willingness to resolve conflicts through coalition-building when possible. This indicates a conflict strategy that makes disagreement visible as a public pressure mechanism while preserving institutional pathways.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_026",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mixed horizon with emphasis on systemic long-term foundations while managing immediate political deadlines",
+      "finding": "Obama's time orientation shows sophisticated handling of multiple horizons. He explicitly framed long-term systemic investments: energy independence goal for 2025 (evt_004), climate policy trajectory (evt_025: Paris Agreement, 200 nations), and Iran nuclear deal as multi-decade constraint (ev_034). His 'resurgence' narrative (evt_018) positioned job growth as 57-month continuous trend, emphasizing sustained trajectory over point-in-time victories. His Cancer Moonshot (evt_026) represented explicitly long-term initiative—building on 45 years of prior research (ev_042). However, he simultaneously managed urgent political deadlines with precision: transportation funding seven days from expiration (ev_011), student loan rate doubling in eight days (ev_011), sequester March 1st deadline (evt_011). His 'Year of Action' framing combined immediate executive moves with longer-term institutional change. The 2015 year-end address (evt_022) enumerated accomplishments across economic, health, climate, and social domains, suggesting comprehensive horizon management. This indicates a leader who thinks in systems with long characteristic times while maintaining operational attention to immediate system states.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_024",
+        "ev_025",
+        "ev_033",
+        "ev_034",
+        "ev_040",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Reform-oriented with institutional redesign preference: pursues comprehensive legislation over incremental adjustments where politically feasible",
+      "finding": "Obama demonstrates preference for structural reform over piecemeal修补 when political conditions permit. The ACA (evt_001) represented comprehensive healthcare system redesign extending Medicare solvency by 12 years—not a patch but a fundamental restructuring of coverage, payment, and consumer protections. Wall Street Reform (evt_002, evt_020) created new institutional architecture: independent CFPB, ended 'too big to fail' framework, established new consumer protection rules—rebuilding regulatory infrastructure rather than patching existing rules. The Dodd-Frank framework included 400+ provisions requiring systemic reconstruction of financial oversight (ev_028: specific CFPB recovery of $11 billion demonstrates functional new institution). However, when comprehensive reform was blocked, he demonstrated pragmatic adaptation—using executive orders to raise contractor minimum wage (ev_017) rather than waiting for broader legislation, and taking 20+ executive actions when Congress failed to act (ev_019). His energy blueprint (evt_004) proposed integrated system transformation across drilling, fuel efficiency, and clean energy—not isolated interventions. This suggests a leader who conceptualizes problems as system design challenges and pursues comprehensive solutions when possible, while accepting补丁 as fallback when structural change is blocked.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness: demonstrates reflective learning and public acknowledgment of feedback from citizen interactions",
+      "finding": "Obama shows notable capacity for self-reflection and learning from feedback. His farewell address demonstrated explicit metacognitive acknowledgment: 'Every day, I learned from you. You made me a better President' (ev_044), framing his entire presidency as an ongoing learning process responsive to citizen input. He acknowledged limitations in his trade policy epistemic model: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), demonstrating willingness to update beliefs based on historical feedback. His government modernization initiative (evt_023) represented institutional learning—asking external experts to help government 'modernize' based on observed dysfunction. The Cancer Moonshot (evt_026, ev_042) explicitly built on 45 years of prior progress, showing awareness of accumulated learning. His father's day address (evt_005) included personal reflection on his own absent-father experience as motivation for policy engagement, demonstrating psychological self-awareness. He credited American people collectively for progress (ev_032), showing distributed metacognition rather than attributing outcomes solely to personal leadership. His consistent use of data and metrics (ev_025, ev_028, ev_040) suggests comfort with self-monitoring and feedback incorporation. This indicates strong metacognitive orientation that treats feedback as essential input rather than threat.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_036",
+        "ev_037",
+        "ev_042",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_feedback_incorporation",
+      "definition": "This dimension captures how political leaders integrate distributed citizen input into policy systems—distinct from formal feedback control because it involves processing high-dimensional, noisy signals from millions of autonomous agents rather than engineered sensors",
+      "finding": "Obama demonstrates a distinctive pattern of treating citizen feedback as essential policy input. His farewell address explicitly framed his presidency as learning from distributed citizen interactions: 'my conversations with you, the American people—in living rooms and schools; at farms and on factory floors' (ev_044) as what 'kept me honest, kept me inspired.' He positioned government as tool for collective problem-solving where 'it's only as good as we make it' (ev_036), suggesting citizens as the feedback mechanism. He called for sustained civic engagement 'not just when there's an election' (ev_046), indicating continuous rather than periodic feedback incorporation. The government modernization initiative (evt_023) explicitly brought external perspectives into government processes, treating citizens as knowledge sources. His emphasis on vulnerable populations in sequester messaging (ev_014) used citizen impact data to close the policy feedback loop. This represents political adaptation of feedback control principles to democratic contexts where the 'sensors' are millions of autonomous citizens whose signals must be aggregated and interpreted rather than directly measured.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_036",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

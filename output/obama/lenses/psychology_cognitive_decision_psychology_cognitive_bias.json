@@ -1,0 +1,186 @@
+{
+  "discipline": "psychology",
+  "lens": "cognitive_decision_psychology_cognitive_bias",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with frequent use of executive authority and direct action to circumvent structural constraints",
+      "finding": "Obama consistently positioned himself as an active agent capable of shaping outcomes rather than passively responding to circumstances. Evidence includes his commitment to keep Medicare 'as long as I am President' (ev_001), his declaration of a 'Year of Action' with over 20 executive actions bypassing Congress (ev_019-020), and his firm stance that 'I will not negotiate over the full faith and credit of the United States' (ev_015). He framed policy choices as active decisions - 'we chose to invest in American auto industry' (ev_022) - rather than emergent outcomes. This pattern suggests System 2 dominance in at least his public communications, where deliberate agency is emphasized. His world-shaping orientation was particularly evident when Congressional obstruction blocked legislative priorities, prompting him to use executive authority as an alternative path to desired outcomes.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with moderate confirmation bias; demonstrates epistemic humility in limited domains while maintaining confident positions on core policies",
+      "finding": "Obama's belief formation appears primarily evidence-based, with frequent citation of statistics (11 million jobs, 26 million consumers protected, wind power tripled - ev_025, ev_028, ev_040) and specific policy outcomes. However, there are notable signs of confirmation bias in his framing: TPP is positioned primarily through the lens of competing with China (ev_031), potentially overweighting this threat vector in his trade policy reasoning. Interestingly, he showed epistemic humility about historical trade deals ('past trade deals haven't always lived up to the hype' - ev_027), suggesting some capacity for belief updating. His confidence statements ('I'm absolutely confident we will get there' - ev_004) typically follow logical reasoning chains rather than pure assertion, indicating an attempt at System 2 justification for System 1-like confidence. The consistent use of specific statistics suggests reliance on formal data processing, though selection of which statistics to emphasize may reflect motivated reasoning.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_031",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstract reasoning capacity combined with deliberate use of concrete specifics for persuasive communication",
+      "finding": "Obama demonstrates strong capacity for abstract policy philosophy while strategically deploying concrete data. His 'middle-out' economic theory ('Our economy grows best not from the top-down, but from the middle-out' - ev_021) and principles about opportunity ('no matter who you are or how you started out, with hard work and responsibility, you can get ahead' - ev_018) reveal abstract conceptualization abilities. Simultaneously, he grounds arguments in specific statistics: 2.5 million jobs (ev_033), $11 billion recovered for consumers (ev_028), wind power 'tripled' and solar 'thirtyfold' (ev_040). This pattern suggests sophisticated code-switching between System 2 abstract reasoning and System 1 concrete anchoring depending on communicative needs. His use of specific deadlines ('seven days away' - ev_011) and enumerated accomplishments ('Top 10 Things') demonstrates formalization tendencies - organizing information into structured formats rather than presenting holistic narratives.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_033",
+        "ev_040",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High need for outcome control with demonstrated willingness to use all available institutional tools to ensure policy preservation",
+      "finding": "Obama exhibited strong control orientation across multiple domains. In policy preservation, he issued definitive veto threats against Wall Street Reform repeal ('I will veto it' - ev_029) and refused to negotiate on the debt ceiling (ev_015), demonstrating commitment to maintaining policy gains. In process control, he convened unlikely coalitions (AFL-CIO with Chamber of Commerce - ev_008) and used executive orders extensively when Congress blocked legislation. In narrative control, he set tight deadlines and framed issues as urgent ('seven days away... eight days away' - ev_011) to shape the decision environment. His frequent use of executive actions (ev_019) when legislative pathways were blocked reveals a preference for controlling outcomes directly rather than accepting structural constraints. However, his success claims consistently attribute credit to collective action ('because of you' - ev_032, ev_044), suggesting some externalization that may function to maintain perceived legitimacy of control efforts.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission priority predominates with willingness to absorb significant relational and political costs to preserve core policy commitments",
+      "finding": "Obama consistently prioritized mission over relational comfort when these conflicted. His criticism of Congressional Republicans blocking minimum wage, equal pay, and unemployment insurance (ev_020) sacrificed bipartisan relations for policy advocacy. His veto threats on Wall Street Reform (ev_029) and absolute refusal to negotiate on the debt ceiling (ev_015) indicate willingness to accept high political costs. However, there are notable exceptions suggesting calibrated prioritization: his criticism of Senate obstruction acknowledged 'neither party has been blameless' (ev_010), and his father's day reflection showed relational sensitivity (ev_006). The memorial day addresses (ev_038-039) demonstrate mission dedication (supporting veterans/families) combined with genuine relational engagement rather than instrumental concern. This suggests a sophisticated calculus where mission is primary but relational considerations inform implementation style. The pattern fits Kahneman's loss aversion: once policies are framed as gains (ACA, Dodd-Frank), they are defended intensely regardless of relational cost.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Strong loss aversion with prominent use of loss-framing; moderate risk-taking confined to policy domains perceived as low-probability high-impact threats",
+      "finding": "Consistent with prospect theory, Obama's rhetoric heavily emphasizes loss-framing. Sequester warnings highlighted what would be lost: Head Start cuts, 'parents whose kids just got kicked out' (ev_014), military strain. His defense of Dodd-Frank framed repeal as risking 'another crisis' after 'working too hard to recover' (ev_029). The debt ceiling stance positioned default as unacceptable loss. This loss-dominant framing suggests high loss aversion coefficients - the pain of potential policy reversal outweighs gains from new initiatives. Paradoxically, he did take significant risks in domains he framed as existential threats: the auto bailout (ev_022) and Paris climate agreement (ev_041) involved large commitments. TPP was framed as risk of inaction ('China will write the rules' - ev_031), suggesting risk-taking primarily when status quo is framed as loss. His optimism bias is evident in confidence statements ('absolutely confident,' 'America's resurgence is real' - ev_024), potentially creating overconfidence in policy predictions.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_024",
+        "ev_029",
+        "ev_031",
+        "ev_041",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective deference to legitimate hierarchy combined with willingness to challenge hierarchical obstruction when perceived as undemocratic",
+      "finding": "Obama's relationship with hierarchy is complex and contextual rather than consistently deferential or rebellious. He respected institutional hierarchy when aligned with democratic values: honoring fallen heroes and supporting Gold Star families (ev_038), accepting Constitutional processes for same-sex marriage (ev_035). However, he actively challenged hierarchical obstruction: condemning Senate filibuster practices as contrary to 'what our founding fathers envisioned' (ev_010), refusing to negotiate on debt ceiling. He positioned himself as guardian of democratic norms rather than hierarchy itself. His attitude toward military authority was notably reverent ('no more solemn obligation' - ev_038), suggesting context-dependent hierarchy valuation. The executive actions against Congressional gridlock reveal pragmatic hierarchy navigation - using presidential power to circumvent legislative hierarchy when the latter was perceived as malfunctioning. This pattern suggests sophisticated understanding of multiple overlapping authority systems with selective compliance based on perceived legitimacy.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_035",
+        "ev_038",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-oriented with firm red lines; escalates strategically when core commitments threatened but prefers collaborative framing",
+      "finding": "Obama's conflict strategy demonstrates calibrated escalation patterns. On routine matters, he sought bipartisan collaboration ('This isn't a Democratic or a Republican issue' - ev_008, referencing AFL-CIO and Chamber of Commerce), suggesting preference for negotiation. However, on core commitments, he drew firm red lines: debt ceiling negotiations were declared off-limits (ev_015), Wall Street Reform repeal warranted veto threats (ev_029). This suggests a two-tier strategy: compromise on implementation, firm boundaries on policy fundamentals. The conflict with Congress escalated over time - from calls for bipartisan action (2010-2011) to 'Year of Action' executive bypass (2014), tracking the perceived intractability of opposition. His framing of conflicts was consistently moralized: 'terrible mistake' (ev_003), 'height of irresponsibility' (ev_015), suggesting Kahneman's certainty effect - once positions become emotionally invested, they are defended as absolute rather than negotiable. The absence of overt hostile attribution bias is notable - opponents were framed as mistaken rather than malicious.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_003"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with consistent framing of current actions as investments in future generations and legacy",
+      "finding": "Obama consistently framed decisions within long-term and generational time horizons. The Paris climate agreement was positioned as legacy to 'build upon' for 'our children' (ev_041). Economic statistics were framed against decades-long trends: 'decades-long erosion of middle-class jobs' (ev_024), 'strongest job growth year since 1990s' (ev_018). His own cancer moonshot was framed as part of a 45-year effort (ev_042). The ACA extension of Medicare solvency 'by at least 12 years' (ev_002) exemplifies long-term institutional thinking. His farewell address explicitly positioned his post-presidency as continued long-term engagement ('for all my days that remain' - ev_047). This contrasts with evidence of present bias in political tactics - urgent deadlines ('seven days away'), immediate legislative threats - suggesting sophisticated temporal calibration where long-term framing serves rhetorical purposes while tactical urgency drives immediate action. The planning fallacy appears minimal given documented policy outcomes, though his confidence in TPP's passage may have underestimated political resistance.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_018",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural solutions over incremental repairs, with demonstrated willingness to pursue comprehensive redesign when piecemeal approaches fail",
+      "finding": "Obama consistently favored comprehensive structural approaches over localized patches. His healthcare reform (ACA) represented fundamental restructuring of insurance markets rather than targeted assistance. Dodd-Frank established new regulatory architecture rather than patching existing frameworks. The energy blueprint sought systemic change ('cut oil imports by one-third') through multiple integrated levers (efficiency, domestic drilling, clean energy) rather than single interventions (ev_004). Government modernization through Silicon Valley partnerships (ev_037) represented structural innovation rather than process tweaks. When structural reforms were blocked, he pivoted to executive actions as structural workarounds rather than accepting incomplete patches. The sequester resistance exemplifies this orientation - he advocated 'balanced, comprehensive way' (ev_013) over arbitrary cuts. However, transportation bills and temporary FAA fixes (ev_011-012) represented pragmatic patching where comprehensive reform failed. This suggests principled preference for structural solutions with pragmatic acceptance of patches when necessary.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_013",
+        "ev_037",
+        "ev_028",
+        "ev_002",
+        "ev_011",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with evidence of self-monitoring in some domains; primarily uses cognitive frameworks for strategic communication rather than deep self-examination",
+      "finding": "Obama demonstrates notable but selective metacognitive awareness. He acknowledged past trade deal shortcomings ('past trade deals haven't always lived up to the hype' - ev_027), showing some belief-updating capacity. His farewell reflection on learning from citizens ('Every day, I learned from you. You made me a better President' - ev_044) suggests some self-monitoring of knowledge gaps. The enumeration of 'Top 10 Things' accomplishments (ev_033-035, ev_045) demonstrates systematic self-assessment. However, evidence of bias blind spot is present: confidence statements ('absolutely confident,' 'America's resurgence is real') lack qualification about potential counterfactuals or alternative interpretations. The consistent attribution of successes to collective action while maintaining personal agency claims may reflect motivated reasoning about his own role. His metacognitive awareness appears primarily deployed for rhetorical purposes ('I'm the first to admit') rather than genuine epistemic humility. There is minimal evidence of explicit monitoring for cognitive biases in decision-making - the framework is used analytically here but doesn't appear as a self-regulatory practice in his documented communications.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_033",
+        "ev_044",
+        "ev_045",
+        "ev_004",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "attribution_ asymmetry",
+      "definition": "Systematic pattern of attributing successes externally to collective action while accepting personal responsibility for direction-setting; the inverse asymmetry for failures is less directly tested but implied by the strong external credit patterns",
+      "finding": "Obama demonstrates pronounced external attribution for positive outcomes combined with implicit personal agency claims. His 2015 year-end address attributed all progress to 'the American people' - workers, entrepreneurs, teachers, health workers, parents ('It's you—the American people. All of this progress is because of you' - ev_032). The 2014 address similarly credited auto rescue success to collective choice ('we chose to invest' - ev_022) and small business surveys to justify minimum wage (ev_023). This external attribution pattern serves multiple functions: maintains humble self-presentation, builds broad constituency ownership of policies, and deflects criticism when outcomes are mixed. The asymmetry suggests sophisticated political metacognition - understanding that credit-claiming can be politically costly while shared credit builds durable support. This contrasts with implicit agency claims in phrases like 'As long as I am President' (ev_001) and 'I will not negotiate' (ev_015). The emergent dimension captures this distinctive attribution style not covered by standard agency orientation.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_023",
+        "ev_032",
+        "ev_033",
+        "ev_001",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "loss_frame_proliferation",
+      "definition": "Predominant use of loss-framing in policy advocacy - articulating threats, dangers, and what will be lost rather than gains to be achieved; a rhetorical strategy consistent with prospect theory's finding that losses loom larger than equivalent gains",
+      "finding": "A distinctive pattern across Obama's communications is the systematic use of loss-framing for persuasive impact. The sequester warnings detailed what would be lost: Head Start programs eliminated, seniors losing independent living support, military families under strain ('Parents whose kids just got kicked out of Head Start programs scrambling for a solution' - ev_014). Veterans hiring challenge was framed around unemployment numbers rather than employment opportunities (ev_009). Debt ceiling was positioned as existential threat to American credibility rather than opportunity for fiscal reform (ev_015). Even positive announcements used loss-prevention framing: Dodd-Frank as preventing 'another crisis' (ev_029), TPP as preventing China from writing rules (ev_031). This consistent loss-dominant framing suggests either genuine loss aversion driving rhetorical choices, or sophisticated application of prospect theory insights for political persuasion. The pattern may reflect both: genuine concern about policy reversals combined with strategic recognition that loss-framing is more persuasive than equivalent gain-framing. This emerges as distinct from standard risk posture analysis by focusing on communicative strategy rather than underlying risk preferences.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_015",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

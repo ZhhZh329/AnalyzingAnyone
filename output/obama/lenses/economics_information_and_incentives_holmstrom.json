@@ -1,0 +1,164 @@
+{
+  "discipline": "economics",
+  "lens": "information_and_incentives_holmstrom",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder with active world-shaping attempts within institutional constraints",
+      "finding": "Obama consistently operates as a structure-responder who adapts to institutional constraints while attempting to shape outcomes through available channels. When Congress blocks legislative priorities, he shifts to executive actions (ev_017, ev_019) rather than abandoning policy goals—a classic principal adapting to agent non-compliance. The pattern reveals a principal who understands the principal-agent dynamics with Congress and recalibrates governance mechanisms when legislative agents deviate from his preferred policy path. His repeated public accounting of blocked initiatives (ev_020) functions as a reputational sanctioning mechanism aimed at constraining Congressional agent slack.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Metric-dependent belief formation with quantitative proof requirements",
+      "finding": "Obama's public communications reveal a systematic preference for measurable proof over qualitative justification. He routinely cites specific employment statistics (ev_025: '57 months, 11 million jobs'), deficit figures (ev_016: deficit trajectory claims), consumer recovery amounts (ev_028: '$11 billion back...26 million consumers'), and energy production metrics (ev_040: wind tripled, solar 30x). This pattern suggests he forms and communicates policy beliefs through quantitative dashboards rather than narrative or principle-based reasoning alone. The frequency of metric deployment (ev_033, ev_040) indicates he treats measurable outputs as primary evidence of policy success, which aligns with Holmstrom's insight that when quality is hard to observe, actors latch onto observable metrics as proxies.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balanced between abstract philosophy and formal institutional commitments",
+      "finding": "Obama oscillates between high abstraction (ev_021: 'middle-out' economics philosophy; ev_018: 'opportunity for all' principles) and concrete formal mechanisms (executive orders, legislative proposals, veto threats). This is not weak abstraction but deliberate calibration—abstract principles establish legitimacy claims while formal mechanisms provide implementation infrastructure. His 'Year of Action' framing (ev_019) combines aspirational language with enumerated concrete actions, suggesting he uses formalization instrumentally rather than as a default cognitive style. The abstraction appears to serve political coalition-building while formal mechanisms operationalize actual governance.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_019",
+        "ev_021",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate but strategically deployed control through accountability mechanisms",
+      "finding": "Obama's control orientation manifests not as micromanagement but as systematic accountability infrastructure design. The CFPB creation (ev_028) exemplifies building an independent monitoring agent with specific enforcement mandate—delegating oversight while maintaining principal accountability. His veto threats (ev_029) and refusal to negotiate on debt ceiling (ev_015) show he reserves hardline control for fundamental rule-setting rather than operational details. Unlike a high-control manager who intervenes directly in agent tasks, Obama designs structural accountability mechanisms and maintains credibility through non-negotiable positions on process rules, allowing Congress considerable latitude on substantive policy content.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with calculated relational damage acceptance",
+      "finding": "Obama repeatedly accepts relational costs with Congressional actors when mission objectives are at stake. His public condemnation of Senate obstruction (ev_010: 'One senator gumming up the works...is certainly not what our founding fathers envisioned') and Republican blocking (ev_020) indicates willingness to burn relational bridges for procedural accountability. However, he invested in bipartisan coalition-building earlier (ev_008: AFL-CIO and Chamber of Commerce together) before pivoting to confrontational framing. This suggests mission prioritization is conditional—when bipartisan pathways exist, he invests in relational capital; when agents systematically defect, he chooses accountability rhetoric over relational repair.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-accepting on structural reform, conservative on institutional credibility",
+      "finding": "Obama demonstrates differentiated risk tolerance across domains. He accepts significant political risk in pursuing comprehensive reform (ACA, Dodd-Frank) where implementation uncertainty is high, yet becomes risk-averse when institutional credibility is threatened (ev_015: debt ceiling non-negotiation). His TPP engagement (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') shows willingness to enter uncertain arrangements with learning mechanisms built in. The Cancer Moonshot (ev_042, ev_043) represents delegation of high-risk, high-uncertainty scientific endeavor to expert agents with clear accountability structures. This posture reflects sophisticated risk allocation: experimental on policy content, conservative on rule-maintaining.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Formal hierarchy as governance infrastructure, not personal authority",
+      "finding": "Obama treats formal hierarchical positions (presidency, Congress, federal agencies) as information-gathering and accountability-assignment devices rather than personal power symbols. His repeated calls to Congress (ev_006, ev_011) treat the legislative branch as a principal-agent partner with formal responsibilities rather than a rival to be outmaneuvered. The CFPB and Dodd-Frank institutional designs (ev_028) create agency-level accountability with statutory mandate rather than relying on presidential discretion. When Congressional agents fail to act, he shifts to executive mechanisms (ev_017, ev_019) rather than attempting to override hierarchy. This suggests he views hierarchy as solving observability problems through formal rule assignment, not as concentrating decision authority.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_017",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalatory accountability rhetoric with preserved negotiation options",
+      "finding": "Obama's conflict strategy combines public escalation with maintained back-channels. He publicly names specific obstructionist behaviors (ev_010, ev_020) and issues hardline statements (ev_015: 'I will not negotiate') while keeping formal legislative pathways accessible. His framing of 'Year of Action' in response to Congressional blocking (ev_019, ev_020) represents a governance mechanism redesign—shifting task assignment from legislative agents to executive agents rather than accepting agent shirking. The veto threat on Dodd-Frank (ev_029) sets a credible commitment device for future Congressional agents. This strategy treats public accountability as a monitoring supplement while preserving formal institutional channels, consistent with Holmstrom's insight that principals use multiple mechanisms when information is incomplete.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong preference for long-term structural solutions over short-term fixes",
+      "finding": "Obama systematically prefers comprehensive long-term solutions even when short-term political gains are available. His advocacy for 'balanced approach' deficit reduction (ev_013) over sequester as immediate fix exemplifies this preference. The Paris climate agreement framing (ev_041: 'something to build upon') and multi-decade energy projections (ev_004: one-third oil import reduction by 2025) show mission-scale time horizons. Even on economic policy, he frames accomplishments in terms of decades-long trends to be reversed (ev_024: 'decades-long erosion of middle-class jobs and incomes'). This long-term orientation creates political risk when short-term metrics are negative but reveals consistent preference for structural over cosmetic solutions.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_013",
+        "ev_024",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for systemic redesign over incremental fixes",
+      "finding": "Obama demonstrates systematic preference for comprehensive institutional redesign when underlying problems are diagnosed as structural. The ACA represents complete health insurance market restructuring rather than targeted fixes (ev_002). Dodd-Frank creates comprehensive regulatory architecture rather than addressing isolated failures (ev_003, ev_028). His 'balanced approach' deficit reduction (ev_013) targets entitlement restructuring and tax reform as integrated components. The one exception is sequester response, where he advocates replacement with another comprehensive approach rather than incremental adjustment—treating sequester as a bad patch that should be replaced entirely. This suggests he treats structural problems as requiring structural solutions and views patches as inadequate when fundamental incentive distortions exist.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_013",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Limited explicit metacognitive awareness in public communications",
+      "finding": "Obama's public addresses do not demonstrate explicit monitoring of his own cognitive biases or systematic reasoning adjustments based on performance feedback. While he acknowledges that 'past trade deals haven't always lived up to the hype' (ev_027), this is framed as learning from external evidence rather than internal cognitive pattern correction. He does not publicly discuss adjusting decision processes due to revealed biases or constructing mechanisms to correct for predictable errors. The evidence suggests metacognition operates implicitly—if present at all—rather than as a declared governance principle. The Cancer Moonshot task force approach (ev_042, ev_043) shows institutional learning mechanisms but these are focused on organizational rather than personal cognitive processes.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "delegation_depth_with_monitoring_infrastructure",
+      "definition": "The extent to which principals design multi-layer monitoring and verification systems when delegating complex tasks to agents, rather than relying on outcome-based accountability alone. This captures Obama's distinctive approach of creating institutional watchdogs (CFPB) and cross-agency innovation mechanisms (Presidential Innovation Fellows) that operate alongside formal hierarchical accountability.",
+      "finding": "Obama's governance approach reveals systematic construction of monitoring infrastructure that extends beyond traditional hierarchical accountability. The CFPB (ev_028) represents not just delegation to an agent but creation of a dedicated monitoring apparatus with specific enforcement capabilities and consumer recovery metrics. The Presidential Innovation Fellows program (ev_043) creates a monitoring layer within government operations by embedding external evaluators. This differs from standard principal-agent framing where principals monitor agents directly—it describes principals who build agent-monitoring-agents as structural response to hard-to-observe policy implementation. Obama's 'Year of Action' executive orders (ev_019) represent similar mechanism design: creating verifiable action records rather than relying on trust-based delegation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "cross_domain_incentive_consistency",
+      "definition": "The tendency to design policy incentives across different domains (employment, healthcare, environment, veterans) using similar philosophical frameworks and accountability structures, creating coherence in multi-task environments where agents face competing measurable outputs.",
+      "finding": "Obama's economic messaging across 2010-2016 reveals consistent incentive design philosophy applied across domains: the 'middle-out' framework (ev_021) connects employment policy, minimum wage, education investment, and healthcare coverage under unified logic. Veterans hiring (ev_009) and workforce training (ev_016) use similar challenge-and-infrastructure mechanisms. Climate policy (ev_040, ev_041) applies the same measurement and accountability logic. This cross-domain consistency suggests Obama operates with a coherent multi-task incentive framework rather than domain-specific improvisations. From Holmstrom's multitask incentives perspective, this represents attempt to align diverse agent behaviors toward consistent principal objectives without allowing any single measurable output to dominate—ensuring effort allocation across hard-to-measure quality dimensions (coalition-building, relationship maintenance) alongside easy-to-measure metrics.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_016",
+        "ev_021",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

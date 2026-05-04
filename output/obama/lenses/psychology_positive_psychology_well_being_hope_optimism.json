@@ -1,0 +1,173 @@
+{
+  "discipline": "psychology",
+  "lens": "positive_psychology_well_being_hope_optimism",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong pathway-based agency orientation with explicit confidence in collective problem-solving capacity",
+      "finding": "Obama consistently expressed high agency by framing challenges as solvable and positioning both himself and the American public as capable drivers of change. In his 2011 weekly address, he stated 'I'm absolutely confident we will get there' and explicitly attributed this confidence to 'the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people' (ev_004). This reflects what Snyder's hope theory calls 'agency thinking' - the belief that one's goals are attainable through one's own actions. However, his agency was notably distributed rather than individualistic; he rarely positioned himself as sole problem-solver but rather as catalyzing collective capacity. His farewell address 'Every day, I learned from you. You made me a better President' (ev_044) further demonstrates this collective framing of agency. His 2016 statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges' (ev_036) explicitly articulates a theory of distributed agency as foundational to democratic governance.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Reality-calibrated optimism grounded in specific data and measurable outcomes",
+      "finding": "Obama's optimistic statements consistently anchored to verifiable metrics rather than pure positivity. His 2014 year-end address claimed 'Pick any metric you want – America's resurgence is real' (ev_024) followed by specific employment figures: 'Over the past 57 months, our businesses have created nearly 11 million new jobs. And in a hopeful sign for middle-class families, wages are on the rise again' (ev_025). On climate, he cited that 'carbon pollution from our energy sector is at its lowest level in 25 years' while noting economic growth continued (ev_040). This contrasts with 'blind optimism' because he acknowledged limitations - on trade, he admitted 'I'm the first to admit that past trade deals haven't always lived up to the hype' while arguing for the new agreement (ev_027). This pattern suggests what Seligman would term 'realistic optimism' - positive expectations informed by evidence rather than denial of obstacles. His epistemic style treated hope as warranted when specific indicators demonstrated progress, maintaining credibility while sustaining forward momentum.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_027",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity to articulate specific goals with clear pathways and intermediate benchmarks",
+      "finding": "Obama consistently demonstrated ability to translate abstract national goals into concrete targets and pathways. His 2011 Energy Blueprint specified 'Goal to cut oil imports by one-third by 2025' with enumerated strategies including 'increase domestic drilling, fuel efficiency, and clean energy' and named implementation partners like 'Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo' (evt_004). He also reframed abstract commitments into specific commitments - 'I've directed the federal government to lead by example – and already, we've hired 120,000 veterans. We've also challenged private companies to hire or train 100,000 post-9/11 veterans or their spouses by the end of 2013' (ev_009). His 2015 Top 10 list enumerated accomplishments with specific numbers: '2.5 million jobs; uninsured rate below 10%; Paris climate agreement; Iran nuclear deal' (ev_033, ev_034, ev_035). This formalization extended to institutional design: his Cancer Moonshot was described by Biden as having 'a clear strategy for the road ahead' with cross-agency task force (ev_042). Obama's abstraction capacity served hope by making future states legible and achievable rather than vague aspirations.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_033",
+        "ev_034",
+        "ev_035",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control orientation channeled toward institutional mechanisms and policy frameworks rather than personal dominance",
+      "finding": "Obama's control orientation manifested primarily through institutional design rather than personal authority. He signed executive orders requiring federal contractors to pay $10.10 minimum wage (ev_017) and took 'more than 20 executive actions' during his 'Year of Action' (ev_019). However, his control efforts consistently sought to constrain future actors rather than expand his own power - his veto commitment on Wall Street reform was explicit: 'And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). His sequester opposition framed control as protecting vulnerable populations from systemic damage: 'There are parents whose kids just got kicked out of Head Start programs scrambling for a solution. There are seniors who depend on programs like Meals on Wheels to live independently looking for help' (ev_014). He also demonstrated sophisticated boundary-setting around control - 'I will not negotiate over the full faith and credit of the United States' (ev_015) distinguished between negotiable policy matters and non-negotiable institutional integrity. This suggests a control orientation oriented toward institutional guardrails and rule enforcement rather than personal dominance.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation with willingness to absorb relational strain when core commitments at stake",
+      "finding": "Obama demonstrated consistent willingness to prioritize mission over relational comfort, particularly in confrontations with Congressional opposition. His criticism of Republican obstruction was explicit: 'Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class. They've said 'no' to raising the minimum wage, 'no' to equal pay for equal work, and 'no' to restoring the unemployment insurance' (ev_020). He condemned Senate obstruction evenhandedly: 'Neither party has been blameless in tactics like these. But it's time for both parties to put an end to them' (ev_010). His commitment language was absolute when core values involved: 'As long as I am President, that's a commitment this country is going to keep' regarding Medicare (ev_001). Yet he simultaneously sought bipartisan framing - on transportation, he noted 'This isn't a Democratic or a Republican issue – it's an American issue. That's why, last week, I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' (ev_008). This suggests mission prioritization combined with effort to reframe opposition as against national interest rather than partisan enemies, absorbing relational costs while attempting to maintain broad coalition potential.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_010",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking grounded in evidence-based confidence, willing to pursue unorthodox approaches when conventional paths blocked",
+      "finding": "Obama's risk posture showed willingness to take unconventional actions when institutional pathways were blocked, but always with strategic rationale. His 'Year of Action' executive actions were explicitly framed as responses to Congressional obstruction (ev_019, ev_020). His government modernization initiative represented unconventional risk - 'Over the past few years, for example, we've done something that government never has. We asked some of the sharpest minds from companies in Silicon Valley and across the country to come help us modernize the federal government' (ev_037). His trade policy positioned TPP as geopolitical risk calibration: 'Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy' (ev_031). The Cancer Moonshot represented institutional innovation risk - Biden described how 'Presidential Innovation Fellows—some of the top technology minds who left Silicon Valley to work in the White House' built new platforms like Trials.Cancer.Gov (ev_043). However, his risk-taking remained evidence-grounded rather than speculative; each unorthodox approach was justified by specific data about likely outcomes, suggesting risk posture calibrated by expected probability rather than pure optimism.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_031",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power orientation with explicit concern for preserving systemic legitimacy and democratic norms",
+      "finding": "Obama consistently framed power in terms of institutional legitimacy and democratic authorization rather than personal authority. His government modernization approach explicitly sought to make 'the best tool we've got' work better (ev_036). His power deployment prioritized rule-setting over personal dominance - his veto threat on Wall Street reform was framed as protecting 'new rules' from rollback (ev_029). He distinguished between negotiable policy preferences and non-negotiable institutional commitments: 'The United States of America is not a deadbeat nation. We are the world's bedrock investment. And doing anything to threaten that is the height of irresponsibility' (ev_015). His Memorial Day statement framed power as obligation: 'As Commander-in-Chief, I have no more solemn obligation than leading our men and women in uniform' (ev_038). His farewell call for civic engagement beyond elections reflected hierarchical respect: 'All of us, regardless of party, should throw ourselves into the work of citizenship. Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). This suggests power orientation as trust delegated for specific obligations rather than personal prerogative.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_036",
+        "ev_038",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Persistent pathway-seeking with strategic reframing rather than escalation or capitulation",
+      "finding": "Obama's conflict strategy consistently sought alternative pathways when primary routes blocked, avoiding both surrender and escalation. When Congress blocked minimum wage increases, he pursued executive orders for federal contractors (ev_017, ev_019). When Congressional obstruction blocked judicial nominees, he advocated for structural reform: 'calling for banning congressional insider trading and 90-day up-or-down votes on nominations' (evt_008). His economic philosophy explicitly theorized this: 'Our economy grows best not from the top-down, but from the middle-out. We do better when the middle class does better' (ev_021) - a conflict strategy of building alternative coalitions rather than winning zero-sum battles. When sequester caused damage, he documented human costs ('Head Start program cuts, airport disruptions, military strain') and called for 'balanced deficit reduction approach' as alternative (ev_014). His conflict rhetoric reframed opponents as obstructionists rather than enemies - 'Republicans in Congress have blocked...' (ev_020) rather than characterizing their values as illegitimate. This suggests translation strategy: converting partisan conflict into 'national interest vs. obstruction' framing, maintaining pathway hope by redefining rather than abandoning goals.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term orientation with consistent attention to legacy implications and future-oriented policy design",
+      "finding": "Obama consistently operated across long time horizons, framing current actions as legacy investments. His 2016 climate statement explicitly invoked future generations: 'That's not something to tear up – it's something to build upon. And if we keep pushing, and leading the world in the right direction, there's no doubt that, together, we can leave a better, cleaner, safer future for our children' (ev_041). His energy policy set targets 10+ years forward: 'Goal to cut oil imports by one-third by 2025' (evt_004). He framed trade agreements as generational decisions: 'Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy' (ev_031) - positioning TPP as setting rules for decades. His farewell reflected on eight-year arc and explicitly looked forward: 'Eight years later, I am even more optimistic about our country's promise. And I look forward to working along your side, as a citizen, for all my days that remain' (ev_047). The Cancer Moonshot, as described by Biden, represented explicit multi-decade commitment: 'When President Nixon declared war on cancer in 1971...' framing Obama's effort within a 45-year trajectory (ev_042). His time horizon suggests mission-scale thinking where individual terms serve longer institutional trajectories.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_031",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when incremental approaches prove insufficient",
+      "finding": "Obama consistently favored structural solutions over temporary fixes when systemic problems required intervention. His signature achievements - ACA, Dodd-Frank, Climate frameworks - represented institutional redesign rather than incremental adjustment. On healthcare: 'Reform has actually added at least a dozen years to the solvency of Medicare – the single longest extension in history' (ev_002). On financial regulation: he framed Dodd-Frank as establishing permanent structures: 'Consumer Financial Protection Bureau with one mission: to protect American consumers' that recovered '$11 billion back in the pockets of more than 26 million consumers' (ev_028). His sequester opposition sought structural deficit reduction rather than temporary patches: 'My preference – and the preference of many Members of Congress – is to do that in a balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code' (ev_013). He contrasted 'manufactured crises' (ev_048) - temporary fixes - with sustainable frameworks. His government modernization initiative represented systems redesign: 'Presidential Innovation Fellows' building new platforms (ev_043). When blocked on legislation, he pursued executive actions that restructured relationships between government and contractors (minimum wage) rather than accepting partial victories. This suggests high rebuild orientation when blocked pathways revealed systemic limitations.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_028",
+        "ev_043",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness enabling realistic calibration between genuine hope and wishful thinking",
+      "finding": "Obama demonstrated notable metacognitive sophistication in distinguishing warranted hope from wishful optimism. On trade policy, he explicitly acknowledged limits of past approaches: 'I'm the first to admit that past trade deals haven't always lived up to the hype. And that's why we've successfully gone after countries that break the rules at our workers' expense. But that doesn't mean we should close ourselves off from new opportunities' (ev_027). This self-aware acknowledgment allowed him to maintain hope about TPP while accounting for historical disappointments. His December 2015 year-end address showed awareness of selective framing: 'Pick any metric you want – America's resurgence is real' (ev_024) acknowledged the choice involved in metric selection while defending the selection. His deficit statement showed calibrated confidence: 'right now, our deficits are already falling at the fastest rate since the end of World War II' (ev_016) - verifiable data rather than pure assertion. His farewell reflection 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) demonstrated self-awareness about his own development. This metacognitive capacity appears to support his reality-calibrated optimism - he could monitor whether his hopeful expectations remained anchored in evidence rather than drifting into denial.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_024",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_hope",
+      "definition": "The specific form of hope that organizational systems, governance structures, and democratic processes can be reformed to function more effectively - distinct from individual agency hope or outcome optimism. This dimension captures hope directed at institutional capacity rather than personal capability or result expectations.",
+      "finding": "Obama's hope framework consistently invoked institutional potential rather than purely individual or outcome optimism. His government modernization initiative explicitly sought to improve 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036). He described bringing 'Silicon Valley' expertise into government to redesign institutional processes (ev_037). His transportation funding campaigns invoked institutional continuity: 'Congress had passed it seven times previously' (evt_006), treating institutional patterns as basis for future cooperation. His climate policy framed international institutional design as the mechanism for change - 'Paris climate agreement with nearly 200 nations' (evt_025). His Cancer Moonshot explicitly reorganized multiple agencies into a task force with cross-institutional coordination (ev_043). This pattern suggests Obama held a distinctive form of hope - that institutions themselves could become more capable problem-solving mechanisms - which may be analytically distinct from personal agency hope or outcome optimism and may help explain his 'Year of Action' executive strategy when legislative institutions blocked progress.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_037",
+        "ev_043",
+        "evt_006",
+        "evt_025"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "attributed_hope_catalysis",
+      "definition": "The strategic practice of attributing agency and hope capacity to others rather than claiming personal credit, used to catalyze collective efficacy rather than personal dependence. Distinct from general agency orientation in that it specifically involves other-directed attribution as a deliberate mechanism.",
+      "finding": "Obama consistently channeled hope through attributed agency rather than personal claim. His 2015 year-end address centered on others: 'It's you—the American people. All of this progress is because of you—because of workers rolling up their sleeves and getting the job done, and entrepreneurs starting new businesses. Because of teachers and health workers and parents—all of us taking care of each other' (ev_032). His economic philosophy was explicitly 'middle-out': 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). His farewell reflected 'my conversations with you, the American people – in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts – are what have kept me honest, kept me inspired, and kept me going' (ev_044). He presented himself as channel rather than source: 'Eight years later, I am even more optimistic about our country's promise. And I look forward to working along your side, as a citizen' (ev_047). This pattern suggests attributed hope catalysis - using public communications to build collective efficacy by consistently positioning the American people as the true agents of change. This may amplify hope at collective level by reducing dependency on individual leadership and may help explain how he maintained optimistic outlooks despite significant political opposition.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_032",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

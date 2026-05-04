@@ -1,0 +1,169 @@
+{
+  "discipline": "psychology",
+  "lens": "organizational_leadership_psychology_team_dynamics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-Responder with Strategic Shaping Capacity",
+      "finding": "Obama operates primarily within institutional constraints while demonstrating sophisticated capacity to shape outcomes through available channels. His speeches reveal consistent respect for constitutional structures and democratic processes (ev_036: 'our founders trusted us with the keys to this system of self-government'), yet he actively uses executive authority, coalition-building, and public persuasion to drive agenda items. Evidence shows tactical adaptation: when Congress blocked legislative priorities (minimum wage, equal pay), he pivoted to executive actions (ev_019: 'more than 20 executive actions'); when bipartisan cooperation was possible (transportation, budget), he explicitly sought cross-party alliances (ev_008: AFL-CIO and Chamber of Commerce collaboration). This suggests a leader who reads systemic constraints accurately and strategically deploys available levers rather than either submitting to structure or attempting to override it.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_008",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-Grounded Systemic Thinker",
+      "finding": "Obama demonstrates consistent reliance on empirical data and systematic frameworks for forming policy judgments. Throughout speeches, he anchors arguments in specific statistics: 11 million jobs created (ev_025), 26 million consumers recovering $11 billion through CFPB (ev_028), wind power tripled and solar 30x (ev_040). His 'middle-out' economic philosophy (ev_021) represents a synthesized theoretical framework connecting individual policy interventions to systemic economic logic. Notably, he demonstrates intellectual honesty about past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This suggests an epistemic style that values both quantitative grounding and conceptual integration, with capacity to update beliefs based on evidence rather than defending prior positions.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-High Formalization with Practical Grounding",
+      "finding": "Obama shows strong capacity for abstract policy conceptualization (balanced deficit reduction, middle-out economics, energy security through diversified approach) while maintaining connection to concrete human impacts. His energy blueprint explicitly rejects single-solution thinking: 'Drilling alone is not a real strategy' (ev_005), instead advocating integrated approach across multiple domains. The sequestration addresses demonstrate ability to formalize abstract budget debates into visceral human consequences—Head Start cuts, Meals on Wheels impacts, military family strain (ev_014). His tendency to enumerate accomplishments in structured lists (Top 10 Things in 2015, ev_033) reflects comfort with formal categorization while framing everything within narrative of collective achievement.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_014",
+        "ev_033",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Institutional Control Rather Than Personal Domination",
+      "finding": "Obama's control orientation operates through institutional design and rule-setting rather than personal authority or direct management. His veto commitment on Wall Street Reform repeal (ev_029: 'I will veto it') and refusal to negotiate on debt ceiling (ev_015: 'I will not negotiate over the full faith and credit') demonstrate willingness to exercise constitutional power decisively on core principles. However, his government modernization initiative deliberately externalized control by bringing Silicon Valley talent into government (ev_037: 'asked some of the sharpest minds from companies in Silicon Valley to help us modernize'). His Cancer Moonshot assigned clear leadership to Biden while creating cross-agency task force structure (ev_042-043). This pattern suggests preference for designing systems and assigning roles rather than direct personal control.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-Primacy with Relational Investment",
+      "finding": "Obama demonstrates consistent willingness to prioritize policy missions over relational comfort with political opponents, as evidenced by explicit criticism of Congressional obstruction (ev_020: Republicans 'said no to raising minimum wage, no to equal pay, no to restoring unemployment insurance'). However, his mission prioritization occurs within frames that attempt to minimize relational damage—blaming 'tactics' rather than character (ev_010: 'Neither party has been blameless in tactics like these'), framing opposition as temporary obstruction rather than permanent enmity. His mission commitment extends internationally: Paris climate agreement, Iran nuclear deal, TPP negotiations all represent high-stakes initiatives pursued despite significant political cost. The farewell address (ev_044) reveals underlying relational orientation: 'Whether we've seen eye-to-eye or rarely agreed at all... conversations with you... are what have kept me honest and inspired.' This suggests mission-primary orientation with sophisticated relational maintenance.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated Risk-Taking with Diversified Portfolios",
+      "finding": "Obama shows appetite for significant policy risks when potential gains justify exposure, with preference for diversified approaches that distribute risk. The auto industry rescue represents substantial risk with political and economic stakes, explicitly credited for manufacturing renaissance (ev_022). His energy security strategy explicitly rejects single-solution approaches (ev_005: 'Drilling alone is not a real strategy'), instead pursuing multiple parallel tracks. Iran nuclear deal and TPP represent high-stakes diplomatic gambits with uncertain outcomes. However, he mitigates through evidence-gathering, coalition-building, and phased implementation. His sequestration response—advocating balanced approach rather than either acceptance or total rejection—demonstrates risk management through compromise positioning rather than all-or-nothing bets.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_005",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional Authority as Public Trust",
+      "finding": "Obama consistently frames presidential power and government authority as delegated public trust rather than personal prerogative. His statement on debt ceiling (ev_015: 'United States of America is not a deadbeat nation... we are the world's bedrock investment') positions national credibility as systemic property, not executive convenience. His government modernization initiative deliberately diluted traditional bureaucratic hierarchy by inserting external innovators (ev_037). The Cancer Moonshot delegated substantial authority to Biden while maintaining accountability structures (ev_042-043). His farewell address emphasis on civic participation beyond elections (ev_046: 'throw ourselves into the work of citizenship... over the full span of a lifetime') suggests understanding of power as distributed rather than concentrated. This indicates sophisticated relationship to hierarchy as institutional mechanism for collective action rather than personal command structure.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled Positioning with Strategic Escalation",
+      "finding": "Obama's conflict strategy combines principled stance-setting with tactical escalation calibrated to context. On core values (Wall Street Reform, debt ceiling, climate agreements), he takes explicit non-negotiable positions with clear consequences (veto threats, ev_029; refusal to negotiate, ev_015). However, on process issues and secondary matters, he demonstrates greater flexibility—explicitly acknowledging bipartisan cooperation as 'Christmas miracles' (ev_048). His condemnation of Senate obstruction (ev_010) escalates the conflict to systemic critique ('not what our founding fathers envisioned') rather than personal attack. The pattern suggests translation strategy: converting interpersonal conflict into structural/institutional critique, which both elevates debate and creates coalition-building opportunities with broader public.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_048",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "ceptual_key": "time_horizon",
+      "assessment": "Multi-Cycle Strategic Orientation",
+      "finding": "Obama consistently demonstrates time horizons extending beyond immediate political cycles to policy sustainability. His Medicare commitment ('as long as I am President, that's a commitment this country is going to keep,' ev_001) positions programs as generational investments. The 12-year Medicare solvency extension (ev_002) represents structural planning across multiple administrations. Energy security goal of cutting oil imports by one-third by 2025 (ev_004) spans presidential terms. Climate strategy explicitly builds on prior commitments and establishes foundations for successors (ev_041: 'not something to tear up—it's something to build upon'). His farewell call for 'full span of a lifetime' civic engagement (ev_046) extends temporal frame beyond electoral cycles. This suggests orientation toward structural permanence rather than temporary political wins.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural Reformist Within System Constraints",
+      "finding": "Obama shows preference for structural solutions when systemic failures require them, rather than incremental patching. ACA represents fundamental healthcare system redesign rather than targeted fixes. Wall Street Reform created new institutional architecture (CFPB, consumer protections) rather than adjusting existing framework. Government modernization through Presidential Innovation Fellows and Silicon Valley partnerships represents attempt to rebuild government technology infrastructure, not patch legacy systems (ev_037, ev_043). His Delaware job training reform report (ev_016) suggests workforce system redesign. However, he demonstrates pragmatic patching when structural solutions are blocked—executive actions as substitutes for legislative minimum wage increases (ev_017-019). This indicates sophisticated diagnosis of when structural vs. local solutions are appropriate, with structural preference when political conditions permit.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_043",
+        "ev_016",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High Reflective Capacity with Public Integration",
+      "finding": "Obama demonstrates sophisticated metacognitive awareness demonstrated through explicit acknowledgment of errors, contextual learning, and public integration of feedback. His admission about trade deals (ev_027) shows willingness to publicly evaluate and update prior positions. The farewell address represents extensive self-reflective synthesis: 'Every day, I learned from you. You made me a better President' (ev_044). His acknowledgment of father-absence impact on his development (ev_006) and sharing of personal coaching experiences (ev_007) suggest awareness of how personal history shapes present behavior. His framing of policy challenges through empathetic human impact (Head Start families, military spouses, ev_014, ev_038-039) indicates capacity to shift perspective and consider alternative viewpoints. The consistent emphasis on listening to American people across diverse settings (living rooms, farms, military outposts, ev_044) suggests active metacognitive monitoring of one's own blind spots through external input.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_006",
+        "ev_007",
+        "ev_014",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Collective Attribution Orientation",
+      "definition": "The degree to which a leader attributes achievements to collective action rather than individual leadership, which shapes team culture and succession dynamics. This dimension captures how leaders distribute credit and whether they build self-sustaining systems or personally-dependent structures.",
+      "finding": "Obama demonstrates unusually strong collective attribution orientation across the evidence base. In the year-end 2015 address, he explicitly stated 'It's you—the American people. All of this progress is because of you—because of workers rolling up their sleeves' (ev_032), repeatedly framing accomplishments as collective achievement rather than personal victory. This pattern extends to institutional credit: thanking 'workers,' 'entrepreneurs,' 'teachers,' 'health workers,' and 'parents' as the actual agents of change. The Cancer Moonshot (ev_042-043) explicitly assigned significant credit to Biden and cross-agency teams. This collective attribution style has profound team dynamics implications: it reduces personal dependency on the leader, builds legitimacy for continued collective action, but may undervalue the leader's own coordinating function in team narratives.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_042",
+        "ev_043",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Cross-Domain Coalition Architecture",
+      "definition": "The capacity to build and sustain coalitions across traditionally opposed stakeholder groups (labor/business, partisan divides, public/private sectors) by identifying shared structural interests rather than ideological common ground.",
+      "finding": "Analysis reveals Obama as sophisticated cross-domain coalition architect who identified structural interests transcending traditional alignments. His transportation funding appeal explicitly brought together AFL-CIO and Chamber of Commerce (ev_008)—groups that 'don't always see eye-to-eye.' The Clean Fleets Partnership assembled UPS, FedEx, AT&T, Verizon, and PepsiCo around shared infrastructure interests (ev_004). Veteran hiring initiative built coalition between government leadership, private employers, and veterans' organizations. This coalition architecture operates through identifying shared pragmatic interests (jobs, economic growth, stability) rather than ideological overlap, suggesting sophisticated reading of stakeholder positions and strategic framing to create temporary alignment windows. The team dynamics implication is significant: this approach builds broad but potentially fragile coalitions that may dissolve when shared pragmatic interests diverge.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_004",
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

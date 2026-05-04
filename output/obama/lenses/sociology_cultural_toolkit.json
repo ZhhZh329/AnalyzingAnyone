@@ -1,0 +1,199 @@
+{
+  "discipline": "sociology",
+  "lens": "cultural_toolkit",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strategic world-shaper who works within structural constraints, using institutional authority while consistently invoking collective American agency",
+      "finding": "Obama demonstrates a cultural toolkit organized around the conviction that individual and institutional agency can reshape social structures, but his approach is contextually strategic rather than purely voluntarist. He deployed executive actions as world-shaping tools when legislative paths were blocked (ev_017, ev_019), yet consistently framed achievements as products of American people's collective agency rather than presidential will alone ('All of this progress is because of you—the American people' ev_032). His cultural toolkit includes both transformative frameworks—like the ACA as structural healthcare overhaul—and pragmatic adaptation mechanisms, suggesting he reads situations as requiring either world-shaping or structural navigation. The 'Year of Action' narrative (ev_015, ev_019) reveals Obama selectively deploying world-shaping agency when institutional cooperation fails, while his bipartisan celebration moments (ev_048) show him equally ready to claim cooperative achievement. This pattern indicates a culturally sophisticated agent who selects from multiple available strategies—transformative action versus institutional collaboration—depending on structural conditions.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_032",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven empiricist with strong trust in data, expert knowledge, and demonstrated outcomes as the basis for policy claims",
+      "finding": "Obama's cultural toolkit reveals a pronounced epistemic orientation toward empirical evidence and demonstrated results. His addresses consistently deploy statistics as primary argumentative currency—11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x growth (ev_040), uninsured rate below 10 percent (ev_033). This pattern indicates a cognitive framework where legitimate knowledge claims require quantitative substantiation. His willingness to admit past trade deals 'haven't always lived up to the hype' (ev_027) while defending TPP suggests epistemic humility based on evidence review. His government modernization initiative (ev_037, ev_043)—recruiting Silicon Valley talent to improve federal technology—reflects a broader cultural trust in expertise and data-driven problem-solving as cognitive tools. Obama appears to lack strong attachment to ideological dogma; instead, he evaluates policies against empirical outcomes, suggesting a pragmatic empiricism that selects from diverse policy traditions based on demonstrated effectiveness.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_033",
+        "ev_027",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High-capacity abstract thinker who develops and applies broad cultural frameworks across multiple policy domains",
+      "finding": "Obama's cultural toolkit reveals sophisticated abstract thinking organized around several core frameworks applied consistently across policy domains. His 'middle-out' economic philosophy (ev_021) abstracts from specific policies to a general principle: economic growth follows from strengthening the middle class, not from top-down supply-side measures. This framework operates as a transferable cultural schema he applies to wage policy, tax policy, and manufacturing investments. His 'opportunity for all' narrative (ev_018) similarly abstracts specific policy disputes into a broad philosophical commitment. His framing of democratic governance as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) represents a high-level abstract schema about government's purpose. Yet Obama also demonstrates capacity for formal institutional engagement—signing bipartisan legislation, working through Congressional procedures, establishing international agreements with formal enforcement mechanisms (TPP, Paris climate, Iran nuclear deal). This suggests his abstraction capacity operates in productive tension with procedural formalism; he develops abstract visions but expresses them through formal institutional channels.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_036",
+        "ev_030",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation oriented toward policy implementation and institutional integrity rather than personal power accumulation",
+      "finding": "Obama's cultural toolkit reveals a distinctive control orientation focused on policy control and institutional fidelity rather than personal authority consolidation. His willingness to issue veto threats against Wall Street Reform repeal (ev_029) and refuse debt ceiling negotiations (ev_015) demonstrates he exercises constitutional control mechanisms decisively when core policy commitments are threatened. His executive orders on minimum wage (ev_017) and 'Year of Action' executive actions (ev_019) show willingness to use unilateral authority when Congressional obstruction blocks policy goals. However, his repeated calls for Congressional action, bipartisan cooperation, and deference to legislative processes (ev_008, ev_048) reveal a control orientation that prefers shared governance. His statement that 'neither party has been blameless in tactics like these' (ev_010) suggests he exercises institutional control while remaining reflexively uncomfortable with unilateralism. This pattern indicates a cultural toolkit that values policy outcomes over control maintenance—willing to use available control mechanisms but preferring environments where control is distributed.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_008",
+        "ev_010",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Balanced orientation where mission pursuit coexists with genuine relational awareness; mission costs are acknowledged, not hidden",
+      "finding": "Obama's cultural toolkit reveals mission commitment alongside notable sensitivity to relational costs. His public fatherhood reflections (ev_006) and coaching his daughter's basketball team (ev_007) demonstrate personal investment in family relationships as central to identity, not competing with public mission. His Memorial Day addresses emphasizing Gold Star families and 'visible and invisible wounds' (ev_038) show mission-related human costs receive explicit acknowledgment in his cultural framing. The Cancer Moonshot—assigned to his Vice President as major initiative (ev_042, ev_043)—indicates mission deployment without requiring personal sacrifice narratives. Yet his 'Year of Action' framing (ev_015, ev_020) shows willingness to frame Congressional opposition as obstruction rather than legitimate disagreement, creating relational costs in political space. His personal statement that conversations with Americans 'kept me honest, kept me inspired, and kept me going' (ev_044) suggests relational engagement was constitutive of his capacity to pursue mission. This pattern indicates a cultural toolkit where mission pursuit is embedded in relational networks rather than hermetically sealed from them—mission progress depends on relational vitality.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_042",
+        "ev_043",
+        "ev_015",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with strong emphasis on evidence-based risk assessment and long-term investment horizons",
+      "finding": "Obama's cultural toolkit reveals a sophisticated risk orientation built on evidence assessment and strategic patience. His defense of the auto bailout as 'investment' rather than bailout (ev_022)—framing risk-taking as calculated investment with expected returns—shows a consistent risk reframing strategy. His approach to climate policy as 'something to build upon' (ev_041) rather than reversible gamble reflects a long-term investment horizon where uncertain but potentially catastrophic risks justify present action. His Iran nuclear deal and Cuba normalization show willingness to take diplomatic risks based on evidence that engagement produces better outcomes than isolation. His refusal to negotiate over debt ceiling (ev_015) reveals risk boundaries—the refusal to accept risks that could destabilize core financial systems, even at cost of political conflict. The pattern suggests Obama operates with a cultural toolkit that distinguishes between acceptable strategic risks (diplomatic engagement, economic investment, climate action) and unacceptable risks (financial default, policy reversal that returns to crisis). This risk calibration appears consistently calibrated to evidence and long-term outcomes rather than short-term political calculation.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_041",
+        "ev_034",
+        "ev_015",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionally literate actor who uses formal authority while consistently framing power as deriving from democratic legitimacy",
+      "finding": "Obama's cultural toolkit reveals sophisticated relationship with institutional hierarchy—using formal authority while framing power as derived from democratic mandate. His use of veto threats (ev_029), executive orders (ev_017, ev_019), and White House partnerships (ev_009, ev_037) demonstrates comfortable use of institutional power. Yet consistently, he frames power as derivative: 'That's not something to tear up—it's something to build upon' (ev_041) frames his agenda as building upon collective American effort rather than personal power. His statement that 'our founders trusted us with the keys to this system of self-government' (ev_036) reflects constitutional democracy as central cultural schema—power is held in trust for citizens. His repeated invocations of 'the American people' as agents of progress (ev_032, ev_044, ev_045) consistently subordinate executive authority to democratic legitimacy. His distinction between war on 'al-Qaeda and its affiliates' and 'never...at war with Islam' (ev_012) suggests he navigates hierarchy carefully—using military authority while maintaining cultural boundaries that prevent hierarchy from becoming domination. This pattern indicates a cultural toolkit where formal authority is a tool for implementing democratic mandates, not an end in itself.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_009",
+        "ev_037",
+        "ev_041",
+        "ev_036",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Primarily translation and negotiation oriented, but capable of decisive escalation when institutional blockage requires alternative pathways",
+      "finding": "Obama's cultural toolkit reveals conflict strategy primarily oriented toward translation and negotiation, with escalation reserved for situations of institutional blockage. His consistent emphasis on bipartisan coalitions ('representatives from the AFL-CIO and the Chamber of Commerce' together, ev_008) and bipartisan budget deals as 'Christmas miracles' (ev_048) demonstrates strong cultural preference for cooperative conflict resolution. His framing of Transportation Bill and student loan crises (ev_011) uses urgent language designed to pressure but not demonize opponents. However, when translation and negotiation fail repeatedly, Obama shifts to escalation—his 'Year of Action' narrative (ev_020) explicitly frames Congressional Republicans as obstructing middle-class priorities, marking a shift from collaborative to confrontational framing. His executive actions taken when legislation fails (ev_017, ev_019) represent structural escalation—finding alternative institutional pathways when legislative route is blocked. His refusal to negotiate over debt ceiling (ev_015) escalates by establishing hard limits. This pattern indicates Obama possesses a conflict strategy toolkit that includes both collaborative translation (seeking shared frameworks, finding bipartisan language) and decisive escalation (executive unilateralism, veto threats, confrontational framing), selecting based on assessment of whether cooperation is viable.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048",
+        "ev_011",
+        "ev_020",
+        "ev_017",
+        "ev_019",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale temporal orientation spanning immediate crisis management to generational legacy construction",
+      "finding": "Obama's cultural toolkit reveals a distinctive multi-scale temporal orientation. He demonstrates immediate crisis management orientation—sequester warnings with specific deadlines (ev_011, ev_013), transportation funding expiration countdowns (ev_011), and urgent action framing. Simultaneously, he operates with multi-decade horizons—energy independence by 2025 (ev_004), Afghanistan transition by 2014 (ev_010), Medicare solvency extension of 12+ years (ev_002). His climate policy frames explicitly invoke generational time: leaving 'a better, cleaner, safer future for our children' (ev_041). The Cancer Moonshot references 45 years of prior progress (ev_042) situates his initiative within long historical arc. His farewell address frames continued civic engagement over 'the full span of a lifetime' (ev_046) and declares continued optimism 'for all my days that remain' (ev_047). This pattern indicates Obama possesses a culturally sophisticated temporal toolkit that allows simultaneous operation across immediate, medium-term, and generational horizons—calibrating urgency versus patience based on issue characteristics rather than applying single temporal orientation universally.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_002",
+        "ev_004",
+        "ev_010",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strategic chooser between structural rebuild and pragmatic patching depending on political feasibility and policy domain",
+      "finding": "Obama's cultural toolkit reveals context-sensitive approach to rebuild versus patch choices. In healthcare, he pursued structural rebuild—the ACA as comprehensive overhaul extending Medicare solvency by 12+ years (ev_002) and reducing uninsured rate below 10 percent (ev_033)—rather than incremental patch of existing system. In financial regulation, Dodd-Frank represents structural rebuild establishing new institutional architecture (consumer protections, 'too big to fail' endings, CFPB creation) that produced $11 billion consumer recovery (ev_028). In climate policy, Paris Agreement and clean energy standards represent structural transformation framework (ev_040, ev_041). Yet equally, Obama demonstrates willingness to patch when rebuild is blocked—executive orders raising contractor minimum wage (ev_017) patch the wage system when full legislation fails; Silicon Valley partnerships for government modernization (ev_037) patch technology gaps within existing structures; veterans hiring initiatives (ev_009) expand successful programs rather than rebuilding veteran services from scratch. His pattern suggests a culturally sophisticated actor who assesses policy domains and political conditions to determine whether rebuild or patch is appropriate—rebuilding when political windows open and structural change is feasible, patching when obstruction requires pragmatic adaptation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_033",
+        "ev_028",
+        "ev_040",
+        "ev_041",
+        "ev_017",
+        "ev_037",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong self-awareness about cultural frameworks, influences, and the limits of presidential perspective",
+      "finding": "Obama demonstrates notably strong metacognitive awareness—conscious reflection on his own cultural frameworks and influence sources. His farewell address statement that conversations with Americans 'kept me honest, kept me inspired' (ev_044) explicitly acknowledges external perspectives as cognitive correctives. His attribution of all progress to 'the American people' (ev_032) reveals awareness that presidential agency operates within larger cultural and social frameworks, not isolated determination. His acknowledgment that past trade deals 'haven't always lived up to the hype' (ev_027) shows willingness to assess his own prior frameworks critically. His personal fatherhood narrative (ev_006)—sharing his experience of growing up without his father and wondering 'what my life would have been like had he been a greater presence'—demonstrates metacognitive reflection on biographical influences shaping his worldviews. His statement 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) explicitly frames his presidential performance as culturally mediated through continuous external input. This metacognitive pattern indicates Obama possesses culturally sophisticated self-awareness—recognizing that his perspectives are shaped by cultural inputs, that his frameworks have limitations, and that external perspectives provide cognitive corrections he actively seeks.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_civic_frame",
+      "definition": "The degree to which a person's cultural toolkit centers democratic participation as both means and ends—framing collective action through civic institutions as the legitimate basis for social change rather than elite direction, technocratic expertise, or charismatic leadership",
+      "finding": "Obama's cultural toolkit reveals democratic_civic_frame as a central organizing principle that distinguishes him from both purely technocratic and purely populist cultural orientations. Throughout his addresses, he consistently frames policy achievements as products of collective American action ('All of this progress is because of you', ev_032) while simultaneously calling for sustained civic engagement beyond elections ('Not just when there's an election', ev_046). His government modernization initiative explicitly recruited ordinary citizens from Silicon Valley ('some of the sharpest minds from companies', ev_037) rather than positioning himself as technocratic expert. His statement that 'our founders trusted us with the keys to this system of self-government' (ev_036) frames democratic participation as constitutional mandate, not presidential condescension. His farewell address 'I look forward to working along your side, as a citizen' (ev_047) explicitly positions himself as civic participant rather than democratic shepherd. This pattern suggests Obama's cultural toolkit contains a distinctive democratic_civic_frame where legitimate social change emerges from civic participation rather than flowing from leadership downward—a framework that neither purely technocratic experts nor populist movements would share.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_046",
+        "ev_037",
+        "ev_036",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "optimistic_resilience_narrative",
+      "definition": "The tendency to frame challenges, failures, and setbacks through an optimistic resilience narrative that emphasizes American capacity for recovery and renewal rather than decline, crisis, or irreversible damage",
+      "finding": "Obama's cultural toolkit reveals strong orientation toward optimistic resilience narrative—a cultural script that frames American challenges through recovery and renewal rather than decline or crisis. His 'America's resurgence is real' declaration (ev_024) explicitly counters narratives of American decline with evidence of measured progress. His framing of bipartisan budget deal and education bill as 'Christmas miracles' (ev_048) applies resilience narrative to political recovery. His statement that 'our economy depends on a financial system in which everyone competes on a level playing field' (ev_003) frames regulatory challenges through inclusive opportunity rather than zero-sum decline. His climate policy framing emphasizes clean energy growth ('wind power tripled, solar 30x', ev_040) and multilateral cooperation rather than environmental crisis. His farewell address listing achievements ('I am even more optimistic about our country's promise', ev_047) explicitly frames his presidency through resilience narrative—rising from crisis to renewal. This pattern suggests Obama possesses an optimistic_resilience_narrative cultural tool that consistently reframes challenges as recoverable, American capacity as expandable, and crises as transformative opportunities rather than permanent damage. This narrative serves as both meaning-making framework and political strategy—constituting the cultural resources Obama uses to mobilize collective action.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_048",
+        "ev_003",
+        "ev_040",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

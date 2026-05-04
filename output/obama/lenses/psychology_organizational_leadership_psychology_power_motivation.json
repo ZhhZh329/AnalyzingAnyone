@@ -1,0 +1,189 @@
+{
+  "discipline": "psychology",
+  "lens": "organizational_leadership_psychology_power_motivation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with proactive institutional design",
+      "finding": "Obama consistently demonstrates world-shaping rather than structure-responding behavior. He declared a 'Year of Action' (ev_019) after Congressional obstruction, created new institutions like the Consumer Financial Protection Bureau (ev_028), launched the Cancer Moonshot initiative (ev_042-43), established energy and trade frameworks (evt_004, evt_021), and used executive orders to advance policy when legislation stalled (ev_017). His speeches frame himself as an active agent of change: 'I'm absolutely confident we will get there' (ev_004) and 'America's resurgence is real' (ev_024). Rather than adapting to existing structures, he designed new systems, set long-term goals like cutting oil imports by one-third by 2025 (evt_004), and positioned himself as architect of outcomes rather than responder to circumstances.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_017",
+        "ev_019",
+        "ev_024",
+        "ev_028",
+        "ev_042",
+        "evt_004",
+        "evt_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded with principled integration",
+      "finding": "Obama's belief formation combines data-driven analysis with value-based reasoning. He cites specific statistics—'nearly 11 million new jobs' (ev_025), '11 billion back in the pockets of more than 26 million consumers' (ev_028), 'wind power threefold, solar more than thirtyfold' (ev_040)—as primary evidence for policy effectiveness. Yet he explicitly connects empirical outcomes to moral frameworks: Medicare as 'a commitment to America's seniors' (ev_001), economic growth as serving 'middle-out' rather than 'trickle-down' principles (ev_021), and climate action as leaving 'a better, cleaner, safer future for our children' (ev_041). He acknowledges complexity: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This suggests a reasoning style that tests policy against measurable outcomes while grounding judgments in principled commitments to collective welfare.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_021",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization with emphasis on institutional architecture",
+      "finding": "Obama demonstrates significant interest in formalizing systems and institutions rather than operating through informal networks. He created the CFPB as an independent regulatory body (ev_028), established the Clean Fleets Partnership with major corporations (evt_004), built the Presidential Innovation Fellows program to bring Silicon Valley expertise into government (ev_043), and structured the Cancer Moonshot as a cross-agency task force with defined missions (ev_042). His speeches reference legislative frameworks, executive orders, and treaty mechanisms rather than personal relationships or informal influence. However, he also emphasizes informal civic bonds—community volunteering, Gold Star family support (ev_039), and neighbor looking out for neighbor (ev_045). This suggests abstraction applied selectively to institutional design while maintaining connective tissue through informal community ties.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "evt_004",
+        "ev_039",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong institutional control with socialization emphasis",
+      "finding": "Obama demonstrates clear but notably socialized power motivation. He exercises decisive control over executive prerogatives—vowing 'I will veto' any Wall Street reform repeal (ev_029), refusing 'to negotiate over the full faith and credit of the United States' (ev_015), and using executive orders to raise contractor minimum wages (ev_017). Yet his control is consistently framed as serving institutional rather than personal ends: protecting Medicare beneficiaries (ev_001), recovering funds for consumer victims of predatory practices (ev_028), expanding veteran employment (ev_009). He rarely seeks personal status markers or demonstrable dominance over rivals. Instead, he builds capacity in other actors—training veterans, empowering consumers, delegating to Biden on the Moonshot (ev_042). This pattern aligns with McClelland's 'socialized power' rather than 'personalized power'—seeking influence over systems and outcomes rather than personal ascendance over others.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with strategic relational management",
+      "finding": "Obama clearly prioritizes policy missions over relational comfort with opponents. He condemned Senate obstruction as contrary to 'what our founding fathers envisioned' (ev_010), criticized Republicans who 'blocked or voted down every serious idea to create jobs' (ev_020), and took executive action when Congress blocked minimum wage increases (ev_019-20). However, his conflict approach is primarily institutional rather than personal—he works through existing channels, seeks bipartisan coalitions where possible (ev_008: AFL-CIO and Chamber of Commerce together), and frames issues in universal terms ('not a Democratic or Republican issue' for transportation funding). The relational cost he accepts involves political friction with opposition but not personal or psychological aggression. His mission orientation is evidenced by sustained initiatives like the Paris climate agreement (ev_041), ACA implementation (ev_001), and Wall Street reform defense (ev_028) across multiple years regardless of electoral or political pressure.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_019",
+        "ev_020",
+        "ev_001",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with principled boundaries",
+      "finding": "Obama demonstrates measured risk tolerance with clear non-negotiable boundaries. He embraced potentially politically costly initiatives: the Iran nuclear deal (ev_034), normalization with Cuba (evt_022), and the Paris climate agreement with nearly 200 nations (ev_041). He acknowledged that past trade deals 'haven't always lived up to the hype' (ev_027) yet continued pursuing TPP—accepting that some uncertainty accompanies geopolitical engagement. Conversely, he drew absolute lines: refusing any debt ceiling negotiation ('I will not negotiate over the full faith and credit of the United States' in ev_015), and committing vetoes against Wall Street reform repeal regardless of political pressure (ev_029). His risk posture suggests calculated engagement with uncertainty in pursuit of long-term goals, combined with bedrock commitments to certain principles that override pragmatic accommodation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_027",
+        "ev_029",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power legitimized through democratic principles",
+      "finding": "Obama uses formal hierarchy and institutional authority but consistently reframes presidential power as delegated from democratic principles rather than personal prerogative. He invoked founding intent to critique Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He described government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036)—legitimizing institutional power through democratic function. He used executive authority extensively but framed it as response to institutional failure ('Year of Action' after Congressional obstruction in ev_015). He delegated significant initiative to others (Biden on Cancer Moonshot in ev_042) rather than centralizing all decisions. This suggests a leader who understands power as embedded in institutional structures with democratic legitimacy, not as personal authority to be accumulated or displayed.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_036",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Primarily translational/institutional with unilateral fallback",
+      "finding": "Obama's conflict strategy centers on institutional engagement—working through Congressional processes, building bipartisan coalitions, and framing issues in universally appealing terms. He cited AFL-CIO and Chamber of Commerce together (ev_008), called transportation funding 'not a Democratic or Republican issue' (ev_008), and sought Senate passage of transportation bills (ev_011). When institutional engagement failed, he escalated to executive action ('Year of Action' with 20+ executive orders in ev_019) and public pressure ('Republicans have said no to raising the minimum wage, no to equal pay' in ev_020). He did not suppress conflict or delay indefinitely—he named obstruction clearly and moved around it. However, his escalation was typically to structural solutions (executive orders, institutional design) rather than personal attacks or destructive confrontation. This represents a translational strategy that converts institutional conflict into policy innovation rather than resolution through domination.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_019",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale horizon spanning administrations",
+      "finding": "Obama demonstrates clear long-term orientation exceeding typical political cycles. He set goals for 2025 (energy independence in evt_004) and planned Afghanistan transition through 2014 (evt_010). He framed the Paris climate agreement as 'not something to tear up—it's something to build upon' (ev_041), explicitly anticipating future administrations. His Cancer Moonshot was positioned as addressing a problem since 1971 (ev_042) with 'clear strategy for the road ahead' spanning decades. He claimed Medicare solvency extension as 'the single longest extension in history' (ev_002), positioning policy in generational terms. His farewell address called for 'civic engagement...over the full span of a lifetime' (ev_046), suggesting time horizon extending beyond any single presidency. This indicates mission-scale orientation—optimizing for outcomes that will persist and compound beyond immediate political constraints.",
+      "evidence_ids": [
+        "evt_004",
+        "evt_010",
+        "ev_041",
+        "ev_042",
+        "ev_002",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair",
+      "finding": "Obama shows clear preference for building new systems rather than patching existing ones. Rather than modest adjustments to healthcare, he pursued comprehensive ACA reform extending Medicare solvency by 12+ years (ev_002). Rather than incremental financial regulation, he created the entirely new CFPB with independent authority and consumer protection mandate (ev_028). Rather than minor budget adjustments, he advocated 'balanced' comprehensive deficit reduction combining entitlement reform with tax code changes (ev_013). When existing structures blocked his agenda, he built parallel systems—executive orders on minimum wage (ev_017), Presidential Innovation Fellows to modernize government (ev_043), Silicon Valley partnerships for technology (ev_037). His TPP negotiation explicitly sought to establish new global trade rules rather than patch existing arrangements. This pattern suggests structural orientation—identifying systemic problems and designing comprehensive solutions rather than incremental accommodation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_017",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with public attribution patterns",
+      "finding": "Obama demonstrates significant metacognitive capacity evidenced in multiple ways. He acknowledged past policy limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He expressed explicit self-improvement orientation: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). His reasoning shows awareness of cognitive limits—he delegated the Cancer Moonshot to Biden with specific autonomy rather than micromanaging (ev_042-43). He cited data uncertainty carefully (ev_016, ev_023 have medium editorial risk notes). His farewell address reflected on the interaction between personal growth and collective experience: 'my conversations with you...are what have kept me honest, kept me inspired' (ev_044). This suggests active monitoring of his own thinking patterns and acknowledgment that his effectiveness derives from external input rather than isolated personal judgment—demonstrating sophisticated metacognitive awareness appropriate to the power and complexity of his role.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_042",
+        "ev_016",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "power_designation_pattern",
+      "definition": "How a leader distributes authority and credit—whether toward self, toward institutions, or toward followers. This captures whether accumulated power flows outward (empowering others) or inward (concentrating capacity).",
+      "finding": "Obama demonstrates consistent power designation away from himself toward others and institutions. He credited 'the American people' for all 2015 progress: 'All of this progress is because of you' (ev_032). He highlighted specific institutional actors—CFPB recovering funds for consumers (ev_028), Presidential Innovation Fellows solving technology problems (ev_043), Biden leading the Cancer Moonshot with 'clear strategy' (ev_042). His 'restore opportunity for all' (ev_018) framing positions citizens as agents, not passive recipients. Even in his farewell, he positioned himself as learning from and serving the public rather than as singular architect of change. This power designation pattern—consistently outward rather than inward—distinguishes his power motivation from leaders who accumulate credit and visibility for personal status enhancement. It suggests power serving as means for institutional and collective empowerment rather than as end in itself.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_042",
+        "ev_043",
+        "ev_028",
+        "ev_018",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "institutional_investment_orientation",
+      "definition": "Whether a leader invests in building durable institutions or in personal/relational capacity for influence. This captures whether power is converted into permanent structures or transient positional advantage.",
+      "finding": "Obama consistently invests in institutional building that outlasts his tenure. He created the CFPB as permanent independent agency with documented consumer recovery record (ev_028). He established the Presidential Innovation Fellows program to embed technology expertise in government (ev_043). He structured the Cancer Moonshot as cross-agency task force with defined mission and measurable outcomes (ev_042). He negotiated the Paris climate agreement as binding international framework (ev_034, ev_041). His TPP sought to establish trade rules rather than temporary deals (ev_031). His 'Year of Action' executive orders created new requirements for federal contractors (ev_017). This contrasts with leaders who convert power into personal political capital, media visibility, or temporary advantages. Obama appears to understand institutional investment as generating compounding returns—building capacity that continues after his departure. His farewell call for sustained 'civic participation...over the full span of a lifetime' (ev_046) further suggests he views his role as cultivating durable participation systems rather than personal legacy preservation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "ev_034",
+        "ev_031",
+        "ev_017",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

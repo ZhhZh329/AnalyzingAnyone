@@ -1,0 +1,207 @@
+{
+  "discipline": "sociology",
+  "lens": "field_theory_bourdieu",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structurally-aware shaper: combines active agenda-setting with recognition of institutional constraints, favoring calculated intervention over pure adaptation",
+      "finding": "Obama exhibits a hybrid agency pattern characteristic of dominant field occupants who possess sufficient capital to shape outcomes yet face structural opposition. Throughout the evidence, he demonstrates capacity to define problems, propose solutions, and mobilize resources (ev_008 condemning Senate obstruction, ev_029 issuing veto threats, ev_017 taking executive action on minimum wage). However, his agency is bounded by the political field's rules—Congressional opposition, Republican obstruction (ev_020)—which he acknowledges without surrendering to. His 'Year of Action' framing (ev_019) represents strategic agency deployed precisely when institutional channels blocked legislative progress. This pattern reflects Bourdieu's 'logic of practice'—agency that operates through field-specific dispositions rather than explicit strategic calculation. Notably, he consistently frames agency as collective rather than individual: attributing progress to 'the American people' (ev_032, ev_044), suggesting his field position includes capacity to channel distributed action.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Theoretical-practical synthesis: applies formal frameworks to concrete problems, balancing analytical rigor with accessible narrative",
+      "finding": "Obama's epistemic style reflects his distinctive capital configuration: high cultural capital (Harvard Law, constitutional scholarship) combined with pragmatic socialization in community organizing and political campaigns. His speeches demonstrate systematic abstraction—'middle-out' economic philosophy (ev_021), explicit enumeration of policy mechanisms in ACA (ev_002), deficit reduction frameworks (ev_013)—yet he consistently grounds these abstractions in human impact narratives: Head Start children affected by sequester (ev_014), veterans seeking employment (ev_009), small business owners supporting wage increases (ev_023). This pattern suggests what Bourdieu calls 'practical sense'—knowledge organized around field-specific stakes rather than pure theory. His epistemic humility appears in nuanced positions: acknowledging past trade deals 'haven't always lived up to hype' (ev_027) while advocating TPP; recognizing Congressional dysfunction while calling for reform (ev_010). The evidence shows calibrated epistemic confidence—assertive when facts support position, acknowledging limits where evidence is ambiguous.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_021",
+        "ev_023",
+        "ev_027",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate to high formalization with pragmatic grounding: develops systematic policy frameworks while maintaining concrete applicability",
+      "finding": "Obama demonstrates significant capacity for formal abstraction—enumerated 'Top 10' accomplishments (ev_033), explicit philosophical statements ('middle-out' economics, 'opportunity for all' (ev_018)), systematic energy and climate frameworks (ev_040)—yet his speeches consistently translate these formal structures into concrete stakes. The sequester speeches illustrate this pattern: abstract budget mechanisms are rendered as 'parents whose kids just got kicked out of Head Start programs' (ev_014). This mirrors what Bourdieu describes as the intellectual's relationship to formalization—grounded in practical application but capable of systematic thinking. His habitus, formed through elite academic training but also community organizing experience, produces a synthesis of scholarly disposition with activist accessibility. The evidence shows particular comfort with formal-institutional solutions (legislative frameworks, regulatory structures) rather than purely informal or improvisational approaches.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Institutional control preference: seeks to shape field rules and policy frameworks through formal channels rather than personal dominance or direct coercion",
+      "finding": "Obama's control orientation reflects his position as the dominant occupant of the executive field while facing opposition from competing institutional actors (Congress, particularly Senate Republicans). His approach emphasizes formal institutional power: veto threats (ev_029), executive orders (ev_017), regulatory frameworks (Dodd-Frank enforcement, ev_028-29), and rule-writing authority (ACA implementation, ev_001). Notably absent is personalistic or charismatic control rhetoric—rather, he invokes institutional legitimacy: 'The United States of America is not a deadbeat nation' (ev_015), 'I will not negotiate over the full faith and credit' (ev_015). This suggests internalized doxa of constitutional governance—he seeks to control through the field's legitimate mechanisms rather than around them. When legislative channels blocked his agenda, he pivoted to executive action ('Year of Action', ev_019), demonstrating strategic field-awareness about available capital deployment options. His control orientation thus operates within perceived field rules even when pushing against their limits.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation with moderate relational costs: pursues policy goals persistently while maintaining rhetorical openness to opposition",
+      "finding": "The evidence reveals high mission commitment—Obstinate defense of ACA (ev_001 'As long as I am President, that's a commitment this country is going to keep'), Wall Street Reform veto threats (ev_029), sustained climate advocacy (ev_041 'that's not something to tear up—it's something to build upon'). Yet his relational cost profile shows distinctive balance: he continues calling for bipartisan cooperation even after extensive obstruction (ev_008, ev_020 'Republicans in Congress have blocked...'). This suggests his habitus was formed in contexts—community organizing, Chicago politics—that valued coalition-building as strategy, not merely sentiment. He does not treat opposition as personal betrayal but as field-position to be negotiated or overcome. The Cancer Moonshot (ev_042-43) illustrates mission orientation combined with cross-institutional collaboration rather than command-and-control. His farewell address (ev_044, ev_046) frames continued civic participation as the mechanism for sustaining mission beyond his presidency—extending relational network rather than protecting personal legacy.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated boldness: willing to pursue high-stakes reforms (ACA, Dodd-Frank) while employing pragmatic hedging when facing structural opposition",
+      "finding": "Obama exhibits risk tolerance appropriate to his capital reserves and field position: bold policy initiatives in his first term (healthcare reform, financial regulation) combined with increasingly executive-focused strategy when facing Congressional blockade. The ACA passage represents maximum risk exposure—investing massive political capital in comprehensive reform (ev_001-02). The post-2010 pattern shows risk adaptation: 'Year of Action' executive actions (ev_019), selective use of veto threats (ev_029), strategic retreats (trade policy via TPP, ev_026-27). His sequestration responses (ev_013-14) reveal risk perception as systemic—framing across-the-board cuts as threat to vulnerable populations rather than personal political danger. Climate policy (ev_025, ev_040-41) shows long-term risk tolerance despite short-term political costs. The pattern suggests high capital reserves (symbolic capital as first Black president, broad electoral coalition) providing risk cushion, while field position (divided government) forced increasingly risk-averse tactics. His 'resurgence is real' framing (ev_024, ev_025) attempts to shift risk perception toward optimism, demonstrating symbolic capital deployment to manage uncertainty.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_019",
+        "ev_024",
+        "ev_025",
+        "ev_026",
+        "ev_027",
+        "ev_029",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy legitimation with democratizing subtext: invokes formal authority while framing power as serving collective purposes",
+      "finding": "Obama's relationship to hierarchy reflects his complex class position—elite cultural capital (Harvard Law, Columbia, Chicago Law faculty) combined with multicultural background and community organizing roots. He invokes presidential authority when strategically necessary (veto threats, ev_015; executive orders, ev_017) but consistently frames power in service terms: 'our founders trusted us with the keys to this system of self-government' (ev_036), 'no more solemn obligation than leading our men and women in uniform' (ev_038). His 'middle-out' philosophy (ev_021) explicitly subordinates elite interests to broad prosperity—a distinctive positional claim within the economic field. The evidence shows internalized doxa of American democratic legitimacy: he argues within assumptions of constitutional governance, rule of law, and broad participation. His 'America is at war with al-Qaeda, not Islam' (ev_012) demonstrates selective hierarchy deployment—using presidential authority to define acceptable boundaries of collective action. Notably absent is personalistic power rhetoric or appeals to deference; rather, he treats hierarchical position as信托 (fiduciary) rather than dominion.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_017",
+        "ev_021",
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-negotiation hybrid: translates opposition into policy disagreements rather than personal conflicts while deploying institutional power when necessary",
+      "finding": "Obama's conflict strategy reflects socialization into elite institutional norms combined with community organizing experience. He consistently frames conflict in terms of competing policy positions: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). This translation strategy depersonalizes conflict, treating obstruction as structural rather than adversarial. However, he deploys direct conflict when field rules permit: 'I will veto it' (ev_029), 'I will not negotiate over the full faith and credit' (ev_015). His bipartisan framing ('AFL-CIO and the Chamber of Commerce', ev_008; bipartisan budget, ev_048) attempts to transform conflict through coalition-bridging. The pattern suggests preference for negotiated resolution within field rules, but willingness to escalate within legitimate institutional channels when necessary. His farewell address (ev_046) frames future conflict as civic participation rather than opposition—a sophisticated reframing that transforms conflict into ongoing engagement.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_046",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-legacy orientation with tactical flexibility: optimizes for historical achievement while deploying short-term tactics when structural conditions constrain",
+      "finding": "Obama shows consistent long-term orientation: Medicare solvency extension framed as 'the single longest extension in history' (ev_002), climate policy across decades (ev_025 'if we keep pushing...'), Cancer Moonshot as 45-year project (ev_042). His 'Year of Action' (2014) represented strategic pivot—recognizing Congressional blockade forced shorter-horizon executive tactics while preserving long-term policy commitments. The energy blueprint targets 2025 (ev_004), Paris climate agreement involves 'nearly 200 nations' commitment across generations (ev_034, ev_041). His farewell address frames post-presidency as continued engagement ('for all my days that remain', ev_047)—explicitly extending time horizon beyond official power. The pattern suggests habitus formed in contexts that valued long-term structural change (community organizing, constitutional law) over immediate gratification. His deficit reduction framing ('faster than since World War II', ev_016) references historical trajectory, positioning current action within long arc. Capital reserves (symbolic capital, broad coalition) provide patience for long-term strategy.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_016",
+        "ev_025",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when political conditions permit: pursues comprehensive reform (ACA, Dodd-Frank, energy) over incremental adjustment",
+      "finding": "The evidence demonstrates consistent preference for comprehensive policy redesign: ACA as systematic healthcare restructuring (ev_001-02) rather than targeted patches; Dodd-Frank as 'Wall Street Reform' establishing new regulatory architecture (ev_028); Energy Blueprint as integrated strategy combining domestic production, efficiency, clean energy (ev_004-05); 'Middle-out' economic philosophy as alternative to trickle-down (ev_021). This reflects his intellectual formation—Harvard Law emphasis on systematic frameworks, community organizing focus on power structure change. When comprehensive reform was blocked (post-2010), he pivoted to executive actions that modified existing structures (minimum wage for federal contractors, ev_017; immigration Deferred Action). This patch-under-rebuild strategy reflects pragmatic adaptation to field constraints rather than preference abandonment. His climate policy shows sustained commitment to structural transformation even when political obstacles mounted—Paris Agreement as architectural framework (ev_034, ev_041) rather than incremental emissions reduction. The pattern suggests foundational belief in systemic solutions grounded in his academic and political formation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_004",
+        "ev_005",
+        "ev_017",
+        "ev_021",
+        "ev_028",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High reflexive awareness: demonstrates capacity to objectify his own position and the democratic process while maintaining practical engagement",
+      "finding": "Obama exhibits distinctive metacognitive capacity—consistent evidence of self-objectification and structural awareness of his field position. His farewell address explicitly reflects on learning from diverse encounters: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He demonstrates awareness of democratic process limitations: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036)—acknowledging institutional design while recognizing dependence on collective engagement. His 'civic participation beyond elections' call (ev_046) shows meta-awareness that formal political positions are insufficient for sustained change. He reflects on his own journey: 'I grew up without my father around' (ev_006)—making biographical experience object of reflection rather than determinative constraint. The pattern suggests Bourdieu's 'reflexive sociology' capacity—objectifying the objectifying subject—though not without limits. His intellectual formation (constitutional law, political philosophy) provides frameworks for this reflexivity. His trade policy acknowledgment ('past trade deals haven't always lived up to the hype', ev_027) demonstrates epistemic humility about his own positions.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "capital_liquidity_flexibility",
+      "definition": "The capacity to rapidly convert between different capital forms to respond to field constraints. Obama demonstrates unusual flexibility—deploying symbolic capital (presidential prestige, first Black president) to compensate for legislative capital deficits; using cultural capital (intellectual credibility, coalition-building frameworks) to maintain policy positions; converting social capital (broad coalitions) to sustain legitimacy when political capital depleted.",
+      "finding": "Obama's capital portfolio shows distinctive convertibility under pressure. When legislative political capital collapsed after 2010 midterm losses, he rapidly converted symbolic capital (presidential authority, public profile) into executive action capacity (ev_017, ev_019, ev_020). His cultural capital (intellectual frameworks, communication capacity) maintained policy legitimacy even as direct legislative power waned. His social capital—broad demographic coalition, bipartisan appeal—operated as reserve that could be mobilized strategically. This liquidity reflects habitus formation across diverse social fields (Hawaii, Indonesia, Columbia, Harvard, Chicago community organizing, state Senate, US Senate)—producing capital versatility unusual among political field occupants typically socialized within narrower trajectories. The pattern suggests that his distinctive biographical path—traversing cultural worlds—produced field-habitus flexibility that compensated for position-specific capital limitations.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_024",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "doxastic_composition",
+      "definition": "The mixture of field-specific beliefs (illusio) that animate engagement. Obama's illusio combines American exceptionalist optimism (belief in progressive possibility), democratic proceduralism (faith in institutional reform), and distributive justice orientation (middle-class primacy).",
+      "finding": "Analysis reveals complex, layered illusio. American exceptionalism appears in 'America's resurgence is real' (ev_024), climate leadership framing (ev_034, ev_041), Iran nuclear deal as demonstrating global responsibility. Democratic proceduralism appears in constitutional framing (ev_015, ev_036), Congressional engagement rhetoric (ev_008), farewell civic participation call (ev_046). Distributive justice orientation appears in 'middle-out' economics (ev_021), minimum wage advocacy (ev_017-18), veteran hiring challenges (ev_009). These doxastic layers interact: exceptionalist optimism sustains proceduralism even when institutions obstruct; distributive orientation provides normative content to policy positions. Notably absent is zero-sum competition discourse or nationalist isolation—his illusio integrates American leadership with international cooperation (TPP, Paris Agreement, Cuba relations). This composition reflects habitus formation in contexts—international childhood, elite education, community organizing—that valued both American possibility and global interconnection.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_021",
+        "ev_024",
+        "ev_034",
+        "ev_036",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

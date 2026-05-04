@@ -1,0 +1,180 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "security_privacy_and_trust_privacy_engineering",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who combines structural legislation with adaptive executive action",
+      "finding": "Obama consistently attempts to reshape systemic structures rather than merely respond to existing conditions. His major legislative achievements—ACA for healthcare and Dodd-Frank for financial regulation—demonstrate preference for rewriting foundational rules rather than incremental adjustment. ev_002 shows he framed ACA as adding 'at least a dozen years to the solvency of Medicare'—a structural extension, not a patch. ev_029 shows definitive commitment to veto any rollback, indicating active boundary-setting against regression. However, evidence like ev_008 shows he adapted to obstruction by pivoting to executive actions—indicating pragmatic world-shaping rather than rigid structural control. He combined legislative architecture (ACA, Dodd-Frank) with executive implementation (minimum wage executive order in ev_017) and institutional innovation (Presidential Innovation Fellows in ev_037) to reshape problem structures from multiple angles.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_008",
+        "ev_017",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-pragmatic; grounds claims in verifiable data while acknowledging complexity",
+      "finding": "Obama demonstrates a strong empirical orientation, grounding policy claims in measurable outcomes rather than ideology or intuition. ev_025 shows specific job creation numbers (11 million over 57 months), and ev_040 cites quantified renewable energy growth (wind 3x, solar 30x) with direct attribution to administration policy. His approach distinguishes between observable claims (deficit falling at 'fastest rate since WWII' in ev_016) and value-laden statements. Notably, ev_027 shows epistemic humility when acknowledging past trade deals 'haven't always lived up to the hype'—demonstrating willingness to update views based on evidence. His engagement with Silicon Valley for government modernization (ev_037) suggests openness to diverse knowledge sources beyond traditional governance.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_027",
+        "ev_037",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction; articulates transferable principles over case-by-case policies",
+      "finding": "Obama consistently elevates specific policies into transferable principles and systemic frameworks. ev_021 articulates 'middle-out' economic philosophy as an abstraction that explains multiple policies simultaneously. ev_018 defines 'opportunity for all' as a core principle connecting diverse initiatives. His healthcare policy was framed not as a single intervention but as establishing an 'interface'—Medicare solvency, prescription drug coverage, subsidies—that together constitute a system. Climate policy in ev_041 is framed as 'something to build upon' with systemic rather than transactional value. However, his communication style prioritizes narrative and values over formal specification, suggesting abstraction serves persuasion rather than technical implementation.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through institutional mechanisms rather than direct manipulation",
+      "finding": "Obama's control orientation emphasizes institutional mechanisms over direct control of outcomes. ev_008 shows he criticized Senate obstruction but called for rule changes ('90-day up-or-down votes on nominations') rather than circumventing the Senate directly. His approach to Wall Street Reform (ev_029) establishes regulatory architecture with defined boundaries—the CFPB as an independent watchdog with clear mandate (ev_028). Rather than controlling specific financial actors, he designed constraints. His use of executive orders (ev_017, ev_019) represents direct presidential authority, but these targeted specific interfaces (federal contractors) rather than attempting total system control. The Cancer Moonshot (ev_042, ev_043) used cross-agency task forces and tech partnerships to indirect coordinate innovation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_028",
+        "ev_029",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with demonstrated willingness to absorb political costs",
+      "finding": "Obama frequently prioritized policy missions over relational comfort with political opponents. ev_020 explicitly calls out Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea' while asserting executive authority to proceed. ev_015 shows definitive stance: 'I will not negotiate over the full faith and credit of the United States'—accepting potential political confrontation over debt ceiling. ev_029 issues absolute veto threat against Wall Street Reform repeal. However, ev_008 shows nuanced calibration—he condemned obstructionist tactics while acknowledging 'neither party has been blameless.' The pattern suggests mission-prioritizing tempered by institutional awareness; he accepts political costs for core priorities but avoids unnecessarily burning bridges.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with calculated risk-taking for defined priorities",
+      "finding": "Obama's risk posture reflects layered defense rather than conservative avoidance or aggressive trial-and-error. On core priorities (debt ceiling in ev_015, Wall Street Reform in ev_029), he took definitive stances that eliminated negotiation risk—establishing clear boundaries. On sequester (ev_013, ev_014), he documented human costs to reframe the decision environment, essentially building defensive layers around vulnerable populations. His risk tolerance appears highest when failures would be systemic (financial crisis recurrence, debt default) and lowest when costs fall on vulnerable populations. The Cancer Moonshot (ev_042, ev_043) suggests willingness to attempt large-scale coordinated initiatives with uncertain payoff.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_015",
+        "ev_029",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Uses formal authority decisively while promoting institutional legitimacy over personal power",
+      "finding": "Obama demonstrated sophisticated understanding of institutional hierarchy—using formal authority (veto threats, executive orders) while simultaneously constraining that authority through institutional design. ev_015 shows he rejected debt ceiling negotiation to protect congressional budget authority, demonstrating awareness of boundary conditions in executive-congressional power relations. ev_008 called out Senate obstruction as violating 'founding fathers' intent,' framing the issue as institutional integrity rather than personal prerogative. The CFPB design (ev_028) created an independent agency to constrain future executive and legislative interference—building power constraints into the structure. His farewell address (ev_044, ev_046) emphasized civic participation over executive authority, reflecting understanding that institutional legitimacy depends on broader participation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_028",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalates to authoritative stances on core issues; translates and negotiates on tactics",
+      "finding": "Obama's conflict strategy varies by issue importance. On core priorities (debt ceiling, Wall Street Reform), he escalates to definitive authoritative stances—veto threats (ev_029), absolute refusals (ev_015). On tactics and process, he shows greater flexibility—ev_008 criticized obstruction but called for bipartisan rule changes rather than executive override. ev_008 shows ability to acknowledge opposition's partial legitimacy ('neither party has been blameless') while maintaining position. His transportation bill campaign (ev_006, ev_009) built broad coalitions (AFL-CIO and Chamber of Commerce in ev_008) before escalating urgency. The pattern suggests strategic escalation—building support before taking hard positions, rather than confrontational default.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_009",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with legacy-building focus throughout tenure",
+      "finding": "Obama consistently optimizes for long-term structural outcomes over short-term political wins. ev_002 framed ACA as extending Medicare solvency by 12+ years—explicitly multi-decade time horizon. Climate policy (ev_025, ev_041) was consistently framed with generational timescales: 'leave a better, cleaner, safer future for our children.' ev_040 cited 25-year pollution reduction metrics. Even early speeches (ev_004 on energy security) targeted 2025 goals. His 'Year of Action' (ev_015) represented tactical adjustment to Congressional obstruction, but underlying priorities remained long-term. The Cancer Moonshot (ev_042) explicitly positioned 45 years of accumulated progress as foundation for accelerated future gains. Farewell address (ev_047) expressed commitment to 'working along your side, as a citizen, for all my days that remain'—long-horizon civic orientation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_025",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference demonstrated across major policy domains",
+      "finding": "Obama consistently preferred comprehensive structural redesign over incremental patches. ACA (ev_001, ev_002) rewrote healthcare system foundations rather than adjusting existing programs. Dodd-Frank (ev_003, ev_028) established new regulatory architecture (CFPB, systemic risk council) rather than patching existing rules. Energy policy (ev_004) rejected 'drilling alone' as insufficient, demanding comprehensive approach combining domestic drilling, fuel efficiency, and clean energy. The Paris climate agreement (ev_034, ev_041) represented global structural commitment rather than domestic-only measures. When confronted with Congressional obstruction, he pivoted to executive actions (ev_019—'more than 20 executive actions')—redesigning federal contractor wages through executive order rather than accepting gridlock. ev_037 shows government modernization through Presidential Innovation Fellows—structural capacity building, not process patches.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_004",
+        "ev_019",
+        "ev_028",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong self-awareness with documented capacity to update positions based on experience",
+      "finding": "Obama demonstrates notable metacognitive awareness. ev_027 explicitly acknowledges epistemic updating: 'I'm the first to admit that past trade deals haven't always lived up to the hype'—distinguishing between prior beliefs and accumulated evidence. ev_006 and ev_007 show personal reflection integrating family experience into policy advocacy. His farewell address (ev_044) articulates learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man.' ev_004 shows explicit rejection of oversimplified solutions ('Drilling alone is not a real strategy'). The Cancer Moonshot structure (ev_042, ev_043) reflects awareness that cross-institutional coordination requires systematic approaches, not just authority. However, limited evidence exists of systematic debugging of his own reasoning processes or explicit error-correction mechanisms in his public communications.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_042",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "coalition_architecture",
+      "definition": "The capacity to construct and maintain cross-cutting coalitions that span traditional ideological or sectoral boundaries. This differs from standard relational networking in that it involves designing complementary interests into durable institutional structures rather than building personal relationships.",
+      "finding": "Obama demonstrates sophisticated coalition architecture across multiple domains. ev_008 shows explicit coalition design: 'I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' on transportation funding. The energy initiative (ev_004) combined 'Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo'—spanning logistics, telecom, and food sectors. Veterans initiative (ev_007) combined federal hiring with private sector challenges. TPP (ev_026, ev_031) was framed as creating shared standards across 11 nations. This pattern suggests Obama builds coalitions by identifying complementary interests and framing policies to create mutual wins, rather than forcing alignments through authority or persuasion alone.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_007",
+        "ev_008",
+        "ev_026",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "resilience_engineering",
+      "definition": "The tendency to design systems and policies with explicit capacity to recover from failures and adapt to changing conditions, rather than solely focusing on threat prevention or optimal-path optimization.",
+      "finding": "Obama's policy approach demonstrates resilience engineering principles—building recovery capacity rather than purely preventing failures. The Dodd-Frank Act (ev_028, ev_029) explicitly addressed 'too big to fail' bailouts through consumer protections and orderly liquidation authority, designing recovery mechanisms into the financial system. His sequester response (ev_014) documented cascading failures to build public pressure for alternative solutions. Climate policy (ev_041) framed Paris agreement as foundation to 'build upon' rather than endpoint. ev_045 in farewell address highlights communities 'like Joplin rebuild from disaster' and Boston showing 'no terrorist will ever break the American spirit'—emphasizing resilience over prevention. The Cancer Moonshot (ev_042, ev_043) built on 45 years of accumulated progress as resilient foundation for accelerated gains.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_028",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_045"
+      ],
+      "local_support": "weak"
+    }
+  ]
+}

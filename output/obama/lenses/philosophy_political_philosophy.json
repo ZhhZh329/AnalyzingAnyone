@@ -1,0 +1,168 @@
+{
+  "discipline": "philosophy",
+  "lens": "political_philosophy",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Balanced institutional activist: combines world-shaping ambition through major policy reforms with pragmatic responsiveness to structural constraints and Congressional dynamics",
+      "finding": "Obama demonstrates a sophisticated blend of structure-responsive and world-shaping orientations. He initiated transformative legislation (ACA, Dodd-Frank) that fundamentally restructured major social and economic systems, yet consistently framed these achievements as responses to systemic crises rather than ideological projects. His language reveals calibrated agency: 'our founders trusted us with the keys to this system of self-government' (ev_036) acknowledges institutional constraints while affirming democratic agency as the mechanism for change. The auto industry rescue (ev_022) exemplifies this synthesis—intervening decisively in market structures while justifying action through preservation of existing economic order. His 'middle-out' philosophy (ev_021) explicitly rejects both pure market forces and state command, positioning government as a facilitator of conditions where private sector and workers can thrive. This suggests structural understanding of political economy combined with activist interventionism within democratic norms.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_022",
+        "ev_036",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-pragmatic: combines statistical evidence with value-based reasoning, showing willingness to revise positions based on experience while maintaining principled commitments",
+      "finding": "Obama's epistemic approach integrates empirical data with normative commitments rather than privileging either. He substantiates policy claims with specific statistics—'11 million new jobs' (ev_025), '$11 billion recovered for 26 million consumers' (ev_028), 'wind power threefold, solar more than thirtyfold' (ev_040)—while grounding these in values like fairness and opportunity. Notably, he demonstrates epistemic humility regarding his own administration's record: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This confession of experiential learning distinguishes him from ideologues on either side. His approach to Congressional obstruction shows calibrated epistemic judgment: he identifies procedural dysfunction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010) while avoiding wholesale delegitimization of political opponents. He trusts democratic deliberation when institutions function, but intervenes through executive action when deliberation fails.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_010",
+        "ev_025",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high: articulates governing principles and philosophical frameworks while maintaining engagement with concrete policy specifics and measurable outcomes",
+      "finding": "Obama operates comfortably at both abstract and concrete levels, suggesting a political philosophy that refuses purely abstract theorizing while maintaining principled commitments. His 'middle-out' economic philosophy (ev_021) represents a structured conceptual framework that connects government action to market dynamics through the mediating variable of middle-class welfare. He simultaneously enumerates specific policy achievements in list formats ('Top 10 Things that Happened in 2015,' ev_033) and articulates values-based rationales. The ACA framing illustrates this duality: 'Medicare isn't just a program. It's a commitment to America's seniors' (ev_001) moves from institutional mechanism to normative principle. His governance modernization initiative (ev_037) shows formalization tendency—creating systematic processes through Silicon Valley partnerships rather than ad hoc solutions. However, he avoids highly abstract theoretical建构 like Rawlsian 'original position' reasoning, preferring accessible formulations grounded in American political language.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_001",
+        "ev_033",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Regulatory control: seeks to establish and maintain institutional rules and oversight systems rather than direct individual behavior, reflecting liberal democratic governance philosophy",
+      "finding": "Obama's control orientation centers on establishing institutional guardrails rather than commanding outcomes. His signature legislative achievements—Dodd-Frank and ACA—create regulatory architectures that constrain market behavior through disclosure requirements, consumer protections, and standardized rules. The CFPB exemplifies this approach: 'one mission: to protect American consumers' (ev_028) through systematic oversight rather than case-by-case intervention. He explicitly rejected purely market-based approaches to energy: 'Drilling alone is not a real strategy to replace our dependence on foreign oil' (ev_005), arguing instead for multi-pronged intervention including fuel efficiency standards and clean energy investment. When Congressional obstruction blocked legislative control, he shifted to executive actions raising contractor minimum wages (ev_017) and other regulatory measures—still working through institutional mechanisms rather than pure presidential decree. His framing consistently emphasizes 'level playing field' (ev_003) and equal rules, suggesting commitment to procedural equity within regulated markets rather than either unconstrained markets or centralized planning.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_017",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with relational preservation: maintains core commitments and policy goals while consistently using inclusive rhetoric and seeking bipartisan framing",
+      "finding": "Obama prioritizes policy missions while making significant rhetorical efforts to maintain relational connections. He issued definitive veto threats against Wall Street Reform repeal ('I will veto it,' ev_029) and refused debt ceiling negotiations ('I will not negotiate,' ev_015), demonstrating willingness to accept political conflict for principle. However, his rhetorical framing consistently maintains inclusive identity: 'This isn't a Democratic or a Republican issue' (ev_008), 'We've got to restore opportunity for all' (ev_018). He acknowledges bipartisan cooperation when it occurs ('Christmas miracles in Washington,' ev_048) rather than claiming partisan victories exclusively. The sequester opposition (ev_014) shows empathetic mission-orientation: he documented 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels,' framing policy impact through vulnerable populations rather than abstract budget categories. His farewell address (ev_044) explicitly credits collective action over presidential agency, suggesting relational consciousness extended beyond immediate policy battles.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_018",
+        "ev_014",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated reformist: accepts substantial political and policy risks for major structural changes while maintaining firm boundaries against existential or catastrophic risks",
+      "finding": "Obama demonstrates a calibrated risk posture that combines reformist ambition with red lines against catastrophic outcomes. He pursued transformative legislation (ACA, Dodd-Frank) knowing political costs, yet maintained absolute positions on debt ceiling ('the height of irresponsibility,' ev_015) and military necessity (ev_038: 'only when absolutely necessary'). The Paris climate agreement (ev_041) represents long-term intergenerational risk-taking—'leave a better, cleaner, safer future for our children'—while dismissing short-term political reversals as manageable. His Cancer Moonshot (ev_042) reflects comfort with ambitious, long-duration projects with uncertain timelines. Trade policy shows nuanced risk assessment: acknowledging past failures while arguing TPP's risks (China writing global rules) exceed alternatives (ev_031). He accepts that some policies will 'fall short of the hype' (ev_027) while maintaining commitment to action over paralysis. This posture reflects liberal democratic confidence in institutional problem-solving combined with recognition that some risks require immediate, non-negotiable responses.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_038",
+        "ev_041",
+        "ev_042",
+        "ev_027",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy embrace: views hierarchical authority as legitimate tool for democratic problem-solving, exercising strong presidential leadership while maintaining democratic legitimacy",
+      "finding": "Obama demonstrates positive orientation toward institutional hierarchy, viewing the presidency as a legitimate locus for democratic problem-solving rather than suspect power to be constrained. His governance philosophy explicitly embraces hierarchical authority: 'our founders trusted us with the keys to this system of self-government' (ev_036), framing democratic institutions as empowering rather than constraining. He exercised substantial executive power—over 20 executive actions in 'Year of Action' (ev_019)—when Congressional obstruction blocked legislative solutions. However, he consistently framed this power as responsive to democratic will ('I acted because Republicans blocked'), maintaining legitimacy rather than claiming independent authority. His approach to military hierarchy is particularly clear: 'I have no more solemn obligation than leading our men and women in uniform' (ev_038), accepting Commander-in-Chief responsibilities seriously. He distinguished legitimate hierarchy (institutional authority) from illegitimate power concentration (regulatory capture, 'too big to fail'), supporting regulatory agencies with independent authority (CFPB). This reflects classical liberal institutionalism: hierarchy is legitimate when embedded in democratic accountability and serving public purposes.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_019",
+        "ev_038",
+        "ev_003",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Institutional escalation with principled compromise: uses institutional mechanisms (vetoes, executive action) to escalate when necessary while consistently seeking negotiated solutions and bipartisan framing",
+      "finding": "Obama's conflict strategy combines institutional persistence with strategic flexibility. When Congressional Republicans blocked minimum wage, equal pay, and unemployment insurance extension (ev_020), he escalated through executive action on federal contractors—a calibrated escalation that maintained principle while working within constitutional constraints. He issued definitive veto threats (ev_029) rather than negotiating core principles, but consistently sought bipartisan coalitions for transportation, veterans' hiring, and other issues (ev_008: 'AFL-CIO and Chamber of Commerce'). His Senate obstruction critique (ev_010) identifies systemic dysfunction without delegitimizing the institution itself—preferring procedural reform ('90-day up-or-down votes on nominations') to constitutional confrontation. The debt ceiling crisis shows non-negotiable principle: 'I will not negotiate over the full faith and credit of the United States' (ev_015), distinguishing negotiable policy from inviolable institutional commitments. His conflict resolution preference is institutional negotiation with clear red lines, suggesting procedural liberalism rather than either capitulation or revolutionary escalation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_010",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural: prioritizes generational and systemic timescales over immediate political cycles, accepting short-term costs for long-term institutional investments",
+      "finding": "Obama consistently frames policy in generational and structural terms. The ACA 'added at least a dozen years to the solvency of Medicare—the single longest extension in history' (ev_002), explicitly justifying present costs through long-term institutional preservation. Climate policy embodies generational responsibility: 'leave a better, cleaner, safer future for our children' (ev_041), with Paris agreement representing 200-nation, decades-spanning commitment. Deficit reduction was framed as long-term obligation: 'our deficits are already falling at the fastest rate since the end of World War II' (ev_016), situating current policy within decade-scale trends. The Cancer Moonshot explicitly parallels the Apollo program—embracing long-duration, uncertain-timeline initiatives. Energy independence goal extends to 2025 (evt_004). However, he also demonstrated responsiveness to immediate crises: transportation funding ('seven days away from thousands of American workers having to walk off the job,' ev_011), student loan rates, sequester impacts. This suggests practical integration of long-term vision with short-term responsiveness, characteristic of institutional leadership rather than either short-term opportunism or utopian long-termism.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_016",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer: initiated fundamental system redesigns while accepting incremental implementation, reflecting reconstructive ambition constrained by democratic process",
+      "finding": "Obama's signature achievements represent structural redesign rather than incremental adjustment. ACA fundamentally restructured healthcare access, financing, and insurance regulation—not a patch on the existing system but comprehensive transformation. Dodd-Frank created entirely new regulatory architecture including the CFPB, systemic risk oversight, and 'too big to fail' prevention mechanisms—systemic redesign rather than regulatory patching. The 'middle-out' economic philosophy (ev_021) explicitly rejects both 'top-down' and unconstrained market approaches, proposing fundamental reconceptualization of government's economic role. However, implementation proceeded incrementally—ACA rollout, Dodd-Frank phased implementation, TPP as ongoing negotiation—suggesting pragmatic acceptance of piecemeal execution while maintaining comprehensive vision. His trade policy shows reconstructive ambition: TPP aimed to 'write global trade rules' (ev_031) rather than simply liberalize existing frameworks. Climate action seeks fundamental energy system transformation rather than efficiency tweaks. This suggests reconstructive preference with pragmatic implementation strategy, distinguishing him from both conservative incrementalists and revolutionary transformationalists.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_002",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: demonstrates explicit self-reflection, acknowledges limitations, credits collective over individual agency, and shows capacity for position revision based on experience",
+      "finding": "Obama demonstrates notable metacognitive sophistication throughout his presidency. His personal reflection on fatherhood—'I grew up without my father around... I wondered what my life would have been like had he been a greater presence' (ev_006)—shows willingness to examine formative experiences and their ongoing influence. He credits collective action for all progress: 'It's you—the American people... All of this progress is because of you' (ev_032), explicitly positioning presidential agency as derivative from democratic participation rather than autonomous leadership. The admission that 'past trade deals haven't always lived up to the hype' (ev_027) represents experiential learning and willingness to revise positions. His critique of Senate obstruction acknowledges systemic dysfunction while including 'neither party has been blameless' (ev_010)—self-critical rather than purely other-blaming. The farewell address shows extended self-positioning: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), framing eight years as continuous learning rather than predetermined competence. This metacognitive quality distinguishes sophisticated political judgment from both naive confidence and defensive self-protection.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_032",
+        "ev_027",
+        "ev_010",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Empathetic Institutionalism",
+      "definition": "Governance philosophy grounded in visceral understanding of policy impacts on vulnerable populations, combined with faith that democratic institutions can respond to identified suffering through legitimate collective action. Distinguishes from purely technocratic governance (which knows through data) and purely sentimental governance (which feels without acting) by insisting that authentic understanding of human need should drive institutional reform while maintaining procedural legitimacy.",
+      "finding": "Obama's political philosophy exhibits distinctive empathetic institutionalism: he consistently connects abstract policy to concrete human experience. The sequester critique—'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on programs like Meals on Wheels' (ev_014)—moves beyond budget categories to human stakes. His military family obligations—'we have to be there for their families' (ev_038)—and personal fatherhood narrative demonstrate experiential empathy informing policy commitments. This is distinct from Rawlsian abstraction (ignorance veil) or libertarian rights-focus (non-interference), instead insisting that democratic governance should produce visible human improvement. The 'middle-out' philosophy (ev_021) makes empathy structurally central—government's purpose is enabling middle-class flourishing, not abstract contract or procedural justice. This emergent construct captures how Obama combines liberal institutionalism with humanistic concern for lived experience, distinguishing his approach from both technocratic progressivism and rights-based liberalism.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_038",
+        "ev_006",
+        "ev_021",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Institutionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

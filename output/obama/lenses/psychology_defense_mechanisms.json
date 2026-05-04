@@ -1,0 +1,162 @@
+{
+  "discipline": "psychology",
+  "lens": "defense_mechanisms",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation through persistent executive action and proactive policy leadership",
+      "finding": "Obama demonstrates a mature world-shaping orientation that operates through the defense mechanism of anticipation and sublimation rather than omnipotent control. His repeated use of executive actions (ev_017, ev_019 - minimum wage executive order, 20+ actions in 'Year of Action') reflects agency channeled through legitimate institutional processes. Notably, he framed these actions as responses to Congressional obstruction rather than power grabs, suggesting sophisticated awareness of structural constraints. His statement 'As long as I am President, that's a commitment this country is going to keep' (ev_001) demonstrates anticipatory commitment-building rather than impulsive control. This mature agency orientation contrasts sharply with primitive omnipotent control patterns.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Highly rationalized, evidence-driven epistemic style with selective emotional integration",
+      "finding": "Obama's epistemic style is characterized by systematic intellectualization—processing political challenges through quantitative data and abstract frameworks while maintaining emotional accessibility in personal narratives. Evidence includes extensive use of statistics: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x (ev_040). His abstract economic philosophy—'Our economy grows best not from the top-down, but from the middle-out' (ev_021)—demonstrates formalization of complex systems into digestible frameworks. However, his Father's Day address (ev_006, ev_007) shows selective emotional integration, using personal vulnerability to enhance message resonance. This pattern suggests mature intellectualization combined with strategic affect modulation rather than complete isolation of emotion.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction preference with systematic framework construction across policy domains",
+      "finding": "Obama exhibits strong preference for abstraction through his consistent use of systematic policy frameworks rather than case-by-case problem solving. His Energy Blueprint (ev_004, ev_005) illustrates multi-component strategy integrating domestic drilling, fuel efficiency, and clean energy rather than single solutions. His TPP framing (ev_031) operates through abstract geopolitical categories—'China writing the rules of the global economy' versus America defining trade norms. The Paris Climate Agreement as 'something to build upon' (ev_041) represents future-oriented systemic design. This abstraction orientation serves the defensive function of intellectualization—transforming emotionally-laden political conflicts into technical/strategic problems amenable to systematic solution. His year-end 'Top 10' list format (ev_033) demonstrates formalization of complex reality into structured categories.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_031",
+        "ev_033",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Adaptive control through anticipation and boundary-setting rather than rigid system dominance",
+      "finding": "Obama's control orientation reflects mature defensive functioning through anticipation and suppression rather than primitive omnipotent control. His crisis anticipation patterns—warning about sequester consequences (ev_011, ev_013), transportation funding expiration, student loan rate doubling (ev_011)—demonstrate proactive control through predictive preparation. His debt ceiling position ('I will not negotiate over the full faith and credit of the United States,' ev_015) reflects firm boundary-setting through suppression of immediate political advantage for systemic stability. He avoided control via dominance, instead preferring institutional mechanisms—'government modernization through Silicon Valley partnerships' (ev_037), cross-sector coalitions. This adaptive control pattern suggests mature anticipation allowing effective agency without the anxiety-driven rigidity of omnipotent control defenses.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with high relational awareness, integrating goal pursuit with collective framing",
+      "finding": "Obama prioritizes mission objectives while consistently framing them through collective/relational lenses—a pattern suggesting mature sublimation rather than mission-driven denial of relational costs. His 'opportunity for all' rhetoric (ev_018), veteran hiring challenge (ev_009), and focus on middle-class wages (ev_021) advance mission goals while maintaining inclusive relational framing. He explicitly acknowledged deficits could be cut 'in a balanced, comprehensive way' (ev_013) rather than through pure austerity. His consistent attribution of accomplishments to 'the American people' (ev_032, ev_044, ev_045)—workers, entrepreneurs, teachers, parents—suggests suppression of personal credit-seeking in favor of collective framing. His personal vulnerability sharing about father absence (ev_006) and his own limitations (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') demonstrates relational cost awareness integrated with mission advancement.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_018",
+        "ev_021",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Realistic risk acknowledgment with confidence in systemic resilience",
+      "finding": "Obama demonstrates a mature, reality-based risk posture reflecting anticipation rather than denial or phobia. He explicitly rejected false dichotomies: 'Drilling alone is not a real strategy' (ev_005) while simultaneously pursuing expanded drilling—integrating multiple approaches rather than denying complexity. His acknowledgment 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) demonstrates realistic self-assessment capacity. His foreign policy stance distinguishing 'al-Qaeda' from 'Islam' (ev_012) shows calibrated risk perception avoiding both denial of threat and overgeneralization. His climate discourse frames Paris Agreement as requiring continued action (ev_041) rather than either triumphalism or defeatism. This pattern suggests anxiety-managed risk posture through anticipation and realistic assessment rather than defensive denial or phobic avoidance.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_012",
+        "ev_027",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power orientation with principled boundary-setting against authority abuse",
+      "finding": "Obama's relationship with hierarchy reflects mature sublimation—using institutional power for collective benefit while maintaining principled limits on authority. His consistent framing of policy through institutional channels (Congress, federal agencies, international agreements) demonstrates认同 institutional power as legitimate tool. His condemnation of Senate obstruction as contrary to 'founding fathers' intent' (ev_010) represents critique of authority abuse through institutional values rather than personal grievance. His insistence on debt ceiling non-negotiation (ev_015) and veto threats (ev_029) demonstrate principled boundaries on executive power use. His government modernization initiative partnering with Silicon Valley (ev_037) shows adaptive institutional innovation. Absent from his discourse are primitive idealization/devaluation of authority or identification with aggressor patterns—instead, he engages hierarchy as a tool to be optimized.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-oriented with firm boundary-setting, avoiding escalation while maintaining positions",
+      "finding": "Obama's conflict strategy demonstrates mature negotiation with selective firm boundary-setting—a pattern suggesting flexible defensive adaptation. His transportation bill framing as 'not a Democratic or Republican issue' (ev_008) with AFL-CIO and Chamber of Commerce backing shows coalition-building conflict translation. His criticism of Republican obstruction ('said no to raising minimum wage, no to equal pay,' ev_020) maintains directness without escalation. However, his debt ceiling stance (ev_015) demonstrates absolute boundary refusal—'I will not negotiate over the full faith and credit.' His veto threat on Wall Street Reform repeal (ev_029) shows firm position maintenance. Notably absent: passive-aggressive patterns, splitting (demonizing opponents), or displacement. This suggests mature suppression of immediate conflict gratification for longer-term relationship preservation with institutional interlocutors.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission-scale orientation with multi-year strategic planning",
+      "finding": "Obama demonstrates extended time horizons characteristic of mature anticipatory defense functioning. His Energy Blueprint targets 'one-third' oil import reduction by 2025 (ev_004)—a 14-year forward projection. His ACA framework explicitly extended Medicare solvency 'at least 12 years' (ev_002). His deficit reduction discourse references 'fastest rate since the end of World War II' and halving deficits since 2009 (ev_016). His climate rhetoric frames Paris Agreement as 'something to build upon' for children (ev_041). His Cancer Moonshot represents multi-administration commitment. This sustained long-term orientation contrasts with denial/acting-out patterns that truncate time horizons to immediate gratification. The '57 consecutive months of job growth' metric (ev_025) demonstrates patience through economic recovery rather than demand for instant results.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_016",
+        "ev_025",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference with comprehensive systemic reform over incremental adjustments",
+      "finding": "Obama consistently demonstrates preference for structural redesign over incremental patching—a pattern reflecting mature sublimation channeling reform energy into comprehensive system redesign. His ACA represented fundamental healthcare system restructuring, not patch repairs. His Dodd-Frank Act created entirely new regulatory architecture including CFPB (ev_028), not minor adjustments. His Education Bill (ev_048) was framed as systemic reform for college preparation. His Government Modernization initiative (ev_037) through Presidential Innovation Fellows represented fundamental restructuring of federal technology. His Energy Blueprint integrated multiple components for comprehensive energy transformation (ev_004). This structural preference contrasts with denial patterns that would refuse acknowledgment of needed change, and with patching approaches that preserve problematic underlying structures. His explicit framing of sequester cuts as requiring replacement with 'balanced deficit reduction' (ev_013) demonstrates preference for structural alternative over temporary fixes.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_028",
+        "ev_037",
+        "ev_048",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated self-reflection and belief monitoring",
+      "finding": "Obama demonstrates notable metacognitive capacity—the ability to observe and adjust his own cognitive processes. His explicit self-correction ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027) shows awareness of his own potential blind spots. His 'Year of Action' declaration (ev_015) reflected strategic self-monitoring when initial legislative approach failed. His fatherhood reflection (ev_006) demonstrated observational self-awareness of personal developmental experience. His farewell address gratitude for being 'made a better President and a better man' by American conversations (ev_044) suggests metacognitive integration of external feedback. His consistent attribution of accomplishments to collective action rather than personal genius (ev_032, ev_045) demonstrates cognitive monitoring against self-serving attribution bias. This metacognitive awareness supports flexible defensive functioning, as mature defenses like humor, suppression, and sublimation require self-observation capacity.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "defensive_maturity_composite",
+      "definition": "Overall assessment of Vaillant's maturity hierarchy integration across Obama's defensive repertoire—moving beyond individual mechanism analysis to assess cumulative defensive functioning level",
+      "finding": "Obama's defensive profile demonstrates integration of multiple mature defenses operating coherently: suppression enables mission prioritization without relational damage; anticipation extends time horizons and enables proactive crisis management; sublimation channels reform energy into constructive institutional redesign; altruism motivates genuine concern for vulnerable populations; humor and intellectualization provide flexible cognitive-affective modulation. Critically, his defenses operate with metacognitive awareness—he can observe his own defensive operations and adjust them. This defensive maturity composite predicts strong life adaptation, consistent with Vaillant's longitudinal findings. Notably absent: no evidence of primitive denial, projection, acting-out, or splitting. This suggests Obama functions at the neurotic-to-mature boundary, with capacity for both deep emotional experience (personal vulnerability narratives) and cognitive-affective separation (intellectualization of policy challenges) as context requires. His defensive flexibility across contexts—public policy (high intellectualization) versus personal narrative (high affect integration)—demonstrates sophisticated defensive adaptation.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

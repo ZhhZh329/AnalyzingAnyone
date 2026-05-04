@@ -1,0 +1,148 @@
+{
+  "discipline": "economics",
+  "lens": "institutional_economics_coase",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Mixed structure-responder with selective unilateral capacity, revealing pragmatic boundary-setting when legislative bargaining costs become prohibitive",
+      "finding": "Obama repeatedly demonstrates sensitivity to institutional constraints, calling for Congressional action on transportation funding (evt_006, evt_009), deficit reduction (evt_011, evt_012), and trade authority (evt_019). However, when faced with persistent legislative blockage, he demonstrates willingness to redraw governance boundaries unilaterally—executive orders on contractor minimum wage (evt_014), 'Year of Action' executive actions (evt_015). This pattern suggests a Coasean recognition that when bargaining costs with Congress become prohibitively high, presidential authority offers a lower-transaction-cost governance mechanism. The veto threat against Dodd-Frank repeal (ev_029) further shows he defends existing regulatory boundaries from external rearrangement. The pattern is not pure structure-response; rather, he selectively internalizes governance when external negotiation friction becomes excessive.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_019",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Not applicable through Coase lens; evidence shows values-driven reasoning rather than transaction-cost analysis",
+      "finding": "The evidence does not support analysis through the Coase framework's epistemic style. Obama's speeches articulate policy positions using values language ('fair wage,' 'level playing field,' 'commitment to seniors') and outcome metrics (jobs created, uninsured rates, consumer recoveries) rather than transaction-cost language (coordination friction, hold-up risk, contractual ambiguity). His statement that 'our economy depends on a financial system in which everyone competes on a level playing field' (ev_003) reflects regulatory philosophy, not transaction-cost reasoning. The Coase lens requires identifying whether a person understands governance choices through bargaining costs and dependency structures; Obama's public communications do not provide evidence of this cognitive framework.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_021",
+        "ev_036"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low support; Obama uses concrete metrics and human-centered narratives rather than formal system design language",
+      "finding": "The Coase framework's abstraction dimension would require evidence of systematic formalization of governance structures. Obama's speeches consistently use concrete, human-impact narratives—'parents whose kids got kicked out of Head Start' (ev_014), 'families of fallen heroes' (ev_038), specific job counts (ev_025). Rather than articulating regulatory architecture or governance protocols, he frames policy through measurable outcomes and personal stakes. The TPP announcement (evt_021) and Dodd-Frank defense (evt_020) reference completed frameworks but do not discuss their design logic. This suggests abstraction_formalization under the Coase lens is not supported by the evidence—Obama communicates policy as human consequences rather than system mechanics.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_038",
+        "ev_025"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate; Obama defends regulatory boundaries and uses executive authority to maintain governance standards, but control-seeking is contextually responsive rather than ideologically driven",
+      "finding": "Evidence supports moderate control orientation through a Coasean lens. Obama defends the Dodd-Frank regulatory boundary, declaring veto against any repeal (ev_029) and highlighting CFPB enforcement that 'put nearly $11 billion back in the pockets of consumers who've been cheated' (ev_028). The CFPB represents institutional control over consumer protection enforcement—keeping this function within regulatory authority rather than market self-regulation. He used executive orders to extend minimum wage to federal contractors (ev_017), establishing governance standards within federal boundaries. However, these control behaviors appear reactive—triggered by Congressional obstruction rather than proactive boundary expansion. The pattern suggests control orientation is a transaction-cost response: when external actors threaten governance standards or when legislative bargaining fails, he asserts unilateral control to maintain coordination structures. This is distinguishable from abstract power-seeking; it serves to preserve regulatory functions deemed essential for market operation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate; Obama prioritizes policy outcomes over relational comfort with political opponents, but he consistently seeks coalition-building rather than pure mission-first positioning",
+      "finding": "Obama exhibits consistent willingness to prioritize policy goals over relational comfort with Congressional Republicans when evidence shows persistent obstruction. He explicitly criticizes 'Republicans in Congress' for blocking minimum wage, equal pay, and unemployment insurance (ev_020), and condemns Senate obstruction tactics as contrary to founders' intent (ev_010). However, he also demonstrates Coasean awareness that broad coalition support reduces coordination costs—citing AFL-CIO and Chamber of Commerce agreement on transportation (ev_008) and framing TPP as serving workers (ev_026). His 'middle-out' economic philosophy (ev_021) reflects calculation that broad middle-class participation generates economic coordination benefits. The sequester narrative (evt_011, evt_012) shows he attempts to reframe the debate rather than simply impose preferences, suggesting sensitivity to the coordination benefits of legitimate process. The balance suggests moderate mission prioritization with strategic attention to relational costs where they affect governance efficiency.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_008",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Not applicable as primary construct; Obama exhibits risk awareness toward policy reversal and institutional stability, but not in transaction-cost terms",
+      "finding": "The evidence does not support assessment through the Coase framework's risk_posture construct, which would focus on attitudes toward transaction risks, hold-up exposure, and enforcement uncertainty. Obama's risk language focuses on policy reversal risk (defending Dodd-Frank, ACA, Paris agreement as 'not something to tear up' per ev_041), economic impact risks (sequester cuts to Head Start, military, research), and national security threats. While these reflect awareness that established programs face dissipation risk when governance structures weaken, the speeches do not frame these in transaction-cost terms (bargaining failure, contractual non-compliance, monitoring difficulty). His risk posture is more accurately characterized as policy stability-oriented rather than transaction-cost-calculating. Marking as not_applicable under this lens.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_014",
+        "ev_029"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strong; Obama treats presidential authority as governance tool to reduce legislative bargaining friction, and hierarchical structure as coordination mechanism rather than personal power",
+      "finding": "The Coase framework interprets hierarchy as a governance device for reducing cross-boundary bargaining and enforcement ambiguity. Obama demonstrates consistent use of presidential authority in this transactional manner. When legislative bargaining fails, he shifts to executive action ('Year of Action,' ev_019)—treating executive power as an alternative coordination mechanism with lower transaction costs than multi-party legislative negotiation. He explicitly defends the debt ceiling position as non-negotiable: 'I will not negotiate over the full faith and credit of the United States' (ev_015)—treating this as a governance principle requiring hierarchical enforcement rather than a bargaining chip. The sequester warnings show he attempts to establish predictable governance rules (balanced deficit reduction) to reduce repeated legislative haggling. His statement that government is 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) frames hierarchical governance as efficiency-enhancing coordination structure. This is consistent with Coasean logic: hierarchical authority reduces the transaction costs of distributed decision-making.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_036",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Moderate; Obama escalates to unilateral executive action when legislative bargaining becomes high-friction, but shows preference for institutional conflict resolution over pure suppression",
+      "finding": "Obama's conflict strategy reveals Coasean transaction-cost awareness. When Congressional bargaining fails repeatedly (minimum wage, equal pay, unemployment insurance), he escalates to executive action rather than suppressing the issue or further negotiating (ev_020). The 'Year of Action' (evt_015) represents boundary redrawing—shifting governance of federal contractor wages from legislative process to executive authority, eliminating the multi-party bargaining loop. He demonstrates awareness that debt ceiling conflicts represent high-friction bargaining: his refusal to negotiate (ev_015) treats the debt ceiling as a governance principle rather than a bargaining position. However, he shows preference for institutional resolution over unilateral imposition when possible—his consistent calls for Congressional action on transportation, deficit reduction, and TPP suggest he recognizes legislative legitimacy reduces enforcement costs. His condemnation of 'one senator gumming up the works' (ev_010) reflects frustration with institutional friction, but he works within rather than outside the system.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong medium-to-long horizon; Obama consistently justifies upfront costs (deficit reduction, climate investment, regulatory infrastructure) for long-term governance benefits",
+      "finding": "The Coase framework emphasizes that internalization often requires accepting short-term costs for long-term coordination benefits. Obama demonstrates consistent medium-to-long time horizon across policy domains. His deficit reduction narrative frames immediate spending cuts as necessary to establish sustainable fiscal governance: 'right now, our deficits are already falling at the fastest rate since the end of World War II' (ev_016), positioning this as multi-year trajectory. The Paris climate agreement (evt_025) and clean energy investments represent upfront commitment for long-term carbon reduction—'carbon pollution from our energy sector is at its lowest level in 25 years, even as we're continuing to grow our economy' (ev_040). Dodd-Frank regulatory infrastructure involves substantial upfront compliance costs to establish enforcement mechanisms for long-term financial stability. His statement attributing accomplishments to collective American effort over time (ev_032) and declaring 'America's resurgence is real' (ev_024) reflects a presidential scale time horizon. This temporal orientation is consistent with Coasean logic: willingness to invest in governance structures with deferred returns.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_040",
+        "ev_032",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate; evidence shows structural governance creation (Dodd-Frank, CFPB, ACA) when piecemeal approaches would require repeated transaction costs, but selective executive patching when legislative rebuilding fails",
+      "finding": "The Coase framework's rebuild_over_patch construct focuses on whether a person redraws governance boundaries rather than patching existing contractual arrangements. Obama demonstrates this pattern primarily through structural legislation rather than executive action alone. Dodd-Frank established comprehensive financial regulatory architecture—including a dedicated consumer protection agency—rather than patching existing fragmented oversight (evt_002, evt_020). The ACA created a new coverage structure rather than incrementally patching the existing insurance market (evt_001). However, when legislative rebuilding fails due to Congressional obstruction, Obama demonstrates pragmatic patching through executive orders—raising contractor minimum wage incrementally, announcing 'Year of Action' executive actions to achieve through administrative channels what legislation cannot. This selective patching (ev_019) reflects transaction-cost calculation: when legislative boundary reconstruction faces prohibitive bargaining costs, executive action provides partial structural change at lower coordination cost. The Cancer Moonshot task force (evt_026) represents structural coordination mechanism for cross-agency research coordination. The pattern is moderate rather than strong: Obama prefers structural solutions when achievable but will use available tools to patch governance gaps rather than accept complete inaction.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_002",
+        "ev_019",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Not applicable; evidence does not demonstrate Obama reflects on transaction-cost reasoning or governance boundary calculation as a cognitive framework",
+      "finding": "The Coase framework's metacognition construct would require evidence of a person recognizing and monitoring their own transaction-cost reasoning patterns. Obama's public communications do not provide such evidence. He does not describe governance choices in terms of bargaining costs, coordination friction, or boundary selection logic. His references to Congressional obstruction (ev_010, ev_020) describe political tactics rather than cognitive awareness of governance transaction costs. The farewell address reflection (evt_027) focuses on learning from American people and personal growth rather than institutional reasoning. Marking as not_applicable under this specific lens, as the evidence does not support analysis of metacognitive transaction-cost awareness.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "bipartisan_coalition_attraction",
+      "definition": "Obama consistently seeks cross-partisan or cross-sector coalition support for governance initiatives, suggesting awareness that legitimacy reduces enforcement costs and increases compliance beyond what hierarchical imposition achieves alone",
+      "finding": "The Coase framework focuses on transaction costs within and between organizational boundaries, but does not explicitly address how the perceived legitimacy of governance arrangements affects their enforcement costs and compliance. Obama's repeated efforts to frame policy positions as bipartisan—citing AFL-CIO and Chamber of Commerce agreement on transportation (ev_008), highlighting bipartisan budget deal as 'Christmas miracle' (ev_048), emphasizing TPP as serving American workers broadly rather than partisan interest—suggests strategic awareness that broad stakeholder endorsement reduces monitoring and enforcement costs. This emergent dimension captures something between pure hierarchy (command) and pure market (contract): coalition-building that increases the governance efficiency of whatever structure is ultimately adopted. The Coase lens does not explicitly address legitimacy externalities to enforcement costs, making this a supplementary dimension for analyzing Obama's governance strategy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048",
+        "ev_026",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

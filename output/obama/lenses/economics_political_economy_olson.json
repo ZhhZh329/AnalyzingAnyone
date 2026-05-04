@@ -1,0 +1,178 @@
+{
+  "discipline": "economics",
+  "lens": "political_economy_olson",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Hybrid world-shaper and structure-responder who preferentially used executive power to reshape policy when legislative coalition-building was blocked",
+      "finding": "Obama exhibited both structural adaptation and active reshaping. He frequently responded to institutional constraints by shifting to executive channels (ev_017: executive order on minimum wage; ev_019: 20+ executive actions in 2014), framing these as necessary responses to Congressional obstruction (ev_020). However, his core initiatives—ACA, Dodd-Frank, TPP, Paris Agreement—showed world-shaping intent to redesign major policy domains. He presented this hybrid approach as principled: refusing to negotiate on debt ceiling (ev_015) while pursuing bipartisan consensus where possible (ev_008: AFL-CIO and Chamber of Commerce coalition). The evidence suggests he interpreted institutional constraints as temporary obstacles to be circumvented through alternative channels rather than fundamental limits on action.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Coalition-signal driven epistemic style that framed policy through revealed preference data rather than abstract theory",
+      "finding": "Obama consistently formed policy arguments around constituency benefit distributions and polling-type reasoning rather than abstract ideological first principles. He cited survey data claiming majority small business owner support for minimum wage (ev_023), documented specific consumer recovery amounts ($11 billion to 26 million consumers, ev_028), and presented job creation statistics as verification of policy success (ev_025, ev_033). This pattern suggests he evaluated policies primarily through whether concentrated beneficiaries could be identified and mobilized, rather than through theoretical consistency. His rhetorical framing of 'middle-out' economics (ev_021) was abstract but always operationalized through specific program benefits to identifiable constituencies.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_028",
+        "ev_025",
+        "ev_033",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with consistent operationalization through specific benefit distributions",
+      "finding": "Obama employed abstract principles—'middle-out economics' (ev_021), 'level playing field' (ev_003), 'America's resurgence' (ev_024)—but consistently grounded these in specific policy outcomes and constituency benefits. He did not pursue highly formalized or systematized policy frameworks; instead, he used abstraction strategically to frame diverse policies as coherent. His energy strategy explicitly rejected singular solutions (ev_005: 'drilling alone is not a real strategy'), suggesting comfort with policy complexity. The evidence shows moderate formalization preference: he preferred workable programmatic packages over elegant theoretical systems.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_003",
+        "ev_024",
+        "ev_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation channeled primarily through executive authority rather than legislative management",
+      "finding": "Obama exhibited strong control-seeking behavior but constrained by constitutional separation of powers. He issued explicit veto threats against Wall Street Reform repeal (ev_029), took unilateral executive actions when Congress blocked legislation (ev_017, ev_019), and made definitive commitments on non-negotiable positions (ev_015: refusing to negotiate debt ceiling). The evidence shows he sought to control policy outcomes by controlling executive branch implementation and pre-empting legislative reversal. However, this control was fundamentally reactive—triggered by Congressional obstruction rather than proactively shaping legislative negotiations. His 'Year of Action' framing (ev_015, ev_019) explicitly positioned executive control as a substitute for legislative coalition-building.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with documented willingness to absorb relational costs with opposition",
+      "finding": "Obama consistently prioritized policy missions over relational comfort with political opponents. He publicly criticized Republican obstruction (ev_020: 'said no to raising minimum wage, no to equal pay, no to restoring unemployment insurance'), condemned Senate procedures as contrary to founders' intent (ev_010), and framed Congressional opposition as fundamentally irresponsible (ev_015: debt ceiling 'height of irresponsibility'). His mission priorities—ACA, Dodd-Frank, climate action, veterans employment—were repeatedly foregrounded even when bipartisan appeals failed. The relational cost was explicitly absorbed: he called out specific party opposition while maintaining abstract appeals to bipartisan values. This pattern suggests mission served as primary coalition selector, with relational costs to opposition accepted as necessary.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance focused on policy reversal risk rather than political or personal risk",
+      "finding": "Obama pursued several high-visibility, politically risky initiatives: TPP (which faced significant labor opposition), Paris climate agreement (required major regulatory commitments), ACA (political toxicity). However, his executive action strategy reflected risk aversion to legislative defeat—he moved unilaterally when legislative paths seemed blocked (ev_017, ev_019). The risk posture was asymmetric: willing to commit to irreversible policy frameworks (Dodd-Frank veto commitment, ev_029; Paris climate 'something to build upon', ev_041), but risk-averse toward political negotiations that might result in worse outcomes than status quo. He framed failed bipartisan negotiations as demonstrations of opponent irresponsibility rather than shared failure.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_041",
+        "ev_017",
+        "ev_019",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strong executive-centering with strategic use of hierarchical symbolism and coalition bridging",
+      "finding": "Obama's power orientation was strongly centered on executive authority while strategically employing hierarchical symbolism. He positioned the presidency as the locus of policy initiative (ev_015: 'Year of Action'), issued veto threats as primary legislative tool (ev_029), and framed executive actions as legitimate substitutes for Congressional failure. His coalition strategy showed sophisticated understanding of concentrated benefit distribution: he highlighted AFGE support for federal contractor minimum wage (ev_017), AFL-CIO/Chamber of Commerce convergence on transportation (ev_008), and private sector veteran hiring commitments (ev_009). The evidence reveals calculation of which hierarchies could be mobilized (business-labor coalition, veteran networks) versus which to circumvent (Congressional Republican leadership).",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_008",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-oriented with coalition differentiation and strategic withdrawal to executive channels",
+      "finding": "Obama's conflict strategy combined public escalation with strategic withdrawal to unilateral executive action. He publicly named and shamed Congressional opponents (ev_020), issued veto threats (ev_029), and framed conflicts in moral terms (ev_015: 'irresponsibility'). However, when legislative escalation failed repeatedly, he shifted to executive channel conflict—taking 20+ executive actions in 'Year of Action' (ev_019) after Congressional blockage. This represents not suppression or delay but rather conflict translation: converting legislative conflict into executive implementation. His conflict with Congressional Republicans was sustained and public, but he avoided direct personal confrontation in favor of institutional positioning. The veteran hiring challenge (ev_009) and corporate partnerships (ev_004) suggest he preferred building alternative coalition structures over negotiating existing conflicts.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_019",
+        "ev_015",
+        "ev_009",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term legacy orientation with concrete mid-term electoral calculations",
+      "finding": "Obama's time horizon was strongly oriented toward long-term structural legacies (ACA, Dodd-Frank, Paris Agreement, Cancer Moonshot, ev_042) while making tactical appeals to short-term economic metrics for political purposes. His farewell address explicitly framed these as lasting contributions (ev_045: 'leave a better, cleaner, safer future for our children', ev_041). The Paris Agreement, TPP, and Dodd-Frank represent decades-long policy bets with uncertain near-term payoffs. However, his weekly addresses consistently emphasized immediate job numbers (ev_025, ev_033: '2.5 million jobs'), suggesting dual-track temporal messaging: long-term structural goals for legacy, short-term economic indicators for political mobilization. His 'Year of Action' framing (ev_015) was explicitly mid-term election-oriented.",
+      "evidence_ids": [
+        "ev_045",
+        "ev_041",
+        "ev_025",
+        "ev_033",
+        "ev_015",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild preference across major policy domains",
+      "finding": "Obama consistently pursued structural redesign over incremental patches: ACA redesigned healthcare financing rather than patching existing programs; Dodd-Frank restructured financial regulation rather than targeted interventions; Paris Agreement committed to long-term climate system transformation; TPP aimed to rewrite global trade rules rather than adjust existing agreements. His veto threat on Dodd-Frank repeal (ev_029: 'We've worked too hard to recover from one crisis only to risk another') explicitly framed structural preservation as essential. The sequester conflict showed him demanding 'balanced' comprehensive replacement rather than temporary fixes (ev_013, ev_014). However, his executive action strategy represented patches when structural legislative approaches failed—suggesting contingent rebuild versus patch selection based on coalition feasibility rather than ideological preference.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_013",
+        "ev_014",
+        "ev_030",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Weak support for metacognitive self-awareness in available evidence",
+      "finding": "The official speeches provide limited evidence of metacognitive self-reflection. His farewell address (ev_044, ev_047) expressed learned lessons from public engagement but did not reveal systematic awareness of reasoning biases or cognitive limits. He attributed policy success to collective action ('it's you—the American people', ev_032) but did not explicitly reflect on his own belief formation processes. The evidence shows strategic awareness of audience and political context but not documented evidence of monitoring his own reasoning patterns. The public speech format limits what can be inferred about private metacognitive habits.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_047",
+        "ev_032"
+      ],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "coalition_maintenance_through_public_commitment_devices",
+      "definition": "Obama's distinctive use of public, verifiable commitments (veto threats, executive orders, quantified challenges) as devices to maintain coalition cohesion and prevent defection—turning policy positions into reputational stakes that raise exit costs for opponents",
+      "finding": "The evidence reveals a distinctive pattern: Obama used public commitment devices as coalition maintenance tools. His veto threat on Dodd-Frank (ev_029) raised the reputational cost of Republican repeal efforts by making reversal a direct confrontation with presidential authority. The 100,000 veterans hiring challenge (ev_009) created social pressure through public visibility of corporate commitments. The 'Year of Action' framing (ev_019) turned executive actions into documented proof of continued progress despite Congressional obstruction. This suggests a strategic logic: public commitments function as selective incentives for coalition members (demonstrating results) and as exit barriers for opponents (reversing commitments requires confronting presidential authority). The debt ceiling stance (ev_015) explicitly refused negotiation, making compromise costlier than opposition. This pattern aligns with Olson-style coalition governance: using commitment devices to reduce free-riding and stabilize support through reputational mechanisms rather than material selective incentives.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_009",
+        "ev_019",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "concentrated_beneficiary_mobilization_versus_diffuse_cost_activation",
+      "definition": "Obama's systematic difficulty in mobilizing constituencies around diffuse-cost policies (climate, trade) compared to concentrated-benefit policies (Medicare expansion, contractor minimum wage, veterans programs)—revealing structural limits to his coalition-building approach",
+      "finding": "The evidence reveals a clear pattern in benefit-cost distribution alignment. Obama's most successful coalition-building occurred around concentrated-benefit policies: Medicare expansion for seniors (ev_001, ev_002), federal contractor minimum wage for specific workers (ev_017), veteran hiring for discrete populations (ev_009), consumer protection recoveries for identified victims (ev_028). These policies concentrated visible benefits on identifiable groups while diffusing costs across taxpayers. In contrast, his climate agenda (Paris Agreement, clean energy standards) and TPP faced persistent mobilization challenges because benefits were diffuse, long-term, and difficult to attribute to specific constituency groups. His response—Silicon Valley partnerships (ev_037), corporate fleet programs (ev_004)—shifted toward concentrated beneficiary recruitment (tech companies, large corporations) rather than mass mobilization. This pattern suggests structural constraints on his coalition-building approach: effective when benefiting concentrated constituencies, limited when requiring diffuse-cost acceptance or diffuse-benefit mass mobilization.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_017",
+        "ev_009",
+        "ev_028",
+        "ev_040",
+        "ev_041",
+        "ev_031",
+        "ev_004",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

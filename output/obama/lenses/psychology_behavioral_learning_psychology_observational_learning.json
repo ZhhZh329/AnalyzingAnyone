@@ -1,0 +1,180 @@
+{
+  "discipline": "psychology",
+  "lens": "behavioral_learning_psychology_observational_learning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong collective-world-shaping orientation, acting as conduit for American people's agency rather than sole actor",
+      "finding": "Obama consistently framed his role as enabling collective American action rather than imposing top-down direction. In his farewell address (ev_044), he stated 'Every day, I learned from you. You made me a better President and you made me a better man,' positioning himself as responsive to citizens rather than architect of change. He credited 'the American people' for all 2015 progress (ev_032): 'It's you—the American people. All of this progress is because of you—because of workers rolling up their sleeves.' This suggests his agency orientation operates through amplifying and channeling observable collective will, not through individual heroics. His approach to the Cancer Moonshot—tasking Biden with cross-agency coordination and using Presidential Innovation Fellows from Silicon Valley (ev_043)—demonstrates world-shaping through assembling distributed expertise rather than central control.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven observational learner who incorporates others' experiences and stakeholder input to form policy positions",
+      "finding": "Obama's epistemic style demonstrates strong reliance on observable outcomes and stakeholder feedback. He cited extensive empirical data in making policy cases: 11 million jobs over 57 months (ev_025), 26 million consumers recovering $11 billion through CFPB (ev_028), wind power tripled and solar 30x growth (ev_040). His willingness to acknowledge past failures shows observational learning from others' experiences—he admitted 'past trade deals haven't always lived up to the hype' (ev_027) when defending TPP. He sought diverse input, bringing together AFL-CIO and Chamber of Commerce (ev_008)—groups that 'don't always see eye-to-eye.' His approach to understanding real human costs of policy (sequester impacts on Head Start, seniors, military families in ev_014) suggests he used others' lived experiences as evidence for policy positions. This pattern indicates an epistemic style that values empirical observation and stakeholder testimony over ideological purity.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_027",
+        "ev_008",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high abstraction with capacity to translate philosophical principles into concrete policy mechanisms",
+      "finding": "Obama demonstrated ability to operate at both philosophical and concrete levels. He articulated abstract principles clearly: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021), 'America is at war with al-Qaeda and its affiliates—and we will never be at war with Islam' (ev_012), and government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036). However, he consistently operationalized abstractions into concrete policy mechanisms—the 'middle-out' philosophy translated into specific proposals for minimum wage, workforce training, and equal pay (ev_016). He presented accomplishments in formal enumerated lists (top 10 things in 2015, ev_033). His energy policy rejected drilling alone as insufficient abstraction ('Drilling alone is not a real strategy' ev_005) while proposing concrete targets (one-third oil import reduction by 2025) and partnerships. This suggests abstraction_formalization at moderate-high level—able to distill principles but grounded in concrete implementation pathways.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_012",
+        "ev_036",
+        "ev_005",
+        "ev_016",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic control orientation using available institutional mechanisms and public positioning to shape outcomes when legislative paths blocked",
+      "finding": "Obama displayed strong but strategic control orientation, particularly evident in his 'Year of Action' approach. When Republicans blocked minimum wage, equal pay, and unemployment insurance through Congress, he took more than 20 executive actions (ev_019): 'I acted to raise more workers' wages by requiring that workers on new federal contracts earn a fair wage of at least $10.10 an hour.' He issued definitive veto threats to protect Wall Street Reform (ev_029): 'And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it.' His approach to government modernization—inviting Silicon Valley expertise into the White House (ev_037)—shows control orientation through environment modification and talent acquisition. He refused to negotiate over debt ceiling (ev_015), demonstrating willingness to exercise absolute control on core positions. This pattern indicates control orientation channeled through institutional levers and strategic positioning rather than seeking comprehensive control.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_037",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with high tolerance for relational costs when core commitments are at stake",
+      "finding": "Obama demonstrated willingness to absorb significant relational costs when mission demands required it. He directly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020). He condemned Senate procedural tactics as contrary to founders' intent (ev_010): 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned.' He refused to negotiate on debt ceiling under any circumstances (ev_015): 'The United States of America is not a deadbeat nation... That's why I will not negotiate over the full faith and credit.' However, he consistently sought bipartisan cooperation when possible—calling transportation 'not a Democratic or a Republican issue—it's an American issue' (ev_008). This suggests mission prioritization but with genuine preference for consensus when achievable. The relational costs were absorbed specifically when obstruction blocked mission-critical objectives.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with willingness to use unconventional approaches while acknowledging potential for failure",
+      "finding": "Obama displayed moderate risk tolerance through his embrace of executive actions when legislative channels failed and his willingness to pursue complex agreements. The Cancer Moonshot (ev_042) represented a cross-agency initiative with uncertain outcomes: 'we now have a clear strategy for the road ahead' after previous 45 years of incremental progress. His defense of TPP acknowledged past trade deal failures while proceeding with new agreement (ev_027). He pursued Paris climate agreement (ev_034) despite uncertain enforceability. He announced government-Silicon Valley partnerships (ev_037)—unconventional governance model. However, he framed risks in terms of consequences of inaction as much as action: 'We've worked too hard to recover from one crisis only to risk another' (ev_029). His 'Year of Action' via executive orders carried political risk of overreach accusations. This suggests moderate risk posture—willing to take calculated institutional and diplomatic risks but grounded in strategic rather than reckless approach.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_027",
+        "ev_034",
+        "ev_037",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional-power leveraging with coalition-building across hierarchical boundaries",
+      "finding": "Obama demonstrated sophisticated use of formal hierarchical authority combined with cross-hierarchy coalition building. As Commander-in-Chief (ev_038), he exercised clear authority over military matters: 'Making sure they have what they need to succeed. Making sure we only send them into harm's way when it's absolutely necessary.' He leveraged veto power definitively (ev_029). Yet he built coalitions across traditional hierarchies—uniting AFL-CIO and Chamber of Commerce (ev_008), partnering with businesses for veteran hiring (ev_009), engaging private sector for fatherhood initiatives (ev_005). His government modernization approach invited external expertise into hierarchical government structure (ev_037, ev_043). He framed power in terms of enabling rather than dominating: 'our founders trusted us with the keys to this system of self-government' (ev_036). This suggests hierarchical authority used as platform for broader coalition building rather than unilateral deployment.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_029",
+        "ev_008",
+        "ev_009",
+        "ev_005",
+        "ev_037",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Public-assertive strategy with explicit naming of opposition positions and coalition-based pressure tactics",
+      "finding": "Obama's conflict strategy involved direct public assertion of positions combined with coalition mobilization. He explicitly named obstruction patterns: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). He called out procedural tactics: 'One senator gumming up the works' (ev_010). He publicly committed to veto Wall Street Reform repeal attempts (ev_029). He framed conflicts in values terms—making minimum wage about dignity of work, veterans hiring about national obligation. His transportation bill campaign (ev_008) built broad coalition pressure. He used urgent framing with concrete deadlines to force action (ev_011): 'we are seven days away from thousands of American workers having to walk off the job.' He avoided personal attacks while remaining assertive. This suggests a negotiation-based conflict strategy with public pressure components—explicit rather than suppressed, coalition-based rather than purely adversarial.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_008",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission-scale orientation with explicit concern for generational and systemic legacy",
+      "finding": "Obama consistently demonstrated long-term and mission-scale time horizons. His clean energy goals extended to 2025 (ev_004): 'cut oil imports by one-third by 2025.' He cited infrastructure investments with multi-year payoff (ev_006). Climate policy framing invoked intergenerational responsibility (ev_041): 'we can leave a better, cleaner, safer future for our children.' His education and workforce training initiatives (ev_016) aimed at structural rather than immediate effects. He framed ACA implementation and Cancer Moonshot as 'proudest achievements' in farewell (ev_027)—long-term institutional legacies. His deficit reduction approach was explicitly long-term (ev_016): 'reversing the decades-long erosion of middle-class jobs and incomes.' He invoked historical context—defining America's role post-9/11 (ev_010). This suggests time_horizon oriented toward mission-scale outcomes spanning administrations and generations.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_041",
+        "ev_016",
+        "ev_010",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reform orientation with preference for systemic overhaul over incremental fixes when politically feasible",
+      "finding": "Obama consistently pursued structural reforms over incremental patches. ACA represented complete health care system overhaul rather than targeted patches. Wall Street Reform established new institutional architecture (CFPB as 'independent Consumer Financial Protection Bureau with one mission'). Executive order on minimum wage for federal contractors created structural change to government procurement. His clean energy approach aimed at transformation: 'multiplied wind power threefold... solar power more than thirtyfold' (ev_040)—structural market shift. He rejected drilling alone as insufficient ('Drilling alone is not a real strategy,' ev_005), preferring comprehensive approach. He called for replacing sequester entirely rather than patching: 'called to replace sequester with balanced deficit reduction approach' (evt_012). TPP sought to 'write global trade rules' (ev_031)—structural international framework. This pattern suggests strong rebuild orientation when political windows permitted—systemic reform pursued when possible, executive action used when legislative reform blocked.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_005",
+        "evt_012",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with explicit acknowledgment of learning from others and iterative belief updating",
+      "finding": "Obama demonstrated notable metacognitive sophistication through explicit acknowledgment of learning processes. His farewell address showed meta-awareness of his own growth through interaction (ev_044): 'Every day, I learned from you. You made me a better President, and you made me a better man.' He acknowledged past learning failures informing present positions (ev_027): 'I'm the first to admit that past trade deals haven't always lived up to the hype.' He explicitly credited external models for government modernization (ev_037): 'We asked some of the sharpest minds from companies in Silicon Valley to come help us modernize.' He reflected on diverse experiences shaping his perspective (ev_045): 'I've seen neighbors looking out for each other... I've hugged cancer survivors... I've seen communities rebuild.' He modeled civic engagement meta-awareness (ev_046): 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime.' Biden's Cancer Moonshot address (ev_042) showed Obama delegating to external model while maintaining coordination. This suggests strong metacognition—explicit awareness of learning from others and iterative belief updating.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_037",
+        "ev_045",
+        "ev_046",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "role_reversal_learning",
+      "definition": "Pattern where subject simultaneously serves as behavioral model for observers while actively learning from external models and stakeholders—creating bidirectional observational learning flow that blunts traditional observer-observed distinction",
+      "finding": "Obama exhibited pronounced role-reversal learning patterns throughout his presidency. He served as visible behavioral template for civic engagement—modeling sustained participation (ev_046: 'throw ourselves into the work of citizenship'), fatherhood (assistant coach for daughter's basketball team, ev_007), and coalition-building across divides (AFL-CIO with Chamber of Commerce, ev_008). Yet simultaneously, he explicitly positioned himself as learner from American people (ev_044): 'Every day, I learned from you.' He sought government modernization ideas from SXSW (evt_023), invited Silicon Valley into government (ev_037), and coordinated Cancer Moonshot through external expertise (ev_042-043). His approach to fatherhood demonstrated observational learning from his own absent father—he reflected on father's absence (ev_006) and consciously chose different parenting approach. This bidirectional pattern—being modeled while actively modeling others' behavior—suggests observational learning integrated rather than unidirectional.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_046",
+        "ev_007",
+        "ev_008",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "exemplar_persistence_strategy",
+      "definition": "Using concrete human exemplars and narrative cases as primary persuasion mechanism rather than abstract arguments—making observational learning highly accessible to broad public",
+      "finding": "Obama demonstrated consistent use of exemplar-based persuasion as communication strategy. Rather than abstract arguments alone, he consistently invoked specific human cases: 'parents whose kids just got kicked out of Head Start programs' (ev_014), 'seniors who depend on programs like Meals on Wheels,' 'military communities—families that have already sacrificed enough.' He invited listeners to 'reach out to a Gold Star Family in your community, and listen to the story they have to tell' (ev_039). He framed minimum wage in human terms (ev_017): 'workers who serve our troops' meals, wash their dishes, care for our veterans.' He used his own absent father as exemplar to normalize broader father-absence challenges (ev_006). His enumerated top 10 accomplishments (ev_033) used specific metrics rather than abstract claims. This exemplar strategy makes abstract policy accessible to public observation—people can see themselves in the cases presented. This represents sophisticated use of observational learning theory principles in mass communication—presenting model cases for audience identification.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_039",
+        "ev_017",
+        "ev_006",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

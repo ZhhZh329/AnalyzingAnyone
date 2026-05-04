@@ -1,0 +1,177 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "computer_architecture_and_embedded_systems_real_time_embedded_constraints",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who restructured problem domains when pathways were blocked, but primarily operated as structure-responder within political constraints",
+      "finding": "Obama's leadership style demonstrates a sophisticated dual orientation: he initially attempted to work within established political structures through bipartisan collaboration (ev_008: 'This isn't a Democratic or a Republican issue'), but progressively shifted toward active structural reshaping when blocked. The ACA and Dodd-Frank represent large-scale system redesigns that fundamentally altered institutional architectures. When legislative paths closed (ev_020: Republican obstruction of minimum wage, equal pay, unemployment insurance), he responded with 20+ executive actions in his 'Year of Action' (ev_019). This pattern—structure-response first, then aggressive agency when constraints become binding—suggests a pragmatic world-shaper who respects constraints until they become untenable. His willingness to make ironclad commitments ('I will not negotiate over the full faith and credit' - ev_015) and issue veto threats (ev_029) indicates active reshaping attempts even within a constrained system.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strong empiricist who anchors discourse in measurable metrics, statistics, and verifiable outcomes rather than ideological abstraction",
+      "finding": "Obama's communication consistently demonstrates metric-first reasoning across policy domains. Economic discourse heavily features specific job counts (ev_025: '11 million new jobs' over 57 months; ev_033: '2.5 million new jobs' in 12 months), dollar amounts (ev_028: '$11 billion recovered for 26 million consumers'), and percentage changes (ev_033: 'uninsured rate dropped below 10 percent'). Energy policy discussion employs quantified comparisons (ev_040: 'wind power threefold, solar thirtyfold, carbon pollution lowest in 25 years'). Even social policy appeals cite survey data (ev_023: 'majority of small business owners support $10.10 minimum wage'). This empiricist orientation serves both genuine belief in measurement and political communication strategy, but the pattern is consistent enough to suggest underlying epistemic preference for evidence over assertion. Notably, when statistical claims appear, he often anchors them to specific timeframes and methodologies, demonstrating awareness of evidentiary quality.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization preference demonstrated through institutional design, codified rule systems, and systematic rather than ad-hoc approaches",
+      "finding": "Obama consistently preferred codified institutional architectures over discretionary or case-by-case governance. The ACA established formal rules and regulatory structures rather than funding-based incentives. Dodd-Frank created the CFPB as an independent enforcement mechanism with explicit consumer protection mandate (ev_028). The Paris climate agreement, TPP, and Iran nuclear deal all represent formalized international frameworks with verifiable commitments. Domestically, his 'Year of Action' framework (ev_019) treated executive actions as systematic program rather than reactive measures. He explicitly distinguished between approaches like his 'balanced' deficit reduction (ev_013: 'sensible changes to entitlement programs and reforming our tax code') versus what he framed as inferior alternatives. This preference for formalization appears strongest in regulatory and institutional design, less so in crisis management where he demonstrated adaptability.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_019",
+        "ev_028",
+        "ev_029",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control preference using mechanisms and institutional guardrails, but willingness to exercise direct control when mechanisms fail or deadlines are critical",
+      "finding": "Obama's control orientation shows characteristic real-time/embedded systems tension between direct manipulation and indirect control via mechanisms. He preferentially designed self-sustaining mechanisms (CFPB independent enforcement, bipartisan budget frameworks, Paris agreement verification) rather than maintaining direct executive control. His metaphor of government as 'tool' (ev_036: 'it's only as good as we make it') suggests understanding of systemic control limits. However, when facing critical deadlines (ev_011: transportation funding 'seven days away', student loans 'eight days away'), he switched to direct urgency appeals and explicit action demands. His veto commitments (ev_029) and executive orders (ev_017: $10.10 minimum wage for federal contractors) represent direct control exercises when institutional mechanisms failed or were blocked. This pattern—mechanism design as default, direct intervention as exception—aligns with embedded systems approach where possible but accepts direct control when feedback loops cannot be trusted.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_017",
+        "ev_029",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority willing to absorb significant relational costs when core policy goals are at stake",
+      "finding": "Obama demonstrated consistent willingness to sacrifice relational comfort for policy priorities when constraints became binding. His criticism of Senate obstruction (ev_010: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned') accepted immediate partisan conflict for institutional principle. His declaration that he would veto any Wall Street Reform repeal (ev_029) prioritized policy preservation over bipartisan goodwill. By 2014, his language shifted explicitly adversarial (ev_020: 'Republicans in Congress have blocked or voted down every serious idea to create jobs... They've said no to raising the minimum wage, no to equal pay, no to restoring unemployment insurance'), accepting the relational cost of direct political confrontation. Notably, he distinguished between relational costs he would not pay (accepting bad policy) versus those he would absorb (personal criticism, partisan attacks), suggesting calibrated mission-prioritization rather than indiscriminate conflict-seeking.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense risk posture willing to take calculated large-scale risks with built-in safeguards; prefers defensive architecture over pure risk avoidance",
+      "finding": "Obama's risk posture reflects sophisticated multi-layered approach characteristic of reliable embedded systems design. Major initiatives show explicit safeguards: ACA included Medicare solvency extensions and prescription drug gap rebates as defensive measures. Dodd-Frank added 'too big to fail' bailouts prevention explicitly to prevent systemic risk recurrence. Paris climate agreement featured 200-nation participation reducing single-nation failure impact. His Iran deal explicitly included verification mechanisms and dismantlement requirements as safety layers. Notably, when discussing sequester's negative impacts (ev_014: Head Start cuts, airport disruptions, military strain), he framed the problem as inadequate risk architecture rather than advocating pure risk avoidance. His defense was consistently 'we need better mechanisms,' not 'we should avoid new initiatives.' This layered approach—taking on major challenges while building defensive architecture—reflects neither pure risk-taking nor risk aversion but rather risk distribution through institutional design.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_014",
+        "ev_029",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex relationship with hierarchy: respects formal authority when functional, but actively restructures authority relationships when they fail equity or efficiency goals",
+      "finding": "Obama's orientation to hierarchy and authority shows nuanced embedded-systems awareness of power dynamics. He demonstrated respect for formal authority structures in his critique of Senate procedures (ev_010: referencing 'founding fathers' intent, calling for '90-day up-or-down votes on nominations'). However, he simultaneously worked to redistribute authority through institutional design: CFPB as independent agency removed enforcement discretion from potentially captured institutions; executive orders on minimum wage used presidential authority to override market hierarchies. His rhetoric around 'middle-out' economics (ev_021: 'Our economy grows best not from the top-down, but from the middle-out') explicitly addresses structural power distribution. In foreign policy, his distinction between 'war with al-Qaeda' versus 'war with Islam' (ev_012) reframe authority relationships at civilizational scale. This pattern suggests hierarchy as tool to be respected when functional, restructured when misaligned with goals—not a flatly egalitarian or authoritarian orientation but an instrumental one.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_012",
+        "ev_021",
+        "ev_028",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Evolving from negotiation/coalition-building to escalatory confrontation as deadlock persisted; demonstrates strategic delay followed by decisive action under deadlines",
+      "finding": "Obama's conflict strategy shows clear temporal evolution consistent with real-time systems response to persistent constraints. Early presidency (2010-2011) emphasized bipartisan framing (ev_008: AFL-CIO and Chamber of Commerce together) and negotiation. When systematic obstruction emerged, strategy shifted toward confrontation (ev_010: condemning Senate tactics directly) while still calling for reform. By 2013-2014, confrontation became primary mode (ev_020: explicit Republican criticism). However, his deadline-driven crisis response (ev_011: 'seven days away,' 'eight days away') demonstrates characteristic real-time pattern: delay until hard constraint approaches, then rapid decisive action. His debt ceiling stance (ev_015: refusing to negotiate 'over the full faith and credit') shows categorical non-negotiation on fundamental system integrity questions. This pattern—exhaust collaborative approaches, then escalate and hold firm rather than split or patch—suggests a negotiation-then-escalate rather than split or suppress orientation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale temporal orientation mixing urgent deadline responsiveness with medium-term capability building and long-term structural bets",
+      "finding": "Obama demonstrates characteristic real-time embedded systems multi-horizon orientation. Short-term: consistent responsiveness to immediate deadlines (sequester deadlines, transportation funding expiration, student loan rate increases). Medium-term: explicit capability-building initiatives like his 'Blueprint for a Secure Energy Future' targeting 2025 (ev_004: 'cut oil imports by one-third'), veteran hiring challenge with 2013 endpoint (ev_009). Long-term structural bets: Paris climate agreement as multi-decade framework, TPP as generational trade architecture, 'Cancer Moonshot' explicitly referencing 45-year trajectory (ev_042). His economic message increasingly emphasized sustained trends (ev_025: '57 months of job growth,' 'wages on the rise again') over point-in-time snapshots. Notably, he framed current achievements as enabling long-term capacity ('America's resurgence is real' - ev_024, 'leave a better, cleaner, safer future for our children' - ev_041). This multi-scale orientation prevents single-horizon optimization that could sacrifice long-term capability for short-term visibility.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_024",
+        "ev_025",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference when faced with systemic failures; prefers comprehensive refactoring over incremental patches",
+      "finding": "Obama's approach to systemic problems consistently favored fundamental redesign over incremental modification. ACA represented complete healthcare system restructuring rather than market-based patches or incremental coverage expansions. Dodd-Frank enacted comprehensive financial regulatory overhaul rather than targeted bailouts or piece-by-piece reform. Paris climate agreement restructured international climate coordination rather than voluntary减排 pledges. Cancer Moonshot created cross-agency innovation infrastructure (ev_043: Presidential Innovation Fellows, Trials.Cancer.Gov) rather than funding increases alone. His explicit rejection of 'patching' appears in his critique of prior trade deals (ev_027: 'past trade deals haven't always lived up to the hype') which informed more comprehensive TPP approach. The sequester episode reveals opposite pattern—when unable to redesign, he was forced to patch (temporary FAA fix) and expressed dissatisfaction with inadequate solutions (ev_014). This confirms structural redesign as primary preference, with patching as fallback when political constraints prevent architectural changes.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_029",
+        "ev_030",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness demonstrated through learning from failures and acknowledging uncertainty, but strong confidence in own judgment limits recursive self-correction",
+      "finding": "Obama shows evidence of second-order thinking in several domains. He explicitly acknowledged past trade deal failures (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') and incorporated that learning into TPP design with enhanced enforcement mechanisms. His Cancer Moonshot explicitly built on 45 years of prior cancer research infrastructure (ev_042) rather than claiming novel creation. His December 2015 address enumerated accomplishments while attributing them to collective action (ev_032: 'It's you—the American people') rather than claiming singular credit. However, metacognitive depth appears bounded by strong confidence in own analytical framework. His critique of Senate obstruction (ev_010) placed responsibility on process rather than acknowledging alternative legitimate objections. His consistent framing of economic progress as validation of his approach suggests pattern completion rather than uncertainty acknowledgment. The gap between his acknowledged learning from trade failures and his maintained confidence in other domains suggests domain-specific rather than generalized metacognitive practice—a limitation common in high-agency leaders who have been right enough to distrust excessive self-doubt.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_027",
+        "ev_032",
+        "ev_042",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "constraint_adaptation_velocity",
+      "definition": "The speed and flexibility with which an agent recognizes binding constraints and pivots strategies when initial approaches become infeasible. This differs from agency_orientation (which captures goal-setting vs. constraint-response) and control_orientation (which captures direct vs. indirect approach) by focusing specifically on temporal response patterns under changing constraint landscapes.",
+      "finding": "Obama demonstrates high constraint adaptation velocity—rapid strategic pivots when binding constraints crystallize. His early 2010-2011 push for bipartisan cooperation (ev_008) gave way to executive action approach when congressional obstruction crystallized as permanent constraint (ev_019: 'Year of Action'). His sequester response initially advocated balanced replacement, but when that path closed, pivoted to documenting human costs and framing sequester as system failure requiring architectural fix rather than negotiation. His debt ceiling stance shows categorical non-negotiation once he recognized the constraint pattern—but this was a pivot from earlier willingness to negotiate. This velocity appears asymmetric: he adapts quickly to new political constraints but maintains core commitments when others might compromise. The pattern suggests calibrated responsiveness—fast adaptation on tactics, slow on core principles—consistent with real-time systems design where stable specifications are essential even as implementation adapts to resource changes.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_memory_and_continuity_awareness",
+      "definition": "The degree to which an agent explicitly considers how current decisions create institutional path dependencies and legacy constraints for successors. Distinct from time_horizon (temporal scope of optimization) by focusing specifically on how present actions constrain future institutional possibility spaces.",
+      "finding": "Obama's farewell address and later speeches reveal explicit awareness of institutional path dependencies. His framing of climate policy (ev_041: 'That's not something to tear up – it's something to build upon') explicitly considers successor decisions. His ACA implementation and Dodd-Frank defense throughout second term show consciousness of how early architecture would constrain future policy. His emphasis on 'leaving a better future' (ev_041) and expressing optimism 'I look forward to working along your side, as a citizen' (ev_047) suggests concern with civic infrastructure continuity beyond his direct tenure. This awareness manifests most clearly in his defense of institutional mechanisms over personal discretion—defending the CFPB, supporting independent agencies, building verification into international agreements—creating structures that constrain successors even without his participation. This contrasts with leaders who optimize for personal legacy or immediate impact without institutional continuity consideration, and aligns with embedded systems perspective where architecture decisions create decades of constraints.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_reasoning_statistics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with quantitative leverage consciousness; systematically uses economic metrics as system-change indicators rather than responding to individual cases",
+      "finding": "Obama consistently demonstrates a world-shaping orientation through quantitative policy levers. In ev_021, he articulates 'middle-out' economic philosophy: 'Our economy grows best not from the top-down, but from the middle-out.' Rather than responding to individual grievances, he frames agency through system-level metrics—the 11 million jobs created (ev_025), 57 consecutive months of growth, or the 26 million consumers recovering $11 billion from CFPB (ev_028). His energy policy demonstrates calibration awareness: 'Even though America uses 25 percent of the world's oil, we currently have about 2 percent of the world's oil reserves' (ev_005)—this ratio consciousness shows statistical thinking about relative position and leverage points. He treats policy instruments as levers that move system distributions, not as responses to isolated incidents.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strong statistical reasoning with trend-based belief formation; relies on aggregate indicators and distributions rather than anecdotes or single cases",
+      "finding": "Obama's epistemic style shows consistent statistical orientation. He forms beliefs through trend analysis: 'Over the past 57 months, our businesses have created nearly 11 million new jobs. And in a hopeful sign for middle-class families, wages are on the rise again' (ev_025). His year-end 2015 address enumerated accomplishments as a ranked statistical list: '2.5 million new jobs,' 'uninsured rate dropped below 10 percent for the first time ever,' 'carbon pollution at its lowest level in 25 years' (ev_033, ev_040). He references survey data (ev_023) to support policy claims: 'Recent surveys show that a majority of small business owners support a gradual increase to ten dollars and ten cents an hour.' This indicates sample-based inference rather than pure advocacy. However, the evidence shows选择性数据引用—he presents statistics supporting his positions without evident discussion of margin of error, counterfactual scenarios, or sampling limitations. The epistemic strength is genuine but not fully developed toward comprehensive uncertainty acknowledgment.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_023"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization tendency; converts complex social phenomena into measurable variables and comparative metrics with policy-relevant operationalization",
+      "finding": "Obama demonstrates strong formalization capacity. He operationalizes 'economic resilience' as job creation counts and wage trends, 'health security' as uninsured rate percentages, 'energy independence' as import reduction ratios, and 'consumer protection' as dollar amounts recovered for consumers. In Dodd-Frank's 5th anniversary address (ev_028), he quantified consumer protection outcomes: '$11 billion back in the pockets of more than 26 million consumers.' His deficit reduction discourse shows formalization of macroeconomic state: 'deficits are already falling at the fastest rate since the end of World War II' (ev_016). The Climate address (ev_040) converts environmental progress into measurable variables: 'wind power threefold,' 'solar power more than thirtyfold,' 'carbon pollution at its lowest level in 25 years.' This systematic translation of policy outcomes into quantifiable metrics demonstrates stable formalization tendency rather than ad hoc quantification.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_016",
+        "ev_040",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Statistical monitoring orientation; uses policy metrics as system feedback indicators to detect deviation from desired trajectories",
+      "finding": "Obama's control orientation manifests as systematic policy monitoring. He tracks legislative outcomes as performance indicators: Medicare solvency extension (ev_002: 'at least a dozen years'), consumer financial protection recovery rates (ev_028), employment trajectory graphs (ev_025: 57-month streak). When monitoring reveals negative deviation—as with sequester effects—he publicizes the indicators to mobilize corrective action: 'There are parents whose kids just got kicked out of Head Start programs,' 'Seniors who depend on programs like Meals on Wheels' (ev_014). His 'Year of Action' executive order count (ev_019: 'more than 20 executive actions') shows control through systematic enumeration of interventions. The approach is Bayesian in character: continuously updating policy implementation assessment through measurable outcomes rather than binary success/failure judgments.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_025",
+        "ev_014",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with significant but not excessive de-emphasis of relational cost; maintains statistical communication while including selective personal narratives",
+      "finding": "The statistical lens reveals tension between mission orientation and relational preservation. Obama's speeches heavily prioritize policy metrics over relational considerations. He declares policy positions with quantitative backing while accepting political costs: 'And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). He documents Republican opposition without softening: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). Yet he incorporates selective personal elements—Father's Day reflection on absent father (ev_006), helping coach daughter's basketball team (ev_007)—that humanize without derailing mission focus. The pattern suggests moderate-high mission prioritization with residual relational awareness. The statistical lens notes this is not pure quantitative instrumentalism; he weaves individual narrative alongside aggregate data rather than replacing one with the other.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_020",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Statistical risk awareness with threshold-based urgency framing; converts uncertain future threats into concrete probability statements and cost estimates",
+      "finding": "Obama demonstrates statistical risk framing. He converts uncertain future harms into quantified threats: sequester would cause 'Head Start program cuts, airport disruptions, military strain' (ev_012); transportation funding failure 'would cost nearly 1 million jobs over next year and nearly $1 billion in highway funding within 10 days' (ev_006, ev_011). His debt ceiling warning shows risk-as-threshold framing: 'We are a compassionate nation. We are the world's bedrock investment. And doing anything to threaten that is the height of irresponsibility' (ev_015)—framing tail risk as binary catastrophic scenario rather than distributional estimate. This shows sensitivity to tail risks and low-probability high-impact events, consistent with statistical risk consciousness. However, his framing tends toward point estimates and deadline urgency rather than confidence intervals or probability distributions, suggesting intuitive rather than fully formalized statistical risk calibration.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_012",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Results-oriented power relations with de-emphasis of symbolic authority; trusts measurable outcomes over institutional rank",
+      "finding": "Statistical orientation manifests in Obama-Hierarchy relations through outcome-focus over positional authority. He criticizes Senate obstruction not by invoking presidential prerogative but by contrasting outcomes with founders' intent: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He appeals to cross-partisan coalitions—labor and Chamber of Commerce jointly (ev_008)—because both support transportation funding. His 'trade promotion authority' argument centers on outcomes: 'Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy' (ev_031). The pattern suggests statistical orientation translates to democratic empiricism: he trusts that visible outcome data will generate legitimate authority more than formal rank. He does assert executive authority when necessary (veto threats, executive orders) but frames these as mechanisms to protect measurable outcomes, not personal power.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_008",
+        "ev_031",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Evidence-based confrontation with quantitative argumentation; converts political disputes into empirical disagreements amenable to data resolution",
+      "finding": "Obama's conflict strategy reflects statistical reasoning. Rather than positional bargaining or relational damage, he reframes conflicts as empirical questions: minimum wage increase is supported by 'surveys' of small business owners (ev_023); sequester harm is demonstrated through Head Start enrollment and Meals on Wheels impacts (ev_014); Dodd-Frank success is proven through CFPB consumer recovery metrics (ev_028). When confronting Republican opposition, he lists specific blocked measures with implied evidence standards: 'They've said no to raising the minimum wage, no to equal pay, no to restoring unemployment insurance' (ev_020)—presenting these as failures to meet policy evidence threshold. His debt ceiling stance (ev_015) shows conversion of political conflict into principled boundary: 'I will not negotiate over the full faith and credit of the United States'—a non-negotiable constraint rather than empirical dispute. This hybrid approach uses statistical framing for routine policy conflicts but recognizes when some disputes are about values rather than evidence.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_014",
+        "ev_028",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Medium-to-long-term trend orientation with strong historical comparison consciousness; interprets current data within extended time series and multi-year trajectories",
+      "finding": "Obama's statistical thinking demonstrates strong time-horizon extension. He consistently contextualizes current metrics within historical trajectories: 'Strongest job growth year since 1990s,' 'auto industry strongest since 2005,' 'America #1 producer of oil and gas' (ev_018). His deficit reduction discourse explicitly situates current trajectory within WWII history: 'deficits are already falling at the fastest rate since the end of World War II' (ev_016). The Cancer Moonshot (ev_042) reflects 45-year historical consciousness since Nixon's 1971 declaration. He frames policy success/failure within multi-year windows: '57 months,' '69-month streak of job growth' (ev_025, ev_033). This temporal extension demonstrates statistical horizon beyond immediate electoral cycles or quarterly reporting—consistent with trend-based inference requiring sufficient observation length. Short-term disruptions (sequester deadlines, transportation funding expiration) are framed as threats to longer trajectories rather than as standalone events.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_016",
+        "ev_042",
+        "ev_025",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic reform preference with evidence of structural intervention over incremental adjustment; major legislative achievements as preferred mode",
+      "finding": "Statistical orientation toward system diagnosis translates into structural intervention preference. His signature achievements—ACA, Dodd-Frank, TPP, Paris Climate Agreement—represent comprehensive redesigns rather than incremental patches. On ACA: 'Reform has actually added at least a dozen years to the solvency of Medicare' (ev_002)—framing as systemic solvency extension not benefit tweaking. On Dodd-Frank: 'We've worked too hard to recover from one crisis only to risk another' (ev_029)—frame is structural prevention architecture. The Cancer Moonshot (ev_042, ev_043) represents cross-agency structural coordination redesign: 'Only 4% of adult cancer patients are enrolled in clinical trials'—diagnosed as systemic infrastructure problem requiring platform solution (Trials.Cancer.Gov). When describing 'Year of Action' executive orders (ev_019), he enumerates 20+ interventions as systematic response. Patch-oriented when structural blocked: transportation funding, student loan rates, unemployment insurance receive deadline-responsive patching. But underlying preference clearly favors comprehensive reform frameworks.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_029",
+        "ev_042",
+        "ev_043",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate statistical metacognition; demonstrates awareness of aggregate vs. individual reasoning but limited explicit acknowledgment of personal biases or estimation uncertainty",
+      "finding": "Obama shows moderate statistical metacognition. He demonstrates awareness that aggregate patterns matter more than individual cases: 'Our economy depends on a financial system in which everyone competes on a level playing field' (ev_003)—framing systemic rules over individual outcomes. He shows understanding that historical baselines contextualize current data: comparing 2014 job growth to 1990s norms, auto industry to 2005 levels. However, the evidence reveals limited metacognitive awareness of his own statistical biases. No explicit acknowledgment of selection effects in cited statistics, survivorship bias in policy success metrics, or confirmation bias in data presentation. His statements treat administration statistics as transparent rather than as constructs requiring interpretive caution. The statistical metacognition that exists is oriented toward policy critique (observing others' selective data use) rather than self-critical reflection. This suggests genuine statistical reasoning competence but incomplete development of second-order statistical awareness about his own inferential processes.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_018",
+        "ev_022"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "narrative-statistical_code_switching",
+      "definition": "The capacity to fluidly alternate between statistical aggregates and human-interest narratives depending on rhetorical context, suggesting sophisticated audience-aware communication calibration rather than pure quantitative cognition",
+      "finding": "The evidence reveals Obama engages in deliberate code-switching between statistical and narrative modes. He opens with aggregate data then transitions to individual stories—'I've hugged cancer survivors who finally know the security of affordable health care' (ev_045) after citing millions of insured. Father's Day address combines statistical workforce data with personal absent-father reflection. This pattern suggests he recognizes statistical reasoning alone may not mobilize audiences, so he strategically deploys narratives to make aggregate data emotionally accessible. The statistical lens identifies this as potentially significant: code-switching between statistical and narrative modes may reflect genuine dual-cognition (comfortable with both modes) rather than statistical weakness. Alternatively, it may indicate that his statistical reasoning is compartmentalized from communication strategy. The emergence of this dimension—the coordination between statistical cognition and narrative communication—seems important for understanding his policy influence effectiveness and is not captured by shared constructs assessing either mode in isolation.",
+      "evidence_ids": [
+        "ev_045",
+        "ev_006",
+        "ev_007",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "comparative_baseline_sensitivity",
+      "definition": "The tendency to frame all current outcomes within explicit comparative historical or international benchmarks rather than treating present metrics as self-evidently meaningful",
+      "finding": "Strong evidence shows Obama systematically interprets current statistics through comparative baselines. Job growth is meaningful because it exceeds '1990s,' '2005 auto industry,' or 'WWII deficit trajectory' baselines. Uninsured rate below 10% matters because it's 'first time ever' (ev_033). Energy data acquires significance through '25-year low' and '30-fold' growth comparisons (ev_040). His China trade framing (ev_031) uses international competition as baseline: competitors will 'write the rules' if TPP fails. This comparative baseline sensitivity indicates statistical thinking that treats numbers as meaningful only within reference frames—not absolute achievements. This is methodologically sophisticated: a 3% unemployment rate is not inherently good or bad without baseline comparison. The dimension emerges because shared constructs capture abstraction and formalization but not this specific comparative framing tendency that characterizes his statistical discourse and may reflect training in policy analysis where benchmarking is standard practice.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_016",
+        "ev_033",
+        "ev_040",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

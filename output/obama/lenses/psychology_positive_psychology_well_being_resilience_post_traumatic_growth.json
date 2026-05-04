@@ -1,0 +1,166 @@
+{
+  "discipline": "psychology",
+  "lens": "positive_psychology_well_being_resilience_post_traumatic_growth",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate-to-strong world-shaper with pragmatic acknowledgment of structural constraints",
+      "finding": "Obama demonstrates consistent agency orientation through executive actions, policy initiatives, and public calls for change. However, his agency is characterized by pragmatic recognition of structural constraints rather than unilateral assertion. He repeatedly calls on Congress for bipartisan action (ev_008, ev_011), forms coalitions across traditional divides (ev_008 citing AFL-CIO and Chamber of Commerce together), and attributes accomplishments to collective action (ev_032: 'It's you—the American people'). His agency orientation operates within institutional guardrails—a pattern consistent with Ann Masten's 'ordinary magic' in that effective resilience often involves working through rather than around systemic structures. Evidence of agency includes his 'Year of Action' taking over 20 executive actions (ev_019), the Cancer Moonshot initiative (ev_042), and his personal assertion of commitment to Medicare recipients (ev_001).",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_019",
+        "ev_032",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-integrating with demonstrated willingness to acknowledge imperfections in prior judgments",
+      "finding": "Obama's epistemic style demonstrates sophistication in integrating evidence and acknowledging the limits of his own knowledge. Most notably, he openly admits that 'past trade deals haven't always lived up to the hype' (ev_027) while still advocating for TPP—this shows epistemic humility combined with forward-looking pragmatism. He cites extensive statistical evidence (11 million jobs created, $11 billion recovered for consumers, wind power tripled, solar 30x) to ground policy arguments in verifiable claims. He distinguishes carefully between different categories (al-Qaeda versus Islam, balanced deficit reduction versus sequester cuts to vulnerable populations). His epistemic approach appears to be evidence-informed but not rigidly empiricist—he balances data with narrative framing ('love won' in ev_035) and values-based argumentation ('middle-out' economics as a normative and empirical claim in ev_021). This suggests an integrative epistemic style that Bonanno might recognize as adaptive—incorporating information flexibly without requiring complete certainty before acting.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_027",
+        "ev_028",
+        "ev_040",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction orientation, systematizing specific policies into coherent philosophical frameworks",
+      "finding": "Obama operates at consistently high levels of abstraction, transforming specific policy initiatives into broader philosophical and systemic frameworks. His articulation of 'middle-out economics' (ev_021) represents a systematic abstraction that connects wage policy, job creation, and economic philosophy into a coherent worldview. Similarly, 'opportunity for all—the notion that no matter who you are or how you started out, with hard work and responsibility, you can get ahead' (ev_018) elevates specific policy debates into aspirational national values. He systematizes achievements into formal frameworks—the 'Top 10 Things that Happened in 2015' list (ev_033), the 'Year of Action' framing (ev_015), and his framing of bipartisan budget and education bills as 'Christmas miracles' (ev_048). This abstraction orientation suggests strong capacity for generalization—taking specific events and experiences and integrating them into larger meaning structures—a capacity that Tedeschi and Calhoun identify as central to post-traumatic growth, where破碎 experiences become integrated into coherent life narratives.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_033",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control through institutional channels, with flexible adaptation when primary channels blocked",
+      "finding": "Obama demonstrates control orientation that operates primarily through institutional means rather than through direct domination. He takes executive actions when Congressional obstruction prevents legislative solutions (ev_017 raising contractor minimum wage, ev_019 over 20 executive actions), issues definitive veto threats (ev_029: 'I will veto it' on Wall Street Reform repeal), and maintains clear positions on non-negotiable matters (ev_015: refusing to negotiate over debt ceiling). However, his control orientation is notably flexible—he adapts tactics when primary channels are blocked rather than becoming rigidly locked into single approaches. When Congress blocks minimum wage legislation, he raises contractor wages; when Senate blocks nominees, he calls for reform but continues working through the system. This flexible use of institutional levers rather than either capitulation or raw power assertion is consistent with Bonanno's model of adaptive flexibility in the face of adversity. His control efforts are oriented toward policy outcomes rather than personal dominance—a mission-driven rather than ego-driven control orientation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation with consistent willingness to absorb social and political costs for policy goals",
+      "finding": "Obama demonstrates strong mission orientation across his policy agenda, consistently prioritizing substantive policy goals over relational comfort or social/political costs. He publicly criticizes Congressional obstruction ('Republicans in Congress have blocked or voted down every serious idea to create jobs' ev_020), issues direct veto threats against legislation (ev_029), and frames his preferred approaches as the only responsible path ('the height of irresponsibility' ev_015 regarding debt ceiling threats). He publicly names obstruction tactics as contrary to democratic norms ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' ev_010). Yet notably, his mission orientation maintains a collective focus rather than a personal grievance orientation—he attributes progress to the American people (ev_032, ev_045) and frames his role as serving rather than dominating. His mission orientation shows consistent prioritization of middle-class economic opportunity (ev_018, ev_021), consumer and financial protections (ev_003, ev_028, ev_029), and veterans' welfare (ev_009, ev_038) over the relational comfort of bipartisan harmony for its own sake.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_018",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance grounded in evidence-based assessment; takes significant policy bets while acknowledging potential for outcomes to 'not live up to hype'",
+      "finding": "Obama's risk posture reflects moderate-to-high tolerance for ambitious policy initiatives while maintaining evidence-grounded assessment. He advocates for transformative policies—the ACA, Dodd-Frank, TPP, Paris climate agreement—that carry significant political risk and uncertain outcomes. Yet he consistently grounds his advocacy in data rather than purely ideological commitment. He acknowledges that past trade deals 'haven't always lived up to the hype' (ev_027) but argues this does not mean avoiding future risks. His approach to the sequester shows risk awareness—he documents real human costs (ev_014: Head Start cuts, senior meal programs) to argue for replacement with 'balanced' approaches. His energy policy shows willingness to bet on clean energy transformation despite industry resistance. His Memorial Day address (ev_038, ev_039) shows calibrated risk acknowledgment regarding military intervention ('Making sure we only send them into harm's way when it's absolutely necessary') while maintaining commitment to national security missions. This risk posture is consistent with what Masten might call 'ordinary magic'—taking on significant challenges while maintaining connection to real-world evidence about costs and benefits rather than either reckless gambling or paralyzing risk aversion.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_014",
+        "ev_040",
+        "ev_038",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power user with collaborative framing; leverages formal authority while seeking pluralistic coalitions",
+      "finding": "Obama relates to hierarchy and power as institutional tools to be leveraged strategically within democratic norms rather than as personal or partisan weapons. He uses formal presidential authority—executive orders, vetoes, executive actions—consistently and publicly (ev_017, ev_019, ev_029). Yet he repeatedly frames this power as serving collective rather than personal interests, and actively seeks cross-cutting coalitions. He brings together 'the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008) as co-legitimizers of infrastructure investment. He engages Silicon Valley through 'Presidential Innovation Fellows' to modernize government (ev_037). He frames himself as one participant in a larger democratic system ('our founders trusted us with the keys to this system of self-government' ev_036). His power orientation remains constrained by procedural legitimacy—he repeatedly calls on Congress rather than circumventing it when possible, and frames bipartisanship as a positive value ('Christmas miracles' of bipartisan cooperation ev_048) rather than mere political calculation. This suggests power as means-to-mission rather than as end-in-itself, a pattern consistent with what Calhoun and Tedeschi might identify as growth-oriented relationship to institutional structures.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_019",
+        "ev_037",
+        "ev_036",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation through institutional channels with constructive reframing of opposition as undemocratic rather than partisan",
+      "finding": "Obama's conflict strategy involves direct confrontation of opposition positions while reframing disagreements in terms of democratic norms rather than partisan battle. He publicly names obstruction ('Republicans in Congress have blocked or voted down every serious idea' ev_020), condemns Senate tactics as contrary to founding principles (ev_010: 'One senator gumming up the works is not what our founding fathers envisioned'), and issues explicit veto threats (ev_029). However, he consistently frames conflicts in terms of policy substance and democratic process rather than personal or partisan grievance. He seeks bipartisan support even while criticizing current obstruction. He frames conflict outcomes as victories for 'the American people' rather than for himself or his party (ev_032, ev_045). His conflict strategy thus involves neither suppression (he names problems directly) nor escalation (he doesn't personalize conflicts or abandon institutional channels). He delays tactical confrontation while maintaining substantive commitment—the 'Year of Action' emerges precisely because Congressional obstruction created stalemate. This represents what might be termed 'institutional confrontation'—engaging conflict directly but through established democratic channels rather than extra-institutional escalation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term and mission-scale orientation, with effective communication of long-term payoff despite short-term obstacles",
+      "finding": "Obama consistently demonstrates long-term and mission-scale time horizons across policy domains. His climate policy explicitly frames transformation over decades ('low-carbon future,' 25-year low in carbon emissions measured against this context ev_040). His deficit reduction rhetoric references post-WWII trajectory (ev_016: 'fastest rate since the end of World War II'). His education and workforce training initiatives (ev_016) operate on generational timeframes. His farewell address explicitly frames remaining life as continuing service ('I look forward to working along your side, as a citizen, for all my days that remain' ev_047). Yet he effectively communicates long-term value propositions through short-term concrete framing—7 days until transportation funding expires (ev_011), 8 days until student loan rates double, 1 million jobs at risk. He acknowledges that some initiatives will only 'live up to the hype' in retrospect (ev_027 acknowledging past trade deals, implicitly acknowledging future uncertainties). This temporal orientation shows capacity for sustained commitment across extended time horizons—a hallmark of what Masten identifies as resilience at systemic scale, where effective adaptation requires multi-year rather than immediate payoff perspectives.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_016",
+        "ev_047",
+        "ev_011",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuilding orientation; transformative legislation with fallback to executive action when structural repair blocked",
+      "finding": "Obama demonstrates consistent preference for structural redesign over incremental patching. His signature legislative achievements—the ACA and Dodd-Frank—represent fundamental restructuring of healthcare and financial regulation systems, not marginal adjustments. When these structural approaches face opposition, he pivots to executive actions that attempt structural change at the executive level (raising contractor minimum wage to $10.10 rather than accepting no minimum wage increase). He explicitly argues against 'drilling alone' as insufficient energy strategy, calling for comprehensive approach to energy independence (ev_005). His 'middle-out' economic philosophy (ev_021) represents structural rather than trickle-down reframing of economic causality. His government modernization initiative (ev_037, ev_023) explicitly seeks systemic transformation through technology rather than administrative patching. He frames progress in terms of fundamental change even when compromise is necessary—the 'Christmas miracles' of bipartisan budget (ev_048) are celebrated as structural budget stability rather than one-year patch. This structural orientation shows capacity for what Calhoun and Tedeschi might identify as post-adversity growth through meaning-making that goes beyond returning to pre-adversity baseline.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_021",
+        "ev_037",
+        "ev_048",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates capacity to observe own position, acknowledge errors, and frame learning through experience",
+      "finding": "Obama demonstrates notably high metacognitive awareness across multiple dimensions. First, he shows explicit capacity for perspective-taking on his own development: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This is explicit recognition that his cognitive framework evolved through interaction with others—a form of metacognitive monitoring of his own growth. Second, he acknowledges imperfection in prior judgments: past trade deals 'haven't always lived up to the hype' (ev_027). Third, he demonstrates awareness of cognitive limits of others and institutional constraints—he repeatedly appeals to evidence-based reasoning while acknowledging that persuasion requires more than data ('love won' framing in ev_035, narrative and values alongside statistics). Fourth, his farewell address shows metacognitive reflection on resilience itself—'I've seen neighbors looking out for each other' and 'cities like Boston show the world that no terrorist will ever break the American spirit' (ev_045). This capacity to observe and name resilience at systemic scale suggests sophisticated metacognitive framework that can track both individual and collective psychological processes. He shows awareness that resilience is not merely individual fortitude but systemic capacity requiring institutional and relational supports—an insight consistent with Masten's emphasis on 'ordinary magic' distributed across systems rather than concentrated in individuals.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_035",
+        "ev_045",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "resilience_leadership_companion",
+      "definition": "The capacity to model and articulate resilience in ways that support others' post-traumatic growth rather than positioning oneself as the sole resilient actor. This differs from agency orientation in that it focuses on how leaders facilitate rather than directly create outcomes.",
+      "finding": "Obama demonstrates a distinctive pattern of resilience leadership that focuses on accompanying others in their own resilience processes rather than positioning himself as the singular source of strength. His Father's Day address (ev_006) shows this explicitly—he shares his own experience of growing up without a father ('I grew up without my father around. He left when I was two years old' ev_006) not to establish himself as a triumph-over-adversity narrative but to normalize struggle and invite reflection. His Memorial Day address (ev_038, ev_039) explicitly calls for concrete actions by citizens—'lay a flower or plant a flag,' 'reach out to a Gold Star Family,' 'send a care package,' 'volunteer,' 'hire a veteran.' This frames resilience as distributed and relational rather than concentrated in heroic individuals. His farewell address (ev_045) explicitly attributes resilience to communities ('neighbors looking out for each other,' 'cancer survivors who finally know the security,' 'communities like Joplin rebuild from disaster'). This emergent construct captures how Obama's resilience orientation includes active support for others' resilience capacity—a form of resilience leadership that Bonanno's work on relational resilience would recognize as critical for collective recovery.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_039",
+        "ev_045",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_modeling_graph_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping through structural reconfiguration of economic and political networks rather than adaptation to existing structures",
+      "finding": "Obama consistently demonstrated world-shaping agency by attempting to rewire the structural connections within economic and political systems. Rather than adapting to existing constraints, he sought to create new nodes (CFPB, Clean Fleets Partnership, Cancer Moonshot task force) and new edges (public-private hiring challenges, Silicon Valley-government partnerships) that would alter the topology of policy outcomes. His 'Year of Action' approach (ev_019) explicitly sought to circumvent Congressional blockages by finding alternative network paths to policy goals. The signature domestic achievements—ACA, Dodd-Frank, TPP—all represented attempts to establish new structural relationships rather than work within existing ones. He framed himself as restructuring the 'rules of the global economy' (ev_031) rather than simply responding to it.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_031",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Systems-relational epistemology prioritizing network effects and connection patterns over isolated facts or individual actors",
+      "finding": "Obama's knowledge formation consistently emphasized relational structures and network effects over atomistic facts. His 'middle-out' economic philosophy (ev_021) explicitly stated that the economy grows through connection patterns rather than top-down trickle. He described economic problems in terms of connectivity failures ('Wall Street reform is working' as proof that connections can be restructured, ev_028). He understood deficits as flows through the system (ev_016) and policy impacts as ripple effects through networks (sequestration affecting Head Start, military, cancer research as interconnected, ev_014). His frequent citation of statistics (11 million jobs, 57 months) served to demonstrate system-level patterns rather than individual success stories. When he said 'America's resurgence is real' (ev_024), he was asserting network-level trends, not celebrating specific nodes.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_016",
+        "ev_021",
+        "ev_024",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-strong preference for structural frameworks that explain how connections produce outcomes across multiple domains",
+      "finding": "Obama demonstrated consistent capacity for abstract structural reasoning across diverse policy domains. His energy policy explicitly framed the problem as a dependency structure ('drilling alone is not a real strategy' because even 25% of world oil use cannot be offset by 2% of reserves, ev_005). His financial regulation philosophy conceptualized the system as requiring specific structural features (level playing field, same rules for all, ev_003). His foreign policy distinguished between nodes (al-Qaeda) and the broader network (Islam), requiring different connection strategies (ev_012). He thought in terms of system invariants and key constraints (debt ceiling as a 'node' whose failure would cascade). The frequency of quantified claims (11 million jobs, 2.5 million new jobs in a year, $11 billion recovered, ev_025, ev_028, ev_033) reflected an attempt to formalize network-level measurements of system health.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_012",
+        "ev_025",
+        "ev_028",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong drive to establish and protect key structural nodes that ensure network stability, with willingness to use institutional power aggressively",
+      "finding": "Obama demonstrated strong control orientation manifested through protecting key structural nodes. He issued explicit veto threats against attempts to 'unravel' the Dodd-Frank network structure (ev_029). He refused to negotiate over the debt ceiling node, recognizing its critical role in the entire system ('full faith and credit of the United States,' ev_015). He created new oversight nodes (CFPB with explicit mandate, ev_028) and protected them against removal. His executive actions (ev_017, ev_019) represented attempts to establish control over network configurations when legislative paths failed. He framed himself as protecting the structural integrity of critical systems (healthcare, financial regulation, climate agreements) rather than controlling individual actors. The White House innovation initiative (ev_037) reflected a desire to modernize the structural connections between government and technology sectors.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderately mission-prioritizing with willingness to accept relational strain to preserve structural integrity of key systems",
+      "finding": "Obama showed moderate mission-prioritization, accepting relational costs to preserve structural integrity. His refusal to negotiate on the debt ceiling (ev_015) sacrificed short-term political relationships to protect a structural system node. His veto threats on Wall Street reform (ev_029) accepted potential political confrontation to preserve the regulatory network structure. However, his rhetoric consistently attempted to frame mission in terms that minimized relational costs ('bipartisan,' 'not a Democratic or Republican issue,' ev_008). His 'Year of Action' framing (ev_015, ev_020) explicitly blamed Republican obstruction but framed his response as protective rather than aggressive. He seemed to treat relational costs as acceptable when necessary to protect critical structural nodes, but sought to maintain coalition bridges (AFL-CIO and Chamber of Commerce together, ev_008) rather than burning them entirely.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Systemic risk awareness with focus on cascade failures and critical node failures, but tends to minimize risks of own structural interventions",
+      "finding": "Obama demonstrated strong systemic risk awareness, focusing on cascade failures from critical node or edge failures. His sequestration warnings (ev_013, ev_014) emphasized cascade effects: cuts to Head Start would affect children, families, future capacity; cuts to military would strain readiness; cuts to cancer research would slow breakthroughs. He identified debt ceiling as a 'single point of failure' that could cascade through the entire system (ev_015). His framing of Dodd-Frank was explicitly about preventing future cascade risks ('we've worked too hard to recover from one crisis only to risk another,' ev_029). However, his framing of his own structural interventions (ACA, TPP, climate agreements) tended to emphasize positive network effects and underplay potential risks of the interventions themselves. He treated his proposed structural changes as providing stability rather than introducing new risks—evident in his framing of climate policy as 'not something to tear up' but 'something to build upon' (ev_041).",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_015",
+        "ev_029",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strong formal hierarchy orientation but with sophisticated understanding that actual power flows through network centrality, not just formal position",
+      "finding": "Obama's relation to hierarchy showed sophisticated duality: he operated through formal presidential authority but clearly understood that actual power flows through network position. He invoked the founders' intent regarding Senate procedures (ev_010) to argue that formal rules should serve structural purposes. He used executive orders and executive actions to bypass Congressional blockages, demonstrating willingness to use formal authority creatively. However, his public rhetoric consistently attributed accomplishments to collective networks ('all of this progress is because of you,' ev_032) rather than presidential hierarchy. His bipartisan budget framing (ev_048) celebrated structural connections across formal party divisions. He seemed to treat the presidency as a platform for network construction rather than a hierarchy for command-and-control. His government modernization initiative (ev_037) explicitly sought to transform government's structural connections to external networks.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_032",
+        "ev_037",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translational-conflict strategy, seeking to reframe structural issues in ways that build cross-cutting coalitions rather than purely partisan confrontation",
+      "finding": "Obama's conflict strategy demonstrated strong translational orientation. Rather than pure escalation or suppression, he attempted to reframe conflicts in structural terms that could build cross-cutting coalitions. His transportation bill framing emphasized job loss cascades affecting 'not a Democratic or Republican issue' (ev_008). His debt ceiling stance (ev_015) framed it as protecting 'the United States of America' and 'the world's bedrock investment' rather than partisan advantage. His veteran hiring challenge (ev_009) created a coalition across public and private sectors and across partisan lines. However, his 'Year of Action' rhetoric (ev_020) showed willingness to explicitly name Republican obstruction, representing a shift toward more confrontational positioning when translational strategies failed. The pattern suggests a preferred strategy of translation and coalition-building, with escalation as a fallback when structural blockages persisted.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural optimization with strong emphasis on legacy building and multi-decade network effects",
+      "finding": "Obama consistently operated with long-term structural optimization horizons. The ACA was framed as adding 'at least 12 years' to Medicare solvency (ev_002). The energy blueprint targeted 2025 goals. The Cancer Moonshot explicitly built on a 45-year foundation (ev_042). His climate policy emphasized intergenerational legacy ('leave a better, cleaner, safer future for our children,' ev_041). His 'resurgence' narrative (ev_024) framed 8-year accomplishments as part of multi-decade trends. Even his immediate crisis responses (sequestration, debt ceiling) were framed as protecting long-term system stability. The TPP framing emphasized 5-year negotiation and multi-decade trade rule-setting (ev_030). His farewell address called for 'citizenship' over 'the full span of a lifetime' (ev_046). The pattern suggests strong orientation toward structural changes whose effects will compound over decades.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair, especially when existing structures are fundamentally misconfigured",
+      "finding": "Obama demonstrated strong preference for structural redesign over local repair when existing structures were deemed fundamentally misconfigured. The ACA didn't patch the existing system but restructured the fundamental architecture of healthcare provision. Dodd-Frank didn't tweak existing regulation but created new institutional structures (CFPB) and new network relationships. His 'Year of Action' (ev_019) explicitly used executive actions to restructure relationships when legislative structures were blocked. His 'middle-out' philosophy (ev_021) represented a structural alternative to 'top-down' approaches—not a patch but a different architecture. His sequester response called for replacing the entire mechanism with 'balanced deficit reduction' (ev_013), not tweaking parameters. His government modernization initiative (ev_037) sought structural transformation of government-tech connections through Presidential Innovation Fellows, not incremental IT upgrades. The willingness to use executive orders and executive actions to restructure relationships when Congressional paths failed demonstrated consistent preference for network redesign over node-level patching.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_019",
+        "ev_021",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness of structural thinking patterns, with some recognition of limits but limited explicit reflection on graph-theoretic biases",
+      "finding": "Obama showed moderate metacognitive awareness regarding his structural thinking patterns. His rhetoric acknowledged that complex problems require system-level solutions ('our founders trusted us with the keys to this system of self-government,' ev_036), implying some awareness of structural complexity. However, there was limited explicit reflection on the limits of structural intervention or the risks of over-engineering networks. His confidence in his structural prescriptions ('I'm absolutely confident we will get there,' ev_004) sometimes overwhelmed cautionary framing. He attributed outcomes primarily to network-level cooperation ('all of this progress is because of you,' ev_032) but didn't explicitly acknowledge the risk of treating individuals as mere nodes in systems. The farewell address reflection (ev_044, ev_047) showed some awareness of his own growth and limits, but didn't explicitly critique his structural optimization orientation. There was some recognition that structural changes can have unintended consequences (acknowledging past trade deals 'haven't always lived up to the hype,' ev_027), suggesting moderate but incomplete metacognition about structural intervention risks.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_032",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "network_faith_index",
+      "definition": "The degree to which someone believes that collective action through network formation can solve problems versus requiring individual agency or market mechanisms. This captures Obama's distinctive confidence that creating new connections and coalitions can produce emergent problem-solving capacity that exceeds any individual actor's capability.",
+      "finding": "Obama displayed a consistently high network faith index throughout his presidency. He repeatedly attributed accomplishments to collective action networks rather than individual presidential initiative ('all of this progress is because of you,' ev_032). He framed challenges as requiring coalition-building (AFL-CIO and Chamber of Commerce together, ev_008), public-private partnerships (Clean Fleets Partnership, ev_004), and cross-sector collaborations (Presidential Innovation Fellows from Silicon Valley, ev_043). His Cancer Moonshot explicitly built on 45 years of network accumulation (ev_042). Even when using executive power, he framed it as creating new network connections rather than imposing individual will. This network faith was visible in his emphasis on the middle class as the engine of economic growth—the largest network, whose activation would drive system-level improvement. His farewell emphasized continued collective action ('I look forward to working along your side, as a citizen,' ev_047). This contrasted with figures who emphasized individual initiative, market mechanisms, or presidential command.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_032",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "structural_vulnerability_sensitivity",
+      "definition": "The degree to which someone spontaneously identifies critical nodes, single points of failure, and cascade risks in systems, versus focusing on aggregate performance or individual component quality. This captures Obama's distinctive pattern of perceiving structural fragility in systems that appear stable.",
+      "finding": "Obama demonstrated high structural vulnerability sensitivity, spontaneously identifying critical nodes and single points of failure across diverse systems. His sequestration warnings highlighted how cutting 'Head Start programs' would cascade to families, how cutting 'Meals on Wheels' would affect seniors' independence, how military cuts would strain 'families that have already sacrificed enough' (ev_014). His debt ceiling stance identified this as a 'single point of failure' that threatened the entire system (ev_015). His financial regulation philosophy identified the absence of a consumer watchdog as a structural vulnerability (ev_028). His energy policy recognized that domestic drilling alone couldn't compensate for systemic oil dependency (ev_005). This sensitivity was evident in his tendency to identify what would fail if key structural elements were removed, rather than focusing on aggregate performance metrics. It represented a graph-theoretic intuition that system health depends on maintaining critical edges and nodes, not just aggregate connectivity.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_014",
+        "ev_015",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "discipline": "philosophy",
+  "lens": "pragmatism_peirce",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama acts as active constructor of policy reality rather than passive responder to structural constraints",
+      "finding": "Obama consistently demonstrates a world-shaping agency through executive action, visionary declarations, and challenge-issuance. When Congress blocked minimum wage, equal pay, and unemployment insurance (ev_020), he declared a 'Year of Action' and took over 20 executive actions (ev_019). He announced the Cancer Moonshot (ev_042), issued direct challenges to hire 100,000 veterans (ev_009), and declared 'America's resurgence is real' (ev_024). His framing language—'I'm absolutely confident we will get there' (ev_004)—reveals a belief that collective human effort can reshape economic and social outcomes. Rather than accepting gridlock as constraint, he reframed it as permission for executive innovation, positioning himself as an active agent capable of altering the course of policy even without legislative consensus.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_009",
+        "ev_024",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Mixed epistemic style with emerging scientific method orientation; shows fallibilist acknowledgment but exhibits confident certainty typical of pre-scientific method thinking",
+      "finding": "Obama's statements reveal tension between pragmatic fallibilism and presidential certainty. He demonstrates abductive reasoning when diagnosing problems: he identifies sequester effects (Head Start cuts, airport disruptions, military strain - ev_014) and generates the explanatory hypothesis of bipartisan 'balanced' deficit reduction as the solution (ev_013). He shows limited but genuine fallibilism when acknowledging 'past trade deals haven't always lived up to the hype' (ev_027). However, his epistemic style heavily favors confident assertion over hypothesis-testing language. His statements like 'I'm absolutely confident' and declarative policy claims suggest reliance on what Peirce would call pre-scientific methods rather than the iterative self-correction characteristic of fallibilist inquiry. He tends to present conclusions rather than invite falsification.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_013",
+        "ev_027",
+        "ev_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low abstraction preference; consistently grounds policy in concrete, observable effects on identifiable populations",
+      "finding": "Obama demonstrates strong practical orientation through continuous grounding of abstract policies in tangible human consequences. Rather than presenting formal frameworks, he cites specific numbers: 'seven days' until transportation funding expires, 'eight days' until 'seven and a half million students' see loan rates double (ev_011). He personalizes policy impact through vivid examples: workers who 'serve our troops' meals, wash their dishes, care for our veterans' receiving minimum wage increases (ev_017). His abstractions—'middle-out economics' (ev_021), 'opportunity agenda' (ev_018)—are simple conceptual summaries designed for communication rather than formal systematization. He rarely employs technical policy language or abstract theoretical frameworks, preferring accessible slogans and concrete statistics that ordinary citizens can understand.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_017",
+        "ev_021",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation; seeks institutional and policy control while accepting interpersonal and political limits",
+      "finding": "Obama exhibits control-seeking behavior primarily at the institutional level rather than interpersonal level. He issues veto threats against Wall Street Reform repeal (ev_029), takes executive actions when Congress blocks legislation (ev_017, ev_019), and maintains firm positions on debt ceiling negotiations: 'I will not negotiate over the full faith and credit of the United States' (ev_015). However, his control orientation operates within clear boundaries. He works with bipartisan coalitions (ev_008), acknowledges 'I cannot do this alone' by calling for congressional action on minimum wage (ev_017), and attributes accomplishments to collective action: 'All of this progress is because of you' (ev_032). He displays what Peirce would recognize as the fallibilist's acceptance of limited control—not试图控制一切，而是识别哪些领域可以通过迭代探究来改进。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_008",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with relational awareness; willing to accept political costs for core objectives while maintaining coalition-building rhetoric",
+      "finding": "Obama prioritizes policy missions when facing obstruction but frames conflict in non-relationally-destructive ways. He explicitly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020) and issued a definitive veto threat: 'I will veto it' (ev_029). Yet his conflict language maintains relational bridges—he declares transportation 'not a Democratic or a Republican issue' (ev_008), appeals to 'the American people' as ultimate arbiters (ev_032), and calls for continued bipartisan cooperation even at farewell (ev_047). This pattern suggests mission prioritization tempered by awareness that sustainable reform requires coalition maintenance. He accepts short-term relational costs (partisan criticism) for mission advancement but avoids rhetoric that would permanently damage cooperative possibility.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_032",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance; willing to undertake novel initiatives and withstand political opposition but prefers calculated, evidence-supported action",
+      "finding": "Obama demonstrates moderate risk tolerance through signature initiatives that carried political risk. His Cancer Moonshot represented a novel cross-agency approach (ev_042, ev_043), the Paris climate agreement committed to multi-generational international coordination (ev_034), and his TPP negotiation engaged countries 'that don't share our values, like China' (ev_031). He weathered significant political costs for the ACA and auto industry rescue, explicitly crediting the auto bailout for 'manufacturing renaissance' despite controversy (ev_022). However, his risk posture remains calibrated—he grounds initiatives in observable progress ('wind power tripled, solar 30x' - ev_040) and frames decisions as responsive to evidence rather than speculative leaps. He accepts uncertainty but prefers 'balanced approaches' over radical bets.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_043",
+        "ev_034",
+        "ev_031",
+        "ev_022",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective authority respect with reformist orientation; uses presidential power as democratic tool while challenging unjust hierarchy",
+      "finding": "Obama's relationship to hierarchy reveals a reformer's stance—respecting democratic authority structures while challenging their abuse. He condemned Senate obstruction as 'certainly not what our founding fathers envisioned' (ev_010), framing his critique in terms of restoring proper democratic function rather than rejecting hierarchy. He used executive power to advance policy when legislative hierarchy failed: 'That's why I took action' (ev_017). His father's Day address revealed personal humility about hierarchical absence (ev_006), while his Memorial Day remarks acknowledged 'no more solemn obligation' than leading military personnel (ev_038). He positioned himself as servant of democratic institutions rather than sovereign authority, yet deployed executive power actively when institutional norms were, in his view, subverted.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_006",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation and translation strategy; transforms partisan conflict into technical problems solvable through democratic process rather than zero-sum victory",
+      "finding": "Obama consistently employs what Peirce would recognize as the scientific method's collaborative ethos in conflict resolution—treating disagreements as problems to be investigated rather than enemies to be defeated. He declares legislative conflicts 'not a Democratic or a Republican issue' (ev_008), inviting shared inquiry. He documents real human costs of sequester (ev_014) to reframe political conflict as humanitarian crisis requiring resolution. His debt ceiling stance—refusing to 'negotiate over the full faith and credit'—represents clear boundary-setting rather than suppression, and his veto threat on Wall Street Reform frames opposition as threat to prior consensus rather than partisan warfare. His conflict strategy translates partisan positions into consequences for identifiable people, attempting to move debate from values conflict to practical problem-solving.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale long-term orientation; balances immediate policy wins with generational investments and institutional reform",
+      "finding": "Obama operates across multiple time horizons with emphasis on generational impact. Immediate policy wins occupy his weekly addresses—jobs created, wages rising, uninsured rates dropping (ev_025, ev_033)—but he consistently frames these as foundations for longer-term transformation. His energy policy targets '2025' (evt_004), the Cancer Moonshot represents decades of research convergence (ev_042), and the Paris climate agreement commits to 'low-carbon future' for children (ev_041). He explicitly rejected drilling alone as insufficient because 'we currently have only about 2 percent of the world's oil reserves' (ev_005), demonstrating long-cycle thinking about resource transition. His farewell call for 'acts of remembrance' and 'civic participation' beyond elections (ev_039, ev_046) suggests mission-scale time horizon extending beyond any single administration.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_041",
+        "ev_005",
+        "ev_039",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural reform preference; signature policies represent comprehensive system redesign rather than incremental adjustment",
+      "finding": "Obama consistently demonstrates preference for comprehensive system reform over incremental patching. His signature achievements—ACA for healthcare, Dodd-Frank for financial regulation, Paris Agreement for climate—represent fundamental restructuring of entire systems rather than targeted fixes. He explicitly framed ACA not as patch but as transformation: 'We've taken on a broken system' (implicit from context of evt_001's Medicare solvency extension). His statement that 'reform has actually added at least a dozen years to the solvency of Medicare—the single longest extension in history' (ev_002) positions legislative achievement as structural breakthrough. On trade, while acknowledging past deals' failures, he chose comprehensive new agreement over minor adjustment (ev_027). His veto threats against Wall Street Reform repeal (ev_029) signal commitment to fundamental architecture rather than patch-friendly flexibility.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; demonstrates self-awareness about collective learning and iterative improvement but limited explicit acknowledgment of personal cognitive limits",
+      "finding": "Obama exhibits metacognitive capacity through recognition of collective intelligence and learning processes, though limited direct acknowledgment of personal cognitive fallibility. He demonstrates what Peirce would call community of inquiry awareness: 'Whether we've seen eye-to-eye or rarely agreed at all, my conversations with you...are what have kept me honest, kept me inspired' (ev_044). He acknowledges that collective action produced progress: 'It's you—the American people...All of this progress is because of you' (ev_032), positioning himself as participant in ongoing democratic inquiry rather than sole truth-discoverer. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows limited self-correction awareness. However, he rarely explicitly states 'I may be wrong' or frames his beliefs as hypotheses subject to revision. His metacognition operates through collective attribution rather than explicit fallibilist self-monitoring.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "pragmatic_maxim_orientation",
+      "definition": "The degree to which an individual consistently measures concepts and policies by their conceivable practical effects on human experience, rather than by abstract consistency, ideological purity, or theoretical elegance",
+      "finding": "Obama demonstrates strong pragmatic maxim orientation across his speeches, consistently evaluating policies by their tangible effects on ordinary Americans. His framing of the sequester crisis centers on 'parents whose kids just got kicked out of Head Start programs' and 'seniors who depend on Meals on Wheels' (ev_014)—concrete experiential consequences rather than abstract budget statistics. His defense of Dodd-Frank cites specific consumer recovery: '$11 billion back in the pockets of more than 26 million consumers' (ev_028). He measures energy policy success through 'wind power tripled, solar 30fold' and 'carbon pollution at its lowest level in 25 years' (ev_040). This pattern suggests Obama operates within the pragmatic tradition—beliefs and policies gain meaning through their practical effects on identifiable human welfare rather than through correspondence to theoretical frameworks or ideological consistency.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_028",
+        "ev_040",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "inquiry_community_orientation",
+      "definition": "The tendency to conceptualize problem-solving as collective endeavor requiring diverse participants, rather than individual genius or adversarial negotiation between fixed positions",
+      "finding": "Obama's rhetoric reveals strong inquiry community orientation—the belief that meaningful progress requires diverse participants contributing to shared investigation rather than individual leadership alone. His government modernization initiative explicitly 'asked some of the sharpest minds from companies in Silicon Valley' to help modernize federal government (ev_037). His father's Day message invoked community partnership: 'White House partnerships with businesses to support fatherhood bonding' (evt_005). He credited veterans hiring challenge to collective action: 'We were joined by AFL-CIO and Chamber of Commerce' (ev_008). His farewell address emphasized ongoing collective work: 'I look forward to working along your side, as a citizen, for all my days that remain' (ev_047). This pattern aligns with Peirce's emphasis on the scientific community as the proper locus of inquiry—Obama frames policy challenges as requiring distributed expertise and collaborative problem-solving rather than heroic individual vision or partisan combat.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_008",
+        "ev_047",
+        "ev_032",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "discipline": "psychology",
+  "lens": "humanistic_existential_narrative_meaning_making",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Distributed collective agency - positions himself and Americans as co-shapers of national trajectory, not solo hero",
+      "finding": "Obama consistently framed agency as collective rather than individual heroics. In his farewell address, he explicitly stated 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), directly crediting the American people as the source of progress. He told small business owners 'Our economy depends on the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people' (ev_004). This distributed agency model reflects Frankl's principle that meaning emerges through response to circumstance rather than mastery over it, combined with McAdams' narrative finding that high-meaning individuals often position themselves within larger collective stories rather than as isolated protagonists.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Narrative-integrative epistemic style - constructs coherent meaning frameworks that synthesize data, values, and hope",
+      "finding": "Obama's epistemic style consistently transforms policy data into narrative meaning structures. He did not merely cite statistics but integrated them into moral frameworks: the ACA became 'a commitment to America's seniors' (ev_001), not just a program; Dodd-Frank became 'level playing field' where 'everyone is held to the same rules' (ev_003). He acknowledged past trade deals 'haven't always lived up to the hype' (ev_027) while still framing TPP as advancing American values - demonstrating cognitive capacity to hold complexity without collapsing into either naive optimism or cynical despair. This suggests a meaning-making orientation that can hold ambivalence within coherent narratives rather than requiring resolution.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_024",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high - translates abstract values into operationalized policy while maintaining moral framing",
+      "finding": "Obama demonstrated ability to move fluidly between abstract moral principles and concrete policy specifics. He articulated values like 'opportunity for all' (ev_018) and then operationalized them into executive orders ($10.10 minimum wage for federal contractors - ev_017). His energy blueprint combined moral framing ('cut oil imports by one-third') with specific metrics ('Clean Fleets Partnership with UPS, FedEx, AT&T'). The 2015 year-end address (ev_033) literally enumerated accomplishments in 'top 10' format, suggesting comfort with systematization. However, he rarely used abstract theoretical frameworks - he grounded abstraction in human impact ('parents whose kids just got kicked out of Head Start programs' - ev_014). This suggests a meaning-making style that uses formalization as a tool for meaning transmission rather than meaning creation.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_017",
+        "ev_018",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic boundary-setting - exercises control within defined limits, respects structural constraints",
+      "finding": "Obama's control orientation reveals a sophisticated understanding of the relationship between agency and structure. He took executive action when Congressional obstruction blocked legislation (ev_017, ev_019 - 'over 20 executive actions' in 'Year of Action'), demonstrating willingness to use available mechanisms. Yet he also repeatedly sought Congressional cooperation (ev_008, ev_048). Most revealing is his stance on the debt ceiling: 'I will not negotiate over the full faith and credit of the United States' (ev_015) - demonstrating non-negotiable boundaries that protected systemic integrity. He framed deficits as already 'falling at the fastest rate since the end of World War II' (ev_016), showing he worked within fiscal realities rather than attempting to override them. This suggests a meaning-maker who understands control as boundary-setting within structural constraints, not unlimited mastery.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_016",
+        "ev_017",
+        "ev_019",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with relational framing - pursues structural goals while maintaining inclusive narrative architecture",
+      "finding": "Obama consistently prioritized major structural initiatives (ACA, Dodd-Frank, TPP, climate agreements) even when polling was unfavorable and political costs were high. He absorbed Congressional obstruction without fundamentally changing course (ev_020 - 'I've taken more than 20 executive actions'). However, he maintained relational framing throughout - framing issues as non-partisan ('This isn't a Democratic or a Republican issue' - ev_008), acknowledging bipartisanship as 'Christmas miracles' (ev_048). His fatherhood initiative (evt_005) emerged from personal history (ev_006 - 'I grew up without my father around') yet was framed as policy partnership, not personal catharsis. This suggests a meaning-making pattern where mission is primary but relational cost is managed through inclusive narrative framing rather than suppressed.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Long-term oriented risk tolerance - accepts short-term political costs for structural policy investments",
+      "finding": "Obama demonstrated consistent willingness to accept short-term political risk for long-term structural goals. He pursued ACA despite initial unpopularity, championed TPP despite progressive skepticism, and made sequester threats that risked Congressional confrontation. His 2014 year-end address claimed 'America's resurgence is real' (ev_024) as counter-narrative to despair - a rhetorical move that required confidence that data would eventually validate policy choices. His farewell address explicitly framed the Cancer Moonshot as a legacy initiative (ev_042) - a decade-scale investment. This risk posture aligns with Frankl's principle that meaning is found in commitment to values that transcend immediate circumstances, suggesting Obama operated from a meaning framework where short-term uncertainty was acceptable given long-term trajectory.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Functional instrumentalism - views presidential power as tool for collective goods, not personal accumulation",
+      "finding": "Obama's use of hierarchical power was consistently framed as serving collective purposes rather than personal aggrandizement. He used executive orders (ev_017, ev_019) when legislative paths were blocked, but framed these as responses to obstruction ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) rather than power grabs. His Memorial Day address framed military obligation as solemn duty to others ('we have to do more than honor their memory. We have to be there for their families' - ev_038). His farewell expressed gratitude to citizens ('you made me a better man' - ev_044) rather than claiming personal credit. This pattern suggests a meaning-maker who internalizes power as stewardship for collective project, not as individual achievement.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_020",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Dual-track conflict management - draws clear lines while maintaining inclusive framing",
+      "finding": "Obama's conflict strategy reveals sophisticated management of adversarial relationships. He condemned Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) while simultaneously stating 'neither party has been blameless.' He issued definitive veto threats on Dodd-Frank ('I will veto it' - ev_029) while framing the issue as protecting consumers ('nearly 26 million consumers recovered $11 billion' - ev_028). He distinguished between war on al-Qaeda and respect for Islam (ev_012) - resolving apparent contradictions by holding multiple frames simultaneously. This suggests a conflict strategy that draws clear boundaries while maintaining inclusive narrative architecture, refusing to let conflict define the overall relationship.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_012",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-generational - optimizes for decade-scale outcomes and explicitly frames legacy as intergenerational investment",
+      "finding": "Obama consistently operated on extended time horizons that transcended electoral cycles. His energy blueprint targeted 2025 goals (evt_004); his Afghanistan policy framed 2014 transition timeline (ev_010); the Cancer Moonshot was explicitly positioned as multi-decade initiative (ev_042). He framed climate progress as legacy for children: 'If we keep pushing... there's no doubt that, together, we can leave a better, cleaner, safer future for our children' (ev_041). His farewell address framed civic engagement as 'over the full span of a lifetime' (ev_046) and expressed commitment to continue working 'for all my days that remain' (ev_047). This multi-generational orientation suggests a meaning framework where current action gains significance from its contribution to ongoing national narrative, not immediate political calculation.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair when politically feasible",
+      "finding": "Obama consistently pursued comprehensive structural solutions rather than incremental compromises as primary goals. His signature achievements - ACA (evt_001), Dodd-Frank (evt_002), energy blueprint (evt_004) - were all comprehensive frameworks. Even when blocked, he framed desired outcomes in structural terms ('comprehensive way, by making sensible changes to entitlement programs and reforming our tax code' - ev_013). He celebrated bipartisan budget deals as 'Christmas miracles' (ev_048) precisely because they represented structural resolution rather than temporary patches. His 'Year of Action' executive agenda (evt_015) attempted structural solutions through available mechanisms. However, he demonstrated pragmatic adaptation - using executive action when legislative path was blocked - suggesting a flexible commitment to structural goals rather than rigid insistence on particular mechanisms.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_013",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness - demonstrates explicit reflection on his own cognitive processes and learning",
+      "finding": "Obama demonstrated strong metacognitive awareness throughout his presidency. His farewell address explicitly reflected on personal growth through interaction: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledged past trade deals 'haven't always lived up to the hype' (ev_027) - showing capacity to critique his own prior positions. His fatherhood address shared vulnerability about growing up without his father (ev_006) and reflected on 'what my life would have been like had he been a greater presence' - demonstrating metacognitive reflection on personal experience. He called for civic participation 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046) - reflecting on his own evolving understanding of citizenship. This metacognitive pattern suggests strong capacity to monitor and adjust his own meaning-making frameworks.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "earned_optimism",
+      "definition": "The pattern of constructing hope that is explicitly grounded in demonstrated progress rather than naive aspiration - acknowledges past failures or difficulties while maintaining forward confidence. Unlike naive optimism, earned optimism integrates evidence of struggle and setback into its meaning framework rather than bypassing them.",
+      "finding": "Obama consistently exhibited 'earned optimism' - constructing hope narratives that acknowledged difficulty and failure. His 2014 year-end address stated 'Pick any metric you want – America's resurgence is real' (ev_024) as response to possible cynicism, grounding optimism in specific data ('11 million new jobs over 57 months' - ev_025). He framed his entire presidency as response to crisis ('rescued our economy from the worst crisis of our lifetimes' - ev_045). He acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027) while still maintaining TPP support. This earned optimism pattern aligns with Frankl's principle that meaning is found not in the absence of suffering but in attitude toward suffering - Obama constructed meaning through narrative integration of struggle and progress rather than by bypassing difficulty.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_027",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "biographical_integration",
+      "definition": "The extent to which an individual integrates personal life experiences (especially wounds, losses, or formative events) into their public purpose and meaning framework - transforming private suffering into public commitment.",
+      "finding": "Obama demonstrated strong biographical integration across his presidency. His father's absence (ev_006) was transformed into father's day initiative and broader family policy emphasis. His own experience of being coached by grandparents informed his understanding of diverse family structures. He consistently credited his interaction with citizens as making him a better president (ev_044), integrating public service into personal growth narrative. His Memorial Day addresses framed military families' sacrifice through lens of his own understanding of family burden (ev_038). This biographical integration pattern suggests a meaning-maker who constructed public purpose partially through explicit narrative connection to personal experience - transforming what could have been sources of private pain into public meaning frameworks.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

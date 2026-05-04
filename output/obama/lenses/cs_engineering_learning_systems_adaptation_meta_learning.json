@@ -1,0 +1,178 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "learning_systems_adaptation_meta_learning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Adaptive world-shaper who switches between direct executive action and institutional mobilization based on opposition context",
+      "finding": "Obama demonstrates a sophisticated adaptive agency that shifts between direct action and structural engagement depending on institutional resistance. When Congress blocks legislation (minimum wage, fair pay, unemployment insurance), he resorts to executive orders (ev_017, ev_019) showing world-shaping capability. However, when institutional norms about debt ceiling credibility are at stake, he refuses negotiation (ev_015), treating certain structural boundaries as inviolable. The pattern suggests he calibrates agency modality to domain: direct presidential action for areas with executive authority, coalition-building and public pressure for legislative domains. This is not purely reactive structure-responding but rather an adaptive strategy selection that respects institutional constraints while maximizing available agency.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strongly evidence-driven with consistent use of metrics, deadlines, and quantifiable outcomes as primary persuasion mode",
+      "finding": "Obama's epistemic style is distinctly evidence-based and metric-centric. He repeatedly anchors arguments in specific numbers: 'seven days' until transportation funding expires, 'eight days' until loan rates double (ev_011); 11 million jobs over 57 months (ev_025); $11 billion recovered for 26 million consumers (ev_028); wind power tripled, solar 30x (ev_040). He uses verifiable benchmarks rather than rhetorical appeals when pushing policy, and explicitly references data sources ('surveys show' in ev_023) as political ammunition. This suggests his belief formation relies on measurable evidence rather than ideological intuition or anecdotal wisdom. When facing uncertainty (future trade deal outcomes), he acknowledges historical data limitations ('past trade deals haven't always lived up to the hype' - ev_027) while still committing to future action based on projected evidence.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_023",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with consistent philosophical frameworks applied across diverse policy domains",
+      "finding": "Obama demonstrates strong abstraction ability by articulating unifying principles that govern diverse policy areas. His 'middle-out' economic philosophy (ev_021) connects manufacturing policy, minimum wage, and workforce training under a single theoretical framework. His 'opportunity for all' principle (ev_018) structures both minimum wage and education initiatives. He formalizes complex issues into simple public communications ('Year of Action' - ev_015, 'Top 10 Things' list - ev_033), making abstract governance concepts accessible. The Cancer Moonshot (ev_042, ev_043) shows systematic cross-agency coordination formalized as a task force with specific metrics (4% clinical trial enrollment problem → searchable database solution). This suggests he converts policy experience into transferable abstractions rather than treating each issue as isolated.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_015",
+        "ev_033",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selective control orientation focusing on controllable policy levers while accepting institutional shared-control",
+      "finding": "Obama exhibits a nuanced control orientation that distinguishes between controllable and uncontrollable domains. He exercises direct control through executive orders (ev_017), veto commitments (ev_029), and specific numerical targets (hiring 100,000 veterans - ev_009). However, he explicitly acknowledges limits: 'Congress had passed it seven times previously' (ev_008) frames Congressional action as a variable he must influence rather than control. His strategy involves using the bully pulpit and public opinion as control mechanisms ('Republicans blocked' - ev_020) when direct control is unavailable. The debt ceiling episode (ev_015) shows a binary control stance on non-negotiable issues, while the sequester episodes (ev_013, ev_014) show iterative negotiation without full control. This suggests an engineering mindset: identifying which variables are controllable and deploying appropriate control strategies to each.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_009",
+        "ev_008",
+        "ev_020",
+        "ev_015",
+        "ev_013",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation accepting significant political friction when core commitments are at stake",
+      "finding": "Obama consistently prioritizes policy goals over relational comfort with political opponents. He publicly criticizes Republican obstruction multiple times (ev_020: 'They\\'ve said no to raising the minimum wage, no to equal pay, and no to restoring unemployment insurance'), accepting significant partisan friction. His veto commitment on Dodd-Frank repeal (ev_029) signals willingness to create institutional conflict for regulatory continuity. However, his mission calculus is sophisticated: he sought bipartisan coalitions on transportation (ev_008: AFL-CIO and Chamber of Commerce together) and celebrated bipartisan budget deals (ev_048: 'Christmas miracles'). This suggests he accepts relational costs when institutional cooperation is structurally unlikely but actively reduces them when viable. The pattern indicates mission prioritization with relational cost optimization rather than either pure mission-drive or pure harmony-seeking.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with clear red lines; uses executive action to reduce policy reversal risk",
+      "finding": "Obama's risk posture reflects strategic risk calibration with specific non-negotiable boundaries. He takes calculated policy risks by using executive orders when legislative success is uncertain (ev_017, ev_019), reducing dependency on Congressional action. His 'Year of Action' framing treats executive action as risk mitigation rather than pure activism. He is explicitly risk-averse regarding financial system stability ('We\\'ve worked too hard to recover from one crisis only to risk another' - ev_029) and debt ceiling credibility (ev_015). On climate and energy policy, he takes progressive stances while documenting specific risk reduction (carbon pollution at 25-year low - ev_040). The sequester episodes show his risk communication strategy: he explicitly names potential harms (Head Start cuts, airport disruptions, military strain - ev_014) to mobilize public opinion before risks materialize. This suggests a分层防御 risk posture: defensive positioning on critical system variables, offensive action on recoverable policy domains.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_015",
+        "ev_040",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist who respects hierarchy but actively deploys presidential authority as a primary policy instrument",
+      "finding": "Obama operates within an institutionalist framework that treats presidential power as a legitimate policy instrument rather than a last resort. He uses executive orders for wage policy (ev_017), public appeals to pressure Congress on transportation (ev_008), veto threats for regulatory protection (ev_029), and explicit refusals to negotiate on debt ceiling (ev_015). His critique of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) reveals sophisticated institutional analysis that does not idolize checks-and-balances when they produce dysfunction. He also shows respect for legitimate hierarchy in other contexts: military command structure (ev_038), Congressional authority on budgets, and international treaty processes. The pattern suggests hierarchical reasoning with strategic deployment: he treats hierarchy as a tool to be used effectively rather than as a constraint to be lamented.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_008",
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Multi-modal conflict strategy combining public pressure, formal negotiation, and selective escalation",
+      "finding": "Obama employs a graduated conflict strategy that varies by domain and opposition intensity. For Congressional obstruction, he primarily uses public pressure campaigns (ev_020, ev_023) framing issues as bipartisan (ev_008: AFL-CIO + Chamber of Commerce) or national (ev_010 on terrorism). For core commitments (debt ceiling, Wall Street reform), he escalates to veto commitments and executive assertions of authority. When negotiations are structurally viable (sequester replacement, transportation bills), he returns to bargaining with 'balanced approach' framing (ev_013). His father's day address (ev_006, ev_007) shows personal relationship-building as a conflict avoidance mechanism. The Cancer Moonshot (ev_042, ev_043) demonstrates cross-domain coalition building using mission alignment rather than ideological confrontation. This multi-modal approach suggests conflict strategy calibration rather than habitual confrontation or avoidance.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_023",
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_013",
+        "ev_006",
+        "ev_007",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with investment in multi-year initiatives spanning multiple electoral cycles",
+      "finding": "Obama demonstrates a consistent long-term time horizon across multiple policy domains. The Cancer Moonshot (ev_042, ev_043) is explicitly a multi-decade initiative modeled on Apollo. Energy policy targets 2025 (ev_004), with Paris Agreement commitments extending through 2050. Healthcare reform (ACA) was positioned as a generational commitment (ev_001: 'As long as I am President, that\\'s a commitment this country is going to keep'). His 'America\\'s resurgence is real' address (ev_024) celebrates trends over his full presidency rather than quarterly wins. He explicitly resists short-term thinking: 'We now have the chance to reverse the decades-long erosion of middle-class jobs and incomes' (ev_024). His farewell address (ev_047) signals commitment to continue civic engagement 'for all my days that remain,' suggesting mission-scale rather than electoral-scale thinking. This long-horizon orientation coexists with urgency on immediate issues (sequester warnings, transportation deadlines).",
+      "evidence_ids": [
+        "ev_042",
+        "ev_043",
+        "ev_004",
+        "ev_001",
+        "ev_024",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for systemic reform over incremental patching when political conditions permit",
+      "finding": "When political capital is available, Obama consistently pursues systemic redesign over incremental patches. The ACA represents a complete healthcare system redesign rather than targeted patches. Dodd-Frank represents comprehensive financial regulation restructuring. TPP represents a complete rewriting of Asia-Pacific trade rules rather than bilateral adjustments. His energy blueprint (ev_004) is a comprehensive strategy targeting one-third oil import reduction rather than isolated drilling expansions. The Cancer Moonshot (ev_042, ev_043) explicitly aims to transform cancer research infrastructure (4% clinical trial enrollment → comprehensive database) rather than incremental funding increases. However, when political conditions deteriorate, he demonstrates pragmatic patching: executive orders for minimum wage rather than comprehensive legislation, sequester warnings rather than grand bargains. The pattern suggests rebuild orientation that degrades to patch orientation under resource constraints rather than ideological preference for patches.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_042",
+        "ev_043",
+        "ev_017",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness evidenced by explicit self-correction, credit attribution, and reflective learning from experience",
+      "finding": "Obama shows high metacognitive awareness through multiple mechanisms. He explicitly acknowledges past failures ('past trade deals haven\\'t always lived up to the hype' - ev_027) demonstrating self-correction capacity. He credits collective action rather than individual genius ('It\\'s you—the American people' - ev_032) suggesting accurate causal attribution. His farewell address (ev_044) explicitly frames his presidency as a learning process: 'Every day, I learned from you. You made me a better President, and you made me a better man.' He reflects on institutional failures (Senate obstruction - ev_010) without self-justification. His use of metrics as feedback signals (57 months of job growth, 26 million consumers helped - ev_028, ev_025) shows evidence-tracking as a learning mechanism. The pattern suggests active self-monitoring: he tracks his own performance, acknowledges blind spots, and adjusts strategies based on feedback rather than doubling down on historical successes.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_010",
+        "ev_028",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cross_domain_transfer_capacity",
+      "definition": "Ability to extract and apply strategic patterns learned in one policy domain to a completely different domain, demonstrating meta-learning rather than domain-specific expertise accumulation",
+      "finding": "Analysis reveals a distinctive cross-domain transfer capacity not captured by standard learning constructs. Obama applies lessons from legislative strategy (executive order use) to economic policy (minimum wage), healthcare coordination models to climate initiatives (Paris Agreement), and military coalition-building to private sector partnerships (veteran hiring challenges, Clean Fleets Partnership). The Cancer Moonshot (ev_042, ev_043) exemplifies this: he transfers Silicon Valley technology partnership models (Presidential Innovation Fellows) to medical research coordination, creating searchable clinical trial databases rather than incremental funding. He applies 'middle-out' economic theory consistently across manufacturing, education, and workforce training. This cross-domain transfer suggests meta-learning in the Sutton/Finn sense: extracting learning-to-learn principles rather than just learning specific policy responses. He treats each policy domain as a training distribution from which he extracts reusable strategic patterns.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_004",
+        "ev_042",
+        "ev_043",
+        "ev_021",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

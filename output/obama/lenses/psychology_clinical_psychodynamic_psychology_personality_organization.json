@@ -1,0 +1,162 @@
+{
+  "discipline": "psychology",
+  "lens": "clinical_psychodynamic_psychology_personality_organization",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Integrated world-shaping agency with strong capacity for structural action while accepting institutional constraints",
+      "finding": "Obama demonstrates a mature pattern of agency that balances assertive world-shaping with respectful engagement of structural limits. He pursued transformative policy initiatives (ACA, Dodd-Frank, climate agreements) while repeatedly calling on Congress rather than acting unilaterally, showing capacity to distinguish between domains of executive authority and democratic collaboration. His articulation of a 'middle-out' economic philosophy (ev_021) reveals agency directed toward systemic change rather than personal gain. This pattern suggests healthy narcissistic function with realistic self-efficacy—neither passive submission to structures nor grandiose overestimation of one's capacity to reshape the world alone.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_001",
+        "ev_003"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded realism with optimistic framing; maintains correspondence with observable reality even when politically inconvenient",
+      "finding": "Obama's epistemic style demonstrates strong reality testing integrated with constructive optimism. He cites specific statistics (11 million jobs in 57 months, ev_025; wind power tripled, ev_040) while maintaining forward-looking vision. Significantly, he acknowledged past trade deals 'haven't lived up to the hype' (ev_027) and documented real human costs of sequestration (ev_014), showing capacity to integrate disconfirming information. His distinction that 'America is at war with al-Qaeda, not Islam' (ev_012) reflects careful cognitive mapping of complex geopolitical realities. This pattern indicates reality testing unclouded by either cynical pessimism or defensive optimism—genuine empiricism with constructive intent.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_014",
+        "ev_027",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for abstract principled reasoning integrated with concrete operational specificity",
+      "finding": "Obama demonstrates sophisticated ability to move between abstract principles and concrete policy details. He articulated core values ('opportunity for all,' ev_018) while executing complex implementation strategies across multiple domains (energy independence, health care reform, trade agreements). His 'Year of Action' address (ev_019) enumerated over 20 executive actions while maintaining consistent philosophical framework. The transition from abstract vision to specific metrics appears fluid and well-integrated—abstract reasoning serves as guide for concrete action rather than disconnected intellectual exercise. This suggests high formalization capacity used instrumentally rather than defensively.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_019",
+        "ev_021",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control orientation channeled through institutional legitimacy and democratic process rather than personal dominance",
+      "finding": "Obama shows comfort with authority and institutional power while demonstrating respect for constitutional constraints. He refused to negotiate over the debt ceiling (ev_015, 'I will not negotiate over the full faith and credit of the United States'), showing willingness to draw firm boundaries. He issued veto threats against Wall Street Reform repeal (ev_029) and took executive actions when Congress blocked legislation (ev_017, ev_019). However, his control orientation is embedded within democratic norms—he frequently called for Congressional action rather than circumventing it, built bipartisan coalitions (ev_008, AFL-CIO and Chamber of Commerce), and explicitly credited collective action for accomplishments (ev_032). This suggests control through institutional legitimacy rather than personal dominance—a leader who wields power but acknowledges its boundaries.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistent prioritization of policy mission over relational comfort when values are clearly engaged",
+      "finding": "Obama demonstrates willingness to absorb relational costs in service of core commitments. He repeatedly criticized Congressional Republican obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea') while maintaining respectful framing. He pursued controversial policies (Iran nuclear deal, climate agreements, ACA) despite strong opposition, framing them as essential to national interest. His Veterans Day challenge (ev_009) to hire 100,000 veterans reflected mission-priority over political convenience. However, he also sought common ground (ev_008, bipartisan transportation) and credited opponents when appropriate, suggesting selective mission-priority rather than categorical devaluation of relationships. This pattern indicates capacity for principled advocacy that accepts relational friction as necessary cost.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_009",
+        "ev_010",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Comfortable with calculated risks when mission demands it; maintains optimism without denial of uncertainty",
+      "finding": "Obama's risk posture reflects comfort with uncertainty in pursuit of significant policy objectives. He pursued the Paris climate agreement and Iran nuclear deal despite political controversy—calculated risks with uncertain outcomes that he defended as necessary. His 'Year of Action' (ev_015) represented risk-taking through executive innovation when Congressional channels failed. The farewell address (ev_047) expressed continued optimism about American promise despite acknowledged challenges. Notably, he did not appear to engage in denial of risks—he acknowledged past trade deal failures (ev_027), documented sequestration's human costs (ev_014), and warned of climate change urgency (ev_041). This suggests calibrated risk tolerance with genuine engagement with uncertainty rather than either risk-avoidance or naive optimism.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_041",
+        "ev_047",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated understanding of institutional power used strategically within democratic framework",
+      "finding": "Obama demonstrates nuanced engagement with hierarchy and authority. He worked within Congressional structure while calling out obstruction (ev_010), framed issues as 'not Democratic or Republican' (ev_008), and explicitly credited American people as the source of progress (ev_032, 'All of this progress is because of you'). His framing of TPP as preventing China from writing global trade rules (ev_031) showed awareness of international power dynamics. He articulated constitutional responsibilities (ev_015 on debt ceiling) while building diverse coalitions (business and labor). This suggests sophisticated relationship to power that is neither deferential nor dominantly authoritarian, but rather strategically democratic—a leader who understands power as flowing from and accountable to democratic legitimacy.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_031",
+        "ev_008",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Primarily negotiable/inclusive strategy with clear boundaries; capable of principled opposition without splitting",
+      "finding": "Obama's conflict strategy emphasizes negotiation and coalition-building while maintaining clear positions on core values. He sought bipartisan support for transportation funding (ev_008), called Congress to action on multiple occasions, and framed issues broadly rather than as personal disputes. However, he did not avoid conflict when necessary—he issued veto threats (ev_029), condemned Senate obstruction (ev_010), and criticized Republican blocking of middle-class priorities (ev_020). Significantly, his rhetoric maintained complexity without splitting opponents into wholly negative figures—he acknowledged that 'neither party has been blameless' (ev_010) while criticizing specific tactics. This suggests mature conflict strategy with capacity to engage disagreement while maintaining integrated view of others as complex agents rather than enemies.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_010",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong orientation toward long-term structural change, with consistent multi-year commitment to policy evolution",
+      "finding": "Obama's communications consistently reflect long-term temporal orientation. He pursued climate policy (Paris agreement, renewable energy expansion over years), defended deficits falling 'at fastest rate since World War II' (ev_016), and framed accomplishments as part of multi-decade trends. His Cancer Moonshot (ev_042-43) represented mission-scale temporal investment. He articulated 'restore opportunity for all' as generational project (ev_018). The farewell address (ev_046-47) explicitly called for civic engagement 'over the full span of a lifetime.' This pattern indicates stable long-term orientation integrated with immediate action—commitment to structural change that exceeds electoral cycles.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_042",
+        "ev_018",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Clear preference for comprehensive structural reform over incremental adjustment in major policy domains",
+      "finding": "Obama's record demonstrates preference for comprehensive structural change when possible. The ACA represented fundamental healthcare system reform, not incremental expansion. Dodd-Frank restructured financial regulation comprehensively. His energy blueprint (ev_004) aimed at 'cut oil imports by one-third' through systemic change, not marginal improvement. He explicitly rejected drilling alone as insufficient (ev_005, 'drilling alone is not a real strategy'). He pursued 'balanced' deficit reduction involving both entitlement reform and tax code restructuring (ev_013). When structural reform was blocked (minimum wage, immigration reform), he pivoted to executive actions and continued advocacy, showing preference for systemic change even when path required adaptation. This suggests stable preference for structural solutions to systemic problems.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_013",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive capacity demonstrated through genuine self-reflection, acknowledgment of limits, and attribution of outcomes to collective rather than self",
+      "finding": "Obama demonstrates exceptional metacognitive awareness. His farewell address showed profound self-reflection: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He explicitly attributed progress to 'the American people' (ev_032) rather than his own agency. He acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027)—recognizing his own previous misjudgments. His personal sharing about absent father (ev_006) and coaching daughter's team (ev_007) demonstrates capacity to integrate personal experience into public role without defensiveness. He reflected on what the founders intended (ev_010) while acknowledging neither party blameless. This pattern indicates highly developed capacity to observe one's own thinking, acknowledge limits, and integrate feedback from diverse sources.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Relational Self-Integration",
+      "definition": "Capacity to integrate personal vulnerability and public authority without defensive splitting, maintaining coherent identity across contexts while acknowledging developmental wounds",
+      "finding": "Obama's personality organization demonstrates remarkable integration of personal narrative with public role. He shared childhood experience of absent father (ev_006) and reflected on what his life 'would have been like had he been a greater presence'—displaying vulnerability without defensive deflection. He balanced personal warmth (assistant coach for daughter's basketball team, ev_007) with presidential gravitas. This integration suggests highly consolidated identity capable of holding complexity without compartmentalization or defensive splitting between public and private selves.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Democratic Institutional Faith",
+      "definition": "Structural trust in democratic processes and institutions as legitimate venues for conflict resolution, even when frustratingly slow or obstructed",
+      "finding": "Obama's communication consistently expresses faith in democratic institutions as legitimate problem-solving mechanisms. He told SXSW audience that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036). He framed obstruction as aberration from founders' intent (ev_010) while maintaining that system remained capable of correction. His call for civic engagement 'not just when there's an election' (ev_046) reflected trust that sustained participation could correct institutional dysfunction. This suggests robust structural confidence in democratic process even under conditions of significant opposition—a leader whose faith in institutions appears internalized rather than merely performative.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

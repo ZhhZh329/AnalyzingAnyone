@@ -1,0 +1,166 @@
+{
+  "discipline": "medicine",
+  "lens": "preventive_risk_management",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who attempted structural prevention of systemic failures but demonstrated constrained responsiveness when political obstacles intervened",
+      "finding": "Obama consistently acted as a world-shaper by designing preventive structures rather than merely reacting to problems. His ACA implementation explicitly extended Medicare solvency by 12+ years (ev_002), demonstrating systemic intervention before insolvency. His Dodd-Frank framework established structural safeguards against the 'too big to fail' dynamics that had triggered crisis (ev_029). However, his agency showed limits when Congressional opposition forced pivot to executive action in 2014, declaring a 'Year of Action' after legislative doors closed (ev_019, ev_020). The pattern suggests world-shaping when political conditions permitted, responder mode when structural power was constrained—but importantly, he did not treat obstruction as signal to abandon prevention efforts, merely to find alternate channels for preventive architecture.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_029",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with demonstrated willingness to incorporate negative historical data without abandoning forward action",
+      "finding": "Obama's epistemic approach shows notable self-awareness about past failures informing future strategy. Most significantly, he directly acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027) when advocating for TPP—demonstrating capacity to incorporate negative evidence without it becoming paralyzing. His balanced deficit reduction framing consistently referenced empirical data: deficits falling at 'fastest rate since World War II' (ev_016), employment statistics, consumer recovery amounts. He appeared to accept low-intensity cumulative evidence (sequester impacts on Head Start, seniors, military families—ev_014) as valid signals requiring preventive action rather than waiting for complete system failure. The epistemic style appears mature: acknowledging history without becoming historically deterministic.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_016",
+        "ev_014",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with strong capacity for systemic abstraction, translating structural concepts into policy architecture",
+      "finding": "Obama consistently operated at systemic abstraction level, conceptualizing interconnected domains as structured systems requiring coordinated intervention. His 'middle-out' economic philosophy (ev_021) represents explicitly formalized causal reasoning: systemic health dependent on middle-tier stability, not just top-down growth. The energy blueprint (evt_004) demonstrated multi-variable abstraction: demand reduction + domestic supply + clean energy transition as interconnected pillars rather than isolated solutions. The Cancer Moonshot (ev_042, ev_043) was explicitly framed as cross-agency coordination problem requiring systemic architecture, not incremental grant-making. He demonstrated preference for formal structures (CFPB as independent watchdog—ev_028) over ad hoc interventions. The abstraction level suggests comfort with formalization as cognitive and policy tool.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong but constrained control orientation, prioritizing structural prevention of systemic risk over immediate control outcomes",
+      "finding": "Obama's control orientation manifested primarily at systemic level: controlling risk trajectories of healthcare, financial, and economic systems rather than micro-managing outcomes. His debt ceiling position ('I will not negotiate over the full faith and credit of the United States'—ev_015) demonstrates willingness to draw hard lines to prevent systemic default risk, even at cost of immediate political flexibility. His veto threat on Dodd-Frank repeal (ev_029) shows protective control posture toward structural frameworks already established. He delegated execution (veterans hiring challenge—ev_009) while maintaining structural control through targets and accountability. The control orientation appears calibrated to structural integrity protection rather than personal authority maximization—controlling system stability rather than controlling people.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority with significant relational cost acceptance when preventive structural goals at stake",
+      "finding": "Obama consistently prioritized structural mission objectives over relational comfort with political opponents, especially when preventive frameworks faced repeal. His explicit criticism of Congressional Republicans blocking minimum wage, equal pay, unemployment insurance (ev_020) demonstrates willingness to incur relational costs for policy goals. However, his conflict framing suggests mission not purely personal: he framed opposition as obstruction of preventing harm ('We've worked too hard to recover from one crisis only to risk another'—ev_029). The pattern indicates mission orientation directed at structural prevention (avoiding next crisis) rather than personal political mission, but with genuine acceptance of relational costs when preventive architecture threatened.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Strongly preventive risk orientation, actively working to prevent foreseeable systemic failures rather than reacting post-hoc",
+      "finding": "Obama's risk posture reveals a consistent preventive orientation across multiple domains. In financial regulation, he explicitly rejected bailouts as risk transfer and established structural protections to prevent recurrence ('ended too big to fail bailouts'—ev_003). In healthcare, he intervened structurally before Medicare insolvency rather than patching incrementally. In fiscal policy, he repeatedly warned about sequester consequences before they materialized (ev_013, ev_014), documenting human costs to argue for preventive replacement. His climate stance shows risk prevention orientation: 'That's not something to tear up—it's something to build upon' (ev_041). The pattern suggests someone who treats forecasted negative trajectories as requiring preventive action, not as acceptable future states to react to when they arrive. Notably, he did not treat 'hasn't happened yet' as 'won't happen'.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_013",
+        "ev_014",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic use of hierarchical position for preventive system protection, willingness to draw structural lines",
+      "finding": "Obama used hierarchical position primarily as protective mechanism for systems he judged essential for long-term stability. His debt ceiling refusal (ev_015) represented explicit acknowledgment that even presidential power has structural limits—he would not use position to override systemic constraint. His executive actions (minimum wage for contractors—ev_017) represented use of formal authority to build preventive protections where legislative path blocked. He challenged Senate obstruction of nominations (ev_010) as violation of founders' intent, framing hierarchical conflict in terms of system function rather than personal authority. The pattern suggests hierarchical power viewed as legitimate tool for structural preservation, not as end in itself.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalatory positioning with preventive framing, willing to draw hard lines to protect structural frameworks from dismantlement",
+      "finding": "Obama's conflict strategy consistently framed disputes in terms of preventing future harm rather than personal or partisan combat. His veto threat on Dodd-Frank (ev_029) positioned conflict as preventing systemic risk ('recover from one crisis only to risk another'). His sequestration warnings (ev_014) framed Congressional conflict as resulting in concrete harm to vulnerable populations. He engaged in explicit partisan criticism but always with preventive logic attached: blocking minimum wage means workers remain underpaid; blocking transportation bill means job losses. The conflict strategy appears to be 'translate' (communicating to broader public) combined with 'escalate' (veto threats, executive action) when preventive frameworks at stake. Notably less suppressive or delaying than typical institutional actors.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_014",
+        "ev_020",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly long-term oriented with consistent structural investments designed for multi-decade impact",
+      "finding": "Obama's time horizon consistently prioritized long-term structural outcomes over short-term political wins. His 2010 energy blueprint aimed to cut oil imports by one-third by 2025 (evt_004)—fifteen-year target. ACA's Medicare solvency extension (ev_002) explicitly designed for multi-decade impact. Paris climate agreement framed as 'better, cleaner, safer future for our children' (ev_041). Cancer Moonshot positioned as 45-year accumulation culminating in breakthrough moment (ev_042). Even economic communications referenced multi-year trends: 57 months of job growth (ev_025), deficit reduction 'fastest rate since WWII' (ev_016). The pattern strongly indicates long-term orientation with willingness to invest in outcomes unlikely to mature within electoral cycles.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_042",
+        "ev_025",
+        "ev_016",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Consistent preference for structural redesign over incremental patching when systemic risks identified",
+      "finding": "Obama consistently preferred structural redesign when confronting systemic risk. ACA wasn't a patch on existing system but fundamental restructuring with coverage expansion, solvency extension, consumer protections (ev_002). Dodd-Frank established new regulatory architecture with independent Consumer Financial Protection Bureau, not incremental adjustments to existing frameworks (ev_028). Sequester replacement proposals explicitly sought 'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code' (ev_013)—structural tax and entitlement reform, not continuing resolution patching. Cancer Moonshot (ev_042) framed as breakthrough approach after 45 years of incremental progress—structural acceleration, not business-as-usual research funding. The pattern is clear: when systemic risk identified, preference for structural redesign over maintenance patching.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_013",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness of political constraints, historical patterns, and own limitations, with adaptive learning orientation",
+      "finding": "Obama demonstrates notable metacognitive awareness in multiple dimensions. First, acknowledgment of personal limitations and dependency: farewell address explicitly stated 'Every day, I learned from you. You made me a better President' (ev_044)—direct recognition of cognitive dependency and growth over time. Second, historical pattern recognition: acknowledging past trade deal failures while proceeding with new framework (ev_027), demonstrating capacity to update beliefs without paralysis. Third, realistic assessment of political constraints: recognizing Congress as obstacle while finding executive alternatives (ev_015, ev_019). Fourth, explicit reflection on what worked: citing concrete outcomes (11 million jobs, uninsured rate below 10%, climate progress—ev_033, ev_040) while acknowledging remaining gaps. The metacognitive profile suggests active monitoring and adjustment rather than static belief attachment.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_015",
+        "ev_019",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "preventive_institutional_design",
+      "definition": "The tendency to design policy architectures with embedded preventive mechanisms that will function even after the designer leaves office—investing in institutional resilience rather than personal legacy visibility",
+      "finding": "Obama exhibits distinctive preventive institutional design orientation. The ACA was designed with structural features (Medicare solvency extension, coverage mandates, consumer protections) that would persist and function as preventive mechanisms regardless of his tenure. Dodd-Frank created independent agencies (CFPB) with mandated functions designed to prevent future crises without requiring ongoing presidential activation. The Cancer Moonshot was structured as cross-agency task force with searchable database architecture (Trials.Cancer.Gov—ev_043) designed to solve information asymmetry problems permanently. His farewell address (ev_046) explicitly called for 'sustained civic engagement' beyond electoral cycles—investing in democratic institutional health. The pattern suggests he conceptualized his role as designing self-sustaining preventive systems that would operate after his exit, prioritizing institutional resilience over personal monument-building.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "moral_hazard_awareness",
+      "definition": "Sensitivity to how protective interventions can create perverse incentives, and design of safeguards to prevent intervention itself from becoming source of future risk",
+      "finding": "Obama demonstrates notable moral hazard awareness in financial regulation design. His explicit framing of Dodd-Frank as ending 'too big to fail bailouts' (ev_003) reveals awareness that prior crisis response had created expectation of rescue, which itself was risk-generating. The structural design included consumer protections specifically to prevent predatory practices from generating future crisis conditions. His veto threat on any repeal ('we've worked too hard to recover from one crisis only to risk another'—ev_029) suggests understanding that removing safeguards could recreate conditions for intervention-induced moral hazard. This moral hazard awareness extends to healthcare framing: ACA designed to prevent adverse selection spirals, not just cover the uninsured. The pattern suggests cognitive framework where protective interventions themselves become risk factors if not designed with safeguards against their misuse.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

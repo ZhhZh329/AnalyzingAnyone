@@ -1,0 +1,169 @@
+{
+  "discipline": "economics",
+  "lens": "entrepreneurship_and_innovation_kirzner",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong actor orientation, but within political-administrative rather than market entrepreneurship mode",
+      "finding": "Obama demonstrates repeated willingness to shape outcomes through direct action (executive orders, direct challenges to Congress), yet these behaviors reflect political agency rather than Kirzner's entrepreneurial alertness. Evidence shows he pushed agenda items aggressively (ev_017 raising minimum wage via executive order), refused to negotiate on debt ceiling (ev_015), and framed TPP as active rule-writing opportunity rather than reactive positioning (ev_031). However, the driving pattern is that of a political leader mobilizing existing institutional tools rather than identifying unexploited market mismatches before others recognize them. His agency is directed at legislative outcomes, coalition-building, and policy implementation—structures that are the substance of his office rather than entrepreneurial resource recombination.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_015",
+        "ev_031",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence insufficient to characterize epistemic approach under Kirzner framework",
+      "finding": "Obama's speeches contain frequent appeals to data and statistics (ev_025 on 11 million jobs, ev_033 on uninsured rate, ev_040 on wind/solar growth), suggesting information-referential reasoning. He also showed willingness to seek external expertise from Silicon Valley for government modernization (ev_037). However, the epistemic dimension central to Kirzner's framework—how an agent forms judgments about overlooked opportunities and price discrepancies—cannot be meaningfully assessed from presidential address data. Obama operates in a domain where information is publicly processed through political institutions rather than privately discovered through market experimentation. No evidence specifically documents him forming judgments about unexploited opportunities through personal discovery of mismatched information.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_037"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-strong preference for formal policy mechanisms and institutionalized solutions",
+      "finding": "Obama consistently channels energy through formal legislative and administrative channels rather than informal or ad hoc arrangements. He passed ACA as comprehensive legislation (ev_002), championed Dodd-Frank as systemic financial reform (ev_003), pursued TPP as formal 5-year negotiated agreement (ev_030), and articulated 'middle-out' economic philosophy as abstract framework (ev_021). When Congress blocked legislation, he shifted to formal executive orders (ev_017 on contractor minimum wage, ev_019 catalogued 20+ executive actions). This pattern indicates preference for systematized, rule-based governance structures over piecemeal interventions. The abstraction is policy-abstraction rather than market-abstraction, but it demonstrates formalized approach to problem-solving.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_030",
+        "ev_021",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for controlling agenda and institutional outcomes, but within political rather than market control mode",
+      "finding": "Obama exhibited explicit control orientation through veto threats (ev_029 against Wall Street Reform repeal), refusal to negotiate on debt ceiling (ev_015), and declaration that he would not accept Congressional obstruction of judicial nominations (ev_010). He described taking 'Year of Action' with over 20 executive actions (ev_019, ev_020) after Congressional blockage. However, this control is political control—steering legislative and administrative processes—not market control over prices, resources, or production. The Kirzner lens does not provide strong tools to assess this political control behavior as entrepreneurial alertness since the underlying mechanism (discovering unexploited opportunities) is absent.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate willingness to accept relational costs for policy goals, but limited evidence of sustained mission-persistence through relational sacrifice",
+      "finding": "Obama occasionally accepted political conflict to pursue stated goals, notably refusing Republican demands on debt ceiling (ev_015), criticizing Congressional obstruction (ev_010, ev_020), and issuing veto threat against Wall Street Reform repeal (ev_029). However, these represent standard political positioning rather than the distinctive Kirzner pattern of an entrepreneur willing to endure social/cultural relational costs to pursue an identified opportunity. The relational conflicts Obama engaged were largely within normal political contestation. No evidence shows him maintaining course through unusual social isolation or sacrificing relationships specifically to pursue an overlooked opportunity others dismissed.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk posture cannot be assessed under Kirzner framework due to domain mismatch",
+      "finding": "The Kirzner lens evaluates risk posture in terms of willingness to commit resources based on discovery of overlooked opportunities before others recognize them. Obama did make politically 'bold' moves—executive actions on minimum wage (ev_017), aggressive climate agenda (ev_025, ev_040, ev_041), Iran nuclear deal (ev_034), Cuba normalization (ev_034), Paris climate agreement (ev_034, ev_041). However, these represent political risks within established institutional frameworks, not entrepreneurial resource commitments based on private discovery of market mismatches. The risk being evaluated under Kirzner—whether one is betting on one's own opportunity discovery before competitors—is conceptually different from the political risks of executive decision-making. Insufficient evidence to assess Kirzner-specific risk posture.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_025",
+        "ev_040",
+        "ev_041",
+        "ev_034"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective and sophisticated use of hierarchical position, but not in pattern that reveals Kirzner-style opportunity exploitation",
+      "finding": "Obama effectively utilized presidential position to convene unlikely coalitions (ev_008 bringing AFL-CIO and Chamber of Commerce together), to issue public challenges to private sector (veteran hiring challenge in ev_009), and to frame TPP as geopolitical necessity (ev_031). He described government as tool for collective problem-solving that requires active citizen engagement (ev_036). However, these represent political leadership leveraging institutional hierarchy, not entrepreneurial alertness to hierarchical gaps where value could be captured. The Kirzner concept of using power to exploit informational advantages is not observable in the documented evidence.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_031",
+        "ev_036"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Predominantly negotiate/hold-line strategy within political contestation, insufficient evidence for Kirzner-specific entrepreneurial conflict patterns",
+      "finding": "Obama's conflict behavior appears as principled refusal to yield on certain positions (ev_015 debt ceiling, ev_029 Wall Street Reform veto), criticism of Congressional obstruction (ev_010, ev_020), and public mobilization tactics when institutional channels blocked. He framed bipartisan budget deal and education bill as 'Christmas miracles' (ev_048), indicating preference for negotiated outcomes. This is political negotiation rather than entrepreneurial conflict strategy—Kirzner's framework concerns conflict over opportunity exploitation (e.g., entering markets before competitors, racing to capture discovered inefficiencies), which is distinct from political bargaining over policy outcomes.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_010",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong evidence of long-term orientation in policy goals, but temporal dimension is institutional rather than market-opportunity based",
+      "finding": "Obama articulated multiple long-term policy horizons: energy independence by 2025 (evt_004), Paris climate agreement as intergenerational legacy (ev_041 'leave a better, cleaner, safer future for our children'), Cancer Moonshot as sustained research initiative (ev_042-43), and 57 consecutive months of job growth (ev_025). He explicitly framed current choices in terms of future generations (ev_045 on children, ev_038 on obligation to fallen heroes). However, these long-term orientations concern collective political outcomes (climate, healthcare, infrastructure) rather than entrepreneurial time horizons for market opportunity capture. The temporal dimension of Kirzner's alertness—acting early before others discover and enter—does not map onto Obama's documented behavior patterns.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_025",
+        "ev_045",
+        "ev_038",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural/legislative solutions over executive patches, but structural reform is policy-comprehensive rather than market-structure oriented",
+      "finding": "Obama consistently pursued comprehensive legislative solutions: ACA as comprehensive healthcare reform (ev_002 'single longest extension in Medicare'), Dodd-Frank as systemic financial regulation (ev_003, ev_028), TPP as comprehensive trade architecture (ev_030), Clean Power Plan as regulatory overhaul (ev_040). When legislation failed, he shifted to executive orders as structural instruments within executive authority (ev_017, ev_019) rather than as temporary patches. He distinguished between drilling alone (insufficient) and comprehensive energy strategy (ev_005). However, 'rebuilding' here refers to policy institutional structures, not market resource configurations that Kirzner's framework typically analyzes.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_028",
+        "ev_030",
+        "ev_040",
+        "ev_017",
+        "ev_019",
+        "ev_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Evidence insufficient to assess metacognitive patterns under Kirzner framework",
+      "finding": "Obama's speeches contain reflective elements—admitting past trade deals 'haven't always lived up to the hype' (ev_027), attributing accomplishments to American people rather than himself (ev_032, ev_044, ev_045), expressing continued optimism about democracy and civic participation (ev_046, ev_047). However, Kirzner's metacognition concept concerns awareness of one's own opportunity recognition process—understanding when one has discovered something others have missed, monitoring for cognitive biases in opportunity assessment. The evidence shows Obama reflecting on political leadership and democratic participation, not on entrepreneurial discovery processes. Presidential address data does not provide insight into metacognition of market opportunity identification.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_alertness",
+      "definition": "The capacity to identify inefficiencies, coordination failures, or resource misallocation within political-administrative institutions and mobilize institutional tools to address them. This extends Kirzner's opportunity recognition concept from markets to governance structures, where the 'opportunity' is often collective rather than private gain. This emerges because the subject operates in political domain where entrepreneurial alertness manifests differently: identifying unexploited policy combinations, cross-sector coordination gaps, or institutional design failures rather than market price discrepancies.",
+      "finding": "Obama shows repeated evidence of identifying coordination gaps within governance structures: convening AFL-CIO and Chamber of Commerce together on transportation (ev_008), challenging private sector to hire veterans (ev_009), seeking Silicon Valley partnerships for government modernization (ev_037), and establishing Cancer Moonshot as cross-agency coordination mechanism (ev_042-43). His 'middle-out' economic philosophy (ev_021) represents identification of a policy-design gap where conventional wisdom emphasized top-down or bottom-up approaches. While not Kirzner's market entrepreneurship, this institutional alertness represents a parallel entrepreneurial function within his domain—discovering and coordinating resources around governance opportunities others had not systematized.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

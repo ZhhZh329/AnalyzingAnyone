@@ -1,0 +1,173 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_decision_operations_research",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High-structure, medium-initiative optimizer who shapes resource allocation within institutional constraints rather than fundamentally restructuring them",
+      "finding": "Obama consistently operates as an optimization agent within established political and institutional structures rather than as a revolutionary restructuring force. His approach involves identifying objectives, mapping constraints, and finding feasible solutions within the policy space—evidenced by his balanced deficit reduction framework (ev_013) which explicitly combines spending cuts with revenue measures, and his energy blueprint (ev_004) which rejects single-variable solutions ('drilling alone is not a real strategy') in favor of multi-objective optimization across domestic production, efficiency, and clean energy. Rather than reshaping the underlying game, he optimizes the parameters within it.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_013",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-pragmatic with strong preference for quantifiable metrics and performance benchmarking",
+      "finding": "Obama's epistemic approach centers on measurable outcomes and systematic benchmarking. His speeches are populated with specific numbers—57 months of job growth (ev_025), 11 million jobs created, Head Start cuts affecting specific populations (ev_014), CFPB recovery of $11 billion for 26 million consumers (ev_028), wind power tripled and solar 30x (ev_040). He routinely frames policy success through comparative performance metrics ('fastest rate since World War II' in ev_016; 'strongest job growth year since 1990s' in ev_018). This suggests a decision-making style anchored in quantifiable performance indicators rather than ideological purity or anecdotal evidence. The year-end 'Top 10' address format (ev_033) itself demonstrates a structured scoring methodology for evaluating progress.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-high formalization with tendency to compress complex multi-variable systems into prioritized optimization targets",
+      "finding": "Obama demonstrates a pattern of compressing complex policy domains into structured optimization frameworks. His 'middle-out' economic philosophy (ev_021) explicitly defines the objective function: 'We do better when the middle class does better.' His energy strategy frames a clear optimization target: 'cut oil imports by one-third by 2025.' The sequester replacement advocacy (ev_011, ev_012) treats deficit reduction as a constrained optimization problem with explicit tradeoffs between spending cuts and tax reform. However, his abstraction is not purely technical—he consistently humanizes the optimization targets by documenting real costs (parents losing Head Start access, seniors needing Meals on Wheels in ev_014). This suggests formalization in service of communication rather than pure mathematical modeling.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_021",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High system-control orientation focused on institutional design and sustained regulatory architecture rather than direct personal command",
+      "finding": "Obama's control orientation manifests through institutional mechanism design rather than direct command-and-control. The creation of the Consumer Financial Protection Bureau (ev_028) as an independent watchdog with specific enforcement mandate represents systems-level control. The Cancer Moonshot demonstrates cross-agency coordination architecture with explicit optimization targets for clinical trial enrollment (ev_043). His 'Year of Action' executive orders (ev_019) show proactive configuration of the executive apparatus to achieve policy objectives when legislative paths are blocked. He delegates operational leadership (Biden leads the Moonshot, ev_042) while maintaining strategic direction. His control is structural—designed to persist beyond his tenure—rather than personal.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_028",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission-optimization with willing acceptance of relational and political costs when core objectives are at stake",
+      "finding": "Obama demonstrates clear willingness to accept relational costs for mission optimization. His veto threat against any Wall Street Reform repeal (ev_029) accepts political confrontation to protect regulatory architecture. His refusal to negotiate over the debt ceiling (ev_015) treats certain constraints as non-negotiable hard boundaries. The sequester campaign (ev_011, ev_012) shows persistent public pressure despite Congress blocking his priorities—he documents real human costs to reframe the optimization problem rather than compromising. However, his relational cost acceptance has limits: he repeatedly attempts bipartisan framing (ev_008's AFL-CIO/Chamber of Commerce coalition) and celebrates Congressional cooperation when achieved (ev_048's 'Christmas miracles'). The mission cost tolerance appears calibrated—maximum pressure when core institutional or regulatory frameworks are threatened, but relational preservation when coalition-building remains viable.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-tolerant for systemic bets with clear expected value calculations, but risk-averse on institutional credibility and regulatory foundations",
+      "finding": "Obama exhibits a dual risk profile: strategic risk tolerance paired with institutional risk aversion. The auto industry rescue (ev_022) represents a calculated high-risk bet with clear success metrics—he explicitly claims credit for 'choosing to invest' when conventional wisdom expected decline. The TPP negotiation (ev_031) frames entering multi-year complex trade architecture as preferable to letting China 'write the rules.' Climate initiatives accept short-term political costs for long-term systemic benefit (ev_041). Conversely, on debt ceiling (ev_015) and financial regulation (ev_029), his risk posture becomes highly conservative—treating these as existential institutional questions where no compromise is acceptable. The sequester campaign shows risk calibrated to damage control rather than aggressive new ventures. This dual posture suggests expected value calculation under uncertainty, with explicit distinctions between domains where variance is acceptable versus catastrophic.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_022",
+        "ev_029",
+        "ev_031",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical authority leveraged for system design and institutional persistence, with emphasis on distributing rather than concentrating power",
+      "finding": "Obama's relationship to hierarchy reflects operational research's concern with resource and information flow across organizational nodes rather than vertical command. He systematically uses presidential authority to create durable institutional structures—CFPB, Clean Fleets Partnership with major corporations, Silicon Valley partnerships for government modernization (ev_037), Presidential Innovation Fellows embedded in the bureaucracy (ev_043). His Father's Day address (ev_005, ev_006) shows personal humility about fatherhood absence while simultaneously using the platform to announce White House partnerships. He publicly acknowledges Congressional obstruction (ev_010, ev_020) without attempting unilateral overrides except where executive authority is clearly established (contractor minimum wage in ev_017). The Moonshot leadership delegation to Biden (ev_042) demonstrates functional hierarchy use—assigning specialized actors to optimize different sub-problems. Power is conceived as institutional infrastructure, not personal dominance.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_020",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Integrated conflict management combining escalation threats for hard constraints with reframing and coalition-translation for negotiable disputes",
+      "finding": "Obama employs a layered conflict strategy: hard-line on structural constraints, reframing-translation on negotiable disputes. On debt ceiling (ev_015), sequester replacement (ev_012, ev_013), and Wall Street reform repeal (ev_029), he deploys explicit escalation threats—veto commitments, public pressure campaigns, framing opposition as irresponsible. The sequester campaign shows sophisticated conflict escalation: documenting specific damage metrics, identifying vulnerable populations as sympathetic targets, framing opponents as coldhearted rather than merely mistaken. On negotiable disputes, his conflict strategy shifts to translation and coalition-building—reframing minimum wage (ev_23) using small business owner surveys, transportation funding (ev_008) as bipartisan economic issue rather than partisan battle. His conflict resolution preference is system optimization: find the feasible solution that satisfies constraints, not win the argument.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_020",
+        "ev_023",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale optimization with explicit attention to multi-decade trajectories and institutional persistence design",
+      "finding": "Obama's time horizon consistently operates at mission-scale—multi-year to multi-decade optimization windows. The energy blueprint targets 2025 (ev_004); the Afghanistan transition targets 2014 (ev_010); Medicare solvency extension claims 'at least a dozen years' (ev_002). His Climate initiative (ev_041) frames Paris agreement as legacy 'to build upon' for future generations. The ACA framing emphasizes long-term institutional redesign over temporary fixes. His farewell address (ev_044, ev_047) explicitly frames ongoing civic engagement as 'over the full span of a lifetime' and commits to 'working along your side, as a citizen, for all my days that remain.' This suggests optimization designed for persistence—structures that outlast current administration, metrics that measure generational rather than quarterly progress.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_010",
+        "ev_041",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference manifested through institutional creation and regulatory architecture development",
+      "finding": "Obama demonstrates consistent preference for structural redesign over local repair. The ACA is fundamentally a system redesign—not a patch for individual uninsured, but a restructuring of the entire insurance market architecture with guaranteed issue, individual mandate, and exchanges. Dodd-Frank creates new institutional infrastructure (CFPB, FSOC, Volcker Rule) rather than incrementally adjusting existing regulations. The Cancer Moonshot builds cross-agency coordination architecture (ev_043) rather than simply increasing NIH funding. Government tech modernization (ev_037) represents systems redesign of federal IT infrastructure. When patch alternatives are offered (sequester as substitute for balanced deficit reduction), he rejects them on structural grounds—noting that sequester creates 'manufactured crises' (ev_048) rather than solving underlying fiscal imbalances. The 2014 Year of Action (ev_019) explicitly catalogs systemic interventions rather than case-by-case fixes.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_037",
+        "ev_043",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of epistemic limitations and strategic adjustment to constraint changes",
+      "finding": "Obama demonstrates notable metacognitive sophistication in several patterns. He explicitly acknowledges past trade deal failures while defending TPP (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype')—demonstrating awareness of previous model failures and explicit model revision. His farewell address shows sophisticated self-modeling (ev_044: 'Every day, I learned from you. You made me a better President, and you made me a better man')—explicit loop closure between experience and self-improvement. The 'middle-out' economic philosophy articulation (ev_021) suggests conscious modeling of economic causal structures. He demonstrates constraint recalibration—when Congress blocks minimum wage, he pivots to contractor minimum wage (ev_017); when Senate blocks nominations, he calls for procedural reform (ev_010). The government modernization initiative (ev_036, ev_037) represents explicit metacognition about institutional limitations: 'it's only as good as we make it' acknowledges the system is only as effective as its operators' self-awareness.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_021",
+        "ev_027",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "optimization_coalition_architecture",
+      "definition": "The capacity to construct cross-cutting optimization coalitions that redefine problem spaces from partisan conflict to shared-goal collaboration, thus expanding the feasible solution set beyond what either side could achieve alone",
+      "finding": "Obama exhibits a distinctive pattern of constructing optimization coalitions that reframe conflict zones. The AFL-CIO and Chamber of Commerce joint appearance (ev_008) represents deliberate coalition architecture to transform transportation funding from partisan battle into economic imperative. The Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, and PepsiCo (ev_004) assembles commercial competitors around shared energy infrastructure optimization. The veteran hiring challenge (ev_009) mobilized both federal government and private sector toward common hiring targets. This coalition architecture extends beyond simple compromise—it creates new solution spaces by redefining the optimization function to include previously opposed stakeholders' interests. It represents operations research's 'big M' modeling approach: by expanding the constraint set to include diverse actors, previously incompatible solutions become feasible.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_008",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_persistence_design",
+      "definition": "The intentional design of policies, agencies, and programs to outlast current political moment and generate sustained optimization even under adversarial subsequent administrations—engineering for resilience rather than temporary victory",
+      "finding": "A distinctive OR-informed pattern in Obama's governance is explicit institutional persistence design—creating structures optimized for longevity rather than immediate impact. The CFPB is explicitly designed as independent agency with structural protections (ev_028) to persist through administration changes. The Paris climate agreement framing (ev_041: 'something to build upon') explicitly calls for irreversible international architecture. Dodd-Frank's consumer protections include provisions explicitly designed to prevent future rollback (ev_029's veto commitment). The Cancer Moonshot builds technology infrastructure (Trials.Cancer.Gov in ev_043) and cross-agency coordination that persists beyond any individual's tenure. This represents OR's concern with system robustness under perturbation—designing solutions that remain optimal not just under current conditions but across a range of future scenarios including leadership changes.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_041",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

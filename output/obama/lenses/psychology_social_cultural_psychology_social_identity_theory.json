@@ -1,0 +1,167 @@
+{
+  "discipline": "psychology",
+  "lens": "social_cultural_psychology_social_identity_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who initiates ambitious policy programs while framing outcomes as collective American achievement",
+      "finding": "Obama consistently positioned himself as an active agent of change rather than a passive responder to events. He declared a 'Year of Action' (evt_015) with over 20 executive actions (ev_019), challenged private companies to hire 100,000 post-9/11 veterans (ev_009), and announced the Cancer Moonshot initiative (evt_026). Yet his rhetoric consistently credits 'the American people' as the true agents—'All of this progress is because of you' (ev_032)—creating a distinctive pattern of claiming institutional leadership while distributing moral agency outward. This suggests a world-shaping orientation exercised through institutional channels rather than personal dominance.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_019",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded but values-integrated; uses data to validate inclusive national narratives rather than to build technical consensus",
+      "finding": "Obama's statements consistently blend statistical evidence with broader moral framing. He cited specific achievements (11 million jobs created, $11 billion recovered for consumers, wind power tripled) (ev_025, ev_028, ev_033) but always within narratives emphasizing American values, collective resilience, and inclusive opportunity. His statement 'Our economy grows best not from the top-down, but from the middle-out' (ev_021) exemplifies this integration of economic data with philosophical commitment. This suggests an epistemic style that uses empirical evidence instrumentally within larger value-driven narratives rather than pursuing dispassionate technical reasoning.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_025",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; balances concrete policy specifics with elevated philosophical principles and inclusive national narratives",
+      "finding": "Obama demonstrates facility with both concrete policy details and abstract principles. He cited specific mechanisms (Medicare solvency extension, transportation funding deadlines, student loan rate timelines) (ev_002, ev_011) while simultaneously framing these as expressions of broader commitments ('Medicare isn't just a program—it's a commitment to America's seniors') (ev_001). His farewell address exemplifies this pattern, moving from specific accomplishments to philosophical reflections on civic participation and American promise (ev_044, ev_046, ev_047). This suggests comfortable oscillation between technical specificity and moral abstraction rather than preference for either extreme.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_011",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate; prefers persuasion and coalition-building over pure control, but willing to use institutional power when blocked",
+      "finding": "Obama generally pursued policy through persuasion and bipartisan framing ('This isn't a Democratic or a Republican issue—it's an American issue') (ev_008), working with unlikely coalitions including AFL-CIO and Chamber of Commerce. However, when persuasion failed, he demonstrated willingness to use institutional power: issuing veto threats against Wall Street Reform repeal (ev_029), signing executive orders on minimum wage (ev_017), and declaring he would 'not negotiate over the full faith and credit of the United States' (ev_015). This suggests a control orientation that uses institutional authority as a fallback when consensus-building is blocked rather than as a primary strategy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Prioritizes policy missions while maintaining rhetorical commitment to national unity and bipartisan possibility",
+      "finding": "Obama consistently prioritized major policy initiatives (ACA, Dodd-Frank, climate action, TPP) while maintaining rhetorical gestures toward bipartisan cooperation. He criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea') (ev_020) but never completely closed relational doors, framing disputes as obstacles to be overcome rather than enemies to be defeated. His statement on debt ceiling refusal ('I will not negotiate') (ev_015) was followed by continued calls for 'balanced' approaches suggesting ongoing relational availability. This suggests moderate mission-prioritization with maintained rhetorical investment in national unity framing.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-accepting in service of major initiatives but prefers calculated bets grounded in empirical evidence and broad coalitions",
+      "finding": "Obama accepted significant political risks on major initiatives: the auto industry bailout (ev_022), Iran nuclear deal (ev_034), and Paris climate agreement (ev_041). Yet these risks were calculated—supported by empirical evidence (auto industry recovery statistics, nuclear verification requirements) and framed within broadercoalitions (international partners, bipartisan Congressional support where achievable). His statement 'Drilling alone is not a real strategy' (ev_005) reflects willingness to reject popular短期 approaches in favor of evidence-based long-term positioning. This suggests a risk posture that accepts substantial but calculated bets when grounded in evidence and broad-based support.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_022",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchical; uses presidential authority as legitimate tool for national advancement rather than personal power accumulation",
+      "finding": "Obama consistently invoked institutional authority (presidential power, congressional responsibility, constitutional frameworks) as legitimate mechanisms for national advancement. He issued veto threats (ev_029), claimed executive action authority (ev_017, ev_019), and invoked founding fathers' intent ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned') (ev_010). Yet his rhetorical framing positioned this power use as serving democratic principles and national values rather than personal ambition. His statement 'I am even more optimistic about our country's promise' (ev_047) frames post-presidency continued engagement as civic rather than power-seeking. This suggests comfortable and legitimate use of hierarchical authority positioned within democratic values framing.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_029",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Default to translation/negotiation with selective escalation; transforms partisan conflicts into national challenges when possible",
+      "finding": "Obama's default conflict strategy involved transforming partisan disputes into national challenges ('This isn't a Democratic or a Republican issue—it's an American issue') (ev_008) and pursuing negotiation and coalition-building. He worked with unlikely allies (AFL-CIO and Chamber of Commerce together) (ev_008) and framed bipartisan achievements as 'Christmas miracles' (ev_048). However, when translation failed, he selectively escalated: issuing veto threats (ev_029), condemning Senate obstruction (ev_010), and declaring he would not negotiate on debt ceiling (ev_015). He distinguished between 'America is at war with al-Qaeda' not Islam (ev_012), showing capacity for precise conflict framing that separates antagonists from broader populations. This suggests translation as primary strategy with escalation held in reserve.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_012",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission scale with selective short-term crisis responsiveness; structural initiatives prioritized over immediate political calculations",
+      "finding": "Obama consistently oriented toward long-term structural changes: energy independence by 2025 (evt_004), Afghanistan transition by 2014 (evt_010), climate agreements spanning decades (ev_041), and deficit reduction framed in historical context ('fastest rate since the end of World War II') (ev_016). Yet he demonstrated willingness to respond to immediate crises: sequester warnings (evt_011, evt_012), transportation funding deadlines (evt_009), and debt ceiling confrontations (evt_013). His 'Year of Action' framing (evt_015) suggests impatience with long timelines when Congressional action stalled. This suggests a primarily long-term orientation with strategic responsiveness to immediate pressures when structural change is blocked.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_010",
+        "ev_016",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strongly prefers structural redesign over local repair; executive actions framed as systemic change rather than temporary fixes",
+      "finding": "Obama consistently pursued comprehensive structural reforms rather than incremental patching: ACA as complete healthcare system redesign, Dodd-Frank as complete financial regulatory overhaul, Paris climate agreement as global framework, TPP as writing global trade rules (ev_031). His executive orders were framed within 'Year of Action' (evt_015) as systematic agenda rather than reactive fixes. Even when blocked by Congressional inaction, his response was to announce comprehensive executive agendas ('more than 20 executive actions') (ev_019) rather than targeted workarounds. His framing of accomplishments as representing 'America's resurgence' (ev_024, ev_047) suggests orientation toward system-level transformation. This strongly indicates preference for structural redesign over local repair.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_031",
+        "ev_024",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High awareness of own reasoning processes and cognitive limitations; explicitly credits external input for improving judgment",
+      "finding": "Obama demonstrates notable metacognitive awareness in his farewell address: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He reflected on 'conversations with you, the American people—in living rooms and schools; at farms and on factory floors' (ev_044) as keeping him 'honest, kept me inspired, and kept me going.' His acknowledgment that 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) shows capacity to recognize limitations in his own positions. This suggests high metacognitive awareness—explicit recognition that his judgment improves through external input and that his positions have evolved through learning rather than rigid adherence to predetermined convictions.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Inclusive National Identity Entrepreneurship",
+      "definition": "Capacity and tendency to construct expansive 'we' narratives that include previously marginalized or unacknowledged groups as full members of the American national identity",
+      "finding": "Obama demonstrates distinctive capacity for constructing inclusive national identities that expand the boundaries of 'we.' He consistently incorporated veterans (evt_007, evt_024), working families (ev_017, ev_021), same-sex couples ('Love won') (ev_035), diverse communities, and Gold Star families (ev_039) into his inclusive American narratives. His own biography as a 'son of a Kenyan father who grew up without him' (ev_006) modeled the possibility of inclusive belonging. This 'identity entrepreneurship'—the capacity to construct new collective 'we' categories that include previously marginalized groups—represents a distinctive Social Identity Theory-relevant pattern not captured in the standard constructs. Evidence: ev_006, ev_007, ev_035, ev_038, ev_039.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_035",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Civic Partnership Orientation",
+      "definition": "Tendency to position oneself as collaborative partner with citizens rather than as sovereign leader or distant expert; distributes moral agency outward while claiming institutional responsibility",
+      "finding": "Obama consistently positioned himself as a partner with 'the American people' rather than as sovereign leader or detached expert. His rhetoric credited citizens as the true agents of change ('All of this progress is because of you—workers rolling up their sleeves...entrepreneurs starting new businesses') (ev_032). He sought input from citizens ('my conversations with you...are what have kept me honest') (ev_044), announced partnerships with businesses to support fatherhood (ev_006), and called for civic participation 'beyond elections' (evt_023). This 'civic partnership' orientation distributes moral agency to citizens while claiming institutional coordination responsibility—a distinctive pattern where leadership is framed as responsive to collective wisdom rather than as directive authority. This modifies how Social Identity Theory's 'agency orientation' operates: Obama's world-shaping is exercised through partnership framing rather than through heroic individual leadership.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

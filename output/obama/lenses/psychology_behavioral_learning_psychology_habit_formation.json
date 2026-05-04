@@ -1,0 +1,162 @@
+{
+  "discipline": "psychology",
+  "lens": "behavioral_learning_psychology_habit_formation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who adapts tactics when structural constraints tighten",
+      "finding": "Obama demonstrates consistent agency through proactive agenda-setting—declaring 'Year of Action' (ev_019), announcing Cancer Moonshot initiative (ev_042), and issuing public challenges like hiring 100,000 veterans by 2013 (ev_009). However, his agency shows adaptive flexibility: when Congress blocked legislative priorities, he systematically pivoted to executive actions (ev_017, ev_019) while maintaining rhetorical pressure. This suggests an internalized operational principle: the environment may constrain, but behavioral momentum should not stop—it should reroute through available channels. His repeated framing of American resilience ('America's resurgence is real') positions collective agency as trainable and reproducible rather than dependent on singular willpower.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_024",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-informed belief former who acknowledges epistemic humility on past performance",
+      "finding": "Obama's statements reveal a pattern of grounding beliefs in verifiable metrics—he cites specific employment figures (11 million jobs over 57 months, ev_025), precise policy outcomes ($11 billion recovered for 26 million consumers, ev_028), and time-bound targets (one-third oil import reduction by 2025, ev_004). Notably, he demonstrates epistemic humility when acknowledging 'past trade deals haven't always lived up to the hype' (ev_027)—a self-aware concession that indicates he distinguishes between intended and actual outcomes. This suggests his belief formation process weighs evidence systematically rather than relying on ideological coherence alone.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstract reasoning with consistent effort to formalize into institutional structures",
+      "finding": "Obama shows marked preference for abstract frameworks applied to concrete problems: 'middle-out' economics (ev_021), the 'America is at war with al-Qaeda, not Islam' distinction (ev_012), and framing government as 'the best tool we've got to settle our differences' (ev_036). Crucially, he consistently attempts to formalize abstractions into durable institutions—establishing CFPB for consumer protection (ev_028), creating Presidential Innovation Fellows for government modernization (ev_037), and building clinical trial infrastructure through Cancer Moonshot (ev_043). This pattern indicates that for Obama, abstraction gains value precisely when embedded in formal systems that persist beyond personal engagement.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_028",
+        "ev_036",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control through structural design and institutional friction reduction",
+      "finding": "Obama demonstrates control orientation primarily through institutional design rather than direct behavioral control. He establishes independent watchdogs (CFPB, ev_028), sets measurable targets with deadlines (transportation funding 7 days away, ev_011), and creates accountability mechanisms like the veterans hiring challenge (ev_009). His control style is notably systemic—he reduces environmental friction for desired behaviors (creating Trials.Cancer.Gov for clinical trial access, ev_043) rather than relying on willpower appeals. This aligns with habit formation theory: he designs context for automaticity rather than hoping for sustained motivation.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_011",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-dominant with calculated tolerance for relational strain",
+      "finding": "Obama prioritizes mission achievement even when it generates relational costs. He maintains strong criticism of Congressional Republicans who 'blocked or voted down every serious idea' (ev_020) and issues definitive veto threats on Wall Street Reform (ev_029). His 2013 debt ceiling stance—'I will not negotiate over the full faith and credit' (ev_015)—sacrificed short-term relational harmony for systemic stability. However, he balances this with persistent bipartisan rhetoric ('This isn't a Democratic or a Republican issue,' ev_008) and AFL-CIO/Chamber of Commerce coalitions. This suggests mission prioritization calibrated to preserve eventual cooperation pathways rather than burning relational bridges entirely.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse through institutional hedging and multilateral burden-sharing",
+      "finding": "Obama's approach to risk shows systematic preference for structural safeguards over unilateral bets. His Iran nuclear deal and Paris climate agreement both reflect risk distribution through multilateral frameworks—reducing American exposure by embedding commitments in international institutions (ev_034). Domestically, Dodd-Frank's creation of consumer protections (ev_028) and the 'no taxpayer bailouts' commitment represent institutional hedging against crisis recurrence. His veto threat language ('we've worked too hard to recover from one crisis only to risk another,' ev_029) frames risk as avoidable through structural discipline. This suggests a risk posture that treats institutional design as primary risk mitigation tool.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Formal authority maximizer with creative institutional expansion",
+      "finding": "Obama uses formal power structures systematically: executive orders to establish contractor minimum wage (ev_017), veto threats to signal red lines (ev_029), and creation of new institutional actors like the CFPB to extend executive reach (ev_028). His Presidential Innovation Fellows program (ev_043) represents creative institutional design—borrowing external expertise into governmental structure. Notably, he treats hierarchy as a tool for public goods provision rather than personal advantage ('government as the best tool to settle differences,' ev_036). This power usage pattern aligns with institutional habit formation: creating repeatable structures that reduce reliance on individual authority.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "ev_029",
+        "ev_036",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate-negotiate hybrid with clear red lines on systemic issues",
+      "finding": "Obama's conflict approach shows sophisticated tactical layering. He consistently attempts translation—framing issues across partisan lines (AFL-CIO and Chamber of Commerce together on transportation, ev_008)—while maintaining negotiation posture even during criticism ('Republicans said no to minimum wage, equal pay, unemployment insurance,' ev_020). His red lines are strategically placed: debt ceiling is non-negotiable (ev_015), but he pursues bipartisan budgets when possible (ev_048). This suggests conflict strategy calibrated by issue type: process issues remain negotiable, systemic stability issues receive hard boundaries. The pattern indicates learned conflict escalation control—a habit of restraint rather than maximum pressure.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale optimization with institutional mechanisms for post-tenure persistence",
+      "finding": "Obama's time horizon consistently extends beyond immediate terms: energy goals target 2025 (ev_004), veterans hiring challenge extended to 2013 (ev_009), Cancer Moonshot designed as ongoing initiative (ev_042-043). Most revealing for habit formation analysis, he explicitly builds mechanisms intended to outlast his presidency—CFPB as independent agency (ev_028), government modernization through institutional partnerships (ev_037), climate framework through Paris agreement (ev_041). His farewell address calling for 'civic participation over the full span of a lifetime' (ev_046) suggests internalized long-term thinking as a personal habit he advocates transferring to citizens. This indicates a leader who thinks in institutional half-lives rather than news cycles.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_028",
+        "ev_037",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over symptomatic treatment",
+      "finding": "Evidence consistently shows Obama favoring systemic solutions over patchwork fixes. On sequester, he repeatedly advocates 'balanced deficit reduction' (ev_013) rather than temporary patches. His economic philosophy explicitly rejects trickle-down: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). His approach to trade acknowledges past failures but proposes comprehensive new frameworks rather than incremental corrections (ev_027). This rebuild orientation extends to personal behavior: his Father's Day address frames fatherhood as learned practice requiring consistent engagement ('assistant coach for Sasha's basketball team,' ev_007) rather than symbolic gestures. The pattern suggests cognitive commitment to systemic causation over correlation-based interventions.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_013",
+        "ev_021",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated self-correction capacity",
+      "finding": "Obama's farewell address reveals strong metacognitive patterns: 'Every day, I learned from you. You made me a better President' (ev_044). He demonstrates awareness of feedback loops—attributing progress to collective action ('It's you—the American people,' ev_032) rather than hero narrative. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows self-monitoring of implementation gaps. Critically, he appears aware of behavioral persistence mechanisms—his emphasis on institutional structures over personal authority reflects understanding that individual willpower is less reliable than designed systems. His call for 'continued civic participation' beyond elections (ev_046) suggests metacognitive transfer: he recognizes that democratic habits require the same environmental cue-and-reward design he applies to policy.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_habit_transfer",
+      "definition": "The capacity to translate personal behavioral disciplines into durable organizational routines that persist without the founder's direct involvement. This goes beyond simple 'institutionalization'—it specifically captures how individuals export their internal habit architecture (cue-routine-reward loops, environmental design, accountability structures) into organizational forms.",
+      "finding": "Obama demonstrates strong institutional habit transfer through CFPB's independent consumer protection function (ev_028), Cancer Moonshot's cross-agency task force model (ev_043), and government modernization via Presidential Innovation Fellows (ev_037). His personal discipline of measurable goal-setting, deadline management, and systematic evaluation appears systematically embedded in these institutions. His farewell address implicitly endorses this transfer—calling for citizenship habits that persist 'over the full span of a lifetime' (ev_046) suggests he understands that sustainable impact requires designing behavioral architectures others can operate within. This emergent dimension captures Obama's distinctive contribution: not just creating institutions, but populating them with self-sustaining behavioral programs.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_037",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

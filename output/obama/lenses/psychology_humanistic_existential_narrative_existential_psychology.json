@@ -1,0 +1,165 @@
+{
+  "discipline": "psychology",
+  "lens": "humanistic_existential_narrative_existential_psychology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with pragmatic institutional engagement",
+      "finding": "Obama consistently positioned himself as an active agent working to shape outcomes rather than merely respond to circumstances. The 'Year of Action' declaration (ev_019) and executive order on minimum wage (ev_017) demonstrate his willingness to use presidential power unilaterally when institutional consensus proved impossible. However, his agency orientation was tempered by a belief that democratic legitimacy requires broad participation—he repeatedly called on Congress, framed issues as 'American' not partisan problems (ev_008), and credited collective action for accomplishments (ev_032). This suggests a world-shaping orientation that works through and seeks to amplify democratic institutions rather than bypass them.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_017",
+        "ev_008",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic rationalist with acknowledged epistemic humility",
+      "finding": "Obama displayed a rationalist epistemic style grounded in evidence and practical outcomes. He cited specific statistics (11 million jobs over 57 months, ev_025; $11 billion recovered for consumers, ev_028), documented real costs of policy failures (ev_014), and framed arguments in terms of measurable results. Notably, he demonstrated epistemic humility by acknowledging past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This suggests beliefs formed through evidence evaluation rather than ideological commitment, with willingness to update views when confronted with reality.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_014",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for systematization with coherent philosophical frameworks",
+      "finding": "Obama consistently demonstrated preference for abstraction and systematic approaches. He articulated the 'middle-out' economic philosophy as an integrated worldview (ev_021), developed comprehensive frameworks for energy security (evt_004), and framed healthcare reform, Dodd-Frank, and climate action as parts of interconnected systems requiring structural solutions. The 2015 year-end address (evt_022) displayed formal enumeration of accomplishments as a coherent narrative. His abstraction capacity served his communicative function—translating complex policy into accessible philosophy—while also reflecting genuine integration of policy domains.",
+      "evidence_ids": [
+        "ev_021",
+        "evt_004",
+        "evt_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation channeled through institutional mechanisms",
+      "finding": "Obama sought control primarily through institutional means rather than personal dominance. He drew clear lines on non-negotiable matters (debt ceiling, ev_015; veto threats on Wall Street reform repeal, ev_029) while otherwise working within institutional constraints. His control orientation expressed itself as insistence on process integrity and principled positions rather than micromanagement. The Presidential Innovation Fellows initiative (ev_043) demonstrates systems-level thinking about institutional control mechanisms. He was willing to accept limitations of his office while maintaining clarity about core commitments.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with calculated willingness to bear relational costs",
+      "finding": "Obama prioritized stated missions (middle-class opportunity, healthcare security, veteran support) over relational comfort with political opponents. He explicitly criticized Republican obstruction (ev_020), took executive actions bypassing Congressional resistance (ev_019), and declared willingness to use veto power (ev_029). However, his mission orientation was balanced by genuine commitment to process legitimacy—he sought AFL-CIO and Chamber of Commerce agreement (ev_008), framed issues as national rather than partisan, and credited Congressional cooperation in his farewell (ev_048). The relational costs were acceptable when structural obstacles blocked mission achievement, but he preferred legitimate institutional paths when available.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_019",
+        "ev_029",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker anchored in long-term confidence",
+      "finding": "Obama pursued high-risk initiatives (ACA implementation, Dodd-Frank, TPP negotiation) with calculated confidence. He acknowledged uncertainty ('I'm the first to admit,' ev_027) while maintaining forward commitment. His risk posture was distinctive in combining acceptance of uncertainty with genuine optimism: 'Pick any metric you want—America's resurgence is real' (ev_024). The Cancer Moonshot (evt_026, ev_042) exemplifies his willingness to pursue ambitious goals with unproven methods. His risk-taking was bounded by principled lines—debt ceiling was non-negotiable (ev_015)—and informed by documented assessment of consequences.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_024",
+        "evt_026",
+        "ev_042",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Comfortable with institutional power used for progressive ends",
+      "finding": "Obama demonstrated sophisticated relationship with hierarchy—he embraced presidential authority while calling for institutional reform. He challenged Senate obstruction as contrary to founders' intent (ev_010) while asserting executive power through orders and initiatives. His use of power was consistently framed as serving democratic legitimacy rather than personal dominance: 'Our founders trusted us with the keys to this system of self-government' (ev_036). He treated power as instrument for collective problem-solving, not as end in itself, and appeared to view hierarchical position as responsibility rather than privilege.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferring translation and negotiation, willing to escalate when necessary",
+      "finding": "Obama's conflict strategy favored translation—reframing issues in accessible terms—over escalation or suppression. He translated economic policy into 'middle-out' philosophy (ev_021), made technical issues legible to general audiences, and sought bipartisan framing wherever possible (ev_008). However, when translation failed and structural opposition persisted, he escalated appropriately: executive actions, veto threats, clear lines on debt ceiling (ev_015). He avoided character assassination or personal conflict while maintaining programmatic opposition. His conflict approach was patient but firm, exhausting institutional paths before unilateral action.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_008",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term and mission-scale orientation with intergenerational framing",
+      "finding": "Obama consistently optimized for mission-scale horizons extending beyond immediate political cycles. Healthcare reform (evt_001), climate action (evt_025), and infrastructure (evt_006) framed outcomes in decades. His Paris climate agreement framing—'leave a better, cleaner, safer future for our children' (ev_041)—explicitly invoked intergenerational responsibility. Even tactical issues (sequester replacement, transportation funding) were discussed in context of broader structural goals. The Cancer Moonshot (evt_026, ev_042) exemplifies commitment to long-horizon missions requiring sustained institutional capacity. His farewell address articulated continued engagement 'for all my days that remain' (ev_047).",
+      "evidence_ids": [
+        "evt_001",
+        "evt_025",
+        "evt_006",
+        "ev_041",
+        "evt_026",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Clear preference for structural redesign over incremental repair",
+      "finding": "Obama consistently favored comprehensive structural solutions over local patches. ACA redesigned healthcare financing entirely (evt_001), Dodd-Frank restructured financial regulation (evt_002), energy Blueprint aimed at systemic transformation (evt_004). Even in crisis moments—sequester replacement, budget negotiations—he advocated 'balanced' approaches addressing root causes (ev_013). Executive actions, while seemingly tactical, were framed as systematic: 'over 20 executive actions' (ev_019) as coherent agenda. The one-area repair might apply to temporary fixes (FAA funding, ev_012) but these were explicitly positioned as inadequate substitutes for structural solutions.",
+      "evidence_ids": [
+        "evt_001",
+        "evt_002",
+        "evt_004",
+        "ev_013",
+        "ev_019",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated self-monitoring",
+      "finding": "Obama demonstrated notable metacognitive capacity through multiple patterns. He explicitly credited others for accomplishments, stating progress came from American people (ev_032, ev_044), indicating awareness of his own role as amplifiction rather than origin. His acknowledgment of past trade deal failures (ev_027) shows capacity to recognize his own prior limitations. The farewell address reflects genuine self-assessment: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He expressed nuanced awareness of institutional dynamics (Senate obstruction, ev_010) and personal limits, framing himself within larger processes rather than as autonomous agent.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_027",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Existential Faith in Democratic Collective Efficacy",
+      "definition": "The degree to which someone holds an existential conviction that democratic participation and collective action can meaningfully address shared challenges. This goes beyond instrumental belief in democracy as efficient governance—it captures a deeper existential stance toward human capacity for organized problem-solving.",
+      "finding": "Obama's rhetoric consistently displayed an existential faith that democratic institutions and collective action could address large-scale challenges. This manifested in framing government as 'the best tool we've got' (ev_036), crediting 'the American people' for all progress (ev_032), and expressing gratitude to citizens for keeping him honest (ev_044). This faith was not naive—he acknowledged obstruction, documented costs of inaction, and used executive action when processes failed—but it remained the animating conviction. His farewell expression of renewed optimism ('Eight years later, I am even more optimistic,' ev_047) suggests this existential stance strengthened rather than weakened over time. This dimension is distinct from agency orientation because it captures the target of agency (collective democratic processes) rather than the disposition toward acting.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_032",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Biographical-Mission Integration",
+      "definition": "The degree to which personal biography—including experiences of loss, absence, or marginalization—is consciously integrated into public mission and purpose. This represents existential work of meaning-making: transforming private suffering into public contribution.",
+      "finding": "Obama demonstrated remarkable biographical-mission integration in his Father's Day address, stating 'I grew up without my father around... I wondered what my life would have been like had he been a greater presence' (ev_006). Rather than treating this as private pain, he converted it into public advocacy for fatherhood, announcing White House partnerships to support father-child bonding (evt_005), and serving as assistant coach for his daughter's basketball team (ev_007). This integration exemplifies Frankl's meaning-making principle: the personal experience of loss became the foundation for broader commitment to family stability and paternal presence. This dimension captures a specific form of existential integration that standard agency or mission constructs don't fully capture—the translation of private wound into public service.",
+      "evidence_ids": [
+        "ev_006",
+        "evt_005",
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

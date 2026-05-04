@@ -1,0 +1,146 @@
+{
+  "discipline": "philosophy",
+  "lens": "existentialism_heidegger",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder working within and against institutional constraints rather than world-transformer",
+      "finding": "Obama's presidential rhetoric consistently positions him as navigating rather than transcending structural constraints. He repeatedly references Congressional inaction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea'), external opposition, and institutional limits. His executive actions are framed as responses to legislative deadlock ('Year of Action' in ev_019), not as fundamental transformations of the political structure itself. This suggests Obama operates primarily in the mode of working with and against existing structures rather than fundamentally reshaping the world. His agency orientation remains bounded by what is institutionally feasible, even when frustrated by those bounds.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Present-at-hand comprehension through rational deliberation and empirical framing rather than existential understanding",
+      "finding": "Obama's speeches demonstrate a predominantly theoretical, explanatory relationship with the world. He cites statistics (11 million jobs over 57 months, ev_025), presents policy rationales (why Dodd-Frank protects consumers, ev_028), and frames situations in terms of measurable outcomes. This aligns with Heidegger's 'present-at-hand' (Vorhandenheit) mode—treating things as objects of理论 calculation rather than being 'operationally involved' with them as in 'ready-to-hand' (Zuhandenheit). Obama's rhetoric is consistently of explaining, justifying, and demonstrating rather than being absorbed in practical engagement with situations. His frequent use of data-driven arguments suggests an epistemic style grounded in calculative rationality rather than existential understanding.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High preference for abstraction, systematic policy frameworks, and formal institutional approaches",
+      "finding": "Obama operates extensively in the realm of policy abstraction. His speeches invoke formal systems—deficit reduction frameworks (ev_013), tax reform (ev_003), trade agreements (TPP in ev_030), healthcare legislation (ACA in ev_002). He speaks of 'middle-out' economics as a systematic philosophy (ev_021). This formalization extends to treating social problems as requiring institutional solutions: the sequester as requiring 'balanced deficit reduction,' energy policy as requiring a 'Blueprint,' veteran employment as requiring Congressional action. Obama frames reality through structured policy categories rather than concrete, situational engagement. His abstraction level is consistently high, treating governance as the administration of formal systems.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_021",
+        "ev_030",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation constrained by institutional limits; willingness to use available mechanisms",
+      "finding": "Obama demonstrates a qualified control orientation—he uses the tools available to a president (veto threats, executive orders, public appeals) but frames these within limits. His statement that he 'will not negotiate over the full faith and credit of the United States' (ev_015) shows resolute control on core issues. His executive order on federal contractor minimum wage (ev_017) shows willingness to act within presidential authority. However, this control is repeatedly bounded—by Congress, by partisan opposition, by institutional constraints. Obama doesn't push beyond what the office permits; he works within authorized channels to assert control where possible. His 'balanced approach' rhetoric (ev_013) suggests control through compromise rather than unilateral assertion.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing when core principles at stake; willing to bear relational strain",
+      "finding": "Obama shows willingness to prioritize mission over relational comfort when fundamental principles are at stake. His refusal to negotiate over the debt ceiling (ev_015) indicates he will accept significant political confrontation rather than compromise core commitments. His veto threat against Wall Street Reform repeal (ev_029) shows similar resolve. However, his general rhetoric favors consensus-building ('balanced approach'), suggesting he prefers to minimize relational costs when possible. The mission takes precedence when the issue touches what he frames as inviolable—America's creditworthiness, consumer protections, healthcare commitments—but he otherwise seeks cooperative framing.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse, preferring incremental progress and measured approaches over bold unilateral action",
+      "finding": "Obama's risk posture is notably cautious. His consistent 'balanced approach' framing (ev_013) reflects avoidance of risky unilateral moves. The TPP negotiation over five years (ev_030) represents prolonged, careful navigation rather than rapid transformation. He works within existing structures (ACA through established healthcare institutions, Dodd-Frank through existing regulatory frameworks) rather than attempting revolutionary changes. When confronted with Congressional opposition, he turns to executive action within authorized limits rather than confrontational escalation. This risk posture suggests a leader who prefers incremental institutional progress over transformative leaps—working with the grain of existing systems rather than against them.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_030",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Accepts hierarchical structures; works within institutional authority rather than challenging power distributions",
+      "finding": "Obama operates within and through established hierarchies rather than challenging their structure. He uses presidential authority but doesn't fundamentally question the power distribution between branches of government. His complaints about Senate obstruction (ev_010) are framed as contrary to the founders' intent, implying the system is correct but malfunctions—never that the system itself requires transformation. His rhetoric about 'democracy' (ev_036) frames government as a tool entrusted by founders, accepting the basic hierarchical structure. Obama works to exercise power within existing hierarchies rather than reimagining who holds power or how it's distributed. His appeal to bipartisan cooperation suggests acceptance of the legitimacy of existing power structures.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Predominantly negotiate and delay; appeals to consensus and balanced approaches rather than escalation",
+      "finding": "Obama's conflict strategy centers on negotiation, delay, and framing conflicts as requiring compromise. His 'balanced approach' rhetoric (ev_013) systematically reframes conflict as needing synthesis rather than resolution through confrontation. He criticizes obstruction (ev_020) but doesn't escalate to direct confrontation. His public appeals (campaigning for jobs, minimum wage) serve as delay tactics while building pressure. When forced to assert position (debt ceiling in ev_015), he does so firmly but still frames it within institutional language. Obama rarely splits, suppresses, or escalates conflicts directly—his typical mode is to reframe opposition as unreasonable obstruction, appeal to broader consensus, and wait for political conditions to shift. His conflict style is managerial rather than confrontational.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Medium to long-term orientation focused on generational impacts and multi-year policy trajectories",
+      "finding": "Obama's temporal orientation extends to generational time horizons. His climate rhetoric references 'low-carbon future' for children (ev_041), 'leaving a better, cleaner, safer future.' His economic framing references decades-long trends (ev_024: 'decades-long erosion of middle-class jobs'). His energy policy targets 2025 (evt_004). He reflects on 11th anniversary of 9/11 (evt_010), discusses 45 years of Cancer Moonshot progress (ev_042). However, his day-to-day rhetoric also engages immediate deadlines (sequester in ev_011, transportation funding in ev_009). Obama balances near-term crisis management with medium to long-term policy trajectories. His time horizon appears mission-scale but grounded in achievable electoral-cycle progress—a president thinking beyond immediate politics but constrained by the need for demonstrable results within his term.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_024",
+        "ev_042",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for reform within existing structures over fundamental redesign",
+      "finding": "Obama consistently prefers patching to rebuilding. His signature policies—ACA, Dodd-Frank, TPP—all operate within and reform existing institutional frameworks rather than replacing them. ACA works through the existing insurance system; Dodd-Frank reforms existing financial regulation; TPP modifies trade relations through established mechanisms. There's no evidence of Obama attempting fundamental redesign of American political-economy. His rhetoric about 'strengthening Medicare' (ev_001) preserves the program while reforming it. His 'balanced deficit reduction' (ev_013) works within existing entitlement structures. Obama systematically chooses reform over revolution, incremental improvement over structural redesign. His preference is clearly patch over rebuild, reform within inherited frameworks over transformation of those frameworks.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_013",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness within established frames; can reflect on limitations but not on fundamental framework itself",
+      "finding": "Obama demonstrates meaningful self-awareness—he acknowledges past trade deals 'haven't always lived up to the hype' (ev_027), credits American people rather than himself for accomplishments (ev_032), reflects on learning from citizens making him 'a better President and a better man' (ev_044). His personal references to fatherless upbringing (ev_006) and coaching his daughter's basketball team (ev_007) show capacity for authentic self-reference. However, this metacognition remains within established frames—Obama reflects on his experience and limitations but not on the fundamental structure of his political approach. He doesn't question the framework of presidential leadership, representative democracy, or market-based solutions even when outcomes are mixed. This is metacognition within das Man, not the authentic self-reflection Heidegger associates with confronting one's ownmost possibilities. Obama knows himself within his role but doesn't fundamentally interrogate that role's assumptions.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_006"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "resolute_commitment_to_committed_engagement",
+      "definition": "The capacity to maintain forward commitment to public involvement despite having the existential option to withdraw—distinguishing authentic engagement from mere role-fulfillment",
+      "finding": "Heidegger's concept of 'Resoluteness' (Entschlossenheit) involves the ownmost possibility one chooses. Obama's farewell address demonstrates something akin to this: having completed eight years as President, he chooses continued civic engagement ('I look forward to working along your side, as a citizen, for all my days that remain,' ev_047) rather than withdrawal. This choice is significant because the institutional role of President could have become the totality of his existence (the 'They' absorbing all possibilities). Instead, he explicitly commits to ongoing involvement beyond the office. This suggests a form of resoluteness—not against death (which Obama rarely addresses) but against the closure that institutional identity might represent. His 'call for continued civic participation' (ev_046) frames citizenship as a perpetual commitment beyond electoral cycles. This emergent dimension captures Obama's capacity to project ongoing engagement as his chosen possibility rather than settling into the comfort of post-presidential retirement within established fame structures.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_047",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

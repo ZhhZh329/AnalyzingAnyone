@@ -1,0 +1,164 @@
+{
+  "discipline": "psychology",
+  "lens": "personality_individual_differences_big_five_traits",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency - Obama consistently acted as a world-shaper, pursuing ambitious policy agendas and taking executive action when Congress obstructed.",
+      "finding": "Obama exhibited strong proactive agency throughout his presidency. He declared a 'Year of Action' (evt_015) and took over 20 executive actions to bypass Congressional obstruction (ev_019). He pursued transformative legislation including the ACA, Dodd-Frank, and TPP, and set long-term national goals like energy independence by 2025 (evt_004) and the Cancer Moonshot (evt_026). His communication emphasized collective capability: 'Our economy depends on a financial system in which everyone competes on a level playing field' (ev_003), suggesting he saw himself as actively shaping systems rather than merely responding to events. The evidence indicates high agency orientation with progressive policy ambition.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_003",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical and adaptive - Obama formed beliefs through evidence-seeking and demonstrated intellectual humility about complexity.",
+      "finding": "Obama's epistemic style shows evidence-based pragmatism with acknowledged uncertainty. He cited specific statistics extensively (ev_025: '11 million new jobs over 57 months', ev_040: 'wind power threefold, solar thirtyfold') and sought input from diverse stakeholders including AFL-CIO and the Chamber of Commerce simultaneously (ev_008). Notably, he demonstrated intellectual humility: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He consulted Silicon Valley experts to 'modernize the federal government' (ev_037) and explicitly valued learning from citizens: 'Every day, I learned from you. You made me a better President' (ev_044). This pattern indicates empirical, adaptive cognition rather than rigid ideological commitment.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_037",
+        "ev_044",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High - Obama operated comfortably at systemic and conceptual levels while translating abstract principles into concrete policy frameworks.",
+      "finding": "Obama consistently engaged with complex policy architecture and long-term systemic thinking. He articulated the 'middle-out' economic philosophy (ev_021) as an abstract organizing principle, negotiated the Paris climate agreement covering nearly 200 nations (ev_034), and framed TPP as determining 'who writes the rules of the global economy' (ev_031). His Cancer Moonshot (evt_026) represented institutional innovation across multiple agencies (ev_043). Yet he also grounded abstraction in concrete metrics: 'Medicare isn't just a program. It's a commitment' (ev_001). The evidence indicates strong abstraction capacity balanced with practical implementation orientation.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_034",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High - Obama sought institutional control and maintained firm positions on core principles while strategically employing executive authority.",
+      "finding": "Obama demonstrated strong control orientation through institutional mechanisms. He declared: 'I will not negotiate over the full faith and credit of the United States' (ev_015) and issued definitive veto threats against Wall Street Reform repeal (ev_029: 'I will veto it'). He used executive orders to raise contractor minimum wage to $10.10/hour (ev_017) when Congress blocked legislative action. Yet he also sought control through coalition-building, citing bipartisan support including AFL-CIO and Chamber of Commerce (ev_008). His 'Year of Action' framing (evt_015) reflected systematic control-seeking when institutional channels failed. This pattern suggests high internal locus of control combined with strategic deployment of available tools.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with relational awareness - Obama prioritized policy goals but invested in inclusive framing to minimize relational costs.",
+      "finding": "Obama's behavior reveals mission prioritization with sophisticated relational awareness. He directly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020). He declared war on cancer, climate change, and economic inequality as explicit missions. However, he consistently framed goals in inclusive terms: 'We're the United States of America' (ev_012), 'the American people' as collective agents (ev_032). He sought bipartisan coalitions (ev_008) and attributed progress to others rather than claiming individual credit (ev_044: 'You made me a better President'). This suggests mission priority with calibrated relational investment rather than either pure mission focus or pure relational preservation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_012",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk-taking - Obama pursued ambitious transformative goals but employed strategic patience and incremental tactics when necessary.",
+      "finding": "Obama exhibited calculated risk-taking balanced with strategic patience. He pursued transformative healthcare reform (ACA), Wall Street regulation (Dodd-Frank), and international climate agreements - inherently risky ventures. Yet he showed pragmatic adaptation: 'Year of Action' emerged when legislative paths blocked (evt_015), and executive orders provided fallback mechanisms (ev_017, ev_019). He acknowledged uncertainty: 'past trade deals haven't always lived up to the hype' (ev_027) while proceeding with TPP. His patient persistence is evidenced by multi-year negotiations (TPP: 5 years, climate: Paris agreement success). This pattern indicates moderate risk tolerance with strategic hedging and adaptive implementation.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_019",
+        "ev_030",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated - Obama used institutional authority strategically while framing power in service of collective goals and democratic principles.",
+      "finding": "Obama demonstrated nuanced relationship with hierarchical power. He invoked presidential authority firmly: veto threats (ev_029), debt ceiling principles (ev_015), Commander-in-Chief obligations (ev_038). Yet he consistently framed power in service of democratic values: 'our founders trusted us with the keys to this system of self-government' (ev_036) and emphasized institutional legitimacy over personal authority. He sought legitimacy through bipartisan coalitions (ev_008) and public mandate: 'America's resurgence is real' (ev_024). He described leadership as learning from citizens rather than commanding them (ev_044). This suggests sophisticated power deployment oriented toward democratic legitimation and institutional sustainability.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_036",
+        "ev_008",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Strategic confrontation with negotiation - Obama directly confronted opposition while maintaining openings for cooperation.",
+      "finding": "Obama employed strategic confrontation balanced with ongoing negotiation. He directly criticized Congressional obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He enumerated Republican blocks: 'said 'no' to raising the minimum wage, 'no' to equal pay, 'no' to restoring unemployment insurance' (ev_020). He refused to negotiate on debt ceiling (ev_015). Yet simultaneously, he sought bipartisan coalitions (ev_008: AFL-CIO and Chamber of Commerce together), celebrated Congressional cooperation as 'Christmas miracles' (ev_048), and framed conflict as principled rather than personal. This pattern indicates confrontational stance with maintained negotiation openings - neither pure avoidance nor escalating aggression.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term - Obama's initiatives consistently targeted multi-year outcomes with sustained strategic patience.",
+      "finding": "Obama consistently operated with long-term time horizons across policy domains. His energy blueprint targeted 2025 (evt_004), TPP negotiations spanned 5 years (ev_030), and the Cancer Moonshot represented decade-scale commitments. He explicitly framed multi-year deficit reduction: 'our deficits are already falling at the fastest rate since the end of World War II' (ev_016) and projected ahead: 'Together, we can leave a better, cleaner, safer future for our children' (ev_041). His final address called for civic engagement 'over the full span of a lifetime' (ev_046). The evidence indicates consistent long-term orientation with patience for extended implementation timelines.",
+      "evidence_ids": [
+        "ev_030",
+        "ev_016",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Rebuild-oriented - Obama pursued structural institutional redesign rather than incremental adjustments when pursuing policy goals.",
+      "finding": "Obama consistently favored structural solutions over incremental patches. The ACA represented fundamental healthcare system redesign; Dodd-Frank established comprehensive financial regulation architecture. His 'Year of Action' executive actions aimed to create new pathways when Congressional cooperation failed (ev_019). The Cancer Moonshot established cross-agency task forces and technological infrastructure (ev_043). He explicitly rejected partial solutions: 'Drilling alone is not a real strategy to replace our dependence on foreign oil' (ev_005). His energy blueprint combined multiple systemic interventions (clean fleets, fuel efficiency, domestic production). This pattern indicates preference for structural redesign over local repair or incremental adjustment.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_043",
+        "ev_005",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High - Obama demonstrated strong awareness of his own thinking, acknowledged uncertainty, sought feedback, and reflected on lessons learned.",
+      "finding": "Obama exhibited notably strong metacognitive abilities throughout his presidency. He acknowledged uncertainty explicitly: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His farewell address emphasized continuous learning: 'Every day, I learned from you' (ev_044) and expressed ongoing growth: 'You made me a better President, and you made me a better man.' He actively sought external input - consulting Silicon Valley for government modernization (ev_037), inviting AFL-CIO and Chamber of Commerce simultaneously (ev_008), attending South by Southwest for ideas (evt_023). His 'middle-out' economic philosophy and multi-year strategic initiatives (energy 2025, Cancer Moonshot) suggest awareness of his own cognitive frameworks. This indicates strong metacognitive monitoring and adaptive reasoning capacity.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_037",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "empathic_institutionalism",
+      "definition": "The tendency to ground institutional action in emotionally resonant personal narratives while maintaining policy substance - combining personal empathy with systemic ambition.",
+      "finding": "Obama consistently fused institutional policy with personal emotional resonance. His Father's Day address shared vulnerability: 'I grew up without my father around' (ev_006), while simultaneously announcing policy partnerships. He described sequester impacts through specific populations: 'parents whose kids just got kicked out of Head Start programs' (ev_014), grounding abstract budget policy in human stakes. His farewell address blended institutional achievements with emotional authenticity: 'I've hugged cancer survivors who finally know the security of affordable health care' (ev_045). This pattern suggests a distinctive construct where institutional action is legitimized through empathetic framing without sacrificing policy rigor.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_045",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "resilient_optimism",
+      "definition": "Consistent positive framing of challenges with acknowledgment of difficulties - maintaining hope while confronting reality rather than either naive optimism or pessimistic realism.",
+      "finding": "Obama demonstrated distinctive optimistic framing while acknowledging difficulties. He declared 'America's resurgence is real' (ev_024) while documenting ongoing challenges. He celebrated progress: 'Love won' (ev_035 - same-sex marriage) while noting continued work required. His farewell address expressed 'even more optimistic' outlook (ev_047) after 8 years of economic crisis, partisan conflict, and policy battles. He combined empirical specificity (statistical evidence) with affirmative narrative ('We're the United States of America' (ev_012)). This pattern indicates resilient optimism - neither naive nor defensive - maintaining positive orientation through difficulty with grounding in observable progress.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_035",
+        "ev_047",
+        "ev_012"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

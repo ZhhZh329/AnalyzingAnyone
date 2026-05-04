@@ -1,0 +1,163 @@
+{
+  "discipline": "psychology",
+  "lens": "erikson_development",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with pragmatic adaptation to institutional constraints",
+      "finding": "Obama demonstrates consistent world-shaping agency throughout his presidency, but adapts his methods based on political circumstances. The 'Year of Action' (2014) exemplifies this pattern—explicitly taking over 20 executive actions when Congressional obstruction blocked legislative routes (ev_019, ev_020). However, he consistently seeks collaborative approaches first, framing issues as 'not a Democratic or Republican issue' and citing AFL-CIO and Chamber of Commerce joint support (ev_008). His agency is purposeful rather than impulsive—he identifies specific problems (sequester cuts to Head Start, veterans unemployment) and mobilizes targeted responses. This suggests a mature generativity: the capacity to shape outcomes while accepting institutional limitations.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_008",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded belief formation with willingness to acknowledge complexity and update positions",
+      "finding": "Obama's epistemic style combines statistical grounding with narrative integration. He consistently cites measurable outcomes—11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers through CFPB (ev_028), Medicare solvency extended by 12+ years (ev_002). Yet he demonstrates nuanced judgment when acknowledging trade policy history: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), showing epistemic humility without abandoning policy positions. His attribution of accomplishments to 'the American people' rather than personal genius (ev_032) suggests confidence in collective knowledge over individual certainty. This pattern indicates generativity's intellectual component—wise engagement with evidence rather than either naive empiricism or ideological rigidity.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_028",
+        "ev_025",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with balanced engagement between conceptual frameworks and concrete policy details",
+      "finding": "Obama operates comfortably across the abstraction-concretion spectrum. He articulates abstract principles like 'economy grows best not from top-down but from middle-out' (ev_021) while providing specific benchmarks (cutting oil imports by one-third by 2025, $10.10 minimum wage). The 'Top 10 Things that Happened in 2015' format shows systematic organization of complex achievements into accessible categories (ev_033). His energy blueprint and economic frameworks demonstrate capacity for formal planning, while his Father's Day personal reflections reveal comfort with narrative particularity. This flexibility suggests generativity's integration of broad purpose with concrete contribution—the 'Wise' virtue's ability to hold multiple levels of abstraction simultaneously.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_004",
+        "ev_033",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation channeled through institutional mechanisms with willingness to assert authority when necessary",
+      "finding": "Obama's control orientation operates primarily through institutional channels rather than personal dominance. He articulates clear red lines—'I will not negotiate over the full faith and credit of the United States' (ev_015)—while framing constraints as structural necessities rather than personal preferences. His executive order on contractor minimum wage (ev_017) demonstrates willingness to act unilaterally within constitutional bounds. However, his consistent framing of issues through bipartisan language and broad coalitions (ev_008) suggests control exercised through consensus-building rather than command. The Cancer Moonshot's cross-agency coordination (ev_042, ev_043) shows systemic rather than personal control orientation. This pattern indicates generativity's mature expression—leading through structures rather than dominating individuals.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_008",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Clear prioritization of structural mission (protecting vulnerable populations, economic reform) over relational/political comfort",
+      "finding": "Obama consistently prioritizes policy missions that protect and empower vulnerable populations even when politically costly. His defense of Medicare as 'a commitment to America's seniors' that he would protect 'as long as I am President' (ev_001) shows willingness to own controversial reforms. His sequestration warnings emphasizing 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels' (ev_014) demonstrate relational empathy channeled into policy mission. His veto threat on Wall Street Reform repeal (ev_029) indicates commitment to consumer protections despite financial industry opposition. The characteristic pattern: translating concern for 'middle-out' economic wellbeing (ev_021) into specific policy interventions. This reflects generativity's core—contributing to society's wellbeing through structured action rather than personal relationships.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_029",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking balanced with institutional caution and evidence-based confidence",
+      "finding": "Obama's risk posture reflects calibrated optimism—acknowledging challenges while expressing confidence in solutions. His energy strategy explicitly rejects 'drilling alone' as insufficient (ev_005), indicating willingness to pursue multi-vector approaches with uncertain outcomes. His Veterans Day veteran hiring challenge—requesting private sector commitments for 100,000 hires (ev_009)—represents social risk-taking through public goal-setting. However, his sequester warnings (ev_013) and deadline emphasis (ev_011) show risk awareness focused on preventing negative outcomes rather than pursuing positive ones recklessly. His farewell reflection 'Eight years later, I am even more optimistic about our country's promise' (ev_047) suggests accumulated confidence through experience. This pattern indicates generativity's temporal wisdom—long-term commitment to missions while managing immediate risks.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_009",
+        "ev_013",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power exercised through legitimate authority with emphasis on collective good over personal authority",
+      "finding": "Obama relates to institutional hierarchy as a mechanism for collective problem-solving rather than personal aggrandizement. His statement that 'democracy is the best tool we've got to settle our differences and solve our collective challenges' (ev_036) frames hierarchical power as instrumental rather than intrinsic. His critique of Senate obstruction—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)—shows willingness to challenge institutional dysfunction while accepting the system's legitimacy. The government modernization initiative (ev_037) invites external expertise into government hierarchy rather than asserting presidential dominance. His fatherhood reflections (ev_006) and coaching his daughter's basketball team (ev_007) suggest hierarchical comfort without hierarchical preoccupation. This pattern indicates generativity's mature relationship with authority—using institutional power for societal contribution without being captured by it.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_010",
+        "ev_037",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-tolerant engagement with preference for translation and coalition-building over suppression or escalation",
+      "finding": "Obama demonstrates conflict tolerance through explicit policy confrontations while maintaining coalition-building orientation. His vow to veto any Wall Street Reform repeal (ev_029) shows willingness to escalate when core principles are threatened. His criticism of Congressional obstruction—'Republicans have said no to raising the minimum wage, no to equal pay' (ev_020)—indicates confrontation without dehumanization. Yet he consistently seeks translation opportunities: 'bipartisan budget that invests in middle-class priorities' (ev_048), Senate transportation bill '52-22' (ev_011). The pattern suggests strategic conflict—clear positions with maintained pathways for cooperation. His distinction between 'war with al-Qaeda and its affiliates' and respect for Islam (ev_012) shows capacity to navigate complex conflicts without false equivalence or escalation. This indicates generativity's conflict wisdom—maintaining principles through conflict rather than avoiding it.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_020",
+        "ev_048",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time orientation integrating immediate deadlines, medium-term policy cycles, and multi-generational legacy concerns",
+      "finding": "Obama demonstrates remarkable temporal range across his addresses. Immediate deadlines are treated with urgency—'seven days away' from transportation funding expiration, 'eight days' from student loan rate doubling (ev_011). Medium-term planning appears in energy security goals for 2025 (ev_004), deficit reduction trajectories (ev_016). Multi-generational orientation emerges in climate policy emphasis: Paris agreement 'nearly 200 nations' (ev_034), 'leave a better, cleaner, safer future for our children' (ev_041), and his cancer moonshot initiative (ev_042). His farewell address reflects on eight years while looking forward: 'working along your side, as a citizen, for all my days that remain' (ev_047). This temporal integration—caring about Head Start children today, climate trajectories for future generations, and democratic participation across lifetimes—represents generativity's temporal hallmark.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_004",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair, demonstrated through comprehensive legislative achievements and institutional innovation",
+      "finding": "Obama's approach to governance consistently favors structural redesign over temporary fixes. The ACA represents comprehensive healthcare system restructuring, not merely incremental expansion. Dodd-Frank establishes new regulatory architecture with permanent consumer protection mechanisms (ev_028). The 'Year of Action' explicitly takes executive actions to create lasting policy changes (ev_019). His government modernization initiative—inviting Silicon Valley expertise into federal operations (ev_037)—rebuilds institutional capacity rather than patching existing structures. The Cancer Moonshot creates cross-agency coordination infrastructure (ev_043). Even his communication style—'Top 10 Things that Happened in 2015'—systematically organizes achievements rather than listing isolated successes. This pattern reflects generativity's contribution impulse—building lasting structures that outlive individual leadership.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through reflective communication and explicit learning narratives",
+      "finding": "Obama demonstrates distinctive metacognitive sophistication, particularly in his farewell address. His statement that conversations with Americans 'are what have kept me honest, kept me inspired, and kept me going' (ev_044) shows explicit awareness of how external input shapes cognitive processes. 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) indicates ongoing self-monitoring and adjustment. His acknowledgment of trade policy limitations ('past trade deals haven't always lived up to the hype') (ev_027) shows epistemic self-awareness about his own policy judgments. His recognition of diverse experiences—'I've seen neighbors looking out for each other,' 'I've hugged cancer survivors,' 'I've seen communities like Joplin rebuild' (ev_045)—demonstrates integration of varied perspectives into coherent self-understanding. This metacognitive quality reflects Erikson's 'Wisdom' virtue—integrated self-awareness that transcends self-justification.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "generative_institutionalization",
+      "definition": "The capacity to translate empathic concern for vulnerable populations into enduring institutional structures and policy mechanisms that persist beyond personal involvement. Not simply caring about others, but creating systems that institutionalize care.",
+      "finding": "This dimension captures a distinctive feature of Obama's generativity not fully captured by existing constructs. His emphasis on vulnerable populations—Head Start children, seniors on Meals on Wheels, veterans seeking employment, cancer patients needing trials—reflects deep empathic connection. But his generativity manifests specifically in creating institutions to serve them: the CFPB that recovered $11 billion for consumers (ev_028), the Presidential Innovation Fellows who built Trials.Cancer.Gov (ev_043), the bipartisan education bill he signed (ev_048). This pattern—empathy channeled into institutional design—represents a sophisticated form of generativity: building structures that will care for others after the individual moves on. It distinguishes between people who care and people who build caring systems.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_014",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "democratic_faith",
+      "definition": "Sustained belief in democratic institutions and processes as legitimate mechanisms for collective problem-solving, even when facing obstruction, dysfunction, or personal disappointment. Distinct from naive optimism—includes acknowledgment of system flaws while maintaining engagement.",
+      "finding": "Obama's addresses reveal consistent faith in democratic governance that goes beyond instrumental utility. His assertion that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036) represents philosophical commitment, not mere political rhetoric. Yet this faith is sophisticated rather than naive—he explicitly criticizes Senate obstruction (ev_010), acknowledges past trade deal failures (ev_027), and warns that 'we can't take our democracy for granted' (ev_046). The combination of criticism and continued engagement reflects mature democratic faith: belief in the system's legitimacy combined with clear-eyed assessment of its flaws. This represents generativity's political expression—contributing to democratic renewal through sustained participation rather than either utopian optimism or cynical withdrawal.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046",
+        "ev_010",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

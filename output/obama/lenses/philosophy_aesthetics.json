@@ -1,0 +1,157 @@
+{
+  "discipline": "philosophy",
+  "lens": "aesthetics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "表现主义导向：强调通过个人叙事和情感真实性来传达普遍价值，而非形式操控",
+      "finding": "Obama的美学表达呈现出明显的有机表现主义特征。在evt_005中，他分享个人成长经历——'I grew up without my father around. He left when I was two years old...I wondered what my life would have been like had he been a greater presence'——这种自我袒露不是为了形式美，而是为了与听众建立真实的人际连接。在evt_012中，他说'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam'，这超越了简单的政策宣示，表达了内在的情感真实——对宗教宽容的真诚承诺。Obama的能动性体现为通过真诚叙事来激发集体情感，而非通过形式操控来达成修辞效果。",
+      "evidence_ids": [
+        "ev_006",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "审美客观主义倾向：诉诸普遍价值作为审美判断的基础，拒绝相对主义",
+      "finding": "Obama的审美认识论接近康德的普遍审美判断传统，但带有民主化转向。他不是简单地宣称'我喜欢'，而是诉诸普遍可共享的价值标准。在evt_021中，他说'Our economy grows best not from the top-down, but from the middle-out'——这不是个人偏好，而是对经济'好'的规范性定义。在evt_018中，他说'We've got to restore opportunity for all – the notion that no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America'——这是对机会平等的普遍主义主张。Obama的判断模式是：先确定普遍价值（正义、公平、尊严），然后以此衡量具体情境，而非从个人品味出发推导。他明确拒绝审美相对主义——在evt_024中，他对军事荣誉的强调表明存在超越个人偏好的道德-审美标准。",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "平衡型：具体叙事与抽象原则交替使用，形式从属于表达目的",
+      "finding": "Obama的演讲呈现出具体-抽象的节奏美学。在evt_045的告别演讲中，'I've hugged cancer survivors who finally know the security of affordable health care'是具体可感的画面，而'The rate of the uninsured in America dropped below 10 percent'是抽象统计，这种并置创造了一种'可验证的诗意'效果。他不追求纯粹的形式主义抽象（如几何艺术的'为形式而形式'），也不沉溺于纯粹的表现主义（无限的个人情感宣泄）。在evt_033中，他将成就列举为'Number ten: The economy...Number nine: More Americans are getting health coverage'——这是形式化的清单，但它服务于一种'理性庆典'的美学。Obama的美学不是高度形式化的系统，而是一种修辞性的有机形式，服务于说服和教育目的。",
+      "evidence_ids": [
+        "ev_045",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "弱-中度：信任民主过程和集体理性，而非个人掌控",
+      "finding": "在美学意义上，Obama对'控制'的态度是反形式主义的。他对民主体制的信任（evt_036：'our founders trusted us with the keys to this system of self-government'）暗示了一种相信集体审美判断的美学立场——好的政策，如同好的艺术，不是被强加的，而是被'发现'的。他不寻求通过掌控来创造审美秩序，而是通过引导和说服。在evt_020中，他批评共和党人'said no to raising the minimum wage'——这是对阻碍集体理性进程的批判，但解决方案是通过民主说服，而非绕过民主。他的控制取向是温和的制度性参与：利用行政权力推进议程（evt_019的20多项行政行动），但始终强调最终需要国会认可——这体现了一种审美上的'对完整性的尊重'。",
+      "evidence_ids": [
+        "ev_036",
+        "ev_020",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "使命导向：明确表达规范性目标，承受社会冲突代价",
+      "finding": "Obama的美学带有明确的道德-审美使命。在evt_015中，他批评共和党人'blocking every serious idea to create jobs'——这是对阻碍进步力量的直接对抗，愿意付出政治对立的代价。在evt_029中，他说'I will veto'任何废除多德-弗兰克法案的提案——这是明确的对抗性立场。在evt_041中，他说气候变化议程'not something to tear up – it's something to build upon'——暗示他愿意为气候政策而战。然而，他的使命感是理性化的而非情绪化的：他总是提供论证和证据，而非仅仅是姿态。在evt_032中，他说'All of this progress is because of you'——成功归功于集体，使命也是为了集体。这种美学不是激进的对抗艺术，而是一种启蒙主义的道德美学：相信通过理性讨论和证据可以说服公众。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_041",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "适度风险承担：支持创新的同时强调渐进和可衡量性",
+      "finding": "Obama的审美对风险呈现保守-进步的张力。在evt_004关于能源的讲话中，他说'Drilling alone is not a real strategy'——他愿意倡导清洁能源这一'风险'（对传统能源的颠覆），但方式是渐进的而非激进的。在evt_005关于TPP的讲话中，他说'past trade deals haven't always lived up to the hype'——承认历史错误但仍支持新协议，这是一种有限度的冒险。他的风险美学不是先锋派的'为颠覆而颠覆'，而是一种启蒙进步论的审美：对科学和理性进步的信任，愿意为可衡量的目标承担适度风险。在evt_027中，Cancer Moonshot体现了这种审美——巨大的科学抱负，但通过系统性的临床试验来管理风险。",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "制度性精英主义：尊重传统权威但主张其服务于公共善",
+      "finding": "Obama对权力结构的态度呈现出亚里士多德式的'正当权威'美学。在evt_036中，他明确说政府是'system of self-government'——一种精心设计的制度，而非纯粹的工具。他的权力美学不是无政府主义的，也不是威权主义的，而是一种'受约束的民主精英主义'。在evt_048中，他对国会两党协议的称赞（称为'Christmas miracles'）体现了一种对制度运作的审美欣赏。他对传统权威持'有保留的尊重'——在evt_010中，他区分'war with al-Qaeda'和'war with Islam'，这是一种对权力边界的敏感。在evt_014中，他说'workers who serve our troops' meals, wash their dishes'——承认服务性工作者的尊严，但通过联邦合同工资政策来重新定义劳动价值。这种美学承认等级存在的必要性，但坚持等级必须服务于共同善。",
+      "evidence_ids": [
+        "ev_036",
+        "ev_048",
+        "ev_010",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "理性说服型：面对冲突诉诸共同价值观和证据",
+      "finding": "Obama处理冲突的美学是修辞性的——他总是试图将对手'翻译'到共同价值框架中。在evt_008中，他说'Senator gumming up the works...is certainly not what our founding fathers envisioned'——这是将对手纳入美国建国理想的方式。在evt_003中，他说'both parties have not been blameless'——承认各方都有问题，但呼吁共同向前。这种冲突美学是亚里士多德式的：通过logos（理性论证）、pathos（情感诉求）和ethos（人格信誉）的结合来化解分歧。他避免纯粹的对抗性美学（如左派的'阶级战争'修辞或右派的'文化战争'修辞）。在evt_014中，他说'venerate work'——这是对劳动价值的普遍化，而非阶级对立。这种策略有时显得温和而缺乏力度，但从美学上讲，它代表了一种'和解性修辞'的理想。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_003",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "长周期视野：强调历史进程和代际责任",
+      "finding": "Obama的审美时间观是历史性的——他在更大的时间框架中定位当下。在evt_024中，他说'Memorial Day...we remember'——这是集体记忆的美学，将个体时刻编织进国家叙事的宏大织物。在evt_045中，他说'I learned from you. You made me a better President'——承认自己属于一个仍在展开的历史进程。在evt_016中，他说'the decades-long erosion of middle-class jobs'——将问题定位在数十年尺度。他不是短视的机会主义者，也不是空洞的乌托邦梦想家，而是一种'可实现的进步主义'——相信代际积累的进步。在evt_041中，他说'leave a better, cleaner, safer future for our children'——这是对后代的责任美学。他的时间美学是启蒙进步论的：历史是向上的，虽然缓慢。",
+      "evidence_ids": [
+        "ev_024",
+        "ev_045",
+        "ev_016",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "系统改革倾向：愿意进行结构性改变，但通过制度内途径",
+      "finding": "Obama对结构性改革的审美态度是矛盾的。在evt_013中，他呼吁'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code'——这是系统改革而非局部修补。但他始终通过现有制度（国会、行政命令）而非绕过制度来实现改革。这种美学是'制度内革命'——相信体制可以从内部更新。在evt_029中，他发誓否决任何' unravel the new rules on Wall Street'的法案——这是对已有结构改革的保护，而非新的激进行动。他的重建美学是审慎的：在evt_004中，他说'drilling alone is not sufficient'——他愿意承认旧方法不足，但解决方案是混合性的（新旧并存），而非全盘否定。这种立场在美学上代表了一种'选择性更新'——不是现代主义的彻底断裂，而是后现代的批判性继承。",
+      "evidence_ids": [
+        "ev_013",
+        "ev_029",
+        "ev_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "高度自我反思：明确承认局限和不确定性",
+      "finding": "Obama展现了显著的认知自我意识，这在政治家中较为罕见。在evt_005中，他说'I was the first to admit that past trade deals haven't always lived up to the hype'——主动承认历史失败。在evt_021的2015年告别演讲中，他说'Every day, I learned from you. You made me a better President, and you made me a better man'——承认自己的认知发展。在evt_010中，他说'America is at war with al-Qaeda...not Islam'——这是对复杂性的认知，而非简单化的对抗。他不声称拥有终极真理，而是呈现一种'有根据的谦逊'——相信某些价值观是普遍的同时，承认具体政策判断的可错性。这种美学在认识论上接近批判理性主义：从错误中学习是进步的核心机制。他的元认知也体现在evt_046的呼吁中——'throw ourselves into the work of citizenship...over the full span of a lifetime'——承认民主是终身的学习过程。",
+      "evidence_ids": [
+        "ev_005",
+        "ev_044",
+        "ev_010",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "修辞性诚信美学",
+      "definition": "衡量政治话语中真诚与策略之间平衡的维度。传统美学分析未充分关注政治演说的真实性问题——何时修辞技巧被视为真诚表达，何时被视为操纵。",
+      "finding": "Obama展现出对'真诚修辞'的强烈关注——他的演讲风格强调个人经历和情感真实性（evt_006的父子关系反思，evt_007作为女儿篮球队助教的故事），同时保持高度的修辞控制和结构完整性。这种平衡体现了一种独特的'真诚美学'：真诚不是无修饰的表达，而是经过精心设计的自然感。在evt_044中，他说'Every day, I learned from you...You made me a better President'——这既是策略性恭维，也是真实的谦逊表达。这种美学承认政治修辞的本质上是表演性的，但坚持表演应该服务于真实价值的传达，而非取代它们。",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "民主启蒙美学",
+      "definition": "衡量政治话语如何处理民主本身的审美价值——将民主制度视为可欣赏的人类成就，而非仅仅是工具性手段。",
+      "finding": "Obama的多次演讲揭示了一种对民主体制本身的审美态度。在evt_036中，他说'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges'——这里既有工具性论证，也有对制度本身的赞美。他的民主美学是启蒙主义的：相信人类理性通过制度可以改善社会。在evt_046中，他呼吁持续的公民参与'not just when there's an election'——这不仅是政策呼吁，也是对民主生活方式的审美肯定。这种美学与保守派对传统体制的尊重不同：它强调民主的参与性和反思性，而非仅仅是对既有秩序的维护。",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

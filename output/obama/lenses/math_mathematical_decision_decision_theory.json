@@ -1,0 +1,167 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_decision_decision_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with adaptive constraint recognition",
+      "finding": "Obama consistently positions himself as an active architect of outcomes rather than a passive reactor. He articulates explicit targets (cut oil imports by one-third, $10.10 minimum wage, 100,000 veteran hires) and takes concrete steps to achieve them. His 'Year of Action' declaration (ev_019) exemplifies willingness to use executive authority when legislative paths are blocked. However, his world-shaping is bounded—he acknowledges past trade deals falling short (ev_027) and demonstrates willingness to accept partial victories (bipartisan budget deals) rather than holding out for ideal outcomes. This suggests a world-shaper who understands the limits of unilateral agency in a democratic system and adjusts strategy accordingly while maintaining directional commitment.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_021",
+        "ev_027",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-based consequentialist with democratic empiricism",
+      "finding": "Obama's epistemic approach prioritizes observable outcomes and measurable progress. His year-end reviews (ev_033, ev_025) use specific statistics (2.5M jobs, 30x solar growth, uninsured rate below 10%) as primary legitimizing evidence. He frames uncertainty as requiring careful analysis: 'Drilling alone is not a real strategy because even though America uses 25% of the world's oil, we have only about 2% of reserves' (ev_005). Notably, his epistemic style includes humility about his own limitations—he explicitly states he learned from citizens and was made 'a better President, and a better man' through dialogue (ev_044). This suggests a consequentialist epistemology where policy validity is determined by empirical outcomes, but filtered through democratic engagement rather than pure technocratic assessment.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_033",
+        "ev_025",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization with emphasis on quantified commitments",
+      "finding": "Obama demonstrates comfort with abstraction through policy frameworks (middle-out economics, balanced deficit reduction) but grounds them in concrete numerical targets. He uses specific quantification as a commitment device: 'at least 12 years' Medicare extension (ev_002), 'one-third' oil import reduction, '$10.10/hour' minimum wage, '90-day up-or-down votes' for nominations (ev_010). His 2015 top-10 list (ev_033) shows systematic enumeration. However, his abstraction is primarily instrumental—he uses frameworks to organize political communication rather than for theoretical development. He doesn't engage in formal modeling or abstract axiomatic reasoning. This pattern suggests moderate formalization driven by accountability and commitment clarity rather than intellectual preference for abstraction per se.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_010",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation focused on systemic design over interpersonal control",
+      "finding": "Obama's control orientation is primarily system-focused rather than person-focused. He seeks to design institutional mechanisms (CFPB, ACA, Dodd-Frank) that constrain future behavior, which represents a preference for structural control over temporal and political volatility. His statement 'As long as I am President, that's a commitment this country is going to keep' (ev_001) reveals desire to lock in certain values. However, his control is limited by acceptance of democratic constraints—he doesn't attempt to bypass Congress through unilateral power except when legitimate authority exists (executive orders for contractors). His refusal to negotiate on debt ceiling (ev_015) represents a hard boundary rather than flexible control. The pattern suggests structured system design with acceptance of democratic limits on personal control.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with high tolerance for relational friction on core issues",
+      "finding": "Obama demonstrates willingness to incur significant relational and political costs when core values are at stake. His firm opposition to Wall Street Reform repeal (ev_003, ev_029) and absolute refusal to negotiate on debt ceiling (ev_015) show clear non-negotiable positions. However, his mission orientation is balanced by genuine commitment to inclusive processes—his Father's Day address (ev_006) shows personal vulnerability, and he explicitly credited 'the American people' for progress (ev_032). He criticized Senate obstruction but called it a shared problem ('Neither party has been blameless' - ev_010), suggesting desire to frame disagreement within shared framework rather than pure adversarial framing. The pattern shows mission-priority with relational repair attempts rather than mission-priority with pure conflict.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-tolerant for long-term structural gains, risk-averse for core commitments",
+      "finding": "Obama shows differentiated risk tolerance across domains. He demonstrates significant risk appetite for long-term structural investments: TPP as geopolitical strategy to prevent China writing trade rules (ev_031), Paris climate agreement (ev_041), auto industry rescue during crisis (ev_022). He accepts uncertainty in novel approaches: 'I've seen neighbors looking out for each other as we rescued our economy from the worst crisis of our lifetimes' (ev_045). However, on core commitments, he shows risk aversion: he will 'veto' any Wall Street Reform repeal (ev_029), refuses to negotiate on debt ceiling full stop (ev_015). This bifurcation suggests sophisticated risk calibration where long-term structural bets are acceptable but short-term political gambles on fundamental commitments are rejected.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_022",
+        "ev_029",
+        "ev_031",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power legitimizer with democratic constraint awareness",
+      "finding": "Obama demonstrates sophisticated understanding of institutional power as a tool constrained by democratic legitimacy. His statement on government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) frames institutional power positively but within democratic framework. He uses hierarchical authority (Commander-in-Chief obligation to troops - ev_038) but grounds it in service rather than domination. His bipartisanship appeals ('AFL-CIO and Chamber of Commerce together' - ev_008) attempt to transcend rather than exploit hierarchy. The pattern shows power-as-instrument orientation with genuine commitment to inclusive process, suggesting hierarchical authority is valued as enabler of collective action rather than as status end.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-based conflict with clear boundary-setting",
+      "finding": "Obama's conflict strategy consistently attempts translation—reframing partisan disputes as solvable problems with shared stakes. 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008) exemplifies this pattern. He acknowledges opponent legitimacy while maintaining position. However, when translation fails, he sets clear boundaries: veto threats on Wall Street Reform (ev_029), refusal to negotiate on debt ceiling (ev_015). He documents real human costs of opposition (sequester cuts to Head Start, Meals on Wheels - ev_014) to reframe conflict as moral rather than procedural. This suggests translation-first, boundary-setting-second strategy with moral framing as fallback.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale horizon with decade-spanning commitment",
+      "finding": "Obama consistently operates on multi-decade time horizons. Medicare solvency extension (ev_002), climate agreements (ev_041), infrastructure investment—all represent commitments extending far beyond electoral cycles. His statement about cutting deficits 'at fastest rate since World War II' (ev_016) shows comfort with very long measurement periods. He explicitly calls for civic engagement 'over the full span of a lifetime' (ev_046), framing citizenship as multi-generational project. Cancer Moonshot (ev_042) reflects willingness to pursue initiatives where full payoff exceeds his own tenure. This temporal orientation shows strong mission-scale preference with patience for delayed returns.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural design preference with pragmatic patching acceptance",
+      "finding": "Obama demonstrates clear preference for structural solutions: ACA as comprehensive health system redesign, Dodd-Frank as financial regulatory rebuild, TPP as global trade architecture. His framing of 2015 accomplishments (ev_033, ev_034) emphasizes systemic changes (climate agreement, Iran deal) over temporary fixes. However, he shows pragmatic acceptance of patching when full rebuild is blocked: executive orders on minimum wage (ev_017), bipartisan budget deals as 'Christmas miracles' (ev_048). This suggests rebuild-as-primary with patching-as-necessary-when-politically-constrained pattern. He distinguishes between structural priorities (which he defends absolutely) and tactical adaptations (which he implements flexibly).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "ev_033",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with explicit preference monitoring",
+      "finding": "Obama demonstrates notable self-awareness about his own decision processes and limitations. His acknowledgment of past trade deal failures (ev_027) shows ability to evaluate his own prior judgments. He explicitly frames his leadership as learning process: 'Every day, I learned from you. You made me a better President' (ev_044). He monitors environmental constraints (Congressional composition, public opinion) and adjusts strategies accordingly—shifting to executive action when legislative path closes (ev_015, ev_019). His reflection on fatherhood absence (ev_006) shows willingness to integrate personal experience into public judgment. This pattern suggests active metacognitive monitoring with adaptation based on feedback.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Stakeholder-Attributed Value Creation",
+      "definition": "The tendency to systematically externalize credit for positive outcomes to collective actors (citizens, workers, partners) while internalizing credit for structural mechanisms (laws, institutions) as legitimate public goods rather than personal achievement. This shapes preference formation by anchoring utility in shared progress rather than personal advancement.",
+      "finding": "Obama consistently attributes policy successes to collective action: 'All of this progress is because of you—because of workers rolling up their sleeves, entrepreneurs starting new businesses' (ev_032). He frames Dodd-Frank's consumer recovery ($11 billion to 26 million consumers - ev_028) as institutional success rather than personal triumph. Even his farewell centers on what 'we the people' achieved. This pattern suggests his utility function weights collective welfare heavily, which stabilizes preference ordering around widely-shared goals (middle-class opportunity, veterans support, healthcare access) while resisting personalization of either credit or blame. It creates political resilience (shared ownership of successes) but may blur accountability for decision responsibility.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Bounded Aspiration with Strategic Flexibility",
+      "definition": "The capacity to set ambitious long-term goals while maintaining realistic assessment of political constraints, accepting partial victories when full goals are blocked, and using multiple pathways (legislative, executive, diplomatic, structural) to advance consistent preferences. Distinct from pure satisficing in that ultimate goals remain stable; distinct from pure maximalism in that tactical compromise is genuine rather than performative.",
+      "finding": "Obama articulates maximal goals (universal healthcare, comprehensive Wall Street reform, TPP passage) while pragmatically accepting partial victories when political constraints block full achievement. His executive order on federal contractor minimum wage (ev_017) represents partial victory when Congress blocked national increase. His 'Christmas miracles' bipartisan budget (ev_048) shows genuine appreciation for imperfect outcomes. However, his core commitments remain stable—Wall Street reform veto threat (ev_029), debt ceiling non-negotiation (ev_015) show boundaries that cannot be crossed. This pattern suggests sophisticated decision-making that maintains aspiration horizons while calibrating tactical flexibility to political reality, avoiding both paralysis and naive maximalism.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

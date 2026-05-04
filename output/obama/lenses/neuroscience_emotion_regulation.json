@@ -1,0 +1,161 @@
+{
+  "discipline": "neuroscience",
+  "lens": "emotion_regulation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structurally-aware world-shaper: combines institutional adaptor with assertive executive action",
+      "finding": "Obama demonstrates a hybrid orientation—prioritizing democratic mechanisms as primary tools while deploying executive authority when legislative pathways are blocked. In ev_036, he expresses faith in 'self-government' as the 'best tool we've got,' positioning himself within institutional structures rather than above them. However, ev_019 reveals his willingness to take 'more than 20 executive actions' when Congress blocked his agenda, showing adaptive structure-response combined with world-shaping agency. This oscillation between institutional deference and assertive action suggests emotion regulation through strategic role-calibration—maintaining public trust through procedural legitimacy while still advancing policy goals.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-informed narrative reasoner: integrates empirical evidence with motivational framing",
+      "finding": "Obama's speeches reveal a dual-mode epistemic approach: statistical assertion combined with emotional narrative. Ev_025 ('11 million jobs over 57 months') and ev_040 ('wind power tripled, solar 30x') use precise quantitative claims to establish credibility and factual grounding. Yet these data points are embedded within motivational narratives—'America's resurgence is real' (ev_024) and climate progress as 'something to build upon' (ev_041). This integration suggests emotion regulation through cognitive appraisal: using factual reframing to transform potentially discouraging situations (economic crisis, climate urgency) into narratives of controllable progress. The emotional regulation function appears to be converting anxiety-inducing data into hope through systematic interpretation.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_024",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderately abstract with accessibility priority: formulates clear principles but prioritizes public comprehension",
+      "finding": "Obama demonstrates conceptual abstraction capacity in formulations like 'middle-out economics' (ev_021: 'Our economy grows best not from the top-down, but from the middle-out') and systematic policy categorization in his 'Top 10 Things' lists (ev_033, ev_035). However, his abstraction is consistently subordinated to public accessibility—complex issues are translated into concrete implications (Head Start cuts, veteran hiring, wage increases) rather than theoretical frameworks. Ev_014 exemplifies this: abstract 'opportunity' concept is immediately operationalized as 'no matter who you are or how you started out, with hard work and responsibility, you can get ahead.' This suggests emotion regulation through concrete framing—keeping abstract policy emotionally grounded to maintain broad public resonance.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_035",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principled boundary-setter: draws firm lines on core issues while remaining flexible on process",
+      "finding": "Obama's control orientation manifests as non-negotiable principles paired with procedural flexibility. Ev_015 demonstrates this clearly: 'I will not negotiate over the full faith and credit of the United States'—an absolute boundary—while simultaneously advocating 'balanced, comprehensive' approaches elsewhere (ev_013). His veto threat against Wall Street reform repeal (ev_029: 'I will veto it') shows categorical boundary maintenance. However, his repeated calls for bipartisan action (ev_008: 'This isn't a Democratic or a Republican issue') and acknowledgment that 'neither party has been blameless' (ev_010) reveal openness to shared control. This pattern suggests emotion regulation through principle-based boundary-setting—maintaining core commitments while avoiding the hypercontrol that could produce backlash.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_013",
+        "ev_029",
+        "ev_008",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with relational repair: prioritizes policy goals but invests in connection maintenance",
+      "finding": "Obama consistently prioritizes policy outcomes over relational comfort with political opponents, yet maintains relational infrastructure through public connection. Ev_020 explicitly criticizes Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea')—accepting relational cost. However, ev_044 reveals an alternative relational strategy: shifting the primary relationship from Congressional negotiation to direct connection with 'the American people'—'Every day, I learned from you. You made me a better President, and you made me a better man.' This represents emotional regulation through relationship reorientation: when institutional relationships become adversarial, transferring primary connection to broader public. His father's day vulnerability (ev_006) further suggests emotional authenticity as relational tool, building connection through personal disclosure rather than political performance.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_044",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Optimistic framing of risk as opportunity: transforms threat narratives into manageable challenges",
+      "finding": "Obama consistently frames uncertainty through opportunity lenses rather than threat scripts. Ev_004 explicitly rejects risk-avoidance: 'Drilling alone is not a real strategy'—dismissing false security. Ev_027 shows mature acknowledgment of past failures ('past trade deals haven't always lived up to the hype') while maintaining forward momentum. His response to potential sequestration cuts emphasizes 'we can reverse' trajectories (ev_016, ev_024) rather than dwelling on threat magnitude. This suggests emotion regulation through optimistic cognitive appraisal—reframing ambiguous situations as controllable challenges. However, this pattern may indicate limited emotional engagement with genuine threat salience; his confidence statements ('I'm absolutely confident') may reflect regulatory suppression of uncertainty rather than genuine tolerance.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_016",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimacy seeker: uses hierarchical authority to advance agenda while maintaining democratic framing",
+      "finding": "Obama consistently positions himself within institutional power structures rather than as challenger or dominator. His appeals cite democratic legitimacy ('the American people,' ev_032: 'because of workers rolling up their sleeves'), pluralistic coalitions (ev_008: 'AFL-CIO and the Chamber of Commerce'), and constitutional frameworks (ev_015: 'full faith and credit'). His command-in-chief statements (ev_038: 'no more solemn obligation') acknowledge hierarchical responsibility rather than personal authority. Ev_036 frames government as collective tool: 'our founders trusted us with the keys.' This represents emotion regulation through institutional embedding—positioning personal agency within legitimized structures reduces both personal exposure and emotional cost of contested power. The pattern suggests high identity integration with democratic role rather than personal power accumulation.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_008",
+        "ev_015",
+        "ev_038",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled negotiator with line-drawing: avoids escalation while maintaining non-negotiable positions",
+      "finding": "Obama demonstrates a distinctive conflict strategy: explicit boundary-setting on core issues combined with continuous invitation to cooperation. Ev_015 shows this clearly—absolute refusal to negotiate on debt ceiling paired with earlier appeals for 'balanced approach.' Ev_010 shows conflict translation: 'America is at war with al-Qaeda... and we will never be at war with Islam'—converting potential religious conflict into political framework. His language consistently avoids personal attack on opponents ('Neither party has been blameless,' ev_010) while making policy critique specific and concrete. This suggests emotion regulation through cognitive reframing of conflict—transforming inter-group hostility into policy disagreement, maintaining ventral vagal social engagement rather than defensive sympathetic activation. The strategy maintains relational openings for future cooperation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-generational time orientation: explicitly frames policy in long-term and generational terms",
+      "finding": "Obama's speeches reveal unusually extended time horizons. Ev_001 commits to Medicare as 'commitment to America's seniors' operating across working lifetimes. Ev_002 frames ACA impact in terms of 'solvency' extending 'the single longest extension in history.' Climate policy (ev_041) explicitly frames action as legacy: 'leave a better, cleaner, safer future for our children.' His deficit reduction framing (ev_016: 'decades-long erosion of middle-class jobs') situates current policy within historical trends. Ev_046 calls for civic engagement 'over the full span of a lifetime.' This multi-generational framing suggests emotion regulation through temporal expansion—converting present urgency into future-oriented purpose, reducing present pressure by embedding action within longer narratives. This strategy effectively counteracts short-term political incentives with longer-term identity commitment.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_041",
+        "ev_016",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer with selective adaptation: prefers comprehensive legislation but deploys executive action for targeted goals",
+      "finding": "Obama's record reveals preference for structural solutions—ACA (comprehensive healthcare transformation), Dodd-Frank (systemic financial reform), TPP (global trade architecture)—rather than incremental adjustments. His 'Year of Action' framing (ev_015) positions executive actions as building blocks toward systemic change. However, his executive orders on minimum wage (ev_017) and his Silicon Valley partnerships for government modernization (ev_037) also demonstrate adaptive patching where structural reform was blocked. This hybrid pattern suggests emotion regulation through strategic sequencing: pursuing structural change when politically possible while deploying targeted interventions to maintain momentum. The approach reflects tolerance for partial progress rather than all-or-nothing positioning.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness: demonstrates self-monitoring in personal domains but reduced in policy certainty",
+      "finding": "Obama shows notable metacognitive capacity in personal reflection and interpersonal awareness. Ev_044 explicitly describes cognitive evolution through public engagement: conversations 'kept me honest, kept me inspired.' Ev_006's fatherhood reflection demonstrates self-awareness of emotional impacts. Ev_027's acknowledgment that 'past trade deals haven't always lived up to the hype' shows capacity for critical self-review. However, his speeches rarely acknowledge uncertainty, errors, or alternative framings of policy positions. Confidence statements dominate ('I'm absolutely confident,' ev_004; 'America's resurgence is real,' ev_024) with minimal epistemic hedging. This asymmetry suggests metacognition is selectively deployed—strong in personal-identity and relationship domains, but constrained in public-role performance. The pattern may reflect adaptive audience management rather than genuine cognitive limitation.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_006",
+        "ev_027",
+        "ev_004",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "emotional_co-regulation_through_attribution",
+      "definition": "The tendency to regulate emotional intensity by attributing credit, agency, and cause to distributed actors rather than claiming personal credit or blame. This shifts emotional stakes from personal exposure to collective participation.",
+      "finding": "A distinctive pattern across Obama's speeches is consistent distribution of agency and attribution to external actors. Ev_032 exemplifies this: 'It's you—the American people. All of this progress is because of you'—the president consistently transfers credit and agency to distributed others. Ev_044 extends this: 'You made me a better President, and you made me a better man.' This attribution pattern serves emotion regulation functions: (1) reduces personal emotional exposure by distributing cause; (2) invites co-participation by making others invested in outcomes; (3) maintains humility that buffers against narcissistic injury. The pattern appears strategic but may also reflect genuine relational orientation—Obama consistently positions himself as participant in collective effort rather than sole agent. This contrasts with leaders who claim singular credit or deflect all blame, suggesting high relational co-regulation capacity.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "affect_labeling_through_conceptual_precision",
+      "definition": "The practice of using precise conceptual categories (middle-out economics, Wall Street reform, climate leadership) to transform diffuse emotional experiences into structured, named policy frameworks—essentially affect labeling at the political level.",
+      "finding": "Obama's speeches frequently convert emotional themes into precise conceptual formulations. 'Middle-out economics' (ev_021) labels and structures what could be diffuse class anxiety into a coherent framework. 'America's resurgence' (ev_024, ev_047) names and validates hope. 'Love won' (ev_035) regarding same-sex marriage represents particularly direct affect labeling—transforming complex social change into emotionally resonant conceptual summary. This practice serves emotion regulation by providing cognitive handles for collective emotional experiences, reducing ambiguity and creating shared language. Lisa Feldman Barrett's constructionist framework suggests this labeling function helps build emotional granularity at societal scale. Obama's consistent use of such formulations—rather than pure rhetorical amplification—suggests genuine conceptual precision as emotional technology, helping citizens metabolize large-scale social emotions into manageable cognitive form.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_047",
+        "ev_035"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

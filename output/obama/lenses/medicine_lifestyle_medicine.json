@@ -1,0 +1,135 @@
+{
+  "discipline": "medicine",
+  "lens": "lifestyle_medicine",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Limited evidence suggests passive health maintenance orientation; no data on proactive personal health management systems",
+      "finding": "The provided evidence consists entirely of official presidential speeches (2010-2017) focused on policy positions, legislative advocacy, and public communication. There is minimal direct evidence about Obama's personal health maintenance orientation. One data point (ev_007) shows physical engagement through coaching his daughter's basketball team, but this single anecdote does not constitute evidence of a stable, proactive health maintenance system. The speeches show an individual responding to structural and political demands with high task density, with no observable evidence that he systematically prioritizes or maintains personal health infrastructure as a foundational practice. The lifestyle medicine lens requires daily behavioral evidence about exercise, nutrition, sleep, recovery, and substance use control that is not present in this dataset.",
+      "evidence_ids": [
+        "ev_007"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Not applicable to lifestyle medicine analysis",
+      "finding": "The epistemic_style construct concerns how beliefs are formed about external reality, policy, or social systems. This dimension does not map meaningfully to lifestyle medicine's core question of whether an individual maintains stable daily health practices. The evidence provided contains policy statements, statistical claims, and political positions but offers no insight into how Obama forms beliefs about his own body maintenance, health feedback, or the value of habitual self-care.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Not applicable to lifestyle medicine analysis",
+      "finding": "The abstraction_formalization construct addresses preference for systematization versus contextual responsiveness in belief or policy systems. This does not translate to lifestyle medicine's focus on observable daily health behaviors. The evidence shows high-level policy abstraction (economic plans, legislative frameworks, international agreements) but tells us nothing about whether Obama abstractly conceptualizes his own health maintenance or treats it informally.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "No evidence available on personal health control orientation; structural control evident in policy domains",
+      "finding": "The control_orientation construct in lifestyle medicine specifically asks whether an individual maintains sustained, structured approaches to bodily maintenance. The provided evidence shows Obama exercising control over political processes, legislative outcomes, and policy systems (ev_015 veto threat; ev_019 executive actions), but this structural control orientation does not transfer to observable personal health management. No evidence exists in this dataset about whether he maintains structured routines for sleep, exercise, nutrition, or recovery. The basketball coaching (ev_007) represents a single unstructured leisure activity rather than evidence of health-maintenance control systems.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_007"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission prioritization with no observable health maintenance boundaries; extreme workload suggests systematic self-neglect",
+      "finding": "The evidence shows Obama operating under extraordinarily demanding conditions across 8 years of presidential duties, with events spanning economic crises (ev_011, ev_012), legislative showdowns (ev_013, ev_015), military commitments (ev_010), and continuous public communication obligations. The speeches reveal a pattern of total mission prioritization with no apparent boundaries or recovery windows. There is no evidence of health maintenance practices being protected, scheduled, or maintained as inviolable commitments. This suggests a mission_vs_relational_cost pattern where even basic bodily maintenance has been entirely subordinated to professional obligations, though direct evidence of health effects or specific maintenance practices is absent from this dataset.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "No evidence relevant to personal health risk posture",
+      "finding": "The risk_posture construct in lifestyle medicine asks whether an individual accepts health maintenance deficits as acceptable trade-offs for short-term efficiency. The provided evidence contains extensive discussion of political and economic risk (debt ceiling crises, sequester impacts, job losses), but offers no insight into Obama's personal risk calculus regarding his own body, sleep debt, recovery practices, or health aging. This dimension cannot be assessed from policy-focused speeches.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Not applicable to lifestyle medicine analysis",
+      "finding": "The relation_to_hierarchy_power construct addresses how authority and power structures are interpreted and deployed in social or political contexts. While Obama exhibits sophisticated navigation of hierarchical power as president, this political-sociological dimension does not map onto lifestyle medicine's focus on personal body maintenance systems. The framework asks whether health maintenance is treated as infrastructure requiring structural support, not how political power is managed.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Not applicable to lifestyle medicine analysis",
+      "finding": "Conflict_strategy in lifestyle medicine would concern whether an individual resolves tension between health needs and task demands through boundary-setting, negotiation, deferral, or abandonment of self-care. The political conflict evidence (ev_010, ev_015, ev_020) addresses legislative and partisan conflict, which is conceptually distinct from the internal negotiation between body maintenance and mission demands that lifestyle medicine examines. No evidence addresses this internal conflict domain.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Evidence shows long-term policy horizons but no observable personal health maintenance time horizon",
+      "finding": "The evidence demonstrates Obama operating with multi-year policy horizons: climate agreements (ev_040), trade deals (ev_030), veteran hiring initiatives with 2013 deadlines (ev_009), Medicare solvency extending 12+ years (ev_002). This suggests strong long-term orientation in professional domains. However, this long-horizon orientation does not provide evidence about personal health maintenance time horizons. Lifestyle medicine's central question—whether long-term bodily maintenance is treated as infrastructure—cannot be answered from speeches alone. The absence of any health maintenance discussion across 8 years of communications is notable but does not constitute positive evidence for either long-term or short-term health orientation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_009",
+        "ev_030",
+        "ev_040"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "No evidence on personal health repair versus maintenance preferences",
+      "finding": "The rebuild_over_patch dimension asks whether an individual addresses health maintenance deficits through structural habit change or temporary compensatory behaviors. The provided evidence contains no discussion of health repair, health maintenance failures, or approaches to addressing them. Obama discusses structural versus temporary solutions in policy contexts (sequester vs balanced deficit reduction in ev_013; transportation funding in ev_006), but this does not translate to personal health behavior patterns. The absence of health-related content prevents assessment of whether he would rebuild stable health practices or rely on episodic repair.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_006"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "No evidence on self-awareness of personal health needs and maintenance requirements",
+      "finding": "Metacognition in lifestyle medicine refers to awareness of bodily needs, fatigue signals, recovery requirements, and the conditions necessary for sustained long-term function. The evidence shows Obama demonstrating metacognitive sophistication in political contexts: acknowledging Congressional obstruction patterns (ev_010), reflecting on lessons from his absence of father (ev_006), expressing gratitude for civic feedback (ev_044), and calling for ongoing self-improvement as a citizen (ev_046). However, there is no evidence of reflective awareness about his own health maintenance needs, energy limits, sleep requirements, or the sustainability of his extreme workload. The farewell address (ev_044, ev_045, ev_046) focuses on civic and political learning rather than personal health self-knowledge. This absence prevents assessment of health-related metacognition.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "health_invisibility_in_public_communication",
+      "definition": "The degree to which an individual's public speech repertoire includes or excludes discussion of personal health maintenance, physical self-care practices, or body-maintenance behaviors. This dimension emerges because the evidence baseline for lifestyle medicine analysis typically includes observable health behaviors, but public figures may maintain strict separation between public performance and private self-care, rendering health behaviors structurally invisible in official communications.",
+      "finding": "Obama's 8-year corpus of official presidential addresses (2010-2017) contains zero substantive discussion of personal health maintenance, exercise routines, dietary practices, sleep patterns, or recovery behaviors. The only partial exception is ev_007, where basketball coaching of his daughter's team appears as a personal anecdote rather than a health maintenance disclosure. This near-complete absence could indicate either (a) minimal health maintenance practices being maintained, (b) deliberate suppression of health visibility for political image management, or (c) cultural norms that remove personal body maintenance from presidential public discourse. This pattern complicates lifestyle medicine analysis because the framework assumes observable behavioral evidence that may be systematically withheld in high-visibility public figures.",
+      "evidence_ids": [
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "workload_intensity_inference_gap",
+      "definition": "The structural gap between observable professional workload indicators and actual health maintenance capacity. High-intensity leadership roles produce visible evidence of task demands (speeches, crises, legislative battles) but no direct evidence about whether the person retains bandwidth for personal health infrastructure. This gap requires explicit acknowledgment in lifestyle medicine analyses of public figures.",
+      "finding": "The evidence shows Obama operating at extreme workload intensity: continuous crisis navigation (sequester, debt ceiling, government shutdown threats), legislative combat (ev_015, ev_020), military leadership responsibilities (ev_010, ev_024), and continuous public communication. This level of sustained high-intensity engagement over 8 years would theoretically require robust health maintenance infrastructure to sustain cognitive and physical function. However, the workload evidence provides no inference about whether such infrastructure exists. The inference gap is directional: extreme workload makes health maintenance more necessary and more likely to be sacrificed, but does not confirm actual maintenance patterns. This emergent dimension advises future lifestyle medicine analyses to note when professional evidence can only establish negative inference (health maintenance is likely compromised by workload) rather than positive evidence about actual practices.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "ev_015",
+        "ev_020",
+        "ev_010",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

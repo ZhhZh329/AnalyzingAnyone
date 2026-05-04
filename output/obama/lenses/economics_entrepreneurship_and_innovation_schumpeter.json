@@ -1,0 +1,142 @@
+{
+  "discipline": "economics",
+  "lens": "entrepreneurship_and_innovation_schumpeter",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "结构内优化者，非结构性替代者",
+      "finding": "Obama的能动性主要体现在通过现有制度框架实现政策目标，而非通过新的资源组合打破旧均衡。他推行ACA（医疗保险改革）、Dodd-Frank（金融监管）和清洁能源计划，都是在既有的政府/市场结构内进行边际改良，而非发起能够重塑竞争维度的结构性替代。证据显示他明确拒绝了某些\"旧结构不够用\"的判断——例如他宣称ACA延伸了Medicare偿付能力12年(ev_002)，这种表述暗示系统可以通过调整参数来修复，而非需要新组合。唯一接近Schumpeter式行动的是他在清洁能源领域的系统重组（风能增加三倍、太阳能增加三十倍）(ev_040），但这仍是在既有政策工具箱内的高效执行，未达到new combinations所需的结构性重排。Obama的agency更接近熊彼特式官僚优化者（administering existing equilibria），而非创业式替代者（creating new equilibria）。",
+      "evidence_ids": [
+        "ev_002",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "理性渐进型信念形成",
+      "finding": "Obama的认知方式依赖制度内数据和专家分析，偏好通过已知参数组合优化现有系统，而非探索未知组合。他在演讲中频繁引用可量化指标（11 million jobs created in 57 months, ev_025; 2.5 million jobs in 2015, ev_033; $11 billion recovered for 26 million consumers, ev_028），这些都指向通过测量现有系统输出来调整政策参数，而非探索新的生产函数。他的表述\"deficits falling at fastest rate since WWII\"(ev_016)和\"carbon pollution at lowest level in 25 years\"(ev_040)都体现了一种系统调参者的认知风格：关注现有系统的运行指标，而非质疑系统边界本身。这种认知模式与Schumpeter式企业家探索性认知（识别旧要素新组合的可能性）存在显著距离。",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_028",
+        "ev_016",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "低抽象化偏好，系统内参数调整",
+      "finding": "Obama表现出极低的抽象化和形式化偏好。他没有提出将不同资源域重组为新系统结构的政策框架，而是倾向于通过已有的政策工具（立法、行政命令、监管）逐一处理具体问题。\"Year of Action\"中列举的20多项executive actions(ev_019)都是针对具体问题的独立干预，缺乏系统性重组逻辑。他的能源Blueprint（cut oil imports by one-third, ev_004）虽然设定了量化目标，但其执行路径依赖现有监管和市场机制，没有体现将分散资源重新组合为新的system-level offering的企图。从Schumpeter视角看，这种低抽象化偏好表明Obama的核心能力在于制度内高效管理，而非识别和实施new combinations所需的结构化资源抽象能力。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_004"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "中等控制需求，主要用于稳定现有结构",
+      "finding": "Obama的控制取向体现在他试图通过扩大行政权力来克服立法障碍。2014年的\"Year of Action\"明确展示了这一模式：面对国会反对，他通过executive orders推进具体政策（如联邦承包商最低工资$10.10/hour, ev_017）。他在债务上限谈判中的立场（\"I will not negotiate over the full faith and credit of the United States\", ev_015）体现了对特定原则的控制维护。但这种控制主要是为了稳定现有制度框架不被瓦解，而非为新组合的实施创造结构条件。从Schumpeter视角看，他的控制行为服务于制度稳定和参数优化，而非结构性重配所需的资源重新绑定。",
+      "evidence_ids": [
+        "ev_017",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "愿意承受适度政治代价以推进议程",
+      "finding": "Obama在若干场合表现出愿意承受显著的社会摩擦和政治对抗以推进其政策目标。他在债务上限问题上的强硬立场（ev_015）直接拒绝了与国会的谈判空间，体现了对系统性原则（美国信用）的优先排序。他在Year of Action中明确批评共和党\"blocked or voted down every serious idea\"(ev_020)，显示了将政策目标置于跨党派关系之上的取向。他在气候政策上的坚持（\"not something to tear up – it's something to build upon\", ev_041）同样体现了长期目标优先于短期政治舒适度的特征。但这些选择仍落在传统政策博弈范畴内，未达到Schumpeter式企业家为实现new combinations而进行根本性资源重组所需的系统性关系断裂程度。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "适度风险承担，偏好制度内分担",
+      "finding": "Obama表现出在特定领域承担可观风险的意愿，但在风险处理方式上偏好通过制度化机制分担。汽车业纾困（ev_022）是典型案例：这是一个高不确定性政策选择，但通过联邦救助机制实施，将风险社会化而非私人承担。TPP谈判（5年努力，ev_030）同样体现了对国际贸易新结构不确定性的承受，但其执行依赖国会授权而非个人承诺。他在清洁能源上的大规模投入（风能三倍、太阳能三十倍增长，ev_040）显示了长期方向性承诺，但投资决策通过市场机制和监管框架实现，未体现Schumpeter式企业家直接进行资源重组以押注于新组合的冒险模式。",
+      "evidence_ids": [
+        "ev_022",
+        "ev_030",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "制度内权力运用者",
+      "finding": "Obama对权力和层级结构的运用主要体现在激活和扩展总统行政权，而非挑战或重塑权力结构本身。他在国会受阻时转向executive actions（ev_019），体现了一种制度内权力替代策略。他明确指出\"One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned\"(ev_010)，这是在批判国会阻挠的同时援引制度传统来强化总统权威。这种模式反映了对现有权力结构的适应和工具化运用，而非Schumpeter式企业家对旧权力结构的替代性重组。Obama利用权力来优化现有系统，而非创造新的权力-资源组合形态。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "制度内谈判与对峙交替",
+      "finding": "Obama的冲突策略呈现两极化模式：常规状态下寻求制度内谈判和妥协（如多次呼吁两党合作，ev_008），但在特定原则性议题上采取对峙姿态并试图将对手塑造为不计后果者。债务上限谈判中他明确表示\"will not negotiate\"(ev_015)，并将共和党立场定性为\"height of irresponsibility\"。他在Year of Action中系统性地将共和党描绘为middle-class机会的阻挠者(ev_020)。这种对峙-谈判的双轨策略在制度内博弈中是合理的，但从Schumpeter视角看，它缺乏通过引入新利益相关者、新联盟或新市场接口来重新定义冲突结构的尝试。Obama的冲突处理始终在现有政治系统内展开，未体现new combination所需的冲突-重构逻辑。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "中长期政策导向，短期危机响应",
+      "finding": "Obama的时间视野呈现双层结构：一方面他设定了2025年能源目标（减少三分之一石油进口，ev_004）、2014年阿富汗撤军时间表（ev_010）、以及巴黎气候协议等长期结构性议程；另一方面他频繁进行短期危机响应，如债务上限(2013)、sequester cuts(2013)、 transportation funding deadlines(2011-2012)等。这种混合视野反映了一个在既有制度约束内同时管理多个时间线政策议程的执政者形象，而非Schumpeter式企业家押注于单一长期结构性转换的视野。Obama的长期目标（清洁能源、医疗保险扩展）仍通过短期政策工具的累积来实现，未体现那种将资源配置押注于一次性结构性重组的企业家时间逻辑。",
+      "evidence_ids": [
+        "ev_004",
+        "ev_010",
+        "ev_013",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "明确偏向修补而非结构重建",
+      "finding": "这是最能区分Obama与Schumpeter式人物的构念。证据一致显示他偏好通过修补现有制度来解决问题，而非发起结构性替代。ACA通过的是对现有Medicare/Medicaid系统的扩展，而非创建新的医疗资源配置机制(ev_001, ev_002)。Dodd-Frank是对既有金融监管框架的修补，设立新机构（CFPB）但未改变市场基础结构(ev_028, ev_029)。他在债务危机中的立场是避免\"manufactured crises\"(ev_048)，体现了一种维护系统稳定性的本能。他的标志性表述\"Our economy grows best not from the top-down, but from the middle-out\"(ev_021)虽然提出了再分配哲学，但它是在现有市场资本主义框架内的参数调整，而非对生产关系的结构性重排。从Schumpeter视角，Obama是一个系统优化者，其rebuild行为主要是在旧均衡内进行参数校准，而非创造新的经济结构。",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_021",
+        "ev_028",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "较高的自我监测能力",
+      "finding": "Obama展现出高于平均的元认知能力。他在多次演讲中表现出对自身认知局限的意识。2015年他承认\"past trade deals haven't always lived up to the hype\"(ev_027)，显示了对政策效果与预期之间落差的认知监控。他在farewell address中反思\"Every day, I learned from you. You made me a better President\"(ev_044)，体现了对自身成长的持续评估。他在2014年的自我描述（\"I took on a second job: assistant coach for Sasha's basketball team\", ev_007）则显示了一种在公共角色之外保持私人身份连续性的自我意识。这种元认知能力服务于他在制度内的策略调整，但未转化为识别和实施new combinations所需的认知重组能力。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_entrepreneurial_capacity",
+      "definition": "在现有国家制度框架内，通过激活、重组和扩展制度工具来提升政府效能的能力，而非通过市场过程或私人创业实现的结构替代。这是一种在给定制度约束下的高效政府创新能力，区别于Schumpeter式企业家通过新资源组合打破制度边界的结构性创业行为。",
+      "finding": "Obama展现出显著的制度内创业能力：他在government tech modernization中引入Presidential Innovation Fellows、硅谷合作伙伴以提升联邦政府运行效率(ev_037)；他在Cancer Moonshot中创建跨机构task force并利用技术手段（Trials.Cancer.Gov）重组医疗研究资源的发现和使用模式(ev_043)；他在清洁能源转型中通过监管标准（汽车燃油效率标准、Paris协议）创造新的市场激励结构(ev_040)。这些行为在Obama任内产生了可测量的系统改进，但它们始终在国家制度框架内运行，通过政府工具而非私人市场过程实现。这种模式更接近熊彼特式的'制度内优化'而非'制度外替代'，其价值在于提升政府作为既有系统管理者的效能，而非创造能够替代既有系统的新的经济结构。",
+      "evidence_ids": [
+        "ev_037",
+        "ev_043",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_modeling_mathematical_logic",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaper with strong structure-responder tendencies; operates primarily within institutional frameworks while asserting defined boundaries",
+      "finding": "Obama displays a distinctive pattern of framing agency within institutional constraints rather than pure transformative ambition. He frequently invokes Congressional inaction, Republican obstruction, and structural limitations as context for his actions (ev_020: Republicans blocked minimum wage, equal pay, unemployment insurance). However, when institutional channels fail, he pivots to executive action with clearly defined boundaries (ev_015: refusing to negotiate over debt ceiling; ev_029: issuing veto threats against Wall Street Reform repeal). This suggests a world-shaper who prefers to work through structures but will draw firm lines when necessary. His rhetoric often positions him as defending established rules ('full faith and credit of the United States') rather than creating new paradigms, indicating that his agency orientation operates primarily through institutional gatekeeping rather than fundamental system transformation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-pragmatic with rhetorical integration; uses statistics and data as support within broader persuasive frameworks rather than as primary mode of knowing",
+      "finding": "Obama's epistemic style reveals a tension between empirical claims and narrative reasoning. He frequently cites specific statistics (11 million jobs over 57 months - ev_025; $11 billion recovered for 26 million consumers - ev_028; wind power tripled, solar 30x - ev_040), demonstrating facility with quantitative evidence. However, these data points are consistently embedded within motivational and moral frameworks rather than standing as independent logical anchors. His statement acknowledging past trade deals 'haven't always lived up to the hype' (ev_027) reveals epistemological humility about empirical claims. Notably, he rarely engages in explicit logical deduction or formal reasoning chains; instead, he uses empirical claims to support pre-established value positions. His epistemic style appears more aligned with pragmatic consequentialism—judging policies by outcomes—rather than a priori logical structures.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with emphasis on accessible policy frameworks; creates systematic schemas but not formal logical systems",
+      "finding": "Obama demonstrates a characteristic pattern of creating abstract policy schemas that are conceptually systematic but not formally rigorous. His 'middle-out' economic philosophy (ev_021) represents a structural abstraction of economic causation, and his 'balanced approach to deficit reduction' (ev_013) creates a framework for policy evaluation. However, these abstractions remain at the level of accessible political philosophy rather than formal modeling. He does not construct rule-based systems, predicate logic, or axiomatic frameworks. His abstractions serve communicative and persuasive purposes—making complex policies legible to broad audiences—rather than追求 logical completeness. The structured list format in his 'Top 10 Things' address (ev_033) suggests comfort with categorization but not formal systematization. This pattern indicates moderate abstraction without strong formalization drive.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "concept_key": "control_orientation",
+      "assessment": "Institutional-mechanism control; prefers regulatory frameworks, deadlines, and clear rules over interpersonal or operational control",
+      "finding": "Obama's control orientation manifests primarily through institutional mechanisms rather than direct operational control. He establishes clear deadlines and quantified targets (7 days until transportation funding expires, 8 days until student loan rates double - ev_011; cut oil imports by one-third by 2025 - evt_004). His use of executive orders (raising contractor minimum wage to $10.10 - ev_017; 'over 20 executive actions' - ev_019) and regulatory frameworks (Consumer Financial Protection Bureau - ev_028) demonstrates preference for rule-based system control. He sets explicit boundaries ('I will not negotiate over the full faith and credit of the United States' - ev_015) and issues definitive commitments ('I will veto it' - ev_029). Notably absent is interpersonal control orientation; he does not rely on personal authority, hierarchical loyalty, or emotional manipulation. His control operates through transparent institutional mechanisms with publicly stated rules—this suggests a control style compatible with formal systems but focused on governance rather than pure operational control.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with relational awareness; willing to assert positions and criticize opponents while maintaining rhetorical civility",
+      "finding": "Obama consistently prioritizes policy missions over relational comfort, evidenced by explicit criticism of Congressional opponents ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) and condemnation of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010). He declares veto intentions against policy positions he opposes (ev_029). However, his criticism maintains rhetorical civility—attacks focus on positions and processes rather than personal character. He simultaneously calls for bipartisan cooperation and documents opposition, suggesting mission priority without complete relational sacrifice. His willingness to frame disagreements as institutional pathology ('not what our founding fathers envisioned') indicates he will accept relational costs when defending structural principles, but avoids personal attacks that would permanently damage potential cooperation. This represents mission-priority with calibrated relational awareness.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse with calculated institutional moves; prefers stable frameworks and proven mechanisms over uncertain ventures",
+      "finding": "Obama's risk posture reflects institutional caution and preference for established mechanisms over speculative ventures. His emphasis on proven policies ('We've worked too hard to recover from one crisis only to risk another' - ev_029) and documented outcomes (ACA extended Medicare solvency - ev_002; auto industry rescue - ev_022) suggests preference for evidence-backed initiatives. He demonstrates low tolerance for unstructured uncertainty—his statement refusing to negotiate over debt ceiling (ev_015) eliminates ambiguity to prevent market risk. His strategic approach to the Cancer Moonshot involves cross-agency task forces and systematic research (ev_042, ev_043) rather than high-risk bets. He acknowledges uncertainty ('I'm the first to admit that past trade deals haven't always lived up to the hype' - ev_027) but frames this as learning rather than embracing volatility. This pattern indicates institutional risk aversion—willing to act within known frameworks but resistant to unstructured scenarios.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_015",
+        "ev_022",
+        "ev_027",
+        "ev_029",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority respect with principled boundary-setting; uses hierarchy for implementation while defending institutional integrity",
+      "finding": "Obama demonstrates sophisticated navigation of institutional hierarchy—he regularly invokes Congressional authority, references constitutional frameworks, and positions himself within established governmental structures. He calls for extending transportation bills through Congressional action (ev_008) and explicitly uses veto authority as institutional tool (ev_029). However, he simultaneously sets principled boundaries against what he frames as institutional overreach ('I will not negotiate over the full faith and credit of the United States' - ev_015). He criticizes Senate procedural tactics while acknowledging neither party is 'blameless' (ev_010), suggesting nuanced rather than categorical hierarchy challenge. His reference to 'founding fathers' intent' (ev_010) positions him as defender of institutional principles against contemporary deviation. This indicates a leader who respects institutional hierarchy as implementation mechanism but will assert boundaries when institutional integrity is at stake—a constitutional formalist in practice.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation and boundary-setting; converts conflict into definitional/principled disputes while maintaining institutional frame",
+      "finding": "Obama's conflict strategy exhibits a distinctive pattern of translating substantive disagreements into principled definitional disputes. When opposing Wall Street Reform repeal, he frames it as defending 'level playing field' and 'same rules for everyone' (ev_003). When refusing debt ceiling negotiation, he converts it to defending 'full faith and credit of the United States' (ev_015). Rather than compromising or escalating to personal conflict, he establishes inviolable principles that define the boundaries of acceptable negotiation. His statement that 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) exemplifies definitional boundary-setting that prevents category confusion. He largely avoids splitting (dividing opponents) or suppression (ignoring conflicts); instead, he recharacterizes conflicts as principled stand-offs where his position aligns with institutional integrity. This represents sophisticated conflict translation that preserves institutional frame while establishing non-negotiable positions.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_012",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural with operational short-term awareness; integrates multi-decade policy horizons with immediate deadline responsiveness",
+      "finding": "Obama's temporal orientation demonstrates integration of long-term structural horizons with operational short-term responsiveness. He explicitly references multi-decade policy impacts ('extended Medicare solvency by 12+ years' - ev_002; 'cut oil imports by one-third by 2025' - evt_004) and discusses 25-year carbon pollution trends (ev_040). His Paris climate agreement (ev_034) and Iran nuclear deal represent mission-scale temporal horizons. Simultaneously, he demonstrates acute attention to immediate deadlines ('7 days until thousands of American workers have to walk off the job' - ev_011). The 'Year of Action' framing (evt_015) represents explicit acknowledgment of near-term imperative. His farewell address reflects on eight years while emphasizing 'sustained civic engagement over the full span of a lifetime' (ev_046). This pattern indicates integrated temporal orientation—long-term structural vision with operational awareness of immediate constraints and deadlines, suggesting mission-scale time horizons informed by pragmatic short-term action.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_034",
+        "ev_040",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural reform preference; demonstrates repeated choice for comprehensive redesign over incremental adjustment",
+      "finding": "Obama exhibits strong preference for structural redesign over local repair across multiple policy domains. His signature achievements—ACA (ev_002: 'single longest extension in history' of Medicare solvency), Dodd-Frank Wall Street Reform (ev_028: $11 billion recovered for consumers), and Trade Promotion Authority for TPP (ev_026)—represent comprehensive institutional redesign rather than incremental adjustment. He explicitly advocates 'balanced approach' to deficit reduction (ev_013) rather than piece-by-piece cuts. His opposition to sequester centers on its character as blunt mechanism requiring replacement with structured alternative (ev_014: documented human costs of sequester cuts to Head Start, Meals on Wheels). His framing of executive orders as systematic 'Year of Action' (ev_019) with 'over 20 executive actions' suggests integrated structural approach. He characterizes bipartisan budget deal as 'Christmas miracles' (ev_048) suggesting celebration of systemic cooperation over ad hoc fixes. This pattern indicates systematic reformer orientation—preference for comprehensive policy architecture over incremental修补.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_019",
+        "ev_026",
+        "ev_028",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness expressed through rhetorical calibration; limited explicit monitoring of own reasoning structures",
+      "finding": "Obama's metacognitive patterns reveal moderate awareness expressed primarily through rhetorical adjustment rather than explicit reasoning monitoring. He acknowledges epistemological limits ('I'm the first to admit that past trade deals haven't always lived up to the hype' - ev_027), demonstrating awareness of potential gap between claim and reality. However, he does not explicitly track his own cognitive biases, hidden premises, or reasoning limitations. His statement 'Neither party has been blameless in tactics like these' (ev_010) shows some self-awareness of systemic dynamics beyond his own position. He reflects on learning from American people ('Every day, I learned from you' - ev_044) and expresses optimism about 'America's resurgence' while acknowledging ongoing challenges (ev_024). However, these reflections remain at personal/experiential level rather than engaging with formal reasoning structures or logical analysis. He does not display Frege/Russell-style conceptual clarification discipline, definitional monitoring, or systematic premise examination. His metacognition operates through empathetic listening and rhetorical calibration rather than formal self-examination of reasoning processes.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_024",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "logical_compression_threshold",
+      "definition": "The tendency to convert ambiguous, multi-dimensional political situations into clear, binary decidable propositions versus allowing sustained complexity and ambiguity. This captures a distinctive Obama pattern observed across multiple events: repeatedly compressing contested issues into clean definitional stand-offs (debt ceiling as 'full faith and credit'; Wall Street Reform as 'level playing field') rather than maintaining graded or multi-party complexity.",
+      "finding": "This dimension captures Obama's distinctive rhetorical strategy of logical compression—converting complex legislative conflicts into clean binary propositions. His statement 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) exemplifies perfect binary compression of a complex geopolitical and religious situation. Similarly, 'I will not negotiate over the full faith and credit of the United States' (ev_015) transforms a multi-party budgetary negotiation into a binary principle. This pattern appears consistently: TPP framed as binary choice between American rules or Chinese rules (ev_031); sequester as human costs vs. balanced approach (ev_014). This suggests a high logical compression threshold—comfort with converting ambiguity into decidable propositions—which may serve rhetorical clarity but potentially oversimplifies complex policy landscapes. The pattern aligns with mathematical logic orientation (seeking decidable propositions) but may indicate underweighting of contextual complexity.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_031",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "definition_integrity_priority",
+      "definition": "The degree to which maintaining precise definitions and categorical boundaries takes precedence over persuasive effectiveness, relational harmony, or practical outcomes. This captures Obama's observed pattern of preserving definitional distinctions even when doing so may complicate persuasive communication or require correcting others' terminology.",
+      "finding": "Obama demonstrates notable commitment to definition integrity in several contexts. His insistence on distinguishing 'war with al-Qaeda' from 'war with Islam' (ev_012) shows willingness to invest rhetorical effort in precise categorical boundary maintenance. His repeated clarification that drilling alone is not sufficient strategy (ev_005) indicates effort to prevent conceptual collapse between 'domestic drilling' and 'energy independence'. His framing of 'middle-out' economics (ev_021) represents precise specification of economic causation model. However, this dimension also reveals limits: his reference to survey data showing 'majority of small business owners support $10.10 minimum wage' (ev_023) relies on claimed data without definitional precision about methodology or sample. His statement 'our deficits are already falling at the fastest rate since the end of World War II' (ev_016) with 'medium' reliability note suggests occasional definitional sloppiness under rhetorical pressure. Overall, moderate definition integrity priority—careful in principled contexts but not rigidly consistent across all communications.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_005",
+        "ev_021",
+        "ev_023",
+        "ev_016"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

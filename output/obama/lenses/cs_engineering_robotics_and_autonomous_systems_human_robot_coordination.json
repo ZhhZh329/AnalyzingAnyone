@@ -1,0 +1,193 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "robotics_and_autonomous_systems_human_robot_coordination",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: Obama repeatedly attempted to reshape political structures and policy systems through executive action, coalition-building, and direct intervention when institutional channels failed.",
+      "finding": "Obama consistently attempted to actively reshape policy structures rather than merely respond to them. When Congress blocked legislative priorities, he declared a 'Year of Action' and took over 20 executive actions (ev_019), signed executive orders raising contractor minimum wage (ev_017), and framed himself as a coordinator of collective American effort rather than a passive responder to political conditions. His 'middle-out' economic philosophy (ev_021) represents a direct attempt to restructure how economic growth is understood and pursued, not just react to existing economic conditions. His framing of TPP as a mechanism to shape global trade rules (ev_031) rather than simply respond to them exemplifies this world-shaping orientation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_021",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical and metric-driven: Obama heavily relied on data, statistics, and measurable outcomes to form and justify positions, though he also incorporated narrative and values.",
+      "finding": "Obama's belief formation heavily depended on measurable evidence and quantified outcomes. He repeatedly cited specific statistics: 11 million jobs over 57 months (ev_025), 2.5 million jobs in 2015 (ev_033), 26 million consumers recovering $11 billion through CFPB (ev_028), wind power tripled and solar thirtyfolded (ev_040), Head Start cuts affecting families (ev_014). He referenced survey data about small business owner support for minimum wage (ev_023) and cited the deficit falling 'at the fastest rate since World War II' (ev_016). However, he also showed capacity for acknowledging limitations of this approach—admitting past trade deals 'haven't always lived up to the hype' (ev_027)—suggesting epistemic humility tempered by data reliance.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_016",
+        "ev_023",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization: Obama articulated clear philosophical principles but grounded them in concrete, measurable, and often deadline-driven frameworks rather than abstract formal systems.",
+      "finding": "Obama consistently translated abstract principles into concrete operational frameworks with deadlines and metrics. While he articulated 'middle-out' economic philosophy (ev_021) and 'opportunity for all' (ev_018) as guiding principles, he immediately operationalized these through specific mechanisms: the ACA with Medicare solvency extensions (ev_002), Dodd-Frank with the CFPB consumer recovery metrics (ev_028), the Cancer Moonshot with clinical trial enrollment targets (ev_043), and energy goals tied to specific dates like 'one-third oil import reduction by 2025' (evt_004). His government modernization initiative specifically engaged technology experts to redesign federal systems (ev_037), indicating appreciation for formalizable coordination mechanisms. His timeframe references (7 days, 8 days, 90-day up-or-down votes) show comfort with temporal formalization of process.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_018",
+        "ev_021",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect mechanism control: Obama preferred creating and leveraging structural mechanisms, incentives, and institutional designs over direct manipulation of every outcome.",
+      "finding": "Obama consistently pursued indirect control through mechanism design rather than direct操纵. His use of executive orders (ev_017, ev_019) represents institutionalized use of presidential authority to shape outcomes without micromanaging. His veto threat against Wall Street Reform repeal (ev_029) created predictable consequences that shaped Congressional behavior. His Silicon Valley partnerships for government modernization (ev_037) and Presidential Innovation Fellows creating Trials.Cancer.Gov (ev_043) show preference for building systems that enable coordination rather than controlling each interaction. He explicitly framed his role as enabling collective action: 'that's why Congress should act' (ev_026), and in his farewell, expressed desire to work 'along your side, as a citizen' (ev_047) rather than directing from above. This suggests comfort with distributed coordination through designed mechanisms.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_037",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with relational maintenance: Obama prioritized policy goals but consistently attempted to frame conflicts as bipartisan and avoid permanent relational breaks.",
+      "finding": "Obama demonstrated willingness to absorb relational costs when core policies were threatened, yet maintained efforts to preserve working relationships. He declared 'Republicans in Congress have blocked' every serious jobs proposal (ev_020) and issued veto threats (ev_029), showing mission priority. However, he simultaneously framed transportation funding as 'not a Democratic or a Republican issue' and highlighted AFL-CIO and Chamber of Commerce joint support (ev_008). He called for remembering veterans 'year-round' through specific actions (ev_039) despite potential political costs. His debt ceiling position—refusing to negotiate over 'full faith and credit' (ev_015)—showed mission priority over cross-aisle comfort. Yet his farewell address emphasized gratitude to Americans 'whether we've seen eye-to-eye or rarely agreed at all' (ev_044), suggesting relational preservation even after confrontational episodes.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_039",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with principled red lines: Obama documented consequences of failure to build support while maintaining non-negotiable positions on core risks.",
+      "finding": "Obama exhibited a risk posture combining proactive documentation of failure consequences with principled refusal to negotiate on certain issues. On sequester, he documented specific human costs—Head Start cuts, Meals on Wheels strain, military family strain (ev_014)—as a defensive mechanism to build coalitions against harmful outcomes. On the debt ceiling, he drew a hard line: 'I will not negotiate over the full faith and credit of the United States' (ev_015). He reframed risky positions as defending American credibility: 'The United States of America is not a deadbeat nation' (ev_015). He acknowledged past policy disappointments ('past trade deals haven't always lived up to the hype') (ev_027), suggesting comfort with acknowledging uncertainty. His climate advocacy framed policy reversal as tearing up legacy rather than neutral adjustment (ev_041), treating some risks as irreversible.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_027",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority leveraged decisively with values-based framing: Obama used presidential power directly while framing it as serving democratic principles.",
+      "finding": "Obama displayed sophisticated use of institutional authority combined with democratic values framing. He leveraged veto power explicitly (ev_029), issued executive orders (ev_017, ev_019), and directed federal government hiring of veterans (ev_009). Yet he framed this authority as serving democratic ends: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036). He criticized Senate obstruction as contrary to founders' intent (ev_010) while acknowledging 'neither party has been blameless' (ev_010), showing nuanced understanding of institutional dynamics. His Cancer Moonshot initiative delegated significant authority to Biden while maintaining presidential direction (ev_042, ev_043), distributing rather than centralizing control. His farewell emphasis on civic participation beyond elections (ev_046) suggests understanding that institutional authority operates within broader democratic legitimacy.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_010",
+        "ev_017",
+        "ev_029",
+        "ev_036",
+        "ev_042",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Frame-and-escalate with cooperative window maintenance: Obama translated opposition into messaging while keeping cooperative framing available for future negotiation.",
+      "finding": "Obama's conflict strategy combined clear confrontation with persistent cooperative framing. He explicitly criticized Republican obstruction ('blocked or voted down every serious idea'—ev_020) while simultaneously framing issues as non-partisan: veterans hiring 'challenge to private companies' (ev_007), transportation as 'American issue' not 'Democratic or Republican' (ev_008). He drew clear red lines (debt ceiling—ev_015) while maintaining appeals to shared American values ('compassionate nation'—ev_015). He converted obstacles into narrative: Congressional blocking became evidence for executive action, bipartisan cooperation became proof of possibility. His conflict escalation was selective and instrumentally framed—veto threats on Wall Street Reform (ev_029), explicit executive action declarations in Year of Action (ev_019)—rather than universal confrontation. This suggests strategic conflict use rather than either suppression or generalized escalation.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_008",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional building: Obama consistently framed policies as legacy investments while managing short-term crises with reference to future sustainability.",
+      "finding": "Obama displayed consistent long-term orientation across policy domains. His energy blueprint set goals extending to 2025 (evt_004), his climate agenda referenced 25 years of carbon pollution reduction (ev_040), and his Paris Agreement framing emphasized 'low-carbon future' for 'our children' (ev_041). His Cancer Moonshot built on 45 years of prior research (ev_042) and designed systematic infrastructure like Trials.Cancer.Gov for sustained use (ev_043). His farewell emphasized 'over the full span of a lifetime' civic engagement (ev_046) and declared commitment extending beyond presidency: 'for all my days that remain' (ev_047). Yet he managed short-term crises with references to these long-term frameworks—sequester consequences linked to education and national security sustainability (ev_013, ev_014), transportation failure framed in job loss terms (ev_011). This suggests integration of short-term crisis management within long-term institutional sustainability framework.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference with selective patching: Obama favored comprehensive institutional overhauls over incremental fixes when political conditions allowed, while accepting patches when necessary.",
+      "finding": "Obama demonstrated preference for structural redesign in major policy initiatives. The ACA represented fundamental healthcare system restructuring (ev_002), not incremental adjustment. Dodd-Frank created new regulatory architecture and a new agency (CFPB) with systematic consumer protection functions (ev_028). The Cancer Moonshot built cross-agency task force structures (ev_043) rather than incremental research grants. Government modernization engaged external technology experts to redesign federal systems fundamentally (ev_037). However, when structural change was blocked, Obama accepted patches: 'temporary FAA fix' for sequester consequences (ev_012), executive orders on minimum wage when Congressional action failed (ev_017). He documented real human costs of patch limitations (ev_014) while continuing to advocate structural solutions. This suggests structural redesign as preferred mode, with patching as fallback when political conditions constrain.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_012",
+        "ev_014",
+        "ev_017",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with adaptive framing: Obama demonstrated consistent reflection on his own perspective, history, and limitations while translating insights into public communication strategies.",
+      "finding": "Obama exhibited strong metacognitive awareness across multiple dimensions. He explicitly reflected on how his personal history shaped his perspective: growing up without his father, 'I wondered what my life would have been like had he been a greater presence' (ev_006). He acknowledged limitations of his own approach: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He framed himself as learner dependent on public feedback: 'Every day, I learned from you. You made me a better President' (ev_044). He demonstrated awareness of communication dynamics, using personal stories (father absence, coaching daughter's basketball team—ev_007) to connect abstract policies to lived experience. His recognition that his conversations with Americans 'kept me honest, kept me inspired' (ev_044) suggests awareness of his own cognitive confirmation risks. This metacognitive pattern extended to institutional awareness—understanding that presidential power operates within democratic legitimacy structures (ev_036, ev_046).",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "shared_task_modeling",
+      "definition": "The capacity to consistently frame national governance as a shared task requiring transparent coordination mechanisms, public feedback integration, and predictable behavior expectations—rather than as hierarchical command or adversarial competition.",
+      "finding": "Obama exhibited distinctive shared task modeling across his presidency. He consistently framed public engagement as essential coordination input: calling for civic participation 'not just when there's an election' (ev_046), inviting Silicon Valley to 'help us modernize the federal government' (ev_037), and explicitly attributing progress to 'the American people... workers rolling up their sleeves, entrepreneurs starting new businesses... teachers and health workers and parents—all of us taking care of each other' (ev_032). His approach treated governance as ongoing collaborative design rather than periodic electoral delegation. This shared task modeling created predictable expectations: American people knew he would seek their input, frame issues publicly, and justify positions with data. This mechanism resembles human-robot coordination's emphasis on shared mental models—the public could predict how Obama would process problems and respond, enabling trust-based collaboration even across policy disagreements.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_036",
+        "ev_037",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "transition_management",
+      "definition": "The ability to smoothly manage transitions between autonomous action and collaborative coordination, including graceful handoffs of initiative, preservation of relationships across authority shifts, and design of durable mechanisms that outlast specific leadership.",
+      "finding": "Obama displayed sophisticated transition management across multiple dimensions. His Cancer Moonshot demonstrated delegation to Biden while maintaining coordination (ev_042, ev_043). His government modernization initiative explicitly designed mechanisms outlasting his presidency—engaging 'Presidential Innovation Fellows' to build Trials.Cancer.Gov for ongoing use (ev_043). His farewell framed transition as continued civic partnership: 'I look forward to working along your side, as a citizen' (ev_047), treating the presidency as one phase of ongoing public engagement rather than a distinct mode. He managed transitions between executive and Congressional action, using executive orders as interim coordination mechanisms while continuing to call for legislative solutions. His emphasis on sustainable institutions—Medicare solvency extensions (ev_002), deficit reduction trajectories (ev_016), climate frameworks (ev_041)—indicates design for durability beyond his direct authority. This transition management suggests understanding that coordination mechanisms must be designed for handoff, not just operation under current leadership.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

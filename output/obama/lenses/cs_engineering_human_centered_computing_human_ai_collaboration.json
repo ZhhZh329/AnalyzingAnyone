@@ -1,0 +1,171 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "human_centered_computing_human_ai_collaboration",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who responds to structural constraints rather than being dominated by them; actively redesigns problem structures through executive authority and coalition-building when legislative paths are blocked",
+      "finding": "Obama consistently demonstrates active agency in shaping policy outcomes rather than passively accommodating circumstances. He declared a 'Year of Action' in 2014 (evt_015) and took over 20 executive actions to advance his agenda when Congress blocked legislative pathways (ev_019). His October 2014 address at a manufacturing facility (evt_017) shows him crediting his own decisions ('we chose to invest in American auto industry') as causal agents driving outcomes. However, his agency is mediated through institutional structures—he frequently called on Congress rather than circumventing it, and his world-shaping occurred within constitutional boundaries. The pattern suggests he acted as a world-shaper within constraints, not a structure-responder resigned to existing conditions. His farewell address (evt_027) frames accomplishments as resulting from collective action with citizens ('All of this progress is because of you' — ev_032), indicating some distribution of agency to broader actors rather than claiming full control.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_022",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven with quantitative emphasis; builds beliefs through data synthesis and empirical claims rather than pure intuition",
+      "finding": "Obama's speeches are laden with specific metrics and statistical claims used to support policy positions. He cited '11 million new jobs' (ev_025), '$11 billion recovered for 26 million consumers' (ev_028), 'wind power tripled, solar 30x' (ev_040), and precise timelines ('seven days away,' 'eight days away' — ev_011) to create urgency and substantiate progress. He referenced surveys showing 'majority of small business owners support $10.10 minimum wage' (ev_023) as political evidence. However, his epistemic style also incorporates values and narrative frameworks—he described 'middle-out economics' as a philosophical position (ev_021) and framed TPP as protecting 'American values' (ev_030) beyond pure economic calculation. The combination suggests beliefs formed through synthesis of quantitative data with broader value commitments, not pure empiricism nor pure ideology. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) indicates willingness to update beliefs based on evidence.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_023",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction; articulates clear policy frameworks and principles but relies more on narrative and values than technical formalization",
+      "finding": "Obama demonstrates capacity for abstract policy frameworks ('Blueprint for a Secure Energy Future' — evt_004, 'balanced approach' to deficit reduction — ev_013, 'middle-out economics' — ev_021) but his communication style remains primarily narrative and value-based rather than technically formal. He speaks of 'opportunity for all' and 'hard work and responsibility' (ev_018) as organizing principles rather than formal specifications. His addresses rarely formalize policy as variables, constraints, or optimization targets—the framing is aspirational and moral rather than algorithmic. The exception is his use of specific numerical targets (one-third oil import reduction — evt_004, 100,000 veteran hires — ev_009) which function as somewhat formalized goals. Overall, the abstraction level suggests comfort with principle-based frameworks but preference for accessible communication over technical formalization.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_018",
+        "ev_021",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation expressed through institutional authority mechanisms; comfortable using vetoes, executive orders, and red-line declarations to shape outcomes",
+      "finding": "Obama shows clear comfort with exercising institutional authority to control policy outcomes. He issued definitive veto threats against Wall Street Reform repeal ('I will veto it' — ev_029), refused to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States' — ev_015), and used executive orders to raise the federal contractor minimum wage (ev_017). He described his military obligation in terms of control: 'Making sure they have what they need to succeed' (ev_038). His control orientation operates primarily through institutional channels—the presidency, executive agencies, and established regulatory bodies like the CFPB—rather than through personal dominance or informal power. This suggests a structured approach to control oriented toward maintaining systems and mechanisms rather than direct manipulation of every outcome.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization; willing to absorb relational and political costs when core policy goals are at stake",
+      "finding": "Obama demonstrates willingness to prioritize mission and policy goals over maintaining comfortable political relationships. He publicly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea' — ev_020), which incurred significant political costs. He refused to negotiate on the debt ceiling despite pressure (ev_015), potentially damaging relationships with Congressional Republicans. His 'Year of Action' declaration (evt_015) was explicitly a response to Congressional inaction, accepting conflict to advance policy goals. However, he also sought bipartisan coalition-building on issues like transportation funding ('AFL-CIO and the Chamber of Commerce — two groups who don't always see eye-to-eye' — ev_008), suggesting mission prioritization is balanced against coalition viability. The pattern suggests high mission priority but strategic rather than reflexive willingness to absorb relational costs—calculated escalation when other approaches fail.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "evt_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk acceptance; pursues ambitious multi-year initiatives while employing institutional safeguards and coalition-building to manage downside",
+      "finding": "Obama pursued several high-ambition, multi-year policy initiatives with significant implementation risk: the ACA (healthcare reform), Dodd-Frank (financial regulation), and the Paris climate agreement. His energy strategy explicitly rejected 'drilling alone' as insufficient (ev_005), acknowledging that partial solutions carry risk of failure. However, his approach to managing risk was primarily through institutional mechanisms—creating regulatory watchdogs (CFPB), establishing oversight structures, and setting intermediate targets—rather than through aggressive experimentation or high-risk gambles. His Cancer Moonshot (evt_026) employed a cross-agency task force approach (ev_043) suggesting structured risk management. He avoided risky debt ceiling negotiations (ev_015) and sequester improvisation, instead calling for replacement with known approaches. This pattern suggests a layered defense posture: ambitious goals pursued through managed institutional pathways, with conservative risk management at systemic脆弱 points.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_015",
+        "ev_043",
+        "evt_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional authority orientation; uses hierarchical position strategically within constitutional bounds rather than circumventing structure",
+      "finding": "Obama demonstrates sophisticated understanding of presidential authority and institutional hierarchy. He exercised constitutional powers (veto threats, executive orders) within their proper scope, never claiming authority beyond his position. His 2013 debt ceiling stance (ev_015) invoked institutional responsibility rather than personal authority ('The United States of America is not a deadbeat nation'). He described the Senate obstruction as contrary to 'what our founding fathers envisioned' (ev_010), framing his position within constitutional norms. His government modernization initiative (evt_023) brought Silicon Valley expertise into federal structures through the Presidential Innovation Fellows program (ev_037), suggesting comfort with integrating external expertise into hierarchical institutions rather than replacing them. This indicates understanding of authority as positioned within structures rather than standing above them—use of hierarchy without abuse of it.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_037",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalates strategically with clear red lines; prefers negotiation and coalition-building but willing to establish non-negotiable positions and public confrontation",
+      "finding": "Obama's conflict strategy combines preferred negotiation with strategic escalation. He consistently sought bipartisan support (ev_008, ev_048) and framed issues as 'not Democratic or Republican' (ev_008). However, when negotiation failed, he escalated with explicit red lines: debt ceiling non-negotiability (ev_015), veto threats against Wall Street Reform repeal (ev_029), and executive action declarations when Congress blocked legislation (evt_015). His condemnation of Senate obstruction tactics ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' — ev_010) escalated through public criticism rather than formal institutional challenge. The pattern suggests a translate-and-escalate strategy: attempts cooperative framing first, escalates to public confrontation and executive authority when blocked, but avoids destructive conflict spirals.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale horizon balancing short-term deliverables with long-term structural investments; willing to make multi-year commitments visible to future administrations",
+      "finding": "Obama demonstrates orientation toward mission-scale time horizons while maintaining accountability to short-term visible results. His healthcare (ACA), financial regulation (Dodd-Frank), climate policy (Paris Agreement), and energy strategy (evt_004) represent decade-scale structural investments. He explicitly called the Paris Agreement 'something to build upon' (ev_041), framing policy as legacy infrastructure for successors. Simultaneously, he tracked short-term metrics obsessively ('57 months of job growth' — ev_025, '2.5 million new jobs' in 2015 — ev_033). His Cancer Moonshot (evt_026) was designed as a multi-administration initiative, and the 11th anniversary of 9/11 address (evt_010) explicitly framed ongoing Afghanistan transition for 2014 completion. This dual orientation—long-term structural investment with visible short-term accountability—suggests mission-scale horizons without neglecting near-term political necessity.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_041",
+        "evt_004",
+        "evt_010",
+        "evt_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for comprehensive structural reform over incremental patching when systemic problems are identified",
+      "finding": "Obama's signature policies demonstrate consistent preference for comprehensive structural redesign over incremental adjustment. His healthcare approach (ACA) was a complete restructuring of insurance markets, not a patch to existing programs. Dodd-Frank represented comprehensive financial regulatory reform rather than targeted fixes to specific abusive practices. The Paris climate agreement was framed as establishing 'the course for a low-carbon future' (ev_034) globally. Even his 'Year of Action' executive actions (evt_015) functioned as structural policy implementation rather than crisis patching. The sequester response is instructive: rather than accepting or minimally adjusting, Obama repeatedly called for 'balanced deficit reduction' (ev_013, ev_014)—a structural alternative replacing the blunt mechanism. This pattern suggests systematic preference for comprehensive reform when systemic problems are identified, even when structural solutions face higher implementation risk and political opposition.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_034",
+        "evt_015",
+        "evt_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness; demonstrates capacity to recognize systemic obstacles, reflect on limitations, and update positions based on evidence",
+      "finding": "Obama demonstrates notable metacognitive reflection across his presidency. His farewell address shows explicit self-assessment: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledged past trade deals 'haven't always lived up to the hype' (ev_027), demonstrating capacity to evaluate historical performance critically. His 2012 State of the Union critique of Senate obstruction ('Neither party has been blameless' — ev_010) shows awareness that his own party shares responsibility for institutional dysfunction. The Cancer Moonshot structure (ev_043) reflects learned understanding that information asymmetry harms patients—a problem recognized and addressed structurally. His consistent public attribution of accomplishments to collective action ('because of workers' — ev_032) suggests awareness that presidential agency operates within systemic constraints, not as sole driver. This pattern indicates active monitoring of reasoning patterns and willingness to update positions based on evidence and reflection.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "delegation_orientation",
+      "definition": "The degree to which a leader distributes agency to external actors, institutions, or collective bodies rather than retaining decision-making authority personally. This differs from agency_orientation in focusing specifically on how agency is distributed across principals, not whether the actor primarily shapes or responds to structures.",
+      "finding": "Obama demonstrates a distinctive pattern of delegating agency to collective actors while maintaining oversight and accountability. His government modernization initiative brought in 'the sharpest minds from companies in Silicon Valley' (ev_037) to work within federal structures, creating the Presidential Innovation Fellows program. His veteran hiring challenge (evt_007, ev_009) delegated hiring goals to private companies rather than mandating through executive action. His Father's Day initiative (evt_005) involved White House partnerships with businesses to 'support fatherhood bonding opportunities.' The Cancer Moonshot explicitly assigned Joe Biden leadership while Obama maintained oversight. This pattern suggests active delegation design—creating structures where external actors hold meaningful agency within coordinated frameworks—consistent with human-centered computing principles of human-in-the-loop oversight rather than full automation or full human control.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_037",
+        "ev_043",
+        "evt_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_leverage",
+      "definition": "The capacity to identify and utilize existing institutional structures, rules, and resources to achieve policy goals without requiring new institutions to be built. Distinct from control_orientation in focusing on leverage through existing structures rather than direct control over outcomes.",
+      "finding": "Obama demonstrates sophisticated institutional leverage—the ability to identify and utilize existing institutional mechanisms to amplify policy impact without building new institutions. His executive order on minimum wage for federal contractors (evt_014, ev_017) leveraged existing federal contracting processes rather than requiring new legislation. The CFPB creation within Dodd-Frank (evt_020, ev_028) was an institutional innovation but one built within existing regulatory frameworks. His December 2015 address enumerating 'Top 10 Things' (evt_022) used the established weekly address format as a leverage point for policy communication. His healthcare enrollment improvements used existing ACA implementation infrastructure. The pattern suggests preference for institutional leverage—using existing structures as force multipliers—rather than either direct control or wholesale institution-building. This is consistent with human-centered design approaches that work within existing affordances rather than demanding entirely new systems.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "evt_022",
+        "evt_020"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

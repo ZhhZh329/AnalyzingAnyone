@@ -1,0 +1,179 @@
+{
+  "discipline": "psychology",
+  "lens": "cognitive_decision_psychology_judgment_under_uncertainty",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Hybrid responder-shaper who pivots to world-shaping when structural pathways are blocked",
+      "finding": "Obama demonstrates a primary orientation as a structure-responder—he repeatedly calls on Congress, seeks bipartisan consensus, and frames issues as collective American challenges (ev_008). However, when structural response is blocked, he systematically pivots to world-shaping through executive action. The 'Year of Action' speech (ev_015, ev_019) explicitly announces this shift: Republicans block legislative priorities, so he acts unilaterally. This suggests a pragmatic agency orientation that reads environmental constraints and deploys the appropriate tool—executive authority when legislative channels fail, coalition-building when available. He is not ideologically committed to either mode but is tactically adaptive based on perceived structural openings or closures.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Confidence-dominant with selective epistemic nuance, rarely deploying probabilistic language",
+      "finding": "Obama's default epistemic style leans heavily toward confident assertion ('I'm absolutely confident we will get there,' ev_004) and categorical commitments ('As long as I am President, that's a commitment this country is going to keep,' ev_001). He rarely hedges with probabilistic language or explicit uncertainty ranges. However, one notable exception reveals capacity for epistemic nuance: he acknowledges that 'past trade deals haven't always lived up to the hype' (ev_027), suggesting awareness that policy outcomes are uncertain. This pattern indicates a speaker who generally suppresses uncertainty markers for rhetorical effect while maintaining implicit awareness that outcomes are contingent. His epistemic style serves a confidence-calibration function for public audiences rather than expressing genuine probability estimates.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_027",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances abstract philosophical frameworks with concrete data anchoring",
+      "finding": "Obama deploys abstract economic philosophy ('middle-out economics,' ev_021; 'America's resurgence,' ev_024) but consistently grounds these frameworks in specific quantitative anchors. He cites 11 million jobs over 57 months (ev_025), $11 billion recovered for consumers (ev_028), wind power tripled and solar 30x (ev_040), and specific deadlines ('seven days away,' ev_011). This pattern suggests moderate-to-high abstraction capacity paired with deliberate data anchoring—abstract principles provide rhetorical coherence while concrete statistics provide verifiability and persuasive grounding. He is not a pure abstractionist, nor a pure empiricist, but a communicator who moves fluidly between frames depending on audience and purpose.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control commitment on core policy positions, tactical flexibility on implementation",
+      "finding": "Obama demonstrates strong control orientation when core policy commitments are at stake. He issues definitive veto threats against Wall Street Reform repeal (ev_029), refuses to negotiate over the debt ceiling under any circumstances (ev_015), and makes absolute commitments on Medicare (ev_001). However, his control orientation is strategically bounded—he does not seek control for its own sake but reserves it for issues where his prior commitments are non-negotiable. On implementation, he shows remarkable flexibility: using executive actions as workaround tools, seeking bipartisan coalitions, and adapting communication strategies across audiences. This suggests a well-calibrated control orientation that distinguishes between strategic ends (which he defends absolutely) and tactical means (which he adapts to circumstances).",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission goals over relational comfort with political opponents",
+      "finding": "Obama systematically prioritizes mission objectives over relational comfort with Congressional Republicans. The 'Year of Action' speech explicitly names Republican obstruction—'Republicans in Congress have blocked or voted down every serious idea' (ev_020)—framing this as legitimate grounds for unilateral executive action. His rhetoric around key accomplishments (ACA, Dodd-Frank, climate policy) frames opposition as obstruction of necessary reform rather than legitimate dissent to be reconciled. He does not soften messages for relational purposes; instead, he uses opposition rhetoric to justify executive action as an alternative pathway. This suggests a willingness to accept higher relational costs with political opponents when mission priorities are at stake, particularly when legislative obstruction blocks his policy agenda.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_012",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Minimizes expressed uncertainty for public confidence while maintaining tactical flexibility",
+      "finding": "Obama's risk posture involves managing uncertainty through confident public messaging rather than explicit probabilistic framing. He frames positive outcomes as near-certain ('America's resurgence is real,' ev_024) while using urgency framing for risks ('seven days away,' ev_011). Notably, he does not express significant uncertainty about policy effectiveness even in complex domains like counterterrorism (ev_012: 'America is at war with al-Qaeda and its affiliates') or economic policy. His sequester rhetoric (ev_013, ev_014) documents human costs without expressing uncertainty about causality or outcome probability. This suggests a risk posture where he manages uncertainty through rhetorical confidence on tractable policy problems while maintaining implicit flexibility—a style suited to public communication but one that sacrifices calibration precision for persuasive clarity.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_024",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Views presidential authority as delegated tool for democratic problem-solving, not personal dominance",
+      "finding": "Obama frames presidential power primarily in instrumental and delegated terms rather than personal authority. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences' (ev_036) positions hierarchy as a democratic mechanism rather than a personal platform. He issues veto threats (ev_029) not as dominance displays but as commitments to policy outcomes he has previously established. He seeks cross-party coalitions (ev_008) and attributes accomplishments to collective action ('it's you—the American people,' ev_032). This suggests a conception of hierarchy where power is a responsibility delegated for problem-solving rather than a resource for personal influence or legacy-building. His use of executive authority is reactive (responding to Congressional obstruction) rather than proactive empire-building.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_029",
+        "ev_008",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translates conflict into public accountability pressure rather than suppressing or escalating",
+      "finding": "Obama's conflict strategy systematically translates Congressional opposition into public accountability frames rather than suppressing conflict, accepting it as stalemate, or escalating to institutional confrontation. When Republicans block legislation, he publicly names the obstruction (ev_020) and pivots to executive action as an alternative. He issues specific deadlines with explicit public costs ('nearly 1 million jobs,' ev_006) to create public pressure for Congressional action. He refuses to negotiate on debt ceiling (ev_015) not through institutional escalation but by framing refusal as protecting American credibility. His conflict strategy is notably 'translate' rather than 'suppress,' 'split,' or 'delay'—he converts opposition into public accountability rather than either accommodating or institutionalizing the conflict.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_020",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Operates across multiple horizons with long-term legacy awareness built into present rhetoric",
+      "finding": "Obama demonstrates multi-horizon orientation. He optimizes for immediate Congressional deadlines (the 7-day transportation crisis, ev_011; the 8-day student loan doubling, ev_009), medium-term policy milestones (energy independence by 2025, ev_004; Afghanistan transition by 2014, ev_010), and long-term structural commitments (democratic renewal, ev_046; climate legacy for children, ev_041). Notably, his present rhetoric is forward-looking rather than present-focused—he frequently frames current actions as building toward a legacy ('that's not something to tear up—it's something to build upon,' ev_041). His farewell address (ev_047) explicitly frames his post-presidency as continuing civic engagement, suggesting long-term time horizon that extends beyond his formal position. This multi-horizon orientation enables sustained action under short-term pressure without sacrificing long-term vision.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_009",
+        "ev_004",
+        "ev_010",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair when fundamental approach is blocked",
+      "finding": "Obama consistently gravitates toward comprehensive structural redesign when he judges that incremental approaches have failed or are inadequate. His approach to healthcare reform (ACA as comprehensive overhaul rather than targeted fixes, ev_002), financial regulation (Dodd-Frank as structural reform rather than targeted corrections, ev_003), and deficit reduction ('balanced, comprehensive way,' ev_013) all reflect this orientation. His critique of 'drilling alone' as insufficient for energy security (ev_005) shows awareness that partial solutions fail to address systemic dependence. When Congress blocks structural solutions, he uses executive actions to implement partial redesigns within executive authority rather than accepting patch solutions for legislative priorities. This suggests a cognitive preference for structural solutions coupled with tactical pragmatism about what is achievable within existing constraints.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with deliberate rhetorical suppression of uncertainty signals",
+      "finding": "Obama demonstrates moderate metacognitive capacity through his sophisticated understanding of democratic processes and civic participation (ev_036, ev_046) and his capacity to acknowledge that 'past trade deals haven't always lived up to the hype' (ev_027). However, his public communication suppresses explicit uncertainty markers, and he does not publicly acknowledge errors in judgment or update priors based on outcomes. His farewell address attributes accomplishments to collective action rather than personal judgment quality (ev_032, ev_044), which may reflect genuine epistemic humility about presidential agency or strategic deflection of responsibility. Notably absent from his speeches are statements like 'I was wrong about X' or 'the evidence has caused me to revise my view of Y.' This suggests moderate metacognitive awareness with deliberate suppression of uncertainty signals for public communication purposes—a strategic tradeoff between epistemic honesty and rhetorical effectiveness.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_046",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Adaptive Sequencing (Tactical Means/Strategic Ends Recalibration)",
+      "definition": "The capacity to recalibrate tactical means while maintaining commitment to strategic ends when environmental constraints shift. Obama demonstrates this when Congress blocks legislative priorities—he adapts by deploying executive actions rather than abandoning policy goals. This is distinct from 'rebuild_over_patch' because it concerns the distinction between means and ends rather than the scale of solutions; it is also distinct from 'epistemic_style' because it concerns behavioral adaptation rather than belief formation.",
+      "finding": "Obama demonstrates consistent adaptive sequencing across multiple policy domains. When Republicans block minimum wage legislation through Congress, he signs executive orders for federal contractors (ev_017, ev_019). When trade deals disappoint, he negotiates new ones with different parameters rather than abandoning trade as a policy instrument (ev_027, ev_030). When sequester passes despite opposition, he documents its human costs to build public pressure for comprehensive replacement (ev_014). This pattern indicates sophisticated judgment that distinguishes between strategic commitments (affordable healthcare, financial regulation, clean energy) and tactical implementation pathways (legislative vs. executive), enabling him to maintain goal fidelity while adapting means to environmental constraints. This capacity for means-ends separation under political pressure suggests strong adaptive judgment that serves sustained action capacity.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_027",
+        "ev_030",
+        "ev_014",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Collective Attribution as Uncertainty Management",
+      "definition": "The practice of systematically attributing outcomes to collective American action rather than individual presidential agency. This serves as an uncertainty management strategy that deflects personal responsibility for uncertain outcomes while building public ownership of policy goals. Distinct from both 'metacognition' and 'relation_to_hierarchy_power' because it concerns how uncertainty about outcomes is distributed across actors rather than self-awareness or power relations.",
+      "finding": "Obama systematically attributes accomplishments to collective American action: 'It's you—the American people' (ev_032), 'because of workers rolling up their sleeves' (ev_032), 'because of teachers and health workers and parents—all of us' (ev_032). This attribution pattern appears across multiple contexts and is particularly pronounced in his farewell address, where he credits the American people for making him 'a better President, and a better man' (ev_044). This collective attribution serves multiple functions: it manages uncertainty about causal attribution (presidents claim credit for positive outcomes and blame external factors for failures), it builds public ownership of policy goals (making them harder to reverse), and it models democratic citizenship norms. This pattern suggests sophisticated use of attribution as an uncertainty management tool, allowing Obama to claim positive outcomes while distributing risk for uncertain ones across the collective.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "discipline": "neuroscience",
+  "lens": "cognitive_representation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with structured-institutional channeling—System 2 proactively sets agendas and uses executive power to reshape systems rather than merely responding to external pressures.",
+      "finding": "Obama demonstrates a proactive world-shaping orientation channeled through institutional mechanisms rather than raw personal agency. His 'Year of Action' declaration (ev_019) exemplifies deliberate agenda-setting, taking over 20 executive actions when Congress obstructed. Rather than pure reactive agency, his System 2 identifies structural bottlenecks (Congressional obstruction, regulatory gaps) and designs countermeasures (ev_029 veto threats, executive orders on minimum wage in ev_017). His father's day anecdote about coaching Sasha's basketball (ev_007) shows personal agency translated into community-level involvement, suggesting calibrated micro-level action. The pattern across events shows System 1 environmental responsiveness converted into System 2 strategic initiatives—the crisis framing in events 9 and 13 demonstrates pressure reactivity channeled into policy proposals rather than pure reaction.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_017",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Hybrid data-driven analysis with narrative integration—System 2 dominance in policy formation with deliberate System 1 resonance building through emotional framing and concrete human stories.",
+      "finding": "Obama's epistemic pattern reveals a sophisticated integration of analytical and intuitive processing. System 2 dominates in policy contexts: he cites specific statistics (11 million jobs in ev_025, 26 million consumers recovering $11 billion in ev_028), acknowledges trade deal limitations honestly ('past trade deals haven't always lived up to the hype' in ev_027), and presents balanced deficit reduction frameworks (ev_013). However, he systematically converts data into narrative resonance—sequester impacts framed through 'parents whose kids got kicked out of Head Start' (ev_014), veterans' challenges as human stories. His acknowledgment of uncertainty ('I'm the first to admit' in ev_027) demonstrates calibrated epistemic humility rather than either naive data-fetishism or pure narrative intuition. This suggests effective DMN-TPN integration: narrative processing serves strategic communication while substantive positions remain data-grounded.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_013",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with strong formalization preference—policy positions grounded in explicit frameworks ('middle-out economics,' constitutional principles) with systematic enumeration of mechanisms and outcomes.",
+      "finding": "Obama consistently operates at high abstraction levels, articulating explicit theoretical frameworks rather than purely empirical responses. His 'middle-out' economic philosophy in ev_021 represents formal theoretical positioning: 'Our economy grows best not from the top-down, but from the middle-out.' The Cancer Moonshot initiative (ev_042-043) demonstrates institutional systematization—cross-agency task force with measurable targets and tech solutions (Trials.Cancer.Gov). His energy blueprint (evt_004) shows multi-variable system modeling integrating domestic drilling, fuel efficiency, and clean energy rather than single-solution thinking. Government modernization efforts (ev_037) applying 'Presidential Innovation Fellows' from Silicon Valley to federal systems reflect formal institutional design approach. He rarely settles for local pattern-matching where structural analysis is possible, preferring to articulate general principles governing specific policies.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_042",
+        "ev_043",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Structural-institutional control rather than direct process control—seeks to design and protect systemic mechanisms (regulatory frameworks, democratic institutions) rather than micromanage outcomes or individuals.",
+      "finding": "Obama's control orientation manifests through institutional design and protection rather than personal dominance. His commitment to Wall Street Reform (Dodd-Frank) shows regulatory architecture building: 'a financial system in which everyone competes on a level playing field, and everyone is held to the same rules' (ev_003). The explicit veto threat against repeal attempts (ev_029) reflects protective control over institutional structures. His debt ceiling stance ('I will not negotiate over the full faith and credit of the United States' in ev_015) demonstrates principled boundary-setting rather than flexible accommodation. Notably absent is micromanagement orientation—he delegates Cancer Moonshot to Biden with genuine autonomy (ev_042), calls for civic participation beyond electoral cycles (ev_046), and attributes accomplishments to collective action ('All of this progress is because of you' in ev_032). This suggests adaptive control integrated with institutional trust rather than personal dominance cravings.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_029",
+        "ev_015",
+        "ev_042",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with principled cost-bearing—willing to accept significant relational and political costs when core commitments (Medicare solvency, consumer protection, democratic integrity) are at stake, but avoids unnecessary escalation.",
+      "finding": "Obama demonstrates systematic mission-prioritization over relational comfort in policy domains, accepting substantial political costs for core commitments. His sequester stance and balanced deficit reduction advocacy (ev_013) prioritized structural fiscal integrity despite Republican opposition. The explicit veto threat on Wall Street Reform (ev_029) accepted confrontation with financial sector interests. His refusal to negotiate on debt ceiling ('the height of irresponsibility' in ev_015) prioritized democratic institutional integrity over bipartisan relationship maintenance. However, his conflict strategy consistently seeks translation rather than escalation—framing transportation funding as 'not Democratic or Republican' (ev_008), explicitly acknowledging past trade deal failures (ev_027) rather than defensive posturing. The father's day address (ev_006) shows emotional openness that might seem relational-cost-heavy, but this appears strategically deployed for connection rather than genuine priority-shifting. Mission costs are borne deliberately, not reactively.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calibrated risk-taking within high-validity domains—willing to make high-stakes commitments (Iran deal, Paris Agreement, TPP) based on analytical assessment, with honest acknowledgment of past failures indicating learning-integrated risk calibration.",
+      "finding": "Obama's risk posture shows domain-appropriate calibration with learning integration. In foreign policy and structural reform—areas with substantial pre-existing pattern recognition and analytical capacity—he demonstrates decisive action. The Iran nuclear deal and Paris climate agreement (ev_034) reflect calculated major commitments based on expert assessment frameworks. His energy strategy explicitly rejects drilling-only approaches as insufficiently robust ('Drilling alone is not a real strategy' in ev_005), showing multi-scenario risk hedging. Critically, his epistemic humility about past trade deals ('I'm the first to admit that past trade deals haven't always lived up to the hype' in ev_027) demonstrates self-calibration and error acknowledgment—Kahneman would note this as effective System 2 monitoring of System 1 confidence. The auto industry rescue (ev_022) shows risk tolerance for high-stakes intervention during crisis. However, his consistent emphasis on bipartisan framing and measured language suggests risk-aversion in interpersonal/political domains where outcomes are less predictable.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_005",
+        "ev_027",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional-legal hierarchy orientation—treats authority as role-based and democratically constrained rather than personally dominative; invokes constitutional principles and institutional legitimacy rather than personal charisma or authority.",
+      "finding": "Obama's relationship to hierarchy reveals systematic institutional orientation rather than personal power-seeking. He consistently invokes constitutional and democratic legitimacy frameworks: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). His authority claims derive from institutional roles ('As Commander-in-Chief, I have no more solemn obligation' in ev_038) rather than personal charisma or divine mandate. The government modernization initiative (ev_036-37) explicitly subordinates institutional power to collective democratic purpose: 'our founders trusted us with the keys to this system of self-government.' His power deployment targets institutional protection (defending Dodd-Frank against repeal) and democratic participation expansion rather than personal aggrandizement. The Cancer Moonshot delegation to Biden (ev_042) shows comfortable power-sharing within institutional frameworks. Notably, he frames personal decisions (staying engaged post-presidency, ev_047) as citizen-service rather than continuing authority-claim, suggesting internalization of democratic hierarchy principles beyond mere role-playing.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_038",
+        "ev_036",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-dominant with principled boundaries—systematically reframes partisan conflicts as non-partisan problems while maintaining firm positions on core principles; avoids suppression and escalation, prefers structural resolution.",
+      "finding": "Obama demonstrates translation-dominant conflict strategy: converting partisan conflicts into structural/common-good framings rather than suppressing, escalating, or splitting. The transportation bill appeal (ev_008) explicitly reframes: 'This isn't a Democratic or a Republican issue – it's an American issue,' citing AFL-CIO and Chamber of Commerce coalition as evidence. Sequester arguments (ev_014) translate fiscal conflict into human impact framing to activate broader coalition identification. His conflict boundaries are principled rather than tactical—debt ceiling (ev_015) and Wall Street Reform (ev_029) show firm non-negotiable positions, but framed as protecting American principles ('full faith and credit,' consumer protection) rather than personal or partisan advantage. The cancer moonshot delegation (ev_043) shows comfort with collaborative conflict resolution through innovation rather than adversarial positioning. His consistent use of concrete human examples (veterans, seniors, families) functions to translate policy conflicts into shared human stakes, activating identification across partisan lines.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_015",
+        "ev_029",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale with calibrated near-term anchoring—strategic orientation encompasses decades (energy 2025, climate multi-generational) while anchoring advocacy in near-term concrete milestones and achievements.",
+      "finding": "Obama consistently operates across multiple time scales with effective integration. Mission-scale orientation appears in structural commitments: energy independence by 2025 (evt_004), climate agreements framed as legacy for 'our children' (ev_041), cancer moonshot as multi-generational scientific effort (ev_042). His 'resurgence is real' declaration (ev_024, ev_025) anchors contemporary victories within historical trajectory ('strongest job growth since 1990s,' deficit reduction 'faster than any time since World War II' in ev_016). The veteran hiring challenge specified end-of-2013 deadline (ev_009) demonstrates temporal concreteness preventing indefinitely deferred action. His farewell address call for 'full span of a lifetime' civic engagement (ev_046) extends time horizon beyond electoral cycles. System 1's capacity for temporal discounting appears controlled rather than dominant—immediate policy battles serve long-term structural goals rather than displacing them. This temporal integration reflects effective DMN capacity for future-oriented simulation combined with TPN-driven near-term execution.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_042",
+        "ev_024",
+        "ev_025",
+        "ev_016",
+        "ev_009",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural-rebuild orientation with pragmatic patch acceptance—prefers fundamental institutional redesign where systemic failures exist, but demonstrates capacity for pragmatic temporary solutions when rebuild is blocked.",
+      "finding": "Obama's policy portfolio consistently demonstrates structural-rebuild orientation: ACA as fundamental healthcare system redesign (ev_001-002), Dodd-Frank as comprehensive regulatory architecture (ev_028), energy blueprint as multi-component systemic transformation (evt_004), education reform as structural revision (ev_048). The 'Year of Action' executive order campaign (ev_019) represents systemic workaround building when legislative rebuild pathways are blocked—not patch acceptance but alternative-rebuild strategy. His criticism of Senate obstruction ('One senator gumming up the works' in ev_010) targets structural problems requiring structural solutions. However, his pragmatism appears when rebuild is impossible: temporary FAA fix when full transportation funding remained blocked (evt_012), bipartisan budget framing as 'Christmas miracles' (ev_048) when comprehensive reform was unachievable. This suggests rebuild-as-primary with context-appropriate patch deployment rather as fallback rather than preferred mode. The energy strategy explicitly rejects drilling-only as insufficient ('not a real strategy' in ev_005) confirming structural thinking dominance.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_019",
+        "ev_010",
+        "ev_005",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with integrated self-monitoring—demonstrates explicit reflection on learning processes, acknowledges uncertainty and errors, monitors emotional and relational impacts while maintaining strategic direction.",
+      "finding": "Obama's metacognitive patterns show unusually high awareness of his own cognitive processes and their limits. His farewell address contains explicit metacognitive statement: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), acknowledging continuous self-improvement through feedback integration. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates System 2 monitoring of past confidence calibration—error acknowledgment rather than defensive posturing. The father's day personal reflection (ev_006) shows awareness of emotional impacts from childhood experience, integrating rather than suppressing affective signals per Damasio's framework. His debt ceiling principle ('I will not negotiate') reflects metacognitive boundary-setting based on understanding of cognitive vulnerabilities to compromise under pressure. His invitation to South by Southwest for 'government modernization ideas' (evt_023) demonstrates epistemic humility, seeking external cognitive input rather than assuming sufficient internal expertise. The consistent pattern across addresses suggests frontopolar cortex-mediated self-monitoring is well-developed and actively deployed.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006",
+        "ev_015",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "somatic_ethical_integration",
+      "definition": "Integration of embodied emotional signals with principled ethical reasoning—unlike purely somatic decision-makers who suppress analysis or purely rational ones who suppress emotion, this pattern shows gut feelings being interpreted through ethical frameworks and ethical commitments being weighted by emotional resonance with human impacts.",
+      "finding": "Obama's communication pattern reveals consistent ethical-emotional integration not captured by standard System 1/System 2 dichotomy. His sequester arguments cite Head Start children and Meals on Wheels seniors (ev_014) as ethical stakes, not just statistical victims—translating structural policy into embodied human impact that activates both rational and somatic processing. The Memorial Day address about fallen heroes (ev_038) explicitly frames military commitment as embodied obligation: 'no more solemn obligation than leading our men and women in uniform.' His father's day narrative (ev_006) uses personal somatic markers (absence of father, coaching daughter's basketball) as ethical touchstones for broader policy advocacy. This suggests a fourth hybrid mode: ethical-rational positions grounded in emotional embodiment rather than pure principle (deontological) or pure consequence (utilitarian). The 'love won' celebration of same-sex marriage (ev_035) epitomizes this—emotional celebration channeled into principled legal advocacy. This emergent construct extends Damasio's somatic marker hypothesis toward an integrated ethical embodiment dimension.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_038",
+        "ev_006",
+        "ev_035"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "democratic_civic_epistemology",
+      "definition": "Belief system treating democratic citizenry as cognitive resource rather than cognitive threat—the president systematically positions himself as learning from citizens, framing democratic participation as essential for quality decision-making rather than obstacle to governance.",
+      "finding": "Obama's epistemic posture consistently positions citizens as cognitive partners rather than audiences to be persuaded or managed. The farewell address explicitly states conversations 'in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts' are 'what have kept me honest, kept me inspired' (ev_044). The South by Southwest initiative (evt_023) seeks government modernization from civic tech innovators rather than imposing top-down solutions. His 'Year of Action' framing acknowledges Congressional obstruction while affirming democratic process: 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). The 2015 year-end address attributing all accomplishments to American people ('All of this progress is because of you' ev_032) systematically downgrades presidential agency while elevating citizen agency. This represents a distinctive epistemic stance: the president as learning system embedded in democratic network rather than expert-decider imposing rational solutions on passive public. This has implications for both decision quality (incorporating distributed information) and democratic legitimacy (embodying participatory governance norms).",
+      "evidence_ids": [
+        "ev_044",
+        "evt_023",
+        "ev_046",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

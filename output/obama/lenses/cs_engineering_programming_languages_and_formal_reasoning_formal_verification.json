@@ -1,0 +1,183 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "programming_languages_and_formal_reasoning_formal_verification",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: actively restructures system conditions through institutional mechanisms and executive action rather than merely optimizing within given constraints",
+      "finding": "Obama consistently attempts to reshape the structural conditions of problems rather than accepting them as fixed. He used executive orders to create new policy realities (ev_017, $10.10 minimum wage for contractors), issued definitive veto threats to foreclose legislative rollback options (ev_029, 'I will veto it'), and framed major legislation as establishing permanent institutional frameworks (ACA Medicare solvency extension in ev_002). This reflects an engineering mindset where system behavior is modified by changing constraints and invariants rather than working around existing boundaries. His response to sequestration illustrates this: rather than accepting across-the-board cuts, he proposed structural replacement with a 'balanced approach' that would rewire the deficit reduction mechanism (ev_013). The pattern suggests Obama conceptualizes his role as actively rewriting problem structures, not just navigating them.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_002",
+        "ev_013",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded: relies heavily on measurable data, verifiable metrics, and observable outcomes for belief formation and advocacy",
+      "finding": "Obama's communication consistently anchors in quantifiable, verifiable evidence rather than narrative intuition or ideological first principles. He cited specific statistics: '11 million new jobs over 57 months' (ev_025), 'nearly $11 billion back in the pockets of more than 26 million consumers' from CFPB enforcement (ev_028), 'wind power tripled, solar 30x' (ev_040). This empirical grounding extends to his problem framing: he specified deadlines ('seven days,' 'eight days' in ev_011) and affected populations with precision. Unlike purely rhetorical politicians, Obama's reasoning patterns suggest he forms beliefs through measurement and verification, then advocates based on demonstrated outcomes. Even his rhetorical appeals ('Medicare isn't just a program, it's a commitment' in ev_001) are supported by concrete program metrics. The epistemic style is closer to an engineer reviewing dashboards than a philosopher developing syllogisms.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_011",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Weak: prefers concrete mechanisms and measurable outcomes over abstract formal systems, invariants, or proof-driven frameworks",
+      "finding": "While Obama articulates abstract principles ('middle-out economics' in ev_021, 'America's resurgence' in ev_024), he does not operationalize these into formal specifications or invariant-based verification frameworks. He does not, for instance, specify what conditions would constitute proof of policy success beyond employment and GDP metrics, or define safety-critical boundaries that must never be violated. His approach to Dodd-Frank (ev_028) focuses on measurable consumer recovery ($11B to 26M consumers) rather than formal properties like 'no taxpayer bailouts' as invariant conditions. This suggests Obama does not think in terms of formal verification—he does not ask 'how do we prove this system will never exhibit failure mode X?' He prefers empirical monitoring of outcomes and institutional mechanisms (CFPB as watchdog) over formal proofs of correctness. From a formal verification perspective, this is a gap: critical financial system properties are treated as empirically observable rather than formally verified.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Mechanism-based indirect control: prefers establishing institutional watchdogs and structural frameworks over direct command-and-control",
+      "finding": "Obama's approach to control is notably indirect. Rather than micromanaging outcomes, he established institutional mechanisms with enforcement capabilities: the CFPB as independent consumer protection authority (ev_028), the Paris Agreement's 200-nation framework (ev_034, ev_041), TPP's multilateral trade rules (ev_030, ev_031). This reflects a preference for setting up control systems where feedback loops and independent agencies handle ongoing regulation. His use of veto threats (ev_029) and executive orders (ev_017, ev_019) represents last-resort control rather than routine intervention. Even his Cancer Moonshot (ev_042, ev_043) uses cross-agency task forces and tech solutions (Trials.Cancer.Gov) rather than top-down directives. The control architecture is designed to be self-sustaining: once established, the CFPB continues enforcement regardless of political winds. This is closer to Dijkstra's 'built-in invariants' than active monitoring.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_034",
+        "ev_041",
+        "ev_030",
+        "ev_042",
+        "ev_043",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing: willing to absorb significant political friction and opposition when core objectives are at stake",
+      "finding": "Obama repeatedly prioritized policy objectives over maintaining bipartisan goodwill or relational comfort. He explicitly condemned Senate obstruction tactics ('One senator gumming up the works for the whole country' in ev_010) and attributed Republican opposition as the reason for executive action ('Republicans in Congress have blocked or voted down every serious idea' in ev_020). His refusal to negotiate over the debt ceiling (ev_015) was framed as non-negotiable regardless of political cost. He took 20+ executive actions specifically because Congressional Republicans blocked legislative alternatives (ev_019). This pattern suggests Obama accepts high relational costs when mission-critical objectives face obstruction. The tension is that he simultaneously sought bipartisan coalitions on infrastructure (ev_008, 'AFL-CIO and the Chamber of Commerce') and celebrated bipartisan budget deals (ev_048). So the pattern is more nuanced: he seeks bipartisan support when available but will bypass opposition when structural constraints prevent legislative progress.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_015",
+        "ev_019",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with calculated bets: accepts significant complexity and institutional risk in exchange for systemic change potential",
+      "finding": "Obama's risk posture reflects a layered defense architecture rather than conservative avoidance. He absorbed the political risk of comprehensive healthcare reform (ACA) despite low public approval during passage. He accepted the complexity and multi-year implementation risk of Dodd-Frank, Paris climate agreement, and TPP—all major multilateral frameworks with significant implementation uncertainty. His framing of these initiatives emphasized long-term structural benefits over short-term risk avoidance: 'That's not something to tear up—it's something to build upon' (ev_041) regarding climate. He documented real costs of sequestration (Head Start cuts, military strain in ev_014) as evidence that blunt cuts fail. However, he avoided truly conservative postures: his willingness to use executive action circumventing Congress (ev_019) suggests tolerance for constitutional ambiguity risk. The overall pattern is a middle path: not reckless experimentation, but willingness to bet on complex institutional designs where empirical monitoring can catch failures early.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_014",
+        "ev_019",
+        "ev_017",
+        "ev_030"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimist: uses formal authority channels (executive orders, vetoes, Congress) rather than circumventing hierarchy",
+      "finding": "Obama consistently operates through formal institutional power structures rather than circumventing them. He used executive orders within constitutional bounds (federal contractor minimum wage in ev_017), issued veto threats as Congressional bargaining tools (ev_029), and framed legislative achievements as products of institutional process (ACA passage, Dodd-Frank). His statement 'the United States of America is not a deadbeat nation' (ev_015) invoked constitutional and historical authority rather than personal power. He respected Congressional bipartisanship when achieved (ev_048's 'Christmas miracles' framing) and criticized obstruction as violation of founders' intent (ev_010). He did not attempt to rule by popular acclaim or bypass institutions. Even his government modernization initiative (ev_037) brought Silicon Valley experts into government structures rather than creating parallel organizations. This suggests Obama internalizes hierarchical legitimacy: authority is meaningful because it flows from recognized institutional processes.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_048",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Public framing and institutional escalation: converts conflicts into public opinion contests and uses formal institutional tools rather than direct personal confrontation",
+      "finding": "Obama's conflict strategy consistently translates disagreements into public framing contests and escalates through institutional channels. Rather than negotiating behind closed doors until agreement, he publicized conflicts: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), 'One senator gumming up the works for the whole country' (ev_010). He used veto threats as public declarations of irreducible positions (ev_029). He framed the debt ceiling as non-negotiable publicly (ev_015) rather than privately negotiating carve-outs. When institutional channels failed (Congressional obstruction), he escalated through executive action (20+ actions in ev_019) rather than accepting defeat. The conflict strategy is essentially 'publicize the failure mode, then move around the obstruction.' This is not suppression (accepting the conflict quietly), nor is it direct confrontation (personal attacks). It's institutional translation: converting political conflict into public pressure and then using formal authority to act.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale: optimizing for achievements that span decades and require multi-year institutional development",
+      "finding": "Obama consistently framed achievements in terms of decades-long impact: ACA extended Medicare solvency by 'at least a dozen years' (ev_002), energy security goal to 'cut oil imports by one-third by 2025' (ev_004), veterans hiring challenge for 'post-9/11 veterans' with 2013 deadline (ev_009). His climate agenda explicitly targets 'low-carbon future' (ev_034), and his farewell address reflected on 8-year arc and beyond ('for all my days that remain' in ev_047). The TPP negotiation took 5 years (ev_030), Paris Agreement decades in making. He explicitly rejected short-term optimization: 'drilling alone is not a real strategy' (ev_005), sequestration replaced rather than accepted. The time horizon is mission-scale: problems requiring sustained institutional development across administrations. This suggests long-term orientation where short-term political costs are absorbed for structural gains that may take years to materialize.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_009",
+        "ev_034",
+        "ev_005",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign: prefers comprehensive institutional overhauls when problems are systemic rather than localized",
+      "finding": "Obama's policy portfolio demonstrates consistent preference for structural redesign over incremental patches. ACA redesigned the healthcare financing system entirely rather than patching insurance regulations. Dodd-Frank created new institutional architecture (CFPB, enhanced prudential standards, orderly liquidation authority) rather than tweaking existing regulations. The Cancer Moonshot explicitly tried to redesign clinical trial matching through tech platform (Trials.Cancer.Gov in ev_043). His criticism of 'drilling alone' for energy security (ev_005) shows preference for systemic solutions. Even his economic philosophy ('middle-out') in ev_021 suggests structural rather than trickle-down intervention. The sequestration response is telling: he documented real costs and proposed structural replacement rather than accepting Band-Aid fixes. Where patches were used (FAA fix in ev_012), they were explicitly temporary ('but other cuts continued'). The pattern is clear: when problems are systemic, Obama reaches for systemic redesign.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_021",
+        "ev_012",
+        "ev_043",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness: demonstrates capacity to reflect on reasoning and acknowledge limitations, but shows blind spots around political effectiveness",
+      "finding": "Obama shows notable metacognitive abilities in certain domains. He acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027), demonstrating capacity to evaluate his own prior positions critically. His farewell address reflects deep awareness of how citizen interactions shaped his presidency ('my conversations with you...are what have kept me honest, kept me inspired' in ev_044), suggesting active monitoring of his own reasoning through external feedback. He used data-driven self-correction: when Congressional Republicans blocked legislative paths, he shifted to executive action (ev_019). However, his metacognition shows blind spots regarding political persuasion. Despite consistent public criticism of Republican obstruction, he did not demonstrate awareness that his public framing strategy might be contributing to polarization or reducing negotiation flexibility. His repeated characterization of bipartisan cooperation as 'Christmas miracles' (ev_048) suggests he may have underweighted the difficulty of sustaining cross-party collaboration. The pattern is competent self-monitoring within data-rich domains, but less effective reflection on political dynamics.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_019",
+        "ev_048",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_proof_orientation",
+      "definition": "The tendency to treat institutional establishment as proof-of-concept for system properties, treating new agencies and frameworks as solving problems rather than requiring ongoing verification. Related to but distinct from abstraction_formalization—focuses on whether the person treats institutional creation as terminal (problem solved) versus as beginning of ongoing verification requirement.",
+      "finding": "Obama demonstrates a pattern where institutional establishment appears to serve as cognitive endpoint: the CFPB is created (ev_028), therefore consumer protection is solved; Paris Agreement is signed (ev_034), therefore climate trajectory is corrected. While these institutions have monitoring functions, Obama rarely articulates what would count as evidence that these systems are failing or need redesign. This differs from formal verification's 'always-on' verification requirement. Instead, Obama treats institutional design as sufficient for property guarantee. The Cancer Moonshot approach (ev_042, ev_043) is the exception: it explicitly targets ongoing measurement (enrollment rates, clinical trial accessibility) as success metrics. The pattern suggests institutional_proof_orientation—treating structural creation as verification completion—may explain gaps between policy enactment and outcome achievement in his portfolio.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_034",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "deliberative_complexity_tolerance",
+      "definition": "The capacity to hold multiple conflicting considerations simultaneously without premature resolution, and to make irreversible decisions despite acknowledged uncertainty. Distinct from risk_posture (which focuses on uncertainty tolerance) and metacognition (which focuses on self-awareness)—this specifically concerns willingness to sit with genuine dilemmas and unresolved tensions.",
+      "finding": "Obama frequently navigates problems with irreducible complexity without collapsing into false resolution. He simultaneously pursued bipartisan outreach (ev_008, ev_048) while publicly criticizing Republican obstruction (ev_020). He acknowledged past trade deals fell short (ev_027) while advocating for TPP—holding the failure record and the new initiative in tension rather than choosing one narrative. His father's day address (ev_006) held personal loss and present fulfillment simultaneously. His farewell (ev_047) expressed continued optimism despite acknowledged challenges. This suggests high deliberative complexity tolerance: Obama can hold competing considerations without forcing premature synthesis. This enables the layered governance approach (mechanisms + monitoring + flexibility) but may also contribute to perceived indecisiveness when public audiences want clearer resolution.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048",
+        "ev_020",
+        "ev_027",
+        "ev_006",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

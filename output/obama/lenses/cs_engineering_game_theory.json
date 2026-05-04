@@ -1,0 +1,161 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "game_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: Obama consistently acts as a rule-maker through executive action and institutional design when legislative routes are blocked",
+      "finding": "Obama's behavior reveals a consistent pattern of attempting to design and reshape institutional structures rather than merely operating within existing ones. When Congress blocked minimum wage (ev_020), unemployment insurance, and judicial confirmations (ev_010), he pivoted to executive actions—signing 20+ executive orders in his 'Year of Action' (ev_019). The 2014 executive order raising contractor minimum wage to $10.10/hour (ev_017) exemplifies his mechanism design orientation: instead of accepting Congressional gridlock, he restructured incentives within the federal contracting system to achieve policy goals. This approach extends to institutional creation, as seen with the Consumer Financial Protection Bureau (ev_028) and the Cancer Moonshot task force (ev_043). Obama operates as a 'rule maker' who uses executive authority not merely as a tool but as a mechanism for institutional design when the legislative arena becomes unresponsive.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Mixed deductive-empirical: articulates principled positions but updates based on feedback and acknowledges trade-offs",
+      "finding": "Obama's epistemic approach demonstrates a productive blend of principled deductive reasoning and empirical updating. He establishes strong theoretical frameworks—'middle-out' economics (ev_021), 'America is at war with al-Qaeda, not Islam' (ev_012)—but shows willingness to acknowledge reality's complexity. Notably, on trade policy, he admits 'past trade deals haven't always lived up to the hype' (ev_027) while still advocating TPP. This suggests a Bayesian-like updating process where experiences modify initial positions without abandoning core principles. His year-end address enumerating accomplishments with specific metrics (2.5M jobs, uninsured rate below 10%, ev_033) shows reliance on observable evidence to ground abstract commitments. However, his repeated emphasis on 'balanced' deficit reduction (ev_013) despite Congressional resistance suggests some persistence of preferred frameworks even when empirical feedback indicates low probability of success through that specific path.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_027",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate to strong: capable of systematizing complex issues into coherent frameworks and lists",
+      "finding": "Obama demonstrates strong abstraction capacity in his ability to systemize diverse political outcomes into coherent narratives. His 2015 year-end 'Top 10 Things' address (ev_033) exemplifies high formalization—transforming 12 months of complex governance into an enumerated list with clear categories. The 'Year of Action' framing similarly systematizes disparate executive actions into a unified strategic approach. His energy policy explicitly rejects simple solutions ('Drilling alone is not a real strategy,' ev_005), instead presenting a multi-component Blueprint integrating domestic drilling, fuel efficiency, clean energy, and corporate partnerships as a coherent system. This abstraction serves strategic purposes—his economic philosophy ('middle-out' not 'trickle-down') provides a conceptual framework that simplifies political choices for public consumption. However, he does not rely solely on formal systems; his father's day address shows personal narrative alongside policy abstraction (ev_006), indicating flexibility in communication modes.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_019",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selectively high: exercises tight control over institutional mechanisms but shows restraint in negotiating scenarios",
+      "finding": "Obama exhibits an asymmetric control orientation. He demonstrates high control orientation in institutional design—executive orders, the CFPB structure, the Cancer Moonshot task force, and Silicon Valley government modernization partnerships (ev_037). He issues definitive veto threats (ev_029) to control future legislative possibilities. However, in direct negotiating scenarios, he paradoxically demonstrates low control orientation by refusing to engage at all. His statement 'I will not negotiate over the full faith and credit of the United States' (ev_015) represents an intentional abdication of control—he will not play the game, rather than attempting to control the game's outcome. This suggests a strategic preference for establishing credible commitments through non-participation rather than through active manipulation of ongoing negotiations. He effectively cedes the negotiation space to avoid outcomes he fears more than the deadlock.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation: willing to bear significant political costs to maintain principled positions and policy commitments",
+      "finding": "Obama consistently prioritizes mission and policy commitments over maintaining smooth relational dynamics with political opponents. He publicly names and criticizes Congressional obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). His veto threat against 'any bill' that rolls back Wall Street Reform (ev_029) indicates willingness to escalate political conflict rather than compromise on core achievements. The debt ceiling confrontation reveals his willingness to accept potential crisis rather than negotiate. However, his mission orientation includes a broader conception—'the American people' are partners in his mission rather than obstacles. He attributes all accomplishments to collective action (ev_032) and frames political opposition as temporary obstacle rather than permanent enemy. The emotional quality of his farewell address—'You made me a better President, and you made me a better man' (ev_044)—reveals that mission includes relationship elements, just not with political opponents. His mission encompasses national unity and civic participation beyond electoral cycles (ev_046).",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-tolerant on policy innovation but risk-averse in political brinkmanship; prefers pre-commitment over dynamic play",
+      "finding": "Obama demonstrates significant risk tolerance in pursuing major policy innovations with uncertain political outcomes. The ACA, Iran nuclear deal, TPP, and Paris climate agreement all represent high-risk, high-potential-reward strategic bets. His Cancer Moonshot initiative specifically targets a problem that defeated Nixon and multiple administrations since (ev_042). However, in political confrontation scenarios, Obama shows notable risk aversion. His refusal to negotiate over the debt ceiling represents an attempt to establish a credible commitment that avoids the dynamic game of chicken entirely—by pre-committing to non-participation, he removes the unpredictable back-and-forth that could lead to catastrophic miscalculation. He prefers to establish rules that render certain games unplayable rather than play high-stakes games with uncertain outcomes. This pattern suggests a preference for pre-commitment mechanisms (veto threats, executive orders) over strategic maneuvering in live negotiations.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority wielder with pluralistic framing: uses presidential power directly but frames authority as representing collective American values",
+      "finding": "Obama's relationship to hierarchy and power demonstrates sophisticated institutional positioning. He exercises direct presidential authority—executive orders, veto threats, White House announcements—without apology. He created new institutional structures (CFPB, Presidential Innovation Fellows) that institutionalized his agenda beyond his direct control. Notably, he leverages pluralistic framing rather than purely personal authority: he cited both AFL-CIO and Chamber of Commerce supporting transportation funding (ev_008), frames his military policy as protecting 'America's global leadership' (ev_041), and repeatedly attributes accomplishments to collective American action. His Memorial Day address establishes authority through institutional role ('As Commander-in-Chief, I have no more solemn obligation') while connecting to transcendent values (ev_038). His framing never positions himself as sole authority but rather as trustee of collective American commitments—this is a sophisticated use of hierarchical position that obscures the exercise of personal power through appeals to shared values.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_038",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation/escalation hybrid: converts legislative conflicts into public appeals; refuses iterative bargaining",
+      "finding": "Obama's conflict strategy reveals a distinctive pattern: he systematically avoids traditional legislative bargaining (back-and-forth compromise) and instead converts conflicts into public appeals or escalates to unilateral mechanisms. When Congress blocks legislation, he does not enter extended negotiation but rather delivers weekly addresses explaining why Congress is wrong, then uses executive action to achieve what he can within constitutional limits. His critique of Senate obstruction ('One senator gumming up the works for the whole country,' ev_010) frames conflict as institutional failure requiring external pressure. The debt ceiling crisis (evt_013) exemplifies this strategy—he refused negotiation entirely and appealed directly to the public. This 'translation' approach converts partisan conflict into a narrative of responsible leadership versus obstruction, moving the battlefield from closed-door negotiations to public opinion. His use of enumerated 'top 10' lists and 'Year of Action' framing similarly structures conflict as clear choices, not complex negotiations.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural: optimizes for durable institutional change over short-term political wins",
+      "finding": "Obama's strategic decisions consistently reveal a long-term, structural time horizon. His signature achievements—ACA extending Medicare solvency by 12+ years (ev_002), Dodd-Frank as permanent regulatory architecture, Paris climate agreement with 200 nations (ev_034), TPP writing global trade rules (ev_031)—all represent attempts to create durable structural constraints that outlast his administration. Even executive actions are framed as establishing lasting mechanisms: the $10.10 minimum wage for federal contracts 'as these contracts come up' (ev_017) targets future contracting cycles, not just current workers. The Cancer Moonshot explicitly addresses a problem that has resisted solution for 45 years (ev_042). His farewell address acknowledges he 'look[s] forward to working along your side, as a citizen, for all my days that remain' (ev_047)—framing his post-presidency as continuation of long-term project. This long-term orientation sometimes conflicts with short-term political advantage: his principled positions on debt ceiling and executive authority probably cost political capital, suggesting he weighs institutional legitimacy higher than immediate wins.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_031",
+        "ev_034",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference: pursues comprehensive system changes rather than incremental fixes",
+      "finding": "Obama consistently demonstrates preference for comprehensive structural redesign over localized repairs. The ACA wasn't a patch to the existing healthcare system—it fundamentally restructured insurance markets, Medicaid expansion, and Medicare financing. Dodd-Frank (ev_028) created an entirely new regulatory architecture with the CFPB rather than adjusting existing regulatory structures. His energy Blueprint (evt_004) integrates multiple policy domains into a coherent system rather than addressing single components. The TPP represents a complete rewrite of Asia-Pacific trade rules, not a modification of existing agreements. Even 'Year of Action' executive actions were framed as establishing new mechanisms (federal contractor minimum wage, clean energy standards) rather than patching existing programs. The one exception is his approach to sequester, where he advocated 'replacing' rather than adjusting (ev_012), but ultimately failed to achieve structural change and was left managing the patch. His consistent structural preference suggests a mechanism designer's instinct: he wants to design games others will play, not optimize outcomes within existing games.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "ev_029",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: demonstrates capacity to reflect on own reasoning, update beliefs, and articulate strategic frameworks",
+      "finding": "Obama demonstrates notably high metacognitive awareness across multiple dimensions. He explicitly reflects on past policy experiences: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His framing of decisions shows self-awareness about strategy—he discusses why executive action becomes necessary when legislative routes fail. His farewell address shows sophisticated reflection on the relationship between himself and the American people as mutual learning process: 'Every day, I learned from you. You made me a better President' (ev_044). He articulates his own reasoning process, explaining why certain games (debt ceiling negotiation) are not worth playing, and why alternative mechanisms (pre-commitment, public appeal) are preferable. His 'Year of Action' framing demonstrates self-conscious awareness of his own strategic approach, naming it and explaining its logic. He also shows metacognitive awareness about collective action challenges: 'our democracy doesn't work if nobody participates' (implied through civic engagement framing, ev_046). This suggests strong capacity to model his own cognitive processes and adjust reasoning accordingly.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "credible_commitment_under_institutional_weakness",
+      "definition": "The capacity to establish and maintain credible commitments in domains where enforcement mechanisms are weak or reputational binding is uncertain. This emerges from Obama's repeated use of veto threats and non-negotiation declarations—attempts to establish binding constraints despite constitutional ambiguity about their enforceability.",
+      "finding": "Obama systematically attempts to create credible commitments even in institutional contexts with weak enforcement. His veto threat against any Wall Street Reform repeal (ev_029) creates a commitment that may or may not be honored if such legislation reaches his desk—he cannot truly bind future presidents, yet he attempts to establish binding expectations. Similarly, his absolute refusal to negotiate over the debt ceiling (ev_015) attempts to credibly commit to a position despite strong Congressional pressure to engage. This suggests a sophisticated understanding that credibility requires pre-commitment before pressure arrives—and that playing dynamic games with uncertain outcomes is less effective than establishing clear boundaries. The pattern reveals a strategic preference for non-participation as a commitment device: by refusing to enter certain negotiations, he prevents the escalation dynamics that might force concession. This is a distinctive game-theoretic strategy in contexts of institutional weakness.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "iterative_bargaining_rejection",
+      "definition": "Active avoidance of incremental back-and-forth negotiation in favor of comprehensive positions followed by unilateral escalation or public appeal. This differs from simple 'hardball' by rejecting the iterative process itself rather than making extreme demands within it.",
+      "finding": "Obama systematically rejects iterative bargaining processes, instead presenting comprehensive positions and then pivoting to unilateral mechanisms or public appeals when blocked. This pattern appears consistently: when Congress blocks minimum wage, he issues executive orders (ev_017, ev_019) rather than negotiating. When Senate blocks nominations, he calls for rule changes in public speeches (ev_010). When debt ceiling approaches, he refuses negotiation entirely (ev_015). This differs from simple hardball or brinkmanship because Obama never enters the dynamic negotiation—he establishes his position, identifies obstruction, and moves to alternative mechanisms. His pattern is not 'make extreme demands then settle for less' but rather 'establish position, appeal to public, use unilateral tools.' This represents a distinctive conflict strategy that may be more effective in public-facing institutions but sacrifices potential compromise gains.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

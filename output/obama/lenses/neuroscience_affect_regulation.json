@@ -1,0 +1,178 @@
+{
+  "discipline": "neuroscience",
+  "lens": "affect_regulation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency with sophisticated boundary awareness - takes strong ownership of outcomes while realistically acknowledging structural constraints",
+      "finding": "Obama consistently demonstrates high personal agency through explicit commitment statements ('As long as I am President, that's a commitment this country is going to keep,' ev_001) and proactive challenge issuance (veteran hiring challenge to private companies, ev_009). However, his agency is bounded by structural realism - he frequently acknowledges Congressional obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea') and explicitly states he works within constitutional limits (ev_015: 'I will not negotiate over the full faith and credit of the United States'). This suggests a mature agency orientation that distinguishes between what one can control directly versus what requires coalition-building or institutional navigation. His pattern of issuing executive orders when Congress blocks action (ev_017, ev_019) reveals adaptive agency that seeks alternative pathways rather than surrendering to constraints.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_015",
+        "ev_020",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist orientation with narrative integration - grounds beliefs in specific data while maintaining coherent interpretive frameworks",
+      "finding": "Obama's epistemic style shows strong empiricist tendencies through consistent citation of specific metrics: 11 million jobs created (ev_025), 26 million consumers recovering $11 billion (ev_028), wind power tripled and solar 30x (ev_040). However, he does not reduce knowledge to data alone - he integrates evidence into narrative frameworks ('middle-out economics,' ev_021) and demonstrates intellectual humility by acknowledging limits of his knowledge ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027). His epistemic confidence appears to derive from pattern recognition across multiple data points rather than single sources, suggesting a Bayesian-like updating process that balances empirical evidence with narrative coherence. The farewell address ('Every day, I learned from you,' ev_044) reveals epistemic openness to correction from lived experience.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_021",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high abstraction with consistent concrete anchoring - uses systematic frameworks but grounds them in measurable outcomes",
+      "finding": "Obama demonstrates moderate-high abstraction through principled frameworks like 'middle-out economics' (ev_021), 'America is at war with al-Qaeda, not Islam' (ev_012), and 'government modernization through partnerships' (ev_037). However, he consistently grounds abstractions in concrete metrics and deadlines - the sequester is framed as 'seven days away' with specific job loss projections (ev_011), accomplishments enumerated as a numbered top-10 list (ev_033), and commitments linked to verifiable statistics. This pattern suggests an abstraction style that uses formalization and systematization as cognitive tools for organizing complex information while maintaining contact with concrete particulars. His preference for counting and listing (ev_033, ev_048) reveals a mind that systematizes but does not abstract away from actionable specifics.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_012",
+        "ev_037",
+        "ev_011",
+        "ev_033",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control with principled limits - actively shapes outcomes through available channels while respecting structural boundaries",
+      "finding": "Obama demonstrates moderate-high control orientation through extensive use of executive action ('over 20 executive actions' in Year of Action, ev_019), explicit veto threats (ev_029: 'I will veto it'), and direct challenges to institutional actors ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010). However, his control orientation is bounded by principled limits - he explicitly refuses to negotiate on certain parameters (debt ceiling, ev_015) while maintaining flexibility about methods ('balanced approach,' ev_013). The pattern suggests a sophisticated control orientation that distinguishes between control attempts that are effective versus those that would be self-defeating. He does not seek total control but rather optimal control within legitimate boundaries, accepting constraints that preserve core principles.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_010",
+        "ev_015",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Balanced with relational warmth - pursues policy goals vigorously but maintains genuine connection and gratitude toward people",
+      "finding": "Obama's mission-relational balance shows productive tension between goal orientation and relational maintenance. His 'Year of Action' rhetoric (ev_019, ev_020) and explicit enumeration of blocked legislative priorities reveal mission focus. However, he consistently grounds policy in human impact ('parents whose kids just got kicked out of Head Start programs,' ev_014) and demonstrates genuine relational warmth through personal stories (absent father, ev_006; coaching daughter's basketball team, ev_007). His farewell address credit attribution ('All of this progress is because of you,' ev_032) and emotional expression ('you made me a better President, and you made me a better man,' ev_044) reveal relational orientation that mission-drive does not override. The pattern suggests someone capable of pursuing transformative goals without sacrificing authentic connection, treating policy victories as collective achievements rather than personal conquests.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_014",
+        "ev_006",
+        "ev_007",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated, evidence-driven risk acceptance - takes on major initiatives when empirical basis supports confidence despite uncertainty",
+      "finding": "Obama's risk posture demonstrates calculated engagement with uncertainty based on empirical confidence. He acknowledges trade deal limitations ('past trade deals haven't always lived up to the hype,' ev_027) while proceeding because counterfactual risks are worse ('Without this agreement, competitors like China will write the rules,' ev_031). His climate stance ('That's not something to tear up – it's something to build upon,' ev_041) reflects risk acceptance for long-term benefit despite political controversy. He projects confidence grounded in data ('I'm absolutely confident we will get there,' ev_004) rather than denial of uncertainty. The pattern suggests a risk posture that accepts uncertainty as inherent to major endeavors while maintaining confidence based on accumulated evidence, rather than either risk-seeking or risk-avoidant extremes.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_031",
+        "ev_041",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional understanding - respects legitimate authority while actively navigating and challenging power structures",
+      "finding": "Obama demonstrates complex relationship with hierarchy through strategic deployment and critique of authority. He explicitly challenges Congressional obstruction as contrary to constitutional intent (ev_010) while respecting institutional boundaries (ev_015: refusing negotiation while not claiming unilateral power). His relationship with military hierarchy shows deep respect and solemn obligation framing (ev_038: 'no more solemn obligation than leading our men and women in uniform'). He uses executive power strategically (ev_017, ev_019) within constitutional limits rather than as autocratic assertion. The pattern suggests someone who understands power as structurally embedded and navigates it through institutional channels rather than personal dominance, while remaining willing to challenge hierarchical obstruction when it conflicts with constitutional principles.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_038",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Bilateral escalation with coalition-building - confronts opposition directly while constructing cross-partisan alliances",
+      "finding": "Obama's conflict strategy combines confrontation with strategic coalition-building. He issues explicit veto threats ('I will veto it,' ev_029), names specific Congressional opposition votes (ev_020: 'Republicans in Congress have blocked or voted down'), and condemns obstruction tactics (ev_010). Simultaneously, he builds cross-partisan coalitions (ev_008: AFL-CIO and Chamber of Commerce together at White House), celebrates bipartisan achievements (ev_048: 'Christmas miracles in Washington'), and frames issues as 'not a Democratic or a Republican issue' (ev_008). The pattern suggests a conflict orientation that escalates when core principles are at stake while maintaining openness to bipartisan cooperation when possible. He separates person from position, attacking obstructionism without characterizing opponents as irredeemably malicious.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_020",
+        "ev_010",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term and intergenerational - frames initiatives across decade-scale horizons while maintaining present urgency",
+      "finding": "Obama consistently demonstrates long-term orientation through generational framing. The ACA extended Medicare solvency by 'at least a dozen years' (ev_002), energy security targeted 2025 (evt_004), and climate action framed as legacy to 'build upon' for children (ev_041). His Cancer Moonshot (evt_026, ev_042) spans decades of research investment. However, he maintains present urgency through concrete deadlines (ev_011: 'seven days away,' 'eight days away') and immediate job impact metrics (ev_025: '57 months of consecutive job growth'). The pattern suggests time horizon that thinks across generations while maintaining urgency about proximate steps - neither trapped in short-term reactivity nor lost in distant abstraction.",
+      "evidence_ids": [
+        "ev_002",
+        "evt_004",
+        "ev_041",
+        "ev_042",
+        "ev_011",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign - treats acute problems as symptoms of systemic failure requiring comprehensive transformation",
+      "finding": "Obama consistently frames challenges as requiring structural solutions rather than incremental patches. Wall Street Reform (Dodd-Frank) is presented as ending 'too big to fail' bailouts and creating systemic consumer protection architecture (ev_003, ev_028), not just patching symptoms. Healthcare reform is framed as program restructuring that adds '12 years to solvency' (ev_002). Energy policy explicitly rejects single-solution approaches ('Drilling alone is not a real strategy,' ev_005) in favor of comprehensive diversification. Sequester is documented as causing specific harms (ev_014: Head Start cuts, seniors losing Meals on Wheels) but framed as evidence of structural dysfunction requiring comprehensive budget reform. The pattern suggests a mind that perceives surface problems as manifestations of underlying systemic failures, prompting preference for architectural redesign over symptomatic treatment.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_028",
+        "ev_002",
+        "ev_005",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with humility - explicitly reflects on own reasoning, acknowledges limitations, credits external correction",
+      "finding": "Obama demonstrates high metacognitive awareness through explicit self-reflection in the farewell address. He credits conversations with Americans across contexts ('living rooms and schools; at farms and on factory floors; at diners and on distant military outposts') as keeping him 'honest, kept me inspired' (ev_044), explicitly positioning himself as epistemically dependent on external input. He reflects on learning and growth ('Every day, I learned from you'), acknowledging that his own perspective was expanded rather than merely confirmed. His intellectual humility appears in acknowledging trade deal limitations (ev_027) and his father's absence (ev_006) - topics that could trigger defensive processing but instead become occasions for honest self-examination. The pattern suggests metacognitive capacity that monitors reasoning, acknowledges cognitive limits, and actively seeks corrective information.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "affective_self_efficacy",
+      "definition": "The belief that one can successfully regulate one's own emotional responses to challenging situations. Distinguished from general self-efficacy by focusing specifically on emotional rather than behavioral or outcome domains. High affective self-efficacy enables engagement with difficult emotional material without being overwhelmed or shutting down.",
+      "finding": "Obama demonstrates high affective self-efficacy through his willingness to engage emotionally difficult material publicly. He discusses his father's abandonment with emotional openness ('I grew up without my father around. He left when I was two years old,' ev_006), manages political conflicts without visible dysregulation across eight years of intense scrutiny, and maintains optimism despite setbacks ('America's resurgence is real,' ev_024). His confidence in navigating emotionally charged situations is evident in his sustained public engagement, capacity to deliver emotionally resonant farewell addresses after two terms, and commitment to continued civic participation beyond office ('I look forward to working along your side, as a citizen, for all my days that remain,' ev_047). The pattern suggests robust belief in his capacity to manage emotional challenges effectively.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_024",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "cognitive_reappraisal_dependence",
+      "definition": "The degree to which an individual relies on cognitive reappraisal strategies (reinterpreting the meaning of emotional stimuli to alter emotional response) as their primary emotion regulation approach. High dependence on reappraisal may indicate excellent antecedent-focused regulation but potential vulnerability when reappraisal resources are depleted or when situations resist reinterpretation.",
+      "finding": "The evidence strongly suggests Obama relies heavily on cognitive reappraisal as his primary regulatory strategy. His speeches consistently reinterpret challenging situations: Congressional obstruction becomes evidence of systemic dysfunction ('not what our founding fathers envisioned,' ev_010); trade agreement limitations are acknowledged but reframed as opportunity for correction (ev_027); Sequester deadlines are translated into urgency about human impact (ev_014). He transforms abstract concepts into concrete metrics (sequester as Head Start cuts, veterans as families to honor) that serve reappraisal functions. However, this heavy reappraisal reliance is also a potential vulnerability - when institutional constraints block his preferred pathways, he must continuously reframe rather than directly process frustration. The pattern suggests a highly developed reappraisal capacity that may occasionally mask rather than process underlying emotional responses.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_027",
+        "ev_014",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

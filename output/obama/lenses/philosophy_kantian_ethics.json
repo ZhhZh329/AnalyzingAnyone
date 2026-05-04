@@ -1,0 +1,183 @@
+{
+  "discipline": "philosophy",
+  "lens": "kantian_ethics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with principled rationality",
+      "finding": "Obama demonstrates a Kantian conception of agency as rational self-legislation. His repeated insistence on principles over political convenience—refusing to negotiate over the debt ceiling (ev_015), vowing to veto any Wall Street Reform repeal (ev_029), declaring he would keep the Medicare commitment 'as long as I am President' (ev_001)—reveals an agent who understands freedom as the capacity to act according to self-imposed rational principles, not according to external pressures or personal inclinations. The consistency of his policy positions across diverse domains (healthcare, financial reform, climate) suggests a unified rational framework rather than situational adaptation. However, his collaborative framing ('we chose,' 'America is at war with al-Qaeda') (ev_012) reveals that Kantian autonomy is exercised collectively in a democratic context—he does not claim exclusive individual rational authority but articulates principles he believes rational citizens would endorse.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_012",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Rationalist with empirical grounding",
+      "finding": "Obama's epistemic stance reflects a Kantian confidence that moral and policy truths can be discovered through reason, while grounding arguments in empirical evidence. He articulates abstract principles ('level playing field,' 'fair wage,' 'opportunity for all') (ev_003, ev_017, ev_018) that function as rational universalizable maxims, then supports them with concrete data—$11 billion recovered for consumers (ev_028), 11 million jobs created (ev_025), carbon pollution at 25-year lows (ev_040). This hybrid approach mirrors Kant's method: beginning from rational principles but attending to empirical reality. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) while still defending TPP reveals epistemic humility about empirical predictions, but continued commitment to rationally-grounded principles of fair trade. The systematic articulation of policy positions across multiple addresses suggests he conceives policy-making as rational demonstration rather than mere interest-balancing.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_018",
+        "ev_028",
+        "ev_025",
+        "ev_027",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with systematic policy coherence",
+      "finding": "Obama consistently operates at a high level of abstraction, articulating policy positions as expressions of underlying principles rather than ad hoc responses to circumstances. His 'middle-out' economic philosophy (ev_021), commitment to 'level playing field' principles (ev_003), and framing of healthcare as 'a commitment to America's seniors' (ev_001) reveal abstract maxims that organize diverse specific policies. He frequently systematizes his agenda into coherent frameworks: 'Year of Action' (ev_015, ev_019), 'Top 10 Things' lists (ev_033), and the consistent reference to 'balanced approaches' that combine spending cuts with revenue measures (ev_013). This systematicity reflects Kantian formalization—the search for consistent principles that can unify disparate phenomena. However, his abstraction never becomes purely formal; it remains connected to human welfare through references to specific populations: seniors, workers, veterans, students (ev_014, ev_011). The tension between formal principle and human particularity is handled by insisting that the principles serve human dignity.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_013",
+        "ev_015",
+        "ev_019",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principled constraint with respect for democratic process",
+      "finding": "Obama's control orientation reflects Kantian self-legislation: he constrains his own actions according to principled limits while respecting others' rational autonomy. His refusal to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States') (ev_015) represents self-imposed constraint based on principle, not personal power maximization. Similarly, his executive actions on minimum wage (ev_017) were framed as within proper constitutional bounds while Congress deliberated, demonstrating respect for institutional process. He repeatedly appeals to Congress as a co-equal branch requiring engagement, rather than treating opposition as illegitimate obstruction—though he does criticize specific tactics as contrary to 'founding fathers' intent' (ev_010). The invocation of 'democratic citizenship' and government modernization (ev_036, ev_037) suggests he seeks to enhance collective self-governance rather than concentrate power. His Memorial Day emphasis on 'solemn obligation' to soldiers (ev_038) reveals internalized duty rather than external control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_010",
+        "ev_036",
+        "ev_037",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High principle priority with calculated relationship management",
+      "finding": "Obama demonstrates significant willingness to incur relational costs for principle—a pattern consistent with the Kantian demand that moral law be followed unconditionally. His unyielding stance on the debt ceiling, his veto threats against Wall Street Reform repeal (ev_029), and his consistent policy positions across years reveal a willingness to accept political conflict when principles are at stake. The statement 'That's why I will not negotiate over the full faith and credit of the United States' (ev_015) treats a principle as non-negotiable even under severe political pressure. However, his frequent appeals to bipartisan cooperation (ev_008: 'This isn't a Democratic or a Republican issue') and his framing of economic success as collective achievement (ev_032: 'All of this progress is because of you') suggest he does not seek conflict for its own sake and attempts to frame principles in universalizable terms that transcend partisan division. His acknowledgment that 'neither party has been blameless' (ev_010) reveals some sensitivity to relational costs, but his core principles remain fixed.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_010",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Principle-driven with outcome awareness",
+      "finding": "Obama exhibits a Kantian risk posture: he acts on principle without allowing outcome uncertainty to alter his commitments, while demonstrating awareness that his principles may produce short-term costs. His defense of the Paris climate agreement—'That's not something to tear up—it's something to build upon' (ev_041)—proposes continued action despite political uncertainty and future-focused benefits. His consistent advocacy for policies with long-term payoffs (Medicare solvency, clean energy, trade agreements) reflects willingness to accept present costs for future goods grounded in rational principle. The sequester warnings (ev_014) catalog real human costs but argue these should be avoided not because of the costs themselves but because they represent departure from better alternatives grounded in 'balanced' rational approaches (ev_013). However, his emphasis on measurable results ('2.5 million jobs,' 'uninsured rate below 10%') (ev_033) and concrete achievements (ev_045) suggests he also values demonstrating that principle-aligned policies produce good outcomes—a pragmatic dimension that tempers pure Kantian formalism.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_033",
+        "ev_041",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Principled egalitarianism within institutional roles",
+      "finding": "Obama consistently affirms the Kantian principle that rational beings possess intrinsic dignity不可被交易, manifest in his emphasis on 'level playing field' (ev_003) and treatment of all citizens as ends rather than merely means. His policies consistently target vulnerable populations: seniors with Medicare (ev_001), workers with minimum wage (ev_017), veterans with hiring initiatives (ev_009), students with loan rate concerns (ev_011). The statement 'We've got to restore opportunity for all—the notion that no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America' (ev_018) articulates the Kantian dignity of each person as independent of circumstance. Within his presidential role, he exercises institutional power as a trust to be exercised according to principle—the Memorial Day address frames his role as 'Commander-in-Chief' with 'no more solemn obligation' (ev_038). His government modernization initiative (ev_037) treats citizens as partners in governance rather than passive subjects. The distinction between 'America is at war with al-Qaeda—not Islam' (ev_012) affirms that all persons possess rational dignity regardless of national or religious affiliation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_009",
+        "ev_011",
+        "ev_017",
+        "ev_018",
+        "ev_038",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Rational dialogue with principled red lines",
+      "finding": "Obama's conflict strategy consistently prioritizes rational argumentation while maintaining clear principled boundaries—a Kantian approach that treats opponents as rational beings to be persuaded rather than enemies to be defeated. His appeals to bipartisan cooperation ('This isn't a Democratic or a Republican issue') (ev_008) and his cited work with diverse coalitions (AFL-CIO and Chamber of Commerce) (ev_008) demonstrate willingness to engage opposition rationally. He frequently frames his positions in universalizable terms that could theoretically be endorsed by any rational agent: 'level playing field,' 'fair wage,' 'equal rules' (ev_003, ev_017). However, when principles are at stake—especially constitutional and fiscal integrity—he draws clear red lines: 'I will not negotiate over the full faith and credit' (ev_015), 'I will veto it' (ev_029). This represents Kantian respect for rational argument combined with recognition that some positions are simply incompatible with rational principles and cannot be compromised. His criticism of Senate obstruction ('one senator gumming up the works for the whole country') (ev_010) appeals to rational procedure rather than partisan advantage.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term with principled anchors",
+      "finding": "Obama's time horizon strongly favors long-term mission-scale outcomes anchored in stable principles, consistent with Kantian non-instrumental time perspective. His healthcare commitment ('As long as I am President, that's a commitment this country is going to keep') (ev_001), defense of the Paris climate agreement as 'something to build upon' (ev_041), and Iran nuclear deal as preventing nuclear proliferation reflect concern with outcomes extending far beyond his presidency. The Cancer Moonshot (ev_042, ev_043) exemplifies mission-scale thinking—addressing a problem that has persisted for 45 years with a comprehensive strategy. His framing of economic recovery as 'the strongest job growth since the 1990s' (ev_024) and his year-end reviews that assess cumulative accomplishments (ev_033) suggest systematic attention to long-term trajectory. However, he also demonstrates responsiveness to urgent short-term needs—transportation funding, student loan rates (ev_011)—framing these as immediate crises that require action consistent with long-term principles rather than departures from them. The 'Year of Action' concept (ev_015) represents effort to achieve immediate progress while building toward lasting change.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_011",
+        "ev_015",
+        "ev_033",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic reform with institutional rebuilding",
+      "finding": "Obama consistently demonstrates preference for structural redesign over incremental adjustment, characteristic of Kantian method that builds from principles rather than patching existing problems. The ACA was framed not as a补丁 but as systemic transformation of healthcare financing ('put Medicare on a sounder financial footing,' 'added at least a dozen years to the solvency of Medicare') (ev_002). Wall Street Reform was similarly positioned as ending 'too big to fail' bailouts through comprehensive restructuring, not superficial adjustments (ev_003). His defense of these policies five years later ('Wall Street Reform is working') (ev_020) and his veto threats against any rollback indicate commitment to structural integrity of the reforms. The 'balanced approach' to deficit reduction (ev_013) involves fundamental changes to entitlement programs and tax reform rather than superficial cuts. Even government modernization (ev_037) is framed as unprecedented structural change: 'something that government never has done'—inviting Silicon Valley expertise to rebuild government systems. This pattern reflects the Kantian willingness to reconstruct foundations when they are flawed.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_013",
+        "ev_020",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High reflective awareness with principled self-correction",
+      "finding": "Obama demonstrates sophisticated metacognitive awareness consistent with the Kantian imperative to examine one's own maxims. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) reveals willingness to honestly assess previous positions. His farewell address explicitly frames his presidency as a learning process: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This suggests ongoing reflection on how his actions measure against standards of adequacy. The distinction between his personal experience of fatherhood ('I grew up without my father around') (ev_006) and his deliberate choice to coach his daughter's basketball team (ev_007) reveals conscious effort to choose different principles from those that shaped him. His invitation to Silicon Valley for government modernization (ev_037) represents epistemic humility about whether traditional governmental approaches are adequate. However, his consistent framing of criticism as response to obstruction rather than potential errors in his own approach suggests some limitation in applying the same critical scrutiny to his core positions that he applies to institutions and opponents.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_037",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Dignity-Promotion Through Policy",
+      "definition": "Beyond Kant's formal requirement to treat persons as ends, Obama systematically uses policy to enhance the actual dignity-capacities of vulnerable populations—this is active dignity promotion, not merely non-instrumentalization",
+      "finding": "Obama's speeches reveal a distinctive pattern of using governmental power to actively enhance the conditions for human dignity among those least able to secure it for themselves: seniors with Medicare expansion, workers with minimum wage requirements, veterans with preferential hiring, students with loan protection, and families with Head Start programs. This goes beyond Kant's negative duty not to instrumentalize others (treat them as means only) to a positive duty to create conditions that enable rational agency. The Memorial Day address's emphasis on 'Gold Star Families' and the sequester warnings about 'parents whose kids just got kicked out of Head Start programs' (ev_014) reveal concern for those whose capacity for rational self-determination is most threatened by material circumstances. This 'dignity-promotion' dimension extends Kantian ethics from the interpersonal to the political sphere, suggesting that the Humanity Formula requires not only refraining from using others as mere tools but actively creating conditions for their autonomous agency.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_017",
+        "ev_009",
+        "ev_011",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Formalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

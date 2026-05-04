@@ -1,0 +1,187 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_theory_maslow",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation operating from self-actualization level",
+      "finding": "Obama consistently demonstrates high agency through systematic policy initiatives (ACA, Dodd-Frank, Paris climate agreement, TPP), executive actions, and calls for structural change rather than reactive adaptation. Evidence ev_019 documents over 20 executive actions taken in a single year; ev_036 expresses faith in government as a tool for collective problem-solving ('the best tool we've got to settle our differences and solve our collective challenges'). His father's day address (ev_006, ev_007) shows authenticity and self-awareness, while his farewell address (ev_044, ev_045) demonstrates integration of diverse experiences into coherent meaning. These patterns align with Maslow's characterization of self-actualizers as world-shapers who actively create change rather than merely responding to circumstance. His public statements consistently frame problems as solvable and position himself as a driver of solutions, indicating energy freed from deficiency-motivated concerns.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_036",
+        "ev_006",
+        "ev_007",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integrative epistemic style combining empirical grounding with meaning-making",
+      "finding": "Obama consistently synthesizes statistical evidence with broader narratives about American values and collective capability. He cites specific data (11 million jobs over 57 months, ev_025; $11 billion recovered for consumers, ev_028; wind power tripled, solar 30-fold, ev_040) but immediately connects these to transcendent themes ('America's resurgence is real,' ev_024; 'love won,' ev_035). His statement 'I'm absolutely confident we will get there' (ev_004) followed by attributing success to American ingenuity and determination suggests epistemic openness combined with positive orientation toward uncertainty. Ev_027 shows metacognitive awareness: 'I'm the first to admit that past trade deals haven't always lived up to the hype' — a willingness to acknowledge epistemic limitations and revise beliefs. This pattern indicates growth-motivated (B-motivated) cognition characterized by openness, willingness to integrate new information, and comfort with complexity.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_024",
+        "ev_035",
+        "ev_004",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction preference with systems-level orientation",
+      "finding": "Obama consistently operates at high levels of abstraction, framing policy in terms of core principles rather than procedural details. His 'middle-out' economic philosophy (ev_021) — 'Our economy grows best not from the top-down, but from the middle-out' — demonstrates abstract conceptualization of economic dynamics. He frames climate action in terms of legacy ('something to build upon,' ev_041) rather than regulatory specifics. Even when citing specific statistics, they serve as evidence for abstract claims about American progress and potential. Ev_021 shows systems thinking: the economy as interconnected structure where middle-class health determines overall prosperity. This abstraction level indicates self-actualization-stage cognition where concrete details are subordinate to broader frameworks and values.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_041",
+        "ev_025",
+        "ev_028",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate adaptive control orientation emphasizing institutional legitimacy",
+      "finding": "Obama demonstrates principled control orientation focused on institutional integrity rather than personal power consolidation. His refusal to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States,' ev_015) shows firm boundaries on non-negotiable principles. However, his frequent calls for Congressional action (ev_008, ev_013, ev_026) and emphasis on bipartisanship (ev_048 - 'Christmas miracles in Washington') indicate preference for legitimate institutional process over unilateral action. Ev_037 shows innovation through partnership ('asked some of the sharpest minds from companies in Silicon Valley to come help us modernize the federal government') rather than top-down control. This pattern suggests security needs well-satisfied — control exercised through principled commitment rather than anxiety-driven dominance, consistent with self-actualization-level autonomy.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_008",
+        "ev_013",
+        "ev_026",
+        "ev_048",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with calculated acceptance of relational costs",
+      "finding": "Obama consistently prioritizes policy goals over political comfort, accepting relationship damage when principled positions require it. Ev_020 explicitly criticizes Republican obstruction while asserting executive authority: 'Republicans in Congress have blocked or voted down every serious idea to create jobs.' Ev_029 shows firm veto commitment: 'And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it.' Ev_011 documents urgent deadlines with implicit criticism of Congressional failure ('seven days away... eight days away'). However, ev_046 frames this in terms of collective citizenship rather than personal conflict: 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime.' This suggests mission commitment combined with meaning-making that reframes conflict as civic necessity rather than personal grievance — mature navigation of mission-relational tension.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_011",
+        "ev_046",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate growth-motivated risk tolerance with long-term horizon",
+      "finding": "Obama accepts significant risks for long-term objectives, operating with confidence in eventual positive outcomes. His trade policy (TPP as alternative to China writing global rules, ev_031) represents substantial geopolitical risk-taking for structural positioning. The Paris climate agreement (ev_041) commits to decades-long transformation accepting short-term political costs. Ev_042 describes the Cancer Moonshot as 45-year accumulated progress requiring patient investment. Ev_047 expresses 'renewed optimism' after eight years — indicating resilience through uncertainty. His year-end 2015 address (ev_033) shows comfort presenting complex achievements including both domestic (jobs, healthcare) and controversial (Iran nuclear deal) items together, suggesting ability to hold uncertainty without premature closure. This risk posture indicates growth motivation (B-motivation) rather than deficiency-driven risk aversion.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_041",
+        "ev_042",
+        "ev_047",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Principled institutional authority with democratic legitimacy orientation",
+      "finding": "Obama uses presidential power instrumentally for democratic goals rather than for personal aggrandizement, consistently framing authority in terms of collective mandate. Ev_038 articulates clear boundaries: 'As Commander-in-Chief, I have no more solemn obligation than leading our men and women in uniform' — power as responsibility. Ev_015 shows principle-based authority: refusing to negotiate 'full faith and credit' framing the President's role as protecting institutional integrity. Ev_044-46 show orientation toward power as stewardship: 'Every day, I learned from you. You made me a better President, and you made me a better man' — authority derived from and accountable to citizens. This contrasts with power-focused orientation and aligns with Maslow's observation that self-actualizers 'are not overly impressed by bulwark of authority or prestige,' using power in service of external goals rather than internal needs.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_015",
+        "ev_044",
+        "ev_046",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-oriented with principled escalation when necessary",
+      "finding": "Obama demonstrates sophisticated conflict navigation combining collaborative framing with firm boundaries. Ev_008 shows translation strategy: 'This isn't a Democratic or a Republican issue – it's an American issue' — even framing transportation funding as non-partisan. Ev_014 documents empathetic framing of sequester impacts on vulnerable populations (Head Start, seniors, military families) as conflict translation. However, ev_029 shows willingness to escalate: definitive veto threat on Wall Street reform repeal. Ev_012 distinguishes war on al-Qaeda from respect for Islam — careful conflict framing to prevent scope expansion. Ev_048 frames bipartisan achievements as rare 'Christmas miracles' — acknowledging conflict reality while celebrating resolution. This pattern indicates mature conflict strategy integrating negotiation, translation, and principled escalation based on contextual assessment.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_029",
+        "ev_012",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale long-term orientation spanning decades",
+      "finding": "Obama consistently operates with very long time horizons focused on generational impact. Ev_016 emphasizes deficit reduction trajectory: 'our deficits are already falling at the fastest rate since the end of World War II' and promises 'more than half since I took office.' Ev_004 frames economic recovery as multi-year process: '57 months... 11 million new jobs.' Ev_040 frames climate progress as decades-long: 'carbon pollution from our energy sector is at its lowest level in 25 years.' Ev_042 describes Cancer Moonshot as 45-year accumulated progress requiring continued patient investment. Ev_046 calls for engagement 'over the full span of a lifetime' — extending beyond electoral cycles. This temporal orientation indicates freedom from immediate survival concerns, enabling focus on long-term systemic improvement consistent with self-actualization-stage motivation.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_004",
+        "ev_040",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild preference across multiple policy domains",
+      "finding": "Obama consistently prefers comprehensive systemic reform over incremental adjustment. His signature achievements — ACA (ev_001-002: 'the single longest extension in history' of Medicare solvency), Dodd-Frank (ev_028: systemic consumer protection with $11 billion recovered), Paris climate agreement (ev_041: 'something to build upon') — represent fundamental institutional redesign. Ev_005 explicitly rejects simple solutions: 'Drilling alone is not a real strategy to replace our dependence on foreign oil' — indicating preference for comprehensive approaches. Ev_015 frames legislative obstruction as requiring executive alternative — systemic failure triggering systemic response. Ev_037 shows government modernization through partnership with Silicon Valley rather than internal process adjustment. This pattern indicates confidence in comprehensive solutions and willingness to pursue structural transformation when incremental approaches seem insufficient.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_041",
+        "ev_005",
+        "ev_015",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness with integrated self-understanding",
+      "finding": "Obama demonstrates high self-awareness across multiple dimensions: emotional authenticity, cognitive limitations, and relational dynamics. Ev_006-007 show authentic self-disclosure about absent father and coaching daughter's team — willingness to reveal vulnerability. Ev_027 shows intellectual humility: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' Ev_044-047 demonstrate integrated self-reflection in farewell address: gratitude for learning from citizens, acknowledging interdependence, and commitment to continued growth ('you made me a better President, and you made me a better man'). Ev_004 shows awareness of collective dimension: attributing confidence to American ingenuity rather than personal capability. Ev_046 shows metacognition about civic engagement patterns, calling for reflection on citizenship beyond elections. This level of self-awareness aligns with Maslow's description of self-actualizers having 'superior awareness of their own inner feelings, of their own求生欲, of their own reactions.'",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_047",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "civic_identity_integration",
+      "definition": "The extent to which an individual integrates their public role into a broader conception of themselves as participating citizens rather than elevated authority figures",
+      "finding": "Obama demonstrates remarkable integration of presidential authority with civic identity, consistently framing power as derived from and accountable to citizens rather than as personal possession. Ev_044 expresses gratitude to citizens who 'made me a better President, and you made me a better man' — explicit attribution of authority to relational engagement. Ev_046 calls for civic participation 'not just when there's an election... but over the full span of a lifetime.' Ev_047 announces commitment to continued work 'as a citizen' alongside Americans. This pattern suggests a distinct motivational configuration where public service is framed as extension of democratic citizenship rather than as separate elevated status — potentially reflecting self-transcendence where individual boundaries become permeable to collective good. This dimension may capture something that neither self-actualization nor transcendence fully captures: the active integration of institutional role with democratic participation identity.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_046",
+        "ev_047",
+        "ev_036",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "optimistic_realism",
+      "definition": "The capacity to hold awareness of serious problems while maintaining positive directional belief about collective capability — neither naive optimism nor defensive pessimism",
+      "finding": "Obama demonstrates a distinctive cognitive-affective configuration balancing honest acknowledgment of problems with confident positive outlook. Ev_027 shows metacognitive realism: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' Ev_014 documents real human costs of sequester on Head Start families, seniors, and military communities — acknowledging genuine harm. Yet ev_004 states 'I'm absolutely confident we will get there' based on American ingenuity; ev_047 announces 'renewed optimism' and commitment to continued work. Ev_024 declares 'Pick any metric you want – America's resurgence is real' while ev_011 warned of impending crises. This pattern suggests capacity to simultaneously hold problem-awareness and solution-confidence without defensive distortion — a psychologically sophisticated stance that neither denies difficulty nor succumbs to despair. This may be characteristic of self-actualizers who have metabolized enough experience to trust their capacity to navigate uncertainty without needing premature closure.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_014",
+        "ev_004",
+        "ev_047",
+        "ev_024",
+        "ev_011"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "perception_vision_and_media_generative_media_authenticity",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping; actively seeks to shape policy environments rather than merely adapt to existing constraints",
+      "finding": "Obama consistently positions himself as an architect of change rather than a passive responder to circumstances. His declaration of a 'Year of Action' (ev_019) and explicit enumeration of executive actions demonstrates active agency orientation. Rather than accepting Congressional gridlock as an immutable constraint, he systematically identified workarounds: signing executive orders on minimum wage (ev_017), issuing veto threats on Wall Street Reform (ev_029), and launching initiative-driven programs like the Cancer Moonshot (ev_042). His rhetoric frequently employs the language of choice and determination—'we chose to invest' in auto industry (ev_022)—emphasizing deliberate world-shaping over environmental adaptation. The evidence shows sustained preference for shaping problem structures through policy design rather than reactive adjustment.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_017",
+        "ev_022",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded with verified statistics; relies on measurable outcomes and concrete data",
+      "finding": "Obama's speeches demonstrate consistent reliance on quantitative metrics to support policy positions. He cites specific employment figures (ev_025: '11 million new jobs,' 57-month growth), deficit statistics (ev_016: 'fastest rate since World War II'), consumer recovery amounts (ev_028: '$11 billion back in pockets of 26 million consumers'), and energy production data (ev_040: 'wind power threefold, solar more than thirtyfold'). His epistemic style privileges verifiable, measurable claims over narrative or ideological arguments. When making policy arguments, he anchors them in specific numbers with clear provenance—Medicare solvency extension (ev_002), veterans hired (ev_009), or students affected by loan rates (ev_011). This pattern indicates a strong preference for evidence-backed claims with traceable sources, though notably these sources are primarily from administrative data rather than independent verification.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_016",
+        "ev_028",
+        "ev_040",
+        "ev_002",
+        "ev_009",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances abstract philosophical frameworks with concrete policy mechanisms",
+      "finding": "Obama demonstrates notable capacity for abstraction through explicit articulation of governing philosophies: 'middle-out' economic theory (ev_021: 'Our economy grows best not from top-down, but from middle-out'), opportunity restoration principle (ev_018: 'no matter who you are or how you started out'), and democratic citizenship philosophy (ev_036: 'our founders trusted us with the keys to this system'). However, he consistently bridges these abstractions to specific implementation mechanisms—executive orders (ev_017), agency creation (ev_028: CFPB), legislative proposals, and public-private partnerships (ev_004: Clean Fleets Partnership). His abstraction_formalization manifests as philosophical frameworks translated into actionable policy structures rather than pure theorizing. The 'Year of Action' concept (ev_019) exemplifies this bridging—abstract presidential commitment made concrete through enumerated executive actions.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_036",
+        "ev_017",
+        "ev_028",
+        "ev_004",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation; seeks institutional leverage rather than direct manipulation",
+      "finding": "Obama's control orientation manifests primarily through institutional mechanisms rather than direct control attempts. He leverages executive authority strategically—issuing veto threats against Wall Street Reform repeal (ev_029), using executive orders on minimum wage (ev_017), and deploying 'administrative tools' when legislative channels fail. His approach to Congressional relations shows controlled escalation: framing issues as bipartisan (ev_008), publicly naming obstruction (ev_010, ev_020), then asserting executive agency when legislative paths remain blocked. Notably, he does not attempt direct manipulation of media or public perception through deception, instead relying on transparent policy advocacy and publicly stated positions. The 'America's resurgence is real' framing (ev_024) uses rhetorical control through confident assertion but within an authenticity framework—this is persuasion through commitment rather than through manufactured perception control.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing; willing to accept significant relational and political costs for policy goals",
+      "finding": "Obama demonstrates consistent willingness to prioritize policy objectives over relational comfort. He publicly criticized Congressional Republicans at least 12 times across the evidence set (ev_010, ev_011, ev_013, ev_014, ev_015, ev_020), naming specific obstruction of minimum wage, equal pay, unemployment insurance, and judicial nominations. His refusal to negotiate on debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States') shows mission-prioritization accepting potential political costs. However, he consistently framed conflicts as principled disagreements rather than personal antagonisms—'I've been joined by AFL-CIO and Chamber of Commerce' (ev_008)—suggesting mission-prioritization constrained by broader coalition-building objectives. His farewell address attribution of accomplishments to 'American people' (ev_032, ev_045) further suggests relational cost awareness, but the evidence shows genuine mission-commitment when conflicts arise.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010",
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_020",
+        "ev_008",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with layered defense strategy; prefers clear commitments with exit mechanisms",
+      "finding": "Obama's risk posture shows strategic calculation rather than either aggressive risk-seeking or conservative avoidance. He accepted significant political risks through executive action over legislative consensus (ev_019: 'more than 20 executive actions'), yet structured these around clear principles and exit mechanisms. His energy policy explicitly rejected single-strategy approaches (ev_005: 'Drilling alone is not a real strategy')—a defensive layering against overcommitment. His sequester response documented real costs (ev_014: Head Start cuts, senior program strain) as argument for replacement rather than accepting them, suggesting risk-layering through public awareness campaigns. His 'refuse to negotiate' position on debt ceiling (ev_015) represents calculated commitment with a clear principle boundary, not experimental risk-taking. Overall pattern suggests layered defensive positioning through multiple channels—legislative, executive, public advocacy—rather than aggressive risk acceptance or conservative avoidance.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_005",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist with pragmatic boundary-testing; respects formal authority while working around constraints",
+      "finding": "Obama exhibits sophisticated institutional relationship with hierarchy—respecting formal authority structures while pragmatically working within and around limitations. He acknowledges Congressional power while publicly criticizing its exercise (ev_010: 'One senator gumming up the works...is certainly not what our founding fathers envisioned'), showing hierarchical respect combined with institutional critique. His executive orders on minimum wage (ev_017) represent authorized boundary-use—executive authority deployed within legitimate scope. The 'Trade Promotion Authority' request (ev_026) demonstrates seeking proper hierarchical approval rather than unilateral action. His Silicon Valley partnerships and Presidential Innovation Fellows (ev_037, ev_043) show non-hierarchical collaboration models. However, his willingness to issue veto threats (ev_029) and publicly challenge Congressional obstruction suggests boundary-testing rather than pure institutional deference. The pattern indicates institutionalist with pragmatic adaptation capacity.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_026",
+        "ev_029",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Progressive escalation with public appeal as ultimate lever; prefers negotiation but deploys transparency",
+      "finding": "Obama's conflict strategy follows consistent escalation patterns: initial framing as bipartisan/multi-stakeholder (ev_008: 'AFL-CIO and Chamber of Commerce together'), followed by public naming of obstruction (ev_020: 'Republicans in Congress have blocked...'), then deployment of executive authority or public advocacy pressure. His transportation bill campaign (ev_006, ev_011) exemplifies this—calling for Congressional action, highlighting job losses from inaction, then securing Senate passage and pressuring House. His debt ceiling stance (ev_015) shows conflict translation—refusing negotiation but offering alternative through deficit reduction proposals. He does not suppress conflicts or delay indefinitely; rather, he escalates through public transparency, executive action, or veto commitment. The 'not be held hostage' framing appears implicitly—'I will not negotiate'—indicating strategic conflict deployment rather than avoidance or deferral.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_006",
+        "ev_011",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mixed orientation with strong long-term policy construction within medium-term electoral constraints",
+      "finding": "Obama's time horizon spans multiple scales simultaneously. Long-term structural investments are evident: energy independence by 2025 (ev_004), climate agreements ('leave a better future for our children' ev_041), and institutional design through CFPB (ev_028) and healthcare exchanges. The '11 million jobs over 57 months' (ev_025) shows medium-term electoral-accountable framing. His farewell address emphasis on sustained civic engagement ('not just when there's an election' ev_046) suggests longer temporal citizenship framework. However, the evidence also shows acute awareness of electoral timing—'Year of Action' (ev_019) explicitly tied to political calendar, and '2016 budget' and 'Christmas miracles' framing (ev_048) show calendar-consciousness. Overall pattern: long-term policy architecture within medium-term political constraints, with strategic use of near-term metrics for accountability framing.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_041",
+        "ev_028",
+        "ev_025",
+        "ev_046",
+        "ev_048",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strongly rebuild-oriented; consistently prefers structural reform over incremental adjustment",
+      "finding": "Obama demonstrates consistent preference for structural solutions over incremental patches across major policy domains. His signature achievements—ACA (ev_001: 'strengthening Medicare,' ev_002: '12+ year extension') and Dodd-Frank Wall Street Reform (ev_028: independent CFPB with enforcement authority)—represent fundamental institutional redesign rather than regulatory tweaking. His response to sequester (ev_013, ev_014) explicitly frames it as requiring 'balanced, comprehensive' replacement, not adjustment. His climate policy (ev_040: 'wind threefold, solar thirtyfold') shows systemic transformation ambition. Even within constrained circumstances, his executive orders established new minimum wage structures (ev_017) rather than temporary relief. The 'Year of Action' framing (ev_019) and 'Blueprint for Energy Future' (ev_004) indicate architectural thinking—building new structures rather than patching existing ones. This represents strong rebuild orientation, though constrained by Congressional relationships and institutional realities.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_013",
+        "ev_014",
+        "ev_040",
+        "ev_017",
+        "ev_004",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; acknowledges uncertainty and external contributions while maintaining confident policy positions",
+      "finding": "Obama shows notable metacognitive markers throughout the evidence. He explicitly acknowledges limitations of past approaches (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype')—self-awareness of prior failures. His farewell address demonstrates explicit reflection on learning from citizens ('Every day, I learned from you' ev_044, 'You made me a better President' ev_044). He attributes accomplishments to collective action rather than individual credit (ev_032: 'All of this progress is because of you'), showing awareness of systemic causation over individual agency. However, his statistical claims (ev_025, ev_040) are presented with high confidence despite reliance on potentially contestable administrative data. He does not visibly reflect on possible biases in his own information sources or cognitive patterns. The pattern suggests moderate metacognition—acknowledging uncertainty and external contributions in some domains while maintaining confident assertions where empirical verification might be more rigorous. His climate defense ('not something to tear up, something to build upon' ev_041) suggests forward-looking rather than self-critical reflection orientation.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_032",
+        "ev_041",
+        "ev_025",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "rhetorical_provenance_orientation",
+      "definition": "How an individual manages the relationship between their constructed public narrative (speeches, communications) and underlying verifiable reality. This extends authenticity analysis beyond media content to the construction of political persona through strategic communication with awareness of its performative dimensions.",
+      "finding": "Obama exhibits sophisticated rhetorical provenance management—treating public communication as both genuine expression and constructed artifact requiring careful assembly. His speeches acknowledge their own constructed nature ('Top 10 Things that Happened in 2015' list format ev_033), use verifiable statistics to anchor claims, and explicitly credit external sources (surveys ev_023, Medicare Trustees ev_002) to build authenticity. However, the 'Top 10' format and emphatic declarations ('America's resurgence is real' ev_024) also demonstrate performed confidence—a political communication style that constructs rather than merely reports reality. His 'Year of Action' declaration functions as both authentic policy commitment and political branding exercise. The evidence suggests an individual who treats speech construction as genuine craft requiring careful provenance management, combining statistical anchoring with rhetorical framing rather than pure authenticity performance or pure media manipulation. This represents a middle ground between naive transcript trust and cynical media manipulation—strategic authenticity through careful communication construction.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_024",
+        "ev_023",
+        "ev_002",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_performance_authenticity",
+      "definition": "The relationship between formal institutional role requirements (as in presidential communication) and individual authenticity expression. Addresses how officials balance role-defined communication obligations with genuine personal expression within constrained institutional formats.",
+      "finding": "Obama's speeches reveal tension between institutional role performance and authentic expression within official communication constraints. His Father's Day address (ev_006: personal father absence; ev_007: coaching daughter's basketball) represents deliberate authentic personal expression within institutional format—the role demanded a Father's Day address; he chose to include vulnerable personal narrative. His Memorial Day address (ev_038, ev_039) shows similar pattern—role performance of commander-in-chief combined with authentic emotional engagement with military families and actionable civic suggestions. His farewell address (ev_044-047) extensively blends institutional summary with personal gratitude and vulnerability. This suggests Obama treats institutional communication requirements as containers for authentic expression rather than pure role performance—using required formats for genuine engagement rather than purely performative compliance. The evidence shows conscious construction of authentic voice within institutional constraints, though the speeches themselves remain highly polished crafted artifacts rather than spontaneous expression. The emergent dimension captures how political authenticity operates within role-defined communication structures.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_039",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

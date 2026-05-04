@@ -1,0 +1,174 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "programming_languages_and_formal_reasoning_semantics_specification",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with adaptive constraint navigation",
+      "finding": "Obama consistently positioned himself as an active agent who defines and pursues explicit commitments rather than passively responding to circumstances. Evidence includes his declaration of a 'Year of Action' with over 20 executive actions taken (ev_019), his commitment that 'as long as I am President, that's a commitment this country is going to keep' regarding Medicare (ev_001), and his willingness to issue veto threats against Wall Street Reform repeal (ev_029). However, his world-shaping was pragmatic rather than rigid—he acknowledged Republican obstruction (ev_020) and pivoted to executive mechanisms when legislative paths were blocked (evt_014, evt_015). This suggests an agent who treats the problem structure as malleable: when one path closes, he redefines the intervention mechanism rather than conceding the goal. His challenge to private companies to hire 100,000 veterans (ev_009) further demonstrates his tendency to expand the solution space by recruiting external actors rather than limiting himself to formal governmental tools.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-anchored reasoning with principled commitment to core values",
+      "finding": "Obama's epistemic approach prominently features quantitative metrics and verifiable data—57 months of job growth (ev_025), 11 million jobs created, $11 billion recovered for 26 million consumers through CFPB (ev_028), wind power tripled and solar 30x growth (ev_040), deficit reduction at fastest rate since WWII (ev_016). He explicitly stated preferences for 'balanced, comprehensive' approaches based on evidence rather than ideology (ev_013) and framed his arguments around measurable outcomes rather than pure normative claims. However, his epistemic style is not purely empiricist—he also anchors decisions in principled commitments ('love won' ev_035, distinguishing al-Qaeda from Islam ev_012). Notably, he acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027), demonstrating epistemic honesty about historical failures while still defending forward action. This suggests a hybrid approach where evidence and principled commitments interact, with empirical data serving to validate or invalidate specific policies rather than determining core values.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_016",
+        "ev_013",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-strong formalization with practical anchoring in concrete metrics",
+      "finding": "Obama demonstrates capacity for articulating abstract policy principles—like 'middle-out' economics (ev_021), 'opportunity for all' (ev_018), and 'America is at war with al-Qaeda, not Islam' (ev_012)—while consistently grounding them in specific, measurable commitments. He sets explicit specifications: $10.10 minimum wage (ev_017), 100,000 veteran hires by 2013 (ev_009), one-third reduction in oil imports by 2025 (evt_004), 90-day up-or-down votes on nominations (evt_008). The Cancer Moonshot initiative (evt_026) exemplifies formalization: Biden described 'a clear strategy for the road ahead' with defined targets, cross-agency coordination, and specific outcomes like increasing clinical trial enrollment from 4% (ev_043). Obama rarely operates at pure abstraction—he tends to translate principles into operational parameters, deadlines, and measurable success criteria. However, his speeches do not contain technical specifications or formal proofs; the formalization serves communicative and political purposes rather than engineering precision.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_009",
+        "ev_017",
+        "ev_043",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for direct control mechanisms with willingness to use formal authority",
+      "finding": "Obama demonstrates a clear preference for establishing direct control over key variables and outcomes. His control repertoire includes formal mechanisms: executive orders on federal contractor minimum wage (ev_017), veto threats against Wall Street Reform repeal (ev_029), and refusal to 'negotiate over the full faith and credit of the United States' (ev_015). He structured the Cancer Moonshot through a dedicated task force with cross-agency innovation (ev_043) and deployed Presidential Innovation Fellows from Silicon Valley specifically to solve control problems in government tech modernization (ev_037). However, his control orientation operates within constraints—he acknowledges Congressional authority, frequently calls for bipartisan cooperation (ev_008), and works around Republican obstruction by expanding the coalition (AFL-CIO and Chamber of Commerce together). The distinction between 'balancing act' and control is crucial: Obama seeks to directly shape outcomes through formal authority rather than merely influencing or negotiating around obstacles. His 'Year of Action' framing (evt_015) explicitly frames agency as direct intervention, not permission-seeking.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_015",
+        "ev_037",
+        "ev_043",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission advancement despite incurring significant relational costs",
+      "finding": "Obama demonstrates a consistent pattern of mission prioritization over relational comfort with political opponents. He explicitly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea' ev_020), condemned Senate procedural tactics as contrary to 'what our founding fathers envisioned' (ev_010), and framed legislative opponents as obstacles to be overcome rather than partners to accommodate. However, his mission focus is not indiscriminate—he strategically builds coalitions across ideological lines when interests align (AFL-CIO and Chamber of Commerce together on transportation, ev_008), suggesting selective relationship investment rather than blanket antagonism. His willingness to issue veto threats (ev_029) and declare 'I will not negotiate' on debt ceiling (ev_015) indicates他把政治成本视为必要代价而非避免目标。他对退伍军人家庭和阵亡将士遗孤的持续关注（evt_024, evt_007）进一步表明，他的使命驱动型方法植根于对具体人群的承诺，而不仅仅是抽象的政策目标。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_024",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense strategy with calculated boldness on core commitments balanced by pragmatic hedging",
+      "finding": "Obama's risk posture combines bold action on core priorities with defensive layering on systemic vulnerabilities. He demonstrates 'calculated boldness' through signature initiatives like the ACA (healthcare system overhaul), Dodd-Frank (financial system restructuring), and Paris climate agreement—each carrying substantial political and implementation risk. His assertion that 'we cannot take our democracy for granted' (ev_046) reflects awareness of tail risks requiring ongoing vigilance. However, he also employs defensive mechanisms: explicitly documenting sequester costs to vulnerable populations (ev_014), highlighting CFPB recovery of $11 billion as evidence the regulatory system works (ev_028), and establishing clear red lines on debt ceiling (ev_015) and Wall Street Reform (ev_029). His approach is not purely conservative—'Year of Action' with over 20 executive actions suggests willingness to act decisively—but rather layered: bold on core commitments, defensive on systemic risks, with explicit acknowledgment that some risks must be taken ('we've succeeded in forging a strong deal' on Iran nuclear, ev_034) rather than avoided.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_028",
+        "ev_015",
+        "ev_029",
+        "ev_014",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated, dual-mode engagement with formal and informal authority structures",
+      "finding": "Obama demonstrates nuanced understanding of both formal hierarchical power and informal authority dynamics. He exercises formal presidential authority directly—executive orders, veto threats, budget commitments—and frames his actions as expressions of democratic mandate ('it's you—the American people' ev_032). Yet he also navigates institutional constraints: acknowledging Congressional authority, building cross-partisan coalitions (ev_008), and respecting institutional processes even when frustrating. His deployment of Presidential Innovation Fellows (ev_037) represents creative use of informal authority—recruiting external expertise into government—rather than pure hierarchical command. The Cancer Moonshot structure (ev_043) exemplifies hybrid approach: formal presidential initiative combined with cross-agency coordination and external partnerships. His distinction between 'war with al-Qaeda' versus 'not war with Islam' (ev_012) shows semantic precision in using language to define scope and limits of authority. This suggests sophisticated power literacy: understanding when to deploy formal authority and when to work around, through, or with informal structures.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_008",
+        "ev_037",
+        "ev_043",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Multi-modal approach combining direct confrontation with coalition expansion and mechanism translation",
+      "finding": "Obama employs conflict strategies calibrated to context and stakes. For high-priority commitments with existential or core value stakes (debt ceiling ev_015, Wall Street Reform ev_029, Medicare solvency ev_001), he uses direct confrontation and red lines—no negotiation, veto threats, explicit commitments. For legislative priorities blocked by partisan opposition, he expands coalitions: framing transportation as 'not a Democratic or Republican issue' with AFL-CIO and Chamber of Commerce together (ev_008). When legislative paths close, he translates to alternative mechanisms—executive orders on minimum wage (ev_017), executive actions in 'Year of Action' (ev_019), or public appeals to shift political terrain. He explicitly criticizes Senate obstruction but calls for both parties to change tactics (ev_010), suggesting conflict is seen as a problem of process rather than irreconcilable difference. This multi-modal approach—confrontation when necessary, coalition-building when possible, mechanism translation when blocked—indicates sophisticated conflict management rather than any single strategy.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_001",
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation with explicit focus on generational and structural legacies",
+      "finding": "Obama consistently operates on long time horizons, framing accomplishments as building toward generational change. His farewell address explicitly frames legacy ('leave a better, cleaner, safer future for our children' ev_041), and his ACA passage was justified partly as the 'single longest extension' of Medicare solvency in history (ev_002). The Paris climate agreement (ev_034, ev_041) represents explicit 200-nation, multi-generational commitment. He speaks of 'decades-long erosion of middle-class jobs and incomes' as the problem being addressed (ev_024), suggesting awareness of structural timescales. However, he also maintains short-to-medium term accountability markers: specific job creation numbers (ev_025), immediate deadlines for transportation funding and student loan rates (ev_011), and annual or semi-annual progress reports. The Cancer Moonshot (evt_026, ev_042) explicitly draws on historical comparison to 1971, positioning current work within a multi-decade effort. This temporal orientation—long-term mission framed through medium-term milestones—suggests comfort with extended time horizons while maintaining near-term accountability mechanisms.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_002",
+        "ev_034",
+        "ev_024",
+        "ev_025",
+        "ev_011",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when systemic failures are identified",
+      "finding": "Obama consistently demonstrates preference for systemic interventions over incremental patching. The ACA represents a fundamental redesign of healthcare system architecture, not a补丁. Dodd-Frank was described as establishing a fundamentally new consumer protection architecture ('There's finally an independent Consumer Financial Protection Bureau with one mission' ev_028), ending 'too big to fail' bailouts structurally rather than through voluntary commitments. The Cancer Moonshot explicitly positions itself against 45 years of fragmented efforts, seeking 'a clear strategy for the road ahead' (ev_042) rather than incremental research funding. His framing of 'middle-out' economics (ev_021) represents a structural theory of economic growth, not a stimulus补丁. Even on more bounded issues, he seeks structural solutions: fuel efficiency standards (ev_040), clean energy investment, labor standards in trade agreements (ev_026). The evidence of补丁 approach appears when structural options are blocked—temporary FAA fixes for sequester (evt_012)—but this is presented as failure of the system rather than preferred mode. Obama frames systemic problems requiring systemic solutions, with补丁 as unfortunate necessity rather than strategy.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_021",
+        "ev_042",
+        "ev_026",
+        "ev_040",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong self-awareness with explicit acknowledgment of learning, limits, and context-dependence",
+      "finding": "Obama demonstrates notable metacognitive sophistication. His farewell address explicitly states 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—direct acknowledgment of ongoing cognitive growth and external feedback. He shows awareness of his own positionality: 'Whether we've seen eye-to-eye or rarely agreed at all, my conversations with you...are what have kept me honest, kept me inspired' (ev_044). His nuanced acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) while still defending TPP suggests ability to hold complexity without retreating to false either/or judgments. The distinction between 'war with al-Qaeda' versus 'not war with Islam' (ev_012) reflects semantic precision—a form of conceptual metacognition about how language shapes perception. He acknowledges what he cannot control: 'I cannot do this alone' (implied by public mandate framing ev_036, ev_032), showing awareness of system-level limits on individual agency. However, there's limited evidence of explicit self-correction on specific policy judgments or acknowledgment of reasoning errors; metacognition appears primarily in framing and relationship to audience rather than detailed reasoning process documentation.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_012",
+        "ev_036",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "semantic_boundary_management",
+      "definition": "The capacity to precisely define, defend, and communicate the semantic boundaries of commitments, distinctions, and policy scopes—ensuring that key conceptual distinctions are preserved in translation between technical policy and public communication.",
+      "finding": "Obama demonstrates distinctive skill in maintaining semantic precision when translating complex policy concepts into public communication without losing essential distinctions. His distinction between 'war with al-Qaeda' and 'not war with Islam' (ev_012) preserved a crucial conceptual boundary in counterterrorism policy while communicating it publicly. His framing of Dodd-Frank as ending 'too big to fail' bailouts structurally (src_002) maintained semantic precision about what the legislation actually changed. His 'middle-out' economics articulation (ev_021) translated complex macroeconomic theory into communicable principle. However, this skill operates primarily in the communication/public sphere rather than extending to detailed technical specification; the semantics are precise at the policy level but not at the engineering/implementation level. This emergent construct captures the interface between formal policy semantics and public communication—a boundary management skill that prevents conceptual drift during translation, distinct from both abstraction (which operates at higher generalization) and formalization (which operates at lower technical detail).",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_028",
+        "ev_001"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "software_engineering_software_evolution_maintenance",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Hybrid shaper-responder: actively designs foundational policy architectures while pragmatically adapting when institutional constraints intervene",
+      "finding": "Obama exhibits a sophisticated blend of structural agency and adaptive responsiveness. He attempted comprehensive 'system architecture' through landmark legislation like the ACA and Dodd-Frank, which represent attempts to rewrite fundamental institutional code rather than patch existing systems (ev_001, ev_028). However, when confronted with Congressional gridlock—evidenced by the 2011 transportation funding crisis (ev_008) and repeated minimum wage blocking (ev_020)—he shifted to executive action 'patches' (ev_017, ev_019). His 'Year of Action' declaration represents explicit acknowledgment that structural legislative goals were being blocked, necessitating alternative pathways to achieve similar outcomes. This suggests he understood the distinction between ideal architectural change and pragmatic iterative deployment, choosing the latter when the former proved infeasible within institutional constraints.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with strong reliance on data, metrics, and cross-partisan validation as legitimacy sources",
+      "finding": "Obama's epistemic approach demonstrates consistent reliance on quantitative evidence and institutional validation. He repeatedly cited specific statistics to establish credibility: '11 million new jobs over 57 months' (ev_025), 'nearly $11 billion back in pockets of 26 million consumers' (ev_028), 'wind power tripled, solar 30-fold' (ev_040). He sought cross-partisan validation as a marker of legitimacy, noting when AFL-CIO and Chamber of Commerce agreed (ev_008), when bipartisan Senate passed legislation 52-22 (ev_011), and referencing 'majority of small business owners' supporting his positions (ev_023). His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) reveals epistemic humility about historical failures. This suggests judgments grounded in measurement and evidence rather than pure ideological conviction or anecdote.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_023",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization: articulates guiding principles and frameworks while maintaining practical grounding in specific outcomes",
+      "finding": "Obama demonstrates capacity for abstraction through explicit articulation of governing philosophies. His 'middle-out economics' framework (ev_021) represents genuine conceptual abstraction, positing a structural relationship between middle-class prosperity and economic growth. His framing of trade policy through the TPP as preventing China from 'writing global rules' (ev_031) shows ability to abstract governance frameworks. However, he consistently grounds abstractions in concrete metrics and specific populations—Head Start participants, veterans, students facing loan rate doubles (ev_011, ev_014). This suggests a leader who can formalize systemic relationships while maintaining connection to operational realities, avoiding pure abstraction divorced from implementation concerns.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_021",
+        "ev_031",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through institutional mechanisms, incentives, and platform creation rather than direct manipulation of actors",
+      "finding": "Obama's control orientation reflects institutionalist preferences for structural influence over direct actor control. Rather than attempting to manipulate Congressional behavior directly, he created institutional mechanisms like the Consumer Financial Protection Bureau with 'one mission: to protect American consumers' (ev_028). He used Presidential Innovation Fellows—'top technology minds who left Silicon Valley to work in the White House'—to solve platform problems like clinical trial access (ev_043). His transportation funding warnings emphasized downstream consequences ('nearly 1 million jobs') rather than direct coercion (ev_008). This suggests preference for designing systems where outcomes emerge from properly structured incentives and institutional design, rather than commanding individual actors directly.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority: willing to incur significant political costs when core policy goals threatened, but seeks consensus when compatible with goals",
+      "finding": "Obama demonstrates willingness to absorb relational and political costs to protect core institutional commitments. His debt ceiling position—'I will not negotiate over the full faith and credit of the United States' (ev_015)—represents willingness to confrontation over institutional integrity. His veto threat on Dodd-Frank repeal ('I will veto it') (ev_029) shows commitment despite financial industry opposition. Yet he sought consensus when structurally possible: bipartisan budget deals (ev_048), Senate transportation votes (ev_011), and consistent framing of issues as 'not Democratic or Republican' (ev_008). This suggests calibrated tolerance for conflict—avoiding it when achievable but accepting it as necessary cost when core institutional commitments face threat.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_015",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense strategy: pursues multiple parallel pathways to goals, building redundancy rather than betting on single approaches",
+      "finding": "Obama exhibits risk mitigation through parallel pathway construction. When Congressional action on minimum wage was blocked, he deployed executive orders for federal contractors (ev_017) while continuing legislative pressure. On energy security, he explicitly rejected 'drilling alone' as insufficient, pursuing domestic drilling, fuel efficiency, AND clean energy simultaneously (ev_005, ev_040). His sequester response emphasized multiple vulnerable populations—Head Start, seniors, military families—to build broad coalition concern (ev_014). His cancer moonshot explicitly established cross-agency task forces (ev_043). This suggests engineering mindset of building redundant systems and layered defenses rather than optimizing for single-path efficiency.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_014",
+        "ev_017",
+        "ev_040",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy embracer: operates within constitutional boundaries while maximizing available presidential authority",
+      "finding": "Obama demonstrates sophisticated respect for institutional hierarchy combined with active utilization of available power. He consistently framed actions within constitutional and institutional frameworks: 'As Commander-in-Chief, I have no more solemn obligation' (ev_038), invoking presidential authority but within established boundaries. His Silicon Valley partnerships (ev_037) and Presidential Innovation Fellows program represent novel institutional architectures, not circumventing hierarchy but extending its technical capacity. He acknowledged Congressional obstruction as deviation from founders' intent ('One senator gumming up the works...is certainly not what our founding fathers envisioned'—ev_010) while still working within that system. This suggests understanding of hierarchical power as structural constraint to work within rather than either subvert or fetishize.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_037",
+        "ev_038",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled negotiation with firm boundaries: willing to negotiate on implementation details but establishes non-negotiable redlines",
+      "finding": "Obama's conflict strategy reveals principled negotiation patterns: flexibility on means, firmness on ends. On sequester, he advocated 'balanced approach'—'spending cuts and tax reform'—demonstrating willingness to accept multiple pathways (ev_013). On debt ceiling, he refused negotiation entirely: 'I will not negotiate over the full faith and credit' (ev_015), establishing clear redline. His condemnation of Senate obstruction ('One senator gumming up the works...is certainly not what our founding fathers envisioned') (ev_010) targeted process rather than individuals, suggesting conflict directed at institutional problems rather than personal antagonism. This suggests sophisticated conflict management—engaging adversaries while maintaining clear boundaries on core commitments.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with investments in legacy infrastructure: optimizes for capabilities that outlast his tenure",
+      "finding": "Obama demonstrates consistent long-term investment orientation across policy domains. His climate agenda explicitly focused on infrastructure that 'children' would inherit (ev_041). The Cancer Moonshot, which he identified as a proudest achievement (ev_042), represented 10+ year research infrastructure commitment. His government tech modernization initiative (ev_037) and healthcare enrollment improvements were framed as institutional capacity building. His farewell emphasis on sustained civic 'over the full span of a lifetime' (ev_046) suggests understanding that democratic governance requires long-horizon maintenance. This contrasts with short-term electoral optimization, suggesting prioritization of institutional capability building that would outlast his administration.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer who patches when blocked: pursues comprehensive architectural change when feasible, deploys executive patches when structurally stymied",
+      "finding": "Obama's rebuild/patch orientation is contextually contingent on institutional feasibility. Where structural change was achievable—ACA's Medicare solvency extension (ev_002), Dodd-Frank's consumer protections (ev_028), TPP's trade framework (ev_030)—he pursued comprehensive redesign. Where blocked, he deployed executive patches: federal contractor minimum wage (ev_017), executive actions on jobs (ev_019). His explicit 'Year of Action' framing acknowledged this as second-best alternative when legislative path was blocked. He explicitly distinguished 'comprehensive, balanced' deficit reduction from sequester as inadequate patch (ev_013). This suggests sophisticated understanding of when architectural change versus incremental patching is appropriate, and pragmatic deployment of latter when former is institutionally unavailable.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: demonstrates capacity to step back, acknowledge patterns, and frame failures as systemic rather than personal",
+      "finding": "Obama demonstrates notable metacognitive sophistication. He explicitly acknowledged pattern of Congressional obstruction: Republicans blocking 'every serious idea to create jobs' while noting 'neither party has been blameless' (ev_010, ev_020)—showing capacity to see systemic patterns without pure partisan framing. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates self-awareness about historical disappointments. His farewell—attributing accomplishments to 'the American people' (ev_032) rather than personal genius, and promising to 'work along your side...as a citizen' (ev_047)—suggests understanding of his own role within larger systems. He explicitly distinguished between structural problems requiring comprehensive solutions versus those treatable through patches (ev_013), revealing awareness of his own reasoning patterns about institutional problem-solving.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_027",
+        "ev_032",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "legacy_transfer_planning",
+      "definition": "The degree to which Obama designed policy architectures with explicit consideration for successor adoption, institutional handoff, and long-term persistence beyond his administration—analogous to software engineers designing systems for maintainability and successor developer comprehension",
+      "finding": "Obama demonstrates strong legacy transfer orientation, consistently framing achievements as institutional infrastructure requiring ongoing maintenance rather than personal monuments. His defense of Paris climate agreement as 'something to build upon' (ev_041) explicitly anticipated successor modification. His farewell emphasis on sustained civic participation 'not just when there's an election' (ev_046) indicates concern with institutional culture transfer. His cancer moonshot explicitly built cross-agency task force architecture (ev_043) designed to persist beyond any single administration. This suggests engineering mindset treating institutional investments as shared infrastructure requiring handoff planning—a critical dimension not captured by standard software evolution frameworks which often focus on single-organization maintenance rather than multi-stakeholder succession scenarios like democratic governance presents.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_043",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

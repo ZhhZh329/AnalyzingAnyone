@@ -1,0 +1,183 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "learning_systems_foundation_model_scaling",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "World-shaper with strong preference for building systemic foundations that enable emergent capabilities, not merely responding to existing conditions.",
+      "finding": "Obama consistently sought to establish foundational systems rather than optimize within existing structures. His approach to healthcare (ACA as platform for coverage expansion and Medicare solvency) [ev_002], financial regulation (Dodd-Frank as comprehensive framework with consumer protections) [ev_003], and climate policy (Paris Agreement as durable global mechanism) [ev_041] demonstrates world-shaping through infrastructure building. He explicitly rejected 'drilling alone' as insufficient strategy [ev_005], preferring integrated multi-pronged approaches to complex challenges. His 'Year of Action' rhetoric [ev_019] reflected agency through executive mechanisms when legislative paths were blocked, demonstrating adaptive world-shaping rather than passive response.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_019",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded with strong reliance on measurable outcomes and data-driven arguments, but rooted in democratic legitimacy rather than pure technical optimization.",
+      "finding": "Obama's speeches frequently cite specific metrics—11 million jobs over 57 months [ev_025], $11 billion recovered for 26 million consumers [ev_028], wind power tripled and solar 30x [ev_040]—suggesting comfort with quantitative frameworks. However, his epistemic foundation remains democratic rather than technocratic. He attributed progress to 'the American people' [ev_032] and emphasized civic participation beyond elections [ev_046]. His approach to Trade Promotion Authority acknowledged past trade deals fell short while defending future agreements [ev_027], showing nuanced rather than ideology-driven evaluation. The balance between metrics-worship and democratic legitimacy distinguishes his epistemic style.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_032",
+        "ev_040",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction orientation with strong preference for building formalizable, repeatable systems over case-by-case solutions.",
+      "finding": "Obama repeatedly framed issues through systematic lenses: 'middle-out' economic philosophy [ev_021] rather than targeted interventions, balanced deficit reduction combining entitlement reform with tax code changes [ev_013] as formalizable framework, and healthcare as system-level transformation [ev_001]. He explicitly noted that ACA extended Medicare solvency by 12 years through structural reform [ev_002]. His rejection of point solutions—'drilling alone is not a real strategy' [ev_005]—demonstrates preference for multi-dimensional formal approaches. The Cancer Moonshot [ev_042, ev_043] exemplified cross-agency coordination as formalized system rather than ad-hoc initiative.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_005",
+        "ev_013",
+        "ev_021",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation focused on building robust institutional mechanisms rather than direct manipulation; shows comfort with indirect control through structure.",
+      "finding": "Obama's approach to control operated primarily through institutional design: CFPB as independent watchdog [ev_028], Paris Agreement as 200-nation coordination mechanism [ev_034], and Dodd-Frank's structural protections. He took executive actions when legislative paths failed [ev_017, ev_019] but preferred institutional mechanisms over personal control. His refusal to negotiate over debt ceiling [ev_015] reflected belief in structural constraints over transactional power. Notably, he cited collaboration with diverse stakeholders (AFL-CIO and Chamber of Commerce together) [ev_008] as preferred mode rather than unilateral control.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority orientation with demonstrated willingness to absorb significant political costs for structural priorities.",
+      "finding": "Obama consistently prioritized structural goals over relational comfort. His 2010 healthcare push cost his party heavily in midterm elections but was pursued anyway. He issued veto threats against Dodd-Frank repeal [ev_029] despite potential bipartisan friction. He publicly blamed Republican obstruction while taking executive actions [ev_020]. His 'Year of Action' framing [ev_019] explicitly positioned unilateral executive action against Congressional resistance. However, he also showed flexibility: bipartisan budget deals were celebrated as 'Christmas miracles' [ev_048], suggesting willingness to accept temporary relational repair when structural priorities could advance.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker willing to make high-stakes structural bets, but with systematic defensive measures built into frameworks.",
+      "finding": "Obama pursued transformative structural reforms (ACA, Dodd-Frank, Paris Agreement) with substantial political risk, yet embedded defensive mechanisms: Medicare solvency extension as healthcare reform protection [ev_002], consumer protections with independent CFPB [ev_028], veto commitments against rollback [ev_029]. His sequester strategy [ev_014] documented human costs to build public support for replacement. He framed TPP as necessary to prevent competitors from writing global rules [ev_031], treating inaction as greater risk than engagement. His risk posture suggests willingness to accept near-term costs for durable structural gains.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_014",
+        "ev_028",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimacy-focused rather than personal power-seeking; works within/around hierarchy while seeking to reform and strengthen it.",
+      "finding": "Obama consistently framed power through institutional rather than personal terms. He refused to negotiate over debt ceiling, framing it as protecting America's 'bedrock investment' [ev_015] rather than personal leverage. He condemned Senate obstruction as contrary to founders' intent [ev_010] while explicitly including both parties in criticism. His government modernization initiative [ev_037] invited external expertise into federal structure, expanding institutional capacity rather than centralizing personal control. His farewell address emphasized civic participation over executive authority [ev_046]. This suggests understanding of power as structural and legitimated rather than purely transactional.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translator-negotiator with clear escalation capacity; prefers systemic framing over ad-hoc bargaining but willing to use institutional leverage when necessary.",
+      "finding": "Obama's conflict strategy consistently translated issues into systemic terms: sequester as human cost on vulnerable populations [ev_014], Republican obstruction as threat to middle-class opportunity [ev_018, ev_020]. He built public pressure through concrete metrics (7 days, 8 days until deadlines) [ev_011]. When negotiation failed, he escalated through executive action [ev_017, ev_019] and veto threats [ev_029]. His veto threat on Dodd-Frank repeal [ev_029] and refusal to negotiate on debt ceiling [ev_015] demonstrated willingness to hold firm on structural issues. He celebrated bipartisan cooperation when achievable [ev_048] but did not seek consensus at expense of core priorities.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_015",
+        "ev_018",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation with strong preference for multi-decade structural investments over short-term optimization.",
+      "finding": "Obama's signature initiatives operated on decadal timescales: ACA extending Medicare solvency 12 years [ev_002], energy blueprint targeting 2025 [ev_005], Paris climate agreement as permanent framework [ev_041]. He framed deficits as falling at 'fastest rate since World War II' [ev_016] while avoiding short-term fiscal fixes. His veterans hiring challenge [ev_009] operated across administrations. His farewell highlighted Cancer Moonshot [ev_042] as long-term structural commitment. The explicit framing of climate progress as 'something to build upon' [ev_041] and declaration that 'America's resurgence is real' [ev_024] suggest comfort with multi-administration time horizons.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair; demonstrated through comprehensive reform initiatives even when politically costlier.",
+      "finding": "Obama consistently pursued comprehensive redesign over patch solutions. Healthcare reform replaced ACA with goal of structural transformation [ev_002]. Dodd-Frank established new regulatory architecture [ev_003] rather than amending existing rules. His energy blueprint [ev_005] rejected single-solution approaches in favor of multi-pronged strategy. The sequester was consistently framed as requiring replacement, not adjustment [ev_013, ev_014]. TPP represented building new global trade infrastructure rather than updating existing agreements [ev_030, ev_031]. This pattern suggests structural solution preference even when patches would be faster or politically easier.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_013",
+        "ev_014",
+        "ev_030",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through self-awareness, acknowledgment of limitations, and explicit reflection on democratic process.",
+      "finding": "Obama's farewell address explicitly acknowledged learning from citizens—'Every day, I learned from you. You made me a better President, and you made me a better man' [ev_044]. He reflected on diverse experiences witnessing American resilience [ev_045]. He called for sustained civic engagement beyond narrow interest [ev_046] while acknowledging uncertainty about outcomes—'if we keep pushing' [ev_041]. His framing of past trade deals as not living up to hype [ev_027] demonstrated awareness of his own previous judgments' limitations. The consistent pattern of attributing accomplishments to collective action rather than personal genius suggests metacognitive framing of himself as embedded in larger systems.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_041",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_pretraining_value",
+      "definition": "The degree to which someone treats existing institutional frameworks, democratic norms, and governance structures as valuable pre-training that provides legitimacy and emergent capability for any initiative. Like pre-training on diverse data creates foundation models that generalize better, operating within democratic institutions creates legitimacy that point solutions lack.",
+      "finding": "Obama consistently demonstrated high institutional_pretraining_value. His refusal to negotiate over debt ceiling [ev_015] protected democratic institutional legitimacy rather than extracting short-term advantage. He framed government as 'the best tool we've got to settle our differences and solve our collective challenges' [ev_036], treating democratic infrastructure as foundational capacity. His government modernization initiative invited external expertise into federal structure [ev_037], augmenting institutional capability rather than bypassing it. Even when taking executive actions against Congressional opposition [ev_019, ev_020], he worked within constitutional framework rather than outside it. This suggests belief that institutional legitimacy, like pre-training on broad data, creates emergent capability that ad-hoc power-seeking cannot replicate.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_036",
+        "ev_037",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "foundation_multiplier_effects",
+      "definition": "The degree to which someone thinks about how foundational structures create multiplicative rather than additive value over time. Just as foundation models enable many downstream tasks from single training, good institutional design enables many positive outcomes that were not explicitly planned.",
+      "finding": "Obama implicitly demonstrated foundation_multiplier_effects thinking in his emphasis on systemic over targeted interventions. The ACA was framed not as healthcare solution but as system enabling coverage expansion, Medicare solvency, and prescription drug gap closure [ev_002]. Dodd-Frank created consumer protections enabling $11 billion recovery for 26 million consumers [ev_028]—capabilities not explicitly planned but emerging from structural design. Paris Agreement was framed as legacy to build upon [ev_041] rather than point solution to reverse. His 'middle-out' economic philosophy [ev_021] explicitly articulated how middle-class strength multiplies economic outcomes. This suggests comfort with investment in foundational structures that enable emergent positive outcomes over time.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_021",
+        "ev_028",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

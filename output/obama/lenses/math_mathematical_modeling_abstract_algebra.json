@@ -1,0 +1,182 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_modeling_abstract_algebra",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaper orientation working within acknowledged structural constraints; acts to reshape systems while respecting underlying structural realities",
+      "finding": "Obama consistently demonstrates world-shaping agency through systematic policy design (ACA, Dodd-Frank, Energy Blueprint) rather than merely responding to events. However, his rhetoric acknowledges structural constraints ('balanced approach,' 'working with Congress'), suggesting he sees himself as an agent restructuring within possible structural configurations. His executive actions (minimum wage for contractors, Year of Action) represent deliberate structural interventions. The evidence shows a leader who believes in the possibility of restructuring key systems (healthcare, finance, energy, trade) while working within acknowledged political realities—a sophisticated agency orientation that neither passively accepts constraints nor naively ignores them.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_017",
+        "ev_019",
+        "ev_021",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded but structurally-framed; builds beliefs through data patterns that support unified structural arguments rather than pure case-by-case induction",
+      "finding": "Obama's epistemic style shows a characteristic hybrid: he anchors beliefs in specific empirical data (11 million jobs, $11 billion recovered, 26 million consumers helped) but uses these data points to support structural arguments about what 'works.' His claim that 'our economy grows best from the middle-out' (ev_021) is an empirically-informed but structurally abstract principle that organizes data across many domains. He doesn't simply enumerate cases—he extracts structural relationships. His statement about deficit reduction being achievable because 'deficits are already falling at the fastest rate since WWII' (ev_016) demonstrates pattern recognition across economic variables. This suggests an epistemic approach that moves from data toward structural inference rather than either pure empiricism or pure theory.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_032",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-strong abstraction tendency; consistently elevates specific policy issues to unified structural frameworks without fully dissolving contextual particularity",
+      "finding": "Obama demonstrates the key abstract algebraic capacity for recognizing structural isomorphisms across domains. His articulation of 'middle-out economics' as a unifying principle for minimum wage, job training, trade policy, and education reveals structural thinking. His framing of TPP as about 'who writes the rules of the global economy' rather than tariff rates abstracts trade to structural governance. His claim that 'our economy depends on a financial system where everyone competes on a level playing field' (ev_003) identifies structural invariants across regulatory debates. However, this abstraction is tempered by consistent grounding in concrete cases and human stories—he doesn't lose the material in pure structure. The abstraction is present and sophisticated but not dominant, suggesting a balanced rather than extreme structural orientation.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_021",
+        "ev_027",
+        "ev_031",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Structural control orientation focused on institutional design and outcome patterns rather than micro-management of people or processes",
+      "finding": "Obama's control orientation targets structural outcomes and institutional mechanisms rather than interpersonal control. He seeks to preserve the structural integrity of key institutions (ACA implementation, Dodd-Frank enforcement, CFPB independence) as a form of structural control. His veto threats (ev_029) target policy structures, not personal relationships. The Cancer Moonshot initiative demonstrates cross-agency structural coordination rather than hierarchical command. His focus on metrics (job creation numbers, uninsured rates, clean energy growth) suggests attention to emergent outcomes from structural design. He appears to believe that controlling structural conditions and incentives produces desired outcomes without requiring direct control over individual actors—consistent with structural rather than interpersonal control orientation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with persistent structural ideals; willing to incur relational costs for structural goals but always frames conflict as temporary deviation from structural harmony",
+      "finding": "Obama demonstrates clear mission prioritization for structural goals—veto threats on Dodd-Frank repeal (ev_029), criticism of Congressional obstruction (ev_020), refusal to negotiate on debt ceiling (ev_015). He accepts relational costs when structural integrity is at stake. However, his conflict framing consistently positions opposition as deviation from structural norms rather than legitimate disagreement—he characterizes obstruction as contrary to 'founding fathers' intent' (ev_010) and bipartisan cooperation as the structural default. This suggests mission prioritization tempered by an underlying structural ideal of harmony that he believes should ultimately prevail. The tension is real but his rhetoric frames it as remediable structural dysfunction rather than irreconcilable difference.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse within structural design; prefers institutional risk-reduction mechanisms over high-variance approaches; seeks to eliminate uncertainty through structural frameworks",
+      "finding": "Obama's risk posture consistently favors structural approaches that reduce uncertainty through institutional design. His defense of Dodd-Frank (ev_029: 'We've worked too hard to recover from one crisis only to risk another') frames structural stability as risk management. The Paris climate agreement and CFPB are positioned as structural responses to uncertainty. His energy strategy explicitly rejects single-vector approaches ('drilling alone is not a real strategy'—ev_005), seeking instead structural diversification. He doesn't pursue high-variance bets; rather, he structures systems to reduce catastrophic risk (no more 'too big to fail'). This suggests a structural risk posture that prefers designing robust frameworks over accepting transformative gambles—a coherent but potentially limiting orientation when structural change requires accepting uncertainty.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_020",
+        "ev_028",
+        "ev_029",
+        "ev_031",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respectful of institutional hierarchy but willing to use executive structural power when legislative hierarchy fails; sees hierarchy as instrument for structural goals",
+      "finding": "Obama demonstrates sophisticated hierarchy navigation: he invokes Congressional authority when useful ('bipartisan budget,' 'Senate passed') but activates executive structural power when legislative hierarchy obstructs. His critique of Senate obstruction as contrary to 'founding fathers' intent' (ev_010) questions procedural hierarchy while respecting constitutional hierarchy. He called out 'one senator gumming up the works'—a critique of procedural abuse rather than institutional rejection. The veto threat, executive orders, and direct appeals to public all represent alternative power routes when formal hierarchy fails—a pragmatic approach to structural power that doesn't reject hierarchy but refuses to be paralyzed by it. This suggests hierarchical orientation as instrumental rather than reverential.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate and negotiate orientation with structural framing; treats surface conflicts as structural misalignment and seeks to restructure underlying relationships",
+      "finding": "Obama's conflict strategy consistently frames conflict as structural misalignment rather than personal or partisan antagonism. His critique of obstruction positions it as dysfunction ('one senator gumming up the works') rather than legitimate disagreement. He seeks to translate partisan conflict into structural terms ('not Democratic or Republican—it's an American issue,' ev_008) to reframe the relational structure. When translation fails, he deploys structural power (vetoes, executive action) rather than personal escalation. He avoids splitting into pure factional conflict by maintaining inclusive structural framing ('opportunity for all,' 'middle-out'). This translate-over-escalate orientation suggests sophisticated conflict management that seeks structural resolution rather than winning conflicts—theoretically elegant but potentially under-protective when structural translation fails to capture legitimate differences.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term structural orientation with concrete intermediate milestones; optimizes for durable structural change over immediate tactical wins",
+      "finding": "Obama demonstrates consistent long-term structural thinking across multiple domains: extending Medicare solvency by 12+ years (ev_002), cutting oil imports by one-third by 2025 (ev_004), Paris climate agreement as legacy for children (ev_041). He frames short-term actions as building toward structural durability. His claim about deficits 'falling at the fastest rate since WWII' positions current action within long-term trajectory. Even tactical issues (transportation funding, student loan rates) are framed within longer structural narratives. His farewell reflection on 'cancer moonshot' and ACA as proudest achievements suggests he evaluates success through structural durability lens. This long-term orientation is consistent with abstract structural thinking that values frameworks that persist beyond immediate circumstances—but may undervalue immediate human needs when structural implementation is slow.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for comprehensive structural solutions; prefers redesigning systems over incremental patching, though accepts some pragmatic patching",
+      "finding": "Obama consistently demonstrates preference for comprehensive structural solutions: ACA as complete healthcare system redesign, Dodd-Frank as comprehensive financial regulatory architecture, TPP as structural framework for global trade rules. He frames incremental approaches with skepticism ('drilling alone is not a real strategy'). His 'balanced approach' to deficit reduction means structural entitlement reform plus tax reform—not political patches. The Energy Blueprint targets structural transformation of energy systems. However, evidence of pragmatic patching exists: temporary FAA fixes when full transportation funding failed (ev_012), executive actions when legislation blocked. This suggests a preference hierarchy: comprehensive structural solution > pragmatic patch > no action—but not pure rebuild-at-all-costs. The preference is real but not absolute, suggesting sophisticated understanding that pure rebuild is sometimes structurally impossible.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_012",
+        "ev_013",
+        "ev_021",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with occasional blind spots around the limits of structural abstraction; recognizes his own role but may underestimate when structural framing flattens important differences",
+      "finding": "Obama shows metacognitive sophistication in certain domains: his admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates self-awareness about policy outcomes. His farewell acknowledgment that conversations with citizens 'kept me honest and inspired' (ev_044) shows awareness of cognitive limits. However, his consistent structural abstraction may have metacognitive boundaries—he frames diverse challenges (veteran unemployment, student debt, healthcare, climate) through unified structural lenses without acknowledging when this abstraction flattens important differences. His belief that 'democracy is only as good as we make it' (ev_036) is optimistic structural thinking that may underestimate structural constraints and emergent complexities. The tendency to abstract and unify, while powerful, may obscure his own structural blind spots—a common metacognitive limitation in high-structure thinkers.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "structural_isomorphism_recognition_capacity",
+      "definition": "The capacity to perceive structurally similar patterns across superficially different domains and treat them as instances of the same abstract structure. This goes beyond mere analogy to structural identification—what the abstract algebra framework calls recognizing when different systems are 'isomorphic' in important respects.",
+      "finding": "Obama demonstrates consistent capacity for structural isomorphism recognition across his speeches. He treats economic growth, healthcare expansion, and workforce development as instances of a single 'opportunity structure' invariant. He frames Dodd-Frank, CFPB, and consumer protection as manifestations of the same structural logic (preventing crisis recurrence through institutional design). He conceptualizes veteran hiring, minimum wage, and education investment through the 'middle-out' structural principle. Most distinctively, his framing of TPP as fundamentally about 'who writes the rules' identifies structural isomorphy between domestic regulatory governance and international trade governance. This capacity for structural migration—applying solutions across domains because they share structural features—is the hallmark of abstract algebraic thinking in non-mathematical contexts. It allows him to compress complexity and transfer insights but risks missing domain-specific particularities that break the structural analogy.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_021",
+        "ev_028",
+        "ev_031",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "structural_hub_articulation",
+      "definition": "The tendency to identify and promote 'structural hubs'—central nodes or leverage points whose proper functioning determines outcomes across many connected domains. This goes beyond finding correlations to identifying structural generative mechanisms.",
+      "finding": "Obama consistently articulates structural hubs in his policy discourse. The middle class emerges as the structural hub of economic prosperity—strengthening it produces broad positive externalities across domains. The CFPB is positioned as the structural hub protecting consumers across mortgage, student loans, and credit card domains. Healthcare coverage expansion is framed as structural hub affecting economic security, educational attainment, and family stability. This hub articulation demonstrates sophisticated structural thinking: he identifies not just correlations but generative mechanisms where certain structural nodes disproportionately influence connected systems. His 2015 'Top 10' list shows this explicitly—treating diverse outcomes (jobs, uninsured rates, climate, same-sex marriage, Iran deal) as connected through structural investments and recognizing that improvements at key hubs ripple across domains. This structural hub orientation explains his emphasis on comprehensive reform over targeted intervention—he believes in fixing generative structural nodes rather than treating symptoms.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_028",
+        "ev_033",
+        "ev_035",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

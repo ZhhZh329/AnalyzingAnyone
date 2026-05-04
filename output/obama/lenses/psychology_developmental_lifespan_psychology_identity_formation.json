@@ -1,0 +1,154 @@
+{
+  "discipline": "psychology",
+  "lens": "developmental_lifespan_psychology_identity_formation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation achieved through institutional mechanisms rather than personal dominance",
+      "finding": "Obama consistently positioned himself as an agent working through democratic institutions rather than around them. Throughout his second term, he took executive actions (evt_014, evt_015) when Congressional obstruction blocked legislative paths, but his rhetoric consistently invoked shared American values and collective effort (ev_004: 'because of the ingenuity of our entrepreneurs'; ev_032: 'It's you—the American people'). His farewell address (ev_044) explicitly framed his effectiveness as deriving from conversations with citizens, making him a better man—not as a solitary leader transforming society. This suggests an identity that locates agency in relational and institutional processes rather than personal heroics.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded beliefs with tolerance for complexity and acknowledged uncertainty",
+      "finding": "Obama demonstrates a nuanced epistemic approach that integrates empirical data with philosophical framing. He readily cites specific statistics—11 million jobs (ev_025), $11 billion recovered for consumers (ev_028), 30x solar growth (ev_040)—while acknowledging that past approaches fell short (ev_027: 'past trade deals haven't always lived up to the hype'). His energy policy statement (ev_005) shows sophisticated reasoning: he rejected 'drilling alone' not by dismissing drilling but by pointing to reserves data, demonstrating belief-formation through evidence integration. This epistemic style suggests identity security sufficient to acknowledge complexity without perceiving it as threatening.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction integrated with concrete policy particulars",
+      "finding": "Obama demonstrates strong capacity for abstract policy philosophy while grounding it in enumerable specifics. His 'middle-out' economic framework (ev_021) provides an abstract integrating principle that he then operationalizes through minimum wage (evt_014), job training (evt_016), and manufacturing investment (evt_017). His year-end address format (evt_022) systematically enumerates accomplishments in ranked lists while each item connects to abstract values—'Love won' (ev_035) connecting same-sex marriage to human dignity. This suggests identity integration allowing him to hold abstract commitments and concrete particulars together without tension.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation channeled through institutional constraints",
+      "finding": "Obama's control orientation operates primarily through institutional mechanisms rather than personal dominance. His 'Year of Action' (evt_015) demonstrates willingness to exercise executive authority—over 20 executive actions (ev_019)—when legislative paths were blocked. However, his rhetorical framing consistently sought Congressional partnership before unilateral action (ev_017: 'called on Congress to raise federal minimum wage'). His debt ceiling stance (ev_015) shows principled control: 'I will not negotiate over the full faith and credit.' Yet this control was exercised within democratic norms rather than around them. This suggests an identity comfortable exercising power while remaining oriented toward institutional legitimacy.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission commitment with persistent relational framing",
+      "finding": "Obama prioritizes policy missions while consistently framing them through relational and shared-value language. His veteran hiring challenge (evt_007, ev_009) set specific numeric goals while invoking duty to those who served. His 'opportunity for all' principle (ev_018) connects economic policy to collective human flourishing. Yet when Republicans blocked legislation, he criticized the pattern (ev_020: 'Republicans in Congress have blocked...') without personalizing attacks on individuals. His Memorial Day address (ev_038, ev_039) calls for concrete actions—'lay a flower,' 'reach out to a Gold Star Family'—showing mission translated into relational imperatives. This pattern suggests identity integration allowing mission pursuit without sacrificing relational orientation.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_018",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with institutional backstops and forward-looking framing",
+      "finding": "Obama demonstrates willingness to pursue high-risk diplomatic initiatives while constructing protective frameworks. His Iran nuclear deal (evt_022) and Paris climate agreement (evt_025) involved substantial international risk, framed as legacy-building for future generations (ev_041: 'something to build upon'). His sequester warnings (evt_011, evt_012) show risk calibration: he detailed specific human costs—Head Start cuts, military strain (ev_014)—to mobilize opposition. His TPP advocacy (evt_019) acknowledged past trade deal failures (ev_027) while arguing for engagement over withdrawal. This risk posture suggests identity security sufficient to pursue controversial initiatives while maintaining persuasive framing for public accountability.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power leveraged normatively rather than personalized",
+      "finding": "Obama relates to hierarchy and power through institutional legitimacy rather than personal authority. His veto threat on Dodd-Frank (ev_029) exercises constitutional power while explicitly defending the institutional framework: 'We have worked too hard to recover from one crisis.' His criticism of Senate obstruction (ev_010) invoked founding fathers' intent ('not what our founding fathers envisioned') rather than personal grievance. His government modernization initiative (evt_023, ev_037) brought in outside expertise—'Presidential Innovation Fellows' from Silicon Valley—to work within the executive branch, suggesting hierarchy as a platform for distributed expertise rather than command structure. His faith in government as 'best tool' (ev_036) frames institutional power positively while acknowledging it requires citizen engagement to function.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_029",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of obstruction with continued invitation to cooperation",
+      "finding": "Obama's conflict strategy combines explicit confrontation with persistent openness to bipartisan engagement. He directly criticized Congressional obstruction ('Republicans in Congress have blocked... voted down every serious idea' - ev_020) while simultaneously calling for collaboration. His transportation funding appeals (evt_006) cited AFL-CIO and Chamber of Commerce agreement (ev_008) to establish cross-party legitimacy. His debt ceiling stance (ev_015) was uncompromising ('I will not negotiate') while framing the principle in institutional rather than partisan terms. His bipartisan budget celebration (ev_048) showed genuine enthusiasm for cooperation. This suggests an identity secure enough to confront opposition directly while remaining genuinely open to partnership—conflict as institutional disagreement rather than personal battle.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon extending beyond immediate political cycles",
+      "finding": "Obama demonstrates consistent orientation toward generational time horizons. His energy blueprint (evt_004) targeted 2025 goals—13 years forward from announcement. His cancer moonshot (evt_026) explicitly invoked 45 years of prior effort while positioning current work for future decades. His climate policy framing (ev_041) explicitly addressed 'children' and 'future' as beneficiaries of present action. His deficit reduction statements (evt_011) referenced World War II historical context (ev_016). His farewell address (evt_027) explicitly committed to ongoing citizenship work: 'for all my days that remain' (ev_047). This temporal orientation suggests an identity integrated into a longer historical narrative, seeing present actions as contributions to an ongoing American project.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reform orientation with pragmatic adaptation when blocked",
+      "finding": "Obama's policy approach consistently sought structural transformation over incremental adjustment. His signature achievements—ACA (evt_001), Dodd-Frank (evt_002, evt_020), and TPP (evt_021)—represent systemic reforms to healthcare, financial regulation, and international trade. His 'middle-out' economic philosophy (ev_021) explicitly rejects 'top-down' approaches in favor of restructuring market fundamentals. When Congressional opposition blocked comprehensive legislation, his 'Year of Action' (evt_015) pivoted to executive mechanisms as structural tools within executive authority. However, his rhetoric consistently framed executive actions as suboptimal alternatives ('called on Congress' as primary path). This suggests identity preference for structural change with adaptive pragmatism when institutional constraints require temporary patches.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_021",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through reflective capacity and learning acknowledgment",
+      "finding": "Obama demonstrates sophisticated metacognitive capacity through multiple channels. His father's absence reflection (ev_006) shows willingness to examine formative experiences that shaped his identity. His acknowledgment of past trade deals falling short (ev_027) demonstrates capacity to critically evaluate his own prior positions. His farewell address (ev_044) explicitly frames eight years of presidency as ongoing learning: 'Every day, I learned from you. You made me a better President, and you made me a better man.' The Cancer Moonshot (evt_026) was led by Biden but originated from Obama's observation of structural gaps in cancer research—showing capacity to identify systemic limitations requiring redesign. His repeated invitations for citizen feedback (evt_023) suggest metacognitive openness to external perspectives correcting internal blind spots.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "citizenship_orientation_as_identity_core",
+      "definition": "Beyond viewing civic participation as duty, this construct captures how Obama embedded citizenship as fundamental to his identity—not as President acting for citizens, but as citizen participating in democratic project. His farewell address explicitly transitioned from presidential role to 'citizen' (ev_047), and his repeated calls for engagement 'beyond elections' (ev_046) suggest citizenship rather than leadership is the core identity commitment.",
+      "finding": "This emergent dimension captures Obama's distinctive identity pattern: his most valued self-description appears to be 'citizen' rather than 'leader.' His rhetoric consistently subordinated presidential authority to democratic participation, framing himself as facilitator of collective American endeavor rather than its architect. His post-presidency activities extending this citizenship orientation further support this pattern. This is not captured by agency orientation or other shared constructs because it concerns the fundamental identity anchor rather than behavioral tendencies.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "bipartisan_partnership_as_identity_integration_pattern",
+      "definition": "The persistent invocation of bipartisan cooperation even when politically unnecessary—celebrating bipartisan budget deals as 'Christmas miracles' (ev_048), citing Chamber of Commerce agreement with AFL-CIO—suggests this is not mere political strategy but an identity integration pattern. Obama appears to need to see himself as bridge-builder, not just policy executor.",
+      "finding": "This dimension emerges from Obama's persistent bipartisan framing even when partisan positioning would be politically advantageous. His identity seems to require self-conception as reconciler rather than just advocate for preferred policies. When genuine bipartisan achievement occurred (ev_048), his enthusiastic response ('Christmas miracles') exceeded strategic justification. This suggests bipartisan orientation functions as identity consolidation mechanism—seeing himself as he hopes to be remembered—beyond tactical political calculation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

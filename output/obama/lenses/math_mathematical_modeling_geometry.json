@@ -1,0 +1,153 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_modeling_geometry",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaping orientation with significant structural responsiveness; acts as strategic positioner within existing configurations",
+      "finding": "Obama's geometric agency manifests as strategic repositioning within established political structures rather than wholesale transformation. Evidence shows he frequently called Congress to action while also leveraging executive authority when legislative pathways were blocked (ev_017, ev_019, ev_029). His energy policy framework demonstrates compositional thinking: 'drilling alone is not a real strategy' because 'even though America uses 25% of the world's oil, we have only 2% of reserves' (ev_005), showing he sees the problem as a configuration of supply, demand, and global position rather than a single-variable solution. His agency tends toward rebalancing existing systems—adding components, strengthening weak connections—rather than creating entirely new structural architectures. The farewell address reveals this pattern: he speaks of working 'alongside' rather than directing from above, positioning himself within a larger configuration of civic actors (ev_047).",
+      "evidence_ids": [
+        "ev_005",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Relational-configurational style that forms beliefs through mapping positions and assessing structural relationships before details",
+      "finding": "Obama's epistemic approach shows strong geometric tendencies: he regularly presents problems as configurations of interconnected elements before offering solutions. His December 2015 address enumerated 'Top 10 Things' (ev_033) in a spatialized list format, treating accomplishments as positions on a landscape. His statement on sequester documented 'parents whose kids got kicked out of Head Start,' 'seniors who depend on Meals on Wheels,' and 'military communities coping under new strains' (ev_014)—seeing the policy impact as a distribution across population groups in different positions relative to the policy's reach. His economic philosophy of 'middle-out' growth (ev_021) explicitly describes a spatial relationship: the economy as a structure where middle-class position determines systemic health. He rarely offers linear logical chains; instead, he establishes the shape of a problem first, then positions the solution within that configuration.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction preference; uses concrete data as spatial markers rather than for formal derivation or system-level modeling",
+      "finding": "Obama shows a distinctive relationship to abstraction: he employs specific numerical data (11 million jobs, 57 months, $10.10 wage, 40% of global economy through TPP) but uses these as waypoints in a spatial narrative rather than as inputs to formal systems or models. His 'balanced approach to deficit reduction' (ev_013) references policy categories and proportions but doesn't present a mathematical framework. The Cancer Moonshot example is revealing: Biden reports 'only 4% of adult cancer patients are enrolled in clinical trials' and describes the innovation solution through the Presidential Innovation Fellows—a configuration of actors solving a spatial distribution problem (ev_043). Obama tends to abstract at the level of roles and relationships (workers, employers, veterans, seniors) rather than at the level of equations or formal structures. His abstraction serves narrative configuration, not formal deduction.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_025",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-strong control orientation focused on institutional boundaries, regulatory frameworks, and systemic stability rather than micromanagement",
+      "finding": "Obama's control orientation manifests primarily through boundary-setting and framework establishment rather than direct process control. The debt ceiling statement exemplifies this: 'I will not negotiate over the full faith and credit of the United States' (ev_015)—establishing a firm boundary that cannot be crossed. His veto threat on Dodd-Frank repeal (ev_029) and executive order on contractor minimum wage (ev_017) show control through institutional mechanisms that set the shape of permissible action. Geometrical control often involves boundary definition, and Obama consistently defines edges: what Congress cannot do, what executive action can reach, where institutional jurisdiction ends. However, his reliance on Congressional cooperation for major initiatives and willingness to accept bipartisan compromises (ev_048 'Christmas miracles') suggests he recognizes constraints on his ability to fully control political outcomes. Control is exercised at the level of institutional architecture, not personal micromanagement.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strongly mission-oriented, accepting high relational costs when policy goals and institutional integrity are at stake",
+      "finding": "Obama demonstrates consistent mission-priority over relational comfort throughout his communications. His repeated criticism of Congressional obstruction ('Republicans have blocked or voted down every serious idea' - ev_020) accepts significant relational costs with political opponents. His refusal to negotiate on debt ceiling (ev_015) prioritizes institutional stability over bipartisan relationship maintenance. However, his mission orientation includes a distinctive geometric quality: he often frames mission success as rebalancing or restoring structural integrity rather than pure ideological victory. The ACA is presented as strengthening Medicare's 'sounder financial footing' (ev_002); Dodd-Frank is about 'level playing field' and 'same rules' (ev_003). Mission success is defined as returning to proper configuration rather than revolutionary transformation, yet he will accept severe relational costs to achieve this. The trade-off is explicit: he accepts political polarization as cost of core mission achievement.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse in short-term political risk; moderate risk-tolerance for long-term structural initiatives with uncertain payoff timelines",
+      "finding": "Obama's risk posture shows a temporal split characteristic of geometrically-oriented thinkers. He demonstrates strong risk-aversion in immediate political gambles: refusing debt ceiling negotiation (ev_015), issuing veto threats preemptively (ev_029), avoiding 'manufactured crises' (ev_048). Yet he shows notable tolerance for risks with long time horizons and uncertain distributions of outcomes. The Cancer Moonshot (ev_042), Paris Climate Agreement (ev_034, ev_041), and TPP negotiation (ev_030) are all initiatives with decades-scale payoff timelines, uncertain probability distributions, and significant upfront commitments. This pattern—protecting against immediate structural disruption while accepting long-horizon uncertainty—reflects a geometric sensibility: preserving known stable configurations while experimenting with future shapes. He explicitly frames climate progress as 'not something to tear up—something to build upon' (ev_041), showing concern for maintaining structural continuity even when future outcomes are uncertain.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_034",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex relationship to hierarchy; leverages formal authority while consistently framing power as bounded by constitutional structure and democratic legitimacy",
+      "finding": "Obama's relationship to hierarchy and power shows a distinctive geometric quality: he perceives positions within systems rather than raw authority. His statement on al-Qaeda distinguishes 'America is at war with al-Qaeda and its affiliates' from being 'at war with Islam' (ev_012)—defining the shape of legitimate conflict. He repeatedly frames presidential authority as bounded by constitutional geometry: 'Our founders trusted us with the keys to this system of self-government' (ev_036). This framing positions him within a configuration that includes constitutional limits, Congressional branches, and the American people—not as an apex but as a position within a structure. He uses formal authority (vetoes, executive orders, regulatory frameworks) but consistently grounds that authority in its relationship to other positions in the democratic structure. Power is not absolute but relational, defined by its connections to other nodes in the system.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferring translation and reframe strategies over suppression, split, or escalation; seeks to reposition conflict as shared-problem solving",
+      "finding": "Obama's conflict strategy consistently favors translation over escalation. When facing Congressional opposition, he frequently attempts to reframe partisan conflicts as bipartisan or non-partisan issues: 'This isn't a Democratic or a Republican issue—it's an American issue' (ev_008), noting AFL-CIO and Chamber of Commerce agreement. His critique of Senate obstruction as contrary to 'founding fathers' intent' (ev_010) translates partisan conflict into constitutional principle. Rather than splitting conflicts or escalating to confrontation, he attempts to reposition the entire configuration—shifting the frame from partisan dispute to national interest, from ideological conflict to structural improvement. This 'translation' strategy aligns with geometric problem-solving: when a shape is wrong, rather than breaking it apart, the geometric thinker repositions elements to create a better configuration. Obama rarely declares opponents enemies; he attempts to redraw the boundaries of the debate.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Hybrid orientation with emphasis on mission-scale (multi-administration) timeframes, tempered by operational attention to short-term deliverables",
+      "finding": "Obama's temporal orientation shows clear preference for mission-scale horizons that extend beyond his own administration. The Paris Climate Agreement ('leave a better, cleaner, safer future for our children' - ev_041), TPP ('America writes global trade rules' - ev_031), and Iran nuclear deal are explicitly designed to structure outcomes decades hence. His Cancer Moonshot (ev_042, ev_043) references '45 years of progress' while launching a new initiative whose payoff timeline extends indefinitely. However, this long-horizon orientation is combined with operational attention to near-term deliverables: '7 days until transportation funding expires' and '8 days until 7.5 million students see loan rates double' (ev_011). The geometric quality is evident: Obama seems to see policy initiatives as structures that must be stable across time scales—immediate structural integrity plus long-term architectural soundness. He rarely optimizes purely for short-term gain at expense of long-term configuration.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_031",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate rebuild preference; tends toward comprehensive frameworks but willing to use patches when structural change is blocked",
+      "finding": "Obama's preference shows a distinctive pattern tied to political feasibility. Where rebuild is possible, he demonstrates clear preference for structural redesign: TPP as comprehensive 'trade promotion authority' after 5 years of negotiation (ev_030), Paris Climate Agreement as global framework with nearly 200 nations (ev_034), ACA as system-wide healthcare reform rather than incremental expansions (ev_001, ev_002). His 'Year of Action' executive actions (ev_019) can be read as patches when rebuild is blocked—but even these executive actions are described as forming a comprehensive approach (20+ actions). The geometric preference for rebuilding from proper foundations is clear in his rhetoric: 'Our economy grows best not from top-down but from middle-out' (ev_021) proposes a structural reconfiguration of economic relationships. Yet he adapts to circumstances: when Congress blocks comprehensive reform, he uses executive orders as strategic patches while maintaining the vision of eventual structural correction. He operates in 'patch mode' while keeping 'rebuild vision' active.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_019",
+        "ev_021",
+        "ev_030",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness demonstrated through explicit reflection on limitations, lessons learned, and adaptive adjustment of approaches",
+      "finding": "Obama shows notable metacognitive capacity through explicit self-reflection and pattern recognition. The farewell address demonstrates ongoing self-assessment: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledges the gap between rhetoric and reality on trade: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—showing awareness that his own prior frameworks may have been incomplete. His consistent framing of lessons learned ('Our economy depends on a financial system where everyone competes on a level playing field' - ev_003) suggests active monitoring of what structural configurations actually produce outcomes. The Cancer Moonshot framework explicitly addresses learning: 'we now have the army, we now have powerful new tools, and we now have a clear strategy' (ev_042)—demonstrating iterative refinement of approach. He appears aware of institutional constraints on his agency and adjusts tactical approaches while maintaining strategic consistency. Geometrical metacognition often involves knowing when spatial intuition is reliable versus when detailed measurement is needed; Obama shows this through balancing conviction on core structural principles with tactical flexibility.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_027",
+        "ev_042",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "configurational_reform",
+      "definition": "The tendency to understand policy problems as spatial configurations of actors, interests, and institutional positions—seeking to improve outcomes by repositioning elements within existing structures rather than through either revolutionary transformation or purely procedural negotiation",
+      "finding": "Obama's reform approach consistently treats policy problems as configurations to be optimized rather than problems to be solved through linear logic or revolutionary restructuring. His 'middle-out' economic philosophy (ev_021) explicitly describes economic health as a function of relational position—the middle class as structural support, not just a demographic group. His bipartisan framing ('AFL-CIO and Chamber of Commerce' - ev_008) attempts to reposition opposition as consensus by finding structural common ground. His ACA, Dodd-Frank, and TPP approaches all seek to establish stable frameworks that position American interests within global configurations. This 'configurational reform' differs from both purely procedural incrementalism (which focuses on process) and revolutionary transformation (which seeks new structures). It treats existing structures as containing potential for improved configurations—repositioning actors, strengthening weak connections, supporting overloaded nodes—that maintains institutional continuity while seeking better systemic outcomes. This emergent dimension captures Obama's distinctive political geometry not fully covered by existing shared constructs.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_021",
+        "ev_030",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

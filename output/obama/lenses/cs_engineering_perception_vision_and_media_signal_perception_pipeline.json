@@ -1,0 +1,179 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "perception_vision_and_media_signal_perception_pipeline",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: actively remakes environment through executive action, veto threats, and direct intervention when institutional channels fail",
+      "finding": "Obama consistently demonstrates world-shaping agency rather than passive structure-response. When Congress blocked legislation (minimum wage, equal pay, unemployment insurance - ev_020), he declared a 'Year of Action' and took over 20 executive actions (ev_019). He issued definitive veto threats against Wall Street Reform repeal (ev_029), announced unilateral government modernization through Silicon Valley partnerships (ev_037), and framed TPP as writing global rules to prevent competitors like China from doing so (ev_031). This pattern shows he treats institutional friction not as a constraint to work within but as a signal that alternative pathways should be pursued. He shapes the environment to fit his agenda rather than primarily adapting to existing structures.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_031",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-driven: relies on metrics, statistics, and verifiable data rather than intuition or anecdote for claims and arguments",
+      "finding": "Obama's epistemic style shows strong reliance on quantified evidence rather than experiential intuition. He cited specific metrics: 11 million jobs over 57 consecutive months (ev_025), 2.5 million jobs in a single year (ev_033), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x (ev_040), Medicare solvency extended by 12+ years (ev_002). He referenced surveys showing small business support for minimum wage (ev_023) and statistical claims about deficit trajectory (ev_016). His confidence statements ('I'm absolutely confident' - ev_004) are grounded in these metrics rather than abstract conviction. He transforms raw data into compelling narratives, suggesting a pipeline from measurement to communication, but the primary input is empirical.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_016",
+        "ev_023",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with practical orientation: articulates philosophical frameworks but does not systematize into formal structures",
+      "finding": "Obama demonstrates capacity for abstraction through explicit philosophical frameworks like 'middle-out economics' (ev_021) and 'America's resurgence is real' (ev_024), yet these function more as rhetorical packaging than formal systems. He speaks in terms of principles and values rather than variables, interfaces, or constraints. His abstractions serve communication rather than computation - he converts abstract values into concrete policy positions rather than building formal models. The absence of technical systematization (no mention of optimization frameworks, scoring systems, or algorithmic approaches) suggests his abstraction capability is oriented toward human narrative rather than formal engineering. He prefers to summarize accomplishments through 'Top 10 Lists' (ev_033) rather than formal dashboards.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_032",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control orientation: uses explicit presidential authority tools (vetoes, executive orders, deadlines) to enforce preferred outcomes",
+      "finding": "Obama consistently employs control mechanisms to enforce his preferred policy pathways. He issued unconditional veto threats against Wall Street Reform repeal (ev_029: 'I will veto it') and debt ceiling negotiation (ev_015: 'I will not negotiate over the full faith and credit'). He signed executive orders raising contractor minimum wage (ev_017) without waiting for Congressional action. He set explicit deadlines to force action: 'seven days away' for transportation funding, 'eight days away' for student loan rates (ev_011). He challenges private companies to hire targets (ev_009: 100,000 veterans by 2013) and frames issues as binary outcomes (sequester vs balanced approach). This control orientation extends to communication - he structures his messages as numbered lists and clear stakeholder positions rather than ambiguous consensus-building.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_011",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with calculated relational costs: pursues goals explicitly while absorbing political friction as necessary expense",
+      "finding": "Obama prioritizes mission achievement while accepting significant relational costs when goals are at stake. He criticizes Congressional Republicans directly and publicly ('Republicans have blocked or voted down every serious idea' - ev_020), frames debt ceiling refusal in stark terms (ev_015), and declares executive action agenda despite political friction (ev_019). However, he simultaneously seeks bipartisan coalitions where possible (AFL-CIO and Chamber of Commerce together - ev_008), attributes accomplishments to collective American effort (ev_032: 'All of this progress is because of you'), and frames bipartisanship as American issue rather than partisan one. This suggests mission-cost calculation where relational warmth is preserved when it doesn't block mission, but sacrificed when it does. He explicitly acknowledges 'tough issues' require bipartisan action while not avoiding conflict when necessary.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with calculated bets: avoids extreme gambles while accepting moderate risks for structural goals",
+      "finding": "Obama's risk posture reflects a layered defense strategy rather than aggressive gambling or conservative avoidance. He accepts moderate risks through executive action when Congressional paths are blocked (ev_019) - not extreme bets but calculated moves within existing authority. He frames his approach as defensive ('We've worked too hard to recover from one crisis only to risk another' - ev_029) while simultaneously taking proactive positions (energy independence by 2025, climate agreements). He acknowledges uncertainty explicitly ('I'm the first to admit past trade deals haven't lived up to the hype' - ev_027) rather than overclaiming confidence. His sequester warnings show risk sensitivity: he documents specific failure modes (Head Start cuts, airport disruptions, military strain - ev_014) rather than probabilistic framing. This suggests calibrated risk-taking with attention to failure scenarios.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_019",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective institutionalism: exercises presidential authority when useful, promotes collective action when possible, balances formal power with collaborative framing",
+      "finding": "Obama's relationship with hierarchy shows pragmatic selectivity. He exercises explicit presidential authority through vetoes, executive orders, and direct challenges (ev_015, ev_017, ev_029), but frames these within inclusive language ('America's resurgence,' 'not Democratic or Republican issue' - ev_008). He seeks cross-partisan coalitions (Chamber of Commerce + AFL-CIO - ev_008) and attributes accomplishments to collective action (ev_032, ev_045). His institutional role is portrayed as servant-leader ('our founders trusted us with the keys to this system of self-government' - ev_036) rather than hierarchical dominator. However, he does not cede power passively - he refuses debt ceiling negotiation (ev_015) and challenges private companies with hiring targets (ev_009). This suggests hierarchical power as a tool to be deployed strategically, not a relationship to either maximize or minimize.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_015",
+        "ev_032",
+        "ev_036",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-negotiation hybrid with escalation readiness: converts conflict into technical framing or coalition-building before escalation, but escalates when core positions are at stake",
+      "finding": "Obama's conflict strategy demonstrates translation-then-escalate patterns. He first attempts to reframe partisan disputes as non-partisan issues ('This isn't a Democratic or Republican issue' - ev_008), build cross-stakeholder coalitions (labor + business), and frame conflicts in terms of shared American values. When these translation attempts fail, he escalates through institutional mechanisms: executive action (ev_019), veto threats (ev_029), and explicit public criticism of obstruction (ev_020, ev_010). He shows willingness to draw hard lines (debt ceiling - ev_015) while simultaneously arguing for bipartisan solutions. His 'Top 10 Things' list format (ev_033) suggests converting complex political conflict into clear, communicable categories. This strategy reflects someone who views conflict as manageable through framing before it requires power-based resolution.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural: optimizes for decades-scale impacts (Medicare solvency, energy independence 2025, climate agreements) over short-term visible gains",
+      "finding": "Obama consistently operates on long-term time horizons. He cites decade-scale projections: Medicare solvency extended by 'at least a dozen years' (ev_002), energy independence goal set for 2025 (evt_004), and climate agreements designed for intergenerational impact ('leave a better, cleaner, safer future for our children' - ev_041). His 'middle-out' economic philosophy (ev_021) frames structural change over immediate redistribution. He speaks of 'decades-long erosion of middle-class jobs and incomes' (ev_024) requiring sustained effort. His Cancer Moonshot initiative (ev_042, ev_043) reflects mission-scale time investment. The evidence shows preference for capability-building over short-term wins - workforce training, domestic manufacturing, clean energy infrastructure are all framed as long-term investments. His frequent references to 'this country's commitment' and generational responsibilities suggest mission-scale temporal orientation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_021",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic replacement when structural failures: chooses comprehensive redesign over incremental repair when problems are identified as systemic rather than local",
+      "finding": "Obama demonstrates rebuild orientation when structural deficiencies are identified. His sequester response explicitly calls for replacement ('replace sequester with balanced deficit reduction approach' - ev_012) rather than modification, documenting how patchwork has failed (Head Start cuts, airport disruptions, military strain - ev_014). He declares 'Year of Action' when Congressional blocking reveals systemic dysfunction (evt_015). His approach to trade deals acknowledges past failures while choosing comprehensive renegotiation over incremental adjustment ('I'm the first to admit that past trade deals haven't lived up to the hype' - ev_027). However, he does patch when rebuilding is blocked - executive orders serve as architectural workarounds when full legislation fails. This suggests rebuild-first preference with patch-as-backup when structural change is institutionally unavailable.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_014",
+        "ev_015",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-monitoring: demonstrates awareness of own cognitive patterns, acknowledges limitations, tracks reasoning quality against outcomes",
+      "finding": "Obama shows strong metacognitive awareness across multiple dimensions. He acknowledges limitations explicitly ('I'm the first to admit that past trade deals haven't lived up to the hype' - ev_027), demonstrating willingness to recognize own prior failures rather than defending them. His farewell address shows reflective processing of 8 years of experience ('Every day, I learned from you. You made me a better President, and you made me a better man' - ev_044). He articulates his own philosophy evolution ('our economy grows best not from the top-down, but from the middle-out' - ev_021), suggesting self-conscious framework development. His distinction between war on al-Qaeda vs Islam (ev_012) reflects awareness of how framing shapes perception and avoids signal distortion. He frames his confidence in empirical terms ('I'm absolutely confident... because of... the determination of the American people' - ev_004) rather than as personal conviction. This indicates active self-monitoring of reasoning quality and output calibration.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_012",
+        "ev_021",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "signal_to_noise_calibration",
+      "definition": "The ability to distinguish meaningful signal from noise in complex, contested information environments - specifically, whether one treats all inputs as equivalent signal or actively filters based on reliability, relevance, and distortion potential",
+      "finding": "Obama demonstrates sophisticated signal-to-noise calibration in his political perception. He distinguishes between legitimate Congressional disagreement and manufactured crises - refusing to negotiate over 'full faith and credit' (ev_015) while simultaneously seeking bipartisan solutions elsewhere (ev_008). He identifies when claims are verifiable vs contestable (deficit statistics marked medium editorial risk vs unambiguous policy positions). His 'sequester would cut Head Start, cancer research' framing (ev_013, ev_014) shows sensitivity to which claims will register as meaningful signal with specific audiences. He acknowledges past trade deal failures (ev_027) as learning signal rather than noise to dismiss. His distinction between 'war with al-Qaeda' and 'war with Islam' (ev_012) reflects precise calibration of what constitutes relevant signal in a highly noisy information environment. This construct captures his tendency to process inputs through reliability filters rather than treating all sources equally.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_012",
+        "ev_013",
+        "ev_015",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "perceptual_pipeline_architecture",
+      "definition": "How one structures the flow of information from raw observation to communicated position - whether through explicit preprocessing stages, feedback loops, or ad-hoc filtering, and how much architecture vs improvisation characterizes the path from input to output",
+      "finding": "Obama shows clear perceptual pipeline architecture in his communication approach. His 'Top 10 Things' format (ev_033) represents an explicit preprocessing stage: converting raw policy data into ranked, communicable signal. His metrics-heavy speeches (11 million jobs, wind tripled, solar 30x - ev_025, ev_040) suggest systematic normalization of raw numbers into narrative. His bilateral framing (sequester vs balanced approach, war on al-Qaeda vs Islam) demonstrates structured binary classification of complex inputs. He builds feedback mechanisms through civic participation calls ('Not just when there's an election' - ev_046) that create loop between output and input. The Cancer Moonshot tech solution (ev_043: Presidential Innovation Fellows building Trials.Cancer.Gov) shows explicit pipeline construction for others. His consistent pattern of converting aggregate statistics into human impact stories (Medicare for seniors, workers affected by transportation deadline, veterans hiring) represents preprocessing architecture between raw data and public communication.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

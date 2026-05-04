@@ -1,0 +1,159 @@
+{
+  "discipline": "psychology",
+  "lens": "personality_individual_differences_locus_of_control_self_efficacy",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong internal locus with collective attribution - believes human action determines outcomes but credits collective rather than self as primary agent",
+      "finding": "Obama consistently demonstrates internal locus of control through framing outcomes as products of deliberate human choice rather than fate or external forces. He states 'we chose to invest in American auto industry' (ev_022) and declares 'America's resurgence is real' (ev_024) as measurable result of policy choices. However, his self-efficacy is distinctly collective rather than individually centered - he repeatedly attributes progress to 'the American people' and 'workers' rather than his own agency. He believes outcomes are determined by human action ('I'm absolutely confident we will get there' - ev_004), but positions himself as facilitator of collective capability rather than sole architect. This creates a paradox: high belief in human agency with modest personal attribution of credit.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_022",
+        "ev_024",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with pragmatic acknowledgment of limits - forms beliefs based on observable outcomes and admits when previous assessments were incomplete",
+      "finding": "Obama's epistemic approach demonstrates unusual candor about uncertainty and past failures. He explicitly acknowledges 'past trade deals haven't always lived up to the hype' (ev_027) while still defending TPP - showing capacity to hold both recognition of past failures and continued commitment to similar strategies. He grounds claims in verifiable outcomes: '11 million new jobs' (ev_025), 'carbon pollution at its lowest level in 25 years' (ev_040), '$11 billion recovered for 26 million consumers' (ev_028). This suggests beliefs are empirically tested rather than ideologically fixed. His framing of sequester effects through specific human stories ('parents whose kids just got kicked out of Head Start' - ev_014) demonstrates inductive reasoning from concrete evidence. The approach is neither purely rationalist nor purely empiricist, but pragmatic - what works gets continued, what fails gets acknowledged.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate - applies abstract principles to concrete policy but resists pure theorization without demonstrated results",
+      "finding": "Obama articulates clear abstract frameworks ('middle-out economics' - ev_021, 'government as tool for collective problem-solving' - ev_036) but consistently grounds them in measurable outcomes. He doesn't theorize abstractly about governance principles without connecting to concrete results: the Paris climate agreement is 'something to build upon' (ev_041) because it has specific emissions targets, not merely because it represents an abstract commitment. His abstraction serves strategic communication rather than pure systematization - he creates memorable framings ('love won' - ev_035) that make complex policy emotionally accessible. The 'Year of Action' framing (ev_015, ev_019) suggests he operationalizes abstract commitments into enumerable actions, suggesting formalization follows pragmatism rather than driving it.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_035",
+        "ev_036",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High within legitimate authority boundaries, selective outside - seeks maximum control within constitutional role but shows restraint in scope expansion",
+      "finding": "Obama displays strong control orientation within perceived legitimate boundaries. He declares 'I will not negotiate over the full faith and credit' (ev_015) on debt ceiling and 'I will veto it' (ev_029) regarding Wall Street Reform repeal - showing willingness to exercise maximum presidential power when core commitments are at stake. He takes 'more than 20 executive actions' (ev_019) when Congress blocks legislation, demonstrating proactive control-seeking. However, he respects structural limits - framing TPP as alternative to China writing rules (ev_031) rather than US dominance, and acknowledging that Congressional obstruction blocks his agenda (ev_020). He doesn't attempt to control what is legitimately outside presidential authority. The pattern suggests calibrated control seeking: maximum effort within perceived legitimate bounds, not expansion beyond constitutional role.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with strategic relational awareness - willing to absorb political costs for stated goals but avoids unnecessary alienations",
+      "finding": "Obama prioritizes mission goals consistently, absorbing significant political costs. He declares veto threats on Wall Street Reform (ev_029) and refuses debt ceiling negotiations entirely (ev_015) - accepting potential conflict to protect core commitments. The 'Year of Action' framing (ev_015) explicitly positions executive action against Congressional opposition, accepting political friction as necessary. Yet his conflict strategy is notably non-escalatory - he criticizes Republican obstruction but frames transportation funding as 'not a Democratic or a Republican issue' (ev_008), seeking bipartisan framing even when engaged in confrontational moves. He accepts relational costs when mission requires it but avoids gratuitous conflict. This suggests mission prioritization calibrated by strategic awareness that unnecessary conflict reduces overall efficacy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with structural caution - willing to pursue ambitious goals but frames risks as calculable and manageable",
+      "finding": "Obama shows moderate risk tolerance focused on reversible rather than irreversible outcomes. He pursues large initiatives (ACA, Dodd-Frank, TPP, Paris Agreement) suggesting risk acceptance for high-stakes policies. He frames risks concretely: 'nearly 1 million jobs over next year' (ev_006) from transportation bill failure, '7.5 million students see their loan rates double' (ev_011) - making risks visible and quantifiable rather than abstract catastrophism. He shows caution around irreversible commitments - his trade deal acknowledgment of past failures (ev_027) suggests risk calibration from historical precedent. The Cancer Moonshot (ev_042, ev_043) frames scientific challenge as achievable through systematic approach, reducing uncertainty through process rather than avoiding it. Risk posture appears calibrated: ambitious goals pursued, but with systematic risk assessment rather than either reckless ambition or paralyzing caution.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist with democratic legitimacy emphasis - views presidential power as bounded by constitutional role and democratic accountability",
+      "finding": "Obama demonstrates sophisticated relationship to hierarchy: asserting strong presidential authority within legitimate bounds while framing power as accountable to democratic purpose. He exercises power decisively ('I will veto,' 'I will not negotiate') but always within constitutional framework. He says 'our founders trusted us with the keys to this system' (ev_036), framing hierarchy as delegated rather than self-created. He criticizes 'one senator gumming up the works' (ev_010) as contrary to founders' intent, using democratic legitimacy to challenge institutional obstruction. His veteran hiring challenge (ev_009) and Fatherhood initiative (ev_007) show him creating new institutional arrangements rather than simply commanding existing ones. The relationship is neither deferential nor revolutionary - he works within hierarchy while using democratic mandate to push against its constraints.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate-and-escalate with selective delay - converts opposition into leverage, escalates when necessary, but uses delay strategically on negotiable elements",
+      "finding": "Obama's conflict strategy involves translating opposition into political advantage and selective escalation. When Republicans block legislation, he frames it as obstruction of middle-class opportunity (' Republicans in Congress have blocked or voted down every serious idea' - ev_020), converting conflict into narrative asset. He escalates through veto threats (ev_015, ev_029) and executive action (ev_019) when legislative paths blocked. He uses delay strategically on negotiable elements while holding firm on core commitments - accepting budget sequester effects temporarily while continuing to advocate balanced approach (ev_013). He avoids premature escalation on tactical issues to preserve credibility on principled ones. This suggests conflict management through selective intensity: high escalation on core values, tactical patience on secondary matters.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-decade orientation - pursuing goals measured in 10-25 year timeframes while maintaining near-term political viability",
+      "finding": "Obama consistently operates on extended time horizons while maintaining near-term political practicality. His energy blueprint targets 'cut oil imports by one-third by 2025' (ev_004) - 14-year horizon. He cites Medicare solvency extension as 'the single longest extension in history' (ev_002) - structural achievement spanning decades. Paris climate agreement (ev_041) represents multi-generational commitment. His farewell address (ev_047) explicitly states 'I am even more optimistic about our country's promise' - long-term orientation preserved through term's end. However, near-term pragmatism appears in executive actions when long-term legislation blocked ('Year of Action' - ev_015), in annual accomplishments reviews (ev_033), and in quantifiable short-term metrics (57 months job growth - ev_025). The pattern suggests strategic time horizon management: long-term goals pursued through medium-term tactical adaptations.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_025",
+        "ev_033",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural rebuilding as primary, local repair as fallback - prefers systemic solutions but accepts incremental gains when structural change blocked",
+      "finding": "Obama demonstrates strong preference for structural redesign over incremental patching. ACA represents fundamental healthcare system rebuilding rather than targeted fixes. Dodd-Frank restructures financial regulation systemically. Energy blueprint (ev_004) aims at transformation of energy sector composition. TPP frames rewriting global trade rules rather than adjusting existing arrangements. However, when structural change blocked, he accepts tactical patches - executive orders on minimum wage (ev_017) when legislation fails, sequester replacement proposals (ev_013) when structural budget reform stalls. His 'Year of Action' (ev_015) explicitly frames executive actions as structural responses to legislative blockage. The pattern shows primary orientation toward systemic change, with pragmatic acceptance of partial gains when comprehensive reform impossible, but never settling for patch as permanent strategy.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_017",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High - demonstrates strong awareness of cognitive limits, frame-switching capacity, and realistic self-assessment of what can be controlled",
+      "finding": "Obama displays sophisticated metacognitive awareness through multiple indicators. He acknowledges limits of his control - 'I can't snap my fingers and make the economy grow' (implicit in ev_004's 'because of you' framing), explicitly credits collective action for outcomes ('You made me a better President, and you made me a better man' - ev_044). He demonstrates frame-switching awareness - distinguishing war on al-Qaeda from conflict with Islam (ev_012) shows capacity to recognize how language frames perception. He shows realistic self-assessment: acknowledging past trade deal failures (ev_027) while maintaining current strategy suggests ability to evaluate previous thinking without abandoning strategic direction. His farewell reflection on diverse experiences ('I've seen neighbors looking out for each other' - ev_045) suggests integration of varied feedback into coherent self-understanding. The pattern indicates metacognitive investment in learning from experience while maintaining strategic direction.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_012",
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Collective Efficacy Attribution Pattern",
+      "definition": "A distinctive locus pattern where internal control beliefs are maintained but personal agency attribution is consistently externalized to collective actors (American people, workers, entrepreneurs) rather than centered in self. This creates high internal locus at systemic level while avoiding perception of personal aggrandizement.",
+      "finding": "Obama consistently maintains internal locus of control ('we can leave a better future for our children' - ev_041) while externalizing credit to collective actors. This pattern serves both psychological function (maintaining efficacy beliefs without self-aggrandizement) and political function (building coalition through inclusive attribution). The pattern distinguishes him from both purely self-aggrandizing leaders who claim personal credit and purely deferential leaders who externalize all agency to external forces. His collective efficacy attribution represents a stable cognitive strategy for maintaining high agency orientation while building broad-based political coalitions.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

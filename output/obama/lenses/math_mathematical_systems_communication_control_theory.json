@@ -1,0 +1,167 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_systems_communication_control_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with deliberate feedback-aware execution rather than pure autonomous agency",
+      "finding": "Obama consistently acts as an active system architect rather than merely responding to structures. He establishes clear targets and monitors feedback (ev_025: 57 months, 11 million jobs tracked as operational metrics; ev_033: enumerated accomplishments in precise list format). However, his agency is notably feedback-responsive—he acknowledges limits of unilateral action (ev_004: 'because of the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people'), credits collective agency over personal will (ev_032: 'All of this progress is because of you'). This suggests a world-shaping orientation implemented through closed-loop agency, not pure command-and-control.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_004",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded with strong metric tracking and iterative correction, balancing confidence with acknowledgment of uncertainty",
+      "finding": "Obama's epistemic approach centers on measurable feedback and system state monitoring. He cites specific statistics as primary evidence (ev_025: deficit falling 'at fastest rate since World War II'; ev_040: wind power 'multiplied threefold,' solar 'more than thirtyfold'). Yet he maintains epistemic humility about policy effectiveness (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype'). He uses real-time monitoring to adjust positions (ev_014 documents sequester human costs; ev_044: learns from 'living rooms and schools... at diners and on distant military outposts'). This indicates a systems-theoretic epistemology: beliefs are treated as hypotheses requiring empirical validation.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_027",
+        "ev_014",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization preference with multi-variable system modeling across policy domains",
+      "finding": "Obama consistently frames policy domains as formal systems with interacting variables and feedback loops. His 'middle-out' economic philosophy (ev_021) is explicitly a system model: 'Our economy grows best not from the top-down, but from the middle-out.' Energy policy is modeled with multiple control inputs (ev_005: 'Drilling alone is not a real strategy'—recognizing single-variable solutions are insufficient). Trade policy is framed as system architecture control (ev_031: 'Without this agreement, competitors like China will write the rules of the global economy'). Healthcare is modeled as feedback system with Medicare solvency extension (ev_002: 'added at least a dozen years to the solvency of Medicare'). This reflects strong mathematical systems thinking.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_005",
+        "ev_031",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-strong control preference implemented through closed-loop monitoring and structured feedback, with respect for system autonomy when feedback supports it",
+      "finding": "Obama demonstrates high control orientation but with characteristic cybernetic nuance: he builds feedback mechanisms rather than relying on one-shot commands. His 'Year of Action' (ev_019: 'more than 20 executive actions') represents systematic control implementation when primary control path (legislative) is blocked. The Cancer Moonshot (ev_042, ev_043) shows explicit control architecture with cross-agency task force and Presidential Innovation Fellows as feedback integrators. However, he shows restraint in domains where feedback indicates limits: he refuses to negotiate debt ceiling (ev_015: 'I will not negotiate') but engages on trade, distinguishes 'war with al-Qaeda' not Islam (ev_012) rather than broad control. This suggests a sophisticated control orientation: tight feedback loops, willingness to bypass blocked channels, but respect for system boundaries.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_042",
+        "ev_043",
+        "ev_015",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate mission priority with conscious attention to relational costs; willing to absorb social friction for system-level goals",
+      "finding": "Obama prioritizes mission goals but demonstrates awareness of relational costs. He issues explicit veto threats on Wall Street Reform (ev_029: 'I will veto it') and refuses debt ceiling negotiation (ev_015) despite knowing these create political friction. He criticizes Republican obstruction directly (ev_020: 'Republicans in Congress have blocked or voted down every serious idea'). Yet he actively builds cross-partisan coalitions (ev_008: AFL-CIO and Chamber of Commerce at White House) and frames bipartisanship as success (ev_048: 'Christmas miracles' for bipartisan budget). He describes vetoes as protecting system stability rather than personal victory. This suggests mission-priority with deliberate relational cost management—willing to absorb friction for core goals, but avoiding unnecessary escalation when alternative paths exist.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_020",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Balanced risk management with emphasis on system stability and predictable trajectories over aggressive risk-taking",
+      "finding": "Obama's risk posture reflects control-theoretic stability preferences: he accepts short-term uncertainty for long-term stability but actively monitors for deviation. He articulates confidence while documenting potential failures (ev_004: 'absolutely confident' while calling for vigilance; ev_011: urgent deadlines with specific consequences). Sequester warnings (ev_014) show risk documentation as policy tool—'there are parents whose kids just got kicked out of Head Start programs' makes abstract risk concrete. He accepts uncertainty in long-term investments (climate policy, energy transition) while maintaining short-term monitoring. His risk calculus treats system instability (another financial crisis, default) as unacceptable compared to policy uncertainty. This is classic stability-first control theory.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical authority leveraged for system-level coordination but balanced with distributed feedback and cross-institutional partnership",
+      "finding": "Obama uses presidential hierarchy as coordination mechanism while actively seeking external input. Weekly addresses represent systematic use of hierarchical platform for agenda-setting. He partners across institutional boundaries (ev_008: AFL-CIO and Chamber of Commerce; ev_037: Silicon Valley collaborations through Presidential Innovation Fellows). However, he recognizes structural constraints (ev_010: 'One senator gumming up the works... is certainly not what our founding fathers envisioned') and adapts by using executive channels when legislative loops are blocked. He treats power as system coordination tool rather than personal resource, consistently framing decisions in terms of national interest rather than political survival. This reflects hierarchical authority used for closed-loop system coordination.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_037",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-based conflict strategy converting adversarial positions into system-level problem framing",
+      "finding": "Obama's conflict strategy reflects cybernetic translation rather than direct confrontation. He reframes partisan conflict as system dysfunction (ev_008: 'This isn't a Democratic or a Republican issue – it's an American issue') to reduce friction surface. He frames veto threats as system protection (ev_029: 'We've worked too hard to recover from one crisis only to risk another') not personal victory. When conflict blocks primary control path, he constructs alternative feedback channels (executive actions when Congress blocks). He documents human costs (ev_014) to reframe abstract conflict as concrete system failures. This translation strategy converts direct conflict into system-level problem-solving, reducing relational cost while maintaining mission priority.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_029",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term optimization with mission-scale temporal references and intergenerational framing",
+      "finding": "Obama's temporal orientation consistently extends to mission-scale and intergenerational horizons. Climate policy is framed as legacy (ev_041: 'something to build upon... for our children'). Medicare solvency extension measured in decades (ev_002: 'at least a dozen years'). Energy goals target 2025 (evt_004: 'cut oil imports by one-third by 2025'). Sequester warnings show willingness to accept short-term political cost for long-term system stability. Civic engagement framed for 'full span of a lifetime' (ev_046). Cancer Moonshot explicitly references 45-year trajectory (ev_042). His year-end list format (ev_033) quantifies multi-year progress. This temporal orientation reflects control systems designed for long-term stability over short-term optimization.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_002",
+        "ev_046",
+        "ev_042",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference when system architecture fails; willing to bypass blocked subsystems",
+      "finding": "Obama consistently prefers system redesign over local repair when fundamental channels are blocked. The Dodd-Frank architecture (ev_028, ev_029) represents institutional redesign creating new feedback mechanisms (Consumer Financial Protection Bureau) rather than patch repairs. TPP (ev_030: 'five years of effort') is framed as rewriting trade system architecture. When Senate blocks nominations (ev_010), he calls for structural reform ('90-day up-or-down votes on nominations'). Executive orders (ev_019: 'more than 20 executive actions') represent control path redesign when legislative feedback loops fail. Healthcare reform (ACA) is explicitly structural redesign of insurance market architecture. This pattern indicates strong preference for systemic redesign over incremental patching when feedback indicates fundamental dysfunction.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_030",
+        "ev_010",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with active external feedback integration and explicit acknowledgment of cognitive limitations",
+      "finding": "Obama demonstrates strong metacognitive awareness through systematic external feedback integration. He explicitly credits public input as corrective mechanism (ev_044: 'in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts – are what have kept me honest, kept me inspired'). He acknowledges policy imperfections (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype'). He models himself within feedback loops rather than as external controller (ev_047: 'I am even more optimistic about our country's promise'). The Cancer Moonshot architecture shows self-awareness of coordination limits—task force structure with Biden reporting suggests conscious distribution of monitoring. His farewell framing of himself as learner (ev_044: 'you made me a better President, and you made me a better man') reflects explicit metacognitive positioning.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "closed_loop_learning_velocity",
+      "definition": "The speed at which an actor updates their model based on feedback and implements corrections. Distinct from general adaptability—this specifically measures the latency between feedback reception and system-level adjustment, relevant in control theory for understanding system responsiveness.",
+      "finding": "Obama demonstrates notably high learning velocity: he receives feedback from various channels and rapidly integrates into system-level corrections. When sequester effects emerged (ev_014: Head Start cuts, airport disruptions), he immediately documented human costs and advocated alternative control architecture. When Congressional obstruction blocked legislative control path (ev_015, ev_019), he rapidly implemented executive action alternatives. The Cancer Moonshot (ev_042) shows conscious design of rapid feedback integration through Presidential Innovation Fellows building Trials.Cancer.Gov for faster clinical trial matching. However, this velocity appears modulated by system stability concerns—fast adaptation when system is clearly failing, more deliberate when feedback is ambiguous. This emergent construct captures something beyond simple adaptability: the willingness to restructure control channels when primary loops fail.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_019",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "control_channel_multiplexing",
+      "definition": "The ability to operate multiple parallel control channels simultaneously rather than relying on single control path. In control theory, multiplexed systems can maintain stability even when one channel is disrupted. This construct captures how an actor distributes control across different mechanisms and the flexibility this provides.",
+      "finding": "Obama demonstrates exceptional control channel multiplexing: he operates legislative, executive, public communication, and partnership channels in parallel. When Congress blocks legislative path (ev_015, ev_019), executive orders activate alternative control. When executive authority is constrained, public communication (weekly addresses) maintains influence. Partnership channels (AFL-CIO and Chamber of Commerce; Silicon Valley; private sector veteran hiring challenge) provide distributed control mechanisms. The Veterans Day address (ev_009: 'challenged private companies to hire or train 100,000 post-9/11 veterans') shows distributed control delegation. This multiplexing provides system resilience—when one control path fails, others compensate. However, the evidence suggests multiplexed channels are not independent; they interact through feedback, creating a coupled control network rather than parallel isolated loops.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_008",
+        "ev_037",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

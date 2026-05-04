@@ -1,0 +1,176 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_emotion_self_regulation_emotion_regulation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with consistent preference for active problem-solving over reactive positioning",
+      "finding": "Obama consistently demonstrates agency orientation by pivoting to executive actions when legislative paths are blocked. When Congress blocked minimum wage increases, equal pay legislation, and unemployment insurance extensions (ev_020), he took over 20 executive actions in his 'Year of Action' (ev_019). His 2014-2016 period shows systematic strategy of working around Congressional opposition rather than accepting stalemate. The pattern reveals proactive framing: problems become occasions for action rather than despair. Evidence ev_017 shows he signed executive order raising contractor minimum wage while continuing to push Congress for broader change. His farewell address (ev_044) emphasizes learning from citizens rather than relying on positional authority, suggesting agency is distributed rather than purely personal.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Emotional information is processed as situational data rather than pure affect; beliefs formed through integration of empirical evidence with value commitments",
+      "finding": "Obama's speeches reveal epistemic style that treats emotional situations as information requiring contextualization rather than immediate reaction. When discussing sequester impacts (ev_014), he names human costs (Head Start children, seniors, military families) as factual data that should drive policy response, not as emotional appeals meant to manipulate. His debt ceiling stance (ev_015) shows integration of emotional conviction ('height of irresponsibility') with institutional principles (full faith and credit). He rarely treats emotions as purely private experiences to be explored; instead, he frames them as shared signals requiring collective response. The 'Year of Action' narrative (ev_024) shows belief formation through empirical pattern recognition: 'Pick any metric you want' signals confidence built through accumulated evidence rather than intuitive conviction.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high abstraction with strong capacity to move between concrete instances and system-level frameworks",
+      "finding": "Obama demonstrates capacity for both concrete operationalization and abstract framing. His economic philosophy ('middle-out' vs 'top-down' in ev_021) represents high-level abstraction applied to specific policy contexts. He readily cites specific statistics (11 million jobs over 57 months, ev_025; $11 billion recovered for 26 million consumers, ev_028) but always connects these to larger frameworks (middle-class opportunity, market fairness). The 'Top 10 Things that Happened in 2015' address (ev_033) shows comfort with systematic enumeration and categorical thinking. His framing of TPP as preventing China from 'writing the rules of the global economy' (ev_031) demonstrates ability to abstract geopolitical dynamics from specific trade details. This suggests formalization capacity used strategically rather than compulsively.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_031",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Constructive regulatory orientation; seeks to shape systems and create frameworks rather than dominate outcomes through raw authority",
+      "finding": "Obama's control orientation operates primarily through institutional mechanisms and policy frameworks rather than personal authority. On debt ceiling (ev_015), he drew a firm line but framed it in terms of national credibility rather than personal preference. His 2016 veto threat on Wall Street Reform repeal (ev_029) represents strategic use of institutional power as deterrent rather than aggression. The pattern suggests he prefers building regulatory structures that constrain behavior systemically (Dodd-Frank consumer protections, CFPB watchdog function) over moment-to-moment intervention. When facing Congressional obstruction, he restructured his approach (executive actions) rather than escalating emotional confrontation. This reflects what emotion regulation theory calls 'engagement' regulation—maintaining active coping rather than withdrawal or explosive reaction.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with careful attention to relational framing that minimizes unnecessary damage",
+      "finding": "Obama shows clear mission prioritization, particularly on policy priorities (ACA implementation, Dodd-Frank, climate agreements), but with notable attention to relational framing. When criticizing Congressional Republicans (ev_020: 'blocked or voted down every serious idea'), he names positions firmly while maintaining inclusive rhetoric ('not a Democratic or Republican issue' in ev_008). His father's day address (ev_006) shows willingness to share personal vulnerability without it becoming the focus. His farewell address gratitude (ev_044) suggests genuine relational appreciation layered beneath mission focus. However, his repeated criticism of Senate obstruction (ev_010: 'gumming up the works for the whole country') and clear veto threats indicate willingness to accept relational costs when core commitments are at stake. The balance appears deliberate—firm on substance, warm in tone.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker within established institutional constraints; willing to pursue ambitious goals when evidence supports feasibility",
+      "finding": "Obama's risk posture reveals calculated boldness within institutional guardrails. The Cancer Moonshot initiative (ev_042) reflects willingness to pursue large-scale transformation (45 years of prior progress + new strategy) with realistic acknowledgment of complexity. Paris climate agreement (ev_034) represents high-stakes international commitment based on accumulated evidence. His framing of TPP (ev_031) shows risk calculation: 'write the rules of the global economy' or let China do so represents asymmetric risk framing. The auto industry rescue (ev_022) was politically risky but he framed it through evidence of effectiveness. His consistent use of baseline comparisons ('fastest rate since World War II,' ev_016; 'strongest job growth since 1990s,' ev_018) suggests risk assessment through comparative data rather than intuition. He avoids reckless commitments while showing no hesitation on large-scale initiatives when reasoning supports them.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_018",
+        "ev_022",
+        "ev_031",
+        "ev_034",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimacy-based approach; invokes shared frameworks and historical precedents rather than personal authority",
+      "finding": "Obama's use of hierarchy and power consistently invokes institutional legitimacy and shared values rather than personal authority. When challenging Congressional obstruction, he references founding fathers' intent (ev_010: 'certainly not what our founding fathers envisioned'). When refusing debt ceiling negotiation, he invokes national identity and global credibility ('United States of America is not a deadbeat nation,' ev_015). His bipartisanship invocations ('AFL-CIO and Chamber of Commerce' together in ev_008) use institutional coalitions to legitimize positions. The Cancer Moonshot (ev_042) references Nixon-era commitment, situating his initiative within historical precedent. This approach suggests he understands power as flowing from institutional position and shared narrative rather than personal charisma or command authority. His call for civic participation beyond elections (ev_036) distributes power rather than consolidating it.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_036",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Integrative strategy combining firm position-holding with creative reframing and alternative path construction",
+      "finding": "Obama's conflict strategy reveals sophisticated integrative handling. When faced with Congressional deadlock, he doesn't suppress conflict (acknowledges Republican opposition clearly in ev_020) but doesn't escalate destructively either. Instead, he consistently builds alternative pathways: executive actions when legislation fails, private sector partnerships when public sector stalls (veteran hiring challenge, ev_009). His conflict translation is notable—'not a Democratic or Republican issue' (ev_008) recategorizes partisan conflict as national interest. On sequester, he documented human costs (ev_014) but framed solution as 'balanced approach' rather than partisan victory (ev_013). His refusal to negotiate on debt ceiling (ev_015) is firm without being personal—he names the principle, not the opponents. This approach maintains emotional regulation while preserving mission focus across prolonged conflicts.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_013",
+        "ev_014",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term and mission-scale orientation; patterns measured in years and decades",
+      "finding": "Obama's time horizon is distinctly long-term and mission-scale. His 2014 year-end address (ev_024, ev_025) references '57 months' of job growth and 'decades-long erosion of middle-class jobs'—framing current efforts within long trajectory. Energy policy references 'one-third by 2025' (evt_004). Climate initiatives (ev_040: 25-year carbon pollution reduction; ev_041: legacy to build upon for children) explicitly situate action within multi-decade frameworks. His father's day reflection (ev_006) shows personal time horizon extending to childhood and projecting to future parenting relationships. Even tactical urgency (sequester deadlines in ev_011) is framed within larger fiscal trajectory. The farewell address (ev_047) projects forward: 'working along your side, as a citizen, for all my days that remain.' This suggests comfort with extended time horizons not commonly seen in political rhetoric.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_024",
+        "ev_025",
+        "ev_040",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign; patches treated as temporary while systemic solutions pursued",
+      "finding": "Consistent preference for structural over piecemeal approaches runs throughout Obama's rhetoric. On sequester, he documented harms (ev_014) and explicitly called for replacement ('replace sequester' in evt_012) rather than accepting partial fixes. His balanced deficit approach (ev_013) explicitly favors comprehensive reform over arbitrary cuts. The ACA is framed as structural health system redesign, not temporary coverage expansion (ev_002: 'solvency of Medicare... longest extension in history'). On trade policy, while acknowledging past deal shortcomings (ev_027), he pursued comprehensive agreements (TPP) rather than isolated bilateral arrangements. Government modernization (ev_037) uses cross-sector partnerships rather than incremental bureaucratic reform. The Cancer Moonshot (ev_042) explicitly builds on 45-year structural investment in research infrastructure. Only on sequester does he accept temporary fixes (FAA fix in evt_012) as necessary breathing room while structural solution remains the goal.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_027",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit reasoning narration and active self-correction patterns",
+      "finding": "Obama demonstrates notably high metacognitive functioning through explicit reasoning narration. His farewell address (ev_044) explicitly names learning process: 'Every day, I learned from you. You made me a better President, and you made me a better man.' The statement directly acknowledges cognitive and developmental growth driven by external input. His 2015 year-end address attributing accomplishments to citizens (ev_032) shows self-positioning outside his own narrative—framing himself as recipient of collective action rather than its sole agent. His acknowledgment of past trade deals not living up to hype (ev_027) demonstrates willingness to critique his own prior positions. His framing of personal father-absence (ev_006) shows capacity to observe his own emotional patterns ('I wondered what my life would have been like had he been a greater presence') rather than being unconsciously driven by them. This metacognitive pattern suggests active monitoring of his own reasoning and emotional states rather than reactive functioning.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "emotional containment_capacity",
+      "definition": "The ability to hold emotional intensity without it contaminating judgment or communication. Distinguished from suppression (which压抑情绪) and from emotional expressiveness (which prioritizes venting). Involves maintaining functional emotional temperature while still acknowledging experience.",
+      "finding": "Obama demonstrates notable emotional containment capacity across the timeline. Congressional obstruction could plausibly generate significant frustration, yet his rhetoric maintains constructive framing across years of deadlock (2011-2016). His language on sequester (ev_014) documents genuine human suffering empathetically without collapsing into despair or rage. His debt ceiling refusal (ev_015) maintains firm conviction without panic or desperation. The father's day address shows vulnerability (ev_006: personal father-absence) contained within broader parenting theme. This containment appears deliberate—used to maintain coalition space and prevent escalation—rather than repressive (which would show in physical symptoms or relationship strain). The pattern suggests healthy containment capacity enabling sustained high-pressure function without secondary damage.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "emotional_granularity",
+      "definition": "The precision and differentiability of emotional vocabulary and experience. High granularity enables nuanced regulation (can match regulatory strategy to emotional quality) rather than binary responses (calm vs. overwhelming).",
+      "finding": "Obama's speeches reveal high emotional granularity through precise naming and differentiation. He distinguishes between concern ('sequester would cut national security, education, Head Start,' ev_011), conviction ('height of irresponsibility,' ev_015), frustration (with Congressional blockage, ev_020), pride (in specific accomplishments, ev_045), solemn obligation (to fallen heroes, ev_038), and gratitude (to citizens, ev_044). His 'Top 10' address (ev_033) shows categorical precision applied to positive emotions—distinguishing job growth from health coverage gains from climate progress from marriage equality. This granularity suggests capacity for differentiated regulatory responses—applying specific strategies to specific emotional states rather than general arousal management. It also indicates self-awareness of which emotions are present and what they signal.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_015",
+        "ev_020",
+        "ev_033",
+        "ev_038",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

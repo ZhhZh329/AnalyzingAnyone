@@ -1,0 +1,178 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "operations_and_systems_engineering_systems_integration",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; actively restructures problem boundaries and creates new institutional interfaces rather than operating solely within existing constraints",
+      "finding": "Obama consistently demonstrates preference for reshaping system boundaries rather than accepting them. When legislative channels blocked his agenda, he pivoted to executive actions (ev_017, ev_019) to create new policy interfaces. For TPP, he framed the choice as shaping global rules versus allowing China to write them (ev_031), positioning himself as an active architect of international trade architecture. The 'Year of Action' framing in 2014 (ev_019) explicitly declared intent to restructure the executive-congressional interface through unilateral moves. This reflects a systematic attempt to redraw the boundary between branches rather than simply responding within established constraints.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_031",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded policy reasoning; relies on empirical data, metrics, and documented outcomes rather than purely experiential intuition",
+      "finding": "Obama's epistemic approach demonstrates strong reliance on quantified evidence and measurable outcomes. He repeatedly cites specific statistics: 11 million jobs created (ev_025), 26 million consumers recovering $11 billion through CFPB (ev_028), wind power tripled and solar 30x (ev_040), uninsured rate below 10% (ev_033). He acknowledges past trade deals 'haven't always lived up to the hype' (ev_027), showing willingness to update views based on evidence. However, his use of survey data (ev_023) and deficit trajectory claims (ev_016) shows some rhetorical framing that stretches empirical grounding. Overall pattern is empirical-first but not immune to motivated reasoning when evidence is thin.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization tendency; articulates policy through explicit frameworks, metrics, and structured principles",
+      "finding": "Obama systematically formalizes policy positions into named frameworks and quantified goals. The 'middle-out economics' philosophy (ev_021) abstracts complex economic dynamics into a clear structural principle. Energy policy targets one-third oil import reduction by 2025 (evt_004). Veterans hiring targets 100,000 by 2013 (ev_009). Cancer Moonshot operates through formalized cross-agency task forces (ev_042, ev_043). The year-end top 10 list format (ev_033) represents systematic stock-taking. This formalization extends to how he defines success: balanced deficit reduction (ev_013), specific wage targets ($10.10/hour in ev_017, ev_018), measurable health outcomes. He treats abstraction as a coordination tool for aligning heterogeneous stakeholders.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_017",
+        "ev_042",
+        "ev_033",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Balanced control strategy; employs both direct intervention mechanisms and distributed institutional approaches",
+      "finding": "Obama's control orientation shows sophistication in matching control mechanisms to context. For non-negotiable boundaries (debt ceiling in ev_015, Wall Street Reform in ev_029), he deploys veto threats as direct control mechanisms. For complex coordination challenges (Cancer Moonshot, government modernization), he delegates to specialized task forces like Presidential Innovation Fellows (ev_043). The energy blueprint (evt_004) uses multi-stakeholder partnership (UPS, FedEx, AT&T, Verizon, PepsiCo) as a distributed control architecture. The pattern reveals understanding that some systems require direct control at boundaries while others benefit from incentive-aligned distributed control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_043",
+        "ev_042",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with significant relational investment; willing to absorb conflict costs but preserves future collaboration pathways",
+      "finding": "Obama shows clear mission prioritization when values are at stake: he 'will not negotiate over the full faith and credit of the United States' (ev_015), threatens vetoes on Wall Street Reform repeal (ev_029), and explicitly names Republican obstruction as blocking middle-class priorities (ev_020). Yet his relational investment is notable: he cited AFL-CIO and Chamber of Commerce agreement (ev_008) to frame transportation as non-partisan, visited Indiana manufacturing facilities (evt_017) to build cross-sector support, and framed bipartisanship as achievable (evt_027 'Christmas miracles'). His farewell address explicitly credits diverse Americans for his growth (ev_044), suggesting ongoing relational investment even after direct conflicts. The pattern indicates mission-urgent on core principles but relationship-preserving for future integration opportunities.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_020",
+        "ev_008",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with selective high-risk bets; avoids catastrophic failure modes while making targeted investments in uncertain but high-potential initiatives",
+      "finding": "Obama demonstrates risk-aware governance that prioritizes catastrophic loss avoidance. His sequester opposition (ev_014) documents cascading human costs (Head Start cuts, senior meal programs, military strain) as layered defense arguments. The debt ceiling position (ev_015) explicitly refuses to enter failure modes that could damage US credibility globally. Against this defensive foundation, he makes selective high-uncertainty bets: Cancer Moonshot operates at 45 years of accumulated research infrastructure (ev_042) but still carries scientific uncertainty. TPP represents a 5-year, 11-nation bet with unclear distributional outcomes (ev_030). Paris climate agreement (ev_034) commits to multi-decade uncertain trajectories. The pattern suggests preference for protecting downside while making convex-payoff investments in defined areas.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_042",
+        "ev_034",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Pragmatic authority navigator; understands formal power constraints and strategically operates at institutional boundaries",
+      "finding": "Obama demonstrates sophisticated understanding of hierarchical boundaries in US government. On debt ceiling (ev_015), he explicitly refuses Congressional attempts to condition authority, framing it as protecting institutional integrity. He consistently distinguishes executive from legislative prerogatives: executive orders for contractors (ev_017), legislative asks for Congressional minimum wage (evt_014). His State of the Union critique of Senate obstruction (ev_010) engages with institutional design rather than personal grievance. The government modernization initiative (ev_037) explicitly brings external actors (Silicon Valley) into hierarchical structures as a reform mechanism. His trust in 'the keys to this system of self-government' (ev_036) reflects engagement with democratic hierarchy as legitimate, not merely as obstacle.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_010",
+        "ev_037",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Progressive escalation with negotiation persistence; pursues consensus first, escalates to formal mechanisms when boundary conditions are violated",
+      "finding": "Obama's conflict strategy follows a clear escalation pattern. Initial posture seeks bipartisan or multi-stakeholder agreement: transportation bill cited AFL-CIO and Chamber of Commerce consensus (ev_008); trade deals framed as protecting American workers broadly (ev_026). When obstruction persists, he escalates through formal mechanisms: Senate blocking judicial nominees triggers call for 90-day up-or-down votes (evt_008); Republican obstruction on minimum wage, equal pay, unemployment insurance (ev_020) leads to executive actions bypassing Congress. Red lines are enforced through veto threats (ev_029) and explicit refusal to negotiate (ev_015). The pattern shows neither pure negotiation (which he attempts first) nor pure escalation (which he uses as boundary enforcement), but a structured escalation protocol keyed to specific failure conditions.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_026",
+        "ev_020",
+        "ev_029",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Dual-horizon orientation; pursues short-term deliverable metrics while making structural investments in long-term capability",
+      "finding": "Obama consistently operates across multiple time horizons simultaneously. Short-term deliverable tracking is explicit: 2.5 million jobs created in 2015 (ev_033), 57 months of job growth (ev_025), 11 million total (ev_025), uninsured rate below 10% first time ever (ev_033). These are visible metrics for current accountability. Against this, he makes structural investments with decades-scale payoff: Medicare solvency extended 12 years (ev_002), Dodd-Frank institutionalizes consumer protection permanently (ev_028), Paris climate agreement commits to 190+ nations on 25-year trajectories (ev_034, ev_041), auto fuel efficiency standards reshaping long-term emissions. Cancer Moonshot (ev_042) explicitly builds on 45 years of prior research infrastructure. The pattern indicates neither pure short-term optimization nor long-term idealism, but strategic allocation across horizons based on policy domain characteristics.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_025",
+        "ev_002",
+        "ev_028",
+        "ev_034",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer with selective patching; prefers fundamental system redesign when failure is systemic, but willing to patch when window closes",
+      "finding": "Obama's approach to systemic versus local failure shows conditional logic. When failures are systemic—financial crisis requiring Dodd-Frank institutional redesign (ev_028, ev_003), healthcare market failures requiring ACA (ev_002)—he pursues structural solutions with fundamental assumptions rebuilt: new consumer protection architecture, Medicare solvency mechanisms, prescription drug gap closure. When political constraints block structural reform—minimum wage, equal pay, immigration reform—he patches through executive actions (ev_019, ev_017) that create parallel systems without replacing Congressional authority. His 'Year of Action' framing (ev_015) explicitly acknowledges patching mode when structural reform is blocked. The sequester episodes show both: initial push for balanced structural deficit reduction (ev_013), then documented human costs when patch (sequester) becomes the reality (ev_014).",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_003",
+        "ev_019",
+        "ev_017",
+        "ev_013",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates explicit reflection on reasoning patterns, acknowledges blind spots, and updates positions based on feedback",
+      "finding": "Obama demonstrates notable metacognitive sophistication in multiple registers. He explicitly acknowledges limitations: past trade deals 'haven't always lived up to the hype' (ev_027), framing past failures as informing but not paralyzing current strategy. His farewell address centers on learning from citizens across disagreement (ev_044): 'Every day, I learned from you. You made me a better President, and you made me a better man.' This indicates active monitoring of his own reasoning quality through external feedback. His dual-horizon approach suggests awareness of his own tendency toward either short-term opportunism or long-term abstraction, which he mitigates through explicit time-horizon separation. The pattern of acknowledging errors while maintaining forward momentum (ev_045 on witnessing American goodness even in hardship) reflects metacognitive balance between self-correction and psychological preservation.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cross-domain coalition architecture",
+      "definition": "Ability to identify and activate heterogeneous stakeholder groups across economic sectors, ideological spectrums, and institutional boundaries into coordinated action around shared interfaces",
+      "finding": "Obama consistently demonstrates talent for identifying unexpected coalition partners across traditional boundaries. Transportation funding unified AFL-CIO and Chamber of Commerce (ev_008)—groups with structurally opposed interests. Energy blueprint aggregated UPS, FedEx, AT&T, Verizon, PepsiCo as Clean Fleets Partnership (evt_004)—transportation, telecommunications, and consumer goods sectors. Veterans hiring initiative combined federal government, private companies, and Senate tax credit mechanisms (ev_009). Government modernization explicitly brought Silicon Valley 'sharpest minds' into federal structures (ev_037). The TPP framework positioned labor and environmental standards as features, not barriers (ev_026, ev_031). This cross-domain architecture reflects understanding that complex systems integration requires finding compatible interfaces across heterogeneous components, not forcing homogeneous coalitions.",
+      "evidence_ids": [
+        "ev_008",
+        "evt_004",
+        "ev_009",
+        "ev_037",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "institutional friction absorption",
+      "definition": "Capacity to maintain functional relationships across institutional interfaces despite acute conflicts, preserving future collaboration pathways while taking firm positions on principles",
+      "finding": "Obama exhibits distinctive pattern of absorbing institutional friction without relationship rupture. He publicly condemns Senate obstruction (ev_010) as 'certainly not what our founding fathers envisioned,' then immediately calls for both parties to 'put an end to them.' He identifies Republican obstruction as blocking middle-class priorities (ev_020), then immediately pivots to executive action that doesn't require their buy-in. The farewell address explicitly thanks Americans 'whether we've seen eye-to-eye or rarely agreed at all' (ev_044), acknowledging conflict while framing it as generative. He documents sequester human costs (ev_014) to build pressure, but frames the goal as replacement with balanced approach, not perpetual opposition. This absorption capacity is analytically distinct from conflict suppression (which avoids friction) or conflict escalation (which maximizes rupture)—it's strategic tolerance for friction that preserves downstream integration capability.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_044",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

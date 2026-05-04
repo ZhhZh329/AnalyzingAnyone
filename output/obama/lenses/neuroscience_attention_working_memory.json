@@ -1,0 +1,173 @@
+{
+  "discipline": "neuroscience",
+  "lens": "attention_working_memory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with demonstrated executive agency and sustained goal-directed attention",
+      "finding": "Obama consistently demonstrates high agency orientation through proactive executive action and policy initiative. Evidence of world-shaping includes signing executive orders to raise federal contractor minimum wage (ev_017), declaring 'Year of Action' with 20+ executive actions to bypass Congressional obstruction (ev_019), and publicly committing to veto any repeal of Wall Street Reform (ev_029). His speeches reveal confident causal attribution: 'We chose to invest in American auto industry and American workers' (ev_022), positioning himself and his administration as active architects rather than passive responders. However, his agency is not purely autonomous—he frequently channels action through institutional mechanisms (Congress, federal agencies, international bodies), suggesting adaptive agency that works within structural constraints while still seeking to reshape outcomes.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Highly verbal-analytical working memory preference with systematic data organization and logical sequencing",
+      "finding": "Obama's information processing reveals a strong verbal working memory preference, characterized by extensive use of numerical data, statistical proofs, and logical argument chains. His speeches are structured around specific quantitative claims: 'seven days away from thousands of American workers' (ev_011), 'nearly $11 billion back in the pockets of more than 26 million consumers' (ev_028), 'multiplied wind power threefold... solar power more than thirtyfold' (ev_040). This pattern suggests reliance on the phonological loop for information maintenance and verbal rehearsal strategies for complex policy arguments. He frequently sequences multi-step logical progressions: premise → evidence → conclusion, as in the tax cut address (evt_003) where three specific policy benefits build toward a larger argument about shared American values. The analytical density of his communication suggests comfortable working within verbal modalities even under high cognitive load.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_028",
+        "ev_040",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization with strong capacity for both abstract frameworks and concrete particulars, switching strategically",
+      "finding": "Obama demonstrates flexible abstraction capacity, moving fluidly between grand conceptual frameworks ('America's resurgence is real,' ev_024; 'middle-out economics,' ev_021) and granular policy specifics (exact dollar amounts, enrollment deadlines, legislative vote counts). His formalization appears strategic rather than compulsive—he uses abstraction when building political coalitions ('our economy depends on a financial system in which everyone competes on a level playing field,' ev_003) but grounds arguments in concrete particulars when pressing for action ('seven days away,' 'seven and a half million students,' ev_011). This suggests efficient WM resource allocation: deploying abstraction for persuasion while using concrete details for urgency. His systematic enumeration in year-end addresses (top 10 accomplishments, ev_033) indicates working memory support structures—externalizing complex multi-item information through organized speech rather than relying solely on internal storage.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_021",
+        "ev_003",
+        "ev_011",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high goal-directed attention with persistent focus on policy objectives across multiple years",
+      "finding": "Obama exhibits tight attention control through sustained goal-pursuit spanning presidential terms. His priorities—energy independence (2011 announcement, evt_004), climate action (2016 validation, evt_025), Wall Street reform (2010-2015 defense, evt_002/evt_020), veterans employment (2011 challenge, evt_007)—remain stable across years, indicating strong executive function in maintaining goal-relevant attention despite competing demands. However, his control orientation is not rigid: his willingness to acknowledge past trade deal failures ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027) suggests capacity to release fixed attention on prior positions when new information warrants. His control appears calibrated—intense on core policy priorities while remaining flexible on tactical implementation, balancing persistence with adaptive updating.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_005",
+        "ev_027",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission prioritization with notable willingness to absorb social/political costs, though balanced with relational awareness",
+      "finding": "Obama frequently prioritizes policy goals over relational comfort, demonstrated by consistent criticism of Congressional opposition even when such criticism carries political costs. 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020) is an explicit relational cost accepted in service of agenda advancement. He absorbs criticism of sequestration's human costs (ev_014) not to maintain relational harmony but to drive policy change. However, his Father's Day address (evt_005) reveals relational capacity—sharing vulnerable personal history about absent fatherhood (ev_006) and coaching daughter's basketball team (ev_007)—suggesting mission prioritization is conscious rather than compulsive, with preserved relational skills available when contextually appropriate. The farewell address's gratitude to 'the American people' for making him 'a better President and a better man' (ev_044) indicates integrated mission/relational functioning rather than pure instrumentalism.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_014",
+        "ev_006",
+        "ev_007",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Effective threat detection and proactive risk communication with calibrated urgency management",
+      "finding": "Obama's alerting network demonstrates efficient threat identification and communication. He systematically identifies approaching dangers: sequestration deadlines (evt_011-012), debt ceiling crisis (evt_013), transportation funding expiration (evt_009), student loan rate doubling (evt_009), military job losses (evt_007). His rhetoric maintains urgency without catastrophizing—specific numbers and deadlines create appropriate alert states without overwhelming panic. The sequester warnings ('Head Start program cuts,' 'airport disruptions,' 'military strain,' ev_014) show calibrated threat articulation that mobilizes attention without paralysis. His refusal to negotiate over debt ceiling ('I will not negotiate over the full faith and credit,' ev_015) reveals risk aversion that prioritizes existential threats over tactical gains. This pattern suggests robust threat detection with measured response, avoiding both under-response and over-response to environmental dangers.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_014",
+        "ev_011",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective hierarchy navigation with demonstrated willingness to challenge authority while working within institutional structures",
+      "finding": "Obama exhibits sophisticated hierarchy navigation—he uses institutional power (executive orders, veto threats) while simultaneously challenging hierarchical abuses (Senate obstruction, Congressional insider trading). His criticism of Senate procedural obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010) indicates attention to power dynamics and willingness to publicly challenge authority. He systematically highlights bipartisan support (AFL-CIO and Chamber of Commerce together, ev_008; Senate transportation bill 52-22, ev_011) to counterpoint Congressional dysfunction, suggesting strategic hierarchy reading to identify coalitions. However, his executive actions (minimum wage, ev_017; energy partnerships, evt_004) work within rather than against hierarchical structures, indicating pragmatic power engagement rather than pure anti-hierarchical stance.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_008",
+        "ev_011",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferential use of frame translation with strategic negotiation and calculated escalation",
+      "finding": "Obama's conflict strategy centers on frame translation—recontextualizing opposition positions within broader consensus frameworks. His response to Congressional opposition frequently invokes shared American values ('This isn't a Democratic or a Republican issue,' ev_008), economic logic ('Our economy grows best not from the top-down, but from the middle-out,' ev_021), and bipartisan precedent (Senate bills passing 52-22, ev_011). He attempts negotiation and delay before escalation: he called for balanced deficit reduction (evt_011) before sequester warnings; he pursued Congressional action on TPP (evt_019) before committing to executive alternatives. When necessary, he escalates with explicit threats: veto promises on Wall Street Reform (ev_029), executive actions bypassing Congress (ev_019). This pattern suggests efficient executive control network—integrating information about multiple stakeholders, selecting appropriate frames, and deploying proportional responses rather than binary confrontations.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_021",
+        "ev_011",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Exceptionally long time horizon with mission-scale sustained attention spanning multiple presidential terms",
+      "finding": "Obama demonstrates sustained attention capacity operating at mission-scale temporal horizons. His policy persistence across eight years shows remarkable continuity: initial ACA passage (evt_001) defended throughout; Wall Street Reform (evt_002) maintained and strengthened by 2015 anniversary (evt_020); energy independence goal set 2025 (evt_004) referenced in 2016 climate address (evt_025). 'By the end of this year, we'll have cut our deficits by more than half since I took office' (ev_016) reflects decade-spanning attention. The Cancer Moonshot, announced in farewell (evt_026), represents infrastructure building beyond immediate term. This sustained attention across years suggests highly efficient WM management—maintaining goal representations over extended periods while processing intervening information. His 'Year of Action' (evt_015) represents tactical pivot within longer strategic arc, not goal abandonment, indicating adaptive persistence rather than rigidity.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_002",
+        "ev_025",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate-high adaptive updating with demonstrated framework revision when environmental feedback warrants",
+      "finding": "Obama demonstrates capacity for framework revision when evidence signals need for structural change. His acknowledgment of past trade deal failures ('I'm the first to admit,' ev_027) indicates willingness to update prior beliefs based on outcome feedback. The shift from legislative priority to executive action after Congressional obstruction ('Year of Action,' evt_015) represents significant tactical rebuild. His energy strategy explicitly rejects single-solution approaches ('Drilling alone is not a real strategy,' ev_005), preferring multi-component architectures. However, core frameworks show stability—middle-out economics (ev_021) persists across full timeline; commitment to ACA (ev_001) maintained despite repeal attempts; climate action priority unchanged from 2011 to 2016. This pattern suggests selective rebuilding on tactical/implementation levels while maintaining stable high-order goals, efficiently allocating cognitive resources to revision where feedback warrants.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_020",
+        "ev_005",
+        "ev_021",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High meta-attention with demonstrated self-monitoring of communication effectiveness and cognitive load management",
+      "finding": "Obama demonstrates sophisticated metacognitive monitoring, evident in strategic communication adaptation and explicit acknowledgment of reasoning processes. His shift from Congressional pressure to executive action suggests awareness of external feedback about legislative viability, updating strategy based on outcome patterns. The farewell address's structured inventory of accomplishments ('Top 10 Things,' ev_033; 'Christmas miracles,' ev_048) indicates working memory externalization—using organized frameworks to manage complex self-assessment rather than relying on unassisted recall. His recognition of personal growth from citizen interactions ('Every day, I learned from you,' ev_044) reveals meta-awareness of how external input refines internal models. His acknowledgment of uncertainty ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027) shows capacity to identify and verbalize knowledge limits. This metacognitive suite—monitoring, externalizing, updating—supports efficient cognitive resource allocation under high presidential demands.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_033",
+        "ev_048",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cognitive_load_distribution_across_policy_domains",
+      "definition": "Obama demonstrates an unusual capacity to maintain high-quality information processing across multiple concurrent policy streams (domestic economics, foreign policy, social issues, military) without observed degradation in any domain. This emergent dimension addresses whether WM capacity generalizes across domains or is domain-specific, and how he manages competing cognitive demands across policy areas.",
+      "finding": "Analysis of the timeline reveals Obama maintaining consistent information-processing quality across economic policy (jobs statistics, tax policy), regulatory reform (Dodd-Frank implementation), foreign relations (Iran deal, climate agreements, Cuba normalization), military affairs (veterans employment, Afghanistan transition, Memorial Day addresses), and social issues (same-sex marriage, healthcare). His speeches on veterans (evt_007), military families (evt_024), energy (evt_004), and trade (evt_021) show equivalent analytical rigor and factual precision. This cross-domain competence suggests either exceptional WM capacity or highly effective cognitive offloading strategies (structured external systems, specialized teams). The Cancer Moonshot (evt_026) adds healthcare/medical research to active domains without apparent performance decline in others, supporting the 'distributed cognitive architecture' interpretation.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_024",
+        "ev_004",
+        "ev_021",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "information_chunking_and_temporal_organization",
+      "definition": "Obama appears to organize information into meaningful temporal chunks—framing events as narrative arcs (campaign periods, legislative phases, term segments) rather than treating each moment as isolated. This emergent dimension addresses how he structures perception of time and organizes incoming information into meaningful historical/political narratives.",
+      "finding": "Obama's speeches reveal systematic temporal chunking: 'In fact, right now, our deficits are already falling at the fastest rate since the end of World War II' (ev_016) situates current state within historical framework; 'Pick any metric you want – America's resurgence is real' (ev_024) organizes multiple years into a coherent narrative arc; 'Five years of effort' (ev_030) explicitly labels temporal scope of TPP negotiation. His 2014-2016 period addresses consistently reference 'seven years' or 'eight years' of progress, maintaining narrative continuity. This temporal chunking reduces WM load by organizing events into meaningful groups (positive trajectory periods, obstruction periods, bipartisan success periods) rather than treating each event as independent. The pattern suggests sophisticated cognitive timeline management supporting long-horizon planning by reducing complexity of historical information.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_024",
+        "ev_030",
+        "ev_025",
+        "ev_018"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

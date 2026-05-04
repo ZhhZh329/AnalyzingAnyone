@@ -1,0 +1,178 @@
+{
+  "discipline": "philosophy",
+  "lens": "existentialism_sartre",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Situated agency: acts as world-shaper within acknowledged structural constraints rather than pure structural responder",
+      "finding": "Obama consistently asserts radical freedom in action (executive orders, veto threats, 'Year of Action' framing) while acknowledging Congressional and political constraints. In ev_015, he refuses to negotiate over debt ceiling 'full faith and credit' as a principled line he will not cross. Yet ev_008 reveals he recognizes structural obstacles ('One senator gumming up the works for the whole country'). This creates a tension Sartre would view as typical of authentic existence: neither pure freedom nor pure determinism, but 'situated freedom' where constraints are factical but never eliminate choice. Obama's pattern shows agency exercised through institutional channels—using the bully pulpit, executive action, and coalition-building—to shape possibilities within structural limits.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricism: beliefs grounded in measurable outcomes and observable metrics rather than ideological abstraction",
+      "finding": "Obama's epistemic approach consistently privileges empirical verification. In ev_024, he invites metric-picking as the test of resurgence claims. He cites specific figures: 11 million jobs over 57 months (ev_025), wind power tripled and solar thirtyfold (ev_040), $11 billion recovered for 26 million consumers (ev_028). Crucially, he demonstrates epistemic honesty by acknowledging past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This suggests pre-reflective self-awareness—he recognizes when his earlier positions didn't match reality. His beliefs are provisional and outcome-tested rather than doctrine-bound, suggesting an authentic relationship to truth-seeking.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_027",
+        "ev_040",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization: articulates systematic philosophies but always grounded in concrete examples",
+      "finding": "Obama constructs coherent policy architectures (ACA, Dodd-Frank, energy blueprint) that reveal systematic thinking. His 'middle-out' economic philosophy (ev_021) is an explicit abstraction: 'Our economy grows best not from the top-down, but from the middle-out.' Yet he never stays in abstraction—each philosophical statement connects to specific programs, jobs, or families. The 'Year of Action' (ev_015) enumerates over 20 concrete executive actions. This pattern suggests abstraction in service of practical orientation rather than pure systematization. He uses formalization as a rhetorical tool to justify concrete interventions, not as an end in itself.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_015",
+        "ev_001",
+        "ev_013"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong systemic control: actively seeks to shape institutional systems and regulatory frameworks",
+      "finding": "Obama displays clear orientation toward institutional control and systemic design. He prioritized structural reforms—ACA for healthcare finance, Dodd-Frank for financial regulation, sequester replacement proposals for fiscal management. His executive order raising contractor minimum wage (ev_017) and 'Year of Action' framing (ev_019) reveal desire to control outcomes through institutional mechanisms. He consistently argues for rules-based systems rather than ad hoc negotiation: 'The United States of America is not a deadbeat nation' (ev_015) frames debt ceiling as systemic principle, not bargaining chip. This aligns with Sartre's recognition that freedom must be exercised within and against structures—the question is whether one builds better structures or merely patches existing ones.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_013",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing: accepts relational strain when structural goals require it, but manages conflict through non-escalatory framing",
+      "finding": "Obama openly criticizes opposition when mission demands it: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020). He issued veto threats against Wall Street reform repeal (ev_029) despite partisan cost. His 'love won' statement on same-sex marriage (ev_035) shows willingness to stake moral positions even against significant opposition. However, his conflict strategy is notably non-escalatory—he doesn't frame opponents as enemies but as having different visions. In ev_008, he says 'neither party has been blameless.' This suggests mission-priority with managed relational cost: he pursues structural goals while keeping rhetorical doors open for future cooperation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_035",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated institutional risk: pursues reform through existing structures rather than revolutionary disruption",
+      "finding": "Obama's risk posture involves systematic action within established frameworks rather than breaking structures. He acknowledges risks of existing arrangements ('We have to make sure we're not just creating more jobs, but raising middle-class wages'—ev_021) but proposes solutions through existing policy mechanisms. The Cancer Moonshot (ev_042) frames scientific progress as 'clear strategy' rather than moonshot gamble. TPP is framed as alternative to China writing rules (ev_031)—a risk-avoidance, not risk-embracing, framing. Climate action is 'something to build upon' (ev_041), emphasizing continuation over rupture. This suggests risk managed through institutional channels rather than radical experimentation.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_042",
+        "ev_031",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional pragmatist: uses hierarchical authority strategically while advocating for system reform",
+      "finding": "Obama inhabits hierarchical positions (Commander-in-Chief, legislative advocate) and uses them instrumentally. His Memorial Day address frames military hierarchy as carrying obligations: 'I have no more solemn obligation than leading our men and women in uniform' (ev_038). Yet he simultaneously critiques hierarchical dysfunction: Senate obstruction described as contrary to 'founders' intent' (ev_010). His government modernization initiative (ev_037) recruits Silicon Valley talent into federal structure—not dismantling hierarchy but importing external innovation. This suggests a Sartrean view of hierarchy as factical constraint to be used and reformed rather than either submitted to or revolutionary against.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_010",
+        "ev_037",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating negotiator: transforms conflict into technical problems with bipartisan solutions rather than suppressing or escalating",
+      "finding": "Obama's conflict strategy consistently translates partisan conflict into policy problems with cross-partisan framing. The transportation bill is 'not a Democratic or a Republican issue – it's an American issue' with AFL-CIO and Chamber of Commerce jointly backing it (ev_008). He names obstruction but frames it as procedural failure, not moral failing. When direct negotiation fails, he translates to executive action ('Year of Action'). His debt ceiling position refuses negotiation categorically (ev_015) yet maintains rhetorical framing about America's identity, not partisan conflict. This is neither suppression (accepting bad-faith compromise) nor escalation (personalizing conflict) but a distinctive translating strategy that keeps conflict in problem-solving register.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural: optimizes for generational and institutional timescales rather than electoral cycles",
+      "finding": "Obama consistently invokes long-term horizons. The energy blueprint targets 2025 (evt_004); Afghanistan transition targets 2014 (evt_010); climate frameworks invoke Paris agreement as something to 'build upon' for 'our children' (ev_041). HisACA extended Medicare solvency by 12 years (ev_002). The farewell address frames his remaining years as citizen working alongside others 'for all my days that remain' (ev_047). This temporal orientation suggests projection beyond immediate political cycles toward structural durability. He thinks in terms of institutional legacy and generational outcomes, not just electoral success.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_047",
+        "evt_004",
+        "evt_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural rebuilder: consistently proposes systemic redesign over incremental adjustment",
+      "finding": "Obama's policy portfolio demonstrates preference for structural redesign. ACA restructured healthcare finance systemically, not patchily. Dodd-Frank rebuilt financial regulation architecture. His 'Year of Action' framing implied systematic executive repositioning. TPP represented new trade architecture, not marginal adjustment. The Cancer Moonshot created cross-agency task forces (ev_043) rather than incremental research grants. Even the budget sequester battle was framed as replacing 'meat cleaver' cuts with 'balanced' systemic reform (ev_013, ev_014). He interprets opposition as requiring more fundamental solutions, not compromise patches—a coherent pattern of structural over incremental thinking.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_019",
+        "ev_043",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: demonstrates sophisticated self-monitoring and acknowledgment of cognitive and positional limits",
+      "finding": "The farewell address reveals remarkable metacognitive achievement: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledges his position as shaped by others' input, not self-generated wisdom. His trade policy self-critique—'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—shows capacity to recognize his own prior errors. He explicitly credits American people for accomplishments: 'All of this progress is because of you' (ev_032). This suggests ongoing self-monitoring that prevents bad faith: he doesn't claim infallibility or hide behind institutional role. He maintains Sartrean authenticity by acknowledging his situatedness and limits.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "foundational_faith_in_collective_agency",
+      "definition": "A fundamental ontological commitment to the capacity and right of ordinary people to shape their collective destiny through democratic participation. This goes beyond instrumental mobilization to an existential claim about human dignity and capability.",
+      "finding": "Obama's entire political existence presupposes this. In ev_036, he articulates: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges.' The farewell address attributes all accomplishments to 'the American people' (ev_032, ev_044). Even personal fatherhood reflections (ev_006) connect individual experience to broader civic participation. This is not mere rhetorical framing but a foundational existential commitment: humans are condemned to collective freedom and capable of it. Sartre would see this as authentic engagement with the human condition.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_032",
+        "ev_044",
+        "ev_006",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "responsible_freedom_under_constraint",
+      "definition": "The capacity to hold simultaneously: (1) full responsibility for outcomes one could influence, while (2) honest acknowledgment of structural constraints limiting one's freedom. This avoids both bad faith excuses and naive overestimation of agency.",
+      "finding": "Obama repeatedly demonstrates this balance. He takes responsibility for deficit reduction ('My preference... is to do that in a balanced way'—ev_013) while noting deficits were already falling at historic rates (ev_016)—acknowledging inherited context. He credits auto industry rescue (ev_022) but attributes subsequent recovery to American workers. He calls for sustained civic engagement 'over the full span of a lifetime' (ev_046) beyond his own presidency—accepting his role will diminish while affirming the project continues. This Sartrean stance—neither pure freedom nor pure determinism—suggests sophisticated existential maturity.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_016",
+        "ev_022",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

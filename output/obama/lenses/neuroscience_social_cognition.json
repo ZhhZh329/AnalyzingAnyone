@@ -1,0 +1,168 @@
+{
+  "discipline": "neuroscience",
+  "lens": "social_cognition",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama systematically pursued transformative policy agendas rather than primarily reacting to political circumstances",
+      "finding": "Obama demonstrated consistent world-shaping behavior across his presidency, using executive orders, strategic legislative negotiations, and international agreements to reshape economic, healthcare, and energy systems. His 'Year of Action' initiative (ev_019) exemplifies active agenda-setting rather than reactive governance. He pursued structural reforms like the ACA, Dodd-Frank, and TPP—policy frameworks designed to institutionalize changes across decades. His willingness to draw lines on core principles (debt ceiling in ev_015, Wall Street Reform in ev_029) suggests agency orientation extends to protecting newly created structures. This pattern indicates high perceived self-efficacy in shaping political and institutional outcomes.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_029",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-anchored belief formation with pluralistic source integration; consults diverse stakeholders before forming positions",
+      "finding": "Obama's rhetoric consistently demonstrates reliance on empirical data (deficit trajectories in ev_016, job creation numbers in ev_025, consumer recovery figures in ev_028) while also showing awareness that evidence alone is insufficient for political persuasion. His strategic coalition-building—bringing together AFL-CIO and Chamber of Commerce (ev_008)—suggests belief formation that integrates economic research with political feasibility assessments. His nuanced position on trade deals, acknowledging past failures while advocating TPP (ev_027), indicates epistemic humility: updating beliefs based on experience while maintaining forward orientation. This style is characteristic of high social cognition: integrating quantitative and qualitative inputs from diverse stakeholder groups.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_016",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with ability to translate complex policy into accessible frameworks; uses conceptual schemas without losing human grounding",
+      "finding": "Obama demonstrated sophisticated abstract reasoning in articulating 'middle-out' economic philosophy (ev_021), distinguishing between drilling alone vs. comprehensive energy strategy (ev_005), and framing TPP as geopolitical rule-setting rather than mere trade optimization (ev_031). Crucially, his abstraction does not displace human-centered framing—Medicare is 'a commitment to America's seniors' (ev_001), sequester impacts are 'parents,' 'seniors,' 'military families' (ev_014). This balance between systemic abstraction and human narrative suggests strong prefrontal capacity for formal reasoning while maintaining emotional resonance. His government modernization initiative (ev_037) shows comfort with institutional design abstraction.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_005",
+        "ev_021",
+        "ev_031",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control orientation; uses institutional authority strategically but demonstrates constraint awareness",
+      "finding": "Obama displayed control orientation primarily through institutional mechanisms rather than personal dominance. His executive actions on minimum wage (ev_017) and the 'Year of Action' (ev_019) show comfort with unilateral institutional action when legislative channels fail. However, his debt ceiling stance—refusing to negotiate while framing the issue as systemic responsibility (ev_015)—suggests control oriented toward protecting institutional integrity rather than personal political gain. The Cancer Moonshot initiative (ev_042) demonstrates task-oriented coordination across agencies. His control orientation appears calibrated: assertive on core commitments, collaborative on implementation details. This pattern suggests strong prefrontal regulatory control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with sophisticated relational awareness; willing to absorb political costs but avoids unnecessary conflict",
+      "finding": "Obama's public criticism of Republican obstruction (ev_020) and veto commitments (ev_029) demonstrate willingness to incur relational costs when core policies are at stake. His 'Year of Action' framing explicitly positions him against Congressional Republicans, accepting adversarial relationship as mission cost. However, his repeated bipartisan framing (ev_008) and 'Christmas miracles' celebration of Congressional cooperation (ev_048) suggest relational awareness—maintaining pathways even while disagreeing. The father's day address (ev_006, ev_007) reveals personal capacity for relational investment that may humanize his political persona. This suggests mission orientation moderated by awareness that relationship infrastructure enables future cooperation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_048",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking anchored in empirical confidence; demonstrates tolerance for political risk when policy evidence is strong",
+      "finding": "Obama showed risk tolerance most clearly in institutional standoffs—his refusal to negotiate on debt ceiling (ev_015) positioned him against conventional political wisdom that 'never negotiate' is risky. His energy strategy (ev_004) involves long-term investments with uncertain immediate returns. His deficit reduction approach—advocating both spending cuts and revenue measures (ev_013)—represents political risk in current polarized environment. However, his risk posture appears calibrated to evidence strength: he cites verifiable data (deficits falling, job creation, consumer recovery) to support risk tolerance. This suggests healthy risk calibration: accepting political risk when empirical foundations are solid.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_016",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated power navigation; uses hierarchical authority strategically while emphasizing systemic legitimacy over personal authority",
+      "finding": "Obama demonstrated nuanced power orientation by positioning himself as institutional steward rather than personal authority wielder. His distinction between war on al-Qaeda vs. Islam (ev_012) emphasizes system legitimacy over executive discretion. His CFPB framing (ev_028) emphasizes independent institutional protection rather than presidential control. The veteran's hiring challenge (ev_009) shows comfort distributing authority to private sector while maintaining public sector leadership. His farewell address framing (ev_046) explicitly contextualizes power as delegated trust. This suggests sophisticated power literacy: understanding when to centralize (executive actions) vs. distribute (coalition building, institutional design).",
+      "evidence_ids": [
+        "ev_012",
+        "ev_028",
+        "ev_009",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-tolerant negotiation with principled line-drawing; prefers translation but escalates when institutional integrity threatened",
+      "finding": "Obama's conflict strategy shows preference for translation—framing issues in terms broad enough to span partisan divides (ev_008: 'not Democratic or Republican issue'), appealing to shared American values (ev_004). However, when core institutional commitments face threat, he demonstrates willingness to escalate: definitive veto commitments on Wall Street Reform (ev_029), absolute refusal on debt ceiling negotiation (ev_015). His critique of Senate obstruction (ev_010) shows he can name conflict explicitly when procedural norms are violated. This suggests conflict strategy calibrated to conflict type: collaborative on policy substance, assertive on institutional integrity. High perspective-taking enables this differentiation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term orientation; optimizes for decade-scale outcomes while maintaining near-term political viability",
+      "finding": "Obama's policy portfolio demonstrates consistent long-term optimization: energy strategy targeting 2025 (ev_004), Afghanistan transition through 2014 (ev_010), workforce training agenda (ev_016), climate framework for intergenerational impact (ev_041). His Cancer Moonshot (ev_042, ev_043) explicitly frames outcomes in generational terms. Even his trade strategy (TPP as 5-year negotiation) and economic policies target structural changes with decades-long horizons. This long-term orientation is paired with tactical pragmatism—executive actions when legislative timelines fail, accepting incremental progress when comprehensive reform blocked. This suggests sophisticated temporal discounting: accepting near-term costs for long-term gains.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_010",
+        "ev_016",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign; demonstrated repeatedly through comprehensive legislative frameworks over incremental adjustments",
+      "finding": "Obama consistently pursued structural reforms over incremental approaches: ACA as comprehensive healthcare system redesign, Dodd-Frank as comprehensive financial regulatory overhaul, TPP as comprehensive trade architecture. When structural approaches were blocked (minimum wage legislation), he pivoted to executive orders implementing parallel structures (ev_017, ev_019). His 'middle-out' economic philosophy (ev_021) is explicitly structural—targeting systemic dynamics rather than individual interventions. The sequester battles show preference for comprehensive balanced approaches (ev_013, ev_012) over arbitrary cuts. This suggests strong orientation toward institutional redesign when systemic problems are diagnosed.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_012",
+        "ev_017",
+        "ev_021",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High social metacognition; demonstrates awareness of persuasion dynamics, audience adaptation, and own reasoning limitations",
+      "finding": "Obama's rhetorical style shows consistent meta-awareness of communication effectiveness. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates epistemic self-awareness about his own prior judgments. His government modernization initiative (ev_037) explicitly asks external experts to identify blind spots in federal operations. His call for civic participation beyond elections (ev_046) reflects meta-awareness about limits of electoral engagement. His farewell address—attributing accomplishments to American people rather than self (ev_032, ev_044)—shows self-positioning awareness. However, evidence of active cognitive adjustment during decision-making is limited to public rhetoric; private metacognitive processes remain inferential.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "empathic_perspective_capacity_adversarial_context",
+      "definition": "The capacity to accurately model and account for opponent viewpoints while maintaining own position integrity—distinct from general perspective-taking because it operates in zero-sum contexts where accurate opponent modeling is politically costly",
+      "finding": "Obama's pattern suggests sophisticated adversarial empathy: accurately understanding Republican positions on deficits, trade, and regulatory reform while publicly opposing those positions. His framing of bipartisan budget deal as 'Christmas miracle' (ev_048) demonstrates capacity to celebrate opponents' contributions without compromising own stance. This capacity appears distinct from cooperative perspective-taking because it requires maintaining distance while achieving accurate representation—potentially supported by specific neural mechanisms for competitive social cognition that differ from affiliative mentalizing.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "empathy_operationalized_into_institutional_design",
+      "definition": "Translating empathic concern for vulnerable populations into durable institutional structures rather than personal charitable acts—the capacity to encode empathic response into policy architecture",
+      "finding": "Obama's emphatic framing of Head Start cuts, senior isolation, military family strain (ev_014) consistently translates into structural solutions: CFPB institutional design (ev_028) for consumer protection, ACA Medicare expansion (ev_001, ev_002) for senior security, veteran hiring infrastructure (ev_009) for post-9/11 service members. This suggests a specific cognitive pattern where empathic resonance triggers not personal helping behavior but institutional redesign impulses—potentially mediated by prefrontal systems enabling abstract representation of affective states as system requirements.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_028",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

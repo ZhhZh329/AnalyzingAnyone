@@ -1,0 +1,190 @@
+{
+  "discipline": "philosophy",
+  "lens": "confucianism_mengzi",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation combined with deliberate attribution of outcomes to collective effort—moral agency as shared rather than personal",
+      "finding": "Obama's speeches consistently position him as someone who shapes outcomes through available means—executive actions when Congress blocks legislation, executive orders on minimum wage for federal contractors, pushing for trade agreements that write global rules. Yet his farewell address exemplifies a distinctive Mencian quality: 'You made me a better President, and you made me a better man' (ev_044), crediting citizens with keeping him 'honest, kept me inspired, and kept me going.' This suggests a world-shaper who recognizes his agency as emergent from collective participation rather than self-generated. His belief that 'our founders trusted us with the keys to this system of self-government' (ev_036) reflects the Confucian conviction that governance is a shared moral enterprise. The dual quality—acting decisively while attributing success to others—maps onto Mencius's understanding of the junzi as one who develops moral power through alignment with the people.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded belief formation paired with moral confidence that transcends pure empiricism",
+      "finding": "Obama's speeches reveal a distinctive epistemic pattern: heavy reliance on statistics and concrete data (11 million jobs created, 2.5 million in 2015 alone, 26 million consumers recovering $11 billion through CFPB, wind power tripled, solar 30x) but always framed within moral narratives. He says 'Pick any metric you want – America's resurgence is real' (ev_024), demonstrating empirical grounding. Yet his conviction on issues like consumer protection or debt ceiling refusal operates as moral knowledge beyond calculation. The statement 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) represents ethical clarity that doesn't require empirical proof. This matches Mencius's prioritization of moral intuition ('不虑而知') over instrumental reasoning. His 'middle-out' economic philosophy (ev_021) is presented as self-evident truth ('We do better when the middle class does better'), showing how empirical patterns become moral convictions.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_021",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate—prefers concrete narrative and lived examples over abstract formalization, with systematic thinking emerging through policy domains",
+      "finding": "Obama's speeches are notably story-driven rather than principle-driven. He uses specific examples—'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on programs like Meals on Wheels,' 'military communities – families that have already sacrificed enough' (ev_014)—rather than abstract welfare economics. The Father's Day address includes the personal detail of coaching his daughter's basketball team (ev_007). This aligns with Mencius's own method of using parables (孺子入井, 揠苗助长) over systematic argumentation. However, his positions do reflect coherent systems: the 'Year of Action' encompassed 20 executive actions across jobs, wages, and opportunity (ev_019). The 'Top 10 Things' address demonstrates organizational systematization. His energy blueprint combined domestic drilling, fuel efficiency, and clean energy into integrated strategy (evt_004). This suggests abstraction capability present but subordinated to narrative accessibility—a leader who systematizes internally but communicates through concrete stories.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_007",
+        "ev_019",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate—theatrical constraint within inherited system rather than pursuit of comprehensive control; works within structures while maximizing available influence",
+      "finding": "Obama's control orientation reflects Confucian political philosophy: he maximizes available means within legitimate structures rather than seeking fundamental transformation. When Congress blocks minimum wage, equal pay, and unemployment insurance extension, he responds with executive actions on federal contractors (ev_017, ev_019) and calls for Congressional action (ev_018)—working within the system rather than against it. His veto threat on Wall Street Reform repeal (ev_029) represents clear defensive control on core policy. He shows sophisticated understanding of limits: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), suggesting realistic assessment of what political action can achieve. This matches the Mencian principle of '穷则独善其身，达则兼善天下'—adjusting influence strategy to circumstances. He doesn't attempt to control what cannot be controlled (Congressional obstruction) but exercises full authority where he has it (executive orders, veto power).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_018",
+        "ev_019",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission takes clear priority when core principles at stake, with willingness to absorb significant political friction",
+      "finding": "The evidence shows a consistent pattern of mission prioritization over relational comfort. Obama's refusal to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States'—ev_015) represents the clearest example: a position that guaranteed political confrontation with Congressional Republicans. His 'Year of Action' speech directly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea to create jobs'—ev_020), accepting high relational cost. The veto threat on Wall Street Reform repeal (ev_029) similarly prioritizes consumer protection over bipartisan goodwill. However, this is not indiscriminate—his call for bipartisan transportation funding brought together 'AFL-CIO and the Chamber of Commerce' (ev_008), seeking coalition where possible. The pattern suggests Mencian '义' (righteousness) driving confrontation on principle while pursuing cooperation on implementation. Mission costs are accepted; relational damage is not avoided but also not sought for its own sake.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker on matters of principle, risk-averse on core national commitments; uses risk framing strategically to mobilize action",
+      "finding": "Obama's risk posture splits across domains in revealing patterns. On matters of national credit and core governance, risk is categorically refused: 'The United States of America is not a deadbeat nation... Doing anything to threaten that is the height of irresponsibility' (ev_015). This represents Mencian moral clarity—some positions are non-negotiable regardless of cost. On policy innovation, he accepts risk: the auto industry bailout (ev_022) was politically contested but defended as necessary intervention. Trade agreements (TPP) are framed as risk of letting China write rules vs. risk of imperfect deals (ev_031). Climate action is presented with urgency but framed as generational responsibility rather than immediate crisis (ev_041). The Cancer Moonshot (ev_042-ev_043) shows experimental approach with technology-driven solutions. His risk calculus appears to follow Mencian principle: moral obligations (protect national credit, expand healthcare, protect consumers) warrant risk acceptance, while tactical disagreements are handled through persuasion rather than confrontation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_022",
+        "ev_031",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Principled institutionalism—respects legitimate authority but maintains clear moral boundaries; uses power in service of protection for vulnerable",
+      "finding": "Obama's relationship to hierarchy and power reveals Confucian characteristics. He operates within legitimate institutional channels (executive orders, Congressional lobbying, judicial enforcement) rather than circumventing authority. The veto threat on Wall Street Reform repeal demonstrates willingness to use Presidential power to protect what he considers right. However, his criticism of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'—ev_010) shows willingness to challenge institutional dysfunction when it violates perceived constitutional intent. His emphasis on consumer protection through CFPB (ev_028), support for veterans (ev_009, ev_038), and concern for Gold Star families (ev_039) reflects Mencian concern for the vulnerable. The father's day address' personal vulnerability (admitting absent father, coaching daughter's team—ev_006, ev_007) humanizes power rather than deifying it. This aligns with Mencian principle that legitimate power serves the people ('民为贵'), though expressed less radically than classical formulation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_010",
+        "ev_028",
+        "ev_009",
+        "ev_038",
+        "ev_039",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation through moral framing—'translate' style that reframes political conflict as ethical principle; avoids personal combat while maintaining position clarity",
+      "finding": "Obama's conflict strategy reflects Mencian '辩' (debate) without combative aggression. '予岂好辩哉？予不得已也'—he engages because moral truth requires clarification. When confronting Congressional obstruction, he frames it as principled disagreement: 'Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class' (ev_020)—direct but not personal. His critique of Senate delays ('One senator gumming up the works'—ev_010) indicts process without vilifying individuals. The debt ceiling refusal (ev_015) shows willingness to hold firm on principle while remaining open to 'balanced' solutions on other issues. He translates political conflict into moral categories: Wall Street Reform is about protecting 'everyone competes on a level playing field' (ev_003); minimum wage is about 'opportunity for all' (ev_018); climate action is about 'leaving a better, cleaner, safer future for our children' (ev_041). This represents sophisticated 'translation' of conflict into moral education. He avoids character assassination, focuses on policy principles, and maintains rhetorical dignity even in confrontation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_003",
+        "ev_018",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale temporal orientation—short-term responsiveness to immediate crises combined with long-term investment in structural change and generational legacy",
+      "finding": "Obama's time horizon reveals sophisticated temporal management. Immediate crises receive urgent attention: transportation funding in 7 days, student loan rates doubling in 8 days (ev_011); sequester warnings issued before deadlines (ev_011-ev_012); budget negotiations addressed before shutdowns (ev_013). Yet this operates within longer frameworks: the 'Blueprint for a Secure Energy Future' targets 2025 (evt_004); climate commitments look toward Paris agreement implementation and beyond (ev_040-ev_041); education reform prepares students for 'college and their future careers' (ev_048). His farewell address ('Eight years later, I am even more optimistic about our country's promise'—ev_047) reflects developmental perspective on his own leadership. The 'resurgence is real' narrative (ev_024) connects past struggles to present recovery to future opportunity. This multi-scale horizon reflects Mencian patience—'揠苗助长' warnings imply understanding that moral and political progress requires sustained cultivation over time, not instant transformation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "evt_004",
+        "ev_040",
+        "ev_041",
+        "ev_048",
+        "ev_024",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair—pursued comprehensive reform in healthcare, financial regulation, and energy",
+      "finding": "Obama's record reveals structural reformer tendencies. The ACA ('Patient Protection and Affordable Care Act') represented fundamental healthcare system redesign, not补丁—extending Medicare solvency by 12+ years, establishing health insurance marketplaces, expanding coverage to millions (ev_002). Dodd-Frank ('Wall Street Reform') created comprehensive financial regulatory architecture: consumer protections, ending 'too big to fail,' establishing CFPB with recovered $11 billion for consumers (ev_028). The energy blueprint combines domestic drilling, fuel efficiency standards, and clean energy investment into integrated strategy (evt_004). The Cancer Moonshot created cross-agency task force with technology partnerships (ev_042-ev_043), not incremental research grants. His articulation of 'middle-out' economics represents system-level theory, not policy补丁. Even 'Year of Action' executive orders represent structural approach within executive constraints. This matches Mencian 'rebuild' philosophy: '学问之道无他，求其放心而已矣' suggests returning to foundations rather than surface fixes. Obama seeks to address root causes: financial system reform vs. crisis response, healthcare access vs. insurance补丁, clean energy vs. drilling-only.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "evt_004",
+        "ev_042",
+        "ev_043",
+        "ev_021",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness—demonstrates reflection on moral reasoning, acknowledges limitations, credits external input, revises positions when evidence warrants",
+      "finding": "Obama shows notable metacognitive qualities through the evidence. His farewell address reflects on learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—recognizing his own development through external input. Acknowledging limitations on trade policy: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) demonstrates awareness that prior positions were imperfect. He credits collective action for progress: 'It's you—the American people. All of this progress is because of you' (ev_032), attributing outcomes to distributed causation rather than personal brilliance. The father's day vulnerability (ev_006) shows willingness to reveal personal limitations—growing up without a father, feeling his absence. His continued optimism despite obstacles ('I am even more optimistic'—ev_047) suggests reflective engagement with his own emotional states. This aligns with Mencian emphasis on '思' as essential function of the moral self: '心之官则思，思则得之，不思则不得也.' Obama demonstrates active monitoring and adjustment of his moral reasoning rather than rigid adherence to initial positions.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_006",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "仁民之心 (Ren toward the People)",
+      "definition": "The Four Sprouts extended beyond immediate circles to encompass broad populations: seniors, veterans, children, cancer patients, workers. Obama demonstrates the Mencian capacity to feel the pain of strangers through policy-mediated compassion. This differs from mere empathy—it involves systematic moral attention to the vulnerable across multiple domains simultaneously.",
+      "finding": "The evidence demonstrates sustained moral attention to vulnerable populations across different policy domains. Seniors receive Medicare protection ('a commitment to America's seniors'—ev_001). Veterans receive hiring initiatives (120,000 hired, challenge to private sector for 100,000 more—ev_009). Children in Head Start face cut consequences (ev_014). Cancer survivors receive affordable healthcare (ev_045). Workers receive minimum wage advocacy. This comprehensive concern for the vulnerable—elders, veterans, children, patients, workers—reflects expansion of 仁 (benevolence) to '天下' scale, not just family or nation. It differs from paternalistic charity because it emphasizes rights and dignity: 'the freedom to marry is now the law' (ev_035), 'everybody competes on a level playing field' (ev_003).",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_014",
+        "ev_045",
+        "ev_035",
+        "ev_003"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "义者不惧 (Righteous Without Fear)",
+      "definition": "The specific moral courage demonstrated when core principles are at stake—the willingness to absorb political costs for what is perceived as right. This is the political manifestation of 浩然之气: courage that flows from moral conviction rather than personality or ambition.",
+      "finding": "Three instances reveal this quality: (1) Debt ceiling refusal: 'I will not negotiate over the full faith and credit of the United States' (ev_015)—accepting guaranteed Congressional confrontation. (2) Veto threat on Wall Street Reform: 'And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029)—defending consumer protections against financial industry repeal efforts. (3) Direct Congressional criticism in 'Year of Action': 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020)—accepting partisan friction for policy position. These are not aggressive moves but protective ones: defending what has been built, protecting those who cannot protect themselves, maintaining national credit. The courage is proportional to the stakes and inversely proportional to personal advantage—exactly the pattern Mencius would recognize as emerging from moral qi rather than personal ambition.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism",
+      "Institutionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

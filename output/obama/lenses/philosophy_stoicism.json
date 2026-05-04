@@ -1,0 +1,183 @@
+{
+  "discipline": "philosophy",
+  "lens": "stoicism",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Balanced world-shaper who recognizes structural constraints rather than pure autonomy",
+      "finding": "Obama consistently worked to shape outcomes through available means - executive actions, international agreements, and public appeals - while simultaneously acknowledging the limits of his agency. He demonstrated Stoic awareness that he could not control Congressional behavior, only his own responses to it. When legislative paths closed, he pivoted to executive actions (ev_017, ev_019), showing the Stoic practice of focusing energy on what remains controllable rather than lamenting what cannot be changed. His frequent calls for bipartisan cooperation (ev_008) reveal understanding that sustainable change requires structures beyond his personal reach, representing not weakness but wisdom about systemic constraints.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Qualified, humble epistemology that tests impressions before accepting them",
+      "finding": "Obama consistently demonstrated the Stoic practice of 'testing impressions' (probaticē). His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows epistemic humility rare in political figures. He qualified economic claims with appropriate uncertainty and attributed success to collective action ('because of workers rolling up their sleeves') rather than personal genius. This suggests not merely rhetorical modesty but genuine acknowledgment that outcomes depend on factors beyond any individual's control - a core Stoic recognition that we can control our judgments but not the world itself. His framing of America's resurgence as 'real' (ev_024, ev_047) while maintaining openness to ongoing challenges shows calibrated confidence rather than either naïve optimism or paralyzing doubt.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for abstract principle coupled with practical implementation",
+      "finding": "Obama demonstrated strong abstraction ability in articulating principles like 'middle-out' economics (ev_021), 'opportunity for all' (ev_018), and the moral commitment to seniors (ev_001), while simultaneously translating these into specific legislative frameworks, regulatory structures, and executive orders. This bridges the theoretical-practical divide that Stoicism values - not empty abstraction but principles that order action. His comprehensive reforms (ACA, Dodd-Frank) show systematic thinking rather than ad hoc responses, and his defense of these as interconnected systems rather than isolated policies reveals sophisticated formalization. The Stoic would note: he sought not merely to patch problems but to restructure underlying patterns.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_018",
+        "ev_021",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Clear Stoic understanding of dichotomy between controllable and uncontrollable domains",
+      "finding": "Obama's behavior throughout his presidency demonstrates sophisticated internalization of control二分法. He focused consistently on what he could control: executive orders, regulatory implementation, international negotiations, and public communication. The clearest evidence is his stance on the debt ceiling: 'I will not negotiate over the full faith and credit of the United States' (ev_015) - he recognized that yielding to extortion would surrender his only effective leverage and establish a dangerous precedent beyond any single negotiation. This reveals understanding that some responses to uncontrollable events ( Congressional obstruction) are themselves within his control and carry consequences for future situations. His 'Year of Action' (ev_015, ev_019) represents redirecting energy from blocked legislative channels to available executive mechanisms - classic Stoic adaptation to circumstances.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven but with significant attention to collective framing and relational sustainability",
+      "finding": "Obama's presidency shows tension between clear mission priorities (ACA passage, economic recovery, climate action, veterans' welfare) and relational/collective framing that seeks to depoliticize shared concerns. His mission commitments are evident in his 'Year of Action' framing and willingness to use veto threats (ev_029). However, he consistently avoided purely partisan rhetoric - repeatedly stating 'This isn't a Democratic or a Republican issue' (ev_008), attributing accomplishments to 'the American people' (ev_032), and framing shared challenges rather than victory over opponents. The Stoic interpretation: he understood that relational damage undermines the very community health he was trying to promote. His emphasis on civic participation beyond elections (ev_046) suggests awareness that sustainable change requires ongoing collective investment rather than one-time legislative victories - the Stoic recognition that virtue requires habituation across time, not single acts.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_032",
+        "ev_044",
+        "ev_046",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking based on moral conviction rather than outcome attachment",
+      "finding": "Obama demonstrated high tolerance for political risk when convinced of right action, pursued ACA knowing it would face opposition, took on Wall Street through Dodd-Frank, committed to Paris climate agreement, and entered TPP negotiations - all significant gambles with uncertain outcomes. The Stoic reading: these risks were taken not for personal benefit but for perceived duty (enforced labor standards globally, consumer protections domestically, climate action internationally). Crucially, he showed flexibility when initial strategies failed - pivoting to executive actions when legislation stalled, adjusting approaches while maintaining core commitments. This reflects the Stoic understanding that while we cannot control outcomes, we bear responsibility for choosing virtuous actions; outcomes depend on factors beyond our control, but the quality of our choices remains within our grasp.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_026",
+        "ev_030",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Relatively non-hierarchical orientation that tempers authority with democratic and cosmopolitan framing",
+      "finding": "Obama's rhetoric consistently frames power as delegated rather than owned - 'our founders trusted us with the keys' (ev_036), 'because of workers rolling up their sleeves' (ev_032), 'you made me a better President' (ev_044). Rather than commanding from hierarchical position, he positioned himself as executor of collective will and steward of shared institutions. His emphasis on government as 'best tool we've got to settle our differences and solve our collective challenges' (ev_036) reflects a Stoic-cosmopolitan view: the political community exists to serve rational beings in coordinating their collective affairs. His attention to vulnerable populations (ev_014: Head Start, seniors, military families) reveals the Stoic virtue of justice - the recognition that rational beings deserve treatment as ends, not merely means, and that the least advantaged require particular attention.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_036",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferring translation and reframing over direct escalation when possible, but capable of clear confrontation when principles at stake",
+      "finding": "Obama's default conflict strategy shows Stoic influence: preferring to reframe disagreements as shared challenges rather than partisan battles ('not a Democratic or Republican issue' - ev_008). However, when core principles faced threatened violation, he demonstrated willingness to draw clear lines - refusing debt ceiling negotiation (ev_015), issuing veto threats against Wall Street Reform repeal (ev_029), and distinguishing war on al-Qaeda from war on Islam (ev_012). This reflects the Stoic understanding that justice sometimes requires confrontation; one cannot be so concerned with relational harmony that fundamental commitments are sacrificed. His 'translation' strategy - converting partisan disputes into questions of national interest, shared values, or practical necessity - represents attempt to expand perceived zones of agreement rather than simply escalating conflict.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_012",
+        "ev_015",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term and legacy orientation consistent with memento mori awareness",
+      "finding": "Obama consistently framed accomplishments and failures within long time horizons - 'decades-long erosion of middle-class jobs' (ev_018), energy security goals extending to 2025 (evt_004), climate frameworks for future generations (ev_041). His farewell address explicitly reflects on 'what remains' (ev_047) and frames remaining life in terms of continued civic contribution rather than withdrawal. The Cancer Moonshot initiative (ev_042, ev_043) demonstrates commitment to problems whose solutions may extend well beyond any individual's tenure. This temporal orientation - concern for what will outlast one's current role - reflects Stoic memento mori consciousness: awareness that one's time is limited and that rational beings have obligation to improve conditions for those who follow. His emphasis on sustained civic engagement 'over the full span of a lifetime' (ev_046) beyond elections suggests understanding that virtue requires ongoing practice, not episodic heroism.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural solutions with pragmatic patching when full rebuild unavailable",
+      "finding": "Obama's major policy initiatives show clear preference for comprehensive restructuring over incremental repair: ACA as complete healthcare system reform, Dodd-Frank as comprehensive financial regulation redesign, TPP as comprehensive trade framework, Paris Agreement as global climate architecture. These represent attempts at fundamental redesign of systems rather than localized fixes. However, his approach to the sequester (ev_011, ev_012, ev_014) shows pragmatic willingness to address symptoms when full structural solutions blocked - documenting real human costs, seeking temporary fixes where permanent solutions unavailable. The Stoic reading: this reflects wisdom about the difference between ideal and possible; the Stoic sage adapts to circumstances while maintaining orientation toward virtue. His pivot to executive actions when legislation failed represents similar pragmatism - seeking partial systemic changes where comprehensive ones blocked, rather than abandoning effort entirely.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_014",
+        "ev_017",
+        "ev_019",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through self-correction, perspective-taking, and awareness of cognitive limits",
+      "finding": "Obama demonstrates strong metacognitive capacity through multiple patterns. First, epistemic humility evident in self-correction: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). Second, explicit learning acknowledgment: 'Every day, I learned from you. You made me a better President' (ev_044) - capacity for external calibration and recognition that his own perspective required supplementation. Third, emotional regulation patterns: despite significant frustration with Congressional obstruction, his rhetoric maintained constructive framing rather than reactive anger - the Stoic discipline of inserting space between impression and response. Fourth, strategic self-awareness demonstrated through varying rhetorical approaches across different audiences and challenges. The farewell address's reflective quality - assessing what he learned, acknowledging limitations, framing future role with appropriate humility - suggests genuine prosoche (attentional awareness) rather than performed humility. He appears to actively monitor his own judgments and adjust reasoning based on feedback, consistent with Stoic meditative practices like Marcus Aurelius's self-examination in Meditations.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Tranquillitas animi under political adversity",
+      "definition": "Stoic emotional equilibrium (tranquillitas) maintained through sustained institutional opposition and personal frustration - the capacity to act vigorously without becoming agitated",
+      "finding": "Obama demonstrates remarkable Stoic emotional regulation throughout his presidency. Facing systematic Congressional obstruction - blocked nominations, rejected legislation, manufactured crises (sequester, debt ceiling, government shutdown) - his rhetoric never descends to personal vitriol or despair. He frames setbacks in constructive terms, maintains confidence in eventual progress ('I'm absolutely confident we will get there' - ev_004), and pivots to available alternatives when initial approaches blocked. This tranquil response to significant adversity distinguishes genuine Stoic practice from mere philosophical posturing. The Stoic would note: he preserved the 'inner citadel' even under sustained political attack - not through emotional suppression but through genuine equanimity that allowed continued effective action.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_012",
+        "ev_014",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Cosmopolitan duty consciousness",
+      "definition": "Awareness of obligations extending beyond national boundaries to global human community - duty derived from rational nature shared across humanity",
+      "finding": "Obama's TPP framing explicitly invokes universal obligations: 'Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy' (ev_031). His defense of Paris climate agreement emphasizes global stewardship: 'America's global leadership on climate change' (ev_034), framing environmental responsibility as extending beyond national interest to species-level obligation. His distinction between war on al-Qaeda and respect for Islam (ev_012) reflects cosmopolitan recognition that religious and ethnic identity should not determine moral standing. The Iran nuclear deal similarly reflects cosmopolitan logic - cooperating with a former adversary based on shared interest in preventing nuclear proliferation rather than pure confrontation. These patterns suggest genuine internalization of Stoic cosmopolitanism - the view that rational beings form a community by nature, and that obligations extend to all who share that rational nature regardless of national boundaries.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_031",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Stoicism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "algorithmic_decision_making_approximation_optimization",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation, actively restructuring problem structures when constraints become binding",
+      "finding": "Obama consistently demonstrates an agency orientation that transcends passive response to structural constraints. Rather than accepting the legislative landscape as fixed, he systematically seeks to reshape it. The 'Year of Action' declaration (evt_015, ev_019) exemplifies this: when Congress blocked minimum wage, equal pay, and unemployment insurance legislation, he responded with over 20 executive actions to circumvent structural obstacles. The framing in ev_018 ('We've got to restore opportunity for all') reveals a normative commitment to actively constructing desired social conditions rather than merely adapting to existing ones. This world-shaping tendency extends to international governance design through TPP (ev_030) and Paris Climate Agreement (ev_034), where Obama sought to establish new institutional frameworks rather than optimize within existing ones. The veto threat on Dodd-Frank repeal (ev_029) further demonstrates commitment to protecting newly created institutional structures from rollback attempts.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_030",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven with explicit acknowledgment of past failures and willingness to update positions",
+      "finding": "Obama's epistemic style reveals a commitment to empirical grounding combined with intellectual honesty about uncertainty. He frequently anchors arguments in verifiable statistics: 11 million jobs created (ev_025), $11 billion recovered for consumers (ev_028), 26 million consumers protected (ev_028), wind power tripled and solar 30x increased (ev_040), deficits falling at the fastest rate since WWII (ev_016). This data reliance indicates systematic belief-formation rather than purely intuitive judgment. Crucially, ev_027 demonstrates epistemic humility: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' This self-correction signal reveals awareness that previous approaches may have been suboptimal. The specific enumeration in ev_033 (2.5 million jobs, uninsured rate below 10%) suggests a preference for measurable indicators over qualitative impressions. However, this evidence orientation operates within a normative framework (ev_021 'middle-out' economics), suggesting epistemic style is consequentialist-utilitarian rather than purely positivist.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_023",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong formalization tendency with systematic abstraction of complex problems into structured objectives",
+      "finding": "Obama demonstrates significant capacity for abstract formalization, translating complex policy challenges into structured frameworks. The 'middle-out' economic philosophy articulated in ev_021 exemplifies high-level abstraction: 'Our economy grows best not from the top-down, but from the middle-out.' This abstracts multiple variables (tax policy, wage growth, employment) into a single optimizing direction. The energy security blueprint (evt_004) formalized the problem as a multi-variable optimization: cut oil imports by one-third, increase domestic drilling, fuel efficiency, and clean energy simultaneously. The sequester response (ev_013) framed deficit reduction as a constrained optimization: 'balanced approach... by making sensible changes to entitlement programs and reforming our tax code.' This formalization tendency is operationalized through specific quantitative targets ($10.10 minimum wage ev_017, 100,000 veterans hired ev_009) and enumerated accomplishments (ev_033 'Top 10 Things'). However, the abstraction is tempered by acknowledgment of political constraints, suggesting formal models are treated as guides rather than determinative solutions.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_017",
+        "ev_021",
+        "ev_033",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation achieved through institutional mechanisms rather than direct manipulation",
+      "finding": "Obama's control orientation manifests primarily through institutional channels rather than micromanagement of individual elements. The executive order raising contractor minimum wage (ev_017) and enumerated executive actions (ev_019) demonstrate use of formal authority mechanisms. However, the discourse analysis reveals awareness of constraints on direct control: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). This acknowledgment of limited control leads to compensatory strategies: coalition-building with AFL-CIO and Chamber of Commerce (ev_008), leveraging bipartisan Senate passage of transportation bill 52-22 (ev_011). The refusal to negotiate debt ceiling (ev_015) can be interpreted as control preservation: maintaining the precommitment mechanism that borrowing authority should not be conditionally negotiated. The Cancer Moonshot initiative (ev_042, ev_043) reveals indirect control through cross-agency task force coordination, using Presidential Innovation Fellows to build systems rather than directly managing outcomes. This suggests a control orientation that works through mechanism design and institutional constraints rather than direct intervention.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation with explicit willingness to absorb significant relational and political costs",
+      "finding": "Obama consistently prioritizes mission objectives over relational comfort, demonstrated by sustained policy campaigns despite Congressional opposition. The critique of Senate obstruction in ev_010—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'—represents a direct relational cost accepted in service of institutional reform. The 'Year of Action' framing (ev_020) explicitly catalogued Republican opposition ('said 'no' to raising the minimum wage, 'no' to equal pay...') as a political indictment rather than seeking compromise. The debt ceiling refusal (ev_015) prioritized mission integrity ('I will not negotiate over the full faith and credit') over potential relational damage with Congressional Republicans. However, this mission orientation is balanced by coalition-building across partisan lines (ev_008 with AFL-CIO and Chamber of Commerce) and celebration of bipartisan achievements (ev_048 'Christmas miracles'). The farewell address (ev_044) frames eight years of political conflict as worthwhile for the achievements secured, suggesting internalized cost-benefit calculus where relational costs are acceptable investments toward mission completion.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_044",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk posture combining defensive layering with strategic investment in irreversible long-term initiatives",
+      "finding": "Obama's risk posture reveals a layered defensive strategy combined with selective commitment to high-stakes, long-term initiatives. The sequester management (ev_011, ev_012) demonstrates defensive risk layering: warning of consequences (Head Start cuts, military strain, airport disruptions) to build support for alternative approaches. The energy security blueprint (evt_004) accepts multi-decade investment horizons (2025 target) with acknowledgment that 'drilling alone is not sufficient' (ev_005), diversifying the portfolio of approaches. Climate policy (ev_025, ev_040, ev_041) shows willingness to make irreversible commitments (Paris Agreement) framed as legacy investments: 'That's not something to tear up – it's something to build upon.' The Iran nuclear deal (ev_034) represents calculated risk acceptance with verification mechanisms. However, there is evidence of risk limitation through staged approaches: ACA implementation was phased, Dodd-Frank built on existing regulatory structures rather than wholesale redesign. The veteran's hiring challenge (ev_009) with specific numerical targets and timeline demonstrates risk management through measurable milestones rather than open-ended commitments.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_011",
+        "ev_012",
+        "ev_025",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated hierarchical orientation that leverages formal authority while respecting institutional boundaries",
+      "finding": "Obama demonstrates sophisticated utilization of hierarchical authority within formal institutional constraints. The use of veto threat (ev_029: 'I will veto it') and executive orders (ev_017, ev_019) reflects comfort with formal presidential power. However, discourse analysis reveals respect for institutional boundaries: ev_015 distinguishes between negotiable policy disputes and non-negotiable constitutional commitments ('I will not negotiate over the full faith and credit'). The judicial nomination critique (ev_010) implicitly appeals to constitutional design rather than personal grievance, framing obstruction as contrary to founders' intent. The bilateral coalition-building (ev_008) leverages AFL-CIO and Chamber of Commerce as parallel power structures to create cross-partisan pressure. The declaration 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) demonstrates strategic framing of hierarchical authority to constrain military action within defined boundaries. This suggests hierarchical orientation that views authority as legitimate when exercised within constitutional and institutional norms, not as personal prerogative.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_012",
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Active confrontation strategy with strategic flexibility and coalition translation",
+      "finding": "Obama's conflict strategy combines direct confrontation with flexible tactical adaptation. Direct confrontation is evident in explicit criticism of Congressional obstruction (ev_010, ev_020) and refusal to negotiate debt ceiling (ev_015). The veto commitment (ev_029) represents hardline conflict posture. However, this confrontational stance coexists with tactical flexibility: when Senate passed transportation bill 52-22 (ev_011), Obama leveraged bipartisan support rather than insisting on partisan victory. The energy strategy (ev_005) explicitly rejects singular approaches in favor of portfolio diversification: 'Drilling alone is not a real strategy.' Coalition translation appears in ev_008: bringing AFL-CIO and Chamber of Commerce together as 'two groups who don't always see eye-to-eye.' TPP framing (ev_031) translates economic policy as geopolitical competition with China, reframing conflict for different constituencies. The acknowledgment of past trade deal failures (ev_027) suggests conflict strategy revision based on outcome evaluation. This indicates conflict orientation that escalates when core interests are threatened but maintains tactical flexibility and willingness to build coalitions across traditional partisan boundaries.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_008",
+        "ev_010",
+        "ev_011",
+        "ev_015",
+        "ev_020",
+        "ev_027",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with demonstrated commitment to multi-decade structural investments",
+      "finding": "Obama's time horizon analysis reveals consistent orientation toward long-term structural outcomes rather than short-term political wins. The energy security blueprint targets 2025 (evt_004) for oil import reduction—one decade beyond speech date. Climate commitments (ev_040, ev_041) operate on generational timescales: 'low-carbon future,' 'leave a better, cleaner, safer future for our children.' Paris Climate Agreement (ev_034) with 'nearly 200 countries' represents institutional investment expected to persist beyond any single administration. Cancer Moonshot (ev_042, ev_043) references 45 years of accumulated progress since Nixon's 1971 declaration, situating current effort within multi-decade trajectory. However, this long-term orientation coexists with urgent response to short-term deadlines: transportation funding (ev_011 'seven days away'), student loan rates (ev_011 'eight days away'). The tension resolution appears to be: urgent action on short-term deadlines serves long-term structural goals (infrastructure investment, education access). The year-end declaration 'America's resurgence is real' (ev_024, ev_025) explicitly connects current metrics to long-term trajectory reversal. This suggests sophisticated horizon management where short-term optimization serves long-term structural objectives.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "evt_004",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild orientation with selective patching when full reconstruction is infeasible",
+      "finding": "Obama demonstrates clear preference for structural redesign over incremental patching when political conditions permit. ACA represents fundamental healthcare system reconstruction: 'reform the health care system,' 'added at least a dozen years to the solvency of Medicare' (ev_002). Dodd-Frank restructured financial regulatory architecture: ending 'too big to fail,' creating independent consumer watchdog (evt_002). The energy strategy explicitly rejects palliative approaches: 'Drilling alone is not a real strategy' (ev_005). However, when full structural rebuild proves politically infeasible, selective patching emerges as secondary strategy. The executive orders on minimum wage (ev_017, ev_019) represent partial patches for federal contractors when legislative minimum wage increase was blocked. The sequester response (ev_012) documents specific program cuts (Head Start, Meals on Wheels) as consequences of structural failure, framing patches as temporary fixes requiring structural replacement. TPP (ev_030) was designed to 'write global trade rules' rather than patch existing agreements. This pattern suggests rebuild-as-primary with patch-as-backup: structural redesign is preferred, but pragmatic acceptance of partial solutions when full reconstruction is blocked by constraints.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_012",
+        "ev_017",
+        "ev_019",
+        "ev_030",
+        "evt_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with explicit reflection on limits and structured self-correction mechanisms",
+      "finding": "Obama demonstrates moderate metacognitive capacity with explicit awareness of cognitive and institutional limitations. The farewell address (ev_044, ev_046) reveals self-reflection: 'Every day, I learned from you. You made me a better President.' The call for civic participation 'not just when there's an election, not just when our own narrow interest is at stake' (ev_046) suggests awareness of episodic engagement biases. The Silicon Valley partnership initiative (ev_036, ev_037) reflects explicit acknowledgment of government's cognitive limits: 'our founders trusted us with the keys to this system... because it's the only way we the people can govern ourselves.' The energy strategy (ev_005) shows recognition of bounded rationality: acknowledging US has only '2 percent of world's oil reserves' despite using '25 percent' demonstrates empirical self-assessment of constraints. The Cancer Moonshot (ev_042, ev_043) reveals structured self-correction: 45 years of accumulated progress informs current approach, suggesting meta-learning from historical patterns. However, metacognitive awareness appears bounded by political considerations: critiques of obstruction focus on external factors (Congress) rather than potential misjudgments in negotiation strategy. The epistemic humility in ev_027 ('past trade deals haven't always lived up to the hype') represents positive metacognitive signal but is limited in scope.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_027",
+        "ev_036",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "polycratic_coordination_capacity",
+      "definition": "Ability to coordinate across multiple heterogeneous stakeholders with conflicting interests and different optimization functions, without centralizing control, through mechanism design that aligns incentives rather than enforcing compliance. This differs from control_orientation because it focuses on distributed coordination rather than direct system manipulation.",
+      "finding": "Obama demonstrates significant polycratic coordination capacity by systematically building cross-interest coalitions and leveraging distributed authority structures. The transportation funding effort (ev_008) explicitly brought together AFL-CIO and Chamber of Commerce—'two groups who don't always see eye-to-eye'—for joint advocacy. The veterans hiring challenge (ev_009) distributed responsibility across federal government (already hired 120,000) and private sector (challenged to hire 100,000 more), creating parallel optimization streams. The energy security blueprint (evt_004) structured Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo—diverse firms with different operational profiles but aligned on fuel efficiency goals. The Cancer Moonshot (ev_043) coordinated across agencies through Presidential Innovation Fellows and created digital infrastructure (Trials.Cancer.Gov) to solve coordination failure between patients, doctors, and drug companies. This coordination capacity suggests optimization across distributed systems rather than hierarchical control, achieving emergent outcomes through aligned incentives rather than command structures.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "evt_004",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "normative_satisficing_with_explicit_sacrifice_acknowledgment",
+      "definition": "Decision-making approach that accepts approximate solutions to multi-objective optimization problems while transparently declaring what objectives were traded off and why the resulting satisficing solution remains acceptable. Differs from standard satisficing because transparency about trade-offs becomes a design principle rather than a pragmatic concession.",
+      "finding": "Obama exhibits a distinctive pattern of normative satisficing combined with explicit acknowledgment of sacrifices made. Rather than presenting legislation as optimal or pretending all objectives can be simultaneously maximized, he transparently identifies what was traded. The sequester response (ev_013, ev_014) explicitly contrasts 'balanced approach' (spending cuts + tax reform) against unilateral sequester cuts that harm vulnerable populations. The energy strategy (ev_005) acknowledges that drilling alone cannot achieve energy security while simultaneously pursuing domestic drilling as a component. TPP framing (ev_027, ev_031) admits 'past trade deals haven't always lived up to the hype' while arguing current deal improves on previous approximate solutions. This transparency pattern extends to deficit reduction (ev_013: 'balanced, comprehensive way, by making sensible changes to entitlement programs') and healthcare reform (ev_002: extended Medicare solvency by 12+ years—acknowledging this represents compromise from ideal single-payer approach). The dual deadline urgency (ev_011: transportation and student loans both expiring within days) demonstrates satisficing under extreme time constraints. This pattern suggests normative commitment to transparency about optimization trade-offs rather than post-hoc rationalization of compromises.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_011",
+        "ev_013",
+        "ev_014",
+        "ev_027",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

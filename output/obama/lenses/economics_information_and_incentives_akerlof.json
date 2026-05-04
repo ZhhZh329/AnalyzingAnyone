@@ -1,0 +1,150 @@
+{
+  "discipline": "economics",
+  "lens": "information_and_incentives_akerlof",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strategic structure-responder who converts institutional constraints into executive actions",
+      "finding": "Obama's documented decisions reveal a pattern of responding to Congressional obstruction by expanding unilateral executive authority. When Congress blocked minimum wage legislation, he signed executive orders requiring federal contractors to pay $10.10/hour (ev_017). When Senate obstruction of judicial nominees persisted, he called for 90-day up-or-down votes but simultaneously took over 20 executive actions to create jobs in 2014 alone (ev_019). This reveals an adaptive orientation: rather than passively accepting structural constraints, he systematically identified domains where presidential discretion remained available, converting legislative blockage into administrative opportunity while publicly framing these moves as temporary measures pending Congressional cooperation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven belief formation with calibrated acknowledgment of historical uncertainty",
+      "finding": "Obama's speeches consistently anchor claims in verifiable data points—Medicare solvency extension by 12 years (ev_002), 11 million jobs over 57 months (ev_025), CFPB recovery of $11 billion for 26 million consumers (ev_028). However, his epistemic approach also shows calibrated humility: he explicitly acknowledged that \"past trade deals haven't always lived up to the hype\" (ev_027), admitting that historical experience revealed information asymmetries his earlier assumptions had not captured. This pattern suggests beliefs formed through iterative confrontation with outcome data rather than pure ideological commitment, though his core economic philosophy—that the middle class drives growth—remained stable throughout.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Weak or not applicable for this lens",
+      "finding": "While Obama articulates abstract principles like 'opportunity for all' and 'middle-out economics,' the Akerlof lens does not provide meaningful purchase on abstraction preferences. The relevant analytical focus is how he operationalizes quality verification and information disclosure, not whether he prefers abstract or concrete thinking.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for rule-based governance that reduces ex-post information asymmetry",
+      "finding": "Obama exhibited consistent preference for establishing durable institutional mechanisms over ad-hoc interventions. His defense of Dodd-Frank emphasized creating \"a Consumer Financial Protection Bureau with one mission\" (ev_028) as a permanent governance structure. His refusal to negotiate over the debt ceiling was framed as protecting \"the full faith and credit of the United States\" as an institutional signal (ev_015), arguing that any negotiation would undermine the credibility of U.S. sovereign commitments. His climate policy emphasized formal agreements: the Paris climate accord with \"nearly 200 nations\" (ev_034) created binding verification mechanisms rather than voluntary pledges. This pattern reflects attempts to lock in quality standards through institutionalized rules that reduce future information asymmetries between government and regulated entities.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_028",
+        "ev_034",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Weak evidence for systematic relationship sacrifice in service of quality screening",
+      "finding": "While Obama frequently expressed frustration with Congressional Republicans blocking his agenda, the evidence does not establish a pattern of deliberately excluding potential high-quality partners to maintain screening standards. His outreach to the AFL-CIO and Chamber of Commerce simultaneously (ev_008) and his bipartisan budget celebrations (ev_048) suggest attempts at coalition-broadening rather than narrowing. The Akerlof lens requires evidence of repeated exclusion of cooperative actors to screen out low-quality partners, which is not clearly documented in this dataset.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking on verifiable long-term bets; zero-tolerance on institutional credibility risks",
+      "finding": "Obama's risk posture split between two distinct domains. On policy bets with verifiable metrics, he demonstrated willingness to accept short-term political costs: the auto industry bailout faced criticism but was justified by subsequent sales data (ev_022); TPP was pursued despite acknowledged failures of past trade deals (ev_027). On institutional credibility matters, however, he adopted zero-risk framing: \"I will not negotiate over the full faith and credit of the United States\" (ev_015) was stated categorically, reflecting his view that any uncertainty about sovereign commitment quality would trigger adverse selection against U.S. debt and damage the nation's information-reputation as the \"world's bedrock investment.\"",
+      "evidence_ids": [
+        "ev_015",
+        "ev_022",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective gatekeeping through institutional design rather than direct power assertion",
+      "finding": "Obama's use of hierarchical authority centered on creating downstream screening mechanisms rather than direct gatekeeping. The CFPB (ev_028) functioned as an institutional gatekeeper, using data to identify and sanction predatory actors in financial markets. The Iran nuclear deal created verification checkpoints requiring Tehran to \"dismantle thousands of centrifuges\" (ev_034) before sanctions relief—a quality certification mechanism. The Veterans Hiring Initiative set verifiable benchmarks: \"hire or train 100,000 post-9/11 veterans\" by deadline (ev_009). Rather than wielding power through personal authority, he designed hierarchical structures that would continue screening function beyond his administration, consistent with creating durable information environments.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_028",
+        "ev_034"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation through institutional bypassing; threat of veto as credible commitment device",
+      "finding": "Obama's conflict strategy involved progressive escalation designed to establish credible commitments against opponents. When Congressional Republicans blocked legislation, he escalated to executive action as a second-best alternative (ev_019). He issued explicit veto threats on Wall Street Reform repeal (\"I will veto it\" - ev_029) not because he expected the bill to pass but to establish a commitment device that would deter legislative time expenditure. His framing of bipartisan opposition (\"Republicans in Congress have blocked or voted down every serious idea\" - ev_020) served to shift public information about opponent quality, essentially arguing that institutional non-cooperation revealed hidden type problems with Congressional Republicans rather than mere policy disagreement.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term orientation with mission-scale temporal reference points",
+      "finding": "Obama's documented decisions and rhetoric reveal a persistent long-term orientation across policy domains. Medicare reform was justified by its \"12-year\" solvency extension (ev_002); energy policy targeted 2025 (evt_004); TPP was framed as setting global trade rules for decades ahead (ev_031); climate policy was positioned as legacy for \"our children\" (ev_041). His Cancer Moonshot initiative, assigned to Biden with cross-agency task force structure (ev_042), reflected mission-scale thinking that extended beyond electoral cycles. Even year-end addresses summarizing accomplishments positioned results in terms of multi-year trends rather than quarterly or annual metrics.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_031",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systematic preference for structural redesign over incremental adjustment",
+      "finding": "Obama's policy portfolio consistently favored structural interventions over补丁 approaches. ACA redesigned the health insurance market structure rather than expanding existing programs; Dodd-Frank created new institutional architecture (CFPB, FSOC) rather than adding regulations to existing agencies; the energy Blueprint aimed to transform the energy mix rather than efficiency improvements within the existing fossil-fuel system (ev_005 explicitly rejected \"drilling alone\" as insufficient). The one exception—temporary FAA fixes for sequester disruptions (evt_012)—was explicitly framed as inadequate and contrasted with the need for \"balanced deficit reduction\" (ev_013), suggesting补丁 were tactical necessities rather than preferred strategy.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness of cognitive limits within institutional frameworks",
+      "finding": "Obama demonstrated metacognitive awareness in three documented patterns. First, he acknowledged historical epistemic failures: \"I'm the first to admit that past trade deals haven't always lived up to the hype\" (ev_027), suggesting iterative belief updating. Second, his government modernization initiative at SXSW (ev_037) explicitly invited external scrutiny by bringing \"sharpest minds from companies in Silicon Valley\" to identify blind spots in federal operations—structural metacognition rather than purely individual. Third, his farewell address framed his presidency as learning process: \"Every day, I learned from you. You made me a better President\" (ev_044). However, he showed limited acknowledgment of systematic biases in his own information processing, and his consistent optimism framing could reflect motivated reasoning about uncertain outcomes.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_037",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_quality_certification",
+      "definition": "Deliberate design of verification mechanisms that reduce ex-ante information asymmetry about market or policy participant quality, functioning as government-issued quality signals",
+      "finding": "Obama's policy portfolio systematically created quality certification mechanisms in domains plagued by adverse selection. The CFPB provided third-party verification of financial product quality by recovering $11 billion for cheated consumers, effectively functioning as a government warranty mechanism. The Iran nuclear deal required verified dismantling of nuclear capability before sanctions relief—a quality certification that Iran was not pursuing weapons. TPP's labor and environmental standards, enforced through trade agreements, served as quality certification for trading partners. ACA's prescription drug coverage gap rebates and Medicare solvency guarantees functioned as quality warranties for senior citizens. These mechanisms address the lemons problem by creating institutional information structures that allow participants to distinguish high-quality from low-quality actors before exchange occurs, reducing the risk of劣币驱逐良币 dynamics.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_030",
+        "ev_034",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "credible_commitment_through_bounded_discretion",
+      "definition": "Establishing pre-commitment mechanisms that constrain future policy flexibility in order to signal reliable type to markets or international partners, accepting short-term costs to avoid long-term adverse selection",
+      "finding": "Obama exhibited a pattern of establishing credible commitments by voluntarily constraining executive discretion. His categorical refusal to negotiate over the debt ceiling (\"I will not negotiate over the full faith and credit\" - ev_015) accepted short-term political confrontation to establish the United States as a reliable debtor type in international markets, avoiding the adverse selection that would occur if investors could not distinguish U.S. sovereign debt from countries that might restructure. His veto threats on Wall Street Reform repeal functioned similarly—accepting legislative confrontation to signal that financial regulatory quality would remain stable. His framing of TPP as preventing China from \"writing the rules of the global economy\" (ev_031) represented a credible commitment to participating nations that the U.S. would maintain consistent trade standard quality, reducing the risk of partners facing uncertain regulatory environments. These commitments address the commitment problem by using institutional pre-commitment to reveal type rather than allowing flexible discretion to mask it.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

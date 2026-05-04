@@ -1,0 +1,176 @@
+{
+  "discipline": "philosophy",
+  "lens": "marxism_structuralism_marx",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaping with significant structural acknowledgment; positioned between individual efficacy and institutional constraint",
+      "finding": "Obama presents himself as an active agent capable of shaping outcomes through institutional mechanisms—executive orders, regulatory agencies, presidential bully pulpit. However, his rhetoric consistently acknowledges that his capacity for action depends on structures beyond his control, particularly Congress and 'the American people.' His 'Year of Action' declaration (ev_019) reflects agency orientation, but his frequent calls for Congressional cooperation (ev_008) reveal the boundaries of his structural position. From a Marxist perspective, this reflects the president's paradoxical role: powerful enough to shape policy within limits, yet fundamentally constrained by the institutional arrangements of a class-structured society. His agency is real but bounded by his position within the executive apparatus of a capitalist state.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_008",
+        "ev_004",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricism within prevailing ideological parameters; limited structural critique of economic system",
+      "finding": "Obama's epistemic approach relies heavily on empirical data—employment statistics (ev_025: '11 million new jobs'), consumer recovery figures (ev_028: '$11 billion for 26 million consumers'), energy metrics (ev_040: 'wind power threefold, solar thirtyfold'). He presents himself as a rational problem-solver who cites evidence to support policy conclusions. However, Marxist analysis would identify a crucial blind spot: his framework operates entirely within capitalist economic relations. His 'middle-out' economics (ev_021) advocates for strengthening the middle class within the existing system rather than questioning the fundamental structure of capital accumulation. He advocates 'balanced' deficit reduction (ev_013) that accepts the legitimacy of both cutting social programs and maintaining class inequality. This epistemic horizon reflects his class position as an emergent member of the ruling elite—his worldview serves to naturalize capitalist relations while advocating for more equitable distribution within them.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_021",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; articulates abstract philosophies but grounds them in concrete policy deliverables",
+      "finding": "Obama demonstrates capacity for abstract political philosophy—he clearly articulates 'middle-out' economics (ev_021: 'Our economy grows best not from the top-down, but from the middle-out') and 'opportunity for all' principles (ev_018). However, he consistently connects these abstractions to specific policy interventions and measurable outcomes. His 'Top 10 Things' address (ev_033) exemplifies this—abstract claims ('Love won') paired with concrete metrics ( uninsured rate below 10%). This suggests a thinker who uses abstraction strategically to legitimate concrete reforms rather than pursuing abstract theorization for its own sake. The Marxist critique would note that his abstractions remain within bourgeois categories—'opportunity,' 'fairness,' 'middle class'—rather than exposing the structural contradictions of capitalist production.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_033",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High institutional control orientation; seeks to expand executive and regulatory capacity within existing structures",
+      "finding": "Obama shows strong drive to control outcomes through institutional mechanisms. His use of executive orders to raise contractor minimums (ev_017: 'requiring federal contractors to pay at least $10.10 an hour'), his defense of regulatory agencies like the CFPB (ev_028), and his explicit veto threats against Wall Street Reform repeal (ev_029) all demonstrate control orientation. He positions himself as guardian of institutional mechanisms against Congressional obstruction. However, this control orientation remains within established channels—executive power, regulatory apparatus, legal frameworks. Marxist analysis would note that this reflects both the state's role in managing class conflict and Obama's position as upholder of a system that requires such management. His 'sequester' rhetoric (ev_14) frames inability to prevent harmful cuts as a failure of political will rather than structural limitation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_028",
+        "ev_029",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate mission priority; maintains rhetorical commitment to bipartisanship despite political confrontation",
+      "finding": "Obama demonstrates willingness to prioritize policy goals over relational comfort in specific instances—publicly condemning Republican obstruction ('Republicans in Congress have blocked... every serious idea' ev_020), refusing to negotiate on debt ceiling ('I will not negotiate over the full faith and credit' ev_015), issuing veto threats against Wall Street Reform repeal (ev_029). However, his rhetoric consistently maintains commitment to bipartisanship and unity—he invokes AFL-CIO and Chamber of Commerce cooperation (ev_008), describes bipartisan achievements as 'Christmas miracles' (ev_048), and frames political conflicts as representing broader national interests rather than class or ideological positions. This suggests a politician who pursues mission objectives while managing the relational costs of confrontation—particularly important given his position requiring coalition maintenance in a divided system.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate-low risk tolerance; prefers institutional pathways and incremental approaches to transformational confrontation",
+      "finding": "Obama consistently demonstrates risk-averse patterns, preferring institutional solutions over dramatic confrontation. His 'balanced approach' to deficit reduction (ev_013) explicitly rejects both radical spending cuts and transformative taxation. His defense of past trade deals while advocating TPP (ev_027: 'past trade deals haven't always lived up to the hype') shows nuanced hedging rather than bold commitment. Even his more assertive actions—executive orders on minimum wage, veto threats—operate within established legal and institutional frameworks. The sequester crisis (ev_014) illustrates his risk calculus: he documented human costs but ultimately accepted continuation rather than forcing confrontation. Marxists would note that such risk aversion serves ruling class interests by maintaining systemic stability while permitting minor reforms.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_027",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy legitimizer; uses existing power structures to advance distributive goals",
+      "finding": "Obama operates within and legitimizes existing hierarchical structures—the presidency, Congress, federal bureaucracy, legal system. His rhetoric frames these institutions as legitimate vehicles for national purposes ('our founders trusted us with the keys to this system of self-government' ev_036). He uses his position within this hierarchy to implement reforms—consumer protections (ev_028: CFPB 'protects American consumers'), worker wages (ev_017), veterans hiring (ev_009: '120,000 veterans' hired). However, he never challenges the fundamental hierarchy itself. From Marxist perspective, this reflects his role as manager of capitalist state apparatus—he reinforces the legitimacy of existing power relations while extracting minor concessions for working people. His 'civic participation' rhetoric (ev_046: 'throw ourselves into the work of citizenship') channels political energy into institutional channels rather than transformative movements.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_028",
+        "ev_017",
+        "ev_009",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Predominantly institutional negotiation; occasional escalation through veto and executive action",
+      "finding": "Obama's default conflict strategy involves negotiation, compromise, and institutional resolution. His bipartisan framing (ev_008: 'This isn't a Democratic or a Republican issue'), his celebration of Congressional cooperation (ev_048: 'Christmas miracles'), and his repeated calls for joint action all reflect this orientation. However, when institutional negotiation fails, he escalates selectively—veto threats on Wall Street Reform (ev_029), executive orders when Congress blocks legislation (ev_019), firm refusal on debt ceiling negotiation (ev_015). This represents calibrated conflict management within established channels. Marxists would critique this approach as channeling class conflict into manageable institutional forms that ultimately preserve ruling class power.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_048",
+        "ev_029",
+        "ev_019",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural investment combined with short-term electoral considerations; legacy consciousness prominent",
+      "finding": "Obama demonstrates both immediate political management and longer structural concerns. His immediate rhetoric addresses concrete deadlines—'seven days away' from transportation funding expiration (ev_011), urgent legislative needs (ev_009). Simultaneously, he pursues long-term structural changes—'decades-long erosion of middle-class jobs' (ev_024), energy independence by 2025 (evt_004). His farewell address reveals legacy consciousness—anticipating historical evaluation ('I look forward to working... as a citizen, for all my days that remain' ev_047). This temporal orientation serves both electoral and structural goals—winning immediate battles while building enduring policy frameworks. Marxist analysis would note that his long-term horizons remain bounded by system maintenance rather than fundamental transformation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_009",
+        "ev_024",
+        "ev_047",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate structural ambition; implements significant reforms but accepts system boundaries",
+      "finding": "Obama demonstrates capacity for structural reform beyond mere patching—ACA represented fundamental restructuring of healthcare system, Dodd-Frank created new regulatory apparatus, his energy blueprint aimed at transforming energy production. These are genuine structural interventions (ev_002: 'single longest extension in history' for Medicare solvency). However, these reforms operate within existing capitalist parameters—they regulate capital, redistribute minor resources, manage crisis but never restructure fundamental power relations. His rhetoric frames these as 'repairing' the system rather than replacing it—'America's resurgence' (ev_024) implies restoration of a prior healthy state rather than transformation. Marxists would identify this as reformism within preserved class structure—meaningful improvements for workers but never threatening capital accumulation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_022",
+        "ev_024",
+        "ev_028"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness; reflects on political process and personal growth but limited structural self-critique",
+      "finding": "Obama demonstrates metacognitive capacity in certain domains—he reflects on the political process ('one senator gumming up the works' ev_010), acknowledges historical limitations ('past trade deals haven't always lived up to the hype' ev_027), and in his farewell addresses demonstrates self-awareness about his leadership evolution ('Every day, I learned from you' ev_044). However, Marxist critique would identify crucial metacognitive blind spots: he never examines his own position within class structure, never questions the fundamental operations of capitalism, never interrogates how his worldview might reflect ruling class assumptions. His ideological framework is presented as natural and universal rather than historically contingent and class-positioned. This partial metacognition serves ruling interests by enabling tactical adaptability while preserving fundamental ideological commitments.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "class_position_conflict",
+      "definition": "The tension between Obama's material position within the emerging ruling elite and his rhetorical commitment to representing ordinary workers. This dimension captures how someone situated in upper-class institutional power can simultaneously advocate policies benefiting workers while serving capital's broader structural requirements.",
+      "finding": "Marxist analysis reveals Obama's class position as fundamentally contradictory. By virtue of the presidency, he occupies a position within ruling class structures—he attended elite universities, worked in high-status professions, now commands institutional power. Yet his policy agenda frequently advocates for worker interests: minimum wage increases (ev_17), consumer protections (ev_028), job creation (ev_025). This is not hypocrisy but structural position—modern capitalism requires temporary management of class conflict through selective concessions. Obama's 'middle-out' economics (ev_021) explicitly acknowledges that capital requires a viable working class to sustain demand. He represents capital's need for a functional workforce more than capital's demand for unrestricted accumulation. This 'class position conflict' explains his seemingly progressive agenda while maintaining his fundamental role as upholder of class order.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_017",
+        "ev_028",
+        "ev_025"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "ideological_hegemony_management",
+      "definition": "The capacity to present class-biased institutions and arrangements as universal, natural, and serving common good—specifically how Obama's rhetoric legitimizes capitalist democracy as the appropriate framework for addressing social problems.",
+      "finding": "Gramsci's concept of cultural hegemony (complementary to Marx's base-superstructure analysis) illuminates Obama's ideological function. His rhetoric consistently presents existing institutions—Congress, the presidency, the legal system—as natural and legitimate frameworks for national progress. His faith in democratic governance ('our founders trusted us with the keys' ev_036) frames bourgeois democracy as the appropriate arena for conflict resolution. His 'opportunity' rhetoric ('no matter who you are... with hard work and responsibility, you can get ahead' ev_018) naturalizes class inequality by attributing success to individual virtue. His bipartisanship appeals ('This isn't a Democratic or a Republican issue' ev_008) suppress class conflict by framing political division as partisan rather than structural. This ideological work serves ruling class interests by maintaining consent to class-structured society.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_018",
+        "ev_008",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

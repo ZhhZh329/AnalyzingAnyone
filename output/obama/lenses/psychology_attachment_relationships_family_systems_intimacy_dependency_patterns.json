@@ -1,0 +1,144 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_relationships_family_systems_intimacy_dependency_patterns",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Data suggests world-shaping political agency, but framework intends personal relational agency",
+      "finding": "The evidence demonstrates Obama consistently acting as an active shaper of policy, institutions, and national direction - championing healthcare reform, financial regulation, climate action, and economic opportunity. His 'Year of Action' (ev_019) and executive order strategy (ev_017) show deliberate agency deployment. However, this lens captures political-world agency, not the personal intimacy/dependency agency the framework conceptually intends. The distinction between pursuing 'world-shaping' vs 'structure-responding' roles is meaningful at political level, but cannot be interpreted through attachment theory's intimacy frame without personal relationship data.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_017",
+        "ev_020",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Not applicable for intended meaning - no evidence of personal belief-formation patterns about relationships",
+      "finding": "The framework's epistemic_style concerns how people form beliefs about close relationships and interpret others' intentions in intimacy contexts (e.g., automatically interpreting closeness as control, or vulnerability as weakness). The evidence provided contains only political speeches with policy-related epistemology - how Obama understands economic trends, legislative dynamics, or national challenges. There is no data about how he forms beliefs about personal relationships, interprets partners' behaviors, or processes intimacy-relevant information. Without family system, couple relationship, or close personal interaction evidence, this construct cannot be assessed.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Not applicable - no data on personal relationship systematization",
+      "finding": "The framework distinguishes people who systematize their personal relationships (seeking patterns, rules, protocols for intimacy) from those who navigate relationships more fluidly. The evidence consists entirely of public speeches with abstract policy language (e.g., 'middle-out economics', 'balanced approach', 'resurgence'). While this demonstrates Obama's capacity for abstraction in political contexts, it tells us nothing about whether he abstracts or formalizes personal intimate relationships. The separation between public political abstraction and private relational processing is not bridgeable with this evidence.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Not applicable for relational control; political control framing insufficient for framework",
+      "finding": "The framework's control_orientation addresses relational control - whether someone防御ively manages intimacy to prevent rejection, flooding, or engulfment; whether control functions to manage vulnerability rather than outcomes. Obama's control-related evidence addresses policy control (Dodd-Frank consumer protections, veto threats on financial reform, debt ceiling stances). His refusal to negotiate on debt ceiling (ev_015) shows principled boundary-setting on national finance, not relational control patterns. There's no data on how he manages closeness in personal relationships, his comfort with vulnerability exposure, or control as intimacy management.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Not applicable - no personal relationship mission/cost data",
+      "finding": "The framework distinguishes people who consistently sacrifice relational comfort for mission achievement versus those who balance mission with relational investment. Obama's speeches demonstrate clear mission prioritization at political level - declaring 'Year of Action' (ev_015), challenging Congress repeatedly, framing personal ambitions (cancer moonshot, climate legacy). However, this reflects political ambition, not personal relationship patterns. Without data on how he navigates personal intimacy vs. professional demands, family obligations vs. mission, or close relationship costs, this construct remains unassessable within the framework's intent.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_042"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Not applicable for intimacy risk - political risk data insufficient",
+      "finding": "The framework concerns relational risk: willingness to be vulnerable, to seek closeness and risk rejection, to expose needs and face abandonment. Obama's political risk posture is observable - his debt ceiling refusal (ev_015: 'I will not negotiate over the full faith and credit'), his defense of climate agreements (ev_041: 'that's something to build upon'), his challenge to Congress on minimum wage despite opposition. These show political courage and principle durability. But intimacy risk is distinct: fear of being seen, of rejection, of closeness overwhelming boundaries. No evidence addresses these personal dynamics.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_041",
+        "ev_020"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Not applicable for relational hierarchy; political hierarchy data does not transfer",
+      "finding": "The framework examines how people use power in intimate relationships: whether they seek symmetrical closeness or maintain differentiation, how they handle dependency asymmetries (caregiver/care-receiver), whether hierarchy feels like safety or threat in intimacy. Obama's evidence addresses political hierarchy (presidential power, Congressional relations, federal authority). His statement about government modernization (ev_036: 'our founders trusted us with the keys to this system') reveals political authority understanding. But personal intimate hierarchy - partner dynamics, family role negotiation, dependency in close relationships - is entirely absent from this dataset.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Not applicable for intimate conflict - political conflict strategies do not map",
+      "finding": "The framework identifies intimate conflict patterns: pursuing (questioning, demanding closeness), withdrawing (cold shutdown, emotional distance), or oscillating between them. Obama's political conflict strategies are observable: public criticism of Republican obstruction (ev_020), issuing veto threats (ev_029), bipartisan coalition-building (ev_008, ev_048). His stated willingness to work across party lines contrasts with firm boundary-setting. However, these political conflict patterns cannot be extrapolated to intimate relationship dynamics. The cognitive and emotional processes differ substantially between political negotiation and personal intimacy.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Not applicable for relational time horizons",
+      "finding": "The framework concerns how people orient toward time in intimate relationships: whether they prioritize immediate relational needs or long-term intimacy development, whether they build security slowly or seek rapid connection. Obama's political time horizons are clear - 57 months of job growth (ev_025), decade-long energy goals (ev_004), climate agreements spanning generations. He explicitly focuses on long-term structural outcomes. But this does not address how he orients temporally in intimate relationships - the pace at which he develops closeness, his patience with intimacy building, or how he balances present relational needs against future security.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_025",
+        "ev_024"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Not applicable for intimate restructuring",
+      "finding": "The framework distinguishes between people who patch relationship problems locally versus those who fundamentally rebuild relational structures. Obama's political actions show structural ambition: ACA as healthcare system overhaul, Dodd-Frank as financial regulation reconstruction, Clean Fleets Partnership for energy transformation. His 'Year of Action' (ev_015) frames systematic change rather than incremental patching. However, personal intimate restructuring patterns - how he handles recurring relational conflicts, whether he rewrites family scripts or repairs surface wounds - have no evidence in this dataset.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_015"
+      ],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Limited evidence; Obama shows political self-reflection but not intimacy-relevant cognition",
+      "finding": "The framework concerns metacognition about intimate relationship patterns - awareness of one's own attachment fears, proximity-seeking vs. distance-creating cycles, how one manages vulnerability. Obama demonstrates metacognition in political contexts: acknowledging past trade deal shortcomings (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype'), crediting American people for accomplishments rather than claiming personal credit (ev_032, ev_044). His farewell address reflection shows capacity for self-examination at political-personal interface. However, there's no evidence of metacognition about intimacy patterns, attachment style awareness, or relational process monitoring as the framework intends.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_relationship_orientation",
+      "definition": "How a leader conceptualizes and relates to 'the people' as an aggregate entity - whether they experience civic connection as intimacy substitute, as genuine relational engagement, or as instrumental political resource. Distinct from personal intimacy patterns but potentially related.",
+      "finding": "Obama's speeches reveal a distinctive pattern of treating national collective as intimate relational context. His Father's Day reflection (ev_006) about personal father-absence connects to national fatherhood discourse. His farewell address (ev_044) frames conversations with American people as sustaining him: 'in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts' - these are intimate spaces. He credits collective action for all progress (ev_032: 'because of you'). This suggests he may project or transfer intimacy needs onto civic relationships, treating national collective engagement as fulfilling intimacy functions that might otherwise require personal close relationships. However, this interpretation cannot substitute for actual personal relationship evidence.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_006",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "parental_care_model",
+      "definition": "How a leader conceptualizes governmental/civic care obligations - whether they frame public policy through parental care metaphors, how they balance caregiving to citizens with citizen autonomy/agency. Relevant to dependency patterns but at collective level.",
+      "finding": "Obama frequently frames national challenges through care metaphors: Medicare as 'a commitment to America's seniors' (ev_001), Head Start cuts affecting children, veterans as requiring support. His Memorial Day address (ev_038) frames his Commander-in-Chief role as 'no more solemn obligation' than caring for troops and families. He explicitly defines his role through care delivery and responsibility. Yet simultaneously, he calls for citizen agency and participation beyond elections (ev_046). This suggests a tension or integration between care-recipient framing and citizen-agency empowerment - possibly reflecting internal negotiation between dependency needs (being needed) and healthy autonomy modeling. Without personal relationship evidence, this remains at collective level interpretation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_038",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

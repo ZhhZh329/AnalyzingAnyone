@@ -1,0 +1,179 @@
+{
+  "discipline": "medicine",
+  "lens": "stress_allostatic_load",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with demonstrated capacity to mobilize multiple concurrent policy initiatives under sustained institutional opposition",
+      "finding": "Obama exhibits clear world-shaper agency throughout his presidency. The 'Year of Action' declaration in 2014 (evt_015), where he took over 20 executive actions to circumvent Congressional inaction, exemplifies proactive agenda-setting under duress. His simultaneous pursuit of TPP, Paris climate agreement, Iran nuclear deal, and Cancer Moonshot (evt_021, evt_022, evt_026) demonstrates multi-domain world-shaping capacity. However, this agency is notably constrained by institutional factors—Congressional Republican obstruction appears repeatedly as a limiting structure (ev_020, ev_010), suggesting a world-shaper operating within definable systemic boundaries rather than unconstrained agency.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_030",
+        "ev_034",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-driven reasoning with nuanced acknowledgment of complexity; shows capacity for calibrated epistemic humility while maintaining policy conviction",
+      "finding": "Obama's epistemic style demonstrates consistent reliance on quantitative evidence and empirical claims. He cites specific statistics: Medicare solvency extended by 12 years (ev_002), 7.5 million students at risk from loan rate doubling (ev_011), $11 billion recovered for 26 million consumers by CFPB (ev_028). Notably, he exhibits epistemic humility when discussing trade history: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), while maintaining conviction that TPP represents the correct path forward. This suggests a threat-oriented but evidence-responsive information processing pattern rather than ideologically rigid reasoning.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with capacity to translate complex policy into accessible narrative frames; systematic use of institutional mechanisms and structural solutions",
+      "finding": "Obama demonstrates strong formalization capacity through consistent use of legislative and institutional frameworks—ACA, Dodd-Frank, TPP, Paris Agreement. He operationalizes abstract values into concrete policy mechanisms, as evidenced by the establishment of CFPB with specific consumer protection mandates (ev_028). His 'middle-out' economic philosophy (ev_021) represents sophisticated abstraction-to-policy translation. The 2015 year-end top-10 accomplishments list (evt_022) exemplifies systematization of complex achievements into structured narrative. This suggests formalization as a cognitive tool for managing policy complexity rather than defensive abstraction under pressure.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_028",
+        "ev_033",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selective but firm control maintenance with demonstrated willingness to use executive authority when legislative channels fail; maintains core positions under pressure",
+      "finding": "Obama exhibits clear control maintenance through decisive stance-taking on core issues. His declaration regarding debt ceiling—'I will not negotiate over the full faith and credit of the United States' (ev_015)—and TPP veto threat (ev_029) demonstrate firm boundary-setting. However, his control orientation is notably adaptive rather than rigidly autocratic. He repeatedly calls for bipartisan cooperation (ev_008), employs 'balanced approach' framing for deficit reduction (ev_013), and celebrates Congressional cooperation when achieved (ev_048). The executive action strategy in 2014 represents responsive control adaptation—shifting mechanisms when institutional constraints tighten, suggesting control orientation channeled through systemically legitimate means.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_013",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with consistent framing that subordinates personal relationship maintenance to policy goals, though expressed through rational rather than dismissive discourse",
+      "finding": "Obama consistently frames policy goals as taking precedence over relational comfort with political opponents. His direct criticism of Congressional obstruction—'Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class' (ev_020)—prioritizes agenda advancement over relationship maintenance with opposition. The pattern of repeatedly calling out specific blocking behaviors (ev_010, ev_020) suggests mission-priority orientation. However, this is expressed through rational argument rather than emotional dismissal, and his farewell address attribution of accomplishments to American people (ev_044, ev_032) suggests relational framework oriented toward collective rather than individual connection. The sustained 8-year pattern of fighting for policy priorities against opposition suggests systematic mission-priority orientation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking concentrated in foreign policy and structural reform domains, framed as risk-avoidance of greater future harms; avoids personal/political risk-taking",
+      "finding": "Obama's risk posture demonstrates selective boldness. He pursued high-stakes international agreements—Iran nuclear deal (ev_034), TPP (ev_031), Paris climate agreement—framed as risks of inaction rather than action. His framing of TPP as necessary to prevent China from 'writing the rules of the global economy' (ev_031) exemplifies proactive risk-acceptance for strategic positioning. Climate action pursuit (ev_040, ev_041) shows long-term risk orientation. However, he consistently avoids personal or political risk-taking that would undermine core positions—refusing to negotiate on debt ceiling (ev_015), maintaining ACA despite opposition. This suggests calibrated risk posture oriented toward structural/international gains while avoiding personal gambles.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy embracement with democratic accountability framing; uses formal authority decisively while maintaining legitimacy-oriented discourse",
+      "finding": "Obama's relation to hierarchy demonstrates institutional legitimation of power. He consistently invokes democratic accountability—'Our founders trusted us with the keys to this system of self-government' (ev_036)—framing presidential authority as delegated rather than personal. His use of executive orders, veto threats (ev_029), and direct Congressional criticism (ev_010, ev_020) reflects comfortable hierarchical positioning. The Cancer Moonshot initiative, where he delegated to Biden while maintaining oversight (ev_042, ev_043), shows capacity for hierarchical distribution. His Memorial Day framing of Commander-in-Chief obligations (ev_038) embraces formal military hierarchy while emphasizing accountability to fallen heroes' families. This suggests hierarchical authority expressed through institutional channels rather than personal power-seeking.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_029",
+        "ev_038",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation with institutional obstruction combined with selective negotiation on process; escalates through legitimate channels rather than personal conflict",
+      "finding": "Obama's conflict strategy exhibits direct confrontation of institutional blockers while maintaining policy-focused framing. He publicly names obstruction behaviors—'One senator gumming up the works for the whole country' (ev_010)—without personalizing attacks. His condemnation of Republican opposition to minimum wage, equal pay, and unemployment insurance (ev_020) represents public escalation. However, he simultaneously maintains openness to bipartisan solutions—celebrating bipartisan budget deals (ev_048), working with AFL-CIO and Chamber of Commerce together (ev_008). The executive action pivot in 2014 represents strategic escalation when legislative channels failed. This suggests conflict translated through institutional mechanisms rather than personal split or delay—confrontational but within legitimate democratic discourse.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale horizon integrating immediate crisis management with multi-decade structural goals; demonstrates capacity for sustained attention across timescales",
+      "finding": "Obama exhibits multi-scale time horizon management. Immediate crisis orientation is evident in urgent sequester warnings (ev_011, ev_014) and transportation funding deadlines (ev_011). Medium-term planning appears in energy security goals—'cut oil imports by one-third by 2025' (evt_004)—and deficit reduction framed across years (ev_016). Long-term structural thinking emerges in climate policy orientation—'leave a better, cleaner, safer future for our children' (ev_041)—and institutional building through CFPB (ev_028). The sustained 8-year pattern, including post-presidency civic engagement commitment (ev_047, ev_046), suggests mission-scale temporal orientation. This multi-scale horizon is maintained despite high crisis frequency, suggesting either robust cognitive bandwidth or effective delegation mechanisms.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_016",
+        "ev_004",
+        "ev_041",
+        "ev_028",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural solutions with institutionalization of reforms; patch strategies employed as fallback when structural change blocked",
+      "finding": "Obama demonstrates clear structural-rebuilding orientation. ACA represents fundamental healthcare system restructuring rather than incremental patch (ev_002). Dodd-Frank established permanent regulatory architecture including CFPB (ev_028). Paris climate agreement and Iran deal represent structural international frameworks (ev_034). However, when structural reform was blocked—minimum wage, equal pay (ev_020)—he pivoted to executive orders as patch solutions ('Year of Action', ev_019). This pattern suggests structural preference with pragmatic patch adaptation under constraint. His articulation of 'middle-out' economic philosophy (ev_021) and emphasis on systemic change over short-term fixes supports rebuild orientation. The dual track—pursuing structural solutions while implementing executive patches when blocked—suggests adaptive rebuild strategy.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_034",
+        "ev_019",
+        "ev_020",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness demonstrated through explicit self-positioning, acknowledgment of limitations, and adaptive strategy adjustment; shows capacity for cognitive self-monitoring under load",
+      "finding": "Obama exhibits notable metacognitive sophistication. His farewell address demonstrates explicit self-awareness: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—positioning himself as ongoing learner rather than omniscient authority. He acknowledges trade policy limitations—'past trade deals haven't always lived up to the hype' (ev_027)—demonstrating epistemic self-monitoring. His attribution of accomplishments to American people rather than personal genius (ev_032, ev_045) suggests awareness of systemic factors beyond individual control. The executive action pivot when facing Congressional blockage demonstrates tactical metacognition—recognizing constraint patterns and adjusting mechanisms. However, the absence of explicit self-care, recovery period, or stress acknowledgment in public materials raises questions about private metacognitive access to personal load status.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "crisis_chronicity_pattern",
+      "definition": "Distinguishes between acute crisis response with recovery cycles versus chronic crisis maintenance where threat-activation becomes the default operational mode. This captures a core Selye/McEwen distinction between adaptive allostasis (response with recovery) versus allostatic load accumulation (sustained activation without return to baseline).",
+      "finding": "Obama's 8-year timeline exhibits a distinctive chronicity pattern that warrants examination. The crisis events are not isolated but form interconnected chains: sequestration warnings in February and April 2013 (evt_011, evt_012) transition directly into September government shutdown/debt ceiling crisis (evt_013). The transportation funding issue appears in September 2011 (evt_006) and June 2012 (evt_009)—nearly a year apart but framed with same urgent language. Meanwhile, he simultaneously pursued TPP (2015), Paris Agreement, Iran deal, Cancer Moonshot, climate action, and economic agenda expansion. This simultaneous multi-domain activation without evident recovery periods suggests chronic high-load operation rather than adaptive crisis-response-crisis cycles. The absence of any public acknowledgment of personal strain, recovery needs, or stress management—combined with consistent calm, measured public presentation across all materials—could indicate either successful stress regulation or systematic suppression of load-awareness signals. This chronicity pattern warrants attention in the allostatic load framework as distinct from simple crisis frequency.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_013",
+        "evt_006",
+        "evt_009",
+        "evt_015",
+        "evt_021",
+        "evt_022",
+        "evt_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_bridging_capacity",
+      "definition": "The ability to maintain agency and effectiveness while operating within rigid institutional constraints without either capitulating to constraints or burning out against them. This captures how high-load figures navigate impossible-seeming institutional environments.",
+      "finding": "Obama's presidency provides a case study in institutional bridging under extreme load. Facing consistent Congressional Republican opposition—explicit blocking of minimum wage, equal pay, unemployment insurance, judicial nominees (ev_010, ev_020)—he developed adaptive mechanisms: executive orders for wage policy (evt_014), executive actions catalogued as 'Year of Action' (evt_015), and strategic framing that attributed gridlock to institutional dysfunction rather than personal failure. His 'balanced approach' rhetoric on deficit reduction (ev_013) served as bridging language between competing institutional positions. He maintained bipartisanship appeals even while publicly condemning obstruction, suggesting active maintenance of bridging capacity. The Presidential Innovation Fellows initiative and Silicon Valley partnerships (ev_037, ev_043) represent institutional innovation to bypass deadlocked traditional channels. This bridging capacity—maintaining effectiveness without either surrendering agency to constraints or exhausting against them—appears critical to sustained 8-year high-load performance.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_013",
+        "ev_020",
+        "ev_037",
+        "ev_043",
+        "evt_015"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

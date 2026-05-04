@@ -1,0 +1,15 @@
+{
+  "construct_key": "control_orientation",
+  "assessment": "Active choice architect who systematically redesigns institutional defaults",
+  "finding": "Obama's presidency reveals extensive behavioral intervention through choice architecture modification. His executive order raising contractor minimum wage to $10.10 (ev_017, ev_019) demonstrates direct manipulation of default rules for federal supply chain—the government as buyer creates incentive structures that persist without requiring Congressional action. The 'Year of Action' framing (evt_015) explicitly acknowledges that repeated executive interventions constitute a strategy of institutional design rather than one-time exceptions. His use of veto threats (ev_029: 'I will veto it') functions as a precommitment device that forecloses certain legislative pathways. His Cancer Moonshot (ev_042, ev_043) deployed Presidential Innovation Fellows—a human infrastructure choice—that restructured how patients discover clinical trials (Trials.Cancer.Gov), changing defaults for information search. These actions collectively reveal a revealed preference for institutional redesign over negotiation, using the structure of government itself as the primary intervention tool rather than persuasion or compromise.",
+  "evidence_ids": [
+    "ev_017",
+    "ev_019",
+    "ev_029",
+    "ev_042",
+    "ev_043"
+  ],
+  "local_support": "strong",
+  "discipline": "economics",
+  "lens": "behavioral_economics_thaler"
+}

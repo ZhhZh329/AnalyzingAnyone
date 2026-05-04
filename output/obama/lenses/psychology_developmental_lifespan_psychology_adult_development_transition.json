@@ -1,0 +1,173 @@
+{
+  "discipline": "psychology",
+  "lens": "developmental_lifespan_psychology_adult_development_transition",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping agency balanced with pragmatic structure-responding; mature integration of initiative and constraint recognition",
+      "finding": "Obama demonstrates a sophisticated agency orientation that combines proactive world-shaping with structural responsiveness. During his second term (2010-2017), he launched over 20 executive actions in a self-declared 'Year of Action' (ev_019) when Congress blocked legislative priorities, while simultaneously calling for Congressional action on core issues. He challenged private companies to hire 100,000 veterans (ev_009), framed bipartisan support (AFL-CIO and Chamber of Commerce together, ev_008), and issued definitive veto threats on Dodd-Frank (ev_029). Yet his agency remained institutionally bounded—he repeatedly called on Congress rather than bypassing it entirely, and in his farewell address reflected that conversations with citizens 'kept me honest' (ev_044), suggesting awareness of his own agency limits. This pattern reflects Levinson's concept of mature agency: the ability to shape the environment while remaining responsive to its constraints.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_009",
+        "ev_044",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Deliberate, evidence-informed epistemology with notable epistemic humility about trade-offs and limitations",
+      "finding": "Obama demonstrates an evidence-based epistemic style characterized by reliance on data, acknowledgment of complexity, and epistemic humility regarding policy trade-offs. He consistently cites statistical evidence: 11 million jobs created (ev_025), $11 billion recovered for 26 million consumers (ev_028), uninsured rate below 10% (ev_033). Notably, he showed epistemic humility when acknowledging 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) while still defending TPP. He framed sequester impacts through concrete human examples (Head Start, Meals on Wheels, military families, ev_014), suggesting capacity to move between statistical abstraction and phenomenological grounding. This reflects what Kegan would call a 'cross-level' epistemic capacity—able to hold both quantitative evidence and lived experience simultaneously, with willingness to revise positions when evidence warrants.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_014",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with strong formalization tendencies; ability to move between systemic frameworks and concrete instantiation",
+      "finding": "Obama exhibits high abstraction capacity, most clearly articulated in his 'middle-out economics' philosophy: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). He developed formal frameworks for complex challenges: the 5-year TPP negotiation structure (ev_030), the Paris climate agreement architecture (ev_034), the Energy Blueprint with specific 2025 targets (evt_004). He also demonstrated ability to move between abstraction and concretization—citing Head Start cuts and seniors losing Meals on Wheels (ev_014) alongside macroeconomic indicators. His government modernization initiative involved Presidential Innovation Fellows from Silicon Valley working in the White House (ev_043), suggesting comfort with formal institutional design. This high abstraction-formalization suggests what Robert Kegan would identify as a formal-operational to formal-integrative cognitive style, capable of systems thinking across policy domains.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_030",
+        "ev_034",
+        "ev_014",
+        "ev_043",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principled control orientation; maintains clear boundaries on certain principles while demonstrating flexibility on tactical implementation",
+      "finding": "Obama's control orientation is characterized by principled rigidity on core commitments and tactical flexibility on implementation means. He demonstrated unwavering control posture on debt ceiling negotiations: 'I will not negotiate over the full faith and credit of the United States' (ev_015). He issued definitive veto threats on Dodd-Frank repeal (ev_029) and committed to protecting Medicare: 'As long as I am President, that's a commitment this country is going to keep' (ev_001). However, when direct control was unavailable, he demonstrated adaptive implementation strategies: executive orders on minimum wage (ev_017), executive actions for job creation (ev_019), and calling for Congressional action while working around obstruction. This suggests a 'principled flexibility' control orientation—clear boundaries on fundamental commitments with adaptive tactics for achieving them within structural constraints.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_001",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization over relational comfort; willing to absorb significant political costs for core policy goals",
+      "finding": "Obama demonstrates a clear pattern of mission prioritization over relational comfort or political cost-avoidance. He maintained unwavering commitment to ACA implementation despite universal Republican opposition, framing it as existential commitment to seniors (ev_001, ev_002). He defended Dodd-Frank throughout his presidency, issuing veto threats five years after passage (ev_029). He pursued climate agreements and clean energy standards despite fossil fuel industry opposition (ev_040, ev_041). His 'Year of Action' (ev_019) explicitly called out Republican obstruction while proceeding with executive actions, accepting relational costs. He concluded wars in Iraq and Afghanistan, pursued nuclear agreements with Iran, and normalized relations with Cuba—policies with significant political risk. This mission orientation reflects what Levinson identifies as characteristic of adults in late-midlife who have resolved earlier identity questions and can subordinate relational comfort to substantive achievement.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_029",
+        "ev_020",
+        "ev_034",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated, long-horizon risk tolerance; willing to accept short-term political costs for structural benefits",
+      "finding": "Obama's risk posture reflects calculated, long-horizon tolerance for uncertainty and political cost. He pursued the Trans-Pacific Partnership (ev_030, ev_031) framing it as necessary to prevent China from writing global trade rules, accepting short-term political criticism for long-term structural positioning. He committed to Paris climate agreement (ev_034, ev_041) and auto fuel efficiency standards despite industry resistance. His Iran nuclear deal and Cuba normalization carried significant diplomatic risk. He declared end to Iraq war by year's end (evt_010) and initiated Afghan transition. Most significantly, he defended these choices publicly and persistently—even in final addresses framing them as legacy worth protecting (ev_041: 'That's not something to tear up—it's something to build upon'). This risk posture suggests Vaillant's concept of mature risk-taking: not reckless but accepting of necessary uncertainty when aligned with core values, a developmental capacity that increases with adult maturity.",
+      "evidence_ids": [
+        "ev_030",
+        "ev_031",
+        "ev_034",
+        "ev_041",
+        "ev_038",
+        "evt_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional trust combined with sophisticated power navigation; uses hierarchy legitimately while criticizing its dysfunction",
+      "finding": "Obama's relation to hierarchy and power reflects institutional legitimacy combined with critical awareness of systemic dysfunction. He expressed faith in democratic governance: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges' (ev_036). He used hierarchical power legitimately—executive orders, veto threats, administrative action. However, he directly criticized Congressional dysfunction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He distinguished between legitimate institutional authority and its abuse, refusing to negotiate on debt ceiling (ev_015) while working within the system. His farewell call for sustained civic engagement 'not just when there's an election' (ev_046) suggests he understood his own power as temporary and delegitimized hierarchical obstruction rather than hierarchy itself. This reflects mature understanding of power as legitimate when exercised within institutional norms.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_010",
+        "ev_015",
+        "ev_046",
+        "ev_001"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Public confrontation combined with issue-translation; frames conflicts in unifying terms while maintaining clear opposition",
+      "finding": "Obama's conflict strategy involves public confrontation of opposition combined with strategic issue-translation to broaden coalitions. He explicitly named Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). He condemned Senate blocking tactics directly (ev_010). Yet he consistently framed conflicts in unifying terms: 'This isn't a Democratic or a Republican issue—it's an American issue' (ev_008), citing AFL-CIO and Chamber of Commerce together. He translated economic conflicts through 'middle-out' framing (ev_021) to appeal beyond partisan bases. On military policy, he distinguished between war on al-Qaeda versus Islam (ev_012). He documented human costs of conflict (sequester impacts on Head Start, seniors, military families, ev_014) to translate policy disputes into human terms. This suggests a 'public confrontation + issue translation' strategy—acknowledging conflict openly while reframing it to maximize coalition potential.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_008",
+        "ev_021",
+        "ev_012",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time horizon with emphasis on structural long-term; integrates short-term crisis response with generational perspective",
+      "finding": "Obama demonstrates a multi-scale temporal orientation integrating short-term crisis management with long-term structural vision. Short-term: He addressed immediate deadlines repeatedly—sequester (ev_013, ev_014), transportation funding in days (ev_011), debt ceiling crisis (ev_015). Medium-term: Election cycles, Jobs Challenge with 2013 deadline (ev_009), 'Year of Action' framing (ev_019). Long-term: 2025 energy independence goal (evt_004), end of Afghanistan transition by 2014 (evt_010), Paris climate agreement with nearly 200 nations (ev_034), multiple references to future generations and children's futures (ev_041). His year-end 2015 address (ev_033) and farewell reflections (ev_045) demonstrate life-review temporal integration. This multi-scale horizon suggests what Erikson would identify as generativity—concern for future generations—which intensifies in midlife and beyond.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_011",
+        "ev_015",
+        "ev_009",
+        "ev_033",
+        "ev_034",
+        "ev_041",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair; pursues comprehensive systemic solutions",
+      "finding": "Obama demonstrates consistent preference for structural redesign over piecemeal solutions. ACA represented fundamental healthcare system restructuring, not market patches—extending Medicare solvency 12+ years, creating new coverage frameworks (ev_002). Dodd-Frank (ev_003, ev_028) redesigned financial regulation comprehensively: consumer watchdog, 'too big to fail' elimination, new rules rather than amendments. TPP (ev_030) was a 5-year negotiation creating new multilateral trade architecture. Paris climate agreement established new global framework with 200 nations (ev_034). Energy Blueprint integrated domestic drilling, fuel efficiency, and clean energy into comprehensive strategy (evt_004). Even when blocked, he pursued executive restructuring (government tech modernization through Presidential Innovation Fellows, ev_037) rather than temporary fixes. This preference for structural redesign suggests a Levinsonian 'life structure' approach—building comprehensive frameworks rather than patching existing systems.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_028",
+        "ev_030",
+        "ev_034",
+        "ev_037",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness of own growth, limitations, and cognitive processes; demonstrates reflective self-monitoring throughout second term",
+      "finding": "Obama demonstrates notably high metacognitive awareness, evidenced by self-reflective statements about his own growth and limitations. In his farewell address, he explicitly acknowledged learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He reflected on diverse experiences witnessing American resilience: 'I've seen neighbors looking out for each other... I've hugged cancer survivors... I've seen communities rebuild' (ev_045). He expressed continued optimism: 'Eight years later, I am even more optimistic about our country's promise' (ev_047). His 'Year of Action' framing suggested awareness of having to adapt tactics when structural ones failed. He acknowledged past trade deal limitations (ev_027) while maintaining forward commitment. This metacognitive capacity—monitoring one's own thinking, acknowledging limitations, integrating experience into self-understanding—represents what Kegan would identify as the transition toward formal-integrative meaning-making, the capacity to see oneself as both actor and object of reflection.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_047",
+        "ev_027",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_generativity",
+      "definition": "Beyond personal legacy-building, this captures Obama's expressed faith in democratic institutions as vehicles for generational transmission, combined with active investment in creating structures that outlive individual tenure. It differs from 'agency_orientation' (which focuses on capacity) and 'relation_to_hierarchy_power' (which focuses on power navigation) by emphasizing the temporal-generational dimension—how present actions serve future citizens.",
+      "finding": "Obama exhibits strong institutional_generativity—faith in and investment toward institutional structures that serve future generations. He explicitly framed climate action as legacy: 'if we keep pushing... we can leave a better, cleaner, safer future for our children' (ev_041). He called for sustained civic participation 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). He issued Cancer Moonshot as personal commitment to future patients (ev_042). He declared 'I'm even more optimistic... and I look forward to working along your side, as a citizen, for all my days that remain' (ev_047)—framing post-presidency generativity. His emphasis on institutional resilience (debt ceiling principle, Dodd-Frank protection) suggests he understood his role as transitional steward. This generative concern for institutional health beyond personal tenure represents a developmental capacity that Vaillant's adult development research identifies as intensifying in late-midlife, distinct from both agency and power-relation constructs.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_046",
+        "ev_042",
+        "ev_047",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

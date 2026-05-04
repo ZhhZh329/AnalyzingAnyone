@@ -1,0 +1,178 @@
+{
+  "discipline": "philosophy",
+  "lens": "eastern_philosophy",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Posits a relational, flow-aligned agency rather than pure world-shaping—Obama frames presidential action as channeling collective American will rather than imposing individual will on systems",
+      "finding": "Obama consistently positions himself as an agent who works with and amplifies existing social, economic, and democratic currents rather than forcing outcomes through sheer presidential power. His 'middle-out' economic philosophy (ev_021) explicitly rejects top-down control, arguing the economy 'grows best' when aligned with broad-based prosperity. His frequent appeals to bipartisan coalitions (ev_008), AFL-CIO/Chamber of Commerce partnerships (ev_008), and attributions of progress to 'the American people' (ev_032) reveal an agency model closer to Daoist wu-wei—acting in harmony with natural social and economic flows rather than dominating them. Even his more directive moments (veto threats on Dodd-Frank, ev_029; executive orders on minimum wage, ev_017) are framed as protecting already-established rules of the game, not imposing new ones. His farewell address crystallizes this: 'Every day, I learned from you. You made me a better President' (ev_044)—positioning presidential agency as responsive cultivation of what the people already possess, not creation ex nihilo.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_032",
+        "ev_008",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integrates empirical evidence with narrative wisdom and acknowledges epistemic humility about complex policy outcomes",
+      "finding": "Obama's speeches demonstrate a hybrid epistemic style that combines Western-style empirical reasoning (citing specific job numbers, cost figures, consumer recovery amounts) with what Eastern traditions would recognize as 'wisdom through relationship.' His statistical precision in economic addresses—'nearly 11 million new jobs over 57 months' (ev_025), '$11 billion back in pockets of 26 million consumers' (ev_028)—shows comfort with formal measurement. Yet his rhetorical technique relies heavily on narrative exemplification and concrete human stories, appealing to shared experience rather than logical demonstration. His acknowledgment that 'past trade deals haven't not always lived up to the hype' (ev_027) shows epistemic humility about historical complexity. His understanding that 'Our founders trusted us with the keys to this system' (ev_036) reflects Confucian emphasis on collective wisdom over individual certainty. This hybrid suggests an epistemic approach where data serves the story rather than dominating it, allowing space for emergence and uncertainty characteristic of Buddhist epistemological frameworks.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_028",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; uses abstract principles as organizing frameworks but grounds them in concrete specifics rather than pure systematization",
+      "finding": "Obama employs abstract policy frameworks ('middle-out economics,' 'Year of Action,' 'balanced approach to deficit reduction') as organizing principles, but consistently grounds them in concrete particulars rather than developing comprehensive theoretical systems. His 'Top 10 Things that Happened' enumeration (ev_033) is rhetorical packaging rather than formal analysis. His rejection of 'drilling alone' as insufficient (ev_005) shows awareness that single-cause explanations fail to capture complex realities—a recognition resonant with Buddhist dependent origination. He does not construct systematic philosophies like Rawls or comprehensive economic theories; instead, he uses abstraction as pragmatic orientation ('opportunity for all,' ev_018) that guides but does not determine specific policy choices. This moderate abstraction level aligns with Confucian emphasis on concrete relationship and situation over abstract principle, while remaining more systematized than Daoist resistance to conceptualization.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_005",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Paradoxical—exercises significant presidential control mechanisms (vetoes, executive orders) while rhetorically emphasizing alignment over domination",
+      "finding": "Obama demonstrates a fundamental tension between his exercise of institutional control and his rhetorical embrace of non-domination. The tension emerges clearly: he issued definitive veto threats (ev_015, ev_029), signed executive orders raising contractor minimum wage (ev_017), and declared a 'Year of Action' featuring 'more than 20 executive actions' (ev_019). These are not wu-wei gestures but deliberate exertions of presidential power. Yet his framing consistently positions this control as defending established rules ('I will not negotiate over full faith and credit,' ev_015), protecting the vulnerable (ev_014), or preventing others from imposing harmful changes. His 'middle-out' philosophy explicitly rejects top-down control (ev_021), and his frequent bipartisanship appeals suggest preference for outcomes emerging through alignment. This paradox—controlling through non-controlling rhetoric—may represent what Daoist thought would recognize as 'strategic wu-wei': using institutional power to create conditions for natural outcomes rather than forcing direct control. The pattern suggests Obama is aware that direct control often fails, so he exercises power while framing it as flow-alignment.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_021",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Prioritizes mission but absorbs significant relational costs rather than burning bridges; moderate cost tolerance with ongoing relationship investment",
+      "finding": "Obama pursues substantial policy missions (ACA implementation, Dodd-Frank defense, climate action, TPP passage) while maintaining relational orientations that avoid permanent antagonisms. His criticisms of Republican obstruction (ev_020) are direct but framed within democratic norms rather than as enemy identification. He repeatedly calls for bipartisan cooperation even when blocked, demonstrating relational investment beyond mere strategic positioning. His declaration that he would 'not negotiate over the full faith and credit' (ev_015) shows mission-priority willingness to accept relational confrontation, but his broader pattern suggests absorption of costs rather than relationship destruction. His farewell framing of shared American experience across disagreement (ev_044, ev_045) demonstrates ongoing relationship investment even after political battles end. This pattern aligns with Confucian emphasis on maintaining social harmony through enduring relationships—political opponents are not permanent enemies but fellow participants in democratic cultivation, even when mission imperatives temporarily override relational comfort.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse in governance; prefers measured, incremental approaches with clear fallback positions; avoids dramatic confrontation",
+      "finding": "Obama's governing style demonstrates pronounced risk aversion characteristic of Confucian preference for order and harmony over disruptive change. His repeated emphasis on 'bipartisan' solutions (ev_008), balanced approaches (ev_013), and measured progress reflects comfort with institutional stability over revolutionary transformation. His political strategy features consistent coalition-building, appeals to both AFL-CIO and Chamber of Commerce (ev_008), and framing that acknowledges complexity ('past trade deals haven't always lived up to the hype,' ev_027). Even his more aggressive actions—executive orders, veto threats—are defensive rather than revolutionary, protecting established achievements rather than imposing new visions. His description of budget compromises as 'Christmas miracles' (ev_048) reveals genuine delight in risk-reduction through cooperation, not in bold transformation. This risk posture contrasts sharply with revolutionary or even reformist radicals who accept disruption as necessary cost. Obama's approach aligns with Daoist 'natural unfolding' rather than forced change, accepting longer timeframes and smaller increments over dramatic transformation with high failure risk.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_027",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Embraces institutional hierarchy as legitimate authority while demanding accountability and mutual obligation within it; hierarchical power used in service of collective welfare",
+      "finding": "Obama demonstrates a Confucian relationship to institutional hierarchy—accepting hierarchy as natural and functional while emphasizing mutual obligation within it. As Commander-in-Chief, he exercises military authority but frames it as 'solemn obligation' to protect families of fallen (ev_038), emphasizing duty over domination. His presidential power is positioned as serving collective American welfare, not personal or factional interest. His appeals to constitutional structure ('Our founders trusted us,' ev_036) recognize institutional hierarchy as legitimate. Yet he also criticizes when hierarchical actors (Senators, Congressional Republicans) obstruct democratic function—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). This shows hierarchy as conditional on fulfilling its proper function, not absolute. The pattern reflects Confucian emphasis that power carries obligations—hierarchs must serve those below them, not merely command. Obama's use of presidential power to protect consumers (CFPB, ev_028), raise wages (ev_017), and extend opportunity (ev_018) demonstrates hierarchical authority in service of broadly redistributive goals, not pure consolidation.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_036",
+        "ev_010",
+        "ev_028",
+        "ev_017",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Prefers negotiation and translation of conflicts into cooperative frameworks; avoids direct escalation; frames conflict resolution as democratic problem-solving",
+      "finding": "Obama's conflict strategy consistently favors negotiated resolution over confrontation or escalation. His calls for bipartisan transportation bills (ev_006, ev_008), his framing of minimum wage as already supported by 'majority of small business owners' (ev_023), and his appeals to shared American values throughout his addresses all demonstrate translation of conflict into cooperative frameworks. His 'not a Democratic or a Republican issue' framing (ev_008) attempts to de-escalate partisan conflict by repositioning issues as American problems requiring American solutions. His direct criticism of Senate obstruction (ev_010) remains framed within democratic norms—'not what our founding fathers envisioned'—rather than as naked power confrontation. Even his firm positions on debt ceiling (ev_015) and Dodd-Frank defense (ev_029) are framed as protecting democratic institutions from irresponsible behavior, not personal or partisan battles. This pattern aligns with Confucian conflict resolution through harmony and mutual obligation, seeking to restore proper relational functioning rather than winning at opponent's expense. Obama's strategy suggests that lasting resolution requires maintaining relationship even through disagreement—a longer-term, cultivation-oriented approach to conflict.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_023",
+        "ev_006",
+        "ev_010",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional and generational timeframes dominate; works within multi-year horizons even when political pressure demands short-term wins",
+      "finding": "Obama consistently operates within extended timeframes that align with Confucian generational concern and Daoist process thinking. His 'America's resurgence is real' framing (ev_024) explicitly positions progress in decades-long terms. His energy security goal—'cut oil imports by one-third by 2025' (evt_004)—demonstrates 14-year planning horizons. His climate policies explicitly address 'future for our children' (ev_041), invoking generational responsibility. His ACA framing positions it as 'the single longest extension in history' (ev_002) for Medicare solvency—a multi-decade concern. His deficits 'falling at fastest rate since World War II' framing (ev_016) takes 70-year perspective. Even his political strategy shows long-term orientation—working toward TPP across five years of negotiation (ev_030), building toward Paris climate agreement, accumulating 57 months of job growth before declaring success. This temporal orientation contrasts sharply with shorter-term political cycles and reflects儒家 concern for what one generation owes the next, combined with Buddhist recognition that all temporal states are processes rather than endpoints.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_016",
+        "ev_041",
+        "ev_002",
+        "ev_030",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for system redesign over incremental repair in major policy areas; positions major initiatives as structural transformations",
+      "finding": "Obama demonstrates pronounced rebuild orientation in several signature policy domains, positioning his agenda as structural redesign rather than incremental adjustment. The ACA explicitly 'reformed the health care system' (ev_002), extending Medicare solvency through fundamental restructuring rather than patching existing arrangements. TPP explicitly aimed to 'write global trade rules' (ev_031), positioning international commerce framework redesign as necessary. The energy blueprint sought complete transformation of American energy independence rather than incremental drilling (ev_005). Dodd-Frank established entirely new regulatory architecture (ev_028)—consumer protection bureau, derivatives oversight, 'too big to fail' prevention. Even his Cancer Moonshot explicitly contrasted with 45 years of incremental progress (ev_042), seeking breakthrough rather than continuation. However, his bipartisanship appeals sometimes accept patch solutions ('Christmas miracles,' ev_048), and his repeated calls for Congressional action suggest comfort with partial solutions when full rebuilds are blocked. The pattern shows rebuild preference when political conditions permit, with pragmatic patching when necessary—balancing ideal transformation with realistic accommodation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_031",
+        "ev_005",
+        "ev_028",
+        "ev_042",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness; demonstrates reflection on his own role, acknowledges uncertainty, frames presidential action as responsive rather than controlling",
+      "finding": "Obama demonstrates unusual metacognitive sophistication for a political figure, regularly reflecting on the limits and conditions of his own thinking and agency. His farewell address explicitly credits the American people with making him 'a better President, and a better man' (ev_044)—recognizing his own growth through responsive relationship. He acknowledges learning continuously from citizens across diverse settings (ev_044). His statement that 'our founders trusted us' with government (ev_036) reflects awareness of his role within larger constitutional design, not as autonomous actor. His 'not what our founding fathers envisioned' critique (ev_010) shows reflection on institutional forms and their purposes. His honest acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates awareness of policy imperfection and historical complexity. His 'faith in government as tool for collective problem-solving' (ev_036) reflects understanding of institutional purpose over personal glory. This metacognitive pattern aligns with Confucian self-cultivation emphasis—ongoing refinement of one's role through reflective practice—combined with Buddhist recognition that fixed self-understanding is illusory. Obama appears aware that his presidential identity emerges through interaction rather than being independently fixed, a sophisticated understanding for someone exercising substantial institutional power.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_036",
+        "ev_010",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "relational_agency",
+      "definition": "The extent to which a person understands their agency as emerging through and dependent upon relationships, rather than as an individual capacity deployed in relationship contexts. This emerges from Eastern (especially Confucian and Daoist) frameworks that resist Western individual-subject assumptions. Obama's pattern consistently positions himself as channel, amplifier, and responsive cultivator rather than autonomous actor.",
+      "finding": "Obama's speeches repeatedly frame presidential power as derivative from and responsive to collective American agency. His attributions of progress to 'the American people' (ev_032), his statement that conversations with citizens 'kept me honest, kept me inspired' (ev_044), and his 'Year of Action' framing (ev_015, ev_019) consistently position the president as working with existing social currents rather than imposing individual will. This relational agency concept—which Confucian thought would recognize as proper virtue (De) flowing through aligned relationships, or Daoist wu-wei as acting in harmony with natural patterns—appears prominently in Obama's self-understanding. It contrasts with Western assumptions that agency is an individual capacity that actors then bring to relationships; here, agency only exists in and through relationships, making the actor fundamentally responsive rather than fundamentally autonomous.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_015",
+        "ev_019",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "democratic_cultivation",
+      "definition": "A framework where democratic participation is understood as a practice of self-cultivation and moral development, not merely instrumental voting or interest-aggregation. This extends Confucian cultivation concepts into democratic contexts, where civic engagement develops character and collective wisdom emerges through ongoing practice. Obama's pattern of calling for 'civic participation' beyond elections and framing democratic engagement as ongoing practice reflects this emergent dimension.",
+      "finding": "Obama's farewell address explicitly frames democratic citizenship as an ongoing practice of cultivation: 'All of us, regardless of party, should throw ourselves into the work of citizenship. Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). This vision of democratic participation as continuous self-development resonates with Confucian emphasis on junzi cultivation through ongoing practice, not achievement of fixed states. His Memorial Day calls for 'acts of remembrance' through concrete year-round practices (ev_039) extend this cultivation framework to civic ritual. His faith that 'our founders trusted us with the keys to this system' (ev_036) positions democratic participation as responsible self-governance development, not mere delegation. This 'democratic cultivation' dimension—where voting, civic engagement, and collective problem-solving serve as practices for developing moral and political capacities—represents an emergent construct not covered by shared_constructs dimensions and may help explain Obama's emphasis on sustained civic participation over electoral-cycle engagement.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_039",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

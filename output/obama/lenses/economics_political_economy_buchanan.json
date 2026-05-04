@@ -1,0 +1,148 @@
+{
+  "discipline": "economics",
+  "lens": "political_economy_buchanan",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaper with reactive reliance on executive authority when legislative channels blocked",
+      "finding": "Obama exhibited a mixed orientation, combining structural vision (ACA, Dodd-Frank, clean energy standards) with reactive executive actions when formal legislative processes stalled. He signed landmark legislation (ACA, Dodd-Frank) during the 2009-2010 window, then shifted to executive actions starting in 2014 (ev_017: $10.10 minimum wage for federal contractors) and declared a 'Year of Action' citing over 20 executive actions (ev_019). The pattern suggests he acted as a world-shaper during periods of unified or cooperative government, but increasingly relied on unilateral executive instruments when Congressional obstruction intensified—a pattern more consistent with managing constrained options than proactively designing incentive-compatible rules. Notably, he did not pursue significant procedural or structural reforms to reduce Congressional veto points (e.g., eliminating the filibuster for nominations, which he criticized in ev_010 but did not address structurally).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-quantitative with optimistic bias; publicly cites data to persuade but shows limited evidence of examining underlying actor incentives",
+      "finding": "Obama's public communications demonstrate heavy reliance on quantitative metrics (job creation numbers, deficit reduction rates, consumer recovery amounts) presented to build confidence in policy outcomes. He cited CFPB recovery of $11 billion for 26 million consumers (ev_028), 57 months of consecutive job growth (ev_025), and wind power tripling (ev_040). However, Buchanan's framework asks whether beliefs incorporate analysis of how incentives affect actor behavior. His speeches rarely contain systematic analysis of how Congressional incentives, bureaucratic interests, or regulatory enforcement capacity would affect policy outcomes. Instead, he framed legislative obstruction as a failure of political will rather than a predictable consequence of institutional incentives. This optimism about political cooperation, combined with limited engagement with incentive structures driving opponent behavior, suggests an epistemic style oriented toward public persuasion rather than Buchanan-style incentive analysis.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_025",
+        "ev_040",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalist on policy substance but procedurally pragmatic; does not emphasize constitutional rule design",
+      "finding": "Obama generally championed formal regulatory frameworks (ACA's insurance exchanges, Dodd-Frank's consumer protections and systemic risk oversight, Clean Air Act vehicle standards) rather than discretionary approaches. However, Buchanan's framework is specifically concerned with formalization at the level of constitutional rules and procedural constraints—not just policy content. Obama's advocacy for 'balanced' deficit reduction (ev_013) and his 2012 State of the Union call to end Senate 'holds' and require 'up-or-down votes' (evt_008) show some procedural awareness, but these did not constitute sustained engagement with constitutional rule design. The absence of proposals for structural reforms (e.g., changing Senate rules, reforming the budget process, making the debt ceiling unconditional) suggests his interest in formalization extended to policy outcomes rather than governance rules that would constrain future actors' incentives.",
+      "evidence_ids": [
+        "ev_013",
+        "evt_008"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for controlling policy outcomes; willingness to use unilateral executive authority as fail-safe when legislative process fails",
+      "finding": "Obama exhibited a pronounced control orientation, deploying executive instruments when legislative paths were blocked. The most significant documented instance was his refusal to negotiate over the debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States')—a clear boundary-setting posture. He issued definitive veto threats on Wall Street Reform repeal (ev_029: 'I will veto it') and used executive orders to raise contractor minimum wage (ev_017) without Congressional approval. Critically, his 'Year of Action' framing (ev_020: Republicans 'have blocked or voted down every serious idea') positioned executive unilateralism as the legitimate alternative when institutional cooperation failed. From Buchanan's perspective, this suggests a focus on controlling policy outcomes through available mechanisms rather than designing rules that would make cooperation incentive-compatible. The strong veto commitment on Dodd-Frank, however, does demonstrate rule-protective behavior—defending institutional designs from reversal—which partially aligns with Buchanan's concern for protecting rules from interest-group predation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate-high mission orientation; willing to publicly criticize Congressional opponents but maintains coalition-building rhetoric",
+      "finding": "Obama publicly named and criticized Congressional Republicans for blocking his agenda—ev_020 explicitly catalogued their opposition ('said 'no' to raising the minimum wage, 'no' to equal pay, 'no' to restoring unemployment insurance'). This represents a significant relational cost incurred in the service of policy goals. However, his rhetoric consistently maintained the framing of bipartisan opportunity and shared American values (ev_004: 'because of the ingenuity of our entrepreneurs,' ev_008: 'one senator gumming up the works... is certainly not what our founding fathers envisioned'). He cited AFL-CIO and Chamber of Commerce cooperation on transportation funding (ev_008), suggesting relational bridging as a conscious strategy. The Buchanan lens would note that his public criticism of Congressional obstruction served a persuasion function but did not address the underlying incentive structures (electoral incentives, party discipline, filibuster rents) driving the behavior he complained about. His mission orientation was genuine but operationally limited to public advocacy rather than structural reform of the legislative process.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_008",
+        "ev_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse on constitutional/national credit; willing to take political risks on policy goals but prefers stable institutional frameworks",
+      "finding": "Obama demonstrated risk-averse behavior on constitutional and credit matters—the debt ceiling refusal (ev_015) framed potential default as an existential threat rather than a negotiable risk, reflecting his aversion to uncertainty on foundational institutional commitments. On policy questions, he exhibited a preference for established frameworks (ACA built on existing public-private insurance structures; Dodd-Frank retained existing regulatory agencies; climate policy operated through Clean Air Act authorities). The sequester crisis revealed his posture: he opposed the mechanism on humanitarian grounds (ev_014 documented Head Start cuts, Meals on Wheels impacts) but was unable to structurally redesign the budget process to prevent it. His risk posture might be characterized as 'defensive institutionalism'—protecting existing frameworks from degradation while lacking proposals for more resilient rule structures that would prevent future crises. Buchanan would note the absence of structural reforms (e.g., making across-the-board cuts constitutionally prohibited, eliminating the sequester mechanism) that would better constrain future risk.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_014",
+        "ev_013"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Assertive user of presidential authority; views executive power as legitimate tool for policy advancement when legislative channels blocked",
+      "finding": "Obama's documented behavior reveals a clear willingness to use hierarchical authority—executive orders, veto threats, public pressure campaigns—to advance policy goals. His December 2014 year-end address (ev_024) celebrated economic recovery as measurable and real ('Pick any metric you want—America's resurgence is real'), positioning himself as successfully exercising executive stewardship. His response to Congressional obstruction followed a predictable pattern: public persuasion attempts, then executive unilateralism (ev_019 catalogued over 20 executive actions). The debt ceiling refusal (ev_015) and veto threat on Dodd-Frank repeal (ev_029) represent his clearest stances on protecting constitutional hierarchy from being leveraged for ransom. However, Buchanan would observe that Obama did not seek to reconfigure the hierarchical relationships themselves—no sustained advocacy for reducing the filibuster threshold, eliminating the debt ceiling mechanism, or reforming the separation of powers to reduce veto points. His relation to hierarchy was instrumental (use it when needed) rather than structural (reform it to make future governance more functional).",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_019",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalatory-with-boundaries; escalates through public criticism and executive action but maintains clear red lines on fundamental institutional matters",
+      "finding": "Obama's conflict strategy exhibited clear escalation patterns and defined limits. On routine policy conflicts, he escalated publicly (ev_020's explicit enumeration of Republican blocking) and instrumentally (executive actions bypassing Congress). On fundamental institutional matters, he held fixed positions—the debt ceiling refusal (ev_015) was unconditional, and Dodd-Frank protection received an absolute veto commitment (ev_029). Notably absent was the Buchanan-relevant conflict strategy of redesigning the rules of the conflict itself. He condemned Senate obstruction ('one senator gumming up the works' ev_010) without proposing to eliminate or constrain the filibuster mechanism. He called for 90-day up-or-down votes on nominations (evt_008) without advocating structural reform. The pattern suggests a conflict strategy oriented toward winning specific policy battles within existing institutional structures rather than changing the structure of institutional conflict to make certain outcomes more achievable.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mixed but mission-oriented long-term on legacy; short-term political horizon on legislative tactics; long-term optimism about democratic governance",
+      "finding": "Obama demonstrated multiple time horizons. On policy legacies, he operated on multi-decade timescales—ACA's Medicare solvency extension (ev_002: 'at least a dozen years'), Paris climate agreement (ev_034: 'nearly 200 countries came together'), and auto fuel efficiency standards (evt_025). On immediate legislative crises, he responded to short-deadline pressures (7 days for transportation funding, 8 days for student loan rates—ev_011). His farewell address (ev_046) framed citizenship as a 'full span of a lifetime' commitment, suggesting long-term civic engagement horizons. Buchanan would note, however, that his long-term vision for structural governance reform was underdeveloped—he articulated aspirational policy goals (middle-class opportunity, clean energy transition) without parallel emphasis on constitutional rules or procedural reforms that would constrain future actors' incentives in the same direction. The absence of proposals like balanced budget constitutional amendments, automatic stabilizers, or procedural reforms to reduce legislative veto points suggests his time horizon was long on policy substance but short on governance structure.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_034",
+        "ev_046",
+        "ev_011"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Rebuilder on policy frameworks; patcher on governance processes; structural inertia on constitutional rules",
+      "finding": "Obama's record shows genuine structural rebuilding on certain policy domains: ACA represented a comprehensive restructuring of health insurance markets, Dodd-Frank rebuilt the financial regulatory architecture with new agencies (CFPB, FSOC), and the Paris climate agreement established new international coordination frameworks. However, Buchanan's lens focuses on governance rules rather than policy content. Here his record reveals patch-and-manage rather than rebuild: the sequester (ev_011, ev_012) was repeatedly documented as causing harm but was never structurally replaced; the Congressional budget process remained unchanged; the debt ceiling mechanism remained in place despite being described as a source of manufactured crisis. His response to these governance failures was public pressure and crisis management rather than structural proposals for durable rule changes. The gap between his willingness to rebuild comprehensive policy architectures (ACA, Dodd-Frank) and his failure to propose reforms to the legislative process that repeatedly obstructed those architectures suggests that his rebuild orientation was domain-specific rather than generalized to constitutional/governance rules.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_012",
+        "ev_015",
+        "ev_002",
+        "ev_028"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate awareness of constraints; acknowledges political opposition as a given but does not systematically analyze incentive structures driving opponent behavior",
+      "finding": "Obama's public communications reveal some self-awareness of political constraints—he acknowledged that 'neither party has been blameless in tactics like these' (ev_010, referring to Senate obstruction) and admitted that 'past trade deals haven't always lived up to the hype' (ev_027). His farewell address demonstrated reflective awareness of his own growth ('You made me a better President and a better man'—ev_044). However, Buchanan's metacognition is specifically about recognizing how incentive structures shape other actors' behavior. Obama frequently attributed Congressional obstruction to partisan motivation without systematic analysis of how electoral incentives, party discipline, filibuster rents, or resource allocation within Congress created those behaviors. His framing ('Republicans blocking') served rhetorical purposes but did not constitute the Buchanan-type metacognition of how self-interest operates under given institutional constraints. This limits his profile on this construct—the evidence shows personal reflection but not systematic analysis of institutional incentive structures affecting political opponents.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "executive_unilateralism_as_fallback_pattern",
+      "definition": "The systematic reliance on executive authority as a substitute mechanism when legislative channels become blocked, without corresponding effort to reform the legislative process itself. This differs from the standard conflict_strategy construct because it specifically addresses the asymmetry between his willingness to use executive power instrumentally and his lack of engagement with rule-level reforms to the legislative process that would reduce obstruction.",
+      "finding": "Obama's documented behavior from 2011-2016 reveals a clear pattern: when Congressional obstruction intensified (ev_020: minimum wage, equal pay, unemployment insurance all blocked), he increasingly deployed executive actions (ev_019: over 20 actions) and declared a 'Year of Action.' However, his public critique of Senate procedures (ev_010) and calls for faster confirmation votes (evt_008) were not accompanied by proposals for structural reform (e.g., eliminating or reforming the filibuster, changing the cloture threshold, making the budget reconciliation process more usable). This represents a specific political economy pattern where an office-holder adapts to institutional constraints by leveraging executive power rather than attempting to reconfigure the institutional rules themselves. The pattern suggests that his theory of governance relied on the President being willing and able to act unilaterally when necessary, rather than on designing rules that would make cooperative legislative outcomes more achievable under standard separation-of-powers constraints.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_010",
+        "evt_008"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

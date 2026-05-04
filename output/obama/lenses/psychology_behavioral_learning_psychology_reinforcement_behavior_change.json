@@ -1,0 +1,182 @@
+{
+  "discipline": "psychology",
+  "lens": "behavioral_learning_psychology_reinforcement_behavior_change",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who designs new incentive structures rather than merely responding to circumstances",
+      "finding": "Obama consistently positions himself as an architect of systems rather than a reactor to events. He designed comprehensive frameworks like the ACA (ev_001, ev_002), Dodd-Frank (ev_028, ev_029), and the Energy Blueprint (evt_004) that establish new behavioral incentives for millions of actors. When Congress blocked legislation, he shifted to executive action (ev_017, ev_019) - redesigning the reinforcement environment for federal contractors rather than accepting the status quo. His veteran hiring challenge (ev_009) explicitly created positive reinforcement for corporate behavior change. This demonstrates a world-shaping orientation: he identifies gaps in the incentive structure and builds new positive reinforcement systems to fill them.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven learner who forms judgments through empirical feedback and adjusts messaging accordingly",
+      "finding": "Obama's speeches reveal a pattern of forming beliefs through observable data and adjusting behavior based on feedback. He consistently cites specific metrics (11 million jobs, 57 months growth, uninsured rate below 10%) as evidence of progress (ev_024, ev_025, ev_033), treating statistical feedback as primary validation. He acknowledges when past approaches fell short - admitting past trade deals 'haven't always lived up to the hype' (ev_027) - demonstrating willingness to update beliefs based on outcome data. His government modernization initiative (ev_037) explicitly sought external feedback from Silicon Valley experts. This epistemic style suggests someone who treats policy outcomes as feedback signals and modifies strategies accordingly, rather than relying on ideological priors.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_027",
+        "ev_033",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization preference; constructs detailed institutional frameworks with measurable outcomes",
+      "finding": "Obama demonstrates strong preference for abstraction and formalization through his consistent creation of institutionalized frameworks with quantified targets. The ACA formalized healthcare access with measurable solvency extensions (ev_002); Dodd-Frank created the CFPB as a formal regulatory watchdog (ev_028); the Energy Blueprint set specific targets like cutting oil imports by one-third by 2025 (evt_004). He framed the Cancer Moonshot as a formal task force structure with cross-agency coordination (ev_043). His economic philosophy is explicitly abstract - 'middle-out' economics (ev_021) - and he operationalized it through concrete policies. This formalization tendency extends to how he structures challenges: the 100,000 veteran hires by 2013 became a measurable public commitment (ev_009).",
+      "evidence_ids": [
+        "ev_002",
+        "ev_009",
+        "ev_021",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control through system design rather than direct interpersonal control",
+      "finding": "Obama seeks control primarily through institutional design and incentive architecture rather than direct authority over individuals. He created the CFPB specifically to control market behavior through consumer protection (ev_028); used executive orders to control federal contractor compensation (ev_017); established veto threats to control legislative outcomes (ev_029). His control orientation manifests as setting up surveillance mechanisms (CFPB monitoring) and consequence structures (wage requirements) rather than micromanaging. Notably absent is control-seeking through punishment or coercion - his control is almost entirely positive reinforcement design (rewards for compliant contractors, benefits for veterans). The debt ceiling refusal (ev_015) shows he also uses line-drawing as a control mechanism when institutional manipulation won't suffice.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Frequently prioritizes mission objectives over relational comfort, accepting political conflict as necessary",
+      "finding": "The evidence shows Obama repeatedly accepted significant relational costs in service of policy missions. He declared he would veto any Wall Street Reform repeal (ev_029) and refused to negotiate over the debt ceiling under any circumstances (ev_015), accepting hostile relations with Congress as acceptable costs. His 'Year of Action' (ev_020) explicitly criticized Republican obstruction while continuing to push executive action, accepting partisan damage. He acknowledged past trade deals fell short while continuing to pursue TPP (ev_027), accepting the political cost of appearing inconsistent. Yet he also sought bipartisan coalition building when possible (ev_008) - AFL-CIO and Chamber of Commerce together - suggesting mission prioritization is flexible rather than rigid. The pattern suggests a cost-benefit calculation where mission objectives trump relational comfort but don't entirely eliminate it.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker who pursues high-uncertainty goals backed by evidence-based confidence",
+      "finding": "Obama demonstrates a measured approach to risk, pursuing ambitious goals when evidence supports confidence but accepting significant uncertainty. His signature initiatives - ACA, Paris Agreement, Iran nuclear deal, TPP - all carried substantial political and policy risk, yet he pursued them systematically. He explicitly rejected drilling alone as insufficient for energy security (ev_005), choosing a higher-risk diversified approach. The Cancer Moonshot (ev_042) represents a high-uncertainty scientific initiative with variable outcomes. However, his risk-taking is calculated rather than reckless - he builds evidence before committing (citing data extensively), creates institutional backup mechanisms (CFPB enforcement, international coalitions), and frames risks in concrete terms ('America's resurgence is real' - ev_024). He explicitly distinguished terrorism from Islam (ev_012), accepting the reputational risk of that position in service of a strategic goal.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_012",
+        "ev_024",
+        "ev_027",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic use of hierarchical power combined with deliberate power diffusion through partnerships",
+      "finding": "Obama's relationship to hierarchy shows a duality: he leverages presidential authority aggressively while simultaneously distributing power through formal partnerships. He uses executive orders, veto threats, and direct presidential advocacy as hierarchical tools (ev_017, ev_019, ev_029). Yet he also deliberately diffuses authority: Presidential Innovation Fellows from Silicon Valley working in government (ev_043), cross-sector partnerships with UPS, FedEx, AT&T for clean energy (evt_004), business partnerships for fatherhood support (evt_005). He expressed faith that government is 'only as good as we make it' (ev_036), framing power as collectively held rather than individually possessed. The veteran hiring challenge (ev_009) used federal employment as positive reinforcement for private sector behavior change. This suggests hierarchical authority deployed to create positive reinforcement structures rather than pure top-down control.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_036",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferentially escalates through institutional mechanisms while attempting negotiation first",
+      "finding": "Obama's conflict strategy follows a clear escalation ladder: attempt negotiation/bipartisanship first, then escalate through institutional means when blocked. He repeatedly called for bipartisan action (ev_008 with AFL-CIO and Chamber of Commerce together), framed issues as 'not Democratic or Republican' (ev_008). When bipartisanship failed, he escalated through veto threats (ev_029), executive orders (ev_017, ev_019), and public criticism (ev_010, ev_014, ev_020). He explicitly refused to negotiate on debt ceiling (ev_015) - a hard line rather than compromise. His condemnation of Senate obstruction as contrary to 'founding fathers' intent' (ev_010) frames opposition as violating structural norms rather than engaging in legitimate disagreement. This is escalation-as-translation: reframing conflict as institutional malfunction rather than legitimate partisan disagreement.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission scale; willing to implement structures whose full payoff extends beyond immediate political cycle",
+      "finding": "Obama consistently operates on multi-year to multi-decade time horizons. The ACA was designed to extend Medicare solvency by 12+ years (ev_002); energy independence targeted 2025 (evt_004); climate targets measured in 25-year pollution reductions (ev_040); Paris Agreement framed as legacy 'to build upon' (ev_041). He explicitly positioned outcomes as measured against historical baselines: 'strongest job growth since 1990s' (evt_018), deficits falling 'fastest since World War II' (ev_016), auto industry 'strongest since 2005' (evt_018). His farewell address (ev_047) explicitly expressed longer-term commitment: 'I look forward to working along your side, as a citizen, for all my days that remain.' He accepts near-term political costs (electoral vulnerability, partisan damage) for structures designed to outlast his tenure.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_040",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair across policy domains",
+      "finding": "The evidence strongly supports rebuild orientation. Rather than patching existing systems, Obama created entirely new institutional structures: ACA redesigned healthcare access fundamentally (ev_001, ev_002); Dodd-Frank established new regulatory architecture with CFPB as novel institution (ev_028); Cancer Moonshot created new cross-agency task force with Presidential Innovation Fellows (ev_043); TPP would establish new global trade framework (ev_030). When the sequester threatened existing programs, he called for replacement with 'balanced deficit reduction' rather than surgical fixes (ev_013). Government modernization explicitly sought to redesign federal technology systems rather than patch legacy infrastructure (ev_037). He explicitly stated drilling alone is 'not a real strategy' for energy (ev_005) - dismissing patch solutions. This pattern suggests deep preference for rebuilding incentive structures from foundations rather than optimizing within existing constraints.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_028",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness; actively reflects on feedback and adjusts approach based on lessons learned",
+      "finding": "Obama demonstrates sophisticated metacognitive awareness across multiple domains. His farewell address explicitly acknowledged that conversations with Americans 'kept me honest, kept me inspired, and kept me going' (ev_044) - a direct statement of meta-awareness about his own thought processes being shaped by external feedback. He acknowledged past trade deals fell short while defending new ones (ev_027) - demonstrating ability to recognize his own prior misjudgments. He attributed all 2015 progress to 'the American people' rather than himself (ev_032), showing awareness that outcomes depend on distributed actors beyond his control. He reflected on his own absence of father and its psychological impact (ev_006) - personal self-examination. The Cancer Moonshot progress report (ev_042) shows institutional learning through structured feedback. His call for civic participation 'not just when there's an election' (ev_046) suggests meta-awareness about the limitations of electoral cycles as feedback mechanisms.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_032",
+        "ev_042",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "reinforcement_architecture_design",
+      "definition": "The capacity to design comprehensive incentive systems with multiple reinforcement pathways and measurable feedback loops, rather than relying on single coercive mechanisms. This goes beyond 'control orientation' because it emphasizes positive reinforcement design and stakeholder coalition-building rather than top-down enforcement.",
+      "finding": "Obama's behavior reveals systematic architecture of reinforcement systems. He designed the veteran hiring challenge (ev_009) with specific numeric targets, timeline, and public accountability - creating both positive reinforcement (tax credits) and reputational incentives. The CFPB (ev_028) creates feedback mechanisms for consumer protection through systematic monitoring and consequence. The Cancer Moonshot (ev_043) built Trials.Cancer.Gov as a reinforcement mechanism connecting patients to trials - removing friction as positive reinforcement. His energy partnerships with UPS, FedEx, AT&T (evt_004) created industry coalition incentives. This emergent construct captures his distinctive approach to systemic behavior change: create multiple positive reinforcement pathways with clear feedback rather than relying on punishment or single-incentive approaches.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "variable_ratio_messaging_calibration",
+      "definition": "The capacity to vary communication style, emotional register, and reinforcement type across audiences and contexts - calibrating messaging to different reinforcement schedules rather than one-size-fits-all communication. This explains how Obama maintained broad coalition support through diverse speeches.",
+      "finding": "Obama demonstrates sophisticated calibration of message reinforcement types to audience and context. His Father's Day address used personal vulnerability (ev_006, ev_007) as emotional reinforcement with a completely different register than his data-driven economic speeches (ev_025, ev_033). Memorial Day speeches emphasized solemn obligation and concrete action items (ev_038, ev_039) - different from his optimistic year-end recaps (ev_032, ev_033). He varied between appeals to bipartisanship (ev_008) and direct criticism of obstruction (ev_020) depending on context. This variable ratio approach mirrors Skinner's findings about optimal learning under unpredictable reinforcement - keeping audiences engaged through message variability. He successfully held together diverse coalitions (labor, business, veterans, environmental) by calibrating reinforcement types to each constituency.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_020",
+        "ev_032",
+        "ev_033",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

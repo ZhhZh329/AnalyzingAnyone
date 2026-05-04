@@ -1,0 +1,167 @@
+{
+  "discipline": "psychology",
+  "lens": "social_cultural_psychology_cultural_psychology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with notable collective framing",
+      "finding": "Obama consistently positions himself as an active shaper of systems and outcomes—signing executive orders (ev_017, ev_019), declaring 'Year of Action' (evt_015), framing his role as leading America's resurgence (ev_024). However, his agency is culturally mediated through American civic scripts: he attributes accomplishments to collective American effort (ev_032: 'All of this progress is because of you'), which aligns with cultural psychology findings about the 'American Dream' individualist script where agency is framed as accessible to all. This is not purely individualist agency but rather institutional-collective agency—a distinctly American form where the president models the citizen-entrepreneur role. His framing in ev_044 ('You made me a better President and a better man') completes this cultural pattern by reinserting himself into the collective narrative.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_024",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic-rational with strong cultural value anchoring",
+      "finding": "Obama's epistemic style shows cultural psychology patterns characteristic of educated American professionals: he forms judgments through data presentation (employment statistics, consumer recovery amounts, deficit reduction rates) combined with value-framing (opportunity, fairness, security). His statements in ev_013 advocate 'balanced approach' grounded in policy specifics, while ev_027 shows sophisticated acknowledgment that 'past trade deals haven't always lived up to the hype.' This reflects what cultural psychology would call 'calibrated confidence'—a cultural skill in navigating uncertainty without abandoning direction. The absence of explicit metacognitive language about his own biases is culturally typical; American cultural scripts favor confident assertion over epistemological humility. He occasionally shows sophisticated epistemic awareness (admitting trade deal limitations) but frames it as policy evaluation rather than personal uncertainty.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_027",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderately high abstraction with skillful value-grounding",
+      "finding": "Obama demonstrates the cultural psychology pattern of 'values-into-systems' thinking characteristic of American policy professionals. He can articulate complex institutional frameworks (ACA Medicare solvency extension in ev_002, Dodd-Frank consumer protections in ev_028) while repeatedly grounding them in human-scale values ('a commitment to America's seniors' in ev_001, vulnerable populations in ev_014). This oscillation between abstract policy and human narrative reflects cultural training in rhetoric that connects 'rational' policy to 'shared values.' His 'middle-out' economic philosophy (ev_021) is an explicit abstraction framework that systematizes his worldview. His government modernization efforts (ev_037, ev_023) show comfort with formal systems thinking.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_014",
+        "ev_021",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate; strategically bounded by institutional constraints",
+      "finding": "Obama shows cultural psychology patterns of 'bounded agency'—active within but not dominating institutional structures. His executive orders (ev_017, ev_019) demonstrate willingness to use unilateral power strategically, yet his explicit statements about refusing to negotiate debt ceiling (ev_015) reveal awareness of constitutional limits. The pattern of declaring 'Year of Action' (evt_015) while acknowledging Congressional obstruction suggests a culturally American response: working within system constraints rather than dramatically overthrowing them. His framing in ev_036 ('our founders trusted us with the keys to this system of self-government') reveals an internalized cultural script about democratic institutional legitimacy. This control orientation is constrained by American cultural norms around presidential power and democratic legitimacy.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with deliberate relationship cost acceptance",
+      "finding": "Cultural psychology analysis reveals Obama accepts significant relational costs in pursuit of policy missions. His 'Year of Action' rhetoric (ev_020) explicitly criticizes Republicans, accepting partisan friction in service of middle-class agenda. The sequester events (ev_011, ev_012, ev_014) show willingness to use vivid human suffering examples as rhetorical leverage—head Start cuts, seniors on Meals on Wheels—which carries emotional manipulation risk. However, his Veterans Day (ev_009) and Memorial Day (ev_038, ev_039) messaging shows he also invests in relational frameworks around military families and sacrifice. His father's absence narrative (ev_006) may reflect cultural script around absent fathers and chosen family structures in African-American communities. The tension between 'calling out obstruction' and 'bipartisan budget miracles' (ev_048) suggests oscillation between mission-priority and relationship-repair.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_020",
+        "ev_038",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with strong institutional anchoring",
+      "finding": "Obama demonstrates cultural psychology patterns of 'structured risk-taking'—embracing major policy initiatives while grounding them in institutional legitimacy and empirical evidence. His major gambles (ACA implementation, Iran nuclear deal, Paris climate agreement) were framed as calculated risks based on expert consensus, international cooperation, and constitutional authority. The sequester confrontations (ev_015: 'I will not negotiate') show risk acceptance when core institutional credibility is at stake. His climate messaging (ev_041) frames policy reversal as risk rather than opportunity, which is culturally interesting—it treats environmental policy as established fact rather than contested terrain. The Cancer Moonshot (ev_042, ev_043) shows comfort with ambitious goal-setting tied to medical research culture. His risk posture is not purely cautious; he declares 'America's resurgence is real' (ev_024) with confidence, suggesting cultural scripts around American optimism and exceptionalism.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_041",
+        "ev_042",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority tempered by democratic accountability framing",
+      "finding": "Cultural psychology analysis reveals Obama as a sophisticated navigator of American hierarchy: he uses presidential authority strategically (veto threats in ev_029, executive orders) while consistently framing his power as derivative of collective American agency. The ev_044 farewell statement ('You made me a better President') represents a complete cultural script: democratic accountability through grateful inversion. His relationship to military hierarchy is particularly pronounced (ev_038: 'no more solemn obligation than leading our men and women in uniform'), reflecting cultural scripts around commander-in-chief role. His critique of Senate obstruction (ev_010) invokes founding fathers' intent, reframing institutional critique as adherence to original hierarchy design. The personal father-absence narrative (ev_006) may reflect cultural psychology around absent authority figures and chosen community structures, which could inform his approach to formal authority.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_029",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation with coalition-building as counterbalance",
+      "finding": "Obama's conflict strategy shows cultural psychology patterns of 'legitimate opposition framing'—he criticizes opponents (ev_020: 'Republicans in Congress have blocked...') while constructing broad-based coalitions (ev_008: AFL-CIO and Chamber of Commerce together). His critique of Senate obstruction (ev_010) as contrary to founders' intent frames opposition as un-American rather than partisan. His refusal to negotiate debt ceiling (ev_015) uses institutional legitimacy ('full faith and credit') as conflict shield. The veto threat on Wall Street reform (ev_029) shows willingness to escalate to maximum institutional power. However, his celebration of bipartisan budget (ev_048) reveals hope for relationship repair. This represents cultural American conflict style: direct issue-based confrontation within institutional boundaries, avoiding personal attacks, framing opposition as failure to meet shared national values.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional and generational orientation",
+      "finding": "Obama shows cultural psychology patterns of extended temporal orientation characteristic of institutional leadership. The Medicare commitment (ev_001: 'as long as I am President, that's a commitment this country is going to keep') extends presidential authority across time. Energy independence goals to 2025 (evt_004) show decade-scale planning. The Cancer Moonshot (ev_042, ev_043) references 45 years of progress and explicitly positions itself as generational work. His climate framing (ev_041) invokes 'children' as ultimate beneficiaries. His farewell address call for 'full span of a lifetime' citizenship (ev_046) extends civic engagement beyond electoral cycles. However, there is cultural tension: his immediate crisis management (sequester, debt ceiling) shows short-term urgency, while his major policy achievements (ACA, Dodd-Frank) require long-term institutional commitment. This reflects American cultural pattern of oscillating between urgent present needs and aspirational future.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair",
+      "finding": "Cultural psychology analysis reveals Obama as a structural reformer consistent with 'big design' American cultural narratives. The ACA represents complete healthcare system redesign rather than incremental adjustment. Dodd-Frank is explicitly framed as ending 'too big to fail' bailouts (ev_003) structurally. The 'Year of Action' (ev_019) declaration signals dissatisfaction with Congressional incrementalism. His trade policy (TPP in ev_026, ev_030) aims to reshape global economic rules over five-year negotiations. The Cancer Moonshot (ev_043) explicitly addresses broken system (only 4% of patients in clinical trials) with structural technology solutions. His government modernization efforts (ev_037: Presidential Innovation Fellows from Silicon Valley) represent deliberate institutional redesign. The pattern is culturally resonant: American cultural scripts favor 'building back better' and system redesign over gradual adjustment.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_019",
+        "ev_026",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate self-awareness within cultural constraints",
+      "finding": "Cultural psychology analysis reveals Obama shows sophisticated pattern-recognition within cultural bounds of American leadership discourse. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates epistemic humility about policy effectiveness. His farewell address (ev_045) shows awareness of diverse American experiences through witnessing ('I've seen...') rather than introspecting. However, he rarely engages in explicit self-critique or acknowledgment of personal cognitive limits—cultural scripts around presidential confidence prevent this. His statement 'I've learned from you' (ev_044) shows learning orientation but externalized rather than internal. The cultural constraint is significant: American leadership discourse privileges confident direction-setting over metacognitive uncertainty. His metacognition operates more in policy evaluation mode (admitting trade deal limitations) than in self-examinatory mode.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "narrative_embeddedness",
+      "definition": "The degree to which a person anchors their agency and policy positions in personal biographical narrative versus universal abstract principles. This captures cultural differences in how individuals construct political identity—some locate meaning in personal story (Obama's absent father, coaching daughter's team), others in abstract principle (constitutional obligation, economic theory).",
+      "finding": "Obama demonstrates unusually high narrative_embeddedness for a political figure. His Father's Day address (ev_006, ev_007) explicitly uses personal family narrative—growing up without his father, coaching Sasha's basketball team—as political messaging framework. The farewell address (ev_045) catalogs specific witnessed moments (Joplin, Boston) rather than abstract achievements. This contrasts with figures who anchor primarily in ideological frameworks. Cultural psychology suggests this may reflect African-American oral tradition and communal storytelling norms, as well as the American cultural script of personal story as evidence of values. This narrative embedding serves rhetorical purposes (building ethos through authenticity) and cultural purposes (modeling American Dream possibility). It also carries vulnerability: personal narrative can be interrogated in ways abstract principle cannot.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_045",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "collective_individual_oscillation",
+      "definition": "The capacity to move fluidly between 'I as individual actor' and 'I as embodiment of collective will' positioning—without apparent contradiction. High oscillation suggests sophisticated cultural navigation between individualist and collectivist self-construals.",
+      "finding": "Obama demonstrates remarkable oscillation between individualist and collectivist positioning. At moments of strong presidential agency (veto threats, executive orders, 'I will not negotiate'), he occupies individual executive authority position. Immediately after, he attributes all progress to collective American action ('All of this progress is because of you' in ev_032, 'you made me a better President' in ev_044). This oscillation is culturally sophisticated—American culture requires both strong individual agency (entrepreneurial, presidential leadership) and collective belonging (patriotism, civic participation). His 'middle-out' economics (ev_021) explicitly theorizes this relationship, arguing individual prosperity derives from collective economic health. This pattern may reflect his multicultural biography (Indonesian stepfather, African-American community, Ivy League education) enabling flexible cultural positioning. The oscillation could also reflect the cultural challenge of legitimizing strong presidential power within democratic values—constantly regrounding individual authority in collective mandate.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_021",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

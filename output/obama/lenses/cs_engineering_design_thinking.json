@@ -1,0 +1,175 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "design_thinking",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: Obama consistently initiated action rather than responding to circumstances, using executive authority and coalition-building to shape outcomes.",
+      "finding": "Obama exhibits a pronounced world-shaping orientation throughout his presidency. The 'Year of Action' declaration in 2014 (ev_019) directly signals intentional agency, with over 20 executive actions taken to bypass Congressional blockage (ev_020). Rather than awaiting legislative consensus, he initiated programs like the Cancer Moonshot, described as a task force leveraging cross-agency innovation (ev_042, ev_043). His announcement to visit South by Southwest to seek government modernization ideas (ev_023, ev_037) demonstrates proactive posture—going to external communities to import solutions rather than waiting for them to approach government. This reflects the design thinking belief that 'doing beats waiting.'",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_023",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-driven inductive reasoning: Obama synthesizes from concrete observations and data patterns rather than deductively applying abstract principles.",
+      "finding": "Obama's statements reveal consistent inductive reasoning from empirical data. He frequently cites specific quantified observations: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers through CFPB (ev_028), Head Start cuts affecting specific families (ev_014). Rather than starting from ideological principles and deducing policy, he builds arguments from documented human impacts upward to systemic patterns. His statement that 'our economy grows best not from the top-down, but from the middle-out' (ev_021) appears to emerge from observing actual economic data rather than pure theory. This empirical bent aligns with design thinking's preference for observation over assumption.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_021",
+        "ev_025",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Fluid between abstraction and concrete detail: capable of articulating high-level principles while tracking granular implementation metrics.",
+      "finding": "Obama demonstrates comfortable oscillation between abstract principles and concrete specifics. At the abstract level, he articulated coherent philosophies: 'middle-out' economics (ev_021), 'love won' framing for same-sex marriage (ev_035), and government's role in collective problem-solving (ev_036). Simultaneously, he tracked and cited specific operational details: transportation funding expiring in 7 days, student loan rates doubling in 8 days (ev_011); exact wage thresholds ($10.10/hour, ev_017); precise statistical claims about wind/solar growth (ev_040). This ability to hold both levels simultaneously—vision and implementation—reflects the T-shaped competency design thinking values: depth in analysis with breadth in perspective.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_017",
+        "ev_021",
+        "ev_035",
+        "ev_036",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate: uses direct authority strategically but demonstrates tolerance for uncertainty in collaborative or experimental contexts.",
+      "finding": "Obama shows selective control-seeking rather than pervasive desire for control. He drew firm boundaries on non-negotiables: debt ceiling ('I will not negotiate' ev_015), veto threats on Wall Street Reform repeal (ev_029). Yet he demonstrated comfort with uncertainty in innovation contexts—acknowledging past trade deals 'haven't always lived up to the hype' while proceeding (ev_027); explicitly inviting external ideas from Silicon Valley for government modernization (ev_037); framing the Cancer Moonshot as a collaborative exploration rather than a predetermined solution (ev_042). This suggests controlled flexibility: firm on core principles while leaving implementation methods open to discovery.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_027",
+        "ev_029",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with relational awareness: pursues ambitious goals while framing conflicts constructively rather than destructively.",
+      "finding": "Obama pursues mission objectives aggressively—declaring 'Year of Action,' criticizing Congressional obstruction (ev_020), challenging Republican blockers by name. Yet he consistently frames conflicts in terms of shared American values rather than partisan warfare. His transportation bill rhetoric emphasized bipartisan common ground (ev_008); his energy strategy integrated domestic drilling with environmental concerns (ev_005); his economic philosophy claimed to serve all Americans ('not Democratic or Republican' ev_021). The farewell address attributes all progress to collective American effort rather than individual achievement (ev_032). This suggests mission prioritization without relational destruction—pushing for goals while maintaining inclusive framing.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_008",
+        "ev_020",
+        "ev_021",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker through iterative experimentation: willing to try new approaches with monitoring, accepting that some will not succeed.",
+      "finding": "Obama's approach to risk reflects iterative design rather than risk-aversion or all-in gambling. He explicitly acknowledged uncertainty: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), yet proceeded with TPP as a new approach. The Cancer Moonshot was framed as exploring what works rather than guaranteeing outcomes (ev_042). His government modernization initiative—bringing Silicon Valley talent into government through Presidential Innovation Fellows (ev_043)—represented experimental institutional redesign with unclear success probability. This 'rapid prototyping' approach accepts that some experiments will fail but ensures learning faster than waiting for certainty.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic hierarchy navigator: uses formal authority while building alternative power structures when hierarchy obstructs.",
+      "finding": "Obama operates within formal hierarchy while strategically circumventing it when necessary. He used executive orders (minimum wage for contractors, ev_017), Presidential Innovation Fellows (ev_043), and direct public appeals (ev_011, ev_014) to achieve goals blocked by Congressional hierarchy. His framing of TPP—'without this agreement, China will write the rules' (ev_031)—reframes the power dynamic, positioning Congressional inaction as abdication rather than legitimate constraint. He challenged Senate obstruction as contrary to founders' intent (ev_010) while respecting institutional forms. This reflects design thinking's democratic impulse: best ideas should win regardless of organizational position, combined with pragmatic respect for institutional realities.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_031",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-based: reframes conflicts as shared problems with aligned solutions rather than zero-sum battles.",
+      "finding": "Obama consistently employs translation strategy—reframing conflicts before negotiating solutions. The transportation bill is 'an American issue' not a partisan one (ev_008); veterans unemployment becomes both a moral obligation and a talent opportunity (ev_009); TPP positions China as the competitor rather than Congressional Democrats as opponents (ev_031). He draws bright lines only on fundamentals (debt ceiling, Wall Street Reform) while translating procedural conflicts into substantive discussions. His Father's Day address shared personal vulnerability (ev_006, ev_007), using authenticity to preempt conflict framing. This aligns with design thinking's preference for 'wicked problem' reframing: the way a problem is defined determines available solutions.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_015",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation: operates across immediate deadlines while serving generational goals, with sustainable infrastructure emphasis.",
+      "finding": "Obama manages urgent short-term deadlines (7 days for transportation, 8 days for student loans ev_011) while simultaneously pursuing generational initiatives. His energy blueprint targets 2025 for oil independence (ev_004); Paris climate agreement represents century-scale commitment (ev_041); Cancer Moonshot addresses decades of health challenge (ev_042). He explicitly frames present actions within longer arcs: 'America's resurgence is real' counters decades of middle-class decline (ev_024); deficit reduction framed as 'fastest rate since World War II' contextualizes current efforts historically (ev_016). This multi-temporal thinking—nested urgency within vision—reflects design thinking's balance of iterative execution with aspirational purpose.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesigner: prefers comprehensive systemic changes over incremental fixes when possible, pragmatism when necessary.",
+      "finding": "Obama consistently pursued comprehensive structural solutions when politically viable: ACA as healthcare system overhaul (ev_001, ev_002), Dodd-Frank as financial regulatory redesign (ev_003, ev_028), executive orders creating new frameworks rather than adjusting existing rules (ev_017, ev_019). His 'Year of Action' explicitly took multiple parallel executive actions rather than single incremental steps. However, evidence shows pragmatic patching when full redesign failed: bipartisan budget deals (ev_048), temporary FAA fixes (ev_014). The overall pattern suggests design-first orientation with patch-as-backup, not the reverse.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_014",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness: demonstrates capacity to reflect on his own reasoning, acknowledge limitations, and adjust based on feedback.",
+      "finding": "Obama shows notable metacognitive awareness throughout his statements. He explicitly acknowledged that conversations with Americans across diverse contexts—living rooms, schools, farms, military outposts—'kept me honest, kept me inspired, and kept me going' (ev_044). This suggests active monitoring of how external perspectives shaped his thinking. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to name limitations in prior approaches. The farewell address reflection on learning from citizens 'every day' (ev_044) indicates ongoing self-assessment rather than fixed certainty. This metacognitive capacity enables the iterative learning central to design thinking.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Empathetic Framing as Persuasive Strategy",
+      "definition": "The systematic practice of translating abstract policies and systemic problems into concrete human stories, specific affected individuals, or relatable personal experiences to build emotional resonance and motivate action. This differs from standard persuasive rhetoric by grounding policy in user (citizen) experience rather than ideological or technical abstractions.",
+      "finding": "Obama's communication consistently transforms systemic issues into human-scale narratives. When discussing sequester impacts, he named 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels,' and 'military families' (ev_014)—specific personas rather than demographic categories. Father's Day remarks shared deeply personal vulnerability about growing up without a father (ev_006) and concrete parenting moments like coaching daughter's basketball team (ev_007). Memorial Day address called for actionable remembrance: 'lay a flower,' 'reach out to a Gold Star Family,' 'send a care package,' 'hire a veteran' (ev_039). This pattern reflects design thinking's 'empathy first' principle: understanding and articulating user experience precedes solution generation.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_014",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Coalition Architecture Through Structural Alignment",
+      "definition": "Building alliances not through compromise or horse-trading, but by identifying structural commonalities that make nominally opposed parties natural partners. This approach reframes conflicts by finding shared underlying interests that transcend surface-level disagreements.",
+      "finding": "Obama systematically constructs coalitions by identifying structural alignment rather than ideological accommodation. His transportation bill united AFL-CIO and Chamber of Commerce—groups that 'don't always see eye-to-eye'—by framing infrastructure as economic development and job creation common ground (ev_008). The veteran hiring initiative combined moral obligation with talent acquisition: companies gain workers with demonstrated commitment while serving national interest. The energy blueprint integrated domestic drilling, efficiency standards, and clean energy—making each position harder to oppose in isolation (ev_005). TPP framing positioned Congressional inaction as allowing China to write global rules rather than legitimate policy disagreement (ev_031). This architectural approach builds durable coalitions from aligned interests rather than fragile deals from concessions.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_008",
+        "ev_009",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_systems_communication_dynamical_systems",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder with trajectory-shaping tendencies: Obama works within systemic constraints while actively setting attractor states rather than forcing outcomes.",
+      "finding": "Obama demonstrates a pattern of responding to systemic conditions while simultaneously trying to shift trajectories. He frequently acknowledges external constraints—Congressional obstruction (ev_020), deficit trajectories (ev_016), international competition (ev_031)—yet responds by setting policy attractors designed to pull the system toward preferred states. His executive actions (ev_017, ev_019), veto threats (ev_029), and framework-setting (ACA, Dodd-Frank, climate agreements) function as trajectory-setting rather than direct control. He positions himself within evolving systems rather than as an external force imposing will, consistent with a responder who shapes attractors rather than forcing paths. The evidence shows him monitoring system states and intervening at points where intervention can alter long-term trajectories—what dynamical systems would call strategic trajectory-correction rather than direct force.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_016",
+        "ev_031",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Process-oriented, data-informed epistemology that treats beliefs as evolving along trajectories rather than fixed positions.",
+      "finding": "Obama's epistemic approach demonstrates consistent process-orientation. He cites quantitative system states (11 million jobs over 57 months ev_025; 26 million consumers recovered $11 billion ev_028; deficits falling at fastest rate since WW2 ev_016) not as static facts but as trajectory indicators. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) reveals epistemic humility—willingness to update beliefs about policy outcomes. He frames policy reasoning in terms of momentum and accumulation: 'America's resurgence is real' (ev_024) is a statement about trajectory direction, not current state. This suggests an epistemological stance where knowledge is about understanding system dynamics rather than capturing fixed truths, consistent with dynamical systems thinking where current state is always understood as phase in ongoing evolution.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_016",
+        "ev_027",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate: capable of abstract policy frameworks that drive concrete systems, but not primarily formal-model thinker.",
+      "finding": "Obama demonstrates abstract policy thinking through principles like 'middle-out economics' (ev_021)—an abstract claim about economic dynamics that generates specific policy prescriptions. He articulates frameworks: energy independence as multi-component system (ev_005), healthcare reform as solvency extension (ev_002), deficit reduction as balanced approach (ev_013). However, the evidence lacks indicators of formal mathematical or computational modeling orientation. He frames abstractions in accessible language rather than technical formalism. The 'Year of Action' label (ev_015) functions as a thematic organizer for executive actions, not a formal system description. This suggests abstraction capacity oriented toward policy systematization rather than mathematical formalization—able to construct coherent abstract frameworks but not primarily a formal-model thinker.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_005",
+        "ev_002",
+        "ev_013",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong institutional control seeking: Obama attempts to set stable attractors through policy architecture rather than continuous intervention.",
+      "finding": "Obama seeks control primarily through institutional mechanism design: CFPB as independent consumer protection attractor (ev_028), Dodd-Frank as financial system stabilizer (ev_029), executive orders as wage-setting mechanisms (ev_017). His refusal to 'negotiate over the full faith and credit of the United States' (ev_015) reveals a control orientation that protects parameter boundaries rather than micromanaging outcomes. He uses veto threats to set constraints, not to control every interaction. The 'Cancer Moonshot' (ev_042, ev_043) demonstrates cross-agency coordination seeking—creating institutional structures that produce innovation systematically rather than through direct oversight. This pattern suggests control orientation focused on designing systems that self-regulate toward preferred states, consistent with attractor-based dynamical control rather than continuous feedback adjustment.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_017",
+        "ev_015",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with relational cost tolerance, but strong preference for building attractors that don't require ongoing relational sacrifice.",
+      "finding": "Obama demonstrates willingness to absorb relational costs when core structural goals are at stake: explicit veto threats against Wall Street Reform repeal (ev_029), sustained criticism of Congressional obstruction (ev_020), and declaration of 'Year of Action' in response to legislative blockage (ev_015). However, the pattern shows preference for structural solutions that build broad coalition support rather than pure mission pursuit at relational expense. His call for bipartisan action on transportation (ev_008) and celebration of bipartisan budget (ev_048) indicate he values coalition-building as trajectory-building—stable attractors require broad base. The tension resolves: Obama will accept short-term relational friction for structural goals, but prefers solutions that create attractors durable enough not to require perpetual relational cost. Mission priority exists but is calibrated to produce sustainable institutional trajectories.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_020",
+        "ev_015",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Threshold-sensitive with strong awareness of cascading failures: Obama demonstrates dynamical systems awareness of critical points and amplification effects.",
+      "finding": "Obama shows consistent threshold sensitivity across policy domains. Sequestration warnings emphasize specific deadlines with quantified consequences (ev_011: '7 days' for transportation funding, '8 days' for student loan rates)—framing risk as threshold-crossing rather than gradual drift. His documentation of real human costs from sequester (ev_014) reveals awareness of cascading effects across subsystems. Energy policy explicitly rejects single-variable solutions: 'Drilling alone is not a real strategy' (ev_005), indicating awareness that complex systems require multi-path robustness. The debt ceiling stance (ev_015) treats certain parameters as non-negotiable because crossing them produces nonlinear system effects. This threshold sensitivity—with attention to what happens when systems pass critical points—aligns strongly with dynamical systems risk awareness, particularly sensitivity to tipping points and cascade potential.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_005",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power leverager with democratic accountability framing: uses formal authority while positioning it as delegated rather than personal.",
+      "finding": "Obama demonstrates sophisticated navigation of hierarchical power: uses formal presidential authority (veto threats ev_029, executive orders ev_017, executive action enumeration ev_019) while consistently framing power as delegated and accountable. His farewell address emphasizes learning from citizens (ev_044) and calls for civic participation beyond elections (ev_046), positioning hierarchical position as service rather than domination. Government modernization efforts (ev_037) involve inviting external expertise into hierarchical structures—reconfiguring rather than simply exercising power. The pattern suggests power as system-configuration rather than personal dominance: Obama uses formal authority to set institutional attractors and trajectory constraints while framing agency as distributed. This aligns with dynamical systems thinking where control operates through structure rather than continuous personal intervention.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_044",
+        "ev_046",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Structural confrontation with coalition-building: will escalate to structural conflict but consistently attempts trajectory redirection toward cooperation.",
+      "finding": "Obama's conflict approach reveals tension between structural confrontation and trajectory redirection. He explicitly condemns Senate obstruction (ev_010: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned') and criticizes Republican blocking (ev_020). Yet his transportation funding appeals invoke AFL-CIO and Chamber of Commerce coalition (ev_008)—attempting to shift conflict dynamics by widening the attractor basin for cooperation. His celebration of bipartisan budget as 'Christmas miracle' (ev_048) reveals desire to redirect conflict trajectories toward collaboration. The pattern suggests Obama engages structural conflict when necessary but consistently attempts to reconfigure conflict dynamics by introducing shared-stakes framing that expands coalition potential. Conflict is treated as potentially transformable rather than terminal.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly long-term: Obama consistently frames policy in terms of multi-decade trajectories with structural legacy awareness.",
+      "finding": "Time horizon analysis reveals consistent long-term orientation. Energy Blueprint targets 2025 (ev_004)—explicitly 14-year trajectory. ACA framed as extending Medicare solvency by 'at least a dozen years' (ev_002). Deficit reduction framed in historical context ('fastest rate since World War II' ev_016). Job creation measured in 57-month streaks (ev_025). Climate policy explicitly frames legacy: 'that's not something to tear up—it's something to build upon' (ev_041). The farewell address explicitly calls for 'civic participation over the full span of a lifetime' (ev_046). This temporal orientation—consistently framing current decisions in terms of multi-decade trajectories and legacy—aligns strongly with dynamical systems long-horizon orientation. Obama thinks in terms of setting trajectories that persist beyond immediate timeframes rather than optimizing short-term states.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_002",
+        "ev_016",
+        "ev_025",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign default: Obama consistently favors comprehensive systemic solutions over incremental repair when attractor states are fundamentally problematic.",
+      "finding": "Evidence strongly supports structural redesign orientation. Sequestration is explicitly framed as requiring 'balanced deficit reduction approach' (ev_013), not continuation. Healthcare reform (ACA) is structured as system redesign, not patch. Energy policy rejects 'drilling alone' as insufficient (ev_005)—calls for comprehensive approach. Dodd-Frank is framed as ending 'too big to fail' bailouts structurally (ev_002, ev_029), not patching existing financial regulation. The 'Year of Action' declaration (ev_015) emerges from recognition that legislative patch attempts have failed—switching to executive architecture. Obama treats problematic attractor states (sequestration, regulatory gaps, energy dependency) as requiring structural intervention to reconfigure basin structure, not iterative repair of local dynamics. This aligns with dynamical systems preference for changing underlying equations when attractor geometry is problematic.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_005",
+        "ev_002",
+        "ev_029",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with demonstrated learning orientation and explicit reflection on cognitive limits and feedback loops.",
+      "finding": "Obama demonstrates strong metacognitive awareness. His farewell address explicitly states 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—direct acknowledgment of ongoing cognitive update. He reflects on diverse experiences as feedback (ev_045: 'I've seen neighbors looking out for each other... I've hugged cancer survivors...') indicating active monitoring of experience for pattern extraction. The 'Year of Action' (ev_015) represents strategic metacognition: response to Congressional feedback causing strategy shift. Government modernization through Silicon Valley partnerships (ev_037) reflects awareness of own cognitive limits—inviting external expertise to correct blind spots. His framing of TPP acknowledges past trade deal limitations (ev_027), showing willingness to update policy beliefs based on outcome feedback. This metacognitive pattern—monitoring, updating, seeking external correction—aligns with dynamical systems emphasis on feedback sensitivity and adaptive response.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_015",
+        "ev_037",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "system_momentum_awareness",
+      "definition": "Capacity to perceive and articulate whether a system is gaining or losing momentum, independent of current state quality. Allows distinguishing between improving systems with current problems versus deteriorating systems with current successes—critical for trajectory intervention timing.",
+      "finding": "Obama demonstrates consistent ability to distinguish system momentum from absolute state quality. In 2014, despite ongoing economic challenges, he declares 'America's resurgence is real' (ev_024) based on trajectory indicators: 11 million jobs over 57 months, wage growth, manufacturing recovery (ev_025). Later, he celebrates '2.5 million new jobs' and '69-month streak of job growth' (ev_033) as momentum evidence. Conversely, sequestration warnings (ev_014) emphasize momentum loss—Head Start cuts, airport disruptions, military strain—not just current status. This momentum-sensing appears crucial to his intervention timing: he acts when trajectories can be redirected (executive actions in 'Year of Action') and calibrates urgency based on trajectory direction. Without this dimension, the data would show confusing contradictions—celebrating economic success while warning of crisis. With momentum awareness, both make sense: current state moderate, trajectory direction positive (celebrate) but trajectory stability fragile (warning). This emergent dimension captures something the shared constructs miss: the capacity to read trajectory velocity and direction independent of absolute position.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_033",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "attractor_stabilization_priority",
+      "definition": "Tendency to prioritize stabilizing self-reinforcing system configurations over achieving specific outcomes within current configurations. Focus on changing basin structure rather than positioning within existing basins.",
+      "finding": "Analysis reveals Obama consistently prioritizes changing basin structure over optimizing within current attractors. His defense of Dodd-Frank (ev_029: veto threat against 'any bill... that tries to unravel the new rules') prioritizes protecting the regulatory attractor structure over specific policy wins. The CFPB (ev_028) is designed as institutional attractor—self-reinforcing mechanism that generates consumer protection outcomes without requiring continuous presidential intervention. His healthcare framing emphasizes changing the system attractor ('reform has actually added at least a dozen years to the solvency of Medicare' ev_002) over winning specific coverage disputes. Climate policy explicitly aims to create self-reinforcing clean energy trajectory (ev_040: wind tripled, solar 30x, carbon at 25-year low) as basin structure change. This pattern suggests Obama evaluates policy success partly by whether it creates stable self-reinforcing dynamics—if outcomes require continuous active management, the attractor is considered insufficiently stabilized. This priority—basin structure over current position—aligns with dynamical systems control theory where the goal is changing system equations, not just controlling system state.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_028",
+        "ev_002",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "discipline": "economics",
+  "lens": "entrepreneurship_and_innovation_hayek",
+  "constructs": [
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Centralized expert-driven belief formation with selective incorporation of distributed input; prefers coherent macro-frameworks over emergent local signals",
+      "finding": "Obama consistently framed policy through comprehensive centralized narratives rather than aggregating dispersed local information. His 'middle-out' economic philosophy (ev_021), balanced deficit approach (ev_013), and decade-long policy goals suggest top-down belief formation that prioritizes coherent expert vision over iterative local feedback. Evidence of bottom-up information incorporation is weak: while he consulted Silicon Valley for government tech modernization (ev_037), his core economic agenda—ACA, Dodd-Frank, TPP, minimum wage—proceeded through legislative/administrative channels without significant decentralized experimentation or price-signal responsiveness. His repeated use of executive orders when Congress blocked legislation (ev_017, ev_019) reflects a pattern of centralized decision-making rather than distributed coordination. The Cancer Moonshot (ev_043) shows some integration of distributed knowledge via tech platforms, but this appears exceptional rather than characteristic of his primary governance approach.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_013",
+        "ev_017",
+        "ev_019",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for centralized policy control; resists distributing decision rights to local actors when ideological goals are at stake",
+      "finding": "The evidence strongly supports centralized control orientation. Obama's definitive statement on debt ceiling negotiations—'I will not negotiate over the full faith and credit of the United States' (ev_015)—reveals a willingness to exercise executive power without compromise. His 'Year of Action' (ev_019-020) explicitly used executive authority to bypass Congressional resistance, framing this as legitimate presidential prerogative rather than coordination failure. He condemned Senate obstruction as contrary to founders' intent (ev_010), advocating for centralized rules to streamline decision-making. The pattern: when Congress blocked his agenda, he shifted to executive orders rather than exploring decentralized compliance mechanisms or incentive structures. His defense of Dodd-Frank consumer protections (ev_028-029) with CFPB as centralized watchdog, and framing of TPP as preventing China from 'writing the rules' (ev_031), both demonstrate preference for centralized regulatory frameworks. There is limited evidence of distributed decision rights: his tech modernization partnerships with Silicon Valley (ev_037) and Delaware job training reform (evt_016) suggest some tolerance for local implementation flexibility, but this appears subordinate to central policy mandates.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010",
+        "ev_019",
+        "ev_020",
+        "ev_028",
+        "ev_029",
+        "ev_031",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction preference; organizes policy around coherent ideological frameworks and measurable macro-goals",
+      "finding": "Obama's rhetoric consistently operates at high abstraction levels. The 'middle-out' economic philosophy (ev_021) is an abstract organizing principle rather than a response to specific local conditions. His deficit reduction framework emphasizes 'sensible changes to entitlement programs and reforming our tax code' (ev_013)—institutional categories rather than distributed implementation challenges. Year-end addresses enumerate accomplishments through statistical aggregates (ev_025: '11 million new jobs over 57 months') rather than heterogeneous local outcomes. His energy policy (evt_004) frames 'cut oil imports by one-third' as abstract national target, not disaggregated regional production signals. The TPP framing as preventing China from 'writing the rules' (ev_031) reflects high-level geopolitical abstraction. However, some evidence of lower-level formalization: the Clean Fleets Partnership with specific companies (UPS, FedEx, AT&T, etc.) in energy policy shows concrete implementation interfaces, and Head Start cuts (ev_014) represent local service-level articulation. The pattern suggests abstraction dominates but is punctuated by concrete operational details where politically convenient.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_013",
+        "ev_025",
+        "ev_031",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term structural orientation; prioritizes generational/multi-decade policy over immediate market signals",
+      "finding": "Obama's speeches systematically emphasize long-term structural outcomes over short-term adjustments. ACA solvency extension 'by at least 12 years' (ev_002) explicitly frames multi-decade impact. Energy policy targets 'by 2025' (evt_004). Sequester warnings repeatedly invoke long-run consequences: 'nearly $1 billion in highway funding within 10 days' (evt_006) is presented as crisis, but the balanced deficit approach (ev_013) aims at generational debt trajectory. His 'resurgence' narrative (ev_024) explicitly positions accomplishments in historical perspective: 'decades-long erosion of middle-class jobs.' Climate policy particularly shows long-horizon framing: Paris agreement as legacy to 'build upon' (ev_041), wind/solar metrics over 7.5 years (ev_040). The Cancer Moonshot references 45 years of prior progress (ev_042), embedding current initiative in multi-generational research trajectory. This long-horizon preference aligns with Hayekian caution about short-term price signals overriding structural coordination, but Obama's approach emphasizes central planning of long-term goals rather than allowing distributed actors to discover emergent long-run equilibria.",
+      "evidence_ids": [
+        "ev_002",
+        "evt_004",
+        "ev_013",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for comprehensive structural redesign over incremental local repair; willing to build new institutional architectures from scratch",
+      "finding": "The evidence demonstrates consistent preference for comprehensive structural reform over localized fixes. The ACA explicitly redesigned health insurance market architecture with new mandates, exchanges, and coverage requirements rather than patching existing programs. Dodd-Frank created entirely new regulatory architecture (CFPB, FSOC, Volcker Rule) to address systemic risk, not incremental adjustments to existing oversight. TPP represented construction of new trade framework covering 40% of global economy (ev_030). His 'Year of Action' framing (ev_019) explicitly contrasts executive actions with Congressional obstruction—positioning unilateral structural moves as legitimate alternatives to broken legislative process. The sequester situation shows interesting tension: he advocated replacing 'meat cleaver' cuts (ev_014) with comprehensive balanced approach, suggesting dissatisfaction with blunt instrument even while accepting temporary patches. However, his executive orders on minimum wage (ev_017) represent patch-level interventions within existing wage structures rather than fundamental redesign. The overall pattern strongly favors comprehensive institutional architecture over distributed incremental adjustment.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_030",
+        "ev_019",
+        "ev_014",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Not_applicable — this lens does not address value/mission tradeoffs against relational costs; core Hayekian analysis concerns coordination mechanisms, not moral priorities",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Not_applicable — hierarchical analysis requires evidence of power used to control information flows or exchange interfaces; Obama's rhetoric emphasizes institutional roles rather than information structure",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Not_applicable — Hayekian lens focuses on coordination mechanisms and information structures; metacognitive self-awareness does not emerge from this economic framework",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Not_applicable — Hayekian analysis addresses uncertainty handling through price signals and dispersed experimentation; does not map to psychological risk orientation",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Not_applicable — Hayekian lens examines economic coordination costs and resource allocation patterns; does not address interpersonal or political conflict management",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Not_applicable — Hayekian framework addresses how coordination occurs through economic mechanisms, not whether actors are world-shapers or structure-responders; this falls outside the economic lens scope",
+      "finding": "NA",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "coordinated_public_goods_provision",
+      "definition": "The degree to which an actor views complex coordination challenges as requiring deliberate state-orchestrated frameworks versus emergent market/stakeholder mechanisms. This extends Hayekian analysis beyond private coordination to public goods provision, examining whether actors trust centralized public planning or distributed civic mechanisms.",
+      "finding": "Obama's policy portfolio consistently treats complex challenges (healthcare, financial stability, trade, climate) as requiring comprehensive public coordination architectures. His framing of Dodd-Frank (ev_028: 'independent Consumer Financial Protection Bureau with one mission'), TPP as preventing China from writing rules (ev_031), and Paris climate agreement (ev_041: 'something to build upon') all reflect trust in state-orchestrated coordination. However, his government tech modernization through Silicon Valley partnerships (ev_037) and the Cancer Moonshot's tech platform (ev_043) suggest some acceptance of distributed innovation within public frameworks. The tension: he prefers centralized public coordination but selectively incorporates distributed expertise when it serves central objectives. This represents a middle position between pure central planning and Hayekian spontaneous order, consistent with 'public choice' concerns about elite coordination replacing dispersed knowledge.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_031",
+        "ev_041",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

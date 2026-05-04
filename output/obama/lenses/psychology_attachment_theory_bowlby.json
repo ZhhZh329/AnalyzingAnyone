@@ -1,0 +1,184 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_theory_bowlby",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency combined with secure relational grounding—operates as confident world-shaper while remaining embedded in collective base",
+      "finding": "Obama consistently demonstrates what Bowlby would characterize as secure-base-enabled agency—acting with confidence and direction while maintaining connection to others. His extensive use of executive actions (ev_017, ev_019) and declarative statements ('As long as I am President, that's a commitment' - ev_001) reveals high能动性. However, his persistent attribution of success to others (ev_032, ev_044) and explicit gratitude to the American people suggests this agency is not defensively constructed to manage anxiety about reliance on others. Rather, it reflects an internal working model where the self is capable and effective, yet fundamentally interdependent with others—a hallmark of earned security rather than the pseudo-autonomy of avoidant attachment.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_017",
+        "ev_019",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded, evidence-responsive belief formation with moderate openness to disconfirming information",
+      "finding": "Obama's speeches demonstrate a secure-base epistemic style—he gathers information, cites evidence (statistics, research findings), and forms positions that remain open to refinement. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) reveals epistemic humility and willingness to acknowledge disconfirming evidence. This contrasts with the hypervigilant pattern of anxious attachment (which would show excessive concern about threatening information) or the deactivating strategies of avoidant attachment (which would dismiss emotional or relational information). His repeated calls for bipartisan solutions (ev_008) suggest genuine engagement with alternative perspectives rather than defensive interpretation filtering. The evidence suggests a coherent epistemic stance grounded in empirical observation and pragmatic adjustment.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_027",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strategic deployment of abstraction and formalization in service of goals, without evidence of emotional avoidance through over-rationalization",
+      "finding": "Obama uses abstraction and formalization instrumentally—framing policy in terms of core values ('opportunity for all' - ev_018, 'middle-out' economics - ev_021) to mobilize broad support—rather than as a defensive strategy to manage emotional overwhelm. The speeches contain both conceptual framing and concrete, embodied detail (specific families affected by Head Start cuts in ev_014; actual veterans on the USS Carl Vinson in ev_007). This balance suggests Obama's use of abstraction serves communication effectiveness rather than emotional distance—a critical distinction from Bowlby's observation that avoidant individuals use intellectualization to deactivate emotional experience. His willingness to share personal emotional content (father's absence in ev_006) further indicates functional rather than avoidant relationship with affect.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control orientation exercised through legitimate authority rather than anxious attempt to dominate relationships",
+      "finding": "Obama demonstrates substantial use of formal authority (executive orders, veto threats) yet frames this as responsible stewardship rather than anxious control-seeking. His veto commitment on Wall Street Reform (ev_029) and insistence on not negotiating over the debt ceiling (ev_015) reveal firm boundaries, but these are presented as protecting shared commitments ('the full faith and credit of the United States') rather than managing personal anxiety about unpredictability. The anxious attachment pattern would show excessive monitoring of others' responses and compulsive attempts to manage relational outcomes; Obama's control use appears calibrated to institutional contexts where such authority is legitimate and bounded by democratic norms. His calls for Congressional action rather than unilateral control in most areas further suggests secure, role-appropriate authority use.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation with maintained relational bridge-building rather than sacrifice of relationships for goals",
+      "finding": "Obama demonstrates a clear hierarchy prioritizing policy goals and mission objectives—pushing through Year of Action executive actions despite Congressional opposition (ev_020), advocating for climate action (ev_041), pursuing trade agreements (ev_026, ev_030). However, his speeches consistently frame these missions in relational terms: 'America is at war with al-Qaeda and its affiliates—and we will never be at war with Islam' (ev_012) or dedicating accomplishments to 'the American people' (ev_032). He criticizes opponents but maintains them as legitimate participants in democratic process rather than enemies to be destroyed. This pattern suggests what Bowlby might term mission engagement with maintained secure-base connection—pursuing important goals while keeping relational channels open, rather than the anxious attachment pattern of abandoning mission for relationship or the avoidant pattern of sacrificing relationship for mission completion.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_020",
+        "ev_032",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking supported by collective confidence rather than anxious approach-avoidance or avoidant risk denial",
+      "finding": "Obama demonstrates willingness to pursue major initiatives with uncertain outcomes—the ACA ('the single longest extension in history' of Medicare - ev_002), the Paris climate agreement (ev_034), the Iran nuclear deal (ev_034). These involved substantial political risk given divided government. However, his framing emphasizes confidence in collective American capability: 'I'm absolutely confident we will get there. I am confident, first and foremost, because of you' (ev_004). This contrasts with anxious attachment's fearful hypervigilance about threats or avoidant attachment's defensive dismissal of risk significance. The secure-base function of his relationship with the American public appears to support risk tolerance—when one trusts that a relational base will provide support even when outcomes are uncertain, bold action becomes possible. His Cancer Moonshot initiative (ev_042) explicitly frames long-shot objectives as achievable through collective effort.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Functional, contextually-appropriate relationship with authority as legitimate role rather than source of anxiety or defiance",
+      "finding": "Obama occupies presidential hierarchy with clear comfort and competence—exercising executive authority when Congress obstructs, yet consistently seeking collaborative channels before unilateral action. His attitude toward Congressional opposition (ev_008, ev_020) frames institutional disagreement as legitimate democratic friction rather than personal threat or betrayal. This pattern suggests an internal working model where hierarchy is a functional structure for collective coordination, not a source of anxiety (anxious attachment) or rebellion (avoidant attachment through defiance). His Memorial Day address (ev_038) articulates obligation toward those in military hierarchy with appropriate gravity. The evidence indicates secure, role-appropriate engagement with power structures—using them effectively when authority is legitimate while remaining accountable to democratic norms.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating and integrative conflict approach—engaging disagreement while seeking common ground frameworks rather than suppression or escalation",
+      "finding": "Obama's conflict strategy demonstrates the integrative capacity characteristic of secure attachment. He criticizes Congressional obstruction (ev_020) yet consistently frames disputes as solvable through democratic process: 'This isn't a Democratic or a Republican issue—it's an American issue' (ev_008). Rather than suppressing conflict (avoidant), escalating it (anxious-preoccupied), or splitting (paranoid), he translates conflict into shared-problem framing. His bipartisan budget celebration (ev_048) reveals genuine appreciation for collaborative resolution. This integrative capacity—maintaining own position while genuinely engaging opposing views and seeking synthesis—is precisely what Bowlby associated with earned security, which enables flexible rather than rigid relational patterns. The intensity of some criticisms (ev_010, ev_029) reflects political necessity rather than inability to hold others in mind.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_048",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-temporal orientation with emphasis on long-term legacy and intergenerational responsibility while addressing immediate needs",
+      "finding": "Obama demonstrates the extended time horizon characteristic of secure attachment with trusted relational foundations. He balances urgent demands (sequester responses in ev_011, ev_012; transportation deadlines in ev_009, ev_011) with long-term strategic frameworks (energy independence by 2025 - ev_004; climate agreements for 'our children' - ev_041). His farewell address explicitly frames his role in an ongoing narrative: 'Eight years later, I am even more optimistic about our country's promise' (ev_047). This temporal range—comfort with both immediate pressure and long-range planning—reflects the capacity to trust that relationships and efforts will yield results over extended periods. Such temporal flexibility is difficult without secure-base confidence; anxious attachment tends toward present-focused urgency, while avoidant attachment often shows truncated time horizons reflecting relational uncertainty.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reform tendency combined with responsive patching when immediate needs require attention",
+      "finding": "Obama demonstrates preference for structural solutions—ACA rather than incremental coverage expansion, Dodd-Frank rather than regulatory patches, Paris climate agreement rather than voluntary standards. This reform orientation suggests comfort with comprehensive redesign (ev_022, ev_028). However, his sequester responses (ev_014, ev_017) show adaptive patching when structural solutions are blocked. This flexibility—able to engage in both rebuild and patch depending on context—suggests what might be termed strategic appropriateness rather than rigid preference. Bowlby's work implies that secure attachment enables flexible response rather than stereotypic patterns; Obama's evident comfort with both approaches fits this secure-base picture of adaptive response to varying conditions.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_028",
+        "ev_014",
+        "ev_017"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High reflective capacity with demonstrated awareness of own limitations and explicit integration of feedback into self-understanding",
+      "finding": "Obama's speeches reveal substantial metacognitive awareness. His farewell address explicitly frames his presidency as shaped by others: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This statement of ongoing learning and self-improvement acknowledges cognitive limits and growth capacity. His father's absence reflection (ev_006) demonstrates reflective integration of early attachment disruption into coherent personal narrative—a process Bowlby would recognize as essential for earned security. Unlike anxious attachment (which tends toward rumination without integration) or avoidant attachment (which defensively avoids self-examination), Obama demonstrates what therapists call 'reflective function'—the capacity to observe one's own mental states and their origins. This metacognitive capacity appears central to his earned security.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_006",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "self_model_dimension",
+      "assessment": "Positive self-model maintained without defensive grandiosity—capable self integrated with relational interdependence",
+      "finding": "Bowlby's internal working model framework distinguishes positive self-models (I am competent, worthy of care) from negative ones (I am inadequate, unworthy). Obama's speeches consistently demonstrate positive self-model—confidence in his positions, willingness to act decisively, clarity about his values. Critically, this positive self-model is not maintained through defensive devaluation of others (as in narcissistic pathology) but through explicit integration with others: 'our ingenuity,' 'our workers,' 'the American people' make success possible. He can acknowledge limitations ('past trade deals haven't always lived up to the hype' - ev_027) without global self-criticism. This pattern suggests the secure attachment combination of positive self-regard without defensive grandiosity—an internal working model where the self is both capable and appropriately dependent on others.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "other_model_dimension",
+      "assessment": "Positive other-model with realistic awareness of disagreement—trusting relational base without naivety",
+      "finding": "Bowlby's other-model dimension addresses whether individuals expect others to be reliable, supportive, and trustworthy. Obama's speeches consistently express faith in collective American capability (ev_004: 'because of you...the American people') while maintaining realistic awareness that agreement requires work (ev_008: bipartisan coalition-building; ev_020: opposition blocking). His positive other-model is not naive—he acknowledges that 'one senator gumming up the works' (ev_010) creates problems and that not all trade deals worked (ev_027). Yet he continues to seek collaboration rather than retreating into defensive autonomy. This pattern reflects the secure attachment combination of generalized trust in others with appropriate reality-testing—a working model where others are seen as capable of cooperation when conditions support it, without the anxious expectation of betrayal or avoidant dismissal of relational value.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "earned_security_through_public_relationship",
+      "definition": "Obama demonstrates a distinctive attachment pattern where the American public functions as a distributed secure base—his primary relational attachment appears to be with collective 'the people' rather than dyadic figures, enabling high functioning without traditional attachment figure dependence",
+      "finding": "This pattern emerges from Bowlby's framework in an interesting way. Obama grew up without his father (ev_006), a significant early attachment disruption. Yet his adult pattern shows secure functioning. His farewell address reveals what may be the mechanism: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He appears to have constructed a relationship with the American public as a secure base—continuous, supportive, capable of holding him accountable while providing confidence. This distributed attachment (to 'the people' as an entity) may represent a form of earned security where collective relational experience compensates for early dyadic disruption. The pattern is notable because Bowlby initially emphasized dyadic attachment, but subsequent work acknowledged diverse pathways to security. Obama's public engagement style—persistent connection despite opposition, attribution of success to collective action, maintained optimism through challenging periods—may reflect this alternative secure-base formation through mass public relationship. This is particularly significant given that his father was absent during his formative years, potentially disrupting the typical pathway to earned security through a secure caregiver relationship.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_044",
+        "ev_045",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "sustainable_activism_through_collective_efficacy",
+      "definition": "Obama demonstrates a sustainable activism pattern where high mission engagement is maintained without burnout through attribution to collective actors rather than individual heroic action—a relational mechanism protecting against the exhaustion patterns anxiety-driven over-investment can produce",
+      "finding": "This dimension addresses a phenomenon not captured in standard attachment constructs: the sustainability of Obama's high engagement across eight years without evident burnout or the cycles of anxious over-investment and withdrawal. His speeches consistently attribute accomplishments to collective actors: 'It's you—the American people...because of workers rolling up their sleeves and getting the job done' (ev_032). This attribution pattern may serve a protective function—by framing himself as part of collective action rather than the solitary hero bearing all responsibility—Obama maintains high engagement without the exhausting self-burden that can accompany mission-driven leadership. Bowlby's framework, focused on early attachment, may underweight how adults construct sustainable engagement patterns through relational attributions. This dimension suggests that secure attachment may enable sustainable activism precisely through the capacity to distribute agency and credit rather than carrying mission exclusively on individual shoulders. His continued engagement post-presidency ('I look forward to working along your side, as a citizen' - ev_047) suggests this sustainability was not merely situational to holding office.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_047",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

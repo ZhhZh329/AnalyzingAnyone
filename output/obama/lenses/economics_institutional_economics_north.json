@@ -1,0 +1,160 @@
+{
+  "discipline": "economics",
+  "lens": "institutional_economics_north",
+  "constructs": [
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong preference for mission-scale horizons embedded in institutional redesign",
+      "finding": "Obama consistently designs policies with multi-decade time horizons and treats institutional path dependence as a binding constraint to work within rather than overcome. The ACA explicitly extended Medicare solvency by 12+ years (ev_002), the Energy Blueprint targets 2025 oil import reduction (evt_004), and the Cancer Moonshot frames a 45-year war on cancer requiring cross-administration persistence (ev_042). Climate policy is explicitly framed as multigenerational - 'that's not something to tear up, it's something to build upon' (ev_041). Rather than optimizing for short-term electoral gains or immediate crisis resolution, Obama anchors policy in sustained institutional change: Dodd-Frank created permanent enforcement structures (CFPB), TPP established trade rules across 40% of global economy, and Paris climate agreement engaged nearly 200 nations. This long-horizon orientation reflects North's insight that credible commitments require institutions stable enough to survive individual tenures.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_042",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Uses formal hierarchical authority strategically while respecting institutional boundaries",
+      "finding": "Obama exhibits complex engagement with formal hierarchy: he leverages presidential institutional power (veto threats on Dodd-Frank, ev_029; executive orders on contractor minimum wage, ev_017) but consistently frames authority in terms of constitutional rules and institutional responsibilities rather than personal power accumulation. On the debt ceiling, he stated 'I will not negotiate over the full faith and credit of the United States' (ev_015) - treating the constitutional boundary as non-negotiable rather than a bargaining chip. However, he also demonstrates understanding that formal rules only have force when enforcement mechanisms exist: he criticized Senate obstruction as contrary to founders' intent (ev_010) while acknowledging legislative strategy requires coalition-building across ideological lines (ev_008). The North lens suggests Obama distinguishes between domains where hierarchical authority can shape property rights and enforcement (financial regulation, health care) versus domains where coordination costs prevent unilateral action (transportation funding, minimum wage), deploying institutional power strategically.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010",
+        "ev_029",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-strong; uses formal governance mechanisms to shape incentives and coordination costs",
+      "finding": "Obama shows clear North-style control orientation through institutional design: the CFPB was created as an independent enforcement mechanism with specific property-rights-protecting functions, recovering $11 billion for consumers (ev_028); the ACA established new rules governing health insurance markets and Medicare entitlements (ev_001, ev_002); Dodd-Frank created consumer protections and ended 'too big to fail' bailouts (evt_002). He also used executive orders to change incentives for federal contractors (minimum wage, ev_017) and convened cross-agency task forces (Cancer Moonshot, ev_042) to reduce coordination costs in medical research. However, his control is bounded by enforcement capacity: repeatedly calling on Congress to extend transportation funding (evt_006, evt_009) shows he cannot control outcomes when legislative authority is required. The pattern suggests Obama prefers formal governance structures that reduce transaction costs and coordination problems, but recognizes that his authority is fragmented across institutional domains.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_017",
+        "ev_001",
+        "evt_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate-to-strong; prefers structural redesign but shows adaptability when path dependence blocks full reform",
+      "finding": "Several events reveal preference for comprehensive institutional redesign over incremental patching: the ACA was comprehensive health system reform rather than targeted fixes; Dodd-Frank was sweeping financial regulatory overhaul; Energy Blueprint was multi-faceted strategy combining drilling, efficiency, and clean energy; the Cancer Moonshot employed cross-agency task force (ev_043) for systemic innovation. However, the evidence also shows strong adaptability: when Congressional obstruction blocked minimum wage legislation (ev_020), Obama pivoted to executive orders on federal contractors (ev_017, ev_019) - a partial but meaningful institutional change within his authority. This pattern fits North's insight that actors in high coordination-cost environments often achieve only partial institutional change when full redesign faces path-dependent resistance. Obama does not insist on comprehensive solutions when narrower institutional moves can shift incentives and property rights in his preferred direction.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Primarily negotiation with selective escalation on core institutional commitments",
+      "finding": "Obama consistently pursues negotiation and coalition-building (ev_008 citing AFL-CIO and Chamber of Commerce together), framing issues in terms of shared American values (ev_004, ev_021). However, on specific institutional boundaries he escalates decisively: issuing veto threats against any Dodd-Frank repeal (ev_029), refusing to negotiate on debt ceiling (ev_015), and attacking Senate obstruction tactics as contrary to founders' intent (ev_010). This suggests a conflict strategy calibrated to institutional domain: where formal rules are at stake (financial regulation, constitutional constraints), he draws hard lines; where policy tradeoffs are involved (tax cuts, energy policy), he negotiates. The North lens would interpret this as recognition that certain property rights and enforcement mechanisms (credit markets, constitutional constraints) have credibility problems if subject to frequent renegotiation, while other policy areas remain within normal bargaining range.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_029",
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong; explicitly recognizes enforcement constraints, coordination costs, and institutional boundaries",
+      "finding": "Obama shows strong metacognitive awareness of institutional constraints and他自己的认知限制. He explicitly documents how sequestration creates real human costs - Head Start cuts, vulnerable seniors, military strain (ev_014) - demonstrating awareness that formal rules without adequate enforcement produce predictable failures. He acknowledges past trade deals 'haven't always lived up to the hype' (ev_027) while arguing for TPP anyway, showing capacity to update beliefs from experience. His government modernization initiative (ev_037) reflects understanding that formal institutions often fail to solve coordination problems, requiring cross-sector innovation. The Cancer Moonshot's cross-agency task force (ev_043) with Presidential Innovation Fellows from Silicon Valley shows recognition that internal government capacity has limits. This metacognition - awareness of what institutions can and cannot accomplish, where enforcement mechanisms are strong versus weak - aligns well with North's emphasis on understanding the enforcement environment as central to institutional analysis.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder with institutional design capacity; not a world-shaper in the transformational sense",
+      "finding": "Obama consistently operates within formal institutional constraints rather than attempting to reshape them fundamentally. He preserves existing property rights arrangements (Medicare commitment, ev_001), works within Congressional authorization requirements (calling on Congress for TPA, ev_026), and uses existing executive authority (executive orders on contractors) rather than claiming new powers. His 'Year of Action' (ev_019) explicitly responds to Congressional obstruction rather than transcending it. The pattern suggests a structure-responder who designs within path-dependent constraints, using available institutional tools (legislation, executive orders, public-private partnerships, enforcement agencies) rather than attempting fundamental transformation. This aligns with North's view that institutional change is typically incremental and bounded by existing formal rules, informal constraints, and enforcement capacity.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_026",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical and coalition-based; uses data to establish credible commitments and build cross-partisan support",
+      "finding": "Obama's epistemic style emphasizes verifiable metrics and coalition-building over abstract theoretical frameworks. He cites specific statistics: Medicare solvency extension (ev_002), 26 million consumers recovered $11 billion (ev_028), 11 million jobs over 57 months (ev_025), wind power tripled and solar 30x (ev_040). He builds cross-partisan coalitions by framing issues in terms of shared economic interests (AFL-CIO and Chamber of Commerce, ev_008) and acknowledges when past policies underperformed (ev_027). This empirical orientation fits North's framework because credible commitments require demonstrable evidence of reliable behavior, and coalition-building reduces coordination costs by expanding the informal constraint network supporting formal rules. Obama treats institutional credibility as requiring ongoing demonstration through measurable outcomes.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_025",
+        "ev_008"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; uses formal governance mechanisms but grounds abstract principles in concrete outcomes",
+      "finding": "Obama operates in the middle range of abstraction: he articulates general principles ('middle-out' economics, ev_021; opportunity for all, ev_018) but anchors them in specific institutional mechanisms and measurable outcomes. The 'middle-out' framework provides an organizing principle for policy without becoming highly formalized - it describes an economic logic rather than a mathematical model. He shows comfort with formal institutions (Dodd-Frank regulatory structure, CFPB enforcement mechanisms, ACA market rules) without demanding complete systematization of all policy domains. This moderate abstraction level fits North's framework because effective institutions often need general principles that can be applied across diverse contexts while maintaining enough specificity to be enforceable.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_028"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate mission priority; willing to accept relational costs with Congress but preserves broader coalitions",
+      "finding": "Obama prioritizes policy goals over immediate relational comfort with political opponents, as evidenced by direct criticism of Congressional obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea'). However, he consistently preserves broader coalition possibilities by framing opposition as obstruction rather than delegitimizing opponents. His 'middle-out' economic philosophy (ev_021) is inclusive enough to maintain cross-partisan support potential. The North lens interprets this as maintaining the informal constraints that enable cooperation even when formal rules are contested - burning bridges with Congressional Republicans would increase coordination costs beyond what institutional design can absorb. Mission goals are clearly primary, but relational networks are maintained to reduce future coordination costs.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_021",
+        "ev_008"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance within institutional constraints; willing to commit to long-term institutional redesign despite uncertainty",
+      "finding": "Obama shows willingness to pursue major institutional redesign (ACA, Dodd-Frank, TPP) despite uncertain outcomes and significant political risk. He explicitly acknowledges past trade deals underperformed but argues for continued engagement (ev_027), demonstrating epistemic humility about outcomes while maintaining forward commitment. The Cancer Moonshot (ev_042, ev_043) represents long-term institutional commitment to a goal with uncertain probability of success. However, his risk posture is bounded by enforcement considerations: he avoids constitutional confrontations (debt ceiling), works within existing authority structures (executive orders limited to contractors), and frames risks in terms of alternative costs (not acting on climate vs. acting). This suggests calibrated risk-taking that treats institutional feasibility as a constraint on acceptable uncertainty.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_042",
+        "ev_043",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "enforcement_optimism",
+      "definition": "The degree to which an actor believes formal enforcement mechanisms can actually constrain behavior when properly designed. This captures whether actors treat institutions as 'really constraining' (requiring serious design attention) versus 'merely rhetorical' (window dressing).",
+      "finding": "Obama demonstrates high enforcement_optimism - he treats institutional enforcement as real and consequential. The CFPB was designed as a specific enforcement mechanism that actually recovered $11 billion (ev_028). He explicitly documents sequester's real human costs when enforcement failed (ev_014). He treats the debt ceiling as a genuine constraint rather than political theater (ev_015). This differs from actors who treat institutions as rhetorical or who design institutions without serious attention to enforcement capacity. High enforcement_optimism leads to careful institutional design attention to who monitors compliance, what penalties exist, and how violations are actually detected - which Obama consistently demonstrates.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "institutional_domain_boundaries",
+      "definition": "The extent to which an actor recognizes that different policy domains have different institutional structures, enforcement capacities, and coordination cost profiles, requiring tailored strategies rather than universal approaches.",
+      "finding": "Obama clearly distinguishes between institutional domains where his authority is sufficient (executive orders on contractors, ev_017; enforcement agency creation, ev_028) versus domains where Congressional action is required (transportation funding, ev_006, evt_009; minimum wage legislation, ev_020). He recognizes that trade policy requires Congressional authorization (ev_026) while executive agreements in other domains may not. This domain-sensitivity suggests understanding that different formal rules operate under different enforcement environments and coordination cost structures, requiring strategic adaptation rather than one-size-fits-all institutional approaches. Actors who lack this dimension tend to either overreach in domains where authority is limited or underutilize domains where authority is sufficient.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_026",
+        "ev_006",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "first_principles",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "强主体性但嵌入制度约束，倾向于在既有框架内最大化控制而非从零重构",
+      "finding": "Obama展现出强烈的主动施动意识，这体现在他宣布'Actions Year'并列举超过20项行政行动（ev_019），以及在Dodd-Frank五周年时发出明确否决威胁（ev_029）。然而，他的能动性受限于宪政民主的制度约束——他不追求颠覆体制，而是在三权分立框架内寻找行动空间。在能源政策上，他明确拒绝了'仅靠钻探'的简单方案，展示了主动设计综合战略的意愿（ev_005）。这种特征与Elon Musk式的'打破一切重来'不同，更接近于在给定约束条件下最大化系统输出的工程师思维。",
+      "evidence_ids": [
+        "ev_005",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "演绎导向，以核心价值观为公理推导政策，但依赖经验数据验证论点",
+      "finding": "Obama的认知风格表现出明确的第一性原理特征：在能源政策中，他将问题分解到物理约束（'美国使用25%世界石油但仅有2%储量'），从而拒绝单一手段（ev_005）；在经济哲学上，他从'Middle-out'原则推导出一系列政策主张（ev_021）。然而，他较少展现对自身隐含前提的质疑——他以'机会平等'（ev_018）和'中产阶级繁荣'作为不证自明的公理，这些价值框架本身未被追问。在面对政策失败时（如承认既往贸易协议未能兑现承诺，ev_027），他不是归零重推，而是将其作为'需要新方案'的证据而非修正基础信念的机会。",
+      "evidence_ids": [
+        "ev_005",
+        "ev_018",
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "中高度抽象化能力，将复杂问题分解为正交维度并形式化为可操作框架",
+      "finding": "Obama展现出系统性的政策框架构建能力，而非仅停留在具体措施层面。在能源安全上，他将问题分解为三个正交维度：国内钻探（供给）、燃料效率（需求）、清洁能源（替代）（evt_004）。在经济政策上，他将'middle-class prosperity'形式化为可量化的工资增长、制造业就业、医疗覆盖率等指标（ev_033）。Cancer Moonshot展示了通过跨部门协调实现系统性变革的思维——Biden描述的' Presidential Innovation Fellows将技术专家引入白宫'（ev_043）体现了对复杂系统的工程化理解。",
+      "evidence_ids": [
+        "ev_033",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "高度控制系统和议程，但对制度性限制表现出某种接受而非对抗",
+      "finding": "Obama的控制取向体现在多个层面：他对国会僵局采取强硬立场（'不会谈判债务上限信用'，ev_015），并通过行政命令在最低工资等问题上单方面行动（ev_017）。然而，这种控制欲被明显的制度意识所调和——他频繁提及'call on Congress'而非绕过立法机构。他在告别演讲中将成就归因于'美国人民'（ev_032），这种叙事暗示他对个人控制边界的清醒认识。值得注意的矛盾：他寻求通过企业联盟（UPS、FedEx、AT&T等）间接影响政策（evt_004），这表明他理解直接控制 vs 网络影响的区别。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "高度使命导向，愿意承担政治对立成本但以价值观共识为前提",
+      "finding": "Obama在核心政策立场上面临显著的'关系成本'：他在Dodd-Frank上发出明确否决威胁（ev_029），批评共和党'对最低工资说不、对同等报酬说不、对恢复失业保险说不'（ev_020）。然而，他的对抗性受到价值观框架的约束——他寻求'bipartisan support'（evt_006中提及AFL-CIO与Chamber of Commerce的罕见联合）。他明确表示'不会谈判信用'（ev_015），这是对原则性底线的坚守而非个人恩怨。值得注意的是，他的冲突策略倾向于在政策层面展开而非人身层面，这与第一性原理思维者'在假设层面辩论'的特征一致。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "中等风险容忍度，偏好经过验证的路径而非根本性创新，但愿意承担政治风险",
+      "finding": "Obama的风险偏好呈现出有趣的两面性：一方面，他推进了一系列高政治风险议程（ACA、Dodd-Frank、Paris气候协议），这些都在明确的反对声中推进。他宣称'Trade Promotion Authority'时明确承认'past trade deals haven't always lived up to hype'（ev_027），这是一种承认过往失败经验而非规避风险的态度。另一方面，他的政策建议大多属于已有范式内的优化而非范式转换——他偏好'balanced approach'（ev_013）而非激进的单边方案。TPP谈判历时5年（evt_021）体现了他愿意投入长期时间的耐心，但这更多是外交谈判的需要而非从零重构的意愿。",
+      "evidence_ids": [
+        "ev_013",
+        "ev_027",
+        "ev_030"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "既尊重又敢于挑战权力层级，权威来自于论证质量而非资历",
+      "finding": "Obama对权力层级的态度展现了第一性原理思维的特征：他批评'Senator gumming up the works'违反了founding fathers的意图（ev_010），这是以规范性原则质疑权威而非以资历或职位反制。他明确表示'I've taken more than 20 executive actions'（ev_019），将行政权力视为制度赋予的工具而非个人恩惠。他在政府现代化上'asking sharp minds from Silicon Valley to help modernize federal government'（ev_037），展示了对专业能力的尊重超越传统层级。这与Musk'不信任权威而信任物理学约束'的立场有微妙差异——Obama的权威基础更多是民主合法性加上专家知识。",
+      "evidence_ids": [
+        "ev_010",
+        "ev_019",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "倾向于在政策假设层面展开冲突，寻求共识但坚守原则底线",
+      "finding": "Obama的冲突策略具有高度的原则性：他将债务上限问题定义为'full faith and credit of the United States'的信用问题（ev_015），将共和党反对定性为'working families vs. special interests'的价值问题（ev_020）。这种框架将冲突追溯至公理层面差异。然而，他的策略也显示出对执行复杂性的务实认知：他寻求AFL-CIO与Chamber of Commerce的联盟（ev_008），理解联盟构建对于政策成功的必要性。他将冲突框定为'American issue'而非党派问题（ev_008），这是通过重新定义问题维度来扩展支持基础而非回避冲突。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "混合时间视野，短期危机响应与长期系统性目标并存",
+      "finding": "Obama展现出清晰的长期愿景（能源蓝图到2025年，evt_004；气候变化持久战，ev_041），同时表现出处理短期危机的紧迫性（7天交通法案截止日，ev_011）。他宣称'11 million jobs over 57 months'（ev_025）的叙事框架将长期结构性改革与可量化的短期成果相结合。在 farewell address 中，他将癌症登月计划作为遗产项目（evt_026），这体现了他对长期影响力 vs 即时政治收益的计算。这种时间视野的混合模式与'愿意投入前期时间进行基础分解'的第一性原理特征部分吻合，但Obama更倾向于并行推进而非顺序执行。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_025",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "明确偏好结构性解决方案，但对制度修补表现出务实接受",
+      "finding": "Obama的证据中有一个明确模式：他反复推动用'balanced approach'替代sequester（ev_013, ev_014），用comprehensive energy strategy替代单一drilling（ev_005）。这些都体现了他对结构性根源问题的认知。然而，他也展现了务实主义的一面——他接受bipartisan budget deal作为'Christmas miracle'（ev_048），这表明在理想重构与政治可行性之间他会做出妥协。他的行政命令策略（$10.10最低工资，ev_017）是在立法渠道受阻时的修补性替代而非系统性重建。Cancer Moonshot通过'Presidential Innovation Fellows'和跨机构协调实现变革（ev_043），既包含重建元素（新的协调机制）也有修补元素（改进现有临床试验系统）。",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_017",
+        "ev_043",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "中等元认知能力，反思性表达存在但缺乏对自身思维框架的系统性质疑",
+      "finding": "Obama在告别演讲中展现了对他自身成长和局限的认知（'Every day, I learned from you...You made me a better President, and you made me a better man'，ev_044），这是对他作为决策者局限性的承认。他在描述决策过程时较少明确引用第一性原理的语言，更多使用价值观驱动的框架。然而，他的政策制定方法论显示出对因果复杂性的理解——他承认past trade deals' fell short of hype'（ev_027），但将其作为需要改进而非放弃贸易的理由。他的政府现代化举措（邀请Silicon Valley专家，ev_037）表明他意识到自身在技术领域的认知边界。然而，他在演讲中未展示对自身隐含前提的系统性质疑，这与Musk'我质疑一切'的风格形成对比。",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "principled_bridging",
+      "definition": "在价值观一致性约束下寻求跨利益相关者的可行路径的能力。这区别于纯务实主义（无原则妥协）和纯理想主义（无视可行性），也区别于第一性原理的'归零重构'——它是在承认既有约束的基础上寻找最优桥接点。",
+      "finding": "Obama展现出独特的'原则性桥接'能力：他明确宣示核心价值观（middle-class opportunity, ev_018; Dodd-Frank protection, ev_029），同时积极构建跨党派联盟（AFL-CIO+Chamber of Commerce, ev_008）、公私合作（Clean Fleets Partnership with UPS, FedEx, AT&T, PepsiCo, evt_004）。这种能力的反面证据是他对行政权力的依赖——当桥接失败时，他更多诉诸单边行动而非归零重构。他的'Year of Action'叙事将executive actions定位为'when Republicans block'的替代路径（ev_020），这表明他的'桥接'是工具性的而非原则性的放弃。这与典型第一性原理思维者（愿意承受社会摩擦也要坚持'正确答案'）存在微妙差异——Obama在桥接失败时会选择次优路径，而非坚持原方案或重启问题定义。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

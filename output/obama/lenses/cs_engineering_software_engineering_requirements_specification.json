@@ -1,0 +1,167 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "software_engineering_requirements_specification",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: actively restructures the problem space rather than responding passively to external demands",
+      "finding": "Obama consistently operates as a world-shaper across his communications, using executive orders, specific targets, and institutional design to restructure the environment rather than accepting constraints as given. Evidence includes his 'Year of Action' initiative (ev_019) where he explicitly took over 20 executive actions to circumvent Congressional blockage. He sets specific acceptance criteria (ev_009 - 'seven days,' 'eight days') and challenges private sectors (ev_009 - corporate veteran hiring commitments). Rather than negotiating within given boundaries, he frequently restructures the problem by introducing alternative mechanisms (executive orders, agency creation, public-private partnerships). This suggests a fundamental orientation toward reshaping the problem space to achieve desired outcomes rather than optimizing within existing constraints.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Hybrid style: data-driven metrics combined with narrative and philosophical framing",
+      "finding": "Obama forms judgments through a combination of empirical metrics and narrative reasoning. He consistently cites specific quantitative evidence (ev_016 - 'fastest rate since WWII,' ev_025 - '11 million jobs,' ev_040 - 'wind power threefold, solar thirtyfold') but embeds these within larger philosophical frameworks about middle-out economics (ev_021) and American resilience (ev_024). His epistemic process appears to involve: (1) establishing measurable baselines, (2) framing outcomes within broader ideological narratives, (3) using both data and story to build consensus. He acknowledges uncertainty (ev_027 - 'past trade deals haven't always lived up to the hype') while maintaining forward momentum. This suggests he does not rely purely on either data-driven optimization or pure narrative appeal, but systematically combines both approaches depending on audience and context.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_021",
+        "ev_024",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction: balances principle-level frameworks with concrete specifics",
+      "finding": "Obama demonstrates capacity for both abstract principle articulation and concrete specification. At the abstract level, he articulates coherent frameworks like 'middle-out economics' (ev_021), 'opportunity for all' (ev_018), and 'America's resurgence' (ev_024). At the concrete level, he specifies exact values ($10.10 minimum wage - ev_017), exact timelines (7 days, 8 days - ev_011), and measurable outcomes (100,000 veteran hires - ev_009, 26 million consumers recovered $11 billion - ev_028). He does not prefer pure abstraction; he frequently moves between principle and specification depending on communication needs. His policy approaches tend to create concrete institutional mechanisms (CFPB, Clean Fleets Partnership) rather than remaining at philosophical levels. This suggests moderate formalization capacity—ability to create structured frameworks without losing touch with operational specifics.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_017",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong indirect control: prefers mechanism design over direct manipulation",
+      "finding": "Obama consistently seeks control through institutional design and mechanism establishment rather than direct command-and-control. He creates standing institutions like the Consumer Financial Protection Bureau (ev_028) to enforce specifications over time. He uses veto threats as hard boundaries (ev_029 - 'I will veto it') rather than negotiating continuously. He sets up timelines and deadlines (ev_011) as enforcement mechanisms. His control strategy involves: (1) establishing clear non-negotiable boundaries, (2) creating institutions to monitor and enforce compliance, (3) using formal mechanisms (executive orders, regulatory frameworks) to lock in specifications. He does not appear to seek personal micromanagement but rather systematic control through designed systems. This aligns with a requirements engineering orientation where control is achieved through well-specified constraints and monitoring rather than ongoing personal intervention.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_011",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation with calculated relational awareness",
+      "finding": "Obama demonstrates strong mission orientation—he draws explicit lines on certain issues regardless of relational cost. Most notably, he refuses to negotiate over debt ceiling (ev_015 - 'I will not negotiate over the full faith and credit of the United States'), declares veto threats on Wall Street Reform repeal (ev_029), and criticizes Congressional obstruction directly (ev_020 - 'Republicans in Congress have blocked or voted down every serious idea'). However, he also demonstrates relational awareness when useful—he calls for bipartisan support (ev_008), emphasizes that 'neither party has been blameless,' and seeks broad coalitions (ev_008 - AFL-CIO and Chamber of Commerce together). His pattern suggests mission takes priority, but he strategically deploys relational optics when it serves the mission. He is willing to absorb political friction when core specifications are at stake, while maintaining coalition-building as a tactical tool.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_020",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with defensive hedging on critical boundaries",
+      "finding": "Obama's risk posture shows two distinct modes: (1) Selective aggressive risk-taking on policy gambles with high upside: auto industry rescue (ev_022), TPP negotiation (ev_026, ev_031), Paris climate agreement (ev_034, ev_041), Iran nuclear deal (ev_034). These show willingness to make bold bets on complex, long-term initiatives. (2) Defensive posture on core boundaries: refusing debt ceiling negotiation (ev_015), maintaining Medicare solvency commitments (ev_001), protecting Wall Street Reform (ev_029). He also practices early ambiguity surfacing—warning about sequester consequences before they materialize (ev_011, ev_012), establishing clear timelines before crises. This suggests a layered risk approach: aggressive experimentation on policy innovations, conservative boundary-setting on institutional integrity, and proactive risk communication to shape expectations.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_026",
+        "ev_031",
+        "ev_015",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy as enforcement mechanism, not personal power accumulation",
+      "finding": "Obama's use of hierarchy is distinctive: he invokes presidential authority primarily as an enforcement mechanism for specifications, not as personal power consolidation. Evidence: he uses veto threats (ev_029) to enforce boundaries, executive orders (ev_017) to establish requirements, and institutional design (ev_028 - CFPB) to create lasting monitoring capacity. His rhetorical framing emphasizes service to citizens ('our founders trusted us' - ev_036) rather than personal authority. He criticizes hierarchical obstruction (ev_010 - 'One senator gumming up the works') not hierarchy itself. This suggests he views institutional hierarchy as a tool for enforcing specifications and maintaining standards, not as an end in itself. He seeks to institutionalize his priorities through durable structures rather than concentrate personal control.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_028",
+        "ev_036",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate-conflict-and-escalate: reframes conflicts in terms of shared values while drawing hard lines",
+      "finding": "Obama's conflict strategy shows a distinctive pattern: (1) Translation: He systematically reframes conflicts in terms of shared American values rather than partisan positions. 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008). He appeals to 'our founders,' 'the American people,' and shared identity rather than ideological labels. (2) Boundary-setting: When translation fails, he draws explicit hard lines—refusing to negotiate debt ceiling (ev_015), issuing veto threats (ev_029), calling out obstruction directly (ev_020). (3) Alternative path creation: When direct conflict fails, he creates alternative delivery mechanisms—executive orders, executive actions, White House partnerships with private sector. He does not typically suppress conflict or delay indefinitely; he either translates it or escalates through mechanism design. This suggests a conflict strategy oriented toward transforming conflicts into structured problems with clear specifications and acceptance criteria.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale: balances immediate delivery with long-term capability building",
+      "finding": "Obama demonstrates consistent attention to multiple time horizons simultaneously. Immediate delivery: executive actions (ev_019 - 'over 20 executive actions since January'), urgent deadline management (ev_011 - sequestration warning, ev_009 - 7 days/8 days), and short-term job creation metrics (ev_025 - monthly job additions). Long-term capability building: Paris climate agreement (ev_034, ev_041) as generational infrastructure, TPP (ev_026, ev_030) as 5-year negotiation, cancer moonshot (ev_042) as 45-year initiative. He explicitly frames some actions as legacy investments ('that's not something to tear up – it's something to build upon' - ev_041). His farewell address reflects on both 8-year accomplishments and multi-generational impact ('leave a better, cleaner, safer future for our children' - ev_041). This suggests a mission-scale time orientation—optimizing for outcomes that persist beyond immediate political cycles while maintaining delivery pressure in the present.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural rebuild with strategic patching: creates new frameworks when patches fail",
+      "finding": "Obama shows clear preference for structural solutions over piecemeal patching, but with tactical patching when full rebuild is unavailable. Evidence of structural preference: Creates new institutions (CFPB - ev_028, Presidential Innovation Fellows - ev_043), negotiates comprehensive agreements (TPP - ev_030, Paris climate - ev_034), establishes permanent frameworks (ACA implementation - ev_027, energy security blueprint - evt_004). When structural solutions are blocked, he uses executive actions as patches (ev_019 - 'Year of Action' with 20+ executive orders) but explicitly frames these as suboptimal responses to Congressional obstruction ('Republicans have blocked every serious idea'). He demonstrates awareness that patches are less durable—his farewell address (ev_044-ev_047) emphasizes institutional design over personal achievement. However, he does not persist with failed approaches; when legislative path closes, he pivots to executive mechanisms. This suggests structural orientation with pragmatic patching as a fallback strategy when original specifications cannot be achieved through preferred channels.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_030",
+        "ev_019",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: explicitly reflects on own reasoning and learning process",
+      "finding": "Obama demonstrates notably high metacognitive capacity throughout his communications. His farewell address explicitly reflects on learning from citizens ('Every day, I learned from you. You made me a better President, and you made me a better man' - ev_044) and acknowledges his own limitations ('I'm the first to admit that past trade deals haven't always lived up to the hype' - ev_027). He explicitly frames his approach as iterative—testing, learning, and adjusting. He acknowledges uncertainty ('I am confident' - ev_004 - but in context of acknowledging what drilling alone cannot achieve). His pattern of surfacing ambiguity early (ev_011, ev_012 warnings) suggests awareness of his own limitations in predicting failure modes. He demonstrates awareness of political constraints on his own thinking ('Whether we've seen eye-to-eye or rarely agreed at all' - ev_044). This high metacognition aligns with the requirements engineering principle of recognizing cognitive limits and building in feedback mechanisms, rather than assuming specifications will remain valid without monitoring.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_011",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "specification_persistence_awareness",
+      "definition": "The degree to which someone accounts for the durability and reversibility of their specifications under different political conditions. This captures how requirements engineers think about long-term maintainability versus someone who treats all requirements as equally enforceable regardless of context.",
+      "finding": "Obama demonstrates high awareness that political specifications differ from engineering specifications in their persistence under changing conditions. He consistently builds durability mechanisms into his policy frameworks: institutional design (CFPB as independent agency - ev_028), international agreements (Paris climate, TPP - ev_030, ev_034), and constitutional framings (debt ceiling as 'full faith and credit' - ev_015). His farewell address explicitly treats some specifications as more fragile than others ('that's not something to tear up – it's something to build upon' - ev_041, referring to Paris agreement). This awareness that the same specification may survive or fail depending on institutional embedding is a key distinction between requirements-oriented thinking and implementation-oriented thinking. Obama appears to consistently consider not just 'what should the system do' but 'what will maintain these requirements when I'm not here to enforce them.'",
+      "evidence_ids": [
+        "ev_028",
+        "ev_030",
+        "ev_015",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "negotiation_as_delivery_channel",
+      "definition": "The extent to which someone treats direct negotiation and narrative persuasion as alternative delivery mechanisms for specifications, not just as constraints on specification-setting. This captures whether someone sees negotiation as fundamental to how requirements get implemented or as a separate political process outside requirements work.",
+      "finding": "Obama exhibits an interesting tension between requirements-oriented thinking and political practice: he sets clear specifications (ev_015 - 'I will not negotiate,' ev_029 - veto threats), but simultaneously continues engaging in the political process through speeches, public appeals, and coalition-building. This suggests he treats negotiation not as a constraint on specification-setting but as an ongoing delivery channel for requirements. His repeated calls to Congress even after declaring lines suggest he still works to move specifications through the political channel. This contrasts with a pure requirements engineering approach where once boundaries are set, they are maintained without ongoing negotiation. Obama appears to maintain dual tracks: setting hard specifications while simultaneously trying to move the broader specification set through legislative channels. This may reflect political realism (requirements need political buy-in to persist) rather than requirement engineering purity, but it creates tension with his hard-line positioning on certain issues.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_008",
+        "ev_020",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "discipline": "psychology",
+  "lens": "cognitive_decision_psychology_dual_process_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama consistently positioned himself as an active agent driving change rather than passively responding to circumstances",
+      "finding": "Obama's two terms show systematic patterns of agency initiation across multiple domains. He declared a 'Year of Action' in 2014 (ev_019) when Congress blocked his agenda, explicitly stating he had taken 'more than 20 executive actions' (ev_019) to circumvent legislative obstacles. His Cancer Moonshot initiative (ev_042-43), described by Biden as having 'a clear strategy for the road ahead,' demonstrates strategic initiative-taking. Rather than waiting for Congressional consensus, Obama pursued government modernization through Silicon Valley partnerships (ev_037), framed as something 'government never has' done. His father's day address showed agency through personal narrative choices, discussing his absence from his father and his role as assistant coach for his daughter's basketball team (ev_006, ev_007) — actively constructing meaning rather than receiving it. Even in farewell, he positioned himself as continuing 'as a citizen, for all my days that remain' (ev_047), maintaining active orientation toward public life.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_037",
+        "ev_006",
+        "ev_007",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Reflective analyst with calibrated trust in both intuition and evidence; shows willingness to revise positions based on accumulated evidence",
+      "finding": "Obama demonstrates a notably balanced epistemic approach, neither purely intuitive nor exclusively data-driven. On TPP, he explicitly acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027), showing metacognitive awareness that prior positions warranted revision. He frames policy positions with explicit evidence-calling: citing specific statistics ('7 days away,' '8 days away,' ev_011), referencing surveys of small business owners (ev_023), and noting '11 million jobs over 57 months' (ev_025). However, his communication style consistently translates data into narrative rather than presenting raw analysis. His energy security statement rejected 'drilling alone' as insufficient (ev_005), showing analytical synthesis of complex systems rather than simple pattern-matching. His 'middle-out' economic philosophy (ev_021) represents an abstracted conceptual framework rather than pure empiricism. This suggests System 2 engagement with System 1 providing accessible narrative packaging.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_011",
+        "ev_023",
+        "ev_025",
+        "ev_005",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-high abstraction preference; Obama translates complex policy into accessible conceptual frameworks but does not over-systematize",
+      "finding": "Obama consistently operates through abstracted philosophical frameworks that simplify complexity for public communication. His 'middle-out' economic concept (ev_021) — 'our economy grows best not from the top-down, but from the middle-out' — exemplifies his tendency to distill policy into memorable frameworks. His 'top 10 things that happened in 2015' list (ev_033) shows comfort with systematized presentation of complex outcomes. However, he rarely uses technical jargon or formal academic constructs. His approach balances abstraction with accessibility: he can articulate the abstract principle of opportunity ('no matter who you are or how you started out,' ev_018) while also citing concrete specifics like Head Start cuts and Meals on Wheels impacts (ev_014). He prefers conceptual coherence over exhaustive formalization, suggesting a calibrated System 2 engagement that does not require full formal modeling.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_018",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation; seeks systematic influence over policy systems rather than micromanagement of outcomes; adapts tactics when primary channels blocked",
+      "finding": "Obama shows moderate-to-high control orientation through systematic pursuit of policy goals, but demonstrates flexibility in tactics when direct control is unavailable. When Congress blocked minimum wage, equal pay, and unemployment insurance (ev_020), he pivoted to executive actions on federal contractors (ev_017), maintaining goal pursuit through alternative channels. His debt ceiling stance (ev_015) reflects firm control positioning: 'I will not negotiate over the full faith and credit of the United States.' The veto threat on Wall Street Reform repeal (ev_029) confirms willingness to use presidential authority decisively. However, his communication style rarely positions him as dominating — he seeks coalition support (AFL-CIO and Chamber of Commerce together, ev_008) and frames control as institutional rather than personal. His government modernization effort (ev_037) sought external expertise rather than controlling internally, suggesting control through system design rather than direct management.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_020",
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with calibrated willingness to absorb relational costs; maintains relationships when possible but does not sacrifice principles for social harmony",
+      "finding": "Obama demonstrates mission-prioritization while remaining relationship-conscious. His debt ceiling refusal (ev_015) shows willingness to absorb potential relational costs with Congressional Republicans: 'the height of irresponsibility' and explicit refusal to negotiate. However, his Father's Day address (ev_006-007) and farewell address expressions of gratitude (ev_044) show relational sensitivity underlying the transactional politics. He credited others for accomplishments ('It's you — the American people,' ev_032) rather than claiming individual credit, suggesting relational awareness even within mission-priority framing. His bipartisan framing on transportation (ev_008) sought cross-party coalition rather than pure partisan positioning, indicating calibration of mission goals with relational costs. The tension between executive actions when blocked versus continued invitation to cooperation suggests dynamic balancing rather than systematic relational cost-acceptance.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_006",
+        "ev_007",
+        "ev_044",
+        "ev_032",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-conscious analyst; prefers evidence-based decisions and calculated moves over bold intuitive leaps; shows low spontaneous risk-taking",
+      "finding": "Obama's decision-making pattern suggests risk-conscious analytical processing rather than System 1-driven boldness. His energy strategy explicitly rejected single-path approaches: 'Drilling alone is not a real strategy' (ev_005) due to reserve limitations. He consistently argued for 'balanced' approaches (ev_013: 'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code'). His deficit messaging emphasized falling deficits ('fastest rate since the end of World War II,' ev_016), showing numerical risk awareness. His TPP framing (ev_031) positioned China writing rules as risk to avoid, suggesting risk-averse framing of inaction. However, he demonstrated willingness to take calculated risks on healthcare reform (ACA), financial regulation (Dodd-Frank), and diplomatic initiatives (Iran nuclear deal, Paris climate agreement) when underlying analysis supported action. This pattern suggests calculated risk-taking based on System 2 assessment rather than either excessive caution or intuitive boldness.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_016",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power allocator; uses hierarchy to establish norms and protect processes rather than for personal dominance; maintains principled boundaries",
+      "finding": "Obama uses presidential authority instrumentally rather than personally. His debt ceiling stance (ev_015) established a principle protecting institutional credibility: 'the full faith and credit of the United States' rather than personal political advantage. The veto threat on Wall Street Reform (ev_029) protected regulatory architecture from rollback. His critique of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010) invoked institutional founding principles rather than personal power. He used his position to establish norms: calling for 90-day up-or-down votes on nominations (ev_008), challenging private sector to hire veterans (ev_009). However, his hierarchy use is clearly bounded — he explicitly credited 'the American people' for progress (ev_032, ev_044), positioned himself as steward rather than owner, and his farewell emphasized returning 'to being a citizen' (ev_047). This suggests hierarchical engagement for institutional protection rather than personal aggrandizement.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_010",
+        "ev_008",
+        "ev_009",
+        "ev_032",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation with principled escalation; willing to name opposition and use executive authority when blocked; but maintains institutional frame rather than personal attacks",
+      "finding": "Obama's conflict strategy shows direct confrontation with principled escalation patterns. He explicitly named Republican opposition: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), issuing direct criticism rather than diplomatic euphemism. His response to Congressional obstruction was escalation to executive action ('Year of Action,' ev_015), showing willingness to bypass opposition rather than endlessly negotiate. His sequester messaging documented real human costs (ev_014) — Head Start cuts, seniors losing Meals on Wheels, military strain — as conflict framing emphasizing opposition's consequences. However, he maintained institutional framing: 'not a Democratic or a Republican issue' (ev_008), seeking cross-partisan legitimacy. His conflict never descended to personal attacks; even when criticizing obstruction, he included self-critique ('Neither party has been blameless,' ev_010). His conflict strategy suggests calculated escalation when principles are at stake while maintaining institutional legitimacy framework.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_014",
+        "ev_008",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly long-term mission scale; Obama consistently optimizes for decade-spanning goals and systemic changes rather than immediate political wins",
+      "finding": "Obama's decision-making consistently operates on mission-scale time horizons extending beyond immediate political cycles. ACA extended Medicare solvency by 12+ years (ev_002) — a structural fix with multi-decade implications. Energy strategy aimed for 'one-third' oil import reduction by 2025 (evt_004) — a 14-year target. His climate framework emphasized 'low-carbon future' (ev_034) as multi-generational project. Paris climate agreement and Iran nuclear deal represent diplomatic architecture with 20+ year implications. His Cancer Moonshot (ev_042) explicitly references 45-year trajectory from Nixon's 1971 declaration. Even in immediate messaging, he references multi-year trends: '57 consecutive months' of job growth (ev_025), '11 million jobs over 57 months' (ev_025). His farewell emphasis on sustained civic engagement 'over the full span of a lifetime' (ev_046) reinforces long-term orientation. This pattern strongly suggests System 2 dominance in temporal reasoning, with calculated acceptance of short-term political costs for long-term structural gains.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_034",
+        "ev_042",
+        "ev_025",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference; Obama consistently pursued comprehensive systemic changes rather than incremental adjustments when political conditions allowed",
+      "finding": "Obama's policy portfolio demonstrates strong preference for structural redesign over local repair when possible. ACA represented complete healthcare system redesign rather than incremental market fixes — explicitly extending Medicare solvency by 12+ years (ev_002) and establishing new regulatory architecture. Dodd-Frank created comprehensive financial regulatory reform with new institutions (CFPB) rather than patching existing frameworks. His budget messaging attacked 'sequester' as blunt instrument requiring replacement with 'balanced' approach (ev_013) — system redesign rather than adjustment. Government modernization (ev_037) sought fundamental process change through Silicon Valley partnerships rather than incremental IT upgrades. His economic philosophy ('middle-out,' ev_021) represents abstracted framework for systemic redesign. However, when structural change was blocked (minimum wage, equal pay), he showed pragmatic willingness to use executive orders as patches (ev_017, ev_019) — demonstrating adaptive implementation when ideal approach unavailable. This suggests ideological commitment to redesign with tactical flexibility.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_037",
+        "ev_021",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; Obama demonstrates active monitoring and adjustment of reasoning, with explicit acknowledgment of cognitive limits and evidence-driven revision",
+      "finding": "Obama shows notably high metacognitive awareness across multiple dimensions. His self-assessment in farewell — 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) — reflects ongoing self-calibration. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to revise prior positions based on evidence. His personal storytelling (Father's Day address, ev_006-007) shows active construction and reconstruction of autobiographical narrative as meaning-making tool. He explicitly invited external input through government modernization efforts (ev_037) — 'asked some of the sharpest minds... to help us modernize.' His framing acknowledged complexity: the sequester required explaining real human costs (ev_014), suggesting awareness that policies have multiple interacting effects requiring careful monitoring. His dual-processing appears well-calibrated: he uses System 1 for communication warmth and narrative connection while maintaining System 2 for strategic planning and position revision. His consistent attribution of accomplishments to collective action (ev_032, ev_044, ev_045) suggests cognitive awareness of limited individual agency within complex systems.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006",
+        "ev_007",
+        "ev_037",
+        "ev_014",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "calibrated_optimism_management",
+      "definition": "The capacity to maintain forward-looking confidence while acknowledging present failures and uncertainties — a metacognitive balancing act between realistic assessment and motivational framing",
+      "finding": "Obama demonstrates a distinctive pattern of calibrated optimism management across his communications. He pairs acknowledgment of problems ('Republicans have blocked,' 'sequester cuts,' '1 million jobs at risk') with confident forward-looking projections ('America's resurgence is real,' 'I'm absolutely confident we will get there'). This is not naive optimism or defensive denial — it reflects System 2 management of emotional tone. His 2015 year-end list format (ev_033) structured complex accomplishments into positive narrative without erasing ongoing challenges. His farewell address (ev_044-047) balanced gratitude with continued urgency about civic engagement. This emergent construct captures Obama's distinctive communication strategy: using optimistic framing not as cognitive bias but as deliberate motivational calibration within realistic assessment.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_044",
+        "ev_047",
+        "ev_024",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "narrative_translation_efficiency",
+      "definition": "The ability to convert complex analytical conclusions into accessible narratives without losing essential accuracy — essentially serving as a cognitive bridge between System 2 output and System 1 consumption",
+      "finding": "A recurring pattern in Obama's communications shows deliberate translation of policy analysis into narrative form. His 'middle-out' philosophy (ev_021) converts economic research into memorable framing. His sequester messaging (ev_014) converts budget analysis into human impact stories. His climate communication (ev_040) converts emissions data into tangible progress ('wind power tripled, solar 30x'). His Cancer Moonshot framing (ev_042) converts medical research complexity into actionable narrative. This pattern suggests Obama functions as a translation layer — performing System 2 analysis then packaging conclusions in System 1-accessible form. This is not simplification but strategic communication design, suggesting high metacognitive awareness of audience cognitive processing modes.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_014",
+        "ev_040",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

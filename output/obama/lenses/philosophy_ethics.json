@@ -1,0 +1,187 @@
+{
+  "discipline": "philosophy",
+  "lens": "ethics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation through institutional leadership and executive action",
+      "finding": "Obama consistently positions himself as an active shaper of outcomes rather than a responder to circumstances. He explicitly states 'we chose to invest in American auto industry and American workers' (ev_022), demonstrating intentional world-shaping through policy. When legislative paths are blocked, he pivots to executive action—taking 'more than 20 executive actions' (ev_019) to advance his agenda, declaring 'Year of Action' (evt_015). His framing emphasizes agency: Americans can 'reverse the decades-long erosion of middle-class jobs and incomes' (ev_024). This aligns with consequentialist world-shaping that sees government as an instrument for achieving measurable improvements in population welfare, though constrained by democratic legitimacy.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_019",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical consequentialist with trust in data and outcomes-based reasoning",
+      "finding": "Obama's epistemic approach is fundamentally empirical and consequentialist—he grounds claims in statistical evidence and measures success by measurable outcomes. He cites 'nearly 11 million new jobs' over 57 months (ev_025), '$11 billion back in the pockets of more than 26 million consumers' (ev_028), 'wind power threefold' and 'solar power more than thirtyfold' (ev_040). His framing of the sequester emphasizes concrete human costs: 'kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels' (ev_014). This aligns with utilitarian epistemic style—trusting experience and data over abstract principle. He acknowledges past trade deals 'haven't always lived up to the hype' (ev_027), demonstrating epistemic humility about policy effectiveness.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_014",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with grounding in concrete policy and statistics",
+      "finding": "Obama articulates abstract principles but consistently grounds them in policy specifics and empirical data. He develops the 'middle-out' economic philosophy ('Our economy grows best not from the top-down, but from the middle-out'—ev_021) and 'opportunity for all' principle (ev_018), but immediately connects these to concrete proposals: minimum wage increases, equal pay legislation, infrastructure spending. His policy speeches enumerate specific statistics rather than developing formal theoretical systems. This moderate abstraction aligns with pragmatic consequentialism—abstract enough to provide moral direction, concrete enough to measure and evaluate.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong institutional control through executive action and non-negotiable principles",
+      "finding": "Obama exhibits strong institutional control orientation, seeking to shape policy outcomes through available mechanisms. He issues definitive veto threats against Wall Street Reform repeal (ev_029), refuses to 'negotiate over the full faith and credit of the United States' (ev_015), and takes executive action when Congress blocks his agenda (ev_017, ev_019). His control orientation operates within democratic constraints—he frames these as protecting institutional integrity rather than personal power accumulation. The sequester conflicts show him seeking control over budget outcomes through persuasion and public pressure, framing the issue as protecting Head Start children and military families (ev_014) rather than as institutional power plays.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Balances consequentialist mission-priority with care for vulnerable populations",
+      "finding": "Obama shows consequentialist willingness to prioritize policy goals over relational comfort in institutional conflicts, yet demonstrates care ethics attention to vulnerable populations. He vows to veto Wall Street Reform repeal (ev_029) and refuses debt ceiling negotiation (ev_015) despite political friction. However, his advocacy consistently centers on those bearing costs: 'parents whose kids just got kicked out of Head Start,' 'seniors who depend on Meals on Wheels,' 'military communities—families that have already sacrificed enough' (ev_014). His Memorial Day address emphasizes 'solemn obligation' to Gold Star families and actionable remembrance (ev_038, ev_039). This suggests a consequentialism with humanistic constraints—mission-oriented but focused on protecting those least able to protect themselves.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_014",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated institutional risk-taking centered on protecting citizens from harm",
+      "finding": "Obama accepts institutional and political risks when necessary to prevent harm to populations, but frames risks in consequentialist terms. He declares 'I will not negotiate over the full faith and credit of the United States' (ev_015), accepting political confrontation to prevent economic crisis. The sequester messaging frames inaction as risking 'nearly 1 million jobs' (evt_006). His 'Year of Action' executive actions (ev_019) represent risk-taking within democratic constraints. However, he shows more caution with structural risks—he acknowledges 'past trade deals haven't always lived up to the hype' (ev_027) and frames TPP as preventing worse alternatives ('China will write the rules'—ev_031) rather than guaranteed success.",
+      "evidence_ids": [
+        "ev_015",
+        "evt_006",
+        "ev_019",
+        "ev_027",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Democratic institutionalist—uses formal power to implement collective will",
+      "finding": "Obama interprets power through democratic legitimacy rather than personal authority. He states 'our founders trusted us with the keys to this system of self-government' and frames government as 'only as good as we make it' (ev_036). He uses executive power instrumentally to overcome Congressional obstruction ('Republicans in Congress have blocked... every serious idea'—ev_020) rather than as personal prerogative. His power rhetoric emphasizes collective achievement: 'All of this progress is because of you' (ev_032). He positions himself as implementing democratic will against obstruction, not as pursuing personal agenda. This aligns with democratic consequentialism—power is legitimate when serving the people's welfare, even when deployed aggressively against institutional opponents.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_020",
+        "ev_032",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Confrontational pragmatism with selective bipartisanship appeals",
+      "finding": "Obama handles conflict through public confrontation framed as protecting democratic process and vulnerable populations. He condemns 'one senator gumming up the works for the whole country' as contrary to 'our founding fathers' envisioned' (ev_010) and lists Republican blocking of 'minimum wage, equal pay, unemployment insurance' (ev_020). However, he strategically appeals to bipartisan coalitions when available: 'I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008). His conflict resolution prioritizes outcomes over relationship maintenance with political opponents, while maintaining inclusive framing about protecting all Americans.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term consequentialist focused on generational impact and institutional legacy",
+      "finding": "Obama consistently frames achievements in long-term, generational context. He cites 'deficits falling at the fastest rate since the end of World War II' (ev_016) and positions current actions as protecting future Americans. The Paris climate agreement (ev_034, ev_041) and Cancer Moonshot represent mission-scale horizons extending beyond political cycles. His ACA framing emphasizes decades: 'the single longest extension in history' of Medicare solvency (ev_002). He asks Americans to consider 'what we want to leave for our children' and frames climate action as 'legacy to build upon' (ev_041). This long-term orientation aligns with consequentialism that considers effects across generations.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_034",
+        "ev_041",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Incremental institutional improvement over structural redesign",
+      "finding": "Obama's approach to policy change is consistently reformist rather than revolutionary. The ACA builds on existing Medicare/Medicaid structures rather than creating universal healthcare from scratch. Dodd-Frank creates regulatory mechanisms within existing financial institutions rather than restructuring the financial system. His 'Year of Action' executive actions patch legislative gaps without fundamental redesign. He frames achievements as gradual progress ('America's resurgence is real'—ev_024) rather than transformation. This incremental approach aligns with pragmatic consequentialism—assessing which improvements are achievable given institutional constraints rather than pursuing ideal systemic change.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_002",
+        "ev_028",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with emphasis on learning from citizens and acknowledging limits",
+      "finding": "Obama demonstrates notable metacognitive awareness through reflective acknowledgment of learning and limits. He states 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) and describes diverse experiences as shaping his understanding ('I've hugged cancer survivors,' 'I've seen communities like Joplin rebuild'—ev_045). He acknowledges policy limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His civic engagement call frames democracy as requiring ongoing learning and participation (ev_046). This suggests sophisticated self-awareness about the boundaries of his perspective and the role of collective input in improving judgment—consistent with practical wisdom seeking to correct partial views through democratic engagement.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_027",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_humanism",
+      "definition": "An ethical orientation that grounds moral authority in collective democratic participation rather than individual virtue, expertise, or transcendent principle. Moral legitimacy derives from inclusive processes that give voice to 'the American people' as a collective moral agent.",
+      "finding": "Obama's ethics consistently locates moral authority in democratic participation rather than individual virtue or elite wisdom. He attributes all progress to 'the American people' (ev_032) and frames his role as responsive to rather than independent from citizen input. This creates a distinctive moral framework: policies are legitimate when they emerge from inclusive democratic processes and serve collective welfare. His 'middle-out' economics (ev_021) and opportunity agenda (ev_018) reflect this—moral economics is about enabling collective participation, not just individual choice. His call for 'continued civic participation' beyond elections (ev_046) frames democracy as an ongoing moral practice of collective self-governance. This democratic humanism differs from both Kantian individual dignity and utilitarian aggregation—it's relational and participatory rather than individualist or aggregative.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_021",
+        "ev_018",
+        "ev_046",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "institutional_optimism",
+      "definition": "A distinctive stance toward institutions combining principled commitment to democratic governance with pragmatic recognition of current failures. It's neither naive faith in institutions nor cynical rejection, but rather confident expectation that institutions can be reformed to better serve their founding purposes through sustained democratic effort.",
+      "finding": "Obama exhibits a distinctive 'institutional optimism'—principled commitment to democratic institutions combined with pragmatic awareness of their current dysfunction. He calls government 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036), yet acknowledges that Congressional obstruction contradicts founders' intent (ev_010). He declares 'America's resurgence is real' (ev_024) and expresses 'even more optimistic about our country's promise' (ev_047) despite documented institutional failures. This stance differs from naive institutionalism—it doesn't ignore dysfunction but frames dysfunction as correctable through democratic participation. It also differs from anti-institutionalism—reform, not revolution, is the path. The Cancer Moonshot exemplifies this: 'we now have the army, we now have powerful new tools, and with this Moonshot, we now have a clear strategy' (ev_042). This emergent construct captures a moral orientation toward institutions that is neither idealistic nor cynical but therapeutically hopeful.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_010",
+        "ev_024",
+        "ev_047",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Consequentialism",
+      "Care Ethics",
+      "Institutionalism"
+    ],
+    "cluster_matches": [
+      {
+        "cluster": "Pragmatic Progressive",
+        "description": "Dewey-influenced: problem-solving, democratic inquiry, practical ethics",
+        "matching_schools": [
+          "Pragmatism",
+          "Care Ethics"
+        ],
+        "strength": 0.4
+      }
+    ],
+    "tension_flags": []
+  }
+}

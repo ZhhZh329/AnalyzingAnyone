@@ -1,0 +1,181 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "human_centered_computing_workflow_adoption_cscw",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who uses institutional adoption strategies and multi-stakeholder engagement to restructure policy problems rather than merely respond to conditions",
+      "finding": "Obama consistently attempted to embed policies into existing institutional workflows rather than creating parallel systems. His 'Year of Action' strategy (evt_015) involved over 20 executive actions to create new adoption pathways when legislative routes were blocked, demonstrating preference for institutional embedding over direct confrontation. He engaged cross-sector coalitions (AFL-CIO + Chamber of Commerce in evt_006) to create broad-based adoption pressure for transportation funding. His Silicon Valley partnerships for government modernization (evt_023) show systematic attempt to inject tech-sector practices into federal workflows. The clean energy partnerships with UPS, FedEx, AT&T, Verizon, PepsiCo (evt_004) indicate he understood that policy sustainability requires embedding into existing commercial workflows rather than creating government-only pathways.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_008",
+        "ev_037",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven with strong reliance on quantified metrics and data to build adoption cases, though able to translate data into resonant narratives",
+      "finding": "Obama's communication consistently anchors on specific quantitative evidence: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled, solar 30x (ev_040), 7 days until transportation funding expires with 1 million jobs at risk (ev_011). This data-heavy approach suggests belief that adoption of policies requires verifiable proof of value rather than purely ideological appeal. However, he translates metrics into human-impact narratives (ev_014 documenting Head Start children displaced, seniors losing Meals on Wheels) to create emotional adoption pressure alongside rational arguments. His 'Top 10 Things' list format (evt_022) demonstrates systematic attempt to make accomplishments legible and shareable, understanding that policy adoption requires visible proof points.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_011",
+        "ev_014",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity to abstract principles into formal frameworks while maintaining ability to operationalize into concrete actions",
+      "finding": "Obama articulates clear abstract principles ('middle-out' economics in ev_021, balanced deficit reduction in ev_013, 'America is at war with al-Qaeda, not Islam' in ev_012) that provide consistent frameworks for policy positions. He then operationalizes these abstractions into specific mechanisms: executive orders specifying $10.10 minimum wage (evt_014), codified veto commitments against Wall Street reform repeal (ev_029), structured challenges like 'hire 100,000 post-9/11 veterans by 2013' (evt_007). His energy blueprint (evt_004) provides quantified targets (cut oil imports by one-third by 2025) with specific partnership mechanisms. This suggests understanding that policy adoption requires both abstract legitimation (why this matters) and concrete instantiation (how it works in practice).",
+      "evidence_ids": [
+        "ev_021",
+        "ev_013",
+        "ev_012",
+        "ev_017",
+        "ev_029",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect institutional control through mechanisms, feedback loops, and stakeholder alignment rather than direct command; willingness to use direct authority when institutional mechanisms blocked",
+      "finding": "Obama predominantly uses indirect control via institutional mechanisms: working through Congressional processes (evt_006 calling for bipartisan action), engaging federal agencies (CFPB enforcement in ev_028), creating partnerships (Clean Fleets Partnership, veterans hiring challenges). He creates feedback structures like the Presidential Innovation Fellows program (ev_043) to generate ongoing institutional learning. However, when institutional pathways were blocked, he shifted to direct control: executive order on minimum wage (evt_014), explicit veto threats (ev_029), 'I will not negotiate over the full faith and credit' (ev_015). This suggests adaptive control orientation—choosing mechanism based on perceived adoption feasibility rather than rigid preference for either direct or indirect control.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_017",
+        "ev_029",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes mission goals over relational comfort; willing to incur significant political friction and negative framing from opponents to advance agenda",
+      "finding": "Obama repeatedly attacked Republican obstruction directly ('Republicans in Congress have blocked or voted down every serious idea', ev_020; 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned', ev_010), accepting relational damage with Congressional opponents. His 'Year of Action' framing (evt_015) implicitly acknowledged that bilateral cooperation had failed, accepting polarization as cost of action. He maintained policy positions despite opposition: defending Wall Street reform against repeal (evt_020), pushing TPP despite past trade deal skepticism (ev_027), pursuing climate agenda with Paris agreement (evt_022). His refusal to negotiate debt ceiling (ev_015) prioritized fiscal stability mission over Congressional relationship maintenance. The pattern suggests high mission orientation with willingness to absorb significant relational costs.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with calculated risk acceptance; uses framing and stakeholder alignment to mitigate downside while proceeding with policy initiatives",
+      "finding": "Obama showed propensity for calculated risk acceptance in major policy initiatives: Affordable Care Act (evt_001) with political capital; Dodd-Frank (evt_002) against financial sector opposition; Paris climate agreement (evt_022) with 200 nations. He framed risks in concrete terms ('nearly 1 million jobs over next year', evt_006; 'Head Start program cuts', ev_014) to build adoption pressure through risk visualization. His sequester warnings (evt_011, evt_012) demonstrate layered defense: warning of consequences while offering alternative balanced approach. He avoided purely ideological risk-taking, instead building multi-stakeholder coalitions (business + labor, ev_008) and framing policies as consensus-based solutions to shared problems. This suggests moderate-to-high risk acceptance tempered by coalition-building and consequence-framing strategies.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_008",
+        "ev_013",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional operator who uses hierarchical position strategically while actively working to reform processes that create friction within institutions",
+      "finding": "Obama leveraged executive authority as primary power base (executive orders, veto commitments, federal contractor mandates) while repeatedly calling for Congressional process reform. He criticized Senate obstruction tactics explicitly (ev_010) while working within the system to change them (calling for 90-day up-or-down votes on nominations, evt_008). He engaged power asymmetries strategically: challenging private sector hiring (veterans, evt_007), using federal purchasing power (minimum wage for contractors, evt_014), partnering with business for policy goals (energy, veterans). His 'government as tool for collective problem-solving' framing (ev_036) suggests belief in democratic institutional legitimacy rather than purely hierarchical control. He addressed power disparities directly: 'competitors that don't share our values, like China, will write the rules' (ev_031) framing TPP as power contest.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_008",
+        "ev_017",
+        "ev_009",
+        "ev_036",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation and translation combined with selective escalation; converts opposition into structural/systemic framing rather than personal conflict",
+      "finding": "Obama consistently translated partisan conflict into systemic problems: 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008); 'Our economy depends on a financial system where everyone competes on level playing field' (ev_003). He used deadlines and quantified consequences (ev_011) to frame conflict as institutional crisis rather than ideological battle. However, he escalated when necessary: explicit veto threats (ev_029), direct Republican criticism (ev_020), refusing debt ceiling negotiation (ev_015). He converted opposition into evidence of systemic dysfunction ('Republicans in Congress have blocked...', ev_020) rather than personal dispute. His strategy suggests preference for translation (reframe conflict as problem-solving) combined with strategic escalation when translation fails, maintaining institutional legitimacy while asserting position.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_003",
+        "ev_011",
+        "ev_029",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Balances short-term deliverables with long-term structural investments; willing to take credit for immediate results while building infrastructure for future capabilities",
+      "finding": "Obama consistently cited short-term metrics: '2.5 million jobs' in 2015 (ev_033), '57 consecutive months of job growth' (ev_025), 'wages on the rise again' (ev_025). He used weekly addresses to maintain visibility of ongoing accomplishments, suggesting attention to short-term political/communication horizons. However, he simultaneously built long-term structures: energy independence targets to 2025 (evt_004), Afghanistan transition to 2014 (evt_010), climate frameworks (Paris agreement, evt_022). His Cancer Moonshot (evt_026) explicitly framed as multi-generational effort. The pattern suggests awareness that sustainable adoption requires both immediate visible benefits (short-term credibility) and structural investments (long-term legitimacy).",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_042",
+        "ev_034",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate preference for structural redesign over incremental patching, particularly when blocking indicates systemic failure",
+      "finding": "Obama showed preference for comprehensive solutions over piecemeal approaches: balanced deficit reduction (combining spending cuts and tax reform, ev_013) rather than sequester patch; 'Year of Action' executive actions (evt_015) responding to Congressional blockage; comprehensive energy strategy (evt_004) over single-vector drilling. However, he also demonstrated pragmatic patching: temporary FAA fix when full sequester replacement failed (evt_012); bipartisan budget deals that 'invest in middle-class priorities' (ev_048). His pattern suggests contextual rebuild/patch calibration: when institutional pathways blocked systemically, he built alternative structures (executive actions, partnerships); when temporary fixes could preserve momentum toward larger goals, he patched. This indicates adaptive rather than dogmatic approach to structural vs. incremental intervention.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_017",
+        "ev_048",
+        "ev_012",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through consistent self-positioning within larger narratives, explicit acknowledgment of opposition validity, and call for sustained civic reflection beyond his presidency",
+      "finding": "Obama demonstrates strong metacognitive patterns in his communication: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) showing explicit self-correction; 'Whether we've seen eye-to-eye or rarely agreed at all' (ev_044) acknowledging perspective diversity; 'It's you—the American people' (ev_032) attributing outcomes to collective rather than personal credit. His farewell address (evt_027) explicitly called for ongoing civic engagement beyond elections (ev_046) and expressed commitment to continued learning ('Every day, I learned from you', ev_044). He reflected on what could have been different: 'I wonder what my life would have been like had he been a greater presence' (ev_006). His 'optimism about our country's promise' despite acknowledged challenges (ev_047) suggests calibrated self-assessment. The pattern indicates active monitoring of his own position relative to larger systems and ongoing adjustment of framing based on feedback.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_032",
+        "ev_046",
+        "ev_006",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "institutional_translation_capability",
+      "definition": "The capacity to convert abstract policy concepts into institutional workflows and stakeholder engagement patterns that enable adoption without requiring full consensus. This differs from pure agency orientation by focusing specifically on the translation work required to make policies 'stick' within existing institutional structures.",
+      "finding": "Obama demonstrated distinctive capacity to translate policy goals into adoptable institutional formats: executive orders for contractor minimum wage (evt_014), Presidential Innovation Fellows for tech modernization (ev_043), CFPB enforcement mechanisms for consumer protection (ev_028), Clean Fleets Partnership for energy goals (evt_004). Each case shows translation from abstract goal to specific institutional mechanism with defined adoption pathways. He understood that policy adoption requires not just correct technical solution but institutional packaging—clear roles, feedback mechanisms, and stakeholder alignment. This translation capability appears distinct from world-shaping agency: it's the specific skill of making abstract intentions legible and adoptable within existing organizational workflows.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_043",
+        "ev_028",
+        "ev_005",
+        "ev_009"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "adversarial_legitimization",
+      "definition": "The tendency to use opposition as evidence of policy legitimacy and structural necessity rather than as indication to reconsider approach. Converts conflict into validation signal for policy need.",
+      "finding": "Obama consistently framed Congressional obstruction as confirmation that policies were necessary and correct: 'Republicans have blocked minimum wage, equal pay, unemployment insurance' (ev_020) became evidence of policy need rather than signal to recalibrate. Sequester opposition from affected communities (ev_014) validated comprehensive deficit reduction. Wall Street opposition to Dodd-Frank (evt_020) confirmed consumer protection necessity. This pattern suggests distinctive use of opposition as adoption scaffolding—using conflict to build case for policy value rather than treating opposition as information requiring strategic adjustment. This differs from pure mission orientation by specifically interpreting adversarial response as validation rather than data point requiring interpretation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_014",
+        "ev_029",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

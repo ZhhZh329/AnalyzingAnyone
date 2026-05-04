@@ -1,0 +1,134 @@
+{
+  "discipline": "neuroscience",
+  "lens": "cognitive_control",
+  "constructs": [
+    {
+      "construct_key": "goal_maintenance",
+      "assessment": "Exceptionally high sustained goal representation with stable multi-year target pursuit",
+      "finding": "Obama demonstrates remarkable prefrontal cortex-mediated top-down regulation across his presidency. He maintains stable goal representations for policies spanning years (ACA implementation from 2010-2017, Wall Street reform defense 2010-2015, climate initiatives throughout). The evidence shows goal maintenance not just for single initiatives but across interconnected domains (economic security, energy independence, veteran support, healthcare expansion). His refusal to negotiate on debt ceiling (ev_015) under intense political pressure exemplifies the ability to inhibit dominant responses in service of maintained goals. His cognitive system successfully maintains target representations despite competing demands and partisan opposition, suggesting well-developed dorsolateral prefrontal cortex function for goal monitoring.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_015",
+        "ev_029",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "inhibitory_control",
+      "assessment": "Strong ability to suppress dominant responses and maintain strategic restraint",
+      "finding": "Obama's behavior pattern reveals robust inhibition capacity. When facing Congressional obstruction on minimum wage (ev_018, ev_020), he suppresses the response of either capitulating or escalating into permanent conflict, instead pivoting to executive action within constitutional bounds. His acknowledgment of past trade deal failures (ev_027) demonstrates inhibition of defensive self-justification. The debt ceiling confrontation shows he can inhibit concession-making even under high-stakes pressure. This inhibitory strength, however, appears calibrated rather than rigid—he maintains the 'I will not negotiate' stance (ev_015) but consistently seeks bipartisan collaboration in other contexts (ev_008, ev_048), suggesting flexible application based on contextual assessment.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_018",
+        "ev_020",
+        "ev_027",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "cognitive_flexibility",
+      "assessment": "High adaptive capacity with strategic framework revision when circumstances demand",
+      "finding": "Obama displays pronounced cognitive flexibility, particularly in strategy adjustment when initial approaches face resistance. The transition from pursuing legislative minimum wage (blocked) to executive order for federal contractors (ev_017, ev_019) shows effective set-shifting. His government modernization initiative at SXSW (ev_037) demonstrates willingness to import external frameworks into governmental problem-solving. The Cancer Moonshot initiative (ev_042, ev_043) shows cross-domain integration, breaking traditional agency silos. However, his flexibility operates within bounds—he adjusts tactics while maintaining core objectives (consumer protection, middle-class opportunity, climate action), suggesting flexible implementation rather than principle revision. The pattern aligns with 'controlled flexibility' rather than environment-driven reactivity.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "working_memory_integration",
+      "assessment": "High-capacity information integration across multiple domains simultaneously",
+      "finding": "The cumulative evidence pattern reveals strong central executive function for information integration. His weekly addresses consistently synthesize economic indicators, social impact data, geopolitical considerations, and political feasibility into coherent policy narratives. The year-end 2015 address (ev_033, ev_034, ev_035) exemplifies multi-domain integration—connecting job creation, healthcare expansion, climate agreement, Iran deal, and social progress into unified framework. His articulation of 'middle-out' economics (ev_021) demonstrates capacity to hold multiple variables in working memory while constructing explanatory models. The transportation/student loan dual-deadline communication (ev_011) shows real-time integration of parallel concerns. This suggests well-developed prefrontal resources for maintaining and manipulating complex information sets.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_021",
+        "ev_033",
+        "ev_034",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "strategic_planning",
+      "assessment": "Long-horizon planning with systematic sub-goal decomposition and resource allocation",
+      "finding": "Obama demonstrates pronounced strategic planning capacity evident in multi-year initiative coordination. The Energy Blueprint (ev_004, ev_005) with 2025 targets shows temporal planning extending beyond immediate political cycles. The 'Year of Action' framing (ev_015, ev_019) reveals explicit sub-goal decomposition—executive actions on wages, contractor policies, job training, and trade policy as coordinated components of larger strategy. His TPP approach spanning five years (ev_030) shows tolerance for extended goal-striving without immediate reinforcement. The sequencing of initiatives—building economic foundations before more controversial reforms—reflects strategic staging. Veterans hiring challenge (ev_009) demonstrates coordinated multi-stakeholder planning. This pattern indicates mature ventromedial prefrontal contributions to strategic planning balanced with dorsolateral analytical functions.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_015",
+        "ev_019",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_resolution_strategy",
+      "assessment": "Translation-dominant approach with selective escalation based on principled thresholds",
+      "finding": "Obama's conflict strategy pattern shows preference for reframing over confrontation. His 'America is at war with al-Qaeda, not Islam' (ev_012) exemplifies translation—reframing conflict to reduce unnecessary opposition. He consistently seeks bipartisan framing (ev_008, ev_048) even when facing obstruction, suggesting negotiation orientation. However, he shows clear thresholds where translation gives way to firm stances—the debt ceiling absolute refusal (ev_015) and veto threat on Wall Street reform repeal (ev_029) indicate calibrated escalation for core principles. This suggests conflict strategy informed by cost-benefit assessment rather than either pure avoidance or escalation. The pattern: attempt translation first, if obstruction threatens core values, shift to firm defensive posture. This is cognitively sophisticated—different conflict modes deployed based on contextual assessment.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_012",
+        "ev_015",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognitive_monitoring",
+      "assessment": "High metacognitive awareness with demonstrated self-monitoring and belief updating",
+      "finding": "The evidence reveals pronounced metacognitive sophistication. His farewell address acknowledges learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This demonstrates explicit self-monitoring of his own growth trajectory. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows willingness to evaluate and update positions based on outcome data. The civic participation call (ev_036, ev_046) reflects understanding that democratic accountability functions as external monitoring system. His recognition of the political process as requiring continuous engagement rather than episodic voting indicates sophisticated awareness of decision-making contexts. The pattern suggests well-developed prefrontal monitoring functions with capacity to observe own reasoning processes and integrate feedback.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "delay_of_gratification",
+      "assessment": "Strong orientation toward long-term returns despite delayed or uncertain reinforcement",
+      "finding": "Obama's policy priorities demonstrate marked tolerance for delayed returns. Climate initiatives (ev_040, ev_041) require decades to realize full impact, yet he frames Paris agreement as legacy to build upon—a signal that immediate political costs are accepted for long-horizon benefits. Healthcare reform efforts spanned multiple years before significant implementation (ev_001, ev_002). The strategic patience evident in TPP five-year negotiation (ev_030) shows willingness to defer gratification. His framing of deficit reduction as ongoing trajectory (ev_016) rather than immediate solution reflects temporal discounting toward distant outcomes. This pattern suggests strong dorsomedial prefrontal function supporting tolerance for extended goal-striving without immediate reinforcement, combined with values-based prioritization of future states.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_040",
+        "ev_041",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "bipartisan_institutional_loyalty",
+      "definition": "The tendency to operate within institutional frameworks even when obstruction occurs, distinguishing between legitimate legislative opposition and fundamental threat to institutional integrity. This construct captures how individuals with high executive function navigate the tension between adaptive compromise and principled boundary-holding.",
+      "finding": "Obama demonstrates a distinctive pattern of institutional orientation: he consistently attempts to work through bipartisan legislative channels (ev_008, ev_048) even when facing consistent opposition, yet draws clear boundaries when institutional integrity is threatened (ev_015, ev_029). This bipartite response pattern—pursue collaboration within system, defend system against attack—suggests a cognitive framework distinguishing between political disagreement and institutional subversion. His repeated framing of bipartisan coalitions (AFL-CIO and Chamber of Commerce together, ev_008) and enthusiastic celebration of bipartisan accomplishments (ev_048) reveals internalized norm that institutional function depends on cross-party engagement. When that norm is violated (debt ceiling as 'manufactured crisis'), his response shifts from collaborative to protective.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "empathetic_framing_capacity",
+      "definition": "The cognitive ability to construct policy narratives that integrate concrete human impact alongside systemic outcomes, demonstrating working memory that holds both macro-level data and micro-level lived experience simultaneously.",
+      "finding": "Obama's communications consistently demonstrate capacity to hold macro and micro levels simultaneously. While citing statistics ('11 million jobs,' ev_025, '2.5 million jobs,' ev_033), he immediately contextualizes human impact ('parents whose kids just got kicked out of Head Start programs,' ev_014; 'hugged cancer survivors who finally know the security of affordable health care,' ev_045). This dual-level framing requires cognitive resources to maintain both statistical aggregates and individual case representations in working memory while constructing coherent narrative. The pattern suggests high-capacity executive function enabling simultaneous processing of population-level data and individual-level emotional content, then integrating both into persuasive communication.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_025",
+        "ev_033",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

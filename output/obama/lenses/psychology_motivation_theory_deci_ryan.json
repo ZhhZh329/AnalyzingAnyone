@@ -1,0 +1,184 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_theory_deci_ryan",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong autonomous agency - Obama consistently acted as world-shaper rather than structure-responder, taking executive initiative when legislative pathways blocked",
+      "finding": "Obama's behavior pattern demonstrates high-agency world-shaping throughout his presidency. When Congress blocked minimum wage legislation (ev_020), he signed executive order raising contractor wages to $10.10 (ev_017). He declared a 'Year of Action' and took over 20 executive actions in 2014 alone (ev_019). He actively challenged private companies to hire 100,000 veterans (ev_009) rather than waiting for Congressional action. His rhetoric consistently framed himself as driving change: 'We've done something that government never has' in describing Silicon Valley partnerships for government modernization (ev_037). This pattern indicates autonomous agency - acting from self-endorsed values rather than external pressure or structural determinism.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_009",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-based pragmatic idealism - Obama forms beliefs through synthesis of empirical data, stakeholder input, and internalized values, with notable metacognitive awareness of his own learning",
+      "finding": "Obama's epistemic approach combines empirical grounding with value-driven interpretation. He cited specific data: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x (ev_040). Yet he explicitly acknowledged past trade deals 'haven't always lived up to the hype' (ev_027) - demonstrating awareness of his own epistemic limitations. In his farewell address, he explicitly credited learning from diverse Americans: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). His father's day address showed vulnerability in sharing his absent-father experience (ev_006). This pattern indicates integrated epistemic style - empirical data processed through relational learning and value-consistency checking.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040",
+        "ev_044",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with pragmatic application - Obama comfortable with systemic abstraction while maintaining concrete accessibility",
+      "finding": "Obama demonstrates high abstraction capacity in policy domains while maintaining accessibility in communication. He articulated complex economic philosophy: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). He synthesized systemic interventions: energy security requiring diversified approach, not 'drilling alone' (ev_005). His ACA framing showed systemic thinking: 'Reform has actually added at least a dozen years to the solvency of Medicare' (ev_002). Yet his communication consistently translated abstractions into concrete examples - Head Start cuts affecting real children, veterans facing unemployment, seniors needing Meals on Wheels (ev_014). He presented 2015 accomplishments as numbered list format accessible to general public (ev_033). This balanced pattern indicates sophisticated formalization abilities deployed strategically for audience-appropriate communication.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_005",
+        "ev_002",
+        "ev_014",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate autonomous control - Obama sought strategic influence over systems and outcomes rather than dominating control; resisted both excessive external control and excessively controlling approaches to others",
+      "finding": "Obama's control orientation reflects SDT's autonomy orientation - he sought influence through persuasion, evidence, and strategic positioning rather than coercive control. He refused debt ceiling negotiations: 'I will not negotiate over the full faith and credit of the United States' (ev_015), demonstrating principled boundary-setting without aggression. He condemned Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010) - principled critique rather than personal attack. He issued veto threat against Wall Street reform repeal (ev_029) but framed it as protecting systemic stability rather than asserting personal power. His government modernization initiative invited external expertise: 'asked some of the sharpest minds from companies in Silicon Valley' (ev_037) rather than commanding from hierarchical position. This pattern indicates autonomy-oriented control - seeking influence consistent with internalized values and systemic goals.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_010",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with relational sensitivity - Obama prioritized policy goals while maintaining relational bridges and framing outcomes as collective achievements",
+      "finding": "Obama consistently prioritized mission/goal achievement but managed relational costs through inclusive framing. He called out Congressional obstruction directly: Republicans 'blocked or voted down every serious idea to create jobs' (ev_020) - prioritizing truth-telling over relational harmony. He declared TPP necessary to prevent China from writing global trade rules (ev_031) - mission priority with geopolitical framing. However, he consistently attributed accomplishments to collective action: 'It's you—the American people. All of this progress is because of you' (ev_032). He framed bipartisan budget and education bill as 'Christmas miracles' (ev_048), preserving relational bridges. His Veterans Day address emphasized duty to families of fallen (ev_038), integrating relational costs into mission framing. His farewell address called for sustained civic engagement 'regardless of party' (ev_046). This indicates high mission orientation balanced with relational sensitivity - goals pursued through inclusive framing rather than at relational expense.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_031",
+        "ev_032",
+        "ev_048",
+        "ev_038",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "High risk tolerance for goal-aligned ventures - Obama pursued ambitious transformative initiatives despite significant political opposition and uncertain outcomes",
+      "finding": "Obama demonstrates high risk tolerance in service of internalized goals. He pursued comprehensive health care reform (ACA) despite knowing it would be politically contentious. He negotiated Iran nuclear deal despite skepticism (ev_034). He announced TPP after 5 years of negotiations with uncertain ratification (ev_030). He established Paris Climate Agreement with nearly 200 nations (ev_034). He launched Cancer Moonshot with ambitious goals (ev_042-43). His energy strategy explicitly rejected incremental approach: 'Drilling alone is not a real strategy' (ev_005). He reframed risks as opportunities: 'America's resurgence is real' (ev_024). His Father's Day address shared personal vulnerability about absent father (ev_006) - emotional risk-taking. This pattern indicates high risk tolerance for value-aligned ventures, consistent with intrinsic motivation and autonomy orientation.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_030",
+        "ev_005",
+        "ev_024",
+        "ev_042",
+        "ev_043",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Autonomy-oriented relation to hierarchy - Obama respected legitimate institutional roles while resisting illegitimate hierarchical claims and framing power as derived from public mandate",
+      "finding": "Obama's relationship to hierarchy reflects autonomy orientation - he respected institutional legitimacy while challenging abusive power. He worked within Presidential role: 'As Commander-in-Chief, I have no more solemn obligation' (ev_038). Yet he challenged Congressional overreach: Senate obstruction 'is certainly not what our founding fathers envisioned' (ev_010). He refused debt ceiling hostage-taking: 'We are a compassionate nation... our freedom and diversity make us unique' (ev_015). He framed power as public trust: 'Our founders trusted us with the keys to this system of self-government' (ev_036). He attributed accomplishments to American people rather than claiming personal credit: 'All of this progress is because of you' (ev_032). He invited external expertise rather than commanding: 'asked some of the sharpest minds from companies in Silicon Valley' (ev_037). This pattern indicates principled hierarchy engagement - using institutional authority to advance internalized values while resisting illegitimate hierarchical overreach.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_010",
+        "ev_015",
+        "ev_036",
+        "ev_032",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled confrontation with reconciliation orientation - Obama directly named obstacles and opponents while maintaining institutional civility and future bridge-building",
+      "finding": "Obama's conflict strategy combines direct confrontation with preserved reconciliation pathways. He directly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). He condemned Senate tactics: 'One senator guming up the works for the whole country' (ev_010). He explicitly named veto position: 'I will veto it' (ev_029). However, he consistently maintained institutional civility and future bridge-building. He framed bipartisan achievements positively: 'Christmas miracles in Washington' (ev_048). He called for civic engagement 'regardless of party' (ev_046). He attributed success to collective American effort rather than partisan victory. His Memorial Day rhetoric focused on shared obligation rather than division. This pattern indicates confrontation-within-bounds strategy - direct acknowledgment of opposition while preserving reconciliation possibilities, consistent with high autonomy and integrated regulation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_048",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission scale - Obama's temporal orientation spans generations, prioritizing transformative change over short-term political gain",
+      "finding": "Obama demonstrates long-term mission-scale temporal orientation consistent with integrated regulation. Climate policy framed across decades: wind power tripled, solar 30x, carbon pollution at 25-year low (ev_040) - establishing long-term trajectory. Medicare solvency extended by 'at least a dozen years' (ev_002). Energy security goal: 'cut oil imports by one-third by 2025' (ev_004). Paris climate agreement framed as legacy: 'something to build upon' (ev_041). Cancer Moonshot explicitly framed in generational terms - building on 45 years of progress (ev_042). His farewell address explicitly rejected short-term thinking: 'Not just when there's an election... but over the full span of a lifetime' (ev_046). He framed deficits declining 'at fastest rate since World War II' (ev_016) - historical scale perspective. This pattern indicates mission-scale temporal orientation - goals defined across decades, consistent with value-integrated motivation.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild preference - Obama consistently pursued comprehensive systemic reforms over incremental adjustments",
+      "finding": "Obama demonstrates strong preference for structural redesign over incremental patching. ACA represented comprehensive health care system redesign, not minor adjustments. Dodd-Frank enacted comprehensive financial regulation restructuring. Energy Blueprint sought systemic transition: 'cut oil imports by one-third' through diversified approach (ev_004, ev_005). Trade policy sought comprehensive framework: 'write global trade rules' through TPP (ev_031). Government modernization initiative sought systemic change: 'modernize the federal government for the way we live today' (ev_037). Cancer Moonshot structured as cross-agency task force (ev_043). His characterization of Congress as blocking 'every serious idea' (ev_020) suggests he viewed blocked proposals as structural rather than incremental. His critique of 'drilling alone' as insufficient strategy (ev_005) indicates preference for comprehensive approaches. This pattern indicates structural redesign preference consistent with high abstraction capacity and long-term mission orientation.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_004",
+        "ev_031",
+        "ev_037",
+        "ev_043",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness - Obama demonstrates sophisticated self-monitoring, acknowledges limitations, and integrates feedback into self-concept",
+      "finding": "Obama demonstrates notably high metacognitive awareness. He explicitly acknowledged past policy shortcomings: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - self-critical reflection without self-undermining. His farewell address explicitly credited external input for personal growth: 'my conversations with you... are what have kept me honest, kept me inspired' (ev_044). He reflected on diverse experiences: 'I've seen neighbors looking out for each other... I've hugged cancer survivors' (ev_045). He shared personal vulnerability about absent father (ev_006). He balanced multiple competing concerns (sequester impacts on Head Start, seniors, military families - ev_014) suggesting active cognitive load management. His 'Year of Action' framing (ev_015, ev_019) shows strategic self-monitoring of progress. His expressed optimism about America's promise despite acknowledged obstacles (ev_047) suggests calibrated self-assessment. This pattern indicates high metacognition - active self-monitoring, limitation acknowledgment, and feedback integration.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045",
+        "ev_006",
+        "ev_014",
+        "ev_015",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "values-integrated autonomous agency",
+      "definition": "The synergistic interaction between autonomous motivation and deeply internalized values, where agency becomes self-sustaining because actions are experienced as self-endorsed expressions of core identity rather than externally demanded or internally pressured performances. This goes beyond SDT's standard 'autonomy support' concept by capturing the quality of agency that emerges when autonomy satisfaction reinforces value internalization in a positive feedback loop.",
+      "finding": "Obama exemplifies this emergent construct. His autonomous agency was not merely the absence of external pressure but the presence of deeply internalized values (opportunity, fairness, collective responsibility) that made action feel self-chosen. When he declared 'We've got to restore opportunity for all' (ev_018), this expressed internalized identity, not external demand. When he took executive action after Congressional blockage, he experienced volition consistent with his values. When he framed accomplishments as collective achievement ('It's you—the American people'), he was not seeking external validation but expressing genuine identity-congruent attribution. This values-integrated autonomous agency predicts sustained motivation through challenges because the source of motivation is internal and self-sustaining rather than dependent on external rewards or approval.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "relationally-sustained mission orientation",
+      "definition": "The capacity to pursue ambitious transformative goals without sacrificing relational quality or social belonging - mission intensity balanced with relational sensitivity such that mission achievement enhances rather than diminishes relatedness satisfaction. This addresses SDT's potential blind spot about whether high integration always requires relational trade-offs.",
+      "finding": "Obama's behavior demonstrates that mission-primary orientation can coexist with high relational quality. His direct criticism of Congressional obstruction (ev_020) was balanced with inclusive framing of bipartisan achievements (ev_048). His assertive defense of Wall Street Reform included veto threats (ev_029) while maintaining institutional civility. His farewell address called for civic engagement 'regardless of party' (ev_046) - mission orientation without relational fragmentation. His Veterans Day and Memorial Day rhetoric framed collective obligation to veterans and families (ev_038, ev_039) - mission achievement through relational solidarity. This emergent construct captures a pattern where internalized values included relational components - he internalized collective responsibility in a way that made mission achievement itself a relational act. This suggests SDT should consider 'integrated mission-values' that include relational satisfaction as component rather than cost.",
+      "evidence_ids": [
+        "ev_048",
+        "ev_029",
+        "ev_046",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "discipline": "neuroscience",
+  "lens": "neuroplasticity_habit",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper with growth mindset orientation; believes individual and collective capacity can be developed",
+      "finding": "Obama demonstrates consistent high agency throughout his presidency, framing challenges as solvable problems rather than fixed constraints. His statement 'As long as I am President, that's a commitment this country is going to keep' (ev_001) reveals belief in volitional control over policy outcomes. He explicitly positions himself as actively shaping rather than passively responding to circumstances, declaring 'America's resurgence is real' (ev_024) as something he helped orchestrate through deliberate action. His faith in government as 'the best tool we've got' (ev_036) reflects a growth mindset applied to institutional capacity—believing systems can improve through committed effort. This contrasts with a fixed-perspective worldview where constraints are seen as immutable.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_024",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded optimist; synthesizes data with aspirational narrative while acknowledging complexity",
+      "finding": "Obama's epistemic approach combines empirical evidence with forward-looking confidence. He grounds speeches in specific statistics—'11 million new jobs' (ev_025), '$11 billion recovered for consumers' (ev_028), 'wind power tripled, solar thirtyfold' (ev_040)—while wrapping them in optimistic narrative. His statement 'I'm absolutely confident we will get there' (ev_004) reveals confidence grounded in observed American ingenuity rather than blind optimism. Notably, he demonstrates epistemic humility when acknowledging 'past trade deals haven't always lived up to the hype' (ev_027). He synthesizes Hebbian-style—connecting disparate elements (labor and Chamber of Commerce, AFL-CIO) into coherent policy narratives. His worldview reflects neuroplasticity principles: problems are learnable, solutions are discoverable through iteration.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances conceptual frameworks with concrete specificity; demonstrates moderate formalization",
+      "finding": "Obama exhibits structured thinking through consistent policy frameworks—'middle-out economics' (ev_021), 'Year of Action' (ev_019), 'Blueprint for a Secure Energy Future' (ev_005)—yet anchors these abstractions in measurable outcomes. He successfully decomposes complex issues: energy security into 'domestic drilling, fuel efficiency, and clean energy' components; Wall Street reform into specific consumer protections (ev_028). His formalization is strategic rather than exhaustive—he creates memorable frameworks ('resurgence is real') without over-systematizing. He demonstrates ability to identify keystone habits (ev_021: middle class strength as lever for overall economic health) consistent with Duhigg's framework for change.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_019",
+        "ev_021",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principled flexibility within institutional constraints; willing to use executive authority when legislative paths blocked",
+      "finding": "Obama's control orientation reveals sophisticated navigation between structural constraints and agency. He displays strong principled control on core commitments—'I will not negotiate over the full faith and credit of the United States' (ev_015), 'I will veto it' (ev_029)—while showing adaptive flexibility on tactics. When Congress blocked legislation ('Republicans in Congress have blocked or voted down every serious idea,' ev_020), he shifted to executive action: 'I've taken more than 20 executive actions' (ev_019), signing minimum wage executive order (ev_017). This reflects understanding that old habit回路 can be circumvented rather than forced—a neuroplasticity-informed strategy of environmental redesign rather than direct confrontation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Prioritizes mission on core values but invests in relationship-building to enable future collaboration",
+      "finding": "Obama demonstrates calculated mission-priority on non-negotiable positions while maintaining relationship infrastructure for broader goals. He accepts relational costs when principles are at stake—publicly criticizing Republican obstruction (ev_020)—yet invests in coalition-building even with unlikely partners: 'AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008). His personal narrative investment—sharing fatherhood experience (ev_006), coaching daughter's basketball (ev_007)—reflects deliberate relationship cultivation alongside policy work. This pattern suggests awareness that relational habits shape long-term political capacity; building diverse networks creates future habit回路 for collaboration.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Comfortable with long-term strategic risk-taking while maintaining operational caution",
+      "finding": "Obama demonstrates willingness to make high-stakes, long-horizon bets: TPP as geopolitical hedge against China writing trade rules (ev_031), Paris climate agreement commitment (ev_041), Iran nuclear deal with verification requirements. His Cancer Moonshot initiative (ev_042, ev_043) shows comfort with moonshot thinking—accepting uncertainty for potentially transformative outcomes. However, he balances this with operational caution: 'we've already gone after countries that break the rules' (ev_027) rather than abandoning enforcement. This risk posture reflects deliberate practice mentality—pushing into learning zone while maintaining stable ground in proven approaches.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_031",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional democrat who challenges procedural dysfunction while respecting democratic legitimacy",
+      "finding": "Obama maintains complex relationship with institutional hierarchy. He criticizes Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010) while preserving respect for democratic institutions themselves. His approach to military hierarchy is clear and deferential: 'I have no more solemn obligation than leading our men and women in uniform' (ev_038). He uses hierarchical position (Presidency) to drive change ('I've directed the federal government to lead by example,' ev_009) while calling for system reform rather than mere position-holding. This reflects sophisticated understanding that institutional habit回路 can be modified through strategic position-use.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_010",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of obstruction with principle-based boundaries; prefers negotiation but will escalate when necessary",
+      "finding": "Obama's conflict strategy combines directness with principled boundaries. He publicly names opponents and positions ('Republicans in Congress have blocked,' ev_020) rather than euphemizing disagreement. However, he distinguishes between negotiation on tactics versus principles: 'I will not negotiate over the full faith and credit' (ev_015) while previously seeking bipartisan solutions (ev_008). His veto threats (ev_029) and explicit criticism represent escalation calibrated to stakes. This suggests learned pattern: initial collaborative framing, direct confrontation when blocked, but maintained openness to future cooperation—avoiding the freeze or submit patterns while not defaulting to perpetual combat mode.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistently long-term and legacy-oriented while maintaining short-term deliverables",
+      "finding": "Obama's time horizon is markedly long-term, consistently framing current actions within multi-decade trajectories. He positions achievements as 'something to build upon' (ev_041), cites '57 months of consecutive growth' (ev_025), and emphasizes 'decades-long erosion of middle-class jobs' (ev_024). His cancer moonshot (ev_042) explicitly references 45-year trajectory from Nixon's initial effort. Yet he maintains short-term deliverables ('2.5 million jobs,' ev_033) for accountability. This dual focus—long-term vision with measurable intermediate outcomes—reflects sophisticated temporal navigation consistent with deliberate practice theory: immediate feedback loops serving long-term skill acquisition.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_033",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural change; systematic rather than incremental when possible",
+      "finding": "Obama consistently favors systemic reform over procedural patches. His healthcare approach (ACA) restructured insurance markets rather than incremental expansions; Wall Street reform established new regulatory architecture (ev_028); energy policy aimed for fundamental transition ('low-carbon future,' ev_034). When structural change was blocked, he pivoted to executive orders as systemic tools—raising contractor minimum wage (ev_017) rather than one-time relief. His criticism of Senate filibuster and 'up-or-down votes' proposal (ev_010) sought structural procedural reform. This reflects neurological understanding that superficial habit replacement fails without addressing underlying cue-routine-reward structures.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_028",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates explicit reflection on learning, growth, and adaptive behavior",
+      "finding": "Obama exhibits notable metacognitive sophistication, explicitly reflecting on his own learning process. His farewell address reveals metacognitive habit: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He reflects on changing circumstances requiring new approaches ('government tech modernization,' ev_037). His articulation of democratic citizenship as ongoing learning ('Not just when there's an election... but over the full span of a lifetime,' ev_046) suggests transfer of growth mindset from personal to civic domain. He demonstrates awareness of cognitive limits and contextual variation: acknowledging past trade deal shortcomings (ev_027) while maintaining forward vision.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_037",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "repetitive_narrative_anchoring",
+      "definition": "Deliberate use of consistent messaging frameworks across speeches to anchor new neural pathways in audience; analogous to spaced repetition in memory consolidation",
+      "finding": "Obama systematically employs the same core phrases and frameworks across multiple speeches separated by years, creating Hebbian reinforcement of specific concepts. Phrases like 'middle-out economics' (ev_021, ev_016), 'America's resurgence is real' (ev_024), and 'opportunity for all' (ev_018) appear repeatedly, each repetition strengthening associative neural connections in audience cognition. This represents conscious deployment of neural plasticity principles at population scale—using repeated activation of specific concept clusters to form durable cognitive habits. His 'Top 10 Things' format (ev_033) and enumeration patterns create chunked memory structures consistent with Graybiel's habit chunking research.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_018",
+        "ev_021",
+        "ev_024",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "plasticity_window_exploitation",
+      "definition": "Identification and deliberate use of high-change periods (elections, crises, anniversaries) as leverage points for behavioral and opinion modification",
+      "finding": "Obama demonstrates systematic exploitation of temporal plasticity windows—moments when cognitive and social plasticity is elevated and new patterns can more easily form. His 'Year of Action' (ev_015, ev_019) explicitly frames a time period as opportunity for accelerated change. Anniversary speeches (Dodd-Frank 5th anniversary, ev_020; Veterans Day, ev_007) use temporal markers to reinforce established patterns while introducing new elements. His farewell address (ev_044) explicitly treats end-of-presidency as transition plasticity window, positioning continued civic engagement as new habitual pattern. This awareness of when neural pathways are more malleable reflects sophisticated meta-learning about change timing.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

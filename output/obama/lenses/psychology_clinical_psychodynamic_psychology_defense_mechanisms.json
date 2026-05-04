@@ -1,0 +1,181 @@
+{
+  "discipline": "psychology",
+  "lens": "clinical_psychodynamic_psychology_defense_mechanisms",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Adaptive world-shaper with institutionalist constraints—actively shapes policy outcomes while realistically acknowledging structural limitations requiring coalition-building",
+      "finding": "Obama demonstrates consistent agency orientation as an active policy architect who shapes legislative and executive outcomes rather than passively responding to circumstances. His repeated use of executive actions (ev_017: $10.10 minimum wage for federal contractors; ev_019: 20+ executive actions in 'Year of Action') reveals proactive world-shaping when institutional pathways are blocked. However, his rhetoric consistently emphasizes partnership, coalition-building, and democratic process rather than unilateral control—he cites AFL-CIO and Chamber of Commerce together (ev_008), frames veterans hiring as public-private partnership (ev_009), and attributes accomplishments to 'the American people' (ev_032). This suggests mature agency that recognizes the boundaries of presidential power while working creatively within and around them. His willingness to take executive action when Congress obstructs demonstrates adaptive agency rather than either passive acceptance or omnipotent overreach.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_008",
+        "ev_009",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Intellectualized with pragmatic realism—prefers systematic analysis and evidence-based reasoning while maintaining openness to complexity and admitting uncertainty",
+      "finding": "Obama's epistemic style consistently demonstrates intellectualization as a dominant cognitive defense—processing political challenges through analytical frameworks rather than emotional engagement. He systematically presents statistical evidence (ev_011: 'seven days away... thousands of workers'; ev_013: deficit reduction methodology) and frames policy debates in terms of empirical outcomes. Notably, he acknowledges epistemic humility by admitting 'past trade deals haven't always lived up to the hype' (ev_027) while defending new approaches—this capacity to hold complexity without abandoning conviction suggests mature intellectualization. His use of phrases like 'I am absolutely confident' (ev_004) based on evidence rather than faith reveals an evidence-anchored epistemology. However, this intellectualized style may create emotional distance from visceral political conflicts, potentially explaining his sometimes-criticized perceived coolness under partisan attack.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_027",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with effective concretization—articulates abstract philosophies (middle-out economics, opportunity agenda) while successfully grounding them in specific, tangible policy examples",
+      "finding": "Obama demonstrates strong abstraction capacity through consistent articulation of governing philosophies and formal policy frameworks. His 'middle-out' economic philosophy (ev_021) represents systematic theoretical abstraction, as does framing democratic participation in terms of 'keys to self-government' (ev_036). The ACA, Dodd-Frank, and Paris Agreement each embody formal institutional redesign. However, his communication effectiveness derives from successful concretization—he grounds abstract principles in specific examples: Head Start children affected by sequester (ev_014), workers getting raises from minimum wage (ev_017), solar power multiplying thirtyfold (ev_040). This pattern suggests intellectualization with affect integration—he can abstract without losing touch with concrete human impact. The tension between these may produce his characteristic rhetorical blend of inspirational vision and pragmatic specificity.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_036",
+        "ev_014",
+        "ev_017",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Firm boundaries with adaptive control—clearly delineates red lines while showing restraint in domains requiring coalition approval; avoids omnipotent control fantasies",
+      "finding": "Obama demonstrates adaptive control orientation characterized by firm boundary-setting in constitutional and policy domains while accepting limitations in legislative arenas. His definitive statement refusing to 'negotiate over the full faith and credit of the United States' (ev_015) reveals clear control boundaries—the debt ceiling is non-negotiable because it concerns fundamental institutional integrity, not personal power. His veto threat on Wall Street Reform (ev_029) similarly protects structural achievements rather than expanding personal authority. By contrast, he repeatedly calls on Congress rather than circumventing it on transportation, student loans, and minimum wage (ev_008, ev_011, ev_018)—accepting institutional constraints on his control sphere. This pattern suggests mature defensive functioning: he protects essential control domains (executive authority, constitutional boundaries, signature achievements) while not attempting omnipotent control over resistant institutions. The restraint itself becomes a defensive strategy—preserving legitimacy for future battles.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_011",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with empathic framing—consistently prioritizes policy goals over partisan comfort, but frames sacrifices as serving vulnerable populations rather than personal vindication",
+      "finding": "Obama's behavior consistently prioritizes policy missions over relational comfort with political opponents, yet frames this prioritization through empathic concern for affected populations rather than personal grievance. His repeated criticisms of Congressional obstruction ('Republicans have blocked or voted down every serious idea'—ev_020) show willingness to accept relational costs for policy goals. His insistence on sequester replacement (ev_013, ev_014) prioritizes Head Start programs and senior nutrition over bipartisan harmony. However, he consistently frames mission costs in terms of vulnerable populations—'parents whose kids got kicked out of Head Start' (ev_014), 'seniors who depend on Meals on Wheels' (ev_014)—rather than personal political defeat. This empathic framing serves a sophisticated defensive function: it converts potential resentment into moral purpose while maintaining public legitimacy. His farewell address attribution to 'the American people' (ev_044) rather than defensive self-justification further suggests mission orientation without bitter relational cost.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_013",
+        "ev_014",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Proactive risk acknowledgment with constructive response—identifies risks clearly while channeling concern into policy solutions rather than denial or paralysis",
+      "finding": "Obama demonstrates adaptive risk posture characterized by clear risk acknowledgment and constructive channeling. He explicitly warned about sequester consequences before implementation—'nearly 1 million jobs,' 'Head Start program cuts,' 'military strain' (ev_014)—rather than minimizing or denying risk. His energy policy acknowledges dependence risk: 'even though America uses 25% of the world's oil, we have only 2% of reserves' (ev_005). Climate policy explicitly frames environmental risk as addressable through collective action (ev_040, ev_041). The Cancer Moonshot initiative (ev_042, ev_043) demonstrates channeling mortality anxiety into systematic research infrastructure. Notably, he does not engage in denial—his acknowledgment that 'all of this progress is because of you' (ev_032) in the context of 2015 accomplishments shows realistic assessment of what was achieved versus what was not. This pattern suggests mature defensive adaptation: risks are acknowledged and metabolized into action rather than denied, avoided, or catastrophized.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_005",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist with principled authority use—respects democratic hierarchy while deploying presidential power strategically to protect constitutional norms and policy achievements",
+      "finding": "Obama demonstrates a sophisticated, institutionalist relationship with hierarchy and power that balances respect for democratic norms with strategic use of authority. He operates within rather than against institutional structures—calling on Congress repeatedly (ev_008, ev_011, ev_019) rather than bypassing legislative authority except where specifically empowered. His assertion that 'one senator gumming up the works... is certainly not what our founding fathers envisioned' (ev_010) criticizes institutional dysfunction while implicitly affirming democratic legitimacy. His reference to America as 'the world's bedrock investment' (ev_015) frames constitutional credibility in global institutional terms. However, he deploys presidential power decisively when institutional integrity is threatened—veto threats on Wall Street Reform (ev_029), refusal to negotiate debt ceiling (ev_015), executive orders on minimum wage (ev_017). The pattern suggests identification with constitutional authority rather than personal power accumulation—using presidential power to protect democratic institutions, not to circumvent them.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled negotiation with strategic escalation—acknowledges partisan conflict directly while seeking translation into policy solutions; willing to escalate through legitimate institutional channels",
+      "finding": "Obama's conflict strategy demonstrates mature negotiation with strategic escalation through institutional means. He acknowledges partisan conflict directly—'Republicans in Congress have blocked or voted down every serious idea' (ev_020)—rather than denying or suppressing disagreement. However, he consistently translates conflict into constructive institutional outcomes: Senate passage of transportation bill 52-22 (ev_011), bipartisan budget described as 'Christmas miracle' (ev_048). When institutional channels fail, he escalates legitimately—veto threats, executive actions—rather than through denial, splitting, or passive aggression. His statement that he 'will not negotiate over the full faith and credit' (ev_015) represents clear boundary-setting without splitting (demonizing opponents) or passive aggression (sabotaging quietly). This pattern suggests mature conflict engagement: conflicts are named, negotiated where possible, and escalated institutionally when necessary, without defensive distortion of the conflict itself.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_011",
+        "ev_048",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation with long-term investment—optimizes for legacy and systemic change while managing near-term pressures; explicitly frames current actions in multi-decade context",
+      "finding": "Obama demonstrates consistent mission-scale time horizon, optimizing for long-term legacy and systemic change while managing near-term pressures. His climate policy explicitly frames current action within decades-long context: 'cut oil imports by one-third by 2025' (ev_004), 'carbon pollution at 25-year low' (ev_040), 'leave a better, cleaner, safer future for our children' (ev_041). Healthcare reform references Medicare solvency extension as 'the single longest extension in history' (ev_002), explicitly positioning current policy within generational timeframes. His farewell address declares renewed optimism about 'our country's promise' for 'the full span of a lifetime' (ev_046, ev_047)—calling for citizenship beyond electoral cycles. However, he manages near-term pressures effectively: urgent sequestration warnings (ev_011: 'seven days away'), immediate job creation statistics (ev_025: monthly jobs numbers). This dual orientation—immediate crisis management within long-term transformative vision—suggests mature defensive functioning that neither shortens time horizons to immediate survival nor extends them into fantasy.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_040",
+        "ev_041",
+        "ev_002",
+        "ev_046",
+        "ev_047",
+        "ev_011",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign with pragmatic patching—prefers comprehensive institutional change but demonstrates capacity for practical compromise when systemic transformation is blocked",
+      "finding": "Obama demonstrates preference for structural redesign, consistently pursuing comprehensive institutional change rather than incremental patching. The ACA represents fundamental healthcare system redesign, not merely incremental expansion—explicitly extending Medicare solvency through systemic reform (ev_002). Dodd-Frank rebuilds financial regulatory architecture, not patch repairs (ev_003, ev_028). Paris Agreement establishes new global climate governance framework (ev_034). His 'Year of Action' executive agenda (ev_019) represents systematic policy reconstruction where legislative pathways closed. However, when comprehensive change is blocked, he demonstrates pragmatic patching capacity: bipartisan budget described as 'Christmas miracle' (ev_048), temporary FAA fixes for sequester impacts (ev_014), transportation bill passage through Senate coalition (ev_011). This pattern suggests sophisticated defensive flexibility: comprehensive redesign remains preferred, but defensive adaptation to blocked pathways prevents either denial ('nothing can change') or collapse into futility. The capacity to patch while maintaining reform vision represents mature defensive integration.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_028",
+        "ev_034",
+        "ev_019",
+        "ev_048",
+        "ev_014",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with self-reflective capacity—demonstrates awareness of own limitations, cognitive biases, and the gap between intention and outcome; credits collective over personal credit",
+      "finding": "Obama demonstrates notably high metacognitive awareness across multiple domains. His farewell address shows explicit self-reflection: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—acknowledging cognitive limits and growth capacity. He credits accomplishments to collective action (ev_032: 'All of this progress is because of you') rather than personal genius, demonstrating awareness that presidential agency is bounded and contingent. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows realistic self-assessment of policy limitations. He acknowledges Congressional dysfunction while accepting partial responsibility: 'Neither party has been blameless in tactics like these' (ev_010)—balancing critique with self-awareness of partisan constraints. This metacognitive capacity appears to support defensive maturity: recognizing one's own defensive patterns, cognitive limitations, and the complexity of political causation. The pattern suggests strong integrative capacity—the ability to hold self-critique without paralyzing self-doubt.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_027",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_attribution_defense",
+      "definition": "Pattern of consistently attributing accomplishments to collective actors (American people, bipartisan coalitions, institutional processes) rather than individual agency—a defensive operation that may serve suppression of narcissistic supply while maintaining authentic humility",
+      "finding": "Analysis reveals consistent collective attribution as a defensive pattern across Obama's public communications. In his farewell address, he states 'All of this progress is because of you' (ev_032) and 'You made me a better President' (ev_044)—attributing outcomes entirely to collective actors while absenting personal agency. He credits 'the ingenuity of our entrepreneurs and business owners; the tenacity of our workers' (ev_004) for economic recovery. This pattern exceeds normal democratic rhetoric—it appears psychologically overdetermined. Several defensive functions may operate: (1) suppression prevents narcissistic accumulation from presidential prominence; (2) suppression may protect against future narcissistic injury when accomplishments are reversed; (3) collective attribution maintains realistic cognition—presidents are not sole agents; (4) it models appropriate humility for institutional role. However, potential costs include: obscuring his genuine agency and strategic choices; potentially undermining perceived leadership effectiveness; possible affective suppression of legitimate pride. The tension between appropriate collective framing and possible defensive suppression warrants attention. This pattern is not captured in standard defense mechanism taxonomies but appears clinically significant for understanding Obama's psychological functioning.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_004",
+        "ev_009",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "affect_tolerance_through_humor_and_reframing",
+      "definition": "Systematic use of humor and positive reframing to manage frustration, disappointment, and political setback—transforming potentially distressing outcomes into acceptable or even humorous narrative frames",
+      "finding": "Analysis reveals systematic affect tolerance through humor and reframing as a defensive pattern in Obama's rhetoric. The 'Christmas miracle' framing for bipartisan budget deal (ev_048) transforms political frustration into positive reframing—managing Congressional dysfunction as unexpected gift rather than institutional failure. His 'Top 10 Things that Happened in 2015' list format (ev_033) frames serious policy as entertainment—affect regulation through disarming presentation. 'Love won' (ev_035) reframes contentious civil rights litigation as triumphant narrative. His climate framing—'That's not something to tear up – it's something to build upon' (ev_041)—manages anticipated policy reversal by reframing as invitation to contribution. These rhetorical patterns suggest sophisticated affect tolerance: frustration with institutional dysfunction, disappointment with policy limitations, and anxiety about reversals are managed through reframing rather than denial, projection, or reaction formation. The humor is not avoidance—it coexists with clear-eyed policy assessment and firm boundary-setting. This represents relatively mature defensive functioning: acknowledging difficulty while metabolizing it into acceptable form.",
+      "evidence_ids": [
+        "ev_048",
+        "ev_033",
+        "ev_035",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "discipline": "psychology",
+  "lens": "cognitive_bias",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Predominantly world-shaping with strategic responsiveness; Obama combines proactive agenda-setting with adaptive navigation of constraints",
+      "finding": "Obama's behavioral record reveals a world-shaping orientation expressed through repeated calls to action, executive interventions, and initiative announcements. He 'directed the federal government' to hire veterans (ev_009), announced 'Year of Action' with over 20 executive actions (ev_019), declared veterans hiring challenges to private companies (ev_009), and proclaimed energy blueprints with specific 2025 targets (evt_004). However, this agency orientation is tempered by systematic responsiveness to structural constraints—'Congress hasn't passed' deadlines (ev_011), 'Republicans have blocked' legislative priorities (ev_020), and acknowledgment that 'one senator gumming up the works' requires navigation (ev_010). The pattern suggests Kahneman's 'illusion of control' operates weakly—Obama demonstrates awareness that executive authority operates within a political system that can obstruct, requiring strategic adaptation rather than direct control assertion. His agency orientation is better characterized as 'strategic shaping within constraints' than naive control overestimation, consistent with Gigerenzer's recognition that effective actors calibrate their actions to environmental structures.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_019",
+        "ev_011",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "System 2-dominant with selective System 1 deployment; demonstrates analytical rigor in policy domains while using intuitive framing for public communication",
+      "finding": "Obama's epistemic approach reveals strong System 2 engagement in policy evaluation contexts, evidenced by nuanced positions on trade history: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He cites specific statistics—11 million jobs over 57 months (ev_025), 26 million consumers recovered $11 billion (ev_028), wind power tripled and solar thirtyfold (ev_040)—indicating engagement with empirical data. He acknowledges complexity in energy policy: 'drilling alone is not a real strategy' given only 2% of global reserves (ev_005). However, his communication style deploys System 1 heuristics strategically for public persuasion—'America's resurgence is real' (ev_024) anchors a positive narrative; 'love won' (ev_035) uses emotionally resonant framing. This dual-mode operation suggests Obama compartmentalizes cognitive styles: analytical processing for policy formation, intuitive heuristics for public communication. His metacognitive awareness appears in retrospective statements: 'Every day, I learned from you. You made me a better President' (ev_044), indicating iterative belief updating rather than belief固着.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_005",
+        "ev_024",
+        "ev_035",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization with pragmatic balance between systemic frameworks and concrete examples",
+      "finding": "Obama's abstraction patterns oscillate between policy-level systematization and concrete particularity. He articulates clear economic philosophy—'our economy grows best not from the top-down, but from the middle-out' (ev_021)—demonstrating capacity for abstract conceptualization. He frames legislative achievements in systemic terms: 'Wall Street Reform is working' (ev_020), 'Year of Action' (ev_015). Yet he grounds these abstractions in specific populations: parents 'kicked out of Head Start programs' (ev_014), seniors dependent on 'Meals on Wheels' (ev_014), workers serving military personnel (ev_017). This pattern reflects representative heuristic usage for empathy-building rather than category-based stereotyping—concrete examples illustrate abstract principles rather than substituting for them. His formalization appears disciplined rather than excessive; policy frameworks serve instrumental purposes rather than becoming cognitive ends in themselves. The absence of evidence for foundational-level abstraction tendency (pure theoretical construction) suggests Obama operates at the applied-policy level of abstraction.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_020",
+        "ev_015",
+        "ev_014",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong internal control orientation on policy dimensions; moderate external control seeking with strategic flexibility",
+      "finding": "Obama exhibits pronounced internal locus of control in policy domains—executive orders raising contractor minimum wage (ev_017), veto threats against Wall Street Reform repeal (ev_029), and refusal to 'negotiate over the full faith and credit of the United States' (ev_015). He positions himself as the consequential actor: 'As long as I am President, that's a commitment this country is going to keep' (ev_001). However, external control orientation appears in his strategic framing of constraints—'Congress hasn't passed' (ev_011), 'Republican obstruction' (ev_020)—treating these as obstacles requiring navigation rather than failures of personal control. This may reflect realistic locus calibration rather than external control orientation per se. Interestingly, Obama does not display illusion of control in domains beyond his authority; he acknowledges Congressional constraints as structural realities requiring adaptation. The pattern suggests healthy internal-external calibration: strong agency within reach, realistic acknowledgment of constraints beyond reach. This distinguishes his control orientation from both control illusion and learned helplessness.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_011",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with relational investment through inclusive framing; demonstrates willingness to incur political costs while maintaining coalition-building orientation",
+      "finding": "Obama's priority pattern shows mission/goal orientation across multiple policy domains: ACA implementation (ev_002), minimum wage increase (ev_018, ev_023), veterans hiring (ev_009), Wall Street Reform defense (ev_020, ev_029), climate action (ev_040, ev_041), TPP passage (ev_026). He accepts political costs: 'I've taken more than 20 executive actions' when Congress blocked legislative routes (ev_019); explicit Republican criticism: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). However, relational costs are managed through inclusive framing—'This isn't a Democratic or Republican issue—it's an American issue' (ev_008)—framing opposition as momentary rather than fundamental. His fatherhood initiative (ev_005, ev_007) suggests relational investment not purely instrumental; personal authenticity evident in vulnerability about his own absent father. The pattern suggests mission-priority with relational cost mitigation rather than mission-priority without relational consideration. Obama expends political capital on priorities but invests in framing that reduces relational damage.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_018",
+        "ev_009",
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_005",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Loss aversion dominant with risk-seeking in defense of status quo gains; moderate risk-taking in policy innovation with emphasis on proven approaches",
+      "finding": "Obama's risk posture reveals asymmetric sensitivity aligned with prospect theory predictions. Strong loss aversion evident in defensive framing: 'We've worked too hard to recover from one crisis only to risk another' (ev_029); 'That would be a terrible mistake' regarding Wall Street Reform repeal (ev_003). He frames policy choices as preventing losses rather than pursuing gains: 'Sequester would cut national security, education, Head Start, cancer research' (ev_011). However, moderate risk-taking appears in policy innovation: TPP as unprecedented framework (ev_026, ev_030), climate agreement with 200 nations (ev_034), executive action 'Year of Action' (ev_019). This suggests risk tolerance exists when potential losses from inaction are framed as larger than potential losses from innovation. Notably, he expresses confidence in established approaches: 'Our economy depends on a financial system in which everyone competes on a level playing field' (ev_003), preferring frameworks with demonstrated value. The pattern indicates loss-averse risk posture with exception carve-outs for high-priority innovations framed as loss-prevention rather than gain-seeking.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_003",
+        "ev_011",
+        "ev_026",
+        "ev_030",
+        "ev_034",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority wielder with principled boundaries; uses hierarchical position strategically while maintaining normative constraints",
+      "finding": "Obama's relationship with hierarchy and authority reveals sophisticated calibration. He wields presidential authority instrumentally—executive orders (ev_017, ev_019), veto threats (ev_029), direct challenges to Congressional obstruction (ev_011, ev_020). He also demonstrates respect for institutional boundaries: 'I will not negotiate over the full faith and credit of the United States' (ev_015)—refusing to leverage debt ceiling as bargaining chip despite potential short-term gain. He invokes founding principles as constraint: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)—using constitutional norms to critique procedural deviations. This suggests authority use within principled framework rather than pure power maximization. Notably, he builds coalitions across hierarchy levels—AFL-CIO and Chamber of Commerce together (ev_008), federal-private partnerships (ev_009)—indicating hierarchical relationship not purely vertical but network-oriented. Authority appears as tool for goal achievement within normative constraints rather than end in itself.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_008",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled non-negotiation on red lines with translation and delay strategies; engages structural opposition through alternative channels rather than direct confrontation",
+      "finding": "Obama's conflict strategy reveals distinctive patterns across threat types. On core principles—debt ceiling (ev_015), Wall Street Reform (ev_029), constitutional commitments—he demonstrates absolute non-negotiation: 'I will not negotiate over the full faith and credit' even under political pressure. This reflects principle-consistency despite high conflict cost. However, on other fronts, he deploys translation strategies—reframing issues from partisan to national: 'This isn't a Democratic or Republican issue' (ev_008); 'That's why Congress should act' framing TPP as protecting workers rather than partisan priority (ev_026). Delay tactics appear in acceptance of Congressional obstruction while pivoting to executive action: 'Republicans in Congress have blocked... I've taken more than 20 executive actions' (ev_019, ev_020). He avoids direct split or escalation with opponents, preferring channel-switching. Notably absent from evidence: hostile attribution bias or personal character attacks on opponents. Conflict is framed structurally ('obstruction tactics') rather than personally. This suggests conflict strategy oriented toward outcomes over relational damage—a professional-managerial approach to political opposition.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_026",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale temporal orientation spanning immediate deadlines to generational legacy; demonstrates unusual integration of short, medium, and long-horizon planning",
+      "finding": "Obama's temporal orientation reveals sophisticated multi-scale operation. Immediate horizon evident in urgent deadlines: 'seven days away from thousands of American workers having to walk off the job' (ev_011), 'eight days away from nearly seven and a half million students seeing their loan rates double' (ev_011). Medium-horizon goals appear in policy initiatives: 2025 energy import reduction target (evt_004), Afghanistan transition by 2014 (ev_010). Long-horizon orientation dominates in legacy framing: 'That's not something to tear up—it's something to build upon' regarding climate agreement (ev_041), 'leave a better, cleaner, safer future for our children' (ev_041). He acknowledges generational stakes: 'Our deficits are already falling at the fastest rate since the end of World War II' (ev_016)—invoking three-generation comparison. The pattern suggests unusual temporal integration—immediate political survival within longer policy horizons. No evidence of pure present bias; instead, consistent framing of current actions as investments in future outcomes. This multi-scale temporal orientation may reflect both political necessity (reelection, historical legacy) and genuine long-term orientation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_010",
+        "ev_041",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign orientation with pragmatic patch acceptance; prefers systemic solutions but accepts partial measures when structural change blocked",
+      "finding": "Obama's policy approach reveals baseline preference for structural redesign over incremental repair, with pragmatic adaptation when structural change faces obstacles. Core signature achievements—ACA (ev_002), Wall Street Reform (ev_003, ev_028, ev_029), climate frameworks (ev_034, ev_040, ev_041)—represent systemic interventions rather than localized patches. He explicitly frames these as structural: 'put Medicare on a sounder financial footing' (ev_002), 'reform the health care system' (ev_002), 'a Consumer Financial Protection Bureau with one mission' (ev_028). However, when structural change blocked, he accepts patches via executive action: 'I've taken more than 20 executive actions' when legislation fails (ev_019); executive order raising contractor minimum wage (ev_017). This suggests rebuild-orientation that reverts to patch-mode under constraint rather than pure structural preference regardless of feasibility. The pattern aligns with Gigerenzer's ecological rationality—adapting cognitive strategies to environmental constraints—rather than rigid optimization regardless of feasibility. Notably, executive actions represent structural responses within executive authority even if smaller scale than preferred.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_028",
+        "ev_029",
+        "ev_034",
+        "ev_040",
+        "ev_041",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness with demonstrated belief updating; shows low bias blind spot in self-reflection while maintaining strategic cognitive deployment",
+      "finding": "Obama demonstrates unusual metacognitive sophistication across multiple dimensions. Belief-updating evident in retrospective acknowledgment: 'Every day, I learned from you. You made me a better President' (ev_044)—explicit recognition of cognitive growth through experience. He shows epistemic humility about trade history: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). Attribution patterns suggest self-awareness: crediting American people for progress ('All of this progress is because of you' ev_032) rather than self-aggrandizing—low self-serving bias in credit allocation. He reflects on the cognitive limits of leadership: 'my conversations with you...are what have kept me honest, kept me inspired' (ev_044)—recognizing external input as cognitive corrective. However, evidence also shows strategic framing choices—'America's resurgence is real' selects favorable metrics (ev_024); 'Year of Action' frames obstruction through particular lens (ev_015). These may represent calibrated System 1 use rather than metacognitive failure—strategic communication calibrated for effect rather than epistemic transparency. The pattern suggests strong metacognitive monitoring with selective System 1 deployment for instrumental purposes rather than uncontrolled heuristic bias.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_024",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Attribution Asymmetry Pattern",
+      "definition": "Systematic difference in attribution of success versus failure—crediting external factors for success while attributing failure to opponent obstruction. This pattern reveals self-serving attribution with pro-social framing rather than pure ego protection.",
+      "finding": "Obama's attribution pattern reveals distinctive asymmetry. Success attribution externalizes to collective action: 'All of this progress is because of you—because of workers rolling up their sleeves' (ev_032), 'neighbors looking out for each other' (ev_045), 'the ingenuity of our entrepreneurs' (ev_004). He credits institutional innovations but not personal credit: 'You made me a better President' (ev_044). Failure attribution systematically points to opponent obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), 'One senator gumming up the works' (ev_010). This pattern is not pure self-serving bias (which would credit self for success) but rather collective credit with structural explanation for setbacks. The asymmetry may represent sophisticated political communication—establishing humility while maintaining agency attribution for outcomes—rather than cognitive distortion. This attribution pattern reveals an actor who preserves self-concept through learning orientation ('made me a better President') while managing political narrative through external attribution of obstacles.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_045",
+        "ev_004",
+        "ev_044",
+        "ev_020",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Reference Point Flexibility",
+      "definition": "Ability to shift baseline references across contexts—sometimes anchoring on status quo, sometimes on aspirational targets, sometimes on historical comparisons—revealing strategic reference point management rather than rigid reference dependence.",
+      "finding": "Obama's reference point management reveals strategic flexibility across contexts. On some issues, he anchors to status quo: 'Medicare isn't just a program. It's a commitment' (ev_001) defending existing structure. On others, he anchors to aspirational targets: 'cut oil imports by one-third by 2025' (evt_004), '100,000 post-9/11 veterans' (ev_009). On deficit, he anchors to historical comparison: 'fastest rate since the end of World War II' (ev_016). On economic recovery, he anchors to prior crisis: 'recovery from the worst crisis of our lifetimes' (ev_045). This reference point flexibility suggests absence of rigid anchoring—Obama adapts reference frames to rhetorical purposes rather than being anchored to single baseline. This may indicate sophisticated framing ability or alternatively suggest that reference point stability is not a strong cognitive tendency for this actor. The flexibility aligns with his System 2 dominance—actively selecting appropriate reference frames rather than defaulting to available anchors. Notably, he does not show anchoring to initial positions when new information emerges, suggesting openness to updating reference frames.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_009",
+        "ev_016",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

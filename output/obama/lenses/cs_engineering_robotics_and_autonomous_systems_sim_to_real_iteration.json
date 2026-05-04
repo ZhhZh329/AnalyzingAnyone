@@ -1,0 +1,171 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "robotics_and_autonomous_systems_sim_to_real_iteration",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who uses iterative deployment rather than waiting for ideal conditions",
+      "finding": "Obama demonstrates a world-shaping orientation through consistent use of executive actions when legislative paths are blocked (ev_017: 'I took action to lift more workers' wages by requiring federal contractors to pay... $10.10 an hour'; ev_019: 'I've taken more than 20 executive actions'). Rather than treating Congressional obstruction as an immovable constraint, he reinterprets the problem structure to find deployable paths forward within executive authority. This suggests an agentic stance that actively rewrites problem boundaries rather than accepting them as fixed. He also issued concrete challenges like hiring 100,000 veterans (ev_009), demonstrating active intervention rather than passive response. However, he shows some structure-responsive behavior in later years when shifting focus to bilateral achievements like the budget deal (ev_048).",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_009",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-driven with willingness to acknowledge model failures",
+      "finding": "Obama's speeches reveal an epistemic style heavily grounded in metrics, data, and verifiable outcomes rather than ideology or anecdote. He cites specific statistics: 11 million jobs over 57 months (ev_025), 2.5 million jobs in 2015 alone (ev_033), wind power tripled and solar 30x (ev_040), $11 billion recovered for 26 million consumers (ev_028). Crucially, he demonstrates epistemic honesty when models fail: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This mirrors the sim-to-real researcher's willingness to update models based on real-world feedback. He uses evidence not just for persuasion but for genuine course-correction, acknowledging where policy assumptions diverged from outcomes. This suggests an iterative belief-updating process rather than static doctrinal adherence.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_028",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with clear variable articulation",
+      "finding": "Obama demonstrates strong abstraction capabilities in articulating policy frameworks with explicit variables and measurable targets. His 'middle-out' economic philosophy (ev_021) operationalizes wealth dynamics into a formal causal claim: economy grows best from middle-out. He frames energy policy with explicit targets ('cut oil imports by one-third by 2025') and multiple independent variables (domestic drilling, fuel efficiency, clean energy) as ev_004 demonstrates. His deficit reduction approach formalizes the problem as a function of 'sensible changes to entitlement programs and reforming our tax code' (ev_013). This systematization allows him to decompose complex problems into testable propositions—a key sim-to-real capability for building models that can bridge simulation and deployment.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_004",
+        "ev_013",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Mixed orientation balancing direct manipulation with indirect systemic leverage",
+      "finding": "Obama exhibits both direct control and indirect systemic influence strategies. Direct control is evident in executive orders on minimum wage (ev_017), veto threats against Wall Street reform repeal (ev_029), and refusing to negotiate debt ceiling (ev_015). However, he also demonstrates indirect control through coalition-building: 'last week, I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' (ev_008). He leverages partnerships with private companies (Clean Fleets Partnership with UPS, FedEx, AT&T as in evt_004), and uses the Presidential Innovation Fellows program (ev_043) as an institutional mechanism that recruits Silicon Valley talent to work within government. This hybrid approach allows him to manipulate system elements directly while also shaping the environment through network effects.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with calculated acceptance of relational costs",
+      "finding": "Obama demonstrates clear willingness to incur relational and political costs when mission objectives are at stake. He publicly criticizes Congressional Republicans: 'Republicans in Congress have blocked or voted down every serious idea to create jobs... They've said 'no' to raising the minimum wage, 'no' to equal pay' (ev_020). His debt ceiling stance exemplifies mission-prioritization: 'I will not negotiate over the full faith and credit of the United States' (ev_015) despite immense political pressure. He explicitly connects his cancer moonshot to Joe Biden even when it involves public acknowledgment of personal loss (ev_042). However, his repeated attempts at bipartisan coalition-building (ev_008, ev_048) and genuine framing ('This isn't a Democratic or a Republican issue') suggests relational cost calculation rather than indifference—he accepts costs when necessary but doesn't seek conflict unnecessarily.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_042",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with explicit failure mode documentation",
+      "finding": "Obama's approach to risk reflects a layered defensive posture typical of rigorous sim-to-real practitioners. He systematically documents failure modes before deployment: sequester would cut 'Head Start program cuts, airport disruptions, military strain' (ev_014). He frames trade-offs explicitly: 'Drilling alone is not a real strategy... even though America uses 25 percent of the world's oil, we currently have only about 2 percent of the world's oil reserves' (ev_005). This demonstrates he models failure modes as part of the design process rather than discovering them post-deployment. His sequester warnings (ev_011, ev_013) show prospective risk assessment, while his approach to veterans (acknowledging both 'visible and invisible wounds' per ev_038) reveals acknowledgment of incomplete state knowledge. He takes bold initiatives (ACA, climate agreements) but documents specific failure modes and alternative paths, balancing between simulation confidence and real-world uncertainty.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_005",
+        "ev_011",
+        "ev_013",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic hierarchy user with institutional innovation",
+      "finding": "Obama treats hierarchy and authority as tools to be used strategically rather than as fixed structures to be either obeyed or opposed. He uses the presidential bully pulpit systematically through weekly addresses as a parallel communication channel when Congress is blocked. He innovates within hierarchy by creating new institutional forms: the Presidential Innovation Fellows (ev_043) brought 'top technology minds who left Silicon Valley to work in the White House' to solve specific problems. He explicitly calls for Senate procedural reforms: '90-day up-or-down votes on nominations' (evt_008), suggesting he understands hierarchy as malleable rather than immutable. His Silicon Valley partnership (ev_037: 'we asked some of the sharpest minds... to come help us modernize the federal government') demonstrates boundary-crossing between institutional hierarchies to inject external knowledge—a sim-to-real strategy of importing calibration from different domains.",
+      "evidence_ids": [
+        "ev_043",
+        "ev_037",
+        "ev_008",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-mediated escalation with public accountability framing",
+      "finding": "Obama's conflict strategy involves translating disagreements into accountability framings that shift the terrain from partisan to outcome-based. He regularly positions conflicts as 'what works versus what doesn't work' rather than left versus right. His critique of Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010) frames conflict in terms of institutional design failure rather than personal animosity. He escalates through public accountability rather than private pressure: making veto intentions explicit (ev_029: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it'), and issuing urgent public warnings about deadlines (ev_011: 'we are seven days away from... eight days away from...'). This strategy uses transparency as a forcing function, mimicking the sim-to-real approach of exposing systems to feedback that compels action.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_029",
+        "ev_011",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation with structured milestone tracking",
+      "finding": "Obama demonstrates a mission-scale time horizon across multiple simultaneous initiatives spanning his entire presidency. He pursues long-term structural goals (climate: 'that's not something to tear up – it's something to build upon' ev_041; energy: 'goal to cut oil imports by one-third by 2025' evt_004) while managing short-term crises (transportation funding in 7 days per ev_011, student loans doubling in 8 days). The Cancer Moonshot (ev_042) represents explicit long-horizon thinking with a 45-year historical context and forward-looking strategy. He tracks progress systematically: 2015 accomplishments listed in order of importance (ev_033), creating a milestone architecture that allows him to claim progress across multiple fronts. His farewell address (ev_047) explicitly frames remaining life as continuation of civic mission, suggesting time horizon extending beyond official tenure. This multi-scale temporal thinking allows simultaneous optimization across horizons.",
+      "evidence_ids": [
+        "ev_041",
+        "evt_004",
+        "ev_042",
+        "ev_033",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic redesign preference when assumptions fail",
+      "finding": "Obama shows clear preference for structural solutions over patches when core assumptions are invalidated. His approach to sequester exemplifies this: rather than accepting cuts, he advocates replacing it with 'balanced deficit reduction' (ev_013) that restructures the underlying mechanism. On energy: rejecting 'drilling alone' as insufficient (ev_005), he proposes a comprehensive blueprint integrating multiple solutions (evt_004). His response to trade deal underperformance (ev_027) is not to patch the old model but to negotiate new comprehensive agreements with better enforcement. The Affordable Care Act represents structural redesign of healthcare markets rather than targeted patches. Even in smaller domains, he seeks architectural solutions: 'Trials.Cancer.Gov' (ev_043) redesigns how patients access clinical trials rather than patching the existing fragmented system. When models fail, his pattern is to rebuild the interface between theory and reality rather than adjust parameters.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_005",
+        "evt_004",
+        "ev_027",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with explicit reasoning transparency",
+      "finding": "Obama demonstrates notable metacognitive awareness in his public communications. He explicitly reflects on his own learning: 'Every day, I learned from you. You made me a better President' (ev_044). He acknowledges uncertainty boundaries: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), and updates his positions based on evidence. His farewell address reveals pattern recognition about his own evolution: 'Eight years later, I am even more optimistic about our country's promise' (ev_047) despite acknowledging challenges. He shows awareness of simulation-reality gaps: understanding that models of governance may not capture real human complexity, hence his emphasis on direct engagement ('in living rooms and schools; at farms and on factory floors' ev_044). He recognizes potential blind spots in his own reasoning, attributing progress to collective action rather than individual brilliance (ev_032: 'All of this progress is because of you'). This metacognitive capacity allows iterative self-correction across his eight-year presidency.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_047",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "calibration_diversity_as_deployment_strategy",
+      "definition": "Deliberate introduction of diverse mental models and stakeholder perspectives into policy design process as a way to stress-test assumptions before real-world deployment. Similar to how sim-to-real researchers expose robotic policies to varied environmental conditions, Obama systematically incorporates feedback from diverse actors to catch blind spots before policies scale.",
+      "finding": "Obama demonstrates an emergent pattern of deliberately creating calibration diversity in policy development. He brought together 'the AFL-CIO and the Chamber of Commerce' (ev_008)—typically opposing stakeholders—as validators of transportation policy. The Presidential Innovation Fellows program (ev_043) explicitly recruited 'top technology minds from Silicon Valley' to challenge government assumptions. His South by Southwest outreach (evt_023) sought external ideas for government modernization. This mirrors the sim-to-real practice of exposing policies to diverse test conditions: by making diverse stakeholders co-designers or validators, he increases the probability of catching failure modes before deployment. His articulation of both military and civilian obligations (ev_038) and his recognition of both visible and invisible wounds to veterans suggests calibrated attention to multiple stakeholder perspectives simultaneously. This is distinct from mere coalition-building—it represents a deliberate epistemic strategy to improve model fidelity through diversity.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_043",
+        "evt_023",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "deployment_aftermath_management",
+      "definition": "Systematic attention to what happens after initial policy deployment—the monitoring, feedback collection, and iterative adjustment that closes the loop between simulation/plan and reality. This goes beyond initial rollout to encompass the entire lifecycle of policy as it encounters real-world conditions.",
+      "finding": "Obama demonstrates sophisticated awareness of deployment aftermath across multiple initiatives. On Wall Street Reform, he monitors outcomes: 'nearly 26 million consumers recovered $11 billion from predatory practices' (ev_028)—tracking real-world metrics beyond legislation passage. On climate, he compares planned trajectories to actual: 'carbon pollution from our energy sector is at its lowest level in 25 years, even as we're continuing to grow our economy' (ev_040). The Cancer Moonshot specifically addresses deployment barriers: 'only 4% of adult cancer patients are enrolled in clinical trials' because patients don't know where to go—the initiative designs solutions for post-deployment reality (ev_043). He frames progress in the 2015 top 10 (ev_033) as outcome tracking, not just legislative victory. His farewell reflection ('I've seen neighbors looking out for each other... I've hugged cancer survivors who finally know the security' ev_045) shows he actively collects ground-truth data about policy effects. This attention to post-deployment reality reflects sim-to-real thinking: initial design is just the first iteration, and real-world feedback must continuously refine the model.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_040",
+        "ev_043",
+        "ev_033",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

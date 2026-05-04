@@ -1,0 +1,170 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_emotion_self_regulation_self_control_delay_discounting",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama consistently pursued transformative long-term policy agendas rather than merely responding to immediate pressures.",
+      "finding": "Obama exhibited pronounced agency through sustained pursuit of multi-year policy initiatives across diverse domains. His declaration of a 'Year of Action' in 2014 (evt_015) with over 20 executive actions demonstrates active world-shaping rather than reactive governance. The Cancer Moonshot initiative (evt_026, ev_042) represents a deliberate 10-year+ commitment to structural change in medical research. His framing of TPP as necessary to shape global trade rules rather than let China do so (ev_031) further reveals proactive agenda-setting. Evidence of his world-shaping orientation appears consistently: he announced energy security blueprints with 2025 goals (evt_004), declared veterans hiring challenges with 2013 deadlines (evt_007), and pursued climate agreements requiring decades of sustained effort (ev_040, ev_041). Unlike figures who primarily respond to crises, Obama systematically built institutional frameworks designed to outlast his administration.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_031",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with notable metacognitive awareness; Obama acknowledged uncertainty, cited data systematically, and showed capacity to revise positions based on feedback.",
+      "finding": "Obama's epistemic approach combined empirical grounding with self-aware acknowledgment of limitations. He cited specific statistical claims throughout his addresses—deficit reduction rates (ev_016), job creation numbers (ev_025, ev_033), consumer recoveries (ev_028)—demonstrating consistent data-reliance. Notably, he displayed metacognitive honesty in acknowledging that 'past trade deals haven't always lived up to the hype' (ev_027), a self-reflective stance that contradicts purely motivated reasoning. His energy policy presentation (evt_004) showed sophisticated causal reasoning: drilling alone cannot replace foreign oil dependence because U.S. reserves constitute only 2% of global supply (ev_005). His willingness to attribute accomplishments to collective action (ev_032, ev_044) further suggests accurate epistemic calibration about the distributed nature of policy outcomes.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction orientation; Obama consistently translated specific policies into broad philosophical frameworks and systemic categories.",
+      "finding": "Obama demonstrated marked preference for abstract policy framing and systemic thinking. His 'middle-out' economic philosophy (ev_021) exemplifies abstraction: specific wage policies became expressions of a macro-economic theory about wealth distribution. Similarly, he framed Wall Street Reform (evt_002, evt_020) as establishing fundamental principles of 'level playing field' and 'same rules for everyone' (ev_003), moving from specific regulations to abstract regulatory philosophy. Climate policy (evt_025) was framed through the abstraction of generational legacy—building versus tearing up (ev_041). His government modernization initiative (evt_023) employed the formalization of government-as-system requiring technical updates (ev_037). This abstraction orientation served persuasive functions, elevating specific policy disputes into questions of national identity and values.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_021",
+        "ev_031",
+        "ev_037",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principled yet strategic control; Obama pursued structural control mechanisms while maintaining self-imposed constraints on how that control was exercised.",
+      "finding": "Obama's control orientation manifested through institutional design and rule-establishment rather than personal dominance. He signed executive orders creating binding contractor requirements (ev_017), established veto commitments against specific legislative outcomes (ev_029), and articulated principles he would refuse to negotiate under any circumstances (ev_015: 'I will not negotiate over the full faith and credit'). Notably, this control orientation included self-imposed constraints—his debt ceiling position (ev_015) represented a principled limit rather than tactical flexibility, framing it as honoring prior commitments. His control-seeking differed from authoritarian control: he explicitly called for Congressional action on TPP (ev_026) rather than bypassing legislative process when possible, suggesting control orientation bounded by institutional legitimacy. The establishment of the CFPB (ev_028) further demonstrates control through institutional design rather than personal authority.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with significant relational sensitivity; policy goals dominated but were consistently framed with attention to human impacts.",
+      "finding": "Obama consistently prioritized mission objectives while demonstrating notable relational awareness. His pursuit of the ACA (evt_001), Wall Street Reform (evt_002), and TPP (evt_021) prioritized policy outcomes over immediate relational comfort with opposition. However, his communications frequently incorporated relational framing: sequester warnings emphasized 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels,' and 'military families that have already sacrificed enough' (ev_014). His Memorial Day address (evt_024) explicitly framed military obligations in relational terms: 'we have to do more than honor their memory. We have to be there for their families' (ev_038). His Father's Day address (evt_005) revealed personal relational depth, sharing his own experience of father absence (ev_006). This pattern suggests mission-primary orientation with humanized implementation—goals remained fixed while relational costs were acknowledged and addressed rhetorically.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with evidence-based framing; Obama pursued high-uncertainty initiatives but consistently framed them through concrete probability language and historical precedent.",
+      "finding": "Obama's risk posture revealed calculated willingness to pursue transformational policies under uncertainty. The Iran nuclear deal (evt_022) represented substantial diplomatic risk, framed through evidence: Iran had 'already dismantled thousands of centrifuges' (ev_034). Paris climate agreement (evt_022, evt_025) pursued international coordination despite uncertain enforcement, framed as generational imperative rather than guaranteed outcome. His sequester warnings (evt_011, evt_012) used specific probability-adjacent framing: 'nearly 1 million jobs' and quantified program cuts (ev_011). Most revealing was his self-characterization as someone who takes action in the face of opposition—'Republicans in Congress have blocked' multiple initiatives (ev_020), yet he continued pursuing executive channels. His risk posture avoided both reckless optimism and paralyzing caution, instead framing risks as manageable through persistence and coalition-building.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_020",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist with principled constraints; Obama leveraged formal authority while maintaining limits on how power could be exercised, even when politically costly.",
+      "finding": "Obama's relationship to hierarchy balanced institutional authority with principled self-restraint. He leveraged presidential power through executive orders (evt_014), veto commitments (ev_029), and administrative appointments. However, he repeatedly refused to use power as leverage for negotiation on fundamental issues: the debt ceiling statement 'I will not negotiate over the full faith and credit' (ev_015) represented hierarchical power exercised precisely by limiting its use as bargaining chip. His condemnation of Senate obstruction—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)—revealed critical orientation toward hierarchy dysfunction. His calls for Congressional action on TPP (ev_026) demonstrated respect for institutional process even when executive action was technically available. This pattern suggests institutionalist orientation: formal hierarchy was a legitimate tool but subject to principled constraints.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Strategic escalation with delayed confrontation; Obama used public pressure, framing contests, and principled positioning rather than immediate confrontation or suppression.",
+      "finding": "Obama's conflict strategy combined patient escalation with strategic public framing. Rather than immediate confrontation, he typically established the stakes, built public support, and then escalated: sequester warnings (evt_011, evt_012) gave Congress days to act before emphasizing human costs (ev_014). Transportation and student loan deadlines (ev_011) represented countdown-based pressure. His Republican criticism (ev_020) escalated publicly after repeated blockage, listing specific 'no' votes. His debt ceiling position (ev_015) represented principled confrontation after institutional warning. This contrasts with both suppression (avoiding conflict) and impulsive escalation—Obama created conditions for conflict through framing contests before escalating. His farewell address (evt_027) showed delayed reflection rather than immediate defensive response to opposition.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_011",
+        "ev_014",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale temporal orientation; Obama's decision-making consistently prioritized long-term institutional and policy outcomes over short-term political gains.",
+      "finding": "Obama's time horizon centered on mission-scale multi-year outcomes. ACA implementation was defended as commitment to 'after working your whole life' security (ev_001), framing retirement benefits across decades. Energy policy targeted 2025 goals (evt_004), climate commitments spanned generations (ev_041). The Cancer Moonshot (evt_026) explicitly referenced 45-year trajectory from Nixon's 1971 declaration (ev_042). Economic policies were framed against multi-decade trends: 'reverse the decades-long erosion of middle-class jobs and incomes' (ev_024). Most telling, his deficit reduction framing referenced World War II-scale temporal scales: 'deficits are already falling at the fastest rate since the end of World War II' (ev_016). This mission-scale orientation appeared in policy, rhetoric, and self-understanding—Obama consistently evaluated actions against long-term institutional outcomes rather than immediate electoral cycles.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuilding preference; Obama consistently pursued systemic reform over incremental fixes, even accepting short-term disruption for long-term institutional change.",
+      "finding": "Obama's governance revealed consistent preference for structural redesign over symptomatic repair. His approach to financial regulation (Dodd-Frank) established permanent institutions—CFPB with 'one mission: to protect American consumers' (ev_028)—rather than case-by-case intervention. Sequester responses consistently called for 'balanced, comprehensive' replacement (ev_013) rather than targeted amendments. Healthcare reform (ACA) represented complete system redesign: 'the single longest extension in history' of Medicare solvency (ev_002), not incremental adjustment. Climate policy pursued structural energy transition—'multiplied wind power threefold,' 'solar power more than thirtyfold' (ev_040)—rather than temporary emissions reductions. His veto commitment to Wall Street Reform (ev_029) explicitly protected structural integrity: 'We've worked too hard to recover from one crisis only to risk another.' This pattern demonstrates systemic reform as default approach.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_028",
+        "ev_040",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with reflective capacity; Obama demonstrated self-monitoring, acknowledged cognitive limits, and showed evidence of learning from experience.",
+      "finding": "Obama displayed notable metacognitive sophistication across multiple dimensions. He acknowledged that 'past trade deals haven't always lived up to the hype' (ev_027), demonstrating capacity to evaluate his own prior judgments. His farewell address revealed learned humility: 'Every day, I learned from you. You made me a better President' (ev_044). He demonstrated understanding of institutional constraints: government 'is only as good as we make it' (ev_036), acknowledging that structural limitations require ongoing collective effort rather than assuming individual mastery. His attribution of accomplishments to collective action (ev_032) suggests accurate causal attribution—not overestimating personal contribution. His recognition of diverse experiences witnessing American resilience (ev_045) demonstrates experiential integration. Most notably, his capacity to reframe opposition from personal grievance to systemic critique (ev_010) reveals cognitive restructuring ability. This metacognitive capacity appears particularly in his ability to maintain long-term commitment despite short-term setbacks—continuing climate advocacy even when political opposition threatened policy reversal.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_036",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "symbolic_commitment_as_self-regulation",
+      "definition": "The use of public identity commitments and symbolic declarations as self-control mechanisms—binding oneself through publicly stated principles to resist immediate temptation or expedience.",
+      "finding": "Obama demonstrated an unusual pattern of using symbolic commitments as self-regulatory anchors. His declaration that he 'will not negotiate over the full faith and credit' (ev_015) represented a public commitment that constrained future tactical options—this self-imposed limitation functioned as commitment device preventing short-term bargaining expedient that might undermine long-term institutional credibility. Similarly, his veto commitment on Wall Street Reform (ev_029) created pre-commitment against future legislative pressure. His 'Year of Action' declaration (evt_015) represented self-binding to continued executive activism. This pattern suggests sophisticated self-regulation through public commitment rather than private resolve alone—using institutional and reputational stakes to reinforce personal discipline. This differs from typical self-control literature's focus on environmental design or willpower, instead emphasizing identity-based commitment as regulatory mechanism.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "temporal_anchoring_in_identity",
+      "definition": "Using historical and generational time scales as identity anchors to sustain motivation and regulate responses to short-term frustration or opposition.",
+      "finding": "Obama consistently anchored current actions in longer historical narratives as self-regulatory mechanism. Referencing World War II deficit trajectories (ev_016), Nixon's 1971 cancer declaration (ev_042), and founding fathers' intentions (ev_010) provided temporal anchors grounding present choices in established national identity. His framing of climate policy as 'not something to tear up—it's something to build upon' (ev_041) positioned current actors within generational succession. His farewell message—calling for continued civic engagement 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046)—applied the same temporal anchoring to citizens. This pattern suggests that Obama's delay discounting resistance partially derived from identity-level temporal anchoring: current choices were meaningful because they connected to past commitments and future obligations. This represents a distinctive self-regulatory strategy absent from standard delay discounting literature.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_016",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "abstraction_formalization",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: Obama consistently creates new institutional structures and policy frameworks rather than merely responding to existing conditions",
+      "finding": "Obama demonstrates a pronounced world-shaping orientation throughout his presidency. Rather than adapting to Congressional constraints or market forces, he actively constructed new institutional arrangements: the Consumer Financial Protection Bureau with its independent mandate (ev_028), the Cancer Moonshot task force leveraging cross-agency coordination (ev_042-043), and the Paris climate framework with nearly 200 nations (ev_034). His 'Year of Action' declaration (ev_019) explicitly signaled a shift from negotiation to unilateral institutional action when legislative paths were blocked. This pattern reveals someone who treats political and economic structures as malleable objects to be designed rather than fixed constraints to navigate. The evidence consistently shows Obama initiating new abstractions—'middle-out economics,' 'energy security blueprints,' 'trade promotion authority'—and then engineering the institutional infrastructure to realize them.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricist: Data-driven reasoning combined with comfort for nuanced positions rather than rigid formalism",
+      "finding": "Obama's epistemic approach combines empirical grounding with strategic abstraction. He regularly marshals specific statistics—11 million jobs (ev_025), 26 million consumers recovering $11 billion (ev_028), wind tripled and solar 30x growth (ev_040)—to substantiate claims. However, his epistemic style is not purely formal; he demonstrates comfort with acknowledged uncertainty and nuanced positions. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows epistemic humility rather than defensive certainty. This pragmatic empiricism suggests someone who uses data as evidence within frameworks rather than as deterministic proof—a style suited to complex social systems where formal proof is unavailable but empirical patterns are informative.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization: Strong ability to operate at multiple abstraction levels while translating complex policies into concrete, measurable commitments",
+      "finding": "Obama demonstrates sophisticated abstraction capabilities across multiple registers. His 'middle-out economics' (ev_021) creates a new conceptual framework that reframes traditional supply-side/demand-side debates. His TPP framing—'write global trade rules' vs. 'China writes the rules' (ev_031)—operates at a high geopolitical abstraction while driving concrete legislative action. Critically, he shows strong 'abstraction ladder' mobility: he can operate at the level of grand frameworks (Paris climate agreement) while maintaining focus on implementation details (specific wage levels, job counts, timeline milestones). His consistent pattern of translating policy into numbered lists (ev_033: top 10 accomplishments; ev_011: specific sequestration impacts) reveals a tendency to formalize complex realities into discrete, verifiable commitments. This formalization preference serves both political communication and accountability functions.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_033",
+        "ev_011",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect institutional control: Prefers designing self-enforcing systems through rules and interfaces rather than direct discretionary control",
+      "finding": "Obama's control orientation favors institutional design over personal authority. The CFPB (ev_028) exemplifies this: an independent agency with its own mandate, not an extension of presidential discretion. His debt ceiling position (ev_015)—'I will not negotiate over the full faith and credit'—establishes a categorical rule rather than a negotiating position. His use of executive orders (ev_017: contractor minimum wage, ev_019: 20+ actions) creates binding constraints that persist beyond his administration. This suggests a control philosophy aligned with Liskov's interface contracts: establishing clear specifications that govern behavior independent of ongoing oversight. He prefers that systems be 'correct by design' rather than requiring constant managerial intervention.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with bounded costs: Pursues structural goals aggressively but preserves relational bridges where possible",
+      "finding": "Obama demonstrates willingness to incur significant political relational costs in service of core missions. His 'I will veto it' stance on Wall Street reform repeal (ev_029) accepts maximal conflict in defense of institutional design. His condemnation of Senate obstruction (ev_010)—'one senator gumming up the works is certainly not what our founding fathers envisioned'—accepts direct confrontation with legislative authority. However, his mission orientation is not unlimited: he repeatedly framed bipartisan issues ('this isn't a Democratic or Republican issue'—ev_008) and sought coalition-building with unlikely partners (AFL-CIO and Chamber of Commerce together on transportation). The Cancer Moonshot (ev_042-043) was delegated to Biden rather than personally controlled, suggesting mission accomplishment through institutional partnership rather than pure personal drive. This pattern indicates strategic calculation about which conflicts are worth their relational costs.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker within principled bounds: Accepts political exposure for structural reforms but draws clear lines on existential risks",
+      "finding": "Obama exhibits a nuanced risk posture combining tolerance for political risk with firm boundaries on systemic risk. He pursued ACA and Dodd-Frank during economic crisis recovery—high-risk legislative ventures with uncertain outcomes. His sequestration warnings (ev_013-014) catalogued specific catastrophic scenarios (Head Start cuts, military strain, airport disruptions) demonstrating sophisticated risk enumeration. However, he drew clear categorical lines: debt ceiling is 'non-negotiable' (ev_015) because it threatens systemic trust. His foreign policy stance—'America is at war with al-Qaeda, not Islam' (ev_012)—reflects risk calibration about broader ideological consequences. This suggests someone who distinguishes between acceptable political risks and unacceptable systemic risks, taking the former while refusing the latter.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_013",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Formal authority with distributed empowerment: Uses hierarchical position to enable others rather than concentrate control",
+      "finding": "Obama's relationship to hierarchy combines formal authority invocation with deliberate empowerment of distributed actors. He frequently invokes presidential authority directly ('as long as I am President'—ev_001) while simultaneously creating structures that reduce dependence on that authority. The Cancer Moonshot delegates to Biden with independent task force authority (ev_042-043). Presidential Innovation Fellows bring Silicon Valley expertise into government (ev_037). His civic engagement calls (ev_039, ev_046) explicitly direct citizens toward action rather than toward petitioning hierarchy. This pattern suggests understanding of hierarchy as a platform for enabling others rather than a source of personal control—aligned with Kay's object metaphor where autonomous components interact through defined interfaces rather than central coordination.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_042",
+        "ev_043",
+        "ev_037",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict elevation: Uses abstraction escalation to reframe disputes at higher principled levels rather than negotiating at material level",
+      "finding": "Obama's conflict strategy consistently elevates disputes from tactical disagreements to principled frameworks. When facing Congressional obstruction, he reframed the conflict as a question about democratic legitimacy ('not what our founding fathers envisioned'—ev_010). When confronting sequestration, he elevated from budget mechanics to human costs—'parents whose kids got kicked out of Head Start,' 'seniors who depend on Meals on Wheels' (ev_014). His defense of Wall Street reform (ev_029) frames repeal as threatening recovery itself, not just a policy preference. This abstraction escalation strategy transforms zero-sum negotiations into principled stands, changing the terms of conflict while potentially polarizing the parties. It demonstrates sophisticated understanding that conflict resolution often requires reframing the problem space itself.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural orientation: Consistently frames achievements and goals in terms of decades-long impacts",
+      "finding": "Obama's time horizon centers on structural timescales rather than electoral cycles. His energy blueprint targets 2025 (ev_004)—a decade-plus horizon. His Medicare framing emphasizes 'after working your whole life' (ev_001). His 2014 year-end address claims deficits 'falling at fastest rate since World War II' (ev_016)—framing within historical rather than news-cycle time. His 2015 top 10 list (ev_033-035) and 2016 climate defense ('something to build upon'—ev_041) explicitly position current actions within multi-generational frameworks. The Cancer Moonshot (ev_042) references 45 years of prior cancer research. This long-term orientation enables acceptance of short-term political costs in service of structural investments—consistent with the framework's observation that 'good abstractions require upfront investment but yield long-term returns.'",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_016",
+        "ev_033",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference: Tends toward comprehensive replacement rather than incremental patching when existing systems fail",
+      "finding": "Obama consistently advocates for structural redesign when existing systems prove inadequate. Rather than incremental sequester modifications, he calls for 'balanced, comprehensive way' with 'sensible changes to entitlement programs and reforming our tax code' (ev_013). Rather than patch-by-patch transportation funding, he pushes for 'comprehensive immigration reform' and systemic workforce development (ev_016). His government modernization effort (ev_037) explicitly recruits 'sharpest minds' to redesign systems rather than optimize existing processes. The TPP negotiation (ev_030) represents 5 years invested in comprehensive rule-writing rather than bilateral patching. This pattern reveals comfort with upfront abstraction investment—the extended negotiation, the institutional redesign, the framework reconstruction—in service of systems that will yield returns over extended time horizons.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_016",
+        "ev_030",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness: Demonstrates explicit reflection on thinking patterns and awareness of abstraction limitations",
+      "finding": "Obama's farewell address (ev_044-047) provides the clearest evidence of metacognitive awareness: 'Every day, I learned from you. You made me a better President, and you made me a better man.' This explicit acknowledgment of cognitive evolution and the limits of solitary reasoning demonstrates sophisticated metacognition. His earlier statement that 'I am absolutely confident we will get there' (ev_004) tempered with admitted uncertainty about past trade deals (ev_027) shows calibration between confident assertion and acknowledged limitation. His framing of government as 'only as good as we make it' (ev_036) reflects awareness that institutional abstractions are human constructs requiring active maintenance. However, the evidence is primarily from reflective speeches rather than in-the-moment reasoning, suggesting metacognition that emerges in private contemplation or ceremonial contexts more than in tactical decision-making.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "contrastive_framing",
+      "definition": "The rhetorical and cognitive practice of defining positions by explicit contrast with alternatives rather than through positive definition alone. This goes beyond abstraction as categorization to abstraction as relational positioning—defining what something is by specifying what it is not and why the distinction matters.",
+      "finding": "Obama demonstrates distinctive preference for contrastive framing that defines abstractions through opposition. His 'middle-out economics' is meaningful only in contrast to 'top-down.' His TPP framing ('write rules' vs. 'China writes rules') defines the abstraction by what it prevents. His counterterrorism stance ('at war with al-Qaeda, not Islam') is structured entirely around negation. This pattern suggests cognitive comfort with dialectical positioning—understanding concepts through their boundaries and alternatives rather than through comprehensive positive definition. It represents a distinctive abstraction style that may be particularly effective in political communication where contested concepts require sharp delineation, but could potentially oversimplify complex systems by forcing binary contrasts.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "collective_attribution_engine",
+      "definition": "The systematic practice of attributing outcomes to collective actors ('the American people,' 'workers,' 'entrepreneurs') while simultaneously implementing individual-level policy interventions. This tension between collective empowerment rhetoric and structural reform implementation represents a distinctive pattern in Obama's governance philosophy.",
+      "finding": "Obama's speeches reveal a consistent pattern of collective attribution that coexists with structural reform ambitions. His 2015 year-end address credits 'the American people' for all progress (ev_032) while his policies implement institutional designs (CFPB, executive orders, trade agreements) that constrain or enable individual behavior. His Father's Day address shares personal vulnerability ('I grew up without my father'—ev_006) while his policy agenda targets systemic fatherhood support. This suggests an understanding that collective efficacy beliefs ('America's resurgence is real'—ev_024) may be prerequisites for structural change, or alternatively that structural change requires framing as collective rather than imposed action. The tension between these registers may be a feature rather than a bug—enabling both structural ambition and democratic legitimacy.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_024",
+        "ev_032",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

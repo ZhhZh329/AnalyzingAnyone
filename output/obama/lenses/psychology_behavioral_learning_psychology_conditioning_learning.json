@@ -1,0 +1,186 @@
+{
+  "discipline": "psychology",
+  "lens": "behavioral_learning_psychology_conditioning_learning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with demonstrated behavioral contingency on institutional constraints",
+      "finding": "Obama consistently demonstrates a world-shaping agency orientation through observable behavioral patterns of主动塑造政策环境。当立法渠道受阻时，他采取行政行动（ev_017签署提高联邦承包商最低工资的行政命令；ev_019列举20多项行政行动）；当国会僵局持续时，他将问题框架从党派争议转化为美国核心利益议题（ev_008批评参议院程序违背开国元勋意图；ev_020将最低工资等议题定位为共和党对中产阶级的阻碍）。他同时展现出对制度约束的行为敏感性——他明确承认白宫职位的局限性，在告别演讲中将自己定位为公民而非常任统治者（ev_046呼吁公民超越选举的持续参与）。这种模式表明他的主动行为塑造受制于可观察的环境反馈，但在约束条件下仍持续尝试重新框定议程。",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_008",
+        "ev_020",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-driven belief formation with acknowledged epistemic humility about past judgments",
+      "finding": "Obama的认知风格展现出对可观察数据和具体指标的高度依赖。他反复引用具体统计数字论证政策效果：就业增长数据（ev_025的57个月连续增长；ev_033的13.7百万新增就业）、消费者保护成果（ev_028的2600万消费者获赔110亿美元）、能源转型进展（ev_040的风电三倍增长、光伏30倍增长）。这些都构成可验证的行为结果指标。同时，他在贸易政策上展现出元认知觉察——明确承认过去的贸易协议未能兑现承诺（ev_027），这种对自身判断历史的反思性评估表明他具备区分当前主张与过去记录的认知能力。",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_028",
+        "ev_040",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction preference anchored in concrete policy outcomes",
+      "finding": "Obama的抽象化程度呈现有趣的二元性。一方面，他能将复杂政策哲学压缩为可传播的口号式原则——\"中产阶级经济\"（ev_021）、\"机会平等\"（ev_018）、\"爱情胜利\"（ev_035）。另一方面，这些抽象原则始终通过具体政策结果来锚定：ACA扩展Medicare（ev_002）、多德-弗兰克设立消费者金融保护局（ev_028）、巴黎气候协定（ev_034）。他没有展现对正式制度设计或系统性程序的强烈偏好；他的抽象化服务于政治传播而非理论构建，倾向于将原则具体化为可量化的政策产出。",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_035",
+        "ev_002",
+        "ev_028",
+        "ev_034"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong outcome control orientation with principled constraints on negotiation scope",
+      "finding": "Obama的控制取向表现为对政策结果明确的掌控意图与策略性约束的结合。他发出具体的否决威胁以锁定成果（ev_029扬言否决任何废除多德-弗兰克的法案）；他利用行政命令在立法受阻时单方面推进优先事项（ev_017、ev_019）；他划定明确的谈判红线（ev_015拒绝就债务上限谈判，称之为\"高度不负责任\"）。然而，他也展现出对控制局限的认知——他承认过去的贸易协议未能兑现（ev_027），并认识到他的职位本质上是催化集体行动而非强制服从（ev_036称政府是\"最好的工具\"但\"取决于我们把它用得多好\"）。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_027",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistent mission prioritization with explicit framing of opposition as harmful to American people",
+      "finding": "Obama的行为模式明确显示任务/目标优先于关系维护。他直接批评共和党国会成员的行为（ev_020列举被否决的最低工资、同工同酬、失业保险等提案）；他将立法僵局定位为对普通美国人的伤害（ev_014阐述人们被逐出早期儿童教育项目；ev_011阐述 sequestration对国家安全、教育、癌症研究的削减）；他在父亲节演讲中分享个人脆弱性（ev_006成长过程中父亲缺席），但这种个人脆弱性被转化为政策倡导（宣布白宫与企业的合作以支持父亲 bonding）。他将冲突框架为原则之争而非人际对抗，将政治对手定位为美国人民的阻碍而非谈判对象。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_014",
+        "ev_011",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking on major initiatives with maintenance of firm non-negotiable positions",
+      "finding": "Obama展现出与具体风险类型相关联的风险姿态。在政策内容上，他愿意承担重大赌注：推动ACA（2010年全面医疗改革）、多德-弗兰克（2010年金融监管）、TPP（五年谈判，2015年完成）、巴黎气候协定（199个国家参与）。这些都代表高度不确定结果的长期投资。然而，在某些核心议题上——特别是债务上限（ev_015）和金融监管（ev_029、ev_003）——他保持绝对不妥协的立场。这种模式表明他的风险容忍度是高度情境化的：在程序性和防御性议题上保持强硬，在主动政策创新上愿意接受不确定性。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_003",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic deployment of formal hierarchy with coalition-building framing",
+      "finding": "Obama将正式权力（总统行政权、否决权）作为首选工具，同时通过超党派联盟框架来获取合法性。他援引广泛联盟的支持（ev_008引用AFL-CIO和商会这两个不总是一致组织的支持）；他明确使用否决威胁作为锁定成果的工具（ev_029）；他通过总统公告将敏感议题定位为不涉及政党的美国议题（ev_006交通法案；ev_011减赤方案）。然而，他也承认正式层级无法单独解决问题——在告别演讲中，他将成就归功于\"美国人民\"（ev_044），并将政府现代化描述为与硅谷合作而非命令式改革（ev_037）。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_029",
+        "ev_006",
+        "ev_011",
+        "ev_044",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation strategy converting partisan conflict into principled national interest disputes",
+      "finding": "Obama处理冲突的主要模式是将党派争议\"翻译\"为核心原则与国家利益问题，而非直接对抗。当共和党阻止议程时，他将冲突框定为\"美国人民\"与阻碍者之间的张力：共和党\"对中产阶级说'不'\"（ev_020），参议院单独参议员\"拖累全国\"（ev_010），共和党人\"耗尽借口\"（ev_023）。这种翻译策略避免了人身冲突，同时维持了坚定立场。他避免直接分裂（如人身攻击），而是将争议重构为原则之争。他不压制冲突——冲突被明确承认并公开讨论——但通过重新定义争议内容将其转化为可辩护的立场。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_023",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term institutional investment with multi-year strategic patience",
+      "finding": "Obama的行为展现出明确的长期导向。他推进需要多年才能见效的议程：TPP经历五年谈判（ev_030），伊朗核协议（ev_034），巴黎气候协定（ev_034，199个国家参与），癌症登月计划（ev_042由拜登报告具体进展）。他愿意接受延迟回报：ACA通过后宣传12年Medicare稳定性扩展（ev_002），2014年宣布自2009年以来增加11百万就业（ev_025）。在交通法案和学生贷款等短期危机中（ev_011），他的应对方式是将紧迫行动与长期优先事项结合。这种时间视野与行为一致性在多次连任和政党轮替中保持。",
+      "evidence_ids": [
+        "ev_030",
+        "ev_034",
+        "ev_042",
+        "ev_002",
+        "ev_025",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural institutional redesign over incremental repair",
+      "finding": "Obama的多项标志性政策表现出对系统性重建而非局部修补的偏好。ACA不仅是修正而是全面重塑医疗保险体系结构（ev_001、ev_002对Medicare的改革扩展）；多德-弗兰克建立了新的金融监管架构并设立消费者金融保护局（ev_028）；他的能源蓝图（ev_005）明确拒绝\"仅靠钻井\"的修补方案，转向综合能源转型（ev_040显示风电/光伏的具体扩展）。与补丁式策略相反，他识别根本性结构问题并建议全面重新设计。例如，面对sequestration危机，他主张的不是调整而是全面平衡的减赤方案（ev_013）。",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_005",
+        "ev_040",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness including acknowledgment of failures and attribution of successes externally",
+      "finding": "Obama展现出高水平元认知，包含对自身判断局限的明确认知与对外部因素的成就归因。他承认过去的贸易政策失败（ev_027\"过去的贸易协议未能总是达到预期\"），并将其作为当前政策的背景而非借口。他将成就明确归因于美国人民（ev_044\"你们让我成为更好的总统\"；ev_032\"这一切进步都是因为你们\"；ev_045列举邻居、教师、健康工作者、社区）。他承认总统权力的制度限制——政府\"取决于我们把它用得多好\"（ev_036），并将自己离任后的角色定位为持续参与的公民而非继续掌权的统治者（ev_047）。这种模式表明对自身认知和影响的持续监测。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_032",
+        "ev_045",
+        "ev_036",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "conditioned_optimism_pattern",
+      "definition": "此框架的核心共享构念未涵盖的行为模式：个体如何通过持续的正向强化积累形成稳定的乐观框架，同时保持对特定环境线索的条件性警惕。奥巴马反复展现\"谨慎乐观\"——持续引用进步指标同时划定明确不妥协的议题，这与标准强化敏感性理论未完全捕捉的政治乐观调节有关。",
+      "finding": "奥巴马展现出独特的乐观调节模式：他的言语始终强调进步与韧性（ev_024\"美国复苏是真实的\"；ev_045列举波士顿\"不会破碎的美国精神\"；ev_047\"我对国家的承诺更加乐观\"），但这种乐观是条件性的——他在特定议题上保持绝对立场（债务上限、金融监管、气候行动）。观察其2010-2017年言语模式，他在经济复苏叙事（ev_025、ev_033）与持续危机叙事（ev_011、ev_012的sequestration；ev_013的政府停摆危机）之间交替。这种振荡可能代表对不同环境线索（经济数据vs政治僵局）的差异化条件反应。他的乐观不是盲目的——它由具体指标（就业数据、 uninsured rates、清洁能源增长）持续强化；同时他对某些触发点保持非条件性的坚定立场，表明他在可协商领域和核心红线上建立了不同的行为-结果联结。",
+      "evidence_ids": [
+        "ev_024",
+        "ev_045",
+        "ev_047",
+        "ev_025",
+        "ev_033",
+        "ev_011",
+        "ev_012",
+        "ev_013"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "reinforcement_source_diversification",
+      "definition": "超越标准操作性条件作用分析的一个维度：观察个体如何在多种强化来源之间分配行为投入——在直接物质奖励、社交认可、意识形态一致性和制度合法性之间转换。奥巴马作为总统，其强化来源结构与普通人显著不同，理解其行为必须考虑他如何在不同强化类型之间战略性地转移。",
+      "finding": "奥巴马的公开演讲展现出在不同强化来源之间的战略性转换模式。当面对特定受众时，他调动不同的强化框架：对商业受众强调经济竞争力和利润（ev_031 TPP防止中国\"写规则\"；ev_023小企业主支持最低工资），对劳动者强调劳动保护和尊严（ev_021中产阶级经济；ev_018机会平等），对军事受众强调服务和牺牲（ev_038对现役和牺牲军人的责任；ev_039呼吁行动支持退伍军人），对公民受众强调民主参与（ev_046超越选举的公民责任；ev_039实际的公民行动）。这种多元化强化框架反映了总统职位必须同时满足多元支持基础的结构性要求，但也表明他的行为是在复杂的多重强化环境中被调节的——单一强化来源（如政治得分）的损失可能被他通过其他来源（道德权威、历史定位）的收益所补偿。",
+      "evidence_ids": [
+        "ev_031",
+        "ev_023",
+        "ev_021",
+        "ev_018",
+        "ev_038",
+        "ev_039",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

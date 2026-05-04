@@ -1,0 +1,190 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_relationships_family_systems_family_systems",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Highly differentiated agent with world-shaping orientation; consistently positioned as architect of systemic change while simultaneously crediting collective actors",
+      "finding": "Obama demonstrates strong differentiation in the Bowen sense—he acts as an autonomous agent capable of shaping systemic structures rather than being swept by them. Evidence shows repeated pattern of taking direct action: executive orders on minimum wage (ev_017), definite veto commitments on Wall Street Reform (ev_029), and personal initiatives like the Cancer Moonshot (ev_042). However, his agency orientation is distinctive in that it remains embedded within a collective frame; he credits 'the American people' for progress (ev_032) while still exercising presidential agency to set direction. The combination suggests high differentiation—he can act independently while remaining connected to the collective without losing himself in it. His farewell address reveals the internalization of this pattern: 'You made me a better President, and you made me a better man' (ev_044), showing agency that integrates rather than isolates.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_032",
+        "ev_042",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricist who grounds beliefs in observable outcomes and data while maintaining openness to revising views based on evidence",
+      "finding": "Obama's epistemic style demonstrates strong empirical grounding balanced with principled positions. He repeatedly cites measurable outcomes: '11 million jobs over 57 months' (ev_025), '$11 billion recovered for consumers' (ev_028), 'uninsured rate below 10%' (ev_033). He shows epistemic humility in acknowledging past trade deals 'haven't always lived up to the hype' (ev_027) while defending TPP through evidence-based reasoning about geopolitical alternatives. His approach integrates quantitative data with value-based commitments—this is not pure empiricism but pragmatic meliorism. He forms beliefs through examining systemic interactions rather than purely individual psychology, consistent with family systems epistemology. His statement that 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) shows sophisticated understanding of how labels create systemic effects.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization capacity; demonstrates ability to perceive and redesign systemic structures across multiple policy domains",
+      "finding": "Obama shows remarkable capacity for seeing systemic patterns and designing formal structures to address them. The ACA represents structural redesign of healthcare as an interconnected whole (ev_001, ev_002). Wall Street Reform (Dodd-Frank) created formal institutional architecture with the Consumer Financial Protection Bureau (ev_028). The Iran nuclear deal established formal verification mechanisms. Paris Climate Agreement coordinated nearly 200 nations through formal commitments (ev_034). His 'middle-out' economic philosophy (ev_021) represents high abstraction—identifying systemic relationships rather than focusing on individual actors. He perceives circular interactions: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). The Cancer Moonshot demonstrates formal cross-agency task force design (ev_043). These patterns indicate strong capacity to see alliances, boundaries, and feedback loops in complex systems—consistent with high abstraction_formalization.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_021",
+        "ev_028",
+        "ev_034",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Systemic control orientation; seeks to reshape structural rules and institutional frameworks rather than control individuals",
+      "finding": "Obama's control orientation operates primarily at systemic and structural levels rather than through interpersonal domination. He consistently works through institutional channels: signing executive orders (ev_017), challenging Congress to pass legislation (ev_026), establishing formal frameworks like TPP (ev_030) and Dodd-Frank (ev_029 veto threat). His control is exercised through rules, institutions, and systemic design rather than personal relationships. The debt ceiling statement—'I will not negotiate over the full faith and credit of the United States' (ev_015)—demonstrates boundary-setting through principle rather than manipulation. His control orientation in family systems terms reflects healthy differentiation: he maintains position within hierarchical authority while not seeking to dominate individuals. He delegates significant initiatives (Cancer Moonshot to Biden, ev_042) suggesting comfort with distributed rather than centralized control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_026",
+        "ev_029",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation; willingness to accept relational discomfort and political cost to advance systemic goals",
+      "finding": "Obama demonstrates consistent prioritization of policy mission over relational comfort with political opponents. He repeatedly criticizes Congressional Republicans by name: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), directly calling out obstruction tactics as 'certainly not what our founding fathers envisioned' (ev_010). He accepts political costs: issuing veto threats (ev_029), declaring 'Year of Action' against Congressional opposition (ev_019), asserting executive authority when legislation fails. His mission orientation centers on structural reforms with intergenerational benefit: ACA solvency extension (ev_002), climate action for 'children' (ev_041), education bills for 'future careers' (ev_048). The relational cost is explicit—he explicitly critiques opponents rather than softening message for harmony. However, his mission remains embedded in collective benefit rather than personal glory, distinguishing this from narcissistic mission pursuit. The willingness to accept short-term relational friction for long-term structural gain suggests healthy mission orientation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_002",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated institutional risk-taking; willing to pursue transformational change when evidence supports action and institutional backing exists",
+      "finding": "Obama's risk posture demonstrates calculated willingness to pursue transformational policy change when systemic conditions warrant. He assumed political risk passing ACA despite polling vulnerability. He pursued Wall Street Reform knowing financial industry opposition (ev_003). He negotiated TPP despite skepticism about past trade deals (ev_027). His risk calculus is not purely conservative or liberal—he took on conservative positions on nuclear security (Iran deal) and progressive positions on trade (TPP). The pattern suggests risk tolerance calibrated to institutional legitimacy: 'We've worked too hard to recover from one crisis only to risk another' (ev_029) frames risk as threat to institutional recovery. He shows minimal evidence of abandonment anxiety driving risk aversion—he will 'not negotiate' on debt ceiling (ev_015) despite existential stakes. This suggests secure attachment to institutional role enabling bold action. Conversely, he documents human costs of sequester (ev_014) demonstrating sensitivity to vulnerability risk for others.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_027",
+        "ev_029",
+        "ev_015",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional relationship; uses hierarchy to advance collective goals while maintaining humility about positional authority",
+      "finding": "Obama demonstrates nuanced relationship with institutional hierarchy and power. As President, he wields executive power decisively—veto threats (ev_029), executive orders (ev_017), definite statements on non-negotiable positions (ev_015). Yet his discourse maintains collective framing: 'Our freedom and diversity make us unique' (ev_012), 'We are the United States of America' (ev_012). He positions himself within institutional hierarchy while inviting broader participation: 'I hope you'll join me' in Memorial Day remembrance (ev_039), calling for civic participation 'beyond elections' (ev_046). The fatherhood address reveals personal hierarchy dynamics: his own absent father (ev_006) and his active parenting as 'assistant coach' (ev_007). This suggests earned differentiation from his own disrupted family hierarchy—less intergenerational transmission of absent-father pattern. He credits others' contributions (Cancer Moonshot, ev_042) indicating comfort with hierarchical delegation. The pattern suggests healthy relationship to institutional power—using it for systemic goals while avoiding both abdication and domination.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_006",
+        "ev_007",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation strategy with systemic framing; addresses conflict through institutional channels and public persuasion rather than avoidance or triangulation",
+      "finding": "Obama's conflict strategy demonstrates direct engagement with institutional conflict rather than triangulation or avoidance. He directly criticizes Congressional obstruction: 'One senator gumming up the works for the whole country' (ev_010). He names Republican opposition explicitly (ev_020). He refuses to negotiate on debt ceiling—direct confrontation of conflict rather than compromise (ev_015). He issues veto threats as clear boundary statements (ev_029). The pattern differs from triangulation in that he engages the conflict directly rather than introducing third parties to diffuse tension. However, he does use coalition-building strategically: 'AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' (ev_008), which could be seen as triangulating to build superordinate consensus. His Memorial Day focus on Gold Star families and vulnerable populations (ev_038, ev_039) may serve to reframe conflict as moral rather than political. The overall pattern suggests direct confrontation with strategic framing, rather than pure avoidance or escalation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-generational time horizon; consistently frames policy as legacy for 'children' and future generations",
+      "finding": "Obama demonstrates consistently multi-generational time horizon across policy domains. Climate policy explicitly serves 'our children' (ev_041)—'something to build upon' rather than tear down. ACA extended Medicare solvency 'the single longest extension in history' (ev_002). Education bills prepare students for 'future careers' (ev_048). The Paris Agreement coordinates 'nearly 200 nations' for 'low-carbon future' (ev_034). Even when discussing near-term deadlines (ev_011), he frames them within longer deficit reduction trajectory. His farewell address reflects on '8 years' as bounded segment within longer arc: 'I am even more optimistic about our country's promise' (ev_047). The Cancer Moonshot frames 45 years of prior progress within ongoing mission (ev_042). This multi-generational orientation aligns with family systems theory's emphasis on intergenerational time—Obama's interventions aim to shape systems that outlive his presidency. He explicitly rejects short-term thinking: 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046).",
+      "evidence_ids": [
+        "ev_002",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference; repeatedly pursues comprehensive reform over incremental adjustment",
+      "finding": "Obama's policy approach consistently demonstrates preference for structural redesign over incremental repair. ACA was comprehensive healthcare system overhaul rather than补丁. Dodd-Frank was comprehensive financial regulation redesign. TPP was comprehensive trade framework redesign. Paris Agreement was comprehensive climate coordination architecture. The 'Year of Action' (ev_015, ev_019) frames executive actions as systemic initiative rather than case-by-case fixes. His 'Blueprint for a Secure Energy Future' (evt_004) was comprehensive multi-faceted strategy including drilling, fuel efficiency, and clean energy. Even when facing immediate crises (sequester, debt ceiling), he frames alternatives as 'balanced, comprehensive way' (ev_013). His statement 'rebuilding over patch' is explicit: climate 'that's not something to tear up – it's something to build upon' (ev_041). Manufacturing revival attributed to structural choice: 'we chose to invest in American auto industry' (ev_022). The pattern suggests consistent orientation toward systemic redesign when fundamental change is warranted, not merely symptomatic treatment.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_019",
+        "ev_022",
+        "ev_041",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates explicit reflection on learning, growth, and pattern recognition across personal and institutional domains",
+      "finding": "Obama demonstrates remarkable metacognitive capacity for reflection on his own thinking, growth, and cognitive limits. His farewell address explicitly reflects on learning: 'Every day, I learned from you. You made me a better President' (ev_044). He acknowledges evolution: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He shows awareness of systemic patterns in institutional behavior: 'Neither party has been blameless in tactics like these' (ev_010). His public reflection on personal history—father's absence (ev_006)—suggests metacognitive processing of formative experiences. He credits others' autonomous contributions (Cancer Moonshot to Biden's leadership, ev_042) showing understanding of distributed cognition limits. He explicitly calls for public metacognition: civic participation requires 'throwing ourselves into the work of citizenship' with reflection on 'full span of a lifetime' (ev_046). He demonstrates capacity to observe his own speech patterns and adjust framing: attributing accomplishments to collective while exercising agency, integrating individual and systemic levels. This metacognitive strength enables the high differentiation and adaptive agency observed across other constructs.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_027",
+        "ev_042",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_attribution_integration",
+      "definition": "The pattern of crediting collective actors (American people, bipartisan coalitions, partner nations) for outcomes while exercising strong individual agency—a distinctive integration of self and system that prevents both grandiosity and disempowerment",
+      "finding": "Analysis reveals a distinctive pattern where Obama exercises strong presidential agency while consistently attributing accomplishments to collective actors. This integration differs from standard agency constructs: rather than either individual or collective attribution, he demonstrates simultaneous high agency and high collective credit. 'It's you—the American people' (ev_032) follows description of his administration's concrete achievements. This pattern may represent a form of relational attunement at institutional scale—maintaining connection to collective while exercising differentiated leadership. It also serves as effective coalition framing, building support through inclusive attribution. The pattern suggests Obama understands his agency as embedded within and dependent on collective structures rather than separate from them—a sophisticated systems-level metacognition that prevents both abdication and domination. This emergent dimension captures something not fully covered by agency_orientation alone: the quality of integration between individual and collective action.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_008",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "intergenerational_reparation",
+      "definition": "The tendency to design policies and institutional frameworks that address harms from previous generations while preventing harm to future generations—actively working to interrupt negative intergenerational patterns and establish positive ones",
+      "finding": "The evidence reveals a distinctive pattern of intergenerational reparation—using institutional power to interrupt negative intergenerational transmissions and establish positive ones. His father's Day address sharing personal experience of absent father (ev_006) and his active coaching role (ev_007) shows individual-level reparation. At institutional level, ACA addresses healthcare access problems inherited across generations. Climate action explicitly protects 'children' from inherited environmental harms (ev_041). Deficit reduction narrative positions his administration as reversing 'decades-long erosion of middle-class jobs and incomes' (ev_024, ev_016). Military family support (ev_038, ev_039) addresses intergenerational costs of war. 'Our deficits are already falling at the fastest rate since the end of World War II' (ev_016) frames deficit action as intergenerational responsibility. This pattern aligns with Bowen family systems' concept of intergenerational transmission but applied at national scale—Obama uses institutional power to interrupt negative patterns inherited from prior generations and establish positive ones for future generations. His multi-generational time horizon (construct 9) and structural redesign preference (construct 10) both serve this reparation function.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_016",
+        "ev_024",
+        "ev_038",
+        "ev_039",
+        "ev_041",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

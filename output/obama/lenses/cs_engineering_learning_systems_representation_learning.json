@@ -1,0 +1,173 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "learning_systems_representation_learning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: repeatedly acts to construct policy environments rather than merely respond",
+      "finding": "Obama consistently demonstrates active world-shaping through structural interventions rather than reactive adaptation. His declaration of 'Year of Action' (evt_015) shows willingness to construct alternative policy pathways when legislative channels fail, explicitly stating 'I've taken more than 20 executive actions' (ev_019). His refusal to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States' - ev_015) indicates active construction of acceptable constraint boundaries rather than reactive position accommodation. He initiated structural frameworks like the Cancer Moonshot with specific task force architecture (ev_042-043) and government tech modernization through Presidential Innovation Fellows (ev_037). Evidence across Healthcare (ACA structural Medicare fix - ev_001-002), Financial Reform (Dodd-Frank structural protections - ev_028-029), and Climate (Paris Agreement multilateral framework - ev_041) shows consistent preference for creating new structural conditions rather than optimizing within existing ones.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_015",
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_029",
+        "ev_042",
+        "ev_043",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with capacity for causal abstraction beyond surface metrics",
+      "finding": "Obama's epistemic approach combines empirical grounding with structural causal reasoning. He anchors claims in verifiable metrics: $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar thirtyfold (ev_040), '11 million new jobs over 57 months' (ev_025). However, he also demonstrates ability to extract latent causal factors beyond surface statistics. When analyzing energy security, he explicitly rejected surface metric (oil production) in favor of structural constraint ('we have only about 2% of oil reserves' - ev_005). His characterization of sequester impacts moved beyond fiscal numbers to identify real human costs in Head Start, Meals on Wheels, military families (ev_014). His 'middle-out' economic philosophy (ev_021) represents causal abstraction from empirical observation to structural principle. This pattern suggests epistemic style that uses data as signal extraction, not noise accumulation.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_040",
+        "ev_025",
+        "ev_005",
+        "ev_014",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with consistent compression into portable conceptual frameworks",
+      "finding": "Obama demonstrates strong capacity for hierarchical abstraction with evidence of formal conceptual compression. His 'middle-out' economic philosophy (ev_021) represents explicit doctrine-level abstraction: 'Our economy grows best not from the top-down, but from the middle-out' - a compressed principle explaining multiple phenomena. His geopolitical framing of TPP as alternative to China writing global rules (ev_031) shows cross-domain abstraction capability. He explicitly distinguished drilling from comprehensive energy strategy based on structural understanding ('Drilling alone is not a real strategy' - ev_005) indicating abstract feature extraction. His pattern recognition of bipartisanship (AFL-CIO and Chamber of Commerce together - ev_008) identifies structural convergence independent of surface political labels. The hierarchical depth of his abstraction is notable: from general principle of government as 'collective tool' (ev_036) down to specific implementation through Silicon Valley partnerships (ev_037). This architectural abstraction across levels suggests sophisticated formalization capability.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_005",
+        "ev_008",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation implemented through institutional mechanisms and structural commitment",
+      "finding": "Obama demonstrates strong control orientation through systematic institutional deployment rather than micro-management. He used executive authority as explicit structural tool: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). He institutionalized control through mechanisms like Presidential Innovation Fellows for cross-agency coordination (ev_043) and structured challenges like hiring 100,000 veterans (ev_009). His control orientation operates at policy architecture level: 'Year of Action' as systematic initiative with enumerated executive actions (ev_019), Cancer Moonshot as structured task force (ev_042-043). He sought control through boundary setting ('I will not negotiate over the full faith and credit' - ev_015) and systematic engagement rather than ad hoc intervention. The control architecture shows preference for formal mechanisms with clear accountability structures rather than personal relationship-based control.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_043",
+        "ev_009",
+        "ev_019",
+        "ev_042",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistent mission prioritization with demonstrated willingness to absorb political friction for structural goals",
+      "finding": "Obama demonstrates consistent mission prioritization over relational comfort throughout his presidency. He actively criticized Congressional obstruction ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) while maintaining policy commitments. His vow to veto any Wall Street Reform repeal (ev_029) and commitment to Medicare as non-negotiable ('As long as I am President, that's a commitment this country is going to keep' - ev_001) show willingness to absorb political friction for structural preservation. He prioritized structural policy gains over bipartisan relationship maintenance: 'I've directed...we've hired 120,000 veterans' (ev_009) implemented through executive challenge rather than Congressional negotiation. The 'Year of Action' framing explicitly acknowledged political friction ('Republicans blocked minimum wage, equal pay, unemployment insurance extension' - ev_019) as acceptable cost. He framed bipartisan Congressional cooperation (budget, education bill) as 'Christmas miracles' (ev_048) suggesting relational warmth when achieved but not pursued at mission expense.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_001",
+        "ev_009",
+        "ev_019",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Structured risk-taking with defensive architecture for high-stakes boundaries",
+      "finding": "Obama's risk posture shows structured innovation with defensive boundary management. He pursued transformative structural initiatives like Cancer Moonshot ('we now have a clear strategy for the road ahead' - ev_042) within formal task force architecture and Presidential Innovation Fellows system (ev_043). For high-stakes boundaries, he adopted defensive posture: 'I will not negotiate over the full faith and credit' (ev_015) as explicit boundary with no contingency negotiation. He framed TPP as geopolitical risk mitigation rather than pure opportunity ('Without this agreement, competitors...like China, will write the rules' - ev_031). His sequester response shows defensive framing of consequences (Head Start cuts, airport disruptions, military strain - ev_012) as risk communication before preventive action. The pattern suggests layered risk architecture: aggressive structural innovation within formal boundaries, with defensive mechanisms protecting critical constraints rather than either pure risk-taking or conservative avoidance.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_043",
+        "ev_015",
+        "ev_031",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Instrumental use of hierarchy as structured mechanism for policy implementation",
+      "finding": "Obama demonstrates instrumental hierarchy orientation treating authority structures as policy implementation tools. He invoked AFL-CIO and Chamber of Commerce together (ev_008) as cross-partisan authority to validate transportation funding as 'American issue' rather than partisan. He framed TPP through geopolitical authority ('America' writing global rules - ev_031) to establish presidential and national leadership prerogative. His 'Commander-in-Chief' framing for military obligations (ev_038) used constitutional hierarchy for policy commitment. He institutional hierarchies for policy implementation: 'Presidential Innovation Fellows' for cross-agency coordination (ev_043), White House partnerships for fatherhood initiatives (evt_005), Clean Fleets Partnership with major corporations (evt_004). The pattern suggests treating hierarchical authority as structural resource for policy architecture rather than either deference or resistance to hierarchy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_031",
+        "ev_038",
+        "ev_043",
+        "evt_005",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiate-then-escalate: uses public framing as escalation from legislative failure",
+      "finding": "Obama demonstrates negotiated framing with strategic escalation to executive action when Congressional negotiation fails. He consistently framed positions publicly ('I think that would be a terrible mistake' for Wall Street repeal - ev_003) before escalating to executive alternatives. The 'Year of Action' framing explicitly acknowledged Congressional failure ('Republicans blocked minimum wage, equal pay' - ev_020) before unilateral executive action. He used public address as conflict arena: State of Union criticizing Senate obstruction ('One senator gumming up the works' - ev_010), weekly addresses cataloging Congressional failures. His conflict escalation followed clear pattern: public framing → legislative failure → executive action. He negotiated through multilateral agreement rather than bilateral Congressional negotiation: Paris climate agreement with nearly 200 nations (ev_034), TPP with 11 nations (evt_021). The strategy shows preference for building external coalition pressure rather than intra-institutional negotiation alone.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_020",
+        "ev_010",
+        "ev_034",
+        "evt_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale: structured 50-year policy frameworks with generational framing",
+      "finding": "Obama demonstrates mission-scale temporal orientation with consistent long-term policy construction. His farewell address framed 8-year achievements within generational narrative: 'America's resurgence is real' (ev_024) with explicit reversal of 'decades-long erosion of middle-class jobs' (ev_024). Medicare solvency extension framed as 'single longest extension in history' (ev_002) indicating century-scale institutional concern. Paris climate agreement framed as 'low-carbon future' and 'better, cleaner, safer future for our children' (ev_041) shows explicit generational time horizon. The Cancer Moonshot references 45 years of prior progress (ev_042) while establishing new decades-long commitment. His 'Year of Action' contrasted with 'decades-long erosion' (ev_024) indicating explicit multi-decade frame. He explicitly distinguished immediate job creation from 'raising middle-class wages and incomes' (ev_021) as separate temporal objectives. This suggests policy construction with 50-year structural horizons rather than either short-term electoral optimization or vague indefinite long-term.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_002",
+        "ev_041",
+        "ev_042",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Consistent preference for structural redesign over symptomatic treatment",
+      "finding": "Obama demonstrates consistent preference for structural policy redesign over local repair across multiple domains. His healthcare approach (ACA) structurally reformed insurance system, extended Medicare solvency architecturally, not just expanded coverage incrementally (ev_002). Financial reform (Dodd-Frank) created new regulatory architecture: 'consumer watchdog,' 'ended too big to fail bailouts,' structural consumer protection mechanism (evt_002). Energy policy explicitly rejected surface solutions ('Drilling alone is not a real strategy' - ev_005) in favor of integrated structural approach: domestic drilling, fuel efficiency, clean energy, and corporate partnerships (evt_004). His 'middle-out' economic philosophy explicitly contrasts with 'trickle-down' approach (ev_021) indicating structural alternative rather than policy tweak. Sequester approach sought 'balanced deficit reduction' as structural alternative to automatic cuts (ev_013). The pattern shows consistent identification of structural causation and structural solution rather than symptomatic patching.",
+      "evidence_ids": [
+        "ev_002",
+        "evt_002",
+        "ev_005",
+        "evt_004",
+        "ev_021",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness demonstrated through explicit reasoning about own limitations and learning processes",
+      "finding": "Obama demonstrates strong metacognitive awareness through explicit self-reference and learning acknowledgment. His farewell address explicitly credited American people with his development: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledged past limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He explicitly reflected on structural patterns: 'I look back and realize how much I've grown' type sentiment embedded in policy continuity statements. His 'middle-out' formulation shows explicit conceptual framework articulation rather than implicit assumption. His climate defense explicitly addressed potential counterargument ('That's not something to tear up' - ev_041). He distinguished between surface metrics and underlying factors: sequester 'real human costs' beyond budget numbers (ev_014), structural constraints in energy policy (ev_005). This metacognitive pattern suggests active monitoring and adjustment of reasoning rather than static assumption application.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_041",
+        "ev_014",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "abstraction_portability_transfer",
+      "definition": "The capacity to compress complex policy domains into memorable, transferable conceptual frameworks that maintain fidelity across multiple contexts. This differs from general abstraction by emphasizing communicative portability and cross-context transfer rather than formal systemization alone.",
+      "finding": "Obama demonstrates distinctive capacity for abstraction portability - compressing policy complexity into transferable conceptual frames that maintain structural integrity across contexts. His 'middle-out' economic framework compresses complex policy landscape into portable principle that explains healthcare, tax, and wages simultaneously (ev_021). 'Love won' for same-sex marriage (ev_035) captures legal, social, and political transformation in two words while maintaining fidelity to complex reality. The geopolitical framing of TPP ('China writing global rules' - ev_031) transfers structural logic from domestic policy to international relations domain. His 'America's resurgence is real' (ev_024) compresses economic, diplomatic, and social metrics into single narrative frame. This portability suggests cognitive architecture optimized for concept compression that survives transfer across domains - consistent with representation learning framework emphasis on internal representation transferability. The frames serve as reusable cognitive templates rather than one-time communication devices.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_035",
+        "ev_031",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

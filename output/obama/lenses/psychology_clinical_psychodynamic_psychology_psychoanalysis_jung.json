@@ -1,0 +1,183 @@
+{
+  "discipline": "psychology",
+  "lens": "clinical_psychodynamic_psychology_psychoanalysis_jung",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Proactive world-shaper who integrates structural responsiveness through strategic positioning within constraints rather than purely confronting them",
+      "finding": "Obama demonstrates a Jungian Hero archetype orientation through repeated assertions of agency and commitment - 'As long as I am President, that's a commitment this country is going to keep' (ev_001). However, his agency is not brute-force domination but strategic positioning: he declares a 'Year of Action' and takes executive actions when Congress blocks legislative paths (ev_017, ev_019, ev_020), yet simultaneously calls for bipartisan cooperation, framing issues as American rather than partisan (ev_008: 'This isn't a Democratic or a Republican issue'). This suggests a sophisticated integration of heroic agency with structural awareness - he shapes what he can while working within institutional constraints. His statement 'I've directed the federal government to lead by example' (ev_009) reveals the leader who uses available levers of power to catalyze broader change rather than requiring total control.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Thinking-dominant with integrated feeling function; processes through logical analysis but consistently grounds abstractions in humanistic values and empathetic framing",
+      "finding": "Obama's speeches reveal a thinking-oriented cognitive style characterized by systematic analysis of policy mechanisms (ev_002: Medicare solvency mechanisms, ev_005: energy import statistics), statistical reasoning (ev_025: '57 months of job growth,' '11 million new jobs'), and logical argument construction (ev_003: 'Drilling alone is not a real strategy...'). However, this thinking function is distinctly integrated with feeling - he consistently frames data through humanistic values: 'There are parents whose kids just got kicked out of Head Start programs' (ev_014); 'Seniors who depend on programs like Meals on Wheels' (ev_014). This suggests a mature ego function that has integrated its inferior feeling function rather than allowing it to erupt uncontrollably. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates intellectual humility - a capacity to recognize when predictions proved wrong, suggesting the self-reflection characteristic of integrated cognition.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_014",
+        "ev_025",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with consistent grounding in concrete particulars; moves fluidly between systemic frameworks and specific human instances",
+      "finding": "Obama demonstrates pronounced abstract thinking through articulation of governing principles like 'middle-out economics' (ev_021), 'opportunity for all' (ev_018), and systematic frameworks for understanding policy relationships (ev_031: TPP as writing global trade rules). His formalization appears in comprehensive legislative packages (ACA, Dodd-Frank) and systematic goal-setting (ev_004: one-third oil import reduction by 2025, ev_041: Paris climate agreement as legacy 'to build upon'). However, abstraction never dominates - he consistently descends to concrete specifics: 'workers who serve our troops' meals, wash their dishes, care for our veterans' (ev_017). This fluid movement between abstract principle and concrete instance suggests a well-developed capacity to use formalization as a tool for organizing experience without becoming inflation-prone or losing touch with sensory reality. His 'Top 10 Things that Happened in 2015' (ev_033) exemplifies this: systematic categorization serving accessible communication.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_017",
+        "ev_018",
+        "ev_021",
+        "ev_031",
+        "ev_033",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control seeking focused on systemic movement rather than personal domination; prioritizes institutional mechanisms over interpersonal control",
+      "finding": "Obama shows a nuanced relationship to control that operates primarily at the systemic level rather than through interpersonal domination. He demonstrates willingness to use executive authority decisively when legislative channels fail (ev_017: raising contractor minimum wage by executive order; ev_019: 'more than 20 executive actions'; ev_029: 'I will veto it') and draws lines on matters of principle (ev_015: 'I will not negotiate over the full faith and credit of the United States'). However, his control orientation is institutional rather than authoritarian - he consistently defers to Congressional authority on legislation, frames himself as implementer of democratic will, and credits the American people rather than himself for progress (ev_032: 'All of this progress is because of you'). This suggests an ego comfortable with using available authority structures to move systems while avoiding the inflation that would come from claiming personal dominion. His approach to power resembles the Wise Old Man archetype more than the Hero - leading through vision and position rather than force.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistent mission prioritization with awareness of relational costs; pursues structural change while maintaining relational Bridges through framing strategies",
+      "finding": "Obama demonstrates a clear mission orientation throughout his presidency, prioritizing structural policy change over relational political comfort. He repeatedly calls out Congressional obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea'), uses executive action to advance goals when legislative paths close, and frames his agenda around transformative vision ('Year of Action,' 'America's resurgence'). The costs of this mission-focus appear in his explicit critique of partisan opposition - he names what he sees as failures rather than papering over them. Yet his mission orientation is not pure crusade - he maintains relational bridges through framing strategies: 'This isn't a Democratic or a Republican issue' (ev_008), acknowledging past trade deal shortcomings (ev_027), crediting others for achievements. His farewell reflection - 'Every day, I learned from you. You made me a better President' (ev_044) - suggests mission pursuit accompanied by genuine relational openness rather than defensive self-justification.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker who takes significant political risks when aligned with mission but avoids reckless exposure through strategic framing and sequencing",
+      "finding": "Obama's risk posture reveals strategic calculation rather than either recklessness or excessive caution. He pursued politically difficult initiatives: ACA despite near-universal Republican opposition, Dodd-Frank despite financial industry lobbying, TPP despite progressive skepticism, Iran nuclear deal despite Israeli and Republican opposition, Paris climate agreement. His risk-taking is not random but mission-aligned - taking significant political capital expenditure when policies serve core values. Yet he manages risk through framing: 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) distinguishes and contains rather than expands conflict. His debt ceiling position (ev_015) accepts short-term crisis risk to prevent long-term moral hazard. His statement 'I'm confident, first and foremost, because of you' (ev_004) suggests trust in collective processes as risk mitigation. This balanced risk posture suggests an ego that can tolerate uncertainty without becoming anxious or defensive.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_012",
+        "ev_015",
+        "ev_031",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated relationship to institutional power; uses formal authority strategically while maintaining deferential framing toward democratic legitimacy",
+      "finding": "Obama displays a mature, non-dual relationship to hierarchy and power. He uses presidential authority confidently - executive orders, veto threats, directive statements - yet consistently frames this power as derived from and accountable to democratic processes: 'Our founders trusted us with the keys to this system of self-government' (ev_036). He treats institutional structures not as obstacles to overcome but as vehicles for collective action: 'government is the best tool we've got to settle our differences and solve our collective challenges' (ev_036). His approach to international hierarchy shows similar sophistication - 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) distinguishes between legitimate hierarchical targets and broader populations. He leverages bilateral and multilateral institutions (Paris Agreement, TPP, Iran deal) to achieve goals impossible unilaterally, suggesting an understanding that power operates through relationship networks rather than through isolated dominance. This represents a Wise Old Man relationship to power - using authority to guide rather than dominate, to position collective action rather than impose personal will.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_029",
+        "ev_031",
+        "ev_034",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferring translation and negotiation over split or escalation; transforms conflict by reframing as shared American challenge rather than partisan warfare",
+      "finding": "Obama's conflict strategy consistently favors translation over splitting, escalation, or suppression. When facing Congressional opposition, he repeatedly reframes conflict: 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008), noting coalition-building with AFL-CIO and Chamber of Commerce simultaneously. He acknowledges complexity rather than forcing binary choices: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - this admission strengthens his position by demonstrating honesty rather than weakness. His sequester response catalogs human costs (ev_014) - translating political conflict into human terms that shift the frame from partisan dispute to national moral obligation. He avoids splitting enemies into wholly negative figures; even opposition is framed as mistaken rather than malevolent. This translation strategy suggests a well-integrated personality that can hold complexity without needing to demonize opponents - the hallmark of mature conflict processing in Jungian terms.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_020",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale temporal orientation integrating long-term transformative vision with urgent short-term action; thinks in decades while acting decisively in days",
+      "finding": "Obama's temporal orientation operates simultaneously at multiple scales. Long-term: 'cut oil imports by one-third by 2025' (ev_004), end of Afghanistan mission by 2014 (ev_010), 'America's global leadership on climate change' framed as multi-generational legacy (ev_041: 'leave a better, cleaner, safer future for our children'). Mid-term: 12-year Medicare solvency extension (ev_002), deficit reduction trajectory (ev_016). Yet he acts urgently on immediate crises: 'seven days away from thousands of American workers having to walk off the job' (ev_011), 8 days until student loan rates double (ev_011). His farewell address frames eight years as part of longer continuity - 'I look forward to working along your side, as a citizen, for all my days that remain' (ev_047). This temporal sophistication suggests someone who has integrated time as a dimension of strategic calculation rather than being trapped in either the Eternal Present or the Tyranny of the Future - a hallmark of individuation across the life course.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_010",
+        "ev_011",
+        "ev_016",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair; pursues comprehensive transformation while accepting partial victories when full reform unavailable",
+      "finding": "Obama consistently demonstrates preference for structural transformation over patchwork. His signature achievements are comprehensive redesigns: ACA transforms healthcare access mechanisms (ev_001: 'Medicare isn't just a program. It's a commitment'); Dodd-Frank restructures financial regulation fundamentally (ev_028: creating Consumer Financial Protection Bureau with explicit mission); TPP aims to 'write global trade rules' (ev_031) rather than adjust existing arrangements. His deficit reduction approach: 'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code' (ev_013) - systemic rather than line-item cutting. Yet when comprehensive reform proves impossible, he accepts partial implementation: executive orders raising minimum wage for federal contractors (ev_017), 'more than 20 executive actions' (ev_019) when Congress blocks legislation. This reveals pragmatic wisdom - preferring comprehensive transformation but accepting partial wins rather than either demanding perfection or abandoning structural intent. His 'Year of Action' concept suggests awareness that transformation requires both grand vision and incremental execution.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_013",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit reflection on learning, acknowledgment of limitations, and attribution of outcomes to collective rather than personal factors",
+      "finding": "Obama demonstrates pronounced metacognitive capacity through multiple indicators. Explicit reflection: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044) - direct acknowledgment of developmental learning. Acknowledgment of limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - intellectual honesty about prediction failures. Self-awareness of role: 'It's you—the American people... All of this progress is because of you' (ev_032) - recognition that outcomes depend on collective action rather than individual brilliance. His father's absence reflection (ev_006: 'I wondered what my life would have been like had he been a greater presence') demonstrates willingness to examine personal history for psychological understanding. His calls for sustained civic engagement 'not just when there's an election' (ev_046) suggest awareness that democratic participation requires ongoing self-monitoring. This metacognitive strength is consistent with advanced individuation - the capacity to observe one's own functioning, acknowledge limitations, and integrate learning.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Collective Efficacy as Central Organizing Principle",
+      "definition": "The degree to which an individual's psychology centers on beliefs about collective human agency as the primary engine of change, rather than individual heroic action or impersonal structural forces. Obama's consistent attribution of outcomes to 'the American people' and framing of government as collective tool suggests this emergent dimension not captured by agency_orientation alone, which focuses on individual-world shaping.",
+      "finding": "Obama's speeches reveal a distinctive psychological orientation toward collective efficacy as the central explanatory frame for change. Rather than claiming individual credit for achievements ('I made this happen'), he consistently attributes outcomes to collective action: 'All of this progress is because of you' (ev_032); 'Our economy grows best not from the top-down, but from the middle-out' (ev_021). His faith in government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) positions collective organization as primary rather than government as obstacle or individual initiative as sole driver. His farewell addresses emphasize 'continued civic participation' (ev_046) and 'working along your side, as a citizen' (ev_047) as ongoing commitments. This collective efficacy orientation appears distinct from agency orientation - it concerns the locus of causal attribution and motivational framing rather than simply the degree of world-shaping activity. Obama acts with agency but attributes efficacy to collective processes, suggesting a psychological orientation toward shared human agency as both means and end.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_032",
+        "ev_036",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Synthetic Integration of Opposites",
+      "definition": "The tendency to process and resolve tension by synthesizing opposing values into higher-order整合 rather than choosing one pole, suppressing the other, or remaining in unresolved tension. This differs from conflict_strategy which focuses on interpersonal handling of disagreement.",
+      "finding": "Obama's rhetoric consistently demonstrates a synthetic orientation - the active integration of apparent opposites into higher-order unities. Economic policy: 'We do better when the middle class does better' (ev_021) - synthesizes business success with worker welfare. Environmental policy: 'carbon pollution from our energy sector is at its lowest level in 25 years, even as we're continuing to grow our economy' (ev_040) - integrates environmental protection with economic growth. International relations: 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012) - distinguishes terrorist organizations from religious populations without casting them as eternal enemies. Personal reflection: growing up without his father ('I wondered what my life would have been like') while simultaneously expressing gratitude for alternative caregivers (ev_006). This synthetic tendency suggests an advanced development of the Jungian Self function - the integrative center that can hold and transcend opposites rather than requiring either-or choices. This goes beyond conflict strategy (which concerns interpersonal dynamics) to a cognitive-emotional orientation toward reality itself as fundamentally integrative rather than binary.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_040",
+        "ev_006"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

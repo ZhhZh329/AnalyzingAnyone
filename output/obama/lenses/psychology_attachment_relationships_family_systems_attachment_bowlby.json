@@ -1,0 +1,194 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_relationships_family_systems_attachment_bowlby",
+  "constructs": [
+    {
+      "construct_key": "self_model",
+      "assessment": "积极自我模型：高自我效能感与适度谦逊并存，反映安全型内部工作模型",
+      "finding": "Obama展现出典型的安全依恋自我模型特征——既保持坚定的自我效能感，又具备反思性谦逊。在面对复杂政治挑战时，他表达出对美国人民韧性的信任而非自我怀疑（ev_004: 'I'm absolutely confident we will get there...because of you'）。他的告别演讲将成就归功于美国人民而非个人魅力，同时明确表示'you made me a better President, and you made me a better man'（ev_044），这种将自我价值与人际关系网络相连的表达方式，是安全依恋者在内部工作模型中将积极自我与积极他人相联结的典型体现。",
+      "evidence_ids": [
+        "ev_004",
+        "ev_044",
+        "ev_045",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "other_model",
+      "assessment": "积极他人模型：对制度和公民合作持信任态度，同时保持务实认知",
+      "finding": "Obama对他人可靠性的预期呈现安全型依恋的信任基础。他反复强调集体行动和美国人民的善良本质（ev_032: 'All of this progress is because of you'），表达对民主制度和公民参与的深层信任（ev_036: 'our founders trusted us with the keys to this system of self-government'）。同时，他对人性复杂性和制度局限有现实认知——如承认past trade deals' haven't always lived up to the hype（ev_027），这表明他的积极他人模型并非天真理想化，而是基于对历史证据的审慎整合。这种既能信任又能批判性评估的特质，是安全依恋者内部工作模型灵活性的体现。",
+      "evidence_ids": [
+        "ev_032",
+        "ev_036",
+        "ev_027",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "secure_base_functioning",
+      "assessment": "多层级安全基地：作为总统他提供安全基地，同时在个人层面从多元关系网络中汲取力量",
+      "finding": "Obama展现出安全依恋者特有的'安全基地'双向功能。作为总统，他主动为退伍军人（ev_038, ev_009）、老年群体（ev_001）和家庭提供系统性的支持结构。他描述的作为女儿篮球队助理教练经历（ev_007）揭示了其在私人领域使用安全基地的典型模式。更值得注意的是，他在演讲中反复将美国人民描述为自己的力量来源（ev_044, ev_004, ev_032），这表明他在意识层面理解并运用依恋关系作为心理资源的机制。这种在公共与私人领域均有意识地建立和依赖安全基地的模式，是获得性安全（earned security）的典型特征。",
+      "evidence_ids": [
+        "ev_038",
+        "ev_009",
+        "ev_001",
+        "ev_007",
+        "ev_044",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "高能动性：源于内在安全感的主动行动，而非防御性自立",
+      "finding": "Obama展现出安全依恋者的高能动性特征——主动塑造世界而非被动回应结构。他通过20多项行政行动推进'Year of Action'（ev_019），在国会僵局中主动寻求替代路径，展现出由内在安全感驱动的能动性而非回避型依恋者的防御性自立。区别在于：他的主动行动伴随着对协作和输入的开放性（ev_008跨党派呼吁），以及对批评意见的承认（ev_027），这与回避型依恋者表面高效实则封闭的模式形成对比。他的能动性服务于使命和关系双赢，而非以牺牲连接为代价追求自主。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_008",
+        "ev_027",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "开放型认知风格：对新信息敏感，兼具自信与审慎",
+      "finding": "Obama的认知风格呈现安全依恋者的典型特征——对证据和数据持开放态度，同时保持战略自信。他依赖具体数据构建论证（11 million jobs, 2.5 million jobs等精确数字，ev_025, ev_033），展现出对经验证据的尊重。同时，他承认认知局限和复杂性，如承认past trade deals的问题同时为新协议辩护（ev_027），表明他的信念形成是证据整合过程而非僵化教条。Obama愿意公开承认错误认知（'I'm the first to admit'）并调整立场，这与他整合的内部工作模型使他能够容忍认知不确定性相一致。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_025",
+        "ev_033",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "原则性控制：核心议题坚定立场，手段上展现灵活性",
+      "finding": "Obama在控制取向上的模式揭示了安全依恋者的灵活性。他展现出焦虑型依恋者缺乏的对核心原则的坚定——如债务上限问题上的明确拒绝谈判（ev_015: 'I will not negotiate over the full faith and credit of the United States'）和Dodd-Frank的veto威胁（ev_029）。然而，他在次级议题上表现出灵活性，如承认贸易协议的复杂性并调整立场（ev_027），以及跨党派预算协议被其称为'Christmas miracles'（ev_048）。这种在核心价值上坚定但方法上灵活的平衡，体现了安全依恋者因内部安全感而具备的调控能力，而非焦虑型的过度控制或回避型的情感撤退。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_027",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "使命优先但关系可修复：长期目标优先于即时关系舒适",
+      "finding": "Obama在使命与关系张力中展现安全依恋者的整合模式。他明确表示愿意承担政治代价推进使命——如推动TPP即使面对'not living up to the hype'的批评（ev_027, ev_031），以及面对国会反对仍坚持气候协议（ev_041）。然而，他的'not_applicable'特质在于：他表达对批评者的尊重（ev_020承认国会阻碍但未妖魔化），将成就归功于'you—the American people'（ev_032），表明他的使命追求不涉及牺牲关系或将他者去人性化。告别演讲中呼吁跨党派公民参与（ev_046）进一步证实他追求的是使命与关系的长期整合，而非任一维度的极端化。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_031",
+        "ev_041",
+        "ev_020",
+        "ev_032",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "长期愿景导向的风险承担：基于信心的战略性冒险",
+      "finding": "Obama的风险态度反映安全依恋者因拥有安全基地而具备的长期视野和风险承担能力。他推动巴黎气候协议等长期赌注，辩称'something to build upon'（ev_041），以及癌症moonshot项目（ev_042-43），展现出对跨期收益的战略偏好。他承认结果不确定但基于价值承诺行动——'if we keep pushing...there's no doubt that together, we can leave a better, cleaner, safer future for our children'（ev_041）。这与不安全依恋者的风险扭曲不同：焦虑型因即时安全需求而规避风险，回避型因对关系的不信任而避免投入。Obama的模式表明他的安全基地支持其进行战略性长期冒险。",
+      "evidence_ids": [
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "服务导向的权力观：权威作为责任而非特权",
+      "finding": "Obama对权力和权威的态度反映了安全依恋者的整合模式。他明确将总统权力定义为责任——'I have no more solemn obligation than leading our men and women in uniform'（ev_038），以及承诺'care for veterans and Gold Star families'。他的权力行使服务于保护性功能而非支配性目的，如建立消费者金融保护局追回110亿美元（ev_028）。同时，他对权威持批判性认知——批评国会程序阻挠（ev_010），区分伊斯兰与恐怖主义（ev_012），表明他的权力观不涉及盲目服从或支配。这种服务导向而非利用导向的权力关系模式，是安全依恋者在成熟发展阶段的典型表现。",
+      "evidence_ids": [
+        "ev_038",
+        "ev_028",
+        "ev_010",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "建设性对抗：直接立场表达后寻求修复",
+      "finding": "Obama的冲突处理策略呈现安全依恋者的成熟模式。他在核心议题上直接对抗——点名批评共和党阻挠（ev_020: 'Republicans in Congress have blocked'），发布veto威胁（ev_029），但始终保持对关系修复的承诺。他使用跨党派联盟策略——交通法案时联合AFL-CIO和商会（ev_008），将政治对手称为'run out of excuses'而非敌人（ev_023）。告别演讲呼吁超越党派'not just when our own narrow interest is at stake'（ev_046），展现冲突后寻求整合而非分裂持续的意愿。这与焦虑型（过度激活情绪）、回避型（情感撤退）或偏执型（对抗-分裂模式）的冲突策略形成对比。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_023",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "跨代际视野：关注遗产和长期制度建设",
+      "finding": "Obama展现出安全依恋者因信任长期关系而具备的长时间视野。他反复使用遗产语言——'leave a better, cleaner, safer future for our children'（ev_041），'build upon'气候变化协议，以及癌症moonshot等长期科学项目。他对制度建设而非短期修补的偏好——ACA增加Medicare稳定期12年（ev_002），Dodd-Frank设立永久性监管结构（ev_028）——表明其时间视野延伸至卸任之后。他对公民参与的呼吁也超越选举周期——'not just when there's an election...but over the full span of a lifetime'（ev_046）。这种跨代际思考是安全依恋者内部工作模型稳定性和对未来信任的体现。",
+      "evidence_ids": [
+        "ev_041",
+        "ev_002",
+        "ev_028",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "系统改革导向：偏好结构性解决方案",
+      "finding": "Obama的政策偏好呈现安全依恋者对系统变革而非局部修补的倾向。他推动ACA作为医疗体系的结构性改革（ev_001），Dodd-Frank作为金融监管的全面重塑（ev_028），以及跨党派教育法案（ev_048）作为系统性解决方案。他在基础设施（交通法案）、能源（能源蓝图）和贸易（TPP）上的政策都体现系统思维。面对sequester危机时，他主张'balanced, comprehensive approach'（ev_013）而非短期补丁。他的结构性偏好不等于回避型依恋的'切断重建'——他的系统改革包含对现有关系的整合（如医疗保险保留），而是建设性的系统升级。",
+      "evidence_ids": [
+        "ev_001",
+        "ev_028",
+        "ev_013",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "高度元认知：对自身成长和关系影响的反思性觉察",
+      "finding": "Obama展现出安全依恋者特有的反思性元认知能力。他对自己的成长经历有清晰且整合的叙述——'I grew up without my father around...I felt his absence. And I wonder what my life would have been like had he been a greater presence'（ev_006）。这种将早期关系经历纳入自我叙事的整合程度，是'获得性安全'的核心指标。他在告别演讲中明确表达对人际影响的觉察——'Every day, I learned from you...you made me a better President, and you made me a better man'（ev_044）。更值得注意的是，他对自己元认知局限的承认——'I'm the first to admit that past trade deals haven't always lived up to the hype'（ev_027）——表明他的反思不仅是回顾性的自我肯定，也包括对自身盲点的诚实评估。这种高阶自我觉察是他整合性内部工作模型的标志。",
+      "evidence_ids": [
+        "ev_006",
+        "ev_044",
+        "ev_027",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "fathers_absence_integrated_model",
+      "definition": "父亲缺失背景下的安全依恋发展路径：原始安全基地缺失但通过替代性关系网络建立安全感的机制",
+      "finding": "Obama的成长经历提供了Bowlby原始框架的重要延伸案例。他两岁时父亲离开（ev_006），构成了Bowlby意义上原始安全基地的早期断裂。然而，他的演讲和行为揭示了通过多元替代关系网络（母亲、祖父母、导师）补偿性建立安全感的路径。他的整合叙事——'I felt his absence. And I wonder what my life would have been like had he been a greater presence'——表明他对这一缺失进行了反思性整合而非否认或理想化。这种'替代性安全基地网络'模式和整合性叙事能力，可能是父亲缺失背景下发展出安全依恋的关键机制，为Bowlby理论提供了关于安全基地可迁移性和多源性的实证支持。",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "earned_security_through_public_service",
+      "definition": "通过公共服务和政治领导获得安全：公共角色如何成为依恋安全感的来源和表达渠道",
+      "finding": "Obama案例揭示了安全依恋发展的另一种可能路径：通过公共服务和集体领导角色'获得性安全'。他在演讲中反复将美国人民描述为自己的力量来源和'安全基地'——'my conversations with you...are what have kept me honest, kept me inspired, and kept me going'（ev_044）。这种将公共关系体验为心理安全来源的模式，在Bowlby框架中未被充分探讨。他的父亲缺失后，他可能发展出一种将安全基地功能外部化到集体关系中的补偿机制。这对于理解领导者的依恋模式如何影响其治理风格，以及公共角色如何成为个人安全感的来源，具有重要的理论意义。",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_032",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

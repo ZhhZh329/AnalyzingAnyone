@@ -1,0 +1,84 @@
+{
+  "discipline": "medicine",
+  "lens": "sleep_circadian_medicine",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Not applicable - insufficient behavioral evidence on recovery patterns",
+      "finding": "The provided evidence consists entirely of policy speeches addressing Medicare, financial regulation, energy policy, trade agreements, and climate change. No statements or observable behaviors relate to how Obama manages sleep, recovery, or circadian rhythms. Without evidence of him acting as a world-shaper specifically through recovery behaviors versus structure-responder to fatigue signals, this construct cannot be assessed through this dataset. The lens explicitly requires evidence about sleep时长、自述疲劳、驻厂通宵、夜间工作、频繁跨时区、长期作息紊乱, none of which appear in the provided materials.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Not applicable - no behavioral data on sleep cognition",
+      "finding": "The evidence shows Obama articulating policy positions with nuance (e.g., acknowledging past trade deals 'haven't always lived up to the hype' while defending TPP), but provides no data on how he forms beliefs about his own physiological state. There is no evidence of him discountingt身体反馈, recognizing fatigue debt, or updating beliefs about sleep needs based on experience. The epistemic style construct requires insight into whether someone updates beliefs about recovery needs — this data does not contain such indicators.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Not applicable - no evidence linking formalization to recovery",
+      "finding": "The evidence demonstrates Obama's high abstraction capacity in articulating economic philosophy ('middle-out'), policy frameworks, and systemic solutions (e.g., bipartisan coalitions, Presidential Innovation Fellows for tech modernization). However, there is no evidence of him applying this formalization tendency to recovery management — such as treating sleep as a schedulable variable, attempting to optimize rest through systematic planning, or viewing the body as a linear system to be engineered. The abstraction_formalization dimension requires evidence that this cognitive style extends to circadian management, which the available materials do not provide.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Not applicable - no recovery-focused control evidence",
+      "finding": "Obama demonstrates strong control orientation in policy contexts — refusing to negotiate over debt ceiling (ev_015), issuing veto threats against Wall Street Reform repeal (ev_029), and taking executive actions in 'Year of Action' (ev_019). However, there is no evidence of him exercising control over recovery systems, circadian boundaries, or sleep patterns. The control_orientation construct in this lens specifically asks whether someone attempts to directly compress basic physiological needs through意志; the provided evidence addresses political control, not physiological self-regulation.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Not applicable - no recovery sacrifice evidence",
+      "finding": "The evidence shows Obama prioritizing mission over relational comfort in political contexts — pressing for transportation bills at deadlines, declaring 'Year of Action' against Congressional opposition, and framing veto positions definitively. However, the mission_vs_relational_cost construct in Sleep and Circadian Medicine specifically asks whether someone sacrifices sleep and recovery for mission completion. No evidence in this dataset addresses whether Obama has traded rest for policy goals, maintained extended work hours that compress recovery, or prioritized deliverables over sleep. The materials document policy advocacy, not personal recovery behavior.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Not applicable - no sleep-related risk evidence",
+      "finding": "Obama's risk posture is observable in policy contexts — he refused to negotiate on debt ceiling, issued definitive veto threats, and framed sequester consequences in stark terms. However, there is no evidence of how he assesses risks of sleep debt, circadian misalignment, or chronic fatigue on judgment and function. The risk_posture construct in this lens specifically requires evidence of系统性低估睡眠不足对判断、功能和长期健康的风险. The available materials address political risk assessment, not physiological risk calibration around recovery.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Not applicable - no recovery hierarchy evidence",
+      "finding": "Obama demonstrates clear relationship with political hierarchy — demanding 90-day up-or-down votes on nominations (ev_010), challenging Senate obstruction, and framing bipartisan coalitions. However, there is no evidence of how he relates to organizational hierarchy in recovery contexts — such as whether he extends personal recovery expectations to staff, normalizes compressed sleep as leadership norm, or uses positional power to override recovery boundaries. The materials address political power dynamics, not recovery-based authority patterns.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Not applicable - no recovery conflict evidence",
+      "finding": "Obama's conflict strategy is visible in political negotiations — refusing to negotiate over debt ceiling, criticizing Republican obstruction, and framing bipartisan deals as 'Christmas miracles.' However, no evidence addresses how he handles conflicts around recovery demands — whether he adjusts rhythms when challenged, temporarily repairs versus escalates, or interprets recovery concerns as意志不足. The materials document political conflict resolution, not personal recovery boundary management.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Not applicable - no recovery temporal evidence",
+      "finding": "Obama demonstrates both short and long-term orientation in policy — urgent deadline framing (7 days for transportation funding, 8 days for student loan rates) alongside long-term investments (Paris climate agreement, 12-year Medicare solvency extension, cancer moonshot). However, no evidence addresses whether he optimizes recovery for短期推进 versus长期可持续性, or whether his temporal orientation extends to circadian investment patterns. The materials show political time horizon, not personal recovery time management.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Not applicable - no recovery repair evidence",
+      "finding": "Obama shows rebuild tendencies in policy — pushing for comprehensive immigration reform, balanced deficit reduction, and structural solutions to climate change. However, no evidence addresses his recovery repair strategy — whether he builds sustainable circadian structures after breakdown or relies on short-term补觉修补. The materials document policy architecture, not personal recovery system design.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Not applicable - no sleep self-awareness evidence",
+      "finding": "Obama demonstrates metacognitive awareness in political contexts — acknowledging limitations ('I'm the first to admit that past trade deals haven't always lived up to the hype'), crediting collective action over personal credit ('All of this progress is because of you'), and reflecting on learning from diverse Americans ('Every day, I learned from you'). However, no evidence addresses his awareness of fatigue boundaries, circadian失调 signals, or recovery needs. The materials show political self-reflection, not physiological self-monitoring around sleep.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": []
+}

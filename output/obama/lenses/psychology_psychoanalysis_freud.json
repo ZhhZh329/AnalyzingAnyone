@@ -1,0 +1,177 @@
+{
+  "discipline": "psychology",
+  "lens": "psychoanalysis_freud",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping agency channeled through institutional structures rather than raw personal power; mission-driven but constrained by constitutional limits",
+      "finding": "Obama displays pronounced agentic orientation through repeated use of executive actions to shape policy when Congressional obstruction blocked legislative pathways. His 'Year of Action' (2014) with over 20 executive orders demonstrates active world-shaping, as does his assertion that he would 'not negotiate over the full faith and credit of the United States' regarding the debt ceiling. However, his agency operates primarily through institutional mechanisms— ACA reform, Dodd-Frank implementation, Paris climate agreement—suggesting a mature ego function that channels drive into structurally legitimate forms rather than personal accumulation of power. His frequent appeals to bipartisanship and coalition-building (AFL-CIO with Chamber of Commerce) indicate his agency seeks legitimate rather than dominating expression, consistent with mature superego integration.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_015",
+        "ev_008",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integration of rational analysis with moral idealism; evidence-based but avoiding cynical detachment",
+      "finding": "Obama's epistemic style shows mature integration rather than pathological isolation of affect. He repeatedly grounds arguments in empirical data (11 million jobs created, 57 months of growth, $11 billion recovered for consumers) while simultaneously framing these statistics in moral terms about opportunity and fairness. His acknowledgment that 'past trade deals haven't always lived up to the hype' demonstrates capacity to hold complexity without defensive denial. His stated faith that 'our economy depends on a financial system in which everyone competes on a level playing field' reflects ethical idealism integrated with policy pragmatism. This represents sublimated epistemic activity—cognitive functions serving moral purposes rather than pure defensive intellectualization.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_004",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization channeled toward constructive institutional design rather than defensive isolation",
+      "finding": "Obama consistently operates through formal policy frameworks—ACA as structural Medicare reform, Dodd-Frank as regulatory architecture, energy blueprint with specific 2025 targets. His 'middle-out' economic philosophy represents sophisticated abstraction translating into policy proposals. His abstraction appears driven by sublimatory channeling toward systemic problem-solving rather than defensive isolation: he moves from personal observation to institutional reform, using formal mechanisms (CFPB, federal contracting requirements) to implement values. His government modernization initiative leveraging Silicon Valley partnerships shows sophisticated integration of technological systems thinking with democratic governance values.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_021",
+        "ev_028",
+        "ev_004",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation oriented toward protective structures rather than personal domination",
+      "finding": "Obama's control orientation manifests primarily through institutional protection of vulnerable populations rather than personal power-seeking. His commitment that 'as long as I am President, that's a commitment this country is going to keep' regarding Medicare reflects protective control over social institutions. His executive orders on minimum wage for federal contractors and repeated calls for structural reforms show control channeled into regulatory frameworks. Notably absent are signs of authoritarian control drives or obsessive-compulsive control patterns. His veto threat against Wall Street Reform repeal suggests firmness on principle rather than need for personal control. The evidence points to mature ego functioning directing control toward protective institutional design rather than primitive control needs.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_017",
+        "ev_029",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with notable personal cost absorption; sustained drive despite opposition",
+      "finding": "Obama demonstrates pronounced mission orientation throughout his presidency—ACA implementation described as 'proudest achievement' in farewell, Cancer Moonshot initiated with personal commitment, unwavering defense of Dodd-Frank and healthcare reform despite Republican opposition. His 'Year of Action' declaration came specifically because 'Republicans in Congress have blocked or voted down every serious idea.' He explicitly prioritized policy goals over immediate relational comfort with political opponents. However, his mission orientation appears sublimated rather than drive-based: he consistently attributes accomplishments to collective action ('All of this progress is because of you—because of workers') rather than personal ambition. His repeated framing of bipartisanship appeals suggests conscious balancing of mission with relational costs, not obliviousness.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_001",
+        "ev_029",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking channeled through institutional frameworks; confidence grounded in data",
+      "finding": "Obama's risk posture reflects mature ego functioning with Eros-driven constructive engagement. He undertook significant political risks with ACA (healthcare overhaul), Dodd-Frank (financial regulation), and Paris climate agreement—all contested policies with uncertain outcomes. His statement that 'America is at war with al-Qaeda and its affiliates—and we will never be at war with Islam' represented calculated ideological risk-taking in post-9/11 context. His energy blueprint targeting one-third oil import reduction by 2025 reflects long-term risk investment. Critically, his risk-taking operates through institutional mechanisms rather than personal bravado. His consistent data-tracking (jobs created, deficits reduced, uninsured rates) suggests risk assessment through empirical evaluation rather than pure optimistic hoping. No evidence of Thanatos-driven self-destructive patterns.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_004",
+        "ev_002",
+        "ev_022",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Mature integration with hierarchical power; uses position for protective purposes rather than domination",
+      "finding": "As President, Obama demonstrates sophisticated integration with institutional hierarchy, using constitutional authority protectively rather than dominatively. His refusal to negotiate debt ceiling reflects principled use of constitutional position against legislative manipulation. His Memorial Day emphasis on 'no more solemn obligation than leading our men and women in uniform' and 'we have to be there for their families' reflects paternalistic protective stance toward military hierarchy. His repeated calls for Congressional action rather than unilateral power ('Congress should act') indicate respect for institutional balance. His fatherless childhood may provide transference backdrop: hierarchical authority is met with principled use rather than either rebellion or submission, suggesting resolved Oedipal dynamics or mature identification with institutional rather than personal father figures.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_038",
+        "ev_039",
+        "ev_026",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Constructive conflict translation with firm boundaries; seeks resolution over escalation",
+      "finding": "Obama's conflict strategy demonstrates mature aggression management through sublimation. He repeatedly translates partisan conflict into policy disagreements requiring structural solutions rather than personal antagonism. His condemnation of Senate obstruction as contrary to founders' intent reframes conflict as constitutional rather than partisan. His 'I will veto it' stance on Wall Street Reform repeal shows clear boundaries without aggressive escalation. His bipartisan budget celebration as 'Christmas miracles' reveals capacity to appreciate opposition cooperation without vindictiveness. Notably, when stating Republican obstruction 'run out of excuses,' the frustration targets policy positions rather than character. This pattern suggests constructive translation of aggressive impulses into policy advocacy rather than suppression or passive aggression.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_029",
+        "ev_048",
+        "ev_020",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term institutional time horizon; mission-scale optimization",
+      "finding": "Obama operates consistently on extended time horizons oriented toward structural legacy. His eight-year policy agenda built toward transformative institutional changes: ACA extending Medicare solvency 12+ years, energy blueprint targeting 2025, climate agreements framed as legacy for children. His deficit reduction framing ('fastest rate since World War II') reflects macro-historical time orientation. His farewell emphasis on sustained civic engagement 'over the full span of a lifetime' suggests presidential time horizon extended beyond personal tenure. The Paris agreement, Iran nuclear deal, and TPP all operate on decadal timescales. This sustained long-term orientation reflects mature ego functioning capable of delay of gratification and identification with transgenerational institutional continuity.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_016",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair; comprehensive approach prioritized",
+      "finding": "Obama consistently prefers systemic redesign over piecemeal solutions. His ACA represented fundamental healthcare system restructuring, not incremental coverage expansion. His Dodd-Frank established comprehensive regulatory architecture, not targeted fixes. His deficit reduction advocacy called for 'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code.' His 'middle-out' economic philosophy is structural rather than trickle-down modification. His transportation bill advocacy framed infrastructure as systemic necessity ('nearly 1 million jobs over next year'). His government modernization initiative sought fundamental tech transformation. This pattern indicates either sophisticated ego appreciation of structural interdependencies or sublimatory drive toward transformative creation. Limited evidence of compulsive rebuilding patterns suggesting psychopathology.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_028",
+        "ev_037",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with nuanced self-reflection and capacity for acknowledged limitation",
+      "finding": "Obama demonstrates notable metacognitive capacity throughout his addresses. His admission that 'past trade deals haven't always lived up to the hype' shows capacity to acknowledge policy limitations. His farewell reflection that conversations with Americans 'kept me honest, kept me inspired' indicates self-awareness of cognitive influence sources. His expressed uncertainty ('I'm confident we'll get there') holds hope without defensive certainty. His father absence acknowledgment represents psychological insight into formative experience. His 'Year of Action' declaration responded to Congressional obstruction—showing situational awareness and adaptive strategy adjustment. This metacognitive access appears genuine rather than defensive rationalization: he can acknowledge systemic limitations while maintaining forward commitment. The pattern suggests high ego strength with integrated self-awareness rather than primitive defensive distortions.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_004",
+        "ev_006",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "paternal_transformation_drive",
+      "definition": "Channeling of absent-father wounding into protective institution-building for 'family' of citizens; compensation through being present where own father was absent",
+      "finding": "Obama's explicit autobiographical disclosure of father absence ('I grew up without my father around. He left when I was two years old... I wonder what my life would have been like had he been a greater presence') combined with his consistent orientation toward protective institutional care for citizens suggests transformation of paternal loss into paternal provision. His Father's Day address announcing White House partnerships to 'support fatherhood bonding opportunities' frames paternal presence as institutional value. His ACA commitment ('Medicare is a commitment to America's seniors') and veteran hiring initiatives represent sublimated paternal provision. His role as assistant coach for daughter's basketball team directly embodies being present for children in ways his own father was not. This emergent dimension captures how father absence may drive compensatory mission orientation toward protecting and providing for the national 'family' through structural social programs.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_001",
+        "ev_009",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "affirmative_political_idealism",
+      "definition": "Sustained Eros-driven commitment to American democratic idealism as psychological structure; faith-based optimism serving ego function of meaning-making",
+      "finding": "Obama demonstrates unusual integration of political idealism as ego-supporting structure. His persistent framing that 'America's resurgence is real,' 'love won,' and 'our founders trusted us with the keys to this system of self-government' reflects Eros-driven investment in democratic possibility. This idealism appears to serve psychological function: sustaining meaning and forward movement against political obstacles. His farewell declaration that 'I am even more optimistic about our country's promise' despite partisan opposition suggests idealization serving as psychological resource. His attribution of all accomplishments to 'the American people' and call for civic participation 'over the full span of a lifetime' reflects investment in collective over personal, channeling drive toward democratic participation. This affirmative idealism may represent both genuine political philosophy and psychological structure serving meaning-making and forward engagement against frustration.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_035",
+        "ev_036",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

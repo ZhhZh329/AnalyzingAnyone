@@ -1,0 +1,172 @@
+{
+  "discipline": "psychology",
+  "lens": "clinical_psychodynamic_psychology_trauma_repetition_patterns",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High, integrated, and constructively oriented toward democratic participation rather than personal dominance",
+      "finding": "Obama demonstrates remarkably integrated agency throughout his presidency. Rather than exhibiting trauma-driven control (compensating for perceived lack of power), his agency appears mature and relationally embedded. He issues executive orders (ev_017) but consistently frames these as responses to Congressional obstruction rather than power grabs. In his farewell address (ev_044), he explicitly credited the American people for making him 'a better President and better man,' demonstrating agency-within-relationship rather than agency-as-compensation. He coaches his daughter's basketball team (ev_007), issues challenges to private companies (ev_009), and calls for civic participation (ev_046)—all forms of distributed agency that contrast sharply with trauma-driven patterns of either hyper-control or collapse. The father absence he disclosed (ev_006) appears to have catalyzed constructive rather than defensive agency, possibly because it was embedded in a supportive extended family environment.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_017",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with demonstrated intellectual honesty about complexity and limitations",
+      "finding": "Obama's epistemic style shows none of the hallmarks of trauma-distorted cognition (threat-detection override, black-white thinking, hypervigilance to betrayal cues). He grounds claims in evidence (ev_025: job creation statistics; ev_028: $11 billion consumer recovery; ev_040: 30x solar growth) while acknowledging nuance and limits. Critically, he demonstrates intellectual honesty about failure: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He distinguishes between al-Qaeda and Islam (ev_012), showing sophisticated threat categorization absent from paranoid or threat-saturated cognition. His epistemic style reflects the integration expected in post-traumatic growth—able to hold complexity, admit uncertainty, and update views based on evidence rather than defensive certainty.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high; capable of sustained systemic analysis while maintaining concrete human focus",
+      "finding": "Obama demonstrates comfort with high-level policy abstraction (ev_021: 'middle-out' economic philosophy; ev_018: 'restoring opportunity for all') alongside consistent emphasis on concrete human impact. He documents specific Head Start cuts, senior Meals on Wheels recipients, military families (ev_014), and actual job numbers. This balance suggests sophisticated formalization capacity—able to think in systems without losing human particulars—that is characteristic of mature post-traumatic integration rather than trauma-driven either/or thinking (concrete survival vs. abstract numbing). His government modernization initiative (ev_037) explicitly bridged Silicon Valley technical expertise with bureaucratic reform, demonstrating abstraction-with-application rather than either rigid systematization or chaotic particularity.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Firm principles with flexible tactics; not compensatory hyper-control",
+      "finding": "Obama exhibits principled control on certain non-negotiable issues (debt ceiling: ev_015; Wall Street Reform: ev_029) while demonstrating flexibility in achieving policy goals. He does not show the rigidity characteristic of trauma-driven control (inflexible rules, panic if deviations occur). When Congress blocked minimum wage (ev_020), he pivoted to executive action for federal contractors (ev_017). His 'I will not negotiate over the full faith and credit' statement reflects firm principle rather than control anxiety. His consistent coalition-building across ideological lines (ev_008: AFL-CIO and Chamber of Commerce; ev_037: bipartisan government modernization) demonstrates control-through-consensus rather than control-through-dominance. The absence of rigid ritual, compulsive organization, or panic at control loss suggests his control orientation is integrated rather than trauma-compensatory.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_020",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven but with consistent relational orientation; no evidence of mission-above-all cost tolerance",
+      "finding": "Obama prioritizes mission (veteran hiring: ev_009; climate action: ev_041; consumer protection: ev_028) but consistently maintains relational bridges. He criticizes Republican obstruction (ev_020) but frames it as institutional critique rather than enemy dehumanization. His farewell emphasized that his conversations with Americans 'in living rooms and schools; at farms and on factory floors; at diners' (ev_044) made him a better president—not sacrificed relationships to mission. His Father’s Day address (ev_005, ev_006) explicitly rejected the pattern of father absence. The Memorial Day address (ev_038, ev_039) called for remembrance through concrete relational acts—'reach out to a Gold Star Family,' 'listen to the story they have to tell.' This suggests mission commitment embedded within relational responsibility rather than mission-as-escape-from-relationship, a pattern sometimes seen in trauma-driven high-achievement.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006",
+        "ev_009",
+        "ev_020",
+        "ev_038",
+        "ev_039",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated, forward-moving risk tolerance without evidence of numbing or avoidance",
+      "finding": "Obama shows neither the hypervigilant avoidance characteristic of traumatized individuals nor the compulsive risk-taking associated with trauma-driven numbness-seeking. His Iran nuclear deal (ev_034) and Paris climate agreement (ev_041) represent significant diplomatic risks undertaken after calculated assessment. He took political risk supporting auto industry rescue (ev_022) and ACA (ev_001, ev_002) despite opposition. His Cancer Moonshot (ev_042, ev_043) represents long-odds scientific investment. In none of these does he show the 'why am I doing this' dissociative quality or the 'nothing can hurt me' numbness of trauma-driven risk posture. His risk-taking is consequential, forward-looking, and embedded in relational accountability—characteristics of post-traumatic growth rather than trauma-driven behavior.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_022",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Authority-embracing but accountability-oriented; power as service rather than dominance",
+      "finding": "Obama exercises presidential authority clearly (veto threats: ev_029; executive orders: ev_017; directive style: ev_009) while consistently framing power in relational and service terms. His 'I have no more solemn obligation' framing (ev_038) positions authority as fiduciary responsibility. His attribution of accomplishments to collective action (ev_032: 'it's you—the American people') and bipartisan cooperation (ev_048: 'Christmas miracles in Washington') suggests healthy relationship to hierarchy—able to use power effectively without being colonized by it. No evidence of either trauma-driven submission to authority (compliance, fear of retaliation) or trauma-driven domination patterns (using power to recreate dominance/submission dynamics). The father absence, which could have generated either hyper-deference to absent authority or compensatory dominance, instead seems to have produced neither—suggesting either successful early relational repair or resilient integration.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_029",
+        "ev_032",
+        "ev_038",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of obstruction with simultaneous relational bridge-maintenance",
+      "finding": "Obama's conflict strategy shows none of the trauma-typical freeze/flight patterns (avoidance, silence, sudden withdrawal) nor trauma-driven splitting (demonization of opponents). When Senate blocked judicial nominees, he criticized 'gumming up the works' (ev_010) as contrary to founders' intent—not personal attack. When Republicans blocked legislation (ev_020), he enumerated specific blocked bills rather than demonizing individuals. He issued veto threats (ev_029) while simultaneously calling for bipartisan cooperation. His sequester response (ev_014) humanized affected populations rather than demonizing opponents. This calibrated confrontation-without-demonization suggests secure-enough attachment allowing direct acknowledgment of conflict while maintaining opponent-as-person relationship. The absence of splitting, silent treatment, or sudden escalation suggests trauma integration rather than unprocessed conflict avoidance.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Exceptionally long-term oriented across all time scales with emphasis on intergenerational responsibility",
+      "finding": "The trauma framework notes that trauma compresses time to 'now immediate survival.' Obama's temporal orientation dramatically contradicts this pattern. He operates simultaneously on: immediate crisis timelines (sequester deadlines: ev_011; transportation funding: ev_009); medium-term policy horizons (ACA implementation: ev_001; energy security by 2025: ev_005); and intergenerational legacy (ev_041: 'leave a better, cleaner, safer future for our children'; climate change across decades). His Cancer Moonshot (ev_042) explicitly references a 45-year initiative from Nixon. His Year of Action (ev_015) balanced immediate executive action with long-term structural change. This multi-temporal integration—with emphasis on 'what we'll leave our children'—suggests healthy temporal extension characteristic of post-traumatic growth rather than trauma-driven present-focused survival.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_009",
+        "ev_011",
+        "ev_015",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for systemic/institutional redesign over incremental fixes",
+      "finding": "Obama consistently demonstrates preference for structural change over patch solutions. His ACA represents comprehensive healthcare system redesign, not incremental coverage expansion (ev_001: 'reform the health care system,' not just 'improve coverage'). Dodd-Frank represents fundamental financial regulatory reconstruction (ev_028: creating new Consumer Financial Protection Bureau). The Cancer Moonshot (ev_042, ev_043) explicitly aims for 'clear strategy' rather than incremental research funding. His energy policy calls for 'Blueprint for a Secure Energy Future' (ev_005) involving multiple interconnected systems. Even his government modernization effort (ev_037: Presidential Innovation Fellows creating new infrastructure) represents structural redesign. This pattern appears consistent, not selective—suggesting genuine systemic thinking rather than trauma-driven 'rebuild everything because nothing is safe' hyper-reconstruction. His acknowledgment of past trade deal limitations (ev_027) shows nuanced rather than catastrophic relationship to partial successes.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_005",
+        "ev_027",
+        "ev_028",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Exceptionally high; sophisticated awareness of own role, limitations, and relational impact",
+      "finding": "Obama's metacognitive capacity appears unusually developed for public figures. He explicitly credited others for his growth: 'Every day, I learned from you. You made me a better President' (ev_044). He acknowledged past failures honestly (ev_027: past trade deals 'haven't always lived up to the hype'). He showed awareness of his own historical moment: 'Eight years later, I am even more optimistic about our country's promise' (ev_047). His consistent attribution of accomplishments to collective action suggests awareness of his own positionality—not claiming personal heroism. His father narrative—'I wonder what my life would have been had he been a greater presence' (ev_006)—shows reflective processing of early experience. In trauma framework terms, he demonstrates ability to distinguish current reality responses from past wound activation (what Herman calls 'connecting the past to the present'). His explicit call for sustained civic engagement 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046) suggests metacognitive awareness of his own potential for engagement fatigue. This level of self-reflection is rare and strongly suggests post-traumatic integration.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Restorative Relational Agency",
+      "definition": "A developmental pattern where early experiences of relational absence or loss catalyze not defensive compensation but constructive orientation toward providing what was missing—for oneself and others. Distinct from trauma-repetition in that it moves toward healing integration rather than unconscious reenactment. Distinguished from shared_constructs: not mere agency_orientation (it's specifically relational-mission) and not conflict_strategy (it's about constructive response to perceived absence).",
+      "finding": "Obama's father absence at age two (ev_006) appears to have generated a consistent pattern of constructive relational orientation. His Father's Day address explicitly shared this experience and announced partnerships to support fatherhood. His constant emphasis on 'being there'—for veterans' families (ev_038, ev_039), for children through Head Start and education (ev_014), for the middle class—suggests a coherent, sustained commitment to providing relational presence that he experienced as absent. His statement 'whether we've seen eye-to-eye or rarely agreed at all, my conversations with you...are what have kept me honest, kept me inspired, and kept me going' (ev_044) positions relational connection as his primary sustenance and accountability mechanism. His farewell's 'I look forward to working along your side, as a citizen' (ev_047) suggests this pattern will continue post-presidency. This restorative orientation—transforming personal absence into commitment to presence-availability for others—appears as a coherent theme across the entire data set and may represent the core dynamic underlying his constructively-integrated profile across all other dimensions.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_039",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

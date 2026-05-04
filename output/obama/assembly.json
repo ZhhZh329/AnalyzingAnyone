@@ -1,0 +1,963 @@
+{
+  "subject": "Barack Obama",
+  "timeline": [
+    {
+      "id": "evt_001",
+      "date": "2010-08-07",
+      "what": "President Obama delivered weekly address highlighting Medicare benefits under the Patient Protection and Affordable Care Act",
+      "context": "The ACA had extended Medicare solvency by at least 12 years and provided seniors with prescription drug coverage gap rebates",
+      "source_ids": [
+        "src_001"
+      ]
+    },
+    {
+      "id": "evt_002",
+      "date": "2010-10-23",
+      "what": "President Obama warned against GOP efforts to repeal Wall Street reform legislation",
+      "context": "Wall Street Reform (Dodd-Frank Act) established consumer protections, ended 'too big to fail' bailouts, and created a consumer watchdog",
+      "source_ids": [
+        "src_002"
+      ]
+    },
+    {
+      "id": "evt_003",
+      "date": "2011-01-08",
+      "what": "President Obama highlighted benefits of the December 2010 tax cut package",
+      "context": "Package included payroll tax cut ($1,000 for typical family), expanded child tax credit ($1,000 to 12M families), and $2,500 tuition tax credit",
+      "source_ids": [
+        "src_003"
+      ]
+    },
+    {
+      "id": "evt_004",
+      "date": "2011-04-02",
+      "what": "President Obama announced Blueprint for a Secure Energy Future",
+      "context": "Goal to cut oil imports by one-third by 2025; increase domestic drilling, fuel efficiency, and clean energy; involved Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo",
+      "source_ids": [
+        "src_004"
+      ]
+    },
+    {
+      "id": "evt_005",
+      "date": "2011-06-18",
+      "what": "President Obama delivered Father's Day address reflecting on fatherhood",
+      "context": "Shared personal experience growing up without his father; announced White House partnerships with businesses to support fatherhood bonding opportunities",
+      "source_ids": [
+        "src_005"
+      ]
+    },
+    {
+      "id": "evt_006",
+      "date": "2011-09-03",
+      "what": "President Obama called on Congress to extend the transportation bill",
+      "context": "Failure would cost nearly 1 million jobs over next year and nearly $1 billion in highway funding within 10 days; Congress had passed it seven times previously",
+      "source_ids": [
+        "src_006"
+      ]
+    },
+    {
+      "id": "evt_007",
+      "date": "2011-11-12",
+      "what": "President Obama delivered Veterans Day address from USS Carl Vinson in San Diego",
+      "context": "More than 850,000 veterans unemployed; challenged private companies to hire 100,000 post-9/11 veterans by 2013; Senate passed veteran hiring tax credits",
+      "source_ids": [
+        "src_007"
+      ]
+    },
+    {
+      "id": "evt_008",
+      "date": "2012-01-28",
+      "what": "President Obama delivered State of the Union address emphasizing economic blueprint",
+      "context": "Criticized Senate blocking of judicial nominees; called for banning congressional insider trading and 90-day up-or-down votes on nominations",
+      "source_ids": [
+        "src_008"
+      ]
+    },
+    {
+      "id": "evt_009",
+      "date": "2012-06-23",
+      "what": "President Obama urged Congress to pass transportation bill and prevent student loan rate doubling",
+      "context": "7 days until transportation funding expires; 8 days until 7.5 million students see loan rates double; bipartisan Senate passed transportation bill 52-22",
+      "source_ids": [
+        "src_010"
+      ]
+    },
+    {
+      "id": "evt_010",
+      "date": "2012-09-08",
+      "what": "President Obama marked 11th anniversary of September 11th attacks",
+      "context": "Announced end of Iraq war by year's end; ongoing transition in Afghanistan to end by 2014; emphasized America is at war with al-Qaeda, not Islam",
+      "source_ids": [
+        "src_011"
+      ]
+    },
+    {
+      "id": "evt_011",
+      "date": "2013-02-09",
+      "what": "President Obama warned of March 1st sequester and called for balanced deficit reduction",
+      "context": "Sequester would cut national security, education, Head Start, cancer research; Obama advocated balanced approach of spending cuts and tax reform",
+      "source_ids": [
+        "src_013"
+      ]
+    },
+    {
+      "id": "evt_012",
+      "date": "2013-04-27",
+      "what": "President Obama called to replace sequester with balanced deficit reduction approach",
+      "context": "Sequester had caused Head Start program cuts, airport disruptions, military strain; temporary FAA fix passed but other cuts continued",
+      "source_ids": [
+        "src_014"
+      ]
+    },
+    {
+      "id": "evt_013",
+      "date": "2013-09-21",
+      "what": "President Obama warned of government shutdown and debt ceiling crisis",
+      "context": "September 30 budget deadline; debt ceiling must be raised; said he would not negotiate over full faith and credit of the United States",
+      "source_ids": [
+        "src_016"
+      ]
+    },
+    {
+      "id": "evt_014",
+      "date": "2014-02-15",
+      "what": "President Obama signed executive order raising federal contractor minimum wage to $10.10/hour",
+      "context": "Called on Congress to raise federal minimum wage nationwide; noted 6 states had already passed minimum wage increases",
+      "source_ids": [
+        "src_018"
+      ]
+    },
+    {
+      "id": "evt_015",
+      "date": "2014-05-03",
+      "what": "President Obama declared 'Year of Action' and highlighted executive actions taken",
+      "context": "Took more than 20 executive actions on jobs; Republicans blocked minimum wage, equal pay, unemployment insurance extension",
+      "source_ids": [
+        "src_019"
+      ]
+    },
+    {
+      "id": "evt_016",
+      "date": "2014-07-19",
+      "what": "President Obama emphasized workforce training and middle-class opportunity agenda",
+      "context": "Highlighted Delaware job training reform report; called for minimum wage, fair pay, paid family leave, immigration reform",
+      "source_ids": [
+        "src_020"
+      ]
+    },
+    {
+      "id": "evt_017",
+      "date": "2014-10-04",
+      "what": "President Obama visited Indiana manufacturing plant on National Manufacturing Day",
+      "context": "Manufacturing added 700,000+ jobs over 4.5 years; auto industry at 8-year high; called for minimum wage increase to $10.10",
+      "source_ids": [
+        "src_021"
+      ]
+    },
+    {
+      "id": "evt_018",
+      "date": "2014-12-20",
+      "what": "President Obama declared 'America's resurgence is real' in year-end address",
+      "context": "Strongest job growth year since 1990s; 11 million jobs over 57 months; auto industry strongest since 2005; America #1 producer of oil and gas",
+      "source_ids": [
+        "src_022"
+      ]
+    },
+    {
+      "id": "evt_019",
+      "date": "2015-02-21",
+      "what": "President Obama called for Congressional action on Trade Promotion Authority for TPP",
+      "context": "TPP would allow America to write global trade rules instead of China; included highest-ever labor and environmental standards",
+      "source_ids": [
+        "src_023"
+      ]
+    },
+    {
+      "id": "evt_020",
+      "date": "2015-07-25",
+      "what": "President Obama declared Wall Street Reform is working, vowing to veto any repeal",
+      "context": "5th anniversary of Dodd-Frank; nearly 26 million consumers recovered $11 billion from predatory practices; no taxpayer bailouts since passage",
+      "source_ids": [
+        "src_025"
+      ]
+    },
+    {
+      "id": "evt_021",
+      "date": "2015-10-10",
+      "what": "President Obama announced Trans-Pacific Partnership trade agreement",
+      "context": "5-year negotiation with 11 nations covering 40% of global economy; eliminated 18,000 foreign taxes on American goods; enforced labor standards",
+      "source_ids": [
+        "src_026"
+      ]
+    },
+    {
+      "id": "evt_022",
+      "date": "2015-12-19",
+      "what": "President Obama delivered 'Top 10 Things that Happened in 2015' address",
+      "context": "2.5 million jobs; uninsured rate below 10%; Paris climate agreement; Iran nuclear deal; Cuba relations; same-sex marriage; TPP; love won",
+      "source_ids": [
+        "src_027"
+      ]
+    },
+    {
+      "id": "evt_023",
+      "date": "2016-03-05",
+      "what": "President Obama announced trip to South by Southwest to seek government modernization ideas",
+      "context": "Government tech modernization efforts; Silicon Valley partnerships; easier health insurance enrollment; called for civic participation beyond elections",
+      "source_ids": [
+        "src_028"
+      ]
+    },
+    {
+      "id": "evt_024",
+      "date": "2016-05-28",
+      "what": "President Obama delivered Memorial Day address honoring fallen heroes",
+      "context": "Called for remembrance and support for Gold Star families; military families bearing visible and invisible wounds; duty to be there for families of fallen",
+      "source_ids": [
+        "src_029"
+      ]
+    },
+    {
+      "id": "evt_025",
+      "date": "2016-08-13",
+      "what": "President Obama highlighted climate change progress and called for continued action",
+      "context": "Wind power tripled, solar 30x; carbon pollution at 25-year low; Paris climate agreement with nearly 200 nations; auto fuel efficiency standards ahead of schedule",
+      "source_ids": [
+        "src_030"
+      ]
+    },
+    {
+      "id": "evt_026",
+      "date": "2017-01-14",
+      "what": "President Obama delivered farewell address in Chicago",
+      "context": "Called for continued civic participation; reflected on resilience of American people; declared cancer moonshot, ACA implementation as proudest achievements",
+      "source_ids": [
+        "src_032"
+      ]
+    }
+  ],
+  "evidence_cards": [
+    {
+      "id": "ev_001",
+      "source_id": "src_001",
+      "source_type": "official_speech",
+      "date": "2010-08-07",
+      "kind": "quote",
+      "summary": "Obama commits to strengthening Medicare for seniors",
+      "verbatim_quote": "Medicare isn't just a program. It's a commitment to America's seniors – that after working your whole life, you've earned the security of quality health care you can afford. As long as I am President, that's a commitment this country is going to keep.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address at White House archives; verbatim transcript",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_001"
+      ]
+    },
+    {
+      "id": "ev_002",
+      "source_id": "src_001",
+      "source_type": "official_speech",
+      "date": "2010-08-07",
+      "kind": "event",
+      "summary": "ACA extended Medicare solvency by 12+ years",
+      "verbatim_quote": "The steps we took this year to reform the health care system have put Medicare on a sounder financial footing. Reform has actually added at least a dozen years to the solvency of Medicare – the single longest extension in history",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address; verifiable through Medicare Trustees report cited",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_001"
+      ]
+    },
+    {
+      "id": "ev_003",
+      "source_id": "src_002",
+      "source_type": "official_speech",
+      "date": "2010-10-23",
+      "kind": "stance",
+      "summary": "Obama firmly opposed repealing Wall Street Reform",
+      "verbatim_quote": "I think that would be a terrible mistake. Our economy depends on a financial system in which everyone competes on a level playing field, and everyone is held to the same rules",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address; position on financial regulation clearly stated",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_002"
+      ]
+    },
+    {
+      "id": "ev_004",
+      "source_id": "src_003",
+      "source_type": "official_speech",
+      "date": "2011-01-08",
+      "kind": "quote",
+      "summary": "Obama emphasized shared American values and economic cooperation",
+      "verbatim_quote": "I'm absolutely confident we will get there. I am confident, first and foremost, because of you; because of the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address transcript; direct expression of presidential confidence",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_003"
+      ]
+    },
+    {
+      "id": "ev_005",
+      "source_id": "src_004",
+      "source_type": "official_speech",
+      "date": "2011-04-02",
+      "kind": "stance",
+      "summary": "Obama rejected drilling alone as sufficient energy security strategy",
+      "verbatim_quote": "Drilling alone is not a real strategy to replace our dependence on foreign oil. And that's because even though America uses 25 percent of the world's oil, we currently have only about 2 percent of the world's oil reserves.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address; stated at UPS facility in Maryland",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_004"
+      ]
+    },
+    {
+      "id": "ev_006",
+      "source_id": "src_005",
+      "source_type": "official_speech",
+      "date": "2011-06-18",
+      "kind": "quote",
+      "summary": "Obama shared personal experience of growing up without his father",
+      "verbatim_quote": "I grew up without my father around. He left when I was two years old, and even though my sister and I were lucky enough to have a wonderful mother and caring grandparents to raise us, I felt his absence. And I wonder what my life would have been like had he been a greater presence.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Personal reflection in Father's Day address; verifiable biographical fact",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_005"
+      ]
+    },
+    {
+      "id": "ev_007",
+      "source_id": "src_005",
+      "source_type": "official_speech",
+      "date": "2011-06-18",
+      "kind": "event",
+      "summary": "Obama served as assistant coach for daughter's basketball team",
+      "verbatim_quote": "So recently, I took on a second job: assistant coach for Sasha's basketball team. On Sundays, we'd get the team together to practice, and a couple of times, I'd help coach the games.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Personal anecdote from Father's Day address; characteristic detail of his parenting style",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_005"
+      ]
+    },
+    {
+      "id": "ev_008",
+      "source_id": "src_006",
+      "source_type": "official_speech",
+      "date": "2011-09-03",
+      "kind": "pattern",
+      "summary": "Obama repeatedly called on Congress for bipartisan action on transportation funding",
+      "verbatim_quote": "This isn't a Democratic or a Republican issue – it's an American issue. That's why, last week, I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address; cited broad coalition support",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_006"
+      ]
+    },
+    {
+      "id": "ev_009",
+      "source_id": "src_007",
+      "source_type": "official_speech",
+      "date": "2011-11-12",
+      "kind": "event",
+      "summary": "Obama issued challenge to hire 100,000 post-9/11 veterans and spouses",
+      "verbatim_quote": "I've directed the federal government to lead by example – and already, we've hired 120,000 veterans. We've also challenged private companies to hire or train 100,000 post-9/11 veterans or their spouses by the end of 2013.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address from USS Carl Vinson; numbers verifiable",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_007"
+      ]
+    },
+    {
+      "id": "ev_010",
+      "source_id": "src_008",
+      "source_type": "official_speech",
+      "date": "2012-01-28",
+      "kind": "quote",
+      "summary": "Obama condemned Senate obstruction tactics as contrary to founders' intent",
+      "verbatim_quote": "One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned. The truth is, neither party has been blameless in tactics like these. But it's time for both parties to put an end to them.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "State of Union follow-up address; direct critique of legislative process",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_008"
+      ]
+    },
+    {
+      "id": "ev_011",
+      "source_id": "src_010",
+      "source_type": "official_speech",
+      "date": "2012-06-23",
+      "kind": "event",
+      "summary": "Obama highlighted urgent dual deadlines for transportation and student loans",
+      "verbatim_quote": "Right now, we are seven days away from thousands of American workers having to walk off the job because Congress hasn't passed a transportation bill. We are eight days away from nearly seven and a half million students seeing their loan rates double because Congress hasn't acted to stop it.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Direct presidential address; stated concrete deadlines and affected numbers",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_009"
+      ]
+    },
+    {
+      "id": "ev_012",
+      "source_id": "src_011",
+      "source_type": "official_speech",
+      "date": "2012-09-08",
+      "kind": "stance",
+      "summary": "Obama distinguished between war on al-Qaeda and respect for Islam",
+      "verbatim_quote": "America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam or any other religion. We are the United States of America. Our freedom and diversity make us unique, and they will always be central to who we are as a nation.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Veterans Day-adjacent address; clear stance on religious tolerance in counterterrorism",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_010"
+      ]
+    },
+    {
+      "id": "ev_013",
+      "source_id": "src_013",
+      "source_type": "official_speech",
+      "date": "2013-02-09",
+      "kind": "quote",
+      "summary": "Obama outlined balanced approach to deficit reduction as preferred path",
+      "verbatim_quote": "My preference – and the preference of many Members of Congress – is to do that in a balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; clear statement of preferred deficit reduction methodology",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_011"
+      ]
+    },
+    {
+      "id": "ev_014",
+      "source_id": "src_014",
+      "source_type": "official_speech",
+      "date": "2013-04-27",
+      "kind": "pattern",
+      "summary": "Obama documented real human costs of sequester to push for replacement",
+      "verbatim_quote": "There are parents whose kids just got kicked out of Head Start programs scrambling for a solution. There are seniors who depend on programs like Meals on Wheels to live independently looking for help. There are military communities – families that have already sacrificed enough – coping under new strains.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; empathetic framing of sequester impact on vulnerable populations",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_012"
+      ]
+    },
+    {
+      "id": "ev_015",
+      "source_id": "src_016",
+      "source_type": "official_speech",
+      "date": "2013-09-21",
+      "kind": "stance",
+      "summary": "Obama refused to negotiate over debt ceiling under any circumstances",
+      "verbatim_quote": "The United States of America is not a deadbeat nation. We are a compassionate nation. We are the world's bedrock investment. And doing anything to threaten that is the height of irresponsibility. That's why I will not negotiate over the full faith and credit of the United States.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; definitive statement on debt ceiling negotiations",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_013"
+      ]
+    },
+    {
+      "id": "ev_016",
+      "source_id": "src_016",
+      "source_type": "official_speech",
+      "date": "2013-09-21",
+      "kind": "event",
+      "summary": "Obama confirmed deficits falling at fastest rate since World War II",
+      "verbatim_quote": "In fact, right now, our deficits are already falling at the fastest rate since the end of World War II. And by the end of this year, we'll have cut our deficits by more than half since I took office.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; statistical claim about deficit trajectory",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_013"
+      ]
+    },
+    {
+      "id": "ev_017",
+      "source_id": "src_018",
+      "source_type": "official_speech",
+      "date": "2014-02-15",
+      "kind": "event",
+      "summary": "Obama signed executive order requiring federal contractors to pay $10.10 minimum wage",
+      "verbatim_quote": "This week, I took action to lift more workers' wages by requiring federal contractors to pay their employees a fair wage of at least $10.10 an hour. These are workers who serve our troops' meals, wash their dishes, care for our veterans – Americans who work hard and will get a raise as these contracts come up.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; confirmed executive action on minimum wage",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_014"
+      ]
+    },
+    {
+      "id": "ev_018",
+      "source_id": "src_018",
+      "source_type": "official_speech",
+      "date": "2014-02-15",
+      "kind": "quote",
+      "summary": "Obama defined core opportunity agenda principle",
+      "verbatim_quote": "We've got to restore opportunity for all – the notion that no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; central campaign theme articulated",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_014",
+        "evt_015"
+      ]
+    },
+    {
+      "id": "ev_019",
+      "source_id": "src_019",
+      "source_type": "official_speech",
+      "date": "2014-05-03",
+      "kind": "event",
+      "summary": "Obama listed over 20 executive actions taken in 'Year of Action'",
+      "verbatim_quote": "And since January, I've taken more than 20 executive actions to do just that. I acted to raise more workers' wages by requiring that workers on new federal contracts earn a fair wage of at least $10.10 an hour",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; enumerated executive actions",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_015"
+      ]
+    },
+    {
+      "id": "ev_020",
+      "source_id": "src_019",
+      "source_type": "official_speech",
+      "date": "2014-05-03",
+      "kind": "pattern",
+      "summary": "Obama criticized Republican obstruction while asserting executive authority",
+      "verbatim_quote": "But so far this year, Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class. They've said 'no' to raising the minimum wage, 'no' to equal pay for equal work, and 'no' to restoring the unemployment insurance.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; explicit criticism of Congressional opposition",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_015"
+      ]
+    },
+    {
+      "id": "ev_021",
+      "source_id": "src_020",
+      "source_type": "official_speech",
+      "date": "2014-07-19",
+      "kind": "quote",
+      "summary": "Obama articulated 'middle-out' economic philosophy",
+      "verbatim_quote": "Our economy grows best not from the top-down, but from the middle-out. We do better when the middle class does better. So we have to make sure that we're not just creating more jobs, but raising middle-class wages and incomes.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; central economic philosophy clearly articulated",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_016",
+        "evt_017"
+      ]
+    },
+    {
+      "id": "ev_022",
+      "source_id": "src_021",
+      "source_type": "official_speech",
+      "date": "2014-10-04",
+      "kind": "event",
+      "summary": "Obama credited auto industry rescue for manufacturing renaissance",
+      "verbatim_quote": "During the last decade, people thought the decline in American manufacturing was inevitable. But we chose to invest in American auto industry and American workers. And today, an auto industry that was flatlining six years ago is building and selling new cars at the fastest pace in eight years.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address from Indiana manufacturing facility; auto bailout reference verifiable",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_017"
+      ]
+    },
+    {
+      "id": "ev_023",
+      "source_id": "src_021",
+      "source_type": "official_speech",
+      "date": "2014-10-04",
+      "kind": "pattern",
+      "summary": "Obama cited majority of small business owners supporting $10.10 minimum wage",
+      "verbatim_quote": "Recent surveys show that a majority of small business owners support a gradual increase to ten dollars and ten cents an hour. The folks who keep blocking a minimum wage increase are running out of excuses.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; referenced survey data as political argument",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_017"
+      ]
+    },
+    {
+      "id": "ev_024",
+      "source_id": "src_022",
+      "source_type": "official_speech",
+      "date": "2014-12-20",
+      "kind": "quote",
+      "summary": "Obama declared America's resurgence is measurable and real",
+      "verbatim_quote": "Pick any metric you want – America's resurgence is real. And we now have the chance to reverse the decades-long erosion of middle-class jobs and incomes.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Year-end weekly address; summary of administration's accomplishments",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_018"
+      ]
+    },
+    {
+      "id": "ev_025",
+      "source_id": "src_022",
+      "source_type": "official_speech",
+      "date": "2014-12-20",
+      "kind": "event",
+      "summary": "Obama highlighted 11 million jobs created over 57 consecutive months of growth",
+      "verbatim_quote": "Over the past 57 months, our businesses have created nearly 11 million new jobs. And in a hopeful sign for middle-class families, wages are on the rise again.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Year-end address; specific employment statistics cited",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_018"
+      ]
+    },
+    {
+      "id": "ev_026",
+      "source_id": "src_023",
+      "source_type": "official_speech",
+      "date": "2015-02-21",
+      "kind": "event",
+      "summary": "Obama called on Congress to pass Trade Promotion Authority for TPP",
+      "verbatim_quote": "That's why Congress should act on something called 'trade promotion authority.' This is bipartisan legislation that would protect American workers, and promote American businesses, with strong new trade deals from Asia to Europe that aren't just free, but are fair.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; legislative request for TPP passage",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_019"
+      ]
+    },
+    {
+      "id": "ev_027",
+      "source_id": "src_023",
+      "source_type": "official_speech",
+      "date": "2015-02-21",
+      "kind": "quote",
+      "summary": "Obama acknowledged past trade deals fell short while defending TPP",
+      "verbatim_quote": "I'm the first to admit that past trade deals haven't always lived up to the hype. And that's why we've successfully gone after countries that break the rules at our workers' expense. But that doesn't mean we should close ourselves off from new opportunities.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; nuanced position on trade history",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_019"
+      ]
+    },
+    {
+      "id": "ev_028",
+      "source_id": "src_025",
+      "source_type": "official_speech",
+      "date": "2015-07-25",
+      "kind": "event",
+      "summary": "Obama highlighted CFPB recovery of $11 billion for 26 million consumers",
+      "verbatim_quote": "Thanks to Wall Street Reform, there's finally an independent Consumer Financial Protection Bureau with one mission: to protect American consumers. Already, they've gone after predatory or unscrupulous mortgage brokers, student lenders, credit card companies, and they've won – putting nearly $11 billion back in the pockets of more than 26 million consumers who've been cheated.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "5th anniversary of Dodd-Frank; specific dollar amounts cited",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_020"
+      ]
+    },
+    {
+      "id": "ev_029",
+      "source_id": "src_025",
+      "source_type": "official_speech",
+      "date": "2015-07-25",
+      "kind": "relation_move",
+      "summary": "Obama issued veto threat against any Wall Street Reform repeal attempt",
+      "verbatim_quote": "And if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it. We've worked too hard to recover from one crisis only to risk another.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; definitive veto commitment",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_020"
+      ]
+    },
+    {
+      "id": "ev_030",
+      "source_id": "src_026",
+      "source_type": "official_speech",
+      "date": "2015-10-10",
+      "kind": "event",
+      "summary": "Obama announced completion of Trans-Pacific Partnership after 5-year negotiation",
+      "verbatim_quote": "This week, after five years of effort with eleven other nations, we reached agreement on a new trade deal that promotes American values and protects American workers.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; confirmed TPP conclusion",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_021"
+      ]
+    },
+    {
+      "id": "ev_031",
+      "source_id": "src_026",
+      "source_type": "official_speech",
+      "date": "2015-10-10",
+      "kind": "quote",
+      "summary": "Obama framed TPP as alternative to China writing global trade rules",
+      "verbatim_quote": "Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy. They'll keep selling into our markets and try to lure companies over there; meanwhile they're going to keep their markets closed to us.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; geopolitical framing of trade agreement",
+      "editorial_risk": "medium",
+      "timeline_refs": [
+        "evt_021"
+      ]
+    },
+    {
+      "id": "ev_032",
+      "source_id": "src_027",
+      "source_type": "official_speech",
+      "date": "2015-12-19",
+      "kind": "quote",
+      "summary": "Obama attributed all 2015 progress to American people",
+      "verbatim_quote": "It's you—the American people. All of this progress is because of you—because of workers rolling up their sleeves and getting the job done, and entrepreneurs starting new businesses. Because of teachers and health workers and parents—all of us taking care of each other.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Year-end address; attributed accomplishments to collective action",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_033",
+      "source_id": "src_027",
+      "source_type": "official_speech",
+      "date": "2015-12-19",
+      "kind": "event",
+      "summary": "Obama listed top 10 accomplishments including 2.5M jobs, uninsured rate below 10%",
+      "verbatim_quote": "Number ten: The economy. Over the past 12 months, our businesses have created 2.5 million new jobs. In all, they've added 13.7 million new jobs over a 69-month streak of job growth. Number nine: More Americans are getting health coverage. The rate of the uninsured in America dropped below 10 percent for the first time ever.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Year-end address; enumerated accomplishments in list format",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_034",
+      "source_id": "src_027",
+      "source_type": "official_speech",
+      "date": "2015-12-19",
+      "kind": "event",
+      "summary": "Obama highlighted Paris climate agreement and Iran nuclear deal as foreign policy wins",
+      "verbatim_quote": "Number eight: America's global leadership on climate change. Last week, in Paris, nearly 200 countries came together to set the course for a low-carbon future. Number six: Preventing the spread of nuclear weapons. We succeeded in forging a strong deal to stop Iran from obtaining a nuclear weapon. In fact, Iran has already dismantled thousands of centrifuges that enrich uranium.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; listed major diplomatic achievements",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_035",
+      "source_id": "src_027",
+      "source_type": "official_speech",
+      "date": "2015-12-19",
+      "kind": "event",
+      "summary": "Obama celebrated same-sex marriage becoming legal nationwide",
+      "verbatim_quote": "Number two: Love won. No matter who you are, here in America, you're free to marry the person you love, because the freedom to marry is now the law in all fifty states.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; Obergefell v. Hodges reference",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_022"
+      ]
+    },
+    {
+      "id": "ev_036",
+      "source_id": "src_028",
+      "source_type": "official_speech",
+      "date": "2016-03-05",
+      "kind": "quote",
+      "summary": "Obama expressed faith in government as tool for collective problem-solving",
+      "verbatim_quote": "But our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges. And it's only as good as we make it.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; philosophy on democratic governance",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_023"
+      ]
+    },
+    {
+      "id": "ev_037",
+      "source_id": "src_028",
+      "source_type": "official_speech",
+      "date": "2016-03-05",
+      "kind": "event",
+      "summary": "Obama announced government tech modernization through Silicon Valley partnerships",
+      "verbatim_quote": "Over the past few years, for example, we've done something that government never has. We asked some of the sharpest minds from companies in Silicon Valley and across the country to come help us modernize the federal government for the way we live today.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; described government innovation initiative",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_023"
+      ]
+    },
+    {
+      "id": "ev_038",
+      "source_id": "src_029",
+      "source_type": "official_speech",
+      "date": "2016-05-28",
+      "kind": "quote",
+      "summary": "Obama described solemn obligation to fallen heroes and their families",
+      "verbatim_quote": "As Commander-in-Chief, I have no more solemn obligation than leading our men and women in uniform. Making sure they have what they need to succeed. Making sure we only send them into harm's way when it's absolutely necessary. And if they make the ultimate sacrifice – if they give their very lives – we have to do more than honor their memory. We have to be there for their families.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Memorial Day address; clear statement of military obligation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_039",
+      "source_id": "src_029",
+      "source_type": "official_speech",
+      "date": "2016-05-28",
+      "kind": "pattern",
+      "summary": "Obama called for remembering fallen heroes year-round through concrete actions",
+      "verbatim_quote": "This Memorial weekend, I hope you'll join me in acts of remembrance. Lay a flower or plant a flag at a fallen hero's final resting place. Reach out to a Gold Star Family in your community, and listen to the story they have to tell. Send a care package to our troops overseas, volunteer to make a wounded warrior's day a little easier, or hire a veteran who is ready and willing to serve at home just as they did abroad.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Memorial Day address; actionable civic engagement suggestions",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_024"
+      ]
+    },
+    {
+      "id": "ev_040",
+      "source_id": "src_030",
+      "source_type": "official_speech",
+      "date": "2016-08-13",
+      "kind": "event",
+      "summary": "Obama cited dramatic growth in wind and solar power during his administration",
+      "verbatim_quote": "We've multiplied wind power threefold. We've multiplied solar power more than thirtyfold. In parts of America, these clean power sources are finally cheaper than dirtier, conventional power. And carbon pollution from our energy sector is at its lowest level in 25 years, even as we're continuing to grow our economy.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; specific energy statistics during 7.5 years in office",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_025"
+      ]
+    },
+    {
+      "id": "ev_041",
+      "source_id": "src_030",
+      "source_type": "official_speech",
+      "date": "2016-08-13",
+      "kind": "quote",
+      "summary": "Obama defended Paris climate agreement as legacy to build upon",
+      "verbatim_quote": "That's not something to tear up – it's something to build upon. And if we keep pushing, and leading the world in the right direction, there's no doubt that, together, we can leave a better, cleaner, safer future for our children.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; direct response to potential policy reversal",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_025"
+      ]
+    },
+    {
+      "id": "ev_042",
+      "source_id": "src_031",
+      "source_type": "official_speech",
+      "date": "2016-10-29",
+      "kind": "quote",
+      "summary": "Biden reported on Cancer Moonshot progress under Obama's leadership",
+      "verbatim_quote": "When President Nixon declared war on cancer in 1971, he had no army, no resources, and no clear strategy to win. But after 45 years of progress, funding research, training scientists and physicians, and treating millions of patients—we now have the army. We now have powerful new tools. And with this Moonshot, we now have a clear strategy for the road ahead.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "Biden delivered this address reporting to Obama; Biden confirmed leadership role assigned by Obama",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_043",
+      "source_id": "src_031",
+      "source_type": "official_speech",
+      "date": "2016-10-29",
+      "kind": "event",
+      "summary": "Biden described cross-agency innovation through Moonshot task force",
+      "verbatim_quote": "Right now, only 4% of adult cancer patients are enrolled in clinical trials. Why? Most patients—and even doctors—don't know where to go. And it's a problem for drug companies because they don't have enough patients to generate the research, find new breakthroughs, and get them to patients. But now thanks to the work of the Presidential Innovation Fellows—some of the top technology minds who left Silicon Valley to work in the White House—anyone can go to Trials.Cancer.Gov, type in real words like 'breast cancer,' a zip code, or an age, and more easily find a list of clinical trials nearby.",
+      "first_hand_level": "direct_report",
+      "reliability_note": "Biden address; specific tech solution through Presidential Innovation Fellows",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_026"
+      ]
+    },
+    {
+      "id": "ev_044",
+      "source_id": "src_032",
+      "source_type": "official_speech",
+      "date": "2017-01-14",
+      "kind": "quote",
+      "summary": "Obama's farewell: gratitude to American people for making him better president and man",
+      "verbatim_quote": "Whether we've seen eye-to-eye or rarely agreed at all, my conversations with you, the American people – in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts – are what have kept me honest, kept me inspired, and kept me going. Every day, I learned from you. You made me a better President, and you made me a better man.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Farewell address from Chicago; emotional capstone statement",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    },
+    {
+      "id": "ev_045",
+      "source_id": "src_032",
+      "source_type": "official_speech",
+      "date": "2017-01-14",
+      "kind": "event",
+      "summary": "Obama reflected on diverse experiences witnessing American goodness over 8 years",
+      "verbatim_quote": "I've seen neighbors looking out for each other as we rescued our economy from the worst crisis of our lifetimes. I've hugged cancer survivors who finally know the security of affordable health care. I've seen communities like Joplin rebuild from disaster, and cities like Boston show the world that no terrorist will ever break the American spirit.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Farewell address; listed specific moments embodying American resilience",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    },
+    {
+      "id": "ev_046",
+      "source_id": "src_032",
+      "source_type": "official_speech",
+      "date": "2017-01-14",
+      "kind": "quote",
+      "summary": "Obama called for sustained civic engagement beyond elections",
+      "verbatim_quote": "But we can't take our democracy for granted. All of us, regardless of party, should throw ourselves into the work of citizenship. Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Farewell address; call to sustained civic participation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    },
+    {
+      "id": "ev_047",
+      "source_id": "src_032",
+      "source_type": "official_speech",
+      "date": "2017-01-14",
+      "kind": "quote",
+      "summary": "Obama declared renewed optimism about America's promise in farewell",
+      "verbatim_quote": "Eight years later, I am even more optimistic about our country's promise. And I look forward to working along your side, as a citizen, for all my days that remain.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Farewell address; final message of continued engagement",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    },
+    {
+      "id": "ev_048",
+      "source_id": "src_032",
+      "source_type": "official_speech",
+      "date": "2017-01-14",
+      "kind": "event",
+      "summary": "Obama described bipartisan budget deal and education bill as Christmas miracles",
+      "verbatim_quote": "Number three: A pair of Christmas miracles in Washington! This week, Congress passed a bipartisan budget that invests in middle-class priorities, keeps our military the strongest in the world, and takes the threat of shutdowns and manufactured crises off the table for 2016. Plus, I signed a bipartisan education bill into law to help our students graduate prepared for college and their future careers.",
+      "first_hand_level": "self_statement",
+      "reliability_note": "Weekly address; enthusiastic framing of Congressional cooperation",
+      "editorial_risk": "low",
+      "timeline_refs": [
+        "evt_027"
+      ]
+    }
+  ]
+}

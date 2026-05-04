@@ -1,0 +1,155 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_relationships_family_systems_interpersonal_boundaries",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with demonstrated willingness to use executive authority decisively",
+      "finding": "Obama consistently demonstrates high agency orientation across his public communications. He proactively declared a 'Year of Action' (evt_015, ev_019), issued direct challenges to private sector (ev_009: 100,000 veteran hiring challenge), and took executive actions numbering over 20 to advance his agenda. His speeches frame him as an active shaper of outcomes rather than a passive responder to circumstances, exemplified by his commitment 'As long as I am President, that's a commitment this country is going to keep' (ev_001). This agency orientation operates within a democratic frame—he seeks to mobilize collective action rather than impose unilateral control, but when collective action is blocked, he demonstrates willingness to act administratively without Congressional approval.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded belief formation with acknowledged epistemic humility about past judgments",
+      "finding": "Obama's epistemic style shows a pattern of grounding claims in observable data while maintaining nuanced acknowledgment of complexity. He cites specific statistics (11 million jobs ev_025, 26 million consumers recovered $11 billion ev_028) and verifiable outcomes. Significantly, he demonstrates epistemic humility in ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' This capacity to self-correct while still defending policy directions suggests neither rigid ideological commitment nor uncritical empiricism, but rather a pragmatic epistemology that holds beliefs provisionally while remaining committed to core values.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong preference for articulating clear philosophical frameworks that systematize policy positions",
+      "finding": "Obama demonstrates high abstraction_formalization through his consistent articulation of coherent philosophical systems. His 'middle-out' economic philosophy (ev_021) provides an organizing principle linking diverse policies. He frequently uses numbered lists and systematic categorization (top 10 accomplishments ev_033), formal executive orders (federal contractor minimum wage ev_017), and legislative frameworks (Dodd-Frank ev_028, TPP ev_030). This formalization tendency serves a boundary function—clear principles and rules establish the boundaries of acceptable negotiation versus non-negotiable commitments, reducing ambiguity about where flexibility ends and core positions begin.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_021",
+        "ev_028",
+        "ev_030",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic control orientation that uses presidential authority decisively while seeking cooperative solutions when available",
+      "finding": "Obama's control orientation manifests as firm boundaries on certain issues paired with flexibility on others. He issued definitive veto threats on Wall Street Reform repeal (ev_029) and refused to negotiate over debt ceiling (ev_015). However, he actively sought bipartisan cooperation on transportation (ev_008, citing AFL-CIO and Chamber of Commerce agreement) and framed issues as 'American issues' rather than partisan ones. This suggests controlled use of power as boundary maintenance—establishing clear limits on acceptable legislative outcomes while leaving procedural details open to negotiation. His executive actions represent control exercised within formal channels rather than arbitrary assertion.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Willing to bear significant relational costs when mission principles are at stake, but actively preserves relationships when possible",
+      "finding": "Obama demonstrates comfort with relational costs when core commitments are threatened. He publicly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea' ev_020) and condemned Senate tactics as contrary to founders' intent (ev_010). Yet his language consistently frames disputes in terms of national interest rather than personal grievance, and he maintains invitations to cooperation. The debt ceiling statement (ev_015) accepts no relational cost for protecting institutional integrity. This suggests a leader who distinguishes between negotiable relationship dynamics and non-negotiable structural commitments, bearing relational costs willingly for the latter while investing in relationship preservation for the former.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk tolerance anchored in long-term institutional and policy investments",
+      "finding": "Obama's risk posture shows comfort with political vulnerability when values require it. He declared executive action on minimum wage knowing Congress would not pass legislation (ev_017, ev_018). His climate stance explicitly invites future generations to 'build upon' rather than 'tear up' policy (ev_041). He acknowledges past policy disappointments (trade deals ev_027) while pressing forward. This suggests risk orientation calibrated to mission-scale horizons—willing to absorb short-term political costs for structural gains, and accepting that some initiatives may not fully succeed within his timeframe but create foundations for successors. His confidence language ('absolutely confident' ev_004) reflects not naivety about obstacles but commitment to sustained effort.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional respect combined with confident assertion of legitimate presidential authority within democratic norms",
+      "finding": "Obama's relationship to hierarchy and power demonstrates sophisticated boundary awareness. He operates through formal institutional channels while confidently asserting executive authority. He frames presidential power as delegation from the people rather than personal prerogative ('our founders trusted us with the keys' ev_036). His military obligation statement (ev_038) frames hierarchy as responsibility: 'no more solemn obligation than leading our men and women in uniform.' He acknowledges constraints on power—citing deficit reduction achievements as existing trajectory rather than solely personal accomplishment (ev_016). This suggests hierarchical orientation that respects institutional boundaries while confidently exercising legitimate authority, framing power as embedded in democratic mandate rather than personal dominance.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_036",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation translated into democratic process rather than suppression, avoidance, or escalation",
+      "finding": "Obama's conflict strategy consistently translates disagreement into public democratic discourse rather than suppression or escalation. He directly criticized Senate obstruction (ev_010) and Congressional rejection of his agenda (ev_020), but framed these as institutional failures rather than personal enemies. His debt ceiling position (ev_015) established clear non-negotiable boundaries without threatening retaliation. He uses public speech as primary conflict translation mechanism—making disagreements visible to citizens rather than resolving privately. This represents mature conflict strategy that neither suppresses dissent nor escalates to destructive confrontation, but rather uses democratic transparency as the medium for expressing and navigating disagreement.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon spanning generations and institutional legacies beyond electoral cycles",
+      "finding": "Obama's time horizon consistently extends beyond immediate political cycles to generational and institutional scales. Climate policy is framed as legacy to build upon (ev_041). Education reform is positioned in terms of students' futures (ev_016). Deficit reduction is discussed in historical trajectory (ev_016: 'fastest rate since World War II'). His farewell address explicitly envisions continued engagement 'for all my days that remain' (ev_047) while calling for citizenship 'over the full span of a lifetime' (ev_046). This temporal orientation suggests prioritizing mission-scale outcomes that may require sustained effort across administrations, accepting that some victories arrive after one's direct role ends.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Clear preference for structural systemic redesign over incremental repair, demonstrated through signature legislative achievements",
+      "finding": "The evidence strongly supports rebuild_over_patch orientation. The ACA restructured healthcare financing and extended Medicare solvency by 12+ years (ev_002). Dodd-Frank established entirely new regulatory architecture including the Consumer Financial Protection Bureau (ev_028). The Paris climate agreement represented systemic international coordination. His Year of Action declaration (ev_015, ev_019) explicitly preferred structural executive action when legislative patches failed. This pattern suggests that when incremental approaches fail, Obama gravitates toward comprehensive redesign rather than compromise solutions that preserve broken structures. His frustration with Congressional blocking that led to executive action reflects this orientation toward structural change over procedural accommodation.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_019",
+        "ev_028",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of influence sources and epistemic humility",
+      "finding": "Obama demonstrates notable metacognitive capacity through multiple mechanisms. He explicitly acknowledges what shapes his thinking: 'my conversations with you, the American people...are what have kept me honest, kept me inspired' (ev_044). He admits past errors while maintaining forward direction (ev_027). He shows awareness of institutional limits: 'it's only as good as we make it' regarding self-government (ev_036). His pattern of publicly stating what he learned from citizens (ev_045) and reflecting on experiences demonstrates active self-monitoring. However, this metacognition operates within a confident framework—he uses self-reflection to strengthen rather than undermine commitments. This suggests healthy integration of reflective capacity with decisive action orientation.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_boundary_integration",
+      "definition": "Capacity to establish clear boundaries on matters of institutional integrity while maintaining permeable relational boundaries that invite participation. This distinguishes leaders who protect structures through closure from those who maintain them through inclusion. Obama demonstrates this through non-negotiable positions on debt ceiling and Wall Street Reform combined with consistent invitations to civic participation and attribution of accomplishments to collective action.",
+      "finding": "Obama exhibits sophisticated integration of boundary closure and boundary permeability that may not be captured by existing constructs. His non-negotiable positions (debt ceiling ev_015, veto threats ev_029) represent firm structural boundaries, while his rhetoric consistently attributes outcomes to 'the American people' (ev_032, ev_044) and calls for ongoing citizenship 'beyond elections' (ev_023, ev_046). This suggests a leader who distinguishes between institutional integrity boundaries (which must be protected) and relational participation boundaries (which should be opened). His personal sharing in the Father's Day address (ev_006) and farewell address (ev_044, ev_045) demonstrates willingness to be emotionally permeable to citizens while maintaining clarity about his role responsibilities. This emergent dimension captures how healthy boundary maintenance in leadership involves strategic closure on structural matters alongside genuine openness to democratic participation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_023",
+        "ev_029",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

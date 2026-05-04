@@ -1,0 +1,171 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "operations_and_systems_engineering_process_bottleneck_analysis",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Systemic constraint-identifier who actively redesigns around obstacles rather than adapting passively",
+      "finding": "Obama demonstrates a world-shaping orientation through his consistent pattern of identifying systemic constraints and deploying alternative mechanisms when primary pathways are blocked. When Congress obstructed legislative priorities (ev_020: 'Republicans in Congress have blocked or voted down every serious idea'), he pivoted to executive actions (ev_019: 'more than 20 executive actions' in Year of Action), executive orders (ev_017: $10.10 minimum wage for federal contractors), and coalition-building with non-governmental actors. His Energy Blueprint (ev_004) explicitly rejected single-variable solutions ('Drilling alone is not a real strategy') in favor of multi-pronged systemic intervention. Rather than treating Congressional obstruction as an immovable constraint, he treated it as a process bottleneck to route around, suggesting he conceptualizes political systems as flow problems amenable to re-engineering.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Primarily metrics-driven with strong emphasis on quantifiable throughput indicators",
+      "finding": "Obama's speeches reveal a consistent reliance on end-to-end flow metrics as the primary basis for claims about system performance. He repeatedly cited job creation numbers (ev_025: '11 million new jobs...57 months'; ev_033: '2.5 million new jobs...69-month streak'), consumer protection recoveries (ev_028: '$11 billion back...26 million consumers'), and energy production statistics (ev_040: 'wind power threefold...solar power more than thirtyfold'). This metrics orientation extends to his deficit reduction framing (ev_016: 'deficits are already falling at the fastest rate since the end of World War II') and his assertion that 'America's resurgence is real' is immediately followed by 'Pick any metric you want' (ev_024). The epistemic style privileges system-level throughput indicators over anecdote or theory, treating jobs numbers, coverage rates, and recovery amounts as the primary evidence of policy efficacy. However, his use of survey data in ev_023 ('recent surveys show that a majority of small business owners support $10.10 minimum wage') for political persuasion suggests selective deployment of evidence when direct metrics are unavailable.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_024",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction level with coherent conceptual frameworks but limited formalization into variable-constraint systems",
+      "finding": "Obama employs abstract economic philosophies ('middle-out' economics in ev_021: 'Our economy grows best not from the top-down, but from the middle-out') that provide organizing principles for policy prioritization. He articulated systematic frameworks like the Energy Blueprint with quantified targets (ev_004: 'cut oil imports by one-third by 2025') and the Cancer Moonshot as a cross-agency initiative (ev_042: 'now we have a clear strategy for the road ahead'). However, the abstraction remains at the policy-principle level rather than formalizing into operational variables, constraints, and objective functions. His speeches do not present logic models, system dynamics diagrams, or formal optimization frameworks. The 'middle-out' philosophy functions as an orienting heuristic rather than a formalized theory amenable to quantitative prediction or testing. This suggests abstraction_formalization is moderate—capable of conceptual integration but not systems-level formalization.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation through institutional mechanisms with clear red lines on certain outcomes",
+      "finding": "Obama exhibits a strong control orientation, particularly regarding preservation of major legislative achievements. He issued explicit veto threats (ev_029: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it') and refused to negotiate over fundamental constraints (ev_015: 'I will not negotiate over the full faith and credit of the United States'). His control orientation operates primarily through institutional mechanisms—the veto power, executive orders, regulatory agencies—rather than direct manipulation of every system element. Notably, when facing Congressional blockage on nominations, he called for structural rules changes ('90-day up-or-down votes on nominations' in ev_008) rather than working around the process individually. This suggests control through mechanism design rather than ad hoc intervention. However, he demonstrated willingness to work with external partners (ev_037: 'Silicon Valley...to help us modernize the federal government') rather than demanding total internal control.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with willingness to absorb significant political relational costs",
+      "finding": "Obama consistently prioritized policy missions over relational comfort with political opponents, accepting substantial social and political costs. He maintained opposition to ACA repeal (ev_001: commitment to Medicare 'as long as I am President') and Wall Street Reform repeal (ev_003: 'I think that would be a terrible mistake') despite ongoing political conflict. He explicitly called out Congressional obstruction ('Republicans have said no to raising the minimum wage, no to equal pay' in ev_020), accepting relational costs with political adversaries. His declaration that 'I will not negotiate over the full faith and credit of the United States' (ev_015) prioritized mission integrity over the relational accommodation that a compromise position would have provided. The mission orientation extended to long-term policy durability—he framed the Paris climate agreement as 'something to build upon' (ev_041), explicitly anticipating post-presidency threats. The relational cost was substantial: the 'Year of Action' framing explicitly acknowledged broken relations with Congressional Republicans.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_015",
+        "ev_020",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Measured risk acceptance with layered defense strategy, not conservative but not reckless",
+      "finding": "Obama's risk posture reflects a systems engineering approach: ambitious goals with defensive layers against failure modes. He pursued high-stakes international agreements (Iran nuclear deal, Paris climate agreement, TPP) while framing them as managed risks rather than gambles. The Iran deal specifically involved accepting monitored constraints in exchange for verified dismantlement ('Iran has already dismantled thousands of centrifuges' in ev_034). On the Cancer Moonshot (ev_042), he accepted uncertainty about breakthrough timelines while establishing concrete intermediate mechanisms (clinical trial database, ev_043). His sequestration response (ev_014) documented cascading failure modes to justify systemic replacement rather than accepting continued operation. The risk posture is not conservative avoidance—he launched 'Year of Action' with executive actions knowing legal and political challenges would follow—but it is also not reckless experimentation. Risks are accepted for high-value mission objectives with defensive mechanisms built where possible.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_034",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respectful of institutional hierarchy but pragmatic about external expertise and coalition-building",
+      "finding": "Obama operates within formal institutional hierarchies—using Presidential authority, Congressional requests, and agency mechanisms—while actively supplementing hierarchical authority with external partnerships. He respected the Constitutional structure: 'our founders trusted us with the keys to this system of self-government' (ev_036), and sought legislative rather than unilateral action when possible. However, he also formed coalitions outside traditional government channels: 'Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo' (ev_004), challenged private companies to hire veterans (ev_009), and brought Silicon Valley expertise into government (ev_037: 'Presidential Innovation Fellows...who left Silicon Valley to work in the White House'). This suggests hierarchical respect tempered by recognition that government alone lacks all necessary capabilities—that bottleneck identification extends to government itself as a constraint. Authority is seen as a tool for coordination rather than an end in itself.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation through institutional mechanisms with explicit public framing, but willing to negotiate within boundaries",
+      "finding": "Obama's conflict strategy combines escalation through institutional power with strategic public framing, though he shows willingness to negotiate within defined boundaries. When Congressional obstruction threatened system throughput, he escalated through veto threats (ev_029), executive actions (ev_019), and calls for structural rules changes (ev_008: '90-day up-or-down votes on nominations'). He explicitly named opponents ('Republicans have said no' in ev_020), using public address as a mechanism for pressure. However, he also sought bipartisan support when available (ev_008: 'AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye') and framed issues as 'not a Democratic or a Republican issue' (ev_006). His conflict strategy is fundamentally institutional—working through the presidential platform rather than personal confrontation—while using public persuasion to reframe conflicts as between obstructionists and national interests. The red lines (debt ceiling, ACA, Dodd-Frank) suggest zones where negotiation is excluded.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional commitment with explicit anti-short-termism framing",
+      "finding": "Obama consistently frames outcomes in long-term, generational terms while acknowledging short-term constraints. He articulated commitments extending decades: 'As long as I am President, that's a commitment this country is going to keep' (ev_001), 'cut oil imports by one-third by 2025' (ev_004), and explicitly rejected short-term thinking on climate ('something to build upon' in ev_041). His deficit reduction claim—'we'll have cut our deficits by more than half since I took office' (ev_016)—represents a multi-year trajectory. The farewell address emphasizes sustained civic engagement: 'Not just when there's an election...but over the full span of a lifetime' (ev_046), and he committed to continued involvement: 'working along your side, as a citizen, for all my days that remain' (ev_047). This temporal orientation manifests in concrete long-term investments (energy infrastructure, healthcare system reform) even when shorter-term political gains from other approaches were available.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_016",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic redesign over local repair when confronting fundamental bottlenecks",
+      "finding": "Obama shows preference for systemic redesign over piecemeal repair when confronting fundamental constraints. The ACA represented structural redesign of healthcare system financing, not补丁—explicitly extending Medicare solvency by 12 years (ev_002) rather than短期 funding patches. Wall Street Reform established permanent consumer protection infrastructure (CFPB in ev_028) rather than case-by-case intervention. His Energy Blueprint (ev_004) rejected 'drilling alone' in favor of multi-vector systemic change (fuel efficiency, clean energy, domestic production). The Cancer Moonshot (ev_042) was positioned as 'clear strategy for the road ahead' after 45 years of incremental progress. However, when systemic change was blocked, he demonstrated willingness to use executive orders as patches (ev_017: $10.10 minimum wage for federal contractors as partial substitute for legislative minimum wage increase). This suggests rebuild_over_patch as preferred orientation, with补丁as fallback when rebuild is politically infeasible.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_017",
+        "ev_028",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong self-awareness with explicit feedback loop acknowledgment and learning posture",
+      "finding": "Obama demonstrates notable metacognitive awareness, explicitly acknowledging feedback loops and his own learning from system inputs. The farewell address shows explicit reflection: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), directly framing citizens as cognitive feedback mechanism. He acknowledged past trade policy limitations ('past trade deals haven't always lived up to the hype' in ev_027) without abandoning the TPP initiative—a balanced recognition of previous flawed approaches while continuing system improvement. His 'Year of Action' (ev_019) implicitly acknowledged that previous approaches had failed to achieve sufficient throughput. He credited collective action for progress: 'All of this progress is because of you' (ev_032), recognizing his own role as mechanism within larger system rather than autonomous cause. The metacognitive pattern suggests awareness that presidential agency operates within feedback-intensive systems requiring continuous adjustment rather than fixed-path execution.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "bottleneck_rerouting_capacity",
+      "definition": "The ability to identify when a primary pathway is constrained and systematically route effort through alternative channels without abandoning the original objective. This differs from general agency_orientation in that it specifically captures the reconfiguration response to identified constraints rather than the general tendency to shape versus respond.",
+      "finding": "Obama demonstrates exceptional bottleneck_rerouting_capacity across multiple domains. When Congressional legislative pathways were blocked, he systematically rerouted through executive orders (ev_017: $10.10 minimum wage for federal contractors), executive actions (ev_019: 20+ actions on jobs), and public-private partnerships (ev_004: Clean Fleets Partnership with major corporations; ev_009: veteran hiring challenge to private sector). He rerouted trade policy through executive negotiation (TPP after 5 years, ev_030) when legislative approval pathways were uncertain. He rerouted government modernization through external expertise (ev_037: Presidential Innovation Fellows from Silicon Valley). Critically, rerouting preserved the original mission objective—minimum wage increase, job creation, veteran employment—rather than abandoning or substantially modifying the goal. The pattern suggests a systematic process re-engineering approach to political constraints: when one channel is saturated or blocked, identify alternative throughput paths that preserve mission continuity.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_030",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "system_attribution_distribution",
+      "definition": "The tendency to distribute causal attribution across system components rather than claiming individual credit. This emergent dimension captures a specific pattern not covered by existing constructs—how credit assignment and responsibility framing relate to bottleneck analysis and throughput optimization.",
+      "finding": "Obama consistently distributes causal attribution across system components rather than claiming individual credit for throughput improvements. In the farewell address, he explicitly attributed progress to collective action: 'All of this progress is because of you—because of workers rolling up their sleeves...entrepreneurs starting new businesses...teachers and health workers and parents' (ev_032). He credited the American people for economic recovery (ev_045: 'neighbors looking out for each other as we rescued our economy') and framed his role as enabler rather than primary cause. The pattern extends to specific policy achievements: he attributed ACA success to 'the American people' and healthcare workers, auto industry recovery to 'American workers' (ev_022), and deficit reduction to broader economic trends. This attribution distribution serves both rhetorical and substantive functions—it emphasizes system-level throughput over individual agency, frames bottlenecks as collective action problems requiring distributed solutions, and reduces reliance on heroic intervention narratives. For a process-and-bottleneck analytical lens, this suggests Obama conceptualizes himself as one node in a throughput system rather than the primary constraint point.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

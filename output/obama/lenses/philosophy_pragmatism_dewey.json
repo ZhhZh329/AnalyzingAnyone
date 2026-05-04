@@ -1,0 +1,191 @@
+{
+  "discipline": "philosophy",
+  "lens": "pragmatism_dewey",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Predominantly a democratic-connective agent; works as facilitator and steward within shared systems rather than as unilateral world-shaper",
+      "finding": "Obama consistently positions himself within a network of actors rather than as an autonomous change-maker. His farewell address encapsulates this orientation: 'Every day, I learned from you. You made me a better President' (ev_044), and he attributes all progress to 'the American people' (ev_032). Even when exercising strong presidential authority through executive orders (ev_017, ev_019), he frames these as responses to collective conditions rather than imposition of individual will. His faith in government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) reflects Dewey's view of democratic inquiry as the primary mode of human agency. He mobilizes others' capacities (ev_009 hiring veterans challenge, ev_037 Silicon Valley partnerships) rather than concentrating agency in himself. This represents sophisticated situational agency—Dewey's model of actors shaping environments through interaction rather than unilateral creation.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_036",
+        "ev_037",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strong reflective thinking with partial gaps in public demonstration of full inquiry cycles",
+      "finding": "Obama's problem-solving approach reflects Dewey's five-stage reflective thinking: (1) felt difficulty clearly identified—sequester threatening Head Start and military families (ev_014), transportation funding threatening jobs (ev_011); (2) problem accurately defined—'balanced approach' rather than pure cuts or pure spending (ev_013); (3) hypotheses generated—executive actions as alternatives to legislative cooperation (ev_019); (4) reasoning through implications—TPP framed as preventing China from writing global trade rules (ev_031); (5) validation through action—testing strategies like minimum wage executive orders (ev_017). However, his public communications often present conclusions with less visibility into the inquiry process that produced them. His candid acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates epistemic flexibility, but this self-correction is relatively rare. The dominant pattern shows strong situational analysis followed by confident assertion rather than ongoing demonstration of hypothesis revision.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_013",
+        "ev_019",
+        "ev_011",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate—effectively grounds abstract principles in concrete outcomes and specific metrics, avoiding pure theorization",
+      "finding": "Obama demonstrates Dewey's pragmatist skepticism toward abstraction disconnected from practical experience. His 'middle-out' economic philosophy (ev_021) is consistently anchored to specific outcomes: 'Our economy grows best not from the top-down, but from the middle-out. We do better when the middle class does better.' He translates broad commitments into measurable goals: 11 million jobs over 57 months (ev_025), 2.5 million jobs in 2015 alone (ev_033), carbon pollution at 25-year low (ev_040). His abstractions serve democratic communication—making complex policies accessible—rather than theoretical systematization. Notably absent is extended philosophical argumentation; instead, he offers empirical summaries and narrative illustrations of principles in action. This pragmatic concreteness enables effective public persuasion while maintaining theoretical coherence, a Deweyan approach where abstraction serves problem-solving rather than dominating it.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic-institutional; exercises power through legitimate democratic channels while seeking to modify conditions intelligently",
+      "finding": "Obama's control orientation reflects Dewey's distinction between intelligent control through situation modification versus coercive control of outcomes. He exercises presidential authority strategically—veto threats against Wall Street reform repeal (ev_029), executive orders on minimum wage (ev_017)—but frames these as responses to collective problems rather than dominance. His assertion 'I will not negotiate over the full faith and credit of the United States' (ev_015) demonstrates principled boundary-setting within democratic norms. He does not seek comprehensive control but rather the power to execute democratically mandated directions. Notably, he frequently cedes control to collective processes—bipartisan coalitions (ev_008 AFL-CIO and Chamber of Commerce together), Silicon Valley partnerships for government modernization (ev_037), congressional budget processes (ev_048 'Christmas miracles'). This suggests control as a means for implementing shared purposes rather than an end in itself, aligning with Dewey's instrumentalist view of power as a tool for democratic problem-solving.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_015",
+        "ev_008",
+        "ev_037",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission commitment with notable maintenance of relational civic orientation over transactional success",
+      "finding": "Obama maintains robust commitment to policy missions—ACA implementation, Wall Street reform, climate action, veterans employment—willing to accept political costs through Republican opposition (ev_020 'Republicans in Congress have blocked or voted down every serious idea'). His 'Year of Action' framing (ev_015, ev_019) prioritizes agenda advancement over comfortable relations with Congressional opponents. However, his farewell address reveals a deeper relational intelligence: 'Whether we've seen eye-to-eye or rarely agreed at all... my conversations with you kept me honest, kept me inspired' (ev_044). He frames failure not as personal defeat but as collective learning: 'America's resurgence is real' (ev_024) and calls for sustained civic engagement 'not just when there's an election' (ev_046). This reflects Dewey's integration of individual growth and community welfare—mission achievement matters but remains embedded in ongoing relational commitment. The cancer moonshot (ev_042, ev_043) exemplifies this fusion: ambitious goal but achieved through collaborative networks rather than command hierarchy.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_044",
+        "ev_046",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Pragmatic risk-taker; accepts political vulnerability for experimentation while grounding risk in empirical conditions",
+      "finding": "Dewey's concept of 'directed adventure'—risk oriented toward growth rather than reckless gambling—describes Obama's approach. He pursued major healthcare reform despite political risk (ACA), framed as addressing concrete failures of the existing system. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows willingness to acknowledge prior risk-taking failures while maintaining current initiative. The sequester crisis demonstrates his risk calibration: he warned of specific consequences—Head Start cuts, airport disruptions, military strain (ev_014)—grounding risk in empirical predictions rather than ideological commitment. His climate advocacy accepts political risk in facing fossil fuel interests, justified by concrete data: 'wind power tripled, solar thirtyfold' (ev_040). Notably absent is risk-as-bluster; instead, risk is presented as rational response to observable conditions, inviting public consideration rather than demanding trust. This positions risk-taking within Dewey's experimental framework: hypotheses to be tested through collective democratic action.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_014",
+        "ev_040",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Pragmatic hierarchical negotiator; accepts institutional power structures while working to democratize their operation",
+      "finding": "Obama demonstrates Dewey's nuanced relationship to hierarchy: accepting functional authority while resisting its calcification. He exercises hierarchical power through vetoes (ev_029), executive orders (ev_017, ev_019), and command authority as Commander-in-Chief (ev_038 'no more solemn obligation'), yet simultaneously builds horizontal coalitions across traditional boundaries (ev_008 AFL-CIO with Chamber of Commerce, ev_037 public-private tech modernization). He criticizes Senate obstruction while acknowledging 'neither party has been blameless' (ev_010), resisting absolute demonization of hierarchy even while challenging its abuses. His father's Day address (ev_006 personal experience without father) reveals personal grounding in non-hierarchical relationship models—coaching daughter's basketball team (ev_007) as practice of democratic participation. The debt ceiling stance (ev_015 refusing negotiation) shows willingness to confront hierarchical brinksmanship with principled boundary-setting. This reflects Dewey's view that democracy requires both utilizing necessary hierarchical coordination and continuously democratizing its operation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_008",
+        "ev_037",
+        "ev_010",
+        "ev_038",
+        "ev_015",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled-bargaining; sets non-negotiable boundaries while seeking negotiated solutions for resolvable differences",
+      "finding": "Obama's conflict strategy reflects Dewey's integration of firm principle with flexible tactics. He draws clear boundaries on fundamental issues: 'I will not negotiate over the full faith and credit' (ev_015), 'I will veto' any Wall Street reform repeal (ev_029), 'America is at war with al-Qaeda and its affiliates—never at war with Islam' (ev_012). These function as starting points for inquiry rather than endpoints of debate. For resolvable conflicts, he seeks negotiated solutions: bipartisan budget (ev_048 'Christmas miracles'), transportation bills, student loan extensions. He characterizes opposition as product of incomplete information rather than malevolence: 'Republicans have blocked' but he 'called on Congress' rather than vilifying opponents wholesale. This reflects Dewey's view of conflict as indication of problems requiring redefinition—Obama redefines conflicts from partisan warfare to collective problem-solving ('This isn't a Democratic or a Republican issue—it's an American issue' ev_008). The pattern suggests translation rather than suppression or escalation, seeking new frames that make resolution possible.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_012",
+        "ev_008",
+        "ev_048",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term reconstruction with strong present-moment grounding; integrates continuity of experience across time scales",
+      "finding": "Obama's temporal orientation demonstrates Dewey's continuity of experience—present action connected to past foundations and future possibilities. He anchors current policies in historical context: 'During the last decade, people thought the decline in American manufacturing was inevitable. But we chose to invest' (ev_022), crediting auto rescue for current renaissance. His 'Year of Action' represents immediate initiative nested within longer trajectories: 57 months of job growth (ev_025), extending Medicare solvency by 12+ years (ev_002). The Paris climate agreement exemplifies mission-scale temporality: 'That's not something to tear up—it's something to build upon' (ev_041), positioned as legacy for children. His 2017 farewell reflects on eight years as continuous learning: 'I learned from you. You made me a better President' (ev_044), showing present growth embedded in accumulated experience. This multi-scale temporal awareness—he simultaneous attending to immediate crises, medium-term policy trajectories, and generational projects—reflects Dewey's vision of intelligent action spanning the full temporal continuum of human experience.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_002",
+        "ev_025",
+        "ev_041",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer when political conditions permit; pragmatic adapter when reconstruction blocked",
+      "finding": "Obama demonstrates Dewey's reconstructive impulse in major legislative achievements: comprehensive healthcare reform through ACA rather than incremental insurance market adjustments; Dodd-Frank's systemic restructuring of financial regulation rather than isolated consumer protections; TPP as framework for global trade rules rather than bilateral adjustments; Paris climate agreement as 200-nation coordination rather than voluntary pledges. He explicitly rejected patch solutions: 'Drilling alone is not a real strategy to replace our dependence on foreign oil' (ev_005), seeking comprehensive energy security through multiple integrated approaches. However, his 'Year of Action' (ev_015, ev_019) reveals pragmatic adaptation—executive orders as substitutes for legislative reconstruction when Congress blocked comprehensive reform. This represents Dewey's methodological flexibility: primary commitment to structural redesign, tactical acceptance of partial gains when full reconstruction blocked. The pattern shows neither pure reconstruction nor pure pragmatism but a strategic alternation based on political feasibility, always oriented toward larger frameworks even when achieving only their components.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_015",
+        "ev_019",
+        "ev_001",
+        "ev_002",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderately strong self-awareness with notable openness to revising prior positions; models learning publicly",
+      "finding": "Obama demonstrates Dewey's reflective thinking through explicit metacognitive moments. His self-correction on trade history stands out: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—acknowledging prior assumptions proved inadequate. His personal narrative acknowledges formative uncertainty: 'I grew up without my father around... I wondered what my life would have been like had he been a greater presence' (ev_006), showing capacity to examine formative experiences and their ongoing influence. His farewell reflects on learning process: 'Every day, I learned from you' (ev_044), crediting external input for cognitive growth. However, the frequency of explicit self-correction is moderate rather than continuous—he more often presents confident conclusions than visible hypothesis revision. The pattern suggests genuine metacognitive capacity but deployed strategically rather than habitually. His government modernization initiative (ev_037 'asked sharpest minds to help us modernize') shows institutional metacognition—acknowledging organizational cognitive limits and seeking external input. This reflects Dewey's vision of thinking as tool subject to continuous refinement through experience.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_006",
+        "ev_044",
+        "ev_037",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_experience-sharing_as_methodological_orientation",
+      "definition": "The deliberate practice of incorporating diverse citizen experiences into policy formation and political reasoning, treating experiential multiplicity as essential to democratic truth-seeking rather than merely strategic consultation.",
+      "finding": "Obama's speeches consistently reference experiential diversity as source of political insight and legitimacy. His 'conversations with you—in living rooms and schools; at farms and on factory floors; at diners and on distant military outposts' (ev_044) frame citizen experience as constitutive of his judgment rather than supplementary input. He cites specific experiential contexts: 'neighbors looking out for each other as we rescued our economy' (ev_045), 'hugged cancer survivors who finally know the security of affordable health care' (ev_045), 'Joplin rebuild from disaster, Boston show the world that no terrorist will ever break the American spirit' (ev_045). This goes beyond standard democratic consultation—Obama treats experiential multiplicity as method for validating and correcting policy reasoning, aligning with Dewey's view of shared experience as the substance of democratic community. The pattern suggests experience-sharing functions as epistemological practice, not merely political strategy.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_032",
+        "ev_008"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_learning_orientation",
+      "definition": "The tendency to frame institutions themselves as learning systems requiring continuous adaptation based on experimental outcomes, rather than as stable structures requiring preservation or overthrow.",
+      "finding": "Obama's government modernization initiative exemplifies institutional learning: 'We asked some of the sharpest minds from companies in Silicon Valley to come help us modernize the federal government' (ev_037), explicitly treating government as requiring ongoing adaptation. His Presidential Innovation Fellows program (ev_043) represents structural embodiment of institutional learning—bringing external perspectives into governmental problem-solving. The cancer moonshot (ev_042, ev_043) models cross-agency learning through task force coordination. This institutional learning orientation complements individual metacognition, extending Dewey's experimental method from individual cognition to organizational behavior. Obama frames government not as obstacle or instrument but as learning system requiring continuous refinement through democratic experimentalism—neither conservative preservation nor revolutionary transformation but ongoing reconstruction based on empirical outcomes.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_023"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Skepticism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

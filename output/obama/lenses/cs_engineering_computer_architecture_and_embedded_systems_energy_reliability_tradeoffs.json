@@ -1,0 +1,179 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "computer_architecture_and_embedded_systems_energy_reliability_tradeoffs",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strategic institutional architect who works within structural constraints while selectively expanding executive agency",
+      "finding": "Obama consistently operates within existing political structures while strategically deploying available mechanisms to reshape outcomes. He sought bipartisan consensus on transportation (evt_006, ev_008) and celebrated Congressional cooperation as 'Christmas miracles' (ev_048), indicating respect for institutional processes. However, when those pathways proved blocked, he systematically activated alternative mechanisms: signing executive orders on contractor minimum wage (evt_014, ev_017), taking over 20 executive actions in his 'Year of Action' (evt_015, ev_019), and issuing definitive veto threats against Wall Street Reform repeal (evt_020, ev_029). This pattern suggests a world-shaper who recognizes structural limits but actively expands the boundaries of available agency rather than accepting constraints passively. His framing of TPP as preventing China from 'writing the rules of the global economy' (ev_031) further reveals an attempt to actively shape international institutional frameworks.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_031",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded with preference for measurable metrics and documented outcomes over ideological abstraction",
+      "finding": "Obama's belief formation strongly relies on quantifiable evidence and demonstrable results. His addresses consistently cite specific statistics: 11 million jobs over 57 months (ev_025), Head Start program cuts affecting children (ev_014), $11 billion recovered for 26 million consumers through CFPB (ev_028), wind power tripled and solar thirtyfold (ev_040). He explicitly uses deficit reduction data showing deficits 'falling at the fastest rate since World War II' (ev_016). However, his epistemic approach is not purely technocratic—he combines empirical claims with empathetic framing, documenting how sequester impacts 'parents whose kids just got kicked out of Head Start programs' and 'seniors who depend on programs like Meals on Wheels' (ev_014). This hybrid approach suggests a leader who grounds arguments in measurable outcomes while maintaining moral framing for public persuasion. His willingness to acknowledge that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates empirical honesty rather than ideological rigidity.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances abstract philosophical principles with concrete policy mechanics and measurable implementation targets",
+      "finding": "Obama demonstrates capacity for both abstract principle articulation and concrete system design. His 'middle-out' economic philosophy ('Our economy grows best not from the top-down, but from the middle-out' - ev_021) provides an abstract governing principle, while his policy agenda operationalizes this through specific mechanisms: minimum wage increases, equal pay legislation, unemployment insurance restoration, and workforce training investment. He articulates opportunity as an abstract principle ('no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America' - ev_018) while simultaneously proposing formal legislation and executive orders with measurable thresholds ($10.10/hour). His energy blueprint demonstrates systems-level thinking: integrating domestic drilling, fuel efficiency standards, clean energy investment, and private sector partnerships (evt_004). This suggests an abstraction_formalization capacity that moves fluidly between philosophical frameworks and engineering-level policy design.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Seeks institutional mechanisms that enforce rules rather than personal domination, with demonstrated willingness to use executive authority when legislative channels fail",
+      "finding": "Obama's control orientation emphasizes building self-sustaining institutional mechanisms over personal power accumulation. His veto threat against Wall Street Reform repeal demonstrates willingness to use executive power to protect institutional frameworks (ev_029). However, his preferred control mechanism is creating durable institutional structures with embedded enforcement: the CFPB as 'independent Consumer Financial Protection Bureau with one mission: to protect American consumers' (ev_028), the Paris climate agreement as 'something to build upon' (ev_041), and ACA's extension of Medicare solvency by 12 years (ev_002). He shows less interest in personal control and more in designing systems that constrain future actors: 'We've worked too hard to recover from one crisis only to risk another' (ev_029). His refusal to negotiate over debt ceiling ('I will not negotiate over the full faith and credit of the United States' - ev_015) suggests a control orientation focused on protecting institutional integrity rather than consolidating personal authority. He consistently frames power as institutional rather than personal.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_028",
+        "ev_029",
+        "ev_041",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes policy missions over relational comfort, accepting significant political friction to protect core institutional achievements",
+      "finding": "Obama demonstrates a clear pattern of accepting relational costs in service of policy missions. He declared he would 'veto it' if any bill attempted to unravel Wall Street Reform, explicitly accepting conflict with financial interests (ev_029). His 'Year of Action' included explicit criticism of Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea' and listed specific rejections of minimum wage, equal pay, and unemployment insurance (ev_020). He publicly listed Congressional blocks as failures, accepting political friction. His decision to use executive orders on minimum wage when Congress refused action (ev_017) demonstrates willingness to bypass relational consensus for policy advancement. However, his rhetoric consistently leaves doors open—he criticized obstruction while still framing issues as 'not a Democratic or a Republican issue' (ev_008) and celebrating bipartisan budget deals as 'Christmas miracles' (ev_048). This suggests mission-prioritization tempered by sustained attempts at coalition-building.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderately conservative with emphasis on reliable institutional returns over dramatic peaks; invests in redundant mechanisms",
+      "finding": "Obama's risk posture reveals a consistent preference for reliable, sustained performance over dramatic high-risk bets. His economic philosophy emphasizes 'middle-out' growth and stability rather than peak returns for elites (ev_021). He describes American resurgence as measured and real ('Pick any metric you want – America's resurgence is real' - ev_024), resisting hyperbolic claims. His energy strategy explicitly rejected drilling alone as insufficient ('Drilling alone is not a real strategy' - ev_005), emphasizing diversified, reliable energy security rather than single-point solutions. His deficit reduction approach emphasized 'balanced' solutions combining spending cuts and revenue (ev_013), avoiding extreme positions. His 2015 accomplishments list emphasizes breadth across multiple domains (2.5 million jobs, uninsured rate below 10%, Paris agreement, Iran deal, same-sex marriage - ev_033) suggesting a portfolio approach rather than single dramatic bet. This risk posture mirrors computing architectures that prioritize sustained throughput over peak performance, accepting lower maximums for higher reliability.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_021",
+        "ev_024",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Views authority as institutional mechanism to be used strategically rather than as personal dominance; respects procedural legitimacy while leveraging formal powers",
+      "finding": "Obama demonstrates sophisticated understanding of institutional authority as a tool rather than personal dominion. He respects procedural hierarchy by consistently calling on Congress rather than bypassing it when possible (ev_008, ev_013), framing issues as requiring legislative action. His veto threat against Wall Street Reform repeal (ev_029) uses constitutional authority as a structural check rather than personal leverage. He explicitly states 'That's why Congress should act' on Trade Promotion Authority (ev_026), recognizing institutional roles. However, he uses executive authority strategically when institutional pathways fail, signing executive orders on minimum wage (ev_017) and taking 20+ executive actions (ev_019). He describes government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036), framing institutional power as civic resource rather than personal endowment. His farewell address emphasizes collective credit ('It's you—the American people' - ev_032) and commits to 'working along your side, as a citizen' (ev_047), deliberately diffusing personal authority. This suggests hierarchical orientation viewing power as institutional trust to be exercised within procedural bounds.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_017",
+        "ev_026",
+        "ev_029",
+        "ev_036",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Combines negotiation attempts with escalating firmness; willing to use formal authority as final backstop when consensus fails",
+      "finding": "Obama's conflict strategy demonstrates sequenced escalation with consistent principles. He initiates with coalition-building and bipartisan framing: 'This isn't a Democratic or a Republican issue' (ev_008), citing AFL-CIO and Chamber of Commerce cooperation. When blocked, he escalates to public pressure with specific human costs: documenting Head Start cuts, senior meal program impacts, military strain (ev_014). He explicitly names Congressional failures: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). His final escalation involves formal authority deployment: definitive veto threats ('I will veto it' - ev_029), executive orders bypassing legislative obstruction, and refusal to negotiate on debt ceiling ('I will not negotiate' - ev_015). Notably, his conflict language remains constructively framed even when firm—he calls blocked Republicans to account while leaving future cooperation doors open (ev_048 celebrates bipartisan budget as 'Christmas miracle'). This suggests a conflict strategy that uses firmness as mechanism for protecting institutional integrity rather than as personal dominance.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistently long-term oriented with emphasis on institutional durability over immediate political returns; willing to accept short-term costs for sustained capability",
+      "finding": "Obama demonstrates strong orientation toward multi-decade institutional investments over immediate political returns. ACA explicitly extended Medicare solvency by 12 years (ev_002), a structural commitment beyond any single administration. Energy blueprint targeted 2035 oil import reduction (evt_004), a 24-year horizon. Paris climate agreement represents generational commitment he explicitly frames as legacy ('something to build upon' - ev_041). His Cancer Moonshot reflects 45-year accumulated progress building toward breakthrough (ev_042). He explicitly contrasts his approach with short-term thinking: 'decades-long erosion of middle-class jobs and incomes' requires sustained attention (ev_024). His December 2015 list of top 10 accomplishments reflects portfolio thinking across multiple time horizons (ev_033). He accepts short-term costs for long-term gains: calling for balanced deficit reduction now to prevent future crises (ev_013), accepting political friction to build durable frameworks. His farewell emphasizes 'working along your side, as a citizen' beyond electoral cycles (ev_047), modeling sustained engagement. This time horizon mirrors system design that prioritizes longevity and maintainability over peak performance.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_024",
+        "ev_033",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural institutional design over local repair; invests in foundational frameworks even when repair would be faster",
+      "finding": "Obama consistently prefers structural redesign over incremental patching. His signature achievements are foundational institutional frameworks: ACA as comprehensive healthcare system redesign, Dodd-Frank as complete financial regulatory restructuring, Paris Agreement as global climate architecture. He explicitly rejected partial solutions: 'Drilling alone is not a real strategy' (ev_005) for energy security, demanding integrated approaches. His critique of Senate obstruction (ev_010) called out 'gumming up the works' rather than proposing workarounds, implying structural reform rather than tactical accommodation. His government modernization initiative brought Silicon Valley expertise into federal structure (ev_037), systemic capacity-building rather than surface-level fixes. His trade promotion authority push (evt_019) aimed at writing comprehensive global rules rather than patching existing arrangements. Even his response to sequester—calling for 'balanced deficit reduction' rather than emergency patches—reflects structural rather than symptomatic treatment. This preference for foundational architecture over quick fixes mirrors system design prioritizing architectural integrity over immediate patches.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_010",
+        "ev_037",
+        "evt_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with consistent pattern of externalizing credit and acknowledging limitations; demonstrates learning orientation",
+      "finding": "Obama demonstrates sophisticated metacognitive awareness across multiple dimensions. His farewell address explicitly credits external sources: 'It's you—the American people... All of this progress is because of you' (ev_032), attributing achievements to collective action rather than personal brilliance. He explicitly states learning: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledges past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), demonstrating empirical rather than defensive self-assessment. His description of diverse experiences as making him 'a better man' (ev_045) shows integration of experience into self-concept. His invitation to civic participation beyond elections (ev_046) reflects understanding that political capital is relational and must be renewed. However, evidence also shows potential metacognitive blind spots: his statistical claims occasionally carried medium editorial risk (ev_016, ev_023, ev_031) suggesting possible overconfidence in certain metrics. His consistent positivity framing ('America's resurgence is real' - ev_024) may reflect motivated reasoning about institutional trajectory.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "political_capital_energy_accounting",
+      "definition": "The metaphorical application of computational energy budgets to political capital management—understanding that high-intensity confrontations consume political resources that require recovery periods, and that sustainable leadership requires balancing aggressive action against institutional fatigue",
+      "finding": "Obama demonstrates sophisticated understanding of political capital as finite resource requiring careful energy accounting. His pattern of building bipartisan coalitions before escalating to executive action (ev_008, ev_013) suggests deliberate energy conservation—preserving political capital for essential battles. His 'Year of Action' (evt_015) represented a deliberate shift from energy-conserving consensus-building to direct action, deploying accumulated capital. His consistent framing of achievements as collective ('It's you—the American people' - ev_032) and commitment to continued civic participation beyond office ('working along your side, as a citizen' - ev_047) suggests an energy-recycling strategy—transforming executive political capital into civic engagement capital for post-presidency impact. His willingness to accept short-term political friction (veto threats, executive orders against Congressional will) while avoiding maximum-intensity confrontations that would deplete capital suggests calibrated deployment rather than either restraint or reckless spending. This mirrors embedded systems that manage energy budgets across duty cycles, avoiding both premature depletion and excessive conservatism.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_032",
+        "ev_047",
+        "evt_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "sustained_throughput_optimization_over_peak_performance",
+      "definition": "Computing architecture principle applied metaphorically: systems optimized for peak benchmark performance often fail faster and operate inefficiently at typical loads, whereas systems optimized for sustained throughput maintain reliability through variable demand periods. Applied to leadership: preference for steady institutional capability building over dramatic headline achievements",
+      "finding": "Obama's policy portfolio reflects systematic preference for sustained throughput over peak performance. His economic record emphasizes 57 consecutive months of job growth (ev_025), not singular dramatic quarters. His accomplishments list in 2015 shows breadth across multiple domains (jobs, healthcare, climate, diplomacy, civil rights) rather than singular dramatic achievement (ev_033). His energy strategy diversified across drilling, efficiency, clean energy, and partnerships rather than betting on single technology. His institutional creations (CFPB, ACA provisions, Paris Agreement) are designed for long-duration operation rather than immediate dramatic impact. He explicitly frames his approach as steady progress: 'Pick any metric you want – America's resurgence is real' (ev_024), resisting hyperbolic peaks. His December 2015 address frames accomplishments as 'Top 10 Things' list—portfolio presentation rather than single crown jewel. This mirrors computing architectures where peak benchmark scores often mask poor sustained performance, and where reliability engineering prioritizes consistent operation over spectacular short-term metrics.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

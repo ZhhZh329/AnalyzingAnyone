@@ -1,0 +1,189 @@
+{
+  "discipline": "psychology",
+  "lens": "humanistic_existential_narrative_self_actualization",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with sophisticated adaptation to structural constraints",
+      "finding": "Obama consistently positioned himself as an active agent of change rather than a passive responder to circumstances. His 2010 statement that 'As long as I am President, that's a commitment this country is going to keep' regarding Medicare exemplifies this world-shaping posture. However, the evidence reveals a sophisticated adaptive pattern: when institutional structures blocked his preferred pathways, he shifted to executive action while continuing to advocate for legislative change. His articulation of the 'middle-out' economic philosophy demonstrates agency oriented toward systemic transformation rather than merely managing existing arrangements. His constant framing of progress as resulting from collective action with government as tool rather than as autonomous driver suggests a balanced understanding that individual agency operates within and through structural constraints, consistent with Maslow's view that self-actualization occurs through engagement with rather than escape from one's context.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_021",
+        "ev_036",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded with moral conviction, integrating evidence with values-based reasoning",
+      "finding": "Obama's epistemic approach demonstrates consistent reliance on empirical evidence while maintaining clear normative commitments. He repeatedly cited specific statistics—11 million jobs created, 26 million consumers recovered $11 billion, carbon pollution at 25-year lows—as the foundation for his claims. Significantly, he displayed epistemic humility regarding his own administration's record, stating 'I'm the first to admit that past trade deals haven't always lived up to the hype.' This willingness to acknowledge partial truths in positions he still defended suggests a capacity for nuanced belief formation. His epistemic style appears to integrate Rogers' 'organismic valuing process'—a trust in one's own experience and judgment—with empirical grounding. He seems to believe that data serves values rather than replacing them, using evidence to make moral arguments rather than to avoid them.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_040",
+        "ev_027",
+        "ev_025",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with effective communication bridging abstract principles and concrete impacts",
+      "finding": "Obama demonstrates substantial capacity for abstract reasoning through his articulation of coherent philosophical frameworks—the 'middle-out' economic philosophy, the distinction between war on al-Qaeda versus Islam, the framing of government as tool for collective problem-solving. However, his abstraction serves communication rather than operating as an end in itself. He consistently translated abstract principles into concrete impacts: 'There are parents whose kids just got kicked out of Head Start programs,' 'Nearly 7.5 million students seeing their loan rates double.' This suggests abstraction deployed instrumentally to create coherent meaning rather than as a preferred mode of engagement. The ACA itself represents formalization—the systematization of healthcare markets—yet he defended it through human stories. This pattern indicates abstraction capacity functioning in service of connection rather than as retreat from lived reality.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_012",
+        "ev_014",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-low control orientation, preferring influence and advocacy over coercive control",
+      "finding": "Despite holding the most powerful office in the world, Obama's control orientation appears surprisingly moderate in his expressed approach. He frequently called on Congress rather than claiming unilateral authority, framing himself as advocate rather than commander. His executive orders on minimum wage and his 'Year of Action' represented control exercised as fallback when persuasion failed. The veto threat on Wall Street reform was exceptional rather than typical. His 2012 statement that 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' framed obstruction as deviation from normal process rather than calling for presidential override. This suggests an internal model where influence through legitimate authority is preferred over control through raw power—a pattern consistent with self-actualization's movement away from security-based control needs toward growth-oriented agency.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission consistently prioritized over relational comfort with political constituencies",
+      "finding": "The evidence strongly supports mission prioritization over relational comfort. Obama repeatedly staked political capital on controversial reforms that damaged relationships with powerful interests. His defense of Dodd-Frank Wall Street reform, which he explicitly promised to veto any attempt to repeal, alienated significant financial industry support. His persistent advocacy for minimum wage increases despite Republican opposition demonstrates willingness to accept sustained conflict for policy goals. His emphasis on climate action and the Paris agreement represented commitment to long-term mission over short-term political convenience. His 2013 sequester messaging highlighted real human costs—Head Start cuts, seniors losing Meals on Wheels, military strain—to make the moral case regardless of political comfort. Even his Father's Day reflection on his own absent father suggested personal experience informing deep commitment to fatherhood support programs. The consistent pattern across healthcare, financial reform, climate, and economic opportunity suggests genuine value-driven mission rather than political positioning.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_003",
+        "ev_020",
+        "ev_014",
+        "ev_040",
+        "ev_006",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking tempered by strategic restraint and clear red lines",
+      "finding": "Obama demonstrates a calibrated risk posture—willing to pursue major structural changes while maintaining firm boundaries on certain risks. His most significant risk-taking involved political capital: the ACA was deeply controversial, Dodd-Frank alienated powerful financial interests, the Iran nuclear deal required diplomatic boldness. Yet he showed restraint in military matters: emphasizing that his 'most solemn obligation' was ensuring troops were 'only sent into harm's way when absolutely necessary,' ending the Iraq war, planning Afghan transition. His 2013 debt ceiling stance—refusing to negotiate 'over the full faith and credit of the United States'—established a clear red line against what he framed as irresponsible risk. His energy policy combined risk-taking (clean energy investment) with pragmatic acceptance of existing energy infrastructure. This suggests a risk posture informed by clear value hierarchy: some risks (diplomatic, domestic policy innovation) acceptable for mission goals; others (military adventurism, economic destabilization) categorically avoided.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_012",
+        "ev_015",
+        "ev_038",
+        "ev_010",
+        "ev_004",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex relationship with hierarchy—legitimate authority accepted, illegitimate hierarchy resisted, institutional tools deployed pragmatically",
+      "finding": "Obama's relationship with hierarchy reveals sophisticated pragmatism. He accepted the legitimacy of constitutional authority while challenging its abuse: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned.' He used hierarchical tools—executive orders, veto threats, budget authority—when institutional pathways were blocked, demonstrating neither deference nor reflexive resistance to hierarchy. His framing of government as 'the best tool we've got to settle our differences and solve our collective challenges' represents a legitimating stance toward institutional hierarchy. Yet he also explicitly called for limiting insider trading by Congress and mandating 90-day up-or-down votes on nominations—reforms that would constrain congressional hierarchy. His invitation to Silicon Valley to 'help us modernize the federal government' suggests willingness to challenge traditional bureaucratic hierarchy in service of better outcomes. This complex engagement with hierarchy—using it when useful, reforming it when abusive, inviting external challenge to internal rigidity—suggests mature relationship with institutional power.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_037",
+        "ev_036",
+        "ev_015",
+        "ev_020",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-avoidant in style but willing to sustain necessary conflict for mission; translation preferred over escalation",
+      "finding": "Obama's conflict strategy shows a distinctive pattern: he preferred translation and appeal to shared values over direct confrontation, yet demonstrated capacity to sustain conflict when values required it. His consistent framing—'This isn't a Democratic or a Republican issue – it's an American issue'—represented translation strategy, seeking to reframe partisan conflict as shared national purpose. His condemnation of Senate obstruction was notable for its restraint, calling out the practice rather than specific individuals. Yet when confronted with Republican blockade of his agenda, he shifted to executive action and explicit critique: 'Republicans in Congress have blocked or voted down every serious idea to create jobs.' His 2015 veto threat on Wall Street reform represented escalation as last resort. His father's day reflection showed personal comfort with vulnerability and acknowledgment of absence—suggesting individual conflict-avoidance that institutional role required him to transcend. The pattern suggests translation as preferred strategy with escalation deployed when translation fails, rather than either avoidance or aggression as default.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_006",
+        "ev_010",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Primarily long-term mission horizon with sensitivity to immediate human impacts",
+      "finding": "Obama consistently demonstrated orientation toward long-term structural goals: climate change policy ('a low-carbon future,' 'for our children'), energy independence by 2025, education reform, healthcare system transformation. His Paris climate agreement framing—'That's not something to tear up – it's something to build upon'—explicitly positioned current action within multi-generational time horizon. His Cancer Moonshot reflected similar long-term thinking about disease eradication. Yet this long-term orientation was consistently grounded in immediate human impacts: Head Start children, seniors needing Meals on Wheels, veterans seeking jobs, students facing loan rate doubling. His farewell reflection on eight years of witnessing American goodness—'I've hugged cancer survivors,' 'I've seen communities like Joplin rebuild'—integrated long-term mission with immediate human experience. This suggests a time horizon that genuinely spans generations while maintaining intimate connection to present suffering and hope—a pattern consistent with self-actualization's movement toward 'beyond-self' concerns.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_040",
+        "ev_042",
+        "ev_045",
+        "ev_014",
+        "ev_039",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when political conditions permit, with pragmatic patching when necessary",
+      "finding": "The Affordable Care Act represents the clearest evidence of structural redesign preference—comprehensive healthcare market transformation rather than incremental coverage expansion. His defense of Dodd-Frank as systemic reform to prevent future crises ('We've worked too hard to recover from one crisis only to risk another') reflects structural thinking. His energy blueprint aimed for one-third oil import reduction by 2025 through systemic change (fuel efficiency, clean energy, domestic drilling) rather than emergency measures. However, when structural reform was blocked, he demonstrated pragmatic patching: temporary FAA fixes, continuing resolutions, executive orders within existing authority. His 'Year of Action' with 'more than 20 executive actions' represented creative patching when rebuilding was obstructed. The pattern suggests genuine preference for structural solutions with pragmatic flexibility when structural change proves impossible—a healthy relationship between ideals and constraints rather than rigid idealism or cynical compromise.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_004",
+        "ev_019",
+        "ev_029",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit reflection on learning, growth, and belief revision",
+      "finding": "Obama demonstrates notable metacognitive capacity through multiple evidence patterns. His farewell address—'Every day, I learned from you. You made me a better President, and you made me a better man'—represents explicit acknowledgment of cognitive growth through experience. His admission about past trade deals ('I'm the first to admit that past trade deals haven't always lived up to the hype') shows willingness to revise beliefs about his own prior positions. His personal reflection on absent fatherhood—'I felt his absence. And I wonder what my life would have been like had he been a greater presence'—suggests ongoing processing of formative experiences. His characterization of 'America's resurgence is real' while simultaneously noting 'decades-long erosion of middle-class jobs and incomes' held both optimistic and critical perspectives simultaneously. His attribution of all progress to 'the American people' rather than to his own leadership demonstrates awareness of how attribution patterns shape meaning. The consistent pattern suggests genuine metacognitive engagement—monitoring his own reasoning, acknowledging limits, revising views—rather than performative self-reflection.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006",
+        "ev_024",
+        "ev_032",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "relational_grounding",
+      "definition": "The capacity to maintain connection to ordinary human experience and ordinary people while operating at elite institutional levels; a form of embodied authenticity that prevents abstraction from becoming alienation",
+      "finding": "This dimension emerged from the striking consistency with which Obama grounded elite policy discourse in human experience. Despite occupying the most abstract and isolated institutional role in American democracy, his communications maintained connection to ordinary life: 'There are parents whose kids just got kicked out of Head Start programs,' visiting manufacturing plants on National Manufacturing Day, coaching his daughter's basketball team, hugging cancer survivors. His father's day reflection on his own absent father, his willingness to discuss 'what my life would have been like had he been a greater presence,' represents remarkable vulnerability for someone in his position. This relational grounding may represent a specific self-actualization resource—maintaining authentic connection to human experience as protection against the alienating potential of institutional power. The farewell address explicitly framed this as bi-directional: 'my conversations with you... are what have kept me honest, kept me inspired.' This suggests that for Obama, self-actualization was not individualistic achievement but ongoing relational process.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_014",
+        "ev_045",
+        "ev_044",
+        "ev_039",
+        "ev_017"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_faith_with_critical_edge",
+      "definition": "A complex orientation toward institutions that holds both genuine faith in their potential and clear-eyed awareness of their failures and the need for reform; neither naive idealism nor cynical dismissal",
+      "finding": "This emergent dimension captures Obama's distinctive relationship with American institutions. He expressed clear faith: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got.' Yet this faith coexisted with critical awareness: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned.' He acknowledged that 'past trade deals haven't always lived up to the hype.' He called for reforms to make Congress more accountable (ending insider trading, mandatory votes). He invited Silicon Valley to 'modernize the federal government.' This complex orientation—holding institutions as valuable while recognizing their failure to live up to ideals, and working for reform—represents a self-actualization pattern distinct from both institutional reverence and anti-institutional cynicism. It suggests that institutional engagement, with eyes open to limitations, can be a vehicle for growth rather than a constraint upon it.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_008",
+        "ev_037",
+        "ev_027",
+        "ev_010",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

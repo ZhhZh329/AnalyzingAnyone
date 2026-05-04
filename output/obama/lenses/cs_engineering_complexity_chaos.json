@@ -1,0 +1,156 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "complexity_chaos",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Pragmatic world-shaper who respects structural constraints",
+      "finding": "Obama consistently worked to reshape systems (ACA, Dodd-Frank, Paris Agreement) while acknowledging he operates within structural constraints. His agency orientation reflects complexity-appropriate thinking—he pushes for change but recognizes feedback loops from Congress, the courts, and public opinion. Evidence ev_015 shows he drew firm boundaries on what he would not negotiate (debt ceiling) while ev_019 shows he used executive actions to shape outcomes when legislative paths were blocked. His farewell address (ev_044, ev_045) demonstrates relational agency—he credited American citizens with making him a better president, recognizing that leadership is a two-way adaptive system rather than unilateral control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded pragmatist who acknowledges uncertainty and complexity",
+      "finding": "Obama's epistemic style shows sophisticated engagement with complexity theory's core insight—that some things are fundamentally uncertain. Ev_027 demonstrates intellectual honesty: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' This acknowledges that predictions about complex systems often fail. Ev_004 shows confidence derived from observing emergent phenomena ('ingenuity of entrepreneurs, tenacity of workers') rather than purely formal models. His speeches consistently blend empirical data (job numbers, statistics) with narrative reasoning, reflecting understanding that complex systems require both quantitative and qualitative epistemology. He distinguishes between empirical claims he can verify (CFPB recovery of $11 billion, ev_028) and normative positions, showing epistemic humility about what can be known versus what must be decided.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances abstract philosophy with concrete metrics—systems thinker who grounds theory",
+      "finding": "Obama demonstrates sophisticated use of abstraction. His 'middle-out' economic philosophy (ev_021) is an abstraction that captures how complex economic systems require broad middle-class participation to function. However, he consistently grounds abstractions in concrete metrics—57 months of job growth (ev_025), 11 million jobs created (ev_025), solar power multiplied 30x (ev_040). The Cancer Moonshot (ev_042, ev_043) shows formalization through cross-agency task forces and Presidential Innovation Fellows creating platforms like Trials.Cancer.Gov. This suggests understanding that simple formal structures (standards, interfaces, protocols) can enable complex emergent outcomes. His abstraction_formalization is moderate-strong—he abstracts principles but grounds them in formalizable metrics and structures.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_040",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Guides rather than controls—complexity-aware approach to system management",
+      "finding": "Obama's control orientation reflects complexity-appropriate understanding that you cannot fully control emergent systems. Ev_015 demonstrates this: 'I will not negotiate over the full faith and credit of the United States'—a firm boundary but not attempt to control Congress entirely. Ev_029 shows veto threats as guardrails rather than levers of control. Most revealingly, ev_037 shows him explicitly seeking external input: 'We asked some of the sharpest minds from companies in Silicon Valley to help us modernize the federal government.' This acknowledges that government modernization is a complex adaptive system requiring diverse inputs, not centralized control. His control orientation is bounded—he sets clear non-negotiables but otherwise guides and steers rather than dictates, reflecting understanding that in complex systems, control is limited and input diversity matters.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission commitment with genuine awareness of relational costs",
+      "finding": "Obama shows high mission orientation—ev_001 commits to strengthening Medicare 'as long as I am President,' and ev_029 shows willingness to veto any Wall Street Reform repeal. Yet his mission orientation is tempered by awareness of relational costs. Ev_014 documents human costs of sequester on Head Start families, seniors, military communities—not abstract victims but specific relational networks. Ev_038-039 shows genuine care for Gold Star families and concrete suggestions for citizen action. His Father's Day address (ev_006) sharing personal experience of absent father shows relational self-awareness. This suggests he understands that missions have cascading effects through relationship networks—'mission_vs_relational_cost' tension is real but not ignored.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_029",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker who builds in resilience rather than seeking false stability",
+      "finding": "Obama's risk posture shows sophisticated understanding of complexity. He consistently works to build resilience rather than eliminate uncertainty. Ev_031 frames TPP as risk mitigation—without it, China writes rules. Ev_041 defends Paris Agreement as something 'to build upon'—acknowledging it's not perfect but creates infrastructure for future adaptation. His approach to uncertainty shows patterns: set clear principles (ev_012, distinguishing war on al-Qaeda from Islam), build institutional guardrails (Dodd-Frank, CFPB), and acknowledge what cannot be controlled. He does not seek false stability—ev_013 shows he advocated balanced deficit reduction rather than either extreme. This risk posture reflects anti-fragile thinking: building systems that improve through stress rather than break.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_013",
+        "ev_031",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist who leverages formal and informal power networks",
+      "finding": "Obama operates primarily as an institutionalist—working through formal hierarchies (Congress, Supreme Court, international agreements) while navigating informal power networks. Ev_008 demonstrates understanding of both formal and informal power: 'One senator gumming up the works for the whole country' references informal obstruction tactics that exploit formal rules. He built coalitions across formal hierarchies (AFL-CIO and Chamber of Commerce together, ev_008) and reached beyond government (Silicon Valley partnerships, ev_037). Ev_009 shows distributed leadership through veteran hiring challenge to private companies. His farewell address (ev_046) calls for citizens to engage beyond elections—understanding that democratic power is distributed, not just hierarchical. He respects institutional legitimacy while recognizing that effective governance requires navigating emergent power networks.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Engages conflict directly while seeking constructive framing",
+      "finding": "Obama's conflict strategy reflects understanding that in complex systems, conflict can be creative. He engages conflict directly rather than suppressing it. Ev_010 explicitly condemned Senate obstruction as contrary to founders' intent—calling out conflict rather than papering over it. Ev_020 criticized Republican obstruction explicitly: 'They've said 'no' to raising the minimum wage, 'no' to equal pay.' Yet his conflict strategy consistently frames disputes constructively: 'Our economy grows best not from the top-down, but from the middle-out' (ev_021) reframes class conflict as economic wisdom. He distinguishes between conflict as creative tension and destructive obstruction. This suggests understanding that 'chaos edge'—where order meets disorder—is where innovation occurs. His willingness to draw lines (ev_015 debt ceiling, ev_029 veto threat) while maintaining engagement channels reflects sophisticated conflict navigation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_021",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale horizon awareness—immediate deadlines balanced with generational projects",
+      "finding": "Obama demonstrates sophisticated multi-scale temporal thinking. He manages immediate legislative deadlines (ev_011 'seven days until transportation funding expires,' ev_009 student loan rates doubling in 8 days) while simultaneously advancing generational projects. Paris Agreement (ev_034, ev_041) is explicitly framed as legacy for children. Cancer Moonshot (ev_042) has 45-year historical context. Ev_041 frames climate action as building for future: 'we can leave a better, cleaner, safer future for our children.' The sequester episodes show he understood path-dependence—small cuts accumulated to create larger system strain. His farewell (ev_047) explicitly commits to continued civic engagement 'for all my days that remain.' This multi-scale temporal awareness reflects understanding that complex systems operate across multiple time horizons simultaneously, and that current decisions constrain or enable future possibilities.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_009",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic reformer who prefers structural solutions over incremental patches",
+      "finding": "Obama consistently preferred structural redesigns over local patches. ACA (ev_001, ev_002) fundamentally reformed healthcare financing rather than patching existing programs—extending Medicare solvency 12 years, creating new coverage mechanisms. Dodd-Frank (ev_003, ev_028, ev_029) created new regulatory architecture with CFPB rather than incremental fixes. His executive actions on minimum wage (ev_017) and trade policy (TPP, ev_026, ev_030) created new frameworks rather than adjusting existing rules. Ev_037 shows government modernization effort explicitly seeking structural change through Silicon Valley partnerships. However, there are examples of patching when rebuilding wasn't possible—temporary FAA fix (ev_014) when full transportation bill failed. The evidence suggests a preference for structural solutions when political conditions allow, with pragmatic patching when necessary. This reflects understanding that in complex systems, patch solutions can create unexpected dynamics but must sometimes be accepted as achievable alternatives to perfect solutions.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_017",
+        "ev_028",
+        "ev_037"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated learning and adaptation",
+      "finding": "Obama shows strong metacognitive awareness. His farewell address (ev_044) explicitly states: 'Every day, I learned from you. You made me a better President, and you made me a better man'—demonstrating active monitoring of his own learning process. Ev_027 shows intellectual humility about epistemic limits: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' Ev_036 reflects on democratic governance: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got'—showing awareness of how institutional design shapes available options. His call for sustained civic engagement (ev_046) beyond elections suggests understanding that democratic systems require ongoing participation to remain adaptive. The Cancer Moonshot approach (ev_042, ev_043) shows organizational metacognition—building feedback mechanisms through Presidential Innovation Fellows and creating platforms for continuous learning. He demonstrates awareness that his own thinking is fallible and shaped by inputs, characteristic of complexity-aware metacognition.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_036",
+        "ev_046",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "emergent_coalition_architecture",
+      "definition": "Ability to design cross-domain partnerships that leverage complementary interests—distinct from general coalition-building because it involves creating new relationship structures rather than just aggregating existing allies",
+      "finding": "Obama demonstrated sophisticated ability to architect coalitions that transcended traditional political boundaries. Ev_008 shows unprecedented alliance: 'representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' united on transportation funding. Ev_037 built government-Silicon Valley partnerships for modernization. Ev_009 issued veteran hiring challenge to private sector, creating distributed implementation network. This goes beyond traditional coalition-building because it creates new relationship structures (innovation fellowships, public-private partnerships) that enable emergent outcomes beyond what any single actor could achieve. It's complexity-aware because it leverages the system's own distributed capabilities rather than attempting centralized control. The evidence suggests Obama understood that in complex systems, architectural innovation—designing how actors connect—can be as powerful as direct intervention.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_037",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

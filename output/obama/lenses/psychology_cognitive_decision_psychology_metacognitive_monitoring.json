@@ -1,0 +1,167 @@
+{
+  "discipline": "psychology",
+  "lens": "cognitive_decision_psychology_metacognitive_monitoring",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation tempered by structural realism and acknowledged constraints",
+      "finding": "Obama consistently positions himself as actively shaping policy outcomes rather than merely responding to external forces—he uses executive orders (ev_017), veto threats (ev_029), and direct presidential advocacy to drive change. However, his rhetoric shows metacognitive calibration: he explicitly acknowledges constraints like 'Republicans in Congress have blocked or voted down every serious idea' (ev_020) and admits past trade deals 'haven't always lived up to the hype' (ev_027). This suggests he distinguishes between his preferred agency and what institutional/political structures permit, indicating sophisticated self-monitoring of his own capacity to effect change. His world-shaping is deliberate but pragmatic rather than delusional about control.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_020",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Well-calibrated epistemic confidence with appropriate acknowledgment of uncertainty and limitation",
+      "finding": "Obama demonstrates strong epistemic calibration—the ability to match confidence level to evidence strength. He makes verifiable factual claims with precision: 'nearly 26 million consumers recovered $11 billion' from CFPB (ev_028), '11 million new jobs over 57 months' (ev_025), 'extended Medicare solvency by at least 12 years' (ev_002). Crucially, he distinguishes between his confident assertions on verifiable data and acknowledged epistemic humility on matters of judgment: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He separates his preferences from claimed certainty, stating 'My preference... is to do that in a balanced, comprehensive way' (ev_013) rather than asserting the preferred outcome as inevitable. This pattern indicates metacognitive awareness of the difference between empirical claims and value judgments.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity with strategic deployment of concrete anchoring",
+      "finding": "Obama demonstrates sophisticated abstraction ability in articulating governing philosophies like 'middle-out' economics ('Our economy grows best not from the top-down, but from the middle-out' - ev_021) and principled foreign policy stances ('America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' - ev_012). However, he strategically grounds abstractions in concrete metrics: job creation numbers, specific dollar amounts, concrete policy deadlines. He explicitly rejected abstraction-only thinking on energy: 'Drilling alone is not a real strategy to replace our dependence on foreign oil' because 'we currently have about 2 percent of the world's oil reserves' (ev_005). This suggests metacognitive flexibility—knowing when to deploy abstract principles versus concrete evidence to persuade different audiences and serve different rhetorical purposes.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_012",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high institutional control orientation focused on systemic process rather than personal domination",
+      "finding": "Obama demonstrates control orientation primarily through institutional mechanisms rather than personal power-seeking. He draws explicit lines on constitutional/fiscal matters ('I will not negotiate over the full faith and credit of the United States' - ev_015) and veto threats against Wall Street Reform repeal (ev_029). He takes 'more than 20 executive actions' in his 'Year of Action' (ev_019) and signs executive orders raising contractor minimum wage (ev_017). However, his control orientation is bounded—he repeatedly calls on Congress rather than bypassing it when possible, and in his farewell address, credits 'the American people' for progress rather than claiming personal agency ('All of this progress is because of you' - ev_032). This pattern suggests controlled ambition channeled through institutional norms rather than personal power maximization, with metacognitive awareness of appropriate presidential role boundaries.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission prioritization with clear willingness to accept relational/political costs on core principles",
+      "finding": "Obama prioritizes policy missions over relational comfort when core principles are at stake. He issues direct veto threats (ev_029), condemns Senate obstruction as 'certainly not what our founding fathers envisioned' (ev_010), and criticizes Republican opposition explicitly: 'Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class. They've said no to raising the minimum wage, no to equal pay' (ev_020). He refuses to negotiate on debt ceiling ('I will not negotiate over the full faith and credit' - ev_015). Yet he maintains relational bridges in non-core areas, repeatedly calling for bipartisan solutions ('This isn't a Democratic or a Republican issue' - ev_008) and celebrating Congressional cooperation when it occurs (ev_048). This suggests calibrated mission prioritization—strategic patience on persuadable issues, firm stands on non-negotiable principles, with metacognitive awareness of when each approach serves long-term goals.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-aware posture with calculated tolerance for political risk on principle-driven positions",
+      "finding": "Obama demonstrates calibrated risk tolerance grounded in articulated principles. He accepts significant political risk by drawing lines on debt ceiling (ev_015) and Wall Street Reform (ev_029) even when politically costly. He frames risk in concrete terms: 'Nearly 1 million jobs over next year' if transportation bill fails (ev_006), '7.5 million students seeing loan rates double' if Congress doesn't act (ev_011). His energy strategy explicitly acknowledges constraints: 'Even though America uses 25 percent of the world's oil, we currently have about 2 percent of the world's oil reserves' (ev_005)—demonstrating awareness of resource limitations that constrain options. His TPP advocacy carries calculated geopolitical risk: 'Without this agreement, competitors...like China, will write the rules of the global economy' (ev_031). This pattern indicates risk postures informed by systematic analysis rather than either recklessness or excessive caution, with metacognitive monitoring of what risks are worth bearing.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006",
+        "ev_011",
+        "ev_015",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy orientation with principled constraint on presidential power",
+      "finding": "Obama operates within and through institutional hierarchy but frames presidential power as bounded by constitutional norms rather than unbounded. He uses formal presidential mechanisms—vetoes (ev_029), executive orders (ev_017), direct addresses to Congress—but positions these within legitimate institutional roles. On debt ceiling, he states: 'The United States of America is not a deadbeat nation...and doing anything to threaten that is the height of irresponsibility' (ev_015)—invoking national identity rather than personal prerogative. He condemns Senate obstruction as contrary to founders' intent (ev_010) rather than simply asserting executive supremacy. In his farewell, he explicitly credits collective action and citizens rather than presidential power: 'Every day, I learned from you. You made me a better President' (ev_044). This suggests metacognitive understanding of appropriate hierarchical role—not as monarchical actor but as institutional leader constrained by democratic legitimacy.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation on core issues balanced with cooperative framing on persuadable matters",
+      "finding": "Obama demonstrates differentiated conflict strategies calibrated to issue type. On non-negotiable matters (debt ceiling, Wall Street Reform), he engages in direct confrontation: explicit veto threats, condemnation of opposition tactics, clear red lines. On persuadable matters, he uses cooperative framing: 'This isn't a Democratic or a Republican issue' (ev_008), citing AFL-CIO and Chamber of Commerce together, celebrating bipartisan budget as 'Christmas miracles' (ev_048). He translates partisan conflict into principled disagreement: 'one senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He escalates strategically when principles require it but delays/persuades when tactical. Notably, he acknowledges both parties engage in 'tactics like these' (ev_010), suggesting self-aware awareness that conflict is systemic, not merely external. This indicates metacognitive sophistication in choosing among conflict modes based on contextual analysis.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission orientation with strategic use of short-term communication tactics",
+      "finding": "Obama demonstrates consistent long-term temporal orientation in framing: 'America's resurgence is real' (ev_024), 'reverse the decades-long erosion of middle-class jobs and incomes' (ev_024), extended Medicare solvency by 'at least a dozen years' (ev_002). He references structural rather than cyclical patterns. However, he strategically deploys short-term urgency in communications when mobilizing action: 'seven days away from thousands of American workers having to walk off the job' (ev_011), 'nearly $1 billion in highway funding within 10 days' (ev_006). This tactical use of immediate deadlines serves longer strategic goals. His Cancer Moonshot (ev_042-43) exemplifies long-horizon thinking with intermediate milestones. His farewell address indicates temporal awareness extending beyond presidency: 'I look forward to working along your side, as a citizen, for all my days that remain' (ev_047). This suggests metacognitive capacity to operate simultaneously on multiple time scales—maintaining long-term vision while calibrating short-term communication.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_006",
+        "ev_011",
+        "ev_024",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural reform orientation over incremental adjustment",
+      "finding": "Obama consistently prefers systemic redesign over piecemeal solutions. His signature achievements—ACA (Patient Protection and Affordable Care Act), Dodd-Frank (Wall Street Reform), energy blueprint aiming to 'cut oil imports by one-third by 2025' (ev_004)—represent structural interventions rather than repairs. He explicitly contrasts his approach with temporary fixes: 'I've taken more than 20 executive actions' (ev_019) to create systemic change, not one-time relief. On sequester, he advocates replacement with 'balanced deficit reduction approach' (ev_013) rather than extension. He articulates 'middle-out' economic philosophy (ev_021) as structural transformation, not stimulus. However, he demonstrates pragmatic rebuild/patch calibration—celebrating 'Christmas miracles' of bipartisan cooperation (ev_048) when structural reform is blocked. He acknowledges that past trade deals 'haven't lived up to the hype' (ev_027) while still pursuing new structural agreements. This suggests metacognitive awareness of when conditions permit structural change versus when patch is pragmatically superior, without abandoning long-term structural vision.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_013",
+        "ev_019",
+        "ev_021",
+        "ev_027",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Highly developed metacognitive monitoring with strong self-awareness and adaptive calibration",
+      "finding": "Obama demonstrates exceptional metacognitive monitoring across multiple dimensions. First, epistemic calibration: he matches confidence to evidence—specific and verifiable on statistics (ev_028, ev_033), explicit acknowledgment of uncertainty on value-laden claims ('I'm the first to admit that past trade deals haven't always lived up to the hype' - ev_027). Second, self-other monitoring: he credits external input for his own improvement ('Every day, I learned from you...You made me a better President' - ev_044), explicitly states conversations 'kept me honest' (ev_044)—indicating awareness that his thinking requires external calibration. Third, acknowledgment of cognitive boundaries: he frames TPP as preventing China from writing rules (ev_031), suggesting awareness of what outcomes his choices produce versus what others would produce. Fourth, adaptive strategy revision: he explicitly changed positions based on evidence, acknowledging past failures while maintaining forward vision. Fifth, multi-perspective taking: he frames policy impacts through vulnerable populations ('Parents whose kids just got kicked out of Head Start programs' - ev_014), suggesting cognitive perspective-taking capacity. These patterns indicate advanced metacognitive development with consistent self-monitoring and adaptive reasoning.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_031",
+        "ev_044",
+        "ev_045",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "epistemic_citizenship",
+      "definition": "The tendency to publicly model intellectual humility while simultaneously crediting collective intelligence, creating a self-regulatory mechanism that invites external monitoring of one's claims. This goes beyond standard metacognition by actively soliciting epistemic correction from citizens rather than treating public communication as one-directional persuasion.",
+      "finding": "Obama demonstrates consistent epistemic citizenship through explicit attribution of progress to collective action ('All of this progress is because of you' - ev_032), admission of learning from citizens ('Every day, I learned from you' - ev_044), and acknowledgment of past policy failures ('past trade deals haven't always lived up to the hype' - ev_027). This pattern suggests metacognitive engagement with epistemic humility as a public practice—systematically inviting correction rather than projecting infallibility. This serves dual functions: reducing overconfidence bias through external input and modeling democratic epistemic norms for civic participation. By publicly crediting citizens with his own improvement, he creates institutional accountability for his reasoning while modeling intellectual humility as civic virtue.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

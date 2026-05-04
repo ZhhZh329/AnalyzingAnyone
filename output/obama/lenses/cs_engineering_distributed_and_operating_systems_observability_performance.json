@@ -1,0 +1,177 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "distributed_and_operating_systems_observability_performance",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with strategic deployment of available levers",
+      "finding": "Obama consistently demonstrated an agency orientation that prioritized shaping outcomes rather than merely responding to structural constraints. When Congress blocked legislation, he shifted to executive action—a pattern visible in the 'Year of Action' declaration (ev_019) and the minimum wage executive order (ev_017). Rather than accepting legislative deadlock as an immovable constraint, he systematically catalogued available mechanisms and deployed them: the Cancer Moonshot (ev_042, ev_043) transformed federal research coordination; Silicon Valley partnerships (ev_037) restructured government modernization itself. This world-shaping impulse manifested even in framing—TPP was presented not as participation in existing global trade but as the opportunity to 'write the rules of the global economy' (ev_031), positioning the US as the active architect rather than passive participant. The consistent pattern across seven years of addresses is one of treating political and institutional structures as manipulable variables rather than fixed constraints.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_031",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Primarily evidence-driven with selective deployment patterns",
+      "finding": "Obama's epistemic style demonstrates a strong reliance on metrics, statistics, and verifiable claims as the foundation for positions and arguments. He repeatedly anchored arguments in specific numbers: 11 million jobs over 57 months (ev_025), 26 million consumers recovering $11 billion via CFPB (ev_028), wind power tripled and solar 30x (ev_040), uninsured rate below 10% for the first time (ev_033). The statement 'Pick any metric you want – America's resurgence is real' (ev_024) exemplifies his willingness to be held to quantitative accountability. Notably, he demonstrated epistemic humility when acknowledging 'past trade deals haven't always lived up to the hype' (ev_027), showing willingness to update positions based on evidence. However, the evidence also shows strategic deployment of data—the sequester framing (ev_014) deliberately emphasized vulnerable populations to create moral urgency around metrics, suggesting that while evidence-driven, his epistemic approach is calibrated for persuasive effect rather than purely diagnostic.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with commitment to formal mechanism design",
+      "finding": "Obama consistently operated at multiple levels of abstraction—from philosophical articulation ('middle-out' economic theory in ev_021) to specific formal mechanisms (Clean Fleets Partnership with UPS, FedEx, AT&T in ev_004; CFPB structure in ev_028). He demonstrated comfort with formalization by establishing task forces with explicit mandates (Cancer Moonshot cross-agency coordination in ev_043), creating measurable targets (cutting oil imports by one-third, 100,000 veteran hires), and building institutional structures designed to persist beyond his administration (Dodd-Frank consumer protections). The Presidential Innovation Fellows program (ev_043) represents explicit formalization of government-tech integration. His abstraction tendency appears in the consistent framing of policy through systemic lenses—treating legislative obstruction, economic inequality, and climate change not as isolated problems but as symptoms of structural conditions requiring formal system redesign rather than ad hoc intervention.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_028",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through mechanism design rather than direct manipulation",
+      "finding": "Obama's control orientation consistently favored indirect control through feedback mechanisms, institutional design, and boundary conditions rather than direct intervention. The CFPB (ev_028) exemplifies this—rather than directly regulating financial products, he established an independent watchdog with 'one mission: to protect American consumers' and built recovery mechanisms that generated measurable outcomes. The Cancer Moonshot (ev_042, ev_043) similarly deployed task force structures and Presidential Innovation Fellows to solve coordination problems rather than commanding solutions directly. His willingness to negotiate while maintaining non-negotiable positions (ev_015, debt ceiling) suggests comfort with boundary-setting rather than continuous direct control. The pattern across addresses indicates preference for establishing mechanisms (CFPB, Clean Fleets Partnership, Innovation Fellows, TPP labor standards) that enforce desired behavior through structure rather than ongoing personal intervention.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_028",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority with calculated tolerance for relational friction",
+      "finding": "Obama demonstrated willingness to incur significant relational costs when mission objectives were at stake, while maintaining enough coalition flexibility to avoid permanent relationship destruction. The explicit criticism of Congressional Republican obstruction—'Republicans in Congress have blocked or voted down every serious idea' (ev_020)—represented a deliberate choice to absorb relational damage for the sake of agenda advancement. His 'I will not negotiate over the full faith and credit' stance (ev_015) on the debt ceiling prioritized mission integrity over diplomatic accommodation. However, the simultaneous engagement of AFL-CIO and Chamber of Commerce (ev_008) on transportation funding, and consistent framing of issues as 'not Democratic or Republican' (ev_008), demonstrates strategic relationship preservation. The farewell address's attribution of all progress to 'the American people' (ev_032) further suggests calibration of relational optics even when pursuing confrontational positions. The pattern indicates mission priority but with awareness of long-term coalition maintenance.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with selective aggressive action",
+      "finding": "Obama's risk posture combined defensive protection of existing gains with selective aggressive risk-taking on new initiatives. The defensive layer is evident in the unwavering commitment to protect and defend Dodd-Frank with 'I will veto it' (ev_029), defending ACA implementation (ev_001), and framing the sequester as requiring replacement to prevent cascading failures (ev_013, ev_014). The more aggressive risk posture appeared in transformative initiatives: the Cancer Moonshot accepted the complexity of 45 years of cancer research failure (ev_042) as a problem worth tackling; TPP engaged geopolitical risks by betting on US rule-writing capacity (ev_031); the Paris climate agreement committed to 200-nation coordination (ev_034). His risk calculus showed awareness of tail risks—the 'Year of Action' executive orders (ev_019) were explicitly responses to legislative failure risk. The pattern suggests a layered approach: protect core wins while selectively pursuing high-impact initiatives where failure costs are bounded.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_029",
+        "ev_031",
+        "ev_034",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority legitimizer with strategic boundary-setting",
+      "finding": "Obama's relationship with hierarchy and authority consistently demonstrated respect for institutional structures combined with clear boundary-setting when institutional norms were violated. He positioned himself as the legitimate voice of institutional authority—veto threats (ev_029), executive orders (ev_017), and direct Congressional challenges were framed as constitutional obligations rather than power grabs. His criticism of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' in ev_010) appealed to institutional legitimacy against perceived norm-violation. The Veterans Day USS Carl Vinson address (ev_009, ev_038) represented deliberate use of military hierarchy as symbolic authority. At the same time, he refused to accept Congressional power maximization—'I will not negotiate over the full faith and credit' (ev_015) set clear limits on what institutional pressure could extract. The pattern suggests sophisticated use of hierarchy as a resource while maintaining strict boundaries on acceptable institutional behavior.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-first with measured escalation and coalition translation",
+      "finding": "Obama's conflict strategy demonstrated a consistent pattern: initial negotiation framing, explicit statement of opposition, then escalation to available institutional tools. The transportation bill (ev_008) shows negotiation-first—bringing together AFL-CIO and Chamber of Commerce before conflict escalated. The Republican obstruction critique (ev_020) represented explicit conflict acknowledgment after negotiation failed. The veto threat on Dodd-Frank (ev_029) showed escalation to maximum institutional power after clear opposition statement. His 'not Democratic or Republican' framing (ev_008) functioned as coalition translation—reframing the conflict to expand potential alliance base. The sequester approach (ev_013, ev_014) demonstrated conflict strategy calibrated to multiple audiences: technical critique combined with human cost framing. The pattern indicates sophisticated conflict management that avoids premature escalation while maintaining credibility as a resolver when negotiation fails.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_014",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Dual orientation balancing long-term institutional investment with short-term political necessity",
+      "finding": "Obama demonstrated consistent dual time-horizon orientation: immediate political messaging combined with explicit long-term capability building. The Cancer Moonshot (ev_042, ev_043) explicitly framed a 45-year historical arc and committed to solving a generational problem. TPP was framed as a 5-year negotiation with 'the strongest labor and environmental standards ever' (ev_026) designed to shape decades of trade rules. Paris climate agreement (ev_034) positioned climate action as multi-generational. Yet simultaneously, the urgent deadline framing ('seven days away,' ev_011) and immediate executive actions ('over 20 executive actions,' ev_019) show short-term political time-horizon calibration. His December 2014 'America's resurgence is real' (ev_024) explicitly invited short-term metrics assessment while positioning for long-term structural change. The farewell address 'civic participation over the full span of a lifetime' (ev_046) suggests internalization of multi-decade time horizons for democratic outcomes.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_019",
+        "ev_024",
+        "ev_026",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference when systemic defects are exposed",
+      "finding": "Evidence of preference for structural solutions over incremental patching appears across multiple policy domains. Dodd-Frank represented complete redesign of financial regulation rather than patch provisions (ev_028, ev_029). ACA fundamentally restructured healthcare coverage rather than incrementally expanding existing programs (ev_001, ev_002). The 'Year of Action' executive orders (ev_019) emerged after Congressional failure on structural issues like minimum wage and unemployment insurance—treating the legislative process itself as requiring bypass rather than repair. Government modernization through Silicon Valley partnerships (ev_037) represented platform replacement rather than incremental tech upgrade. Even the Memorial Day call for year-round remembrance (ev_039) suggested structural civic engagement redesign rather than symbolic gesture. The Cancer Moonshot (ev_042) explicitly positioned 45 years of incremental cancer research as insufficient and requiring new coordination architecture. However, the sequester response (ev_013, ev_014) showed patching when full replacement wasn't achievable, indicating pragmatic flexibility when structural redesign isn't politically viable.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_019",
+        "ev_028",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with calibration limits",
+      "finding": "Obama demonstrated notable metacognitive patterns while showing limits in self-critical analysis of reasoning processes. Positive indicators include explicit attribution of success to external actors ('All of this progress is because of you,' ev_032) suggesting awareness of distributed causality; acknowledgment of past trade deal failures (ev_027) showing willingness to update positions; 'Our founders trusted us with the keys to this system' (ev_036) displaying awareness of epistemic limitations in governance; and the farewell address 'Every day, I learned from you. You made me a better President' (ev_044) showing growth orientation. However, limited metacognition appears in the rhetorical calibration of evidence—the systematic presentation of metrics ('Pick any metric you want') in ways that support existing positions rather than inviting adversarial testing. The absence of explicit acknowledgment of his administration's measurement failures or forecasting errors suggests blind spots. The strong positive framing throughout suggests either genuine optimism or selective evidence presentation that metacognitive monitoring would catch.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "instrumental_coalitionalism",
+      "definition": "The tendency to construct temporary cross-cutting coalitions around specific measurable outcomes while accepting relationship dissolution after mission completion, suggesting a transactional yet effective approach to building majorities for discrete policy objectives.",
+      "finding": "Obama consistently demonstrated instrumental coalitionalism—building ad-hoc alliances with groups that would later oppose each other or his administration. The AFL-CIO/Chamber of Commerce transportation coalition (ev_008) brought groups with structurally opposed interests together around concrete metrics. TPP brought labor and business interests together around shared standards. The '100,000 veterans hired' challenge (ev_009) framed veteran employment as a shared metric across ideological lines. This pattern suggests Obama treated coalitions as instruments for specific measurable objectives rather than as relationships to be cultivated long-term. After the objective was achieved or failed, coalition maintenance appeared secondary to the next instrumental goal. This contrasts with traditional coalition politicians who build permanent coalitions through ongoing relationship maintenance. The instrumental approach may explain both his legislative successes (effective temporary majorities) and legislative limitations (inability to build durable cross-cutting coalitions that survive single votes).",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "rhetorical_metric_calibration",
+      "definition": "The practice of selecting and sequencing evidence and metrics to achieve persuasive effects rather than purely diagnostic accuracy, suggesting a communication strategy that optimizes for belief-change rather than truth-convergence.",
+      "finding": "Obama's addresses consistently demonstrate sophisticated rhetorical calibration—choosing which metrics to highlight, in what sequence, with what framing to achieve specific persuasive effects. The sequester human cost framing (ev_014)—'parents whose kids just got kicked out of Head Start,' 'seniors who depend on Meals on Wheels'—selected emotionally resonant metrics over systemic ones. The year-end 'Top 10 Things' list (ev_033, ev_034, ev_035) created a narrative arc through metric selection. The 'Pick any metric you want' statement (ev_024) was itself a rhetorical choice that invited metric shopping rather than specifying which indicators actually mattered. This pattern suggests Obama's evidence use served dual functions: genuine accountability metrics and strategically selected persuasive framing. The sophistication of this calibration suggests metacognitive awareness of how framing affects interpretation, which could be seen as either evidence of epistemic sophistication or as concerning manipulation depending on the observer's values. The framework doesn't capture whether this calibration serves truth-convergence or narrative goals, making it an emergent dimension beyond standard epistemic_style analysis.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_024",
+        "ev_033",
+        "ev_034"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

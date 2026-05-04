@@ -1,0 +1,168 @@
+{
+  "discipline": "psychology",
+  "lens": "clinical_psychodynamic_psychology_psychoanalysis_freud",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping agency balanced with structured negotiation within institutional limits",
+      "finding": "Obama demonstrates high-capacity agency orientation through decisive executive actions (\"Year of Action\" with 20+ executive orders, ev_019), veto threats against Wall Street reform repeal (ev_029), and unyielding positions on debt ceiling negotiations (\"I will not negotiate over the full faith and credit,\" ev_015). However, this agency is exercised within institutional channels rather than pure autonomous will—he repeatedly calls on Congress, builds bipartisan coalitions (ev_008), and frames accomplishments as collective achievement (ev_032). The psychodynamic interpretation suggests a well-integrated ego that exercises agency through legitimate structures rather than impulsive overreach. His frequent invocation of 'we' rather than 'I' may represent mature subordination of pure id-driven ambition to institutional superego demands, though his assertive positions also reveal confidence in his moral authority to shape outcomes.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_029",
+        "ev_008",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integrative epistemic style combining empirical evidence with moral values-based reasoning",
+      "finding": "Obama's epistemic approach demonstrates mature ego functioning through successful integration of reality-testing (citing specific statistics: 11 million jobs, ev_025; $11 billion recovered for consumers, ev_028) with value-based moral reasoning (\"Medicare isn't just a program, it's a commitment,\" ev_001). Rather than pure intellectualization as defense, his factual citations serve persuasive and moral framing purposes. He acknowledges empirical limitations (\"I'm the first to admit that past trade deals haven't always lived up to the hype,\" ev_027) while maintaining confident policy positions. This suggests a well-developed capacity to hold empirical and moral dimensions of reality in productive tension, avoiding both defensive intellectualization and purely affect-driven judgment.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strategic abstraction serving persuasive and value-articulation purposes, not emotional avoidance",
+      "finding": "Obama employs abstraction strategically for value articulation (\"economy grows best not from the top-down, but from the middle-out,\" ev_021) rather than as defensive isolation of affect. His formal policy frameworks (ACA, Dodd-Frank, Paris Agreement, energy blueprints) demonstrate capacity for systemic thinking, yet he consistently grounds abstractions in concrete human impacts (\"parents whose kids got kicked out of Head Start,\" ev_014; \"seniors who depend on Meals on Wheels,\" ev_014). This pattern suggests abstraction_formalization used as升华 (sublimation)—transforming complex policy into accessible moral narratives—rather than defensive isolation. His speeches move fluidly between statistical evidence and human stories, suggesting cognitive-emotional integration rather than defensive abstraction.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_021",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong but flexible control exercised through institutional mechanisms and collaborative processes",
+      "finding": "Obama exhibits significant control orientation through executive actions (minimum wage executive order, ev_017), institutional innovations (Silicon Valley partnerships for government modernization, ev_037), and unwavering policy commitments (vowing to veto Wall Street reform repeals, ev_029). However, his control orientation operates through institutional legitimacy rather than authoritarian imposition—he builds coalitions (AFL-CIO with Chamber of Commerce, ev_008), seeks bipartisan support, and frames control as collective empowerment (\"Our founders trusted us with the keys to this system of self-government,\" ev_036). The psychodynamic reading suggests control needs well-channeled through mature ego mechanisms of negotiation and coalition-building rather than obsessive-compulsive rigidity or paranoid projection. His 'Year of Action' framing suggests awareness of control limitations requiring creative adaptation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with persistent relational investment; mission itself appears to serve reparative functions",
+      "finding": "Obama consistently prioritizes policy missions (ACA implementation, Wall Street reform protection, climate action) over relational political comfort, frequently criticizing Republican obstruction (\"Republicans in Congress have blocked every serious idea,\" ev_020) and using veto threats (ev_029). However, his mission statements repeatedly frame policy goals in relational terms (\"commitment to America's seniors,\" ev_001; \"middle-out\" economics, ev_021). The psychodynamically significant pattern is his Father's Day reflection on growing up without his father (ev_006) followed by announcements of fatherhood support programs—a sequence suggesting unconscious reparative motivation channeled into policy. His protective focus on vulnerable populations (Head Start, seniors, veterans, ev_014) may represent paternal-superego investment in protecting those lacking adequate parental/familial care, transforming early abandonment experiences into social policy mission.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_014",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking within institutional frameworks, with confidence in collective resilience",
+      "finding": "Obama demonstrates a mature relationship with risk, undertaking major initiatives (auto industry bailout, healthcare reform, climate action) while framing risks as manageable within institutional structures. His energy policy explicitly acknowledges limitations (\"drilling alone is not a real strategy,\" ev_005) but commits to multi-decade goals (one-third oil import reduction by 2025, ev_004). His Memorial Day address shows understanding of necessary risk (\"only send them into harm's way when absolutely necessary,\" ev_038) balanced against mission requirements. The farewell address displays optimism about collective resilience (\"no terrorist will ever break the American spirit,\" ev_045). Psychodynamically, this suggests Eros-driven confidence in growth and collective capacity rather than Thanatos-driven self-destruction disguised as heroism. Risks are calculated within institutional frameworks rather than逞匹夫之勇.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_038",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated use of institutional power balanced with coalition-building and democratizing gestures",
+      "finding": "Obama demonstrates nuanced relationship with hierarchy—using presidential power assertively (executive orders, veto threats, ev_029) while simultaneously democratizing access (\"government tech modernization,\" \"civic participation beyond elections,\" ev_023). His repeated emphasis on coalition across divides (labor and business, ev_008) suggests identification with integrative authority rather than hierarchical dominance. His language about government as 'tool for collective problem-solving' (ev_036) frames power as delegated rather than personally possessed. The psychodynamic reading points to successful resolution of authority conflicts—he exercises power comfortably without anxious overcompensation, suggests mature identification with institutional role rather than anxious reliance on personal authority, and maintains boundaries between personal will and institutional mandate.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_023",
+        "ev_036",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Integrative-negotiative strategy with selective escalation when institutional integrity at stake",
+      "finding": "Obama's dominant conflict strategy is negotiation and coalition-building (\"bipartisan\" appears repeatedly, ev_026), framing issues as 'American issues' transcending party (ev_008). However, he selectively escalates when institutional integrity is threatened—he refuses debt ceiling negotiations entirely (ev_015), issues veto threats against Wall Street reform repeal (ev_029), and criticizes Senate obstruction (\"one senator gumming up the works,\" ev_010). This pattern suggests mature conflict management: negotiation as primary strategy, with clear boundaries against bad-faith obstruction. His 'balanced approach' rhetoric (\"balanced, comprehensive way,\" ev_013) serves both genuine negotiating posture and diplomatic framing that maintains relational channels even during conflict. Psychodynamically, this reflects good ego strength—capacity to negotiate without anxious avoidance of conflict, but also to draw firm limits.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon extending beyond immediate presidency into intergenerational legacy",
+      "finding": "Obama operates across multiple time horizons simultaneously—urgent near-term deadlines (transportation funding in 7 days, student loan rates doubling in 8 days, ev_011) alongside generational commitments (oil import reduction by 2025, ev_004; climate agreements affecting 2050 targets). His farewell address explicitly extends time horizon beyond his presidency (\"working along your side as a citizen for all my days that remain,\" ev_047) and frames policy achievements as legacy for children (\"leave a better, cleaner, safer future for our children,\" ev_041). This suggests internalized superego with eternal time dimension—responsibility to past generations (veterans, seniors) and future generations (children, climate). The consistent pattern of 'Years of Action' and 'moonshots' (cancer research, ev_042) reflects sublimated achievement drive channeled into long-term institutional missions rather than personal glory.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Consistent preference for structural reform over incremental patches across policy domains",
+      "finding": "Obama demonstrates systematic preference for comprehensive structural reform: ACA as comprehensive healthcare restructuring rather than incremental coverage expansion; Dodd-Frank as regulatory architecture (\"no taxpayer bailouts since passage,\" ev_028); Paris Agreement as global climate framework. Even his executive actions (minimum wage, contractor requirements, ev_017) are framed as establishing new standards rather than patching existing systems. His 'balanced approach' to deficit reduction (\"sensible changes to entitlement programs and reforming our tax code,\" ev_013) explicitly calls for structural rather than cuts-only solutions. The 'rebuild' pattern is consistent across domestic policy, foreign policy (Iran nuclear deal as structural non-proliferation framework, ev_034), and institutional innovation (government tech modernization, ev_037). This suggests sublimated drive for mastery expressed through institutional transformation rather than neurotic need for total control or anxious inability to tolerate imperfect solutions.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_017",
+        "ev_028",
+        "ev_034",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness evidenced through self-reflection, acknowledgment of limitations, and adaptive learning",
+      "finding": "Obama demonstrates strong metacognitive capacity through multiple channels: explicit self-reflection (\"Every day I learned from you. You made me a better President and a better man,\" ev_044), acknowledgment of past policy limitations (\"past trade deals haven't always lived up to the hype,\" ev_027), and adaptive framing that shows awareness of his own persuasive positioning. His fatherhood reflection (\"I grew up without my father around. I wondered what my life would have been like had he been a greater presence,\" ev_006) demonstrates capacity to observe his own emotional responses and integrate early experiences into current functioning. His farewell address shows sophisticated self-awareness about the relationship between public role and private growth. Psychodynamically, this suggests strong ego capacity for insight—' Wo Es war, soll Ich werden' in action. He appears able to recognize defensive patterns and emotional triggers without being dominated by them, reflecting mature mentalization capacity.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "paternal_reparative_sublimation",
+      "definition": "Transforming early experiences of paternal absence and family disruption into institutional policies that provide protective paternal care for citizens—a specific升华 pathway not captured in standard constructs",
+      "finding": "The psychodynamic analysis reveals a distinctive pattern where Obama's personal history of growing up without his father (ev_006) becomes a template for public policy mission. His Father's Day address directly links his personal absence to programmatic response (White House partnerships for fatherhood support, ev_007). This reparative drive manifests across multiple domains: commitment to seniors' healthcare (\"after working your whole life, you've earned...quality health care,\" ev_001), veteran support programs (\"we have to be there for their families,\" ev_038), and intergenerational climate policy (\"leave a better future for our children,\" ev_041). The paternal function appears as both superego ideal (the commitment 'as long as I am President') and reparative mission. This emergent construct captures how early object relations deficits are transformed through sublimation into institutional caregiving—a specific pathway where paternal absence drives paternal provision for collective 'family' of citizens.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "collective_ego_formation",
+      "definition": "Use of 'we' and collective attribution as a mature ego mechanism that expands self-boundaries beyond individual Narcissism while maintaining agency—the 反向形成 of grandiosity into collective humility",
+      "finding": "Obama's characteristic speech pattern of attributing accomplishments to 'the American people' (\"All of this progress is because of you,\" ev_032) rather than personal credit represents a distinctive psychological mechanism. Rather than defensive denial of agency, this appears as a mature 反向形成 where grandiosity (the temptation of presidential power) is transformed into collective attribution that expands ego boundaries. His 'resurgence is real' (ev_024) and 'love won' (ev_035) statements affirm significance while crediting collective action. The psychodynamic interpretation suggests successful integration of heroic role demands with communal identification—his ego has incorporated the national 'we' as self-extension rather than narcissistic threat. This mechanism allows exercise of substantial power while maintaining relational connection to collective, avoiding both grandiosity and worthlessness. It represents a sophisticated adaptation to the unique psychological demands of presidential leadership.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_032",
+        "ev_035",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

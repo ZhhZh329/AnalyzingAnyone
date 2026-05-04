@@ -1,0 +1,182 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "security_privacy_and_trust_adversarial_resilience",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama actively reshaped policy environments through transformative legislation, executive action, and international agreements rather than passively responding to conditions",
+      "finding": "Obama consistently demonstrates world-shaping agency across his policy agenda. He pursued comprehensive system redesigns including the ACA healthcare overhaul (ev_001 commitment to strengthen Medicare), Dodd-Frank financial reform (ev_003, ev_029 veto threat), and international frameworks like the Paris climate agreement and TPP (ev_030, ev_034). Rather than adapting to Congressional resistance, he declared a 'Year of Action' taking over 20 executive actions when legislative paths were blocked (ev_019, ev_020). His farewell address emphasized sustained civic engagement and belief in collective capacity to shape outcomes (ev_036, ev_046, ev_047). This world-shaping orientation is tempered by his willingness to seek bipartisan coalition (ev_008 AFL-CIO and Chamber of Commerce together), but the primary mode is active environment design rather than reactive adjustment.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_030",
+        "ev_036",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-aware but rhetorically framed; combines empirical claims with value-based narrative",
+      "finding": "Obama's epistemic style relies on verifiable claims and statistics while wrapping them in broader value narratives. He cites specific numbers (11 million jobs over 57 months, ev_025; 2.5 million jobs in 2015, ev_033; $11 billion recovered for 26 million consumers, ev_028) and acknowledges when past approaches fell short (ev_027: 'past trade deals haven't always lived up to the hype'). He documents concrete human costs of policy failures (ev_014: Head Start cuts, Meals on Wheels strain, military community pressure) to argue for alternatives. However, these empirical elements are embedded within larger moral and philosophical frameworks about American values, opportunity, and collective responsibility (ev_018, ev_021 'middle-out' economics, ev_036 democratic governance philosophy). The style suggests comfort with evidence-based argumentation for policy positions but not deep formalization or systematization—more communicator than engineer.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_018",
+        "ev_021",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low-to-moderate abstraction preference; Obama operates through principles and values rather than formal systems or technical specifications",
+      "finding": "Obama's policy communication relies on broad principles and value-based framing rather than technical formalization. He articulates 'opportunity for all' (ev_018), 'middle-out' economics (ev_021), and democratic citizenship philosophy (ev_036) as guiding frameworks, but these lack the variable/interface/state formalization characteristic of engineering abstraction. His policy designs (ACA, Dodd-Frank) are legislative frameworks with institutional mechanisms rather than formally verified systems. While he invoked the Founders' intent to critique obstruction (ev_010), this is rhetorical appeal to constitutional spirit rather than formal constitutional analysis. The absence of technical system formalization means adversarial conditions could more easily exploit ambiguity in policy implementation—the opposite of robust adversarial design.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_018",
+        "ev_021",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through institutional mechanisms and coalition-building rather than direct command; prefers setting boundaries and rules over micromanaging execution",
+      "finding": "Obama's control orientation favors institutional indirect control rather than direct manipulation. He issued executive orders (ev_017 raising contractor minimum wage, ev_019 over 20 actions) and made definitive veto threats (ev_029 against Dodd-Frank repeal), but these are boundary-setting rather than operational control. He built coalitions across ideological divides (ev_008 AFL-CIO and Chamber of Commerce) and used the Presidential Innovation Fellows program to bring external expertise into government (ev_037, ev_043). His control mode is establishing guardrails, defining institutional roles (ev_015 debt ceiling refusal), and creating feedback mechanisms rather than commanding each step. This aligns with indirect control through mechanisms rather than direct manipulation of every element—consistent with resilient systems design but potentially vulnerable if institutional mechanisms are circumvented.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_037",
+        "ev_043",
+        "ev_008"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation with some willingness to absorb relational costs, but balanced by persistent coalition-building attempts",
+      "finding": "Obama demonstrates strong mission commitment that absorbs relational costs when core priorities are at stake. He publicly named Republican obstruction ('blocked or voted down every serious idea,' ev_020) and refused to negotiate on debt ceiling under any circumstances (ev_015), accepting political friction for principle. He issued veto threats on Dodd-Frank (ev_029) and called for fundamental system changes (ACA, climate framework, trade rules). However, his mission orientation is consistently tempered by outreach attempts—invoking AFL-CIO and Chamber of Commerce together (ev_008), celebrating bipartisan budget as 'Christmas miracles' (ev_048), and framing policies as serving all Americans rather than partisan victory. This creates tension: high mission commitment would suggest stronger adversarial resilience, but persistent coalition-building suggests sensitivity to relational costs that adversaries could exploit. The net pattern is mission-primary but relationship-conscious—a hybrid that may fail both when mission demands confrontation and when adversaries weaponize relationship costs.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense strategy; pursues transformative goals while building redundancy across channels and maintaining fallback positions",
+      "finding": "Obama's risk posture reflects layered defense rather than aggressive risk-taking or conservative avoidance. He pursued transformative legislation (ACA, Dodd-Frank) despite significant political risk, advanced climate and trade frameworks with uncertain outcomes, and announced the Cancer Moonshot as ambitious long-term goal (ev_042). His approach created multiple pathways to objectives: legislative strategy, executive orders (ev_019 'Year of Action'), public advocacy, and international agreements (ev_030 TPP, ev_034 Paris). On sequester, he advocated balanced approach combining spending cuts and revenue (ev_013), demonstrating layering rather than single-path bets. He explicitly framed climate progress as legacy to build upon (ev_041: 'not something to tear up')—anticipating adversarial reversal and signaling commitment to defense. This suggests layered defense with moderate risk tolerance for mission-critical objectives, but the reliance on cooperative institutional mechanisms creates vulnerabilities if adversarial actors disable those mechanisms.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_019",
+        "ev_030",
+        "ev_034",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Comfortable exercising hierarchical authority when necessary, but frames power as delegated from collective rather than personal prerogative",
+      "finding": "Obama demonstrates fluid relationship with hierarchy—willing to use presidential authority while framing it as mandate from collective rather than personal power. He issued executive orders, made veto commitments (ev_029), and refused Congressional negotiation on debt ceiling (ev_015), showing comfort with institutional power. Yet he invoked the Founders' intent (ev_010) and credited the American people for progress (ev_032, ev_044) rather than claiming personal authority. He challenged institutional obstruction ('One senator gumming up the works,' ev_010) as contrary to democratic design, positioning himself as defender of proper process rather than power-holder demanding submission. His government modernization efforts (ev_037 Silicon Valley partnerships, ev_043 Presidential Innovation Fellows) distributed expertise rather than centralizing control. This suggests a view of hierarchical power as legitimate when serving collective purpose and properly bounded by institutional design—appropriate for adversarial resilience if the system itself isn't the target of attack.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_029",
+        "ev_032",
+        "ev_037",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Confrontational escalation combined with continued outreach; publicly names opposition while maintaining invitation for cooperation",
+      "finding": "Obama's conflict strategy combines escalation with continued coalition-building—a pattern that could be destabilizing under sustained adversarial pressure. He publicly named Republican obstruction (ev_020) and refused debt ceiling negotiation (ev_015), taking confrontational positions. Yet he simultaneously invoked bipartisan coalitions (ev_008 AFL-CIO and Chamber of Commerce), celebrated bipartisan budget 'miracles' (ev_048), and framed policies as serving all Americans. The strategy assumes that confrontation and cooperation can coexist—that naming opposition doesn't foreclose future collaboration. Under sustained adversarial conditions, this could create vulnerability: adversaries can be publicly named while still extracting concessions, or can exploit continued outreach as signal of willingness to compromise. The conflict strategy is fundamentally geared toward winning through persuasion and public support rather than through secured positions that survive adversarial reversal. Obama builds strong systems but leaves them exposed to political attack rather than embedding them in hardened institutional protections.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term mission scale orientation; prioritizes structural change and legacy over short-term electoral considerations",
+      "finding": "Obama demonstrates clear long-term, mission-scale time horizon across his policy agenda. He pursued structural redesigns (ACA healthcare system, Dodd-Frank financial regulation, Paris climate architecture, TPP trade framework) with multi-decade implications. He explicitly framed climate progress as legacy to build upon (ev_041) and announced the Cancer Moonshot as long-term initiative (ev_042, ev_043 clinical trials infrastructure). His policy choices prioritized future Americans ('for our children,' ev_041) over present electoral cycle. He acknowledged past limitations while committing to continued effort (ev_027 past trade deals fell short, but don't close off new opportunities). His farewell address called for sustained civic engagement 'over the full span of a lifetime' (ev_046) rather than episodic participation. The long-term orientation is consistent and explicit, suggesting this as a core orientation rather than rhetorical framing—appropriate for adversarial resilience if adversaries cannot easily reverse long-term structural investments before they consolidate.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when conditions permit, but pragmatically patches when structural options blocked",
+      "finding": "Obama's preference leans toward structural redesign: ACA as comprehensive healthcare system overhaul, Dodd-Frank as fundamental financial regulation redesign, Paris Agreement as structural emissions framework, TPP as rewriting global trade rules (ev_031 China will write rules without it). His critique of Congressional obstruction ('gumming up the works,' ev_010) targets systemic dysfunction, not individual bad actors. However, when structural options were blocked, he pragmatically turned to patches: 'Year of Action' executive orders (ev_019) when Congress blocked legislation, executive minimum wage increase (ev_017) when legislative path failed. This suggests preference for structural solutions but adaptive use of available mechanisms—resilient in that multiple pathways exist, but patches are less robust than structural redesigns if adversarial actors can disable the underlying system. The pattern indicates structural-first but patch-capable—maintaining mission progress through available means while preferring foundational change when achievable.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_019",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; acknowledges limitations, credits collective input, and admits past shortcomings, but may underweight adversarial reversal risks",
+      "finding": "Obama demonstrates moderate metacognitive awareness through several patterns. He credited the American people for progress rather than claiming sole credit (ev_032, ev_044 'you made me a better President'), acknowledging his dependence on collective action. He acknowledged past policy limitations ('past trade deals haven't always lived up to the hype,' ev_027) while defending new approaches. He sought external expertise through Silicon Valley partnerships and Presidential Innovation Fellows (ev_037, ev_043) rather than assuming internal sufficiency. He explicitly called for continued civic engagement beyond elections (ev_046) as feedback mechanism. However, his metacognitive awareness may underweight adversarial reversal risks: he built systems (ACA, Dodd-Frank, Paris) with apparent confidence in their institutional durability but limited attention to how political adversaries could systematically disable them. His resilient design assumed cooperative institutional actors more than adversarial ones—a potential blind spot that adversarial resilience theory would highlight as vulnerability to strategic attack on the system rather than within the system.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_037",
+        "ev_043",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cooperative_institutional_resilience",
+      "definition": "The degree to which policy systems depend on cooperative institutional actors versus being hardened against adversarial institutional disruption. This captures a gap in standard adversarial resilience thinking: systems can be robust under normal conditions but脆弱 under coordinated institutional attack.",
+      "finding": "Obama demonstrates a significant gap between system robustness and institutional resilience. His landmark policies (ACA, Dodd-Frank, Paris Agreement) are structurally robust under normal operation but depend heavily on cooperative institutional maintenance. ACA relies on IRS enforcement and ongoing exchange infrastructure; Dodd-Frank requires CFPB operational continuity; Paris requires sustained executive commitment. Obama's adversarial resilience design assumes these institutions survive political transition, but his conflict strategy (publicly naming opposition while maintaining outreach, ev_015, ev_020, ev_048) didn't create hardened protections against institutional capture. He issued veto threats (ev_029) but didn't build structural safeguards making reversal costly even under changed political conditions. This emergent dimension reveals that Obama's 'strong world-shaper' agency created transformative policies without equivalently strong adversarial hardening—the policies can be attacked through the institutions designed to protect them.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "adversarial_context_attribution",
+      "definition": "Whether an actor attributes political obstruction to structural/systemic factors versus adversarial strategic choice, and how this attribution shapes their defensive posture. Obama shows pattern of attributing opposition to systemic dysfunction ('gumming up the works') rather than adversarial strategy, affecting his defensive design.",
+      "finding": "Obama consistently frames Congressional obstruction as systemic dysfunction rather than adversarial strategy. He criticized 'One senator gumming up the works' (ev_010) as contrary to founders' vision—attributing it to broken process rather than strategic choice by adversaries. He celebrated bipartisan budget 'miracles' (ev_048) suggesting cooperation is anomalous rather than systematically prevented. This attribution pattern affects defensive design: if obstruction is systemic dysfunction, solutions involve fixing process (bipartisan appeals, public pressure). If obstruction is adversarial strategy, solutions involve building secured positions, redundant protections, and hardened systems that survive adversarial reversal. Obama's cooperative institutional resilience (see above) may stem from this attribution—he built systems assuming cooperative maintenance because he didn't fully account for strategic adversarial attack on those systems. The attribution pattern may represent a specific blind spot: treating adversarial actions as noise in a system to be corrected rather than signal requiring defensive redesign.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

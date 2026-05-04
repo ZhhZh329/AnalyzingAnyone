@@ -1,0 +1,148 @@
+{
+  "discipline": "economics",
+  "lens": "institutional_economics_williamson",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper: Obama pursued large-scale institutional redesign across healthcare, finance, energy, and trade rather than adapting to existing structures",
+      "finding": "Obama consistently attempted to reshape foundational governance structures rather than work within them. His signature achievements—ACA creating the largest restructuring of the healthcare sector in decades, Dodd-Frank establishing comprehensive financial regulation with new independent agencies, TPP attempting to rewrite trade governance for 40% of the global economy—represent sustained efforts to redesign systems rather than optimize within existing constraints. Evidence ev_001 and ev_002 show commitment to structural healthcare reform; ev_028 and ev_029 demonstrate active defense of new regulatory architecture; ev_030 and ev_031 reveal ambition to establish comprehensive trade governance across 11 nations. This pattern indicates a person who treats institutional redesign as a primary problem-solving mode, consistent with world-shaping orientation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_029",
+        "ev_030",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist-technocratic: Obama relies heavily on statistical evidence, expert analysis, and systematic data to form policy judgments",
+      "finding": "Obama's speeches consistently cite specific numerical data, survey results, and measurable outcomes to support positions. Ev_025 documents 11 million jobs created over 57 months; ev_033 lists specific economic metrics including 2.5 million jobs in 12 months; ev_028 references $11 billion recovered for 26 million consumers by CFPB; ev_040 shows detailed energy statistics (wind tripled, solar 30x, 25-year low in carbon pollution). He explicitly admits past trade deals 'haven't always lived up to the hype' (ev_027), demonstrating willingness to update beliefs based on evidence rather than holding fixed ideological positions. This empiricist pattern aligns with a person who forms beliefs through systematic data analysis and can revise positions when evidence warrants.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong formalization: Obama consistently uses comprehensive legislative frameworks and rule-based systems rather than discretionary or case-by-case approaches",
+      "finding": "Obama's governance approach prioritizes codified rules over discretionary arrangements. The ACA establishes extended Medicare solvency through formal statutory provisions (ev_002); Dodd-Frank creates an independent Consumer Financial Protection Bureau with explicit statutory authority (ev_028); TPP represents a five-year negotiation producing a comprehensive formal agreement with highest-ever labor and environmental standards (ev_026, ev_030); Paris climate agreement establishes nearly 200-nation framework (ev_034). His defense of Dodd-Frank relies on rule-based arguments about 'level playing field' and 'same rules' for all market participants (ev_003), not discretionary flexibility. This suggests preference for formal, codified governance structures that can be systematically enforced rather than negotiated on a case-by-case basis.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_026",
+        "ev_028",
+        "ev_030",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate: Evidence shows preference for rule-based governance and institutionalized oversight rather than direct personal control, but lacks specific hold-up prevention behaviors",
+      "finding": "Obama shows preference for structural governance controls—independent regulatory agencies, codified rules, enforcement mechanisms—rather than personal control. Ev_028 describes CFPB as 'independent' with 'one mission: to protect American consumers'; ev_029 issues veto threat as institutional commitment rather than personal ultimatum; ev_015 explicitly states refusal to 'negotiate over full faith and credit' as principle. The veto commitment and debt ceiling refusal could be read as hold-up prevention (refusing to accept coercive renegotiation), but the evidence lacks documented concern about asset specificity, interface vulnerability, or relationship-specific investments being leveraged. Without explicit evidence of his awareness of or response to hold-up risks in contractual relationships, this assessment remains moderate rather than strong.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization: Obama explicitly subordinates relational comfort to policy goals, frequently criticizing Congressional obstruction while maintaining policy positions",
+      "finding": "Obama demonstrates consistent prioritization of mission/goal over relational harmony, particularly in political dynamics. Ev_010 explicitly criticizes Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'; ev_020 lists Republican blockades of minimum wage, equal pay, and unemployment insurance extension as explicit failures; ev_015 refuses debt ceiling negotiation as matter of principle rather than political accommodation. He frames bipartisan cooperation when possible (ev_008 cites AFL-CIO and Chamber of Commerce alliance) but does not retreat from confrontation when policy goals are at stake. This pattern indicates willingness to incur relational costs when mission objectives require it, though the evidence centers on political confrontation rather than hold-up-specific scenarios.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance: Willing to take politically costly institutional bets while maintaining mainstream policy positions",
+      "finding": "Obama pursued several high-risk, high-visibility institutional redesigns accepting substantial political costs. ACA passage consumed enormous political capital and led to electoral losses in 2010 midterms; Dodd-Frank faced sustained financial industry opposition; TPP faced bipartisan opposition from both unions and conservative groups. However, he generally maintained mainstream policy positions rather than radical experiments, suggesting bounded rather than extreme risk tolerance. Ev_021 articulates 'middle-out' economic philosophy as mainstream center-left approach; ev_027 acknowledges 'past trade deals haven't always lived up to the hype' suggesting realistic rather than utopian risk assessment. The evidence suggests someone willing to accept significant political risk for large-scale institutional change within conventional policy parameters.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Weak-moderate: Evidence shows preference for rule-based governance over hierarchical command, but limited documentation of specific governance form choices around asset specificity",
+      "finding": "Obama's use of hierarchy and authority reflects institutionalist preference for rule-based governance rather than personal hierarchical control. Ev_036 frames government as 'tool' for collective problem-solving, not personal power; ev_038 describes obligation as institutional rather than personal ('as Commander-in-Chief, I have no more solemn obligation'). The evidence shows general preference for creating durable institutional structures over leveraging personal authority, but lacks specific documentation of governance form choices designed to address hold-up risks in high-asset-specificity relationships. Without evidence of how he specifically structured relationships to prevent opportunism in long-term dependencies, this assessment remains below the threshold for strong characterization.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "weak"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Moderate escalation with principle锚定: Uses formal institutional mechanisms (veto threats, executive orders) rather than negotiation or avoidance",
+      "finding": "Obama's conflict approach relies on formal institutional escalation rather than accommodation or suppression. Ev_029 issues explicit veto threat: 'I will veto it' against any Wall Street Reform repeal; ev_015 refuses negotiation on debt ceiling as matter of principle; ev_019 announces 'Year of Action' with over 20 executive actions as response to Congressional obstruction. This shows willingness to escalate through formal channels rather than suppress conflict or seek compromise. However, the evidence does not specifically document hold-up prevention or response to contractual opportunism; instead it reflects political conflict management. The pattern suggests someone who uses institutional mechanisms rather than personal power plays, consistent with rule-based orientation, but not specifically Williamson-aligned hold-up response strategies.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term: Consistently optimizes for durable institutional design over short-term political wins, accepting near-term costs for structural gains",
+      "finding": "Obama demonstrates strong long-term orientation in institutional design. Ev_002 frames ACA as 'single longest extension in history' for Medicare solvency; ev_016 targets deficit reduction 'by the end of this year' and 'faster than any time since WWII'; ev_026 frames TPP as 5-year negotiation establishing permanent governance framework; ev_031 explicitly frames trade agreement as preventing China from 'writing the rules of the global economy' for decades. He accepts near-term political costs (2010 midterm losses, Congressional obstruction, Republican opposition) for structural institutional gains. This long-term optimization pattern is consistent with someone designing governance structures intended to persist beyond immediate political cycle, though direct evidence of hold-up prevention over multiple contracting periods is limited.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_026",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong redesign preference: Evidence shows consistent preference for comprehensive institutional overhaul over incremental adjustments",
+      "finding": "Obama consistently prefers comprehensive institutional redesign over incremental adaptation. ACA represents complete restructuring of health insurance market rather than targeted fixes; Dodd-Frank establishes entirely new regulatory architecture and independent agency (CFPB) rather than patching existing rules; TPP represents multi-year comprehensive trade agreement rather than adjustment to existing trade terms; ev_014 frames executive action on minimum wage as structural change for 'workers who serve our troops' meals' through new contract requirements. He explicitly criticizes 'gumming up the works' by individual senators seeking incremental gains (ev_010). This pattern indicates someone who approaches institutional problems through comprehensive redesign rather than local repair, consistent with preference for complete contracting over incomplete arrangements.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_028",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Not applicable: Evidence lacks documentation of Obama's awareness of his own reasoning patterns, cognitive limits, or systematic bias monitoring in governance contexts",
+      "finding": "The evidence base consists primarily of public addresses focused on policy positions and accomplishments rather than reflective analysis of his own thinking processes. No evidence in the provided materials documents Obama's explicit discussion of his own cognitive limitations, reasoning patterns, or systematic adjustment of his decision-making approach. While ev_044 shows emotional reflection on his presidency ('You made me a better President, and you made me a better man'), this is different from metacognitive monitoring of reasoning processes or bias awareness in governance contexts. The Williamson lens does not particularly require metacognition assessment for hold-up prevention analysis, making this construct not applicable to the available evidence.",
+      "evidence_ids": [],
+      "local_support": "not_applicable"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "contractual_completeness_seeking",
+      "definition": "The degree to which this actor attempts to construct comprehensive, durable governance arrangements that anticipate and address future contingencies rather than leaving relationships open to renegotiation",
+      "finding": "Obama demonstrates strong preference for creating highly specified, durable institutional frameworks that limit future renegotiation opportunities. The ACA's formal Medicare solvency extension, Dodd-Frank's detailed consumer protection rules with independent enforcement, TPP's comprehensive 5-year negotiated framework with specific standards, and Paris Agreement's 200-nation codified climate commitment all reflect attempt to construct 'complete contracts' that cannot be easily unwound or renegotiated. His refusal to negotiate on debt ceiling (ev_015) and explicit veto threats (ev_029) function to lock in these arrangements against future rollback attempts. This pattern suggests someone concerned about contractual incompleteness—the risk that ambiguous or incomplete agreements will be exploited in future renegotiations—and responds by constructing highly specified governance structures with enforcement mechanisms designed to persist.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_015",
+        "ev_028",
+        "ev_029",
+        "ev_030",
+        "ev_034"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

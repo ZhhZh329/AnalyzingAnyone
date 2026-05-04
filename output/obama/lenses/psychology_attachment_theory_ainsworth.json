@@ -1,0 +1,191 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_theory_ainsworth",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency with secure-base orientation—actively shapes outcomes while building relational infrastructure to support others' exploration",
+      "finding": "Obama demonstrates world-shaping agency through executive actions (over 20 executive actions in 'Year of Action' - ev_019), policy initiatives, and clear stances on core issues. However, his agency operates through coalition-building rather than domination—he explicitly brought together AFL-CIO and Chamber of Commerce (ev_008), partnered with diverse stakeholders (ev_004, ev_037), and framed leadership as enabling others. His statement 'We've got to restore opportunity for all' (ev_018) reveals agency oriented toward expanding others' capacity, consistent with secure-base provision. This contrasts with anxious attempts to control or avoid dependency on others.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_008",
+        "ev_018",
+        "ev_019",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integrative epistemic style—balances empirical data with emotional attunement and acknowledges epistemic humility",
+      "finding": "Obama consistently integrates quantitative data ('11 million new jobs' - ev_025, 'nearly 26 million consumers recovered $11 billion' - ev_028) with empathetic, concrete human narratives ('parents whose kids just got kicked out of Head Start programs' - ev_014). His epistemic humility is evident in self-critique: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He demonstrates comfort holding both empirical evidence and emotional truth simultaneously, avoiding both defensive dismissal of data and emotional hijacking. This integrative capacity is a hallmark of secure attachment's cognitive functioning.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-low abstraction—prefers concrete, conditional, and pragmatic reasoning over systematic ideological abstraction",
+      "finding": "Obama demonstrates comfort with concrete particulars rather than pure abstraction. His policy communications emphasize specific measurable outcomes ('cut oil imports by one-third by 2025' - ev_004, 'wind power tripled, solar 30x' - ev_040). His 'middle-out' economic philosophy (ev_021) is relatively concrete, tied to observable phenomena rather than abstract theory. However, he shows capacity for abstraction when needed—framing TPP within geopolitical narrative (ev_031), articulating systemic principles about democratic governance (ev_036). This flexibility suggests secure attachment's ability to modulate abstraction based on context rather than rigidly preferring either pole.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_031",
+        "ev_036",
+        "ev_040"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control with emphasis on enabling—comfortable exercising authority to create conditions for others' flourishing",
+      "finding": "Obama demonstrates appropriate control orientation through executive actions (minimum wage executive order - ev_017, veto threats on Wall Street Reform - ev_029), but frames control as enabling rather than dominating. His firm stance on the debt ceiling ('I will not negotiate over the full faith and credit of the United States' - ev_015) represents boundary-setting rather than anxious control-seeking. Critically, he distributes agency: 'Our economy depends on a financial system in which everyone competes' (ev_003), attributing outcomes to collective action rather than presidential control. This suggests secure attachment's capacity to exercise appropriate control while maintaining connection with others as autonomous agents.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with high relational investment—prioritizes policy goals while investing substantially in maintaining connections",
+      "finding": "Obama consistently prioritizes mission (healthcare expansion, climate action, veteran support) over relational comfort, accepting political conflict as necessary. However, he simultaneously invests heavily in relational maintenance—bipartisan appeals ('This isn't a Democratic or a Republican issue' - ev_008), explicit credit attribution to others ('All of this progress is because of you' - ev_032), and sustained engagement with opponents rather than withdrawal. His 'Year of Action' amid Republican opposition (ev_020) shows mission persistence, but his farewell emphasis on learning from opponents ('Whether we've seen eye-to-eye or rarely agreed at all' - ev_044) reveals ongoing relational investment. This balance is characteristic of secure attachment's integration of agency and connection.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate-high risk tolerance with commitment—willing to pursue ambitious goals despite uncertainty and political cost",
+      "finding": "Obama demonstrates willingness to pursue transformative policies (ACA, Paris climate agreement, Iran nuclear deal) despite significant uncertainty and political risk. His statement on climate: 'That's not something to tear up—it's something to build upon' (ev_041) reflects commitment despite anticipated opposition. He accepts personal political costs ('Republicans have blocked or voted down every serious idea' - ev_020) while maintaining forward momentum. However, his approach is calculated rather than reckless—framing risk in terms of specific consequences (ev_011) and emphasizing monitoring and adjustment. His overall risk posture reflects secure attachment's capacity to tolerate uncertainty while maintaining coherent strategy.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_020",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Comfortable with authority as enabler—uses hierarchical position to empower others rather than dominate",
+      "finding": "Obama demonstrates secure attachment's characteristic comfort with hierarchy as a tool for enabling rather than controlling. He exercises presidential authority directly (executive orders, vetoes, appointments) while framing power relationally—'I've directed the federal government to lead by example' (ev_009) in veteran hiring. His Veterans Day address framing military service as collective responsibility ('our obligation than leading our men and women in uniform' - ev_038) positions authority within relational context. His invitation to Silicon Valley to 'help us modernize the federal government' (ev_037) reflects hierarchy as enabling collaboration. This contrasts with avoidant distancing from authority or anxious dependency on it.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_037",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Integrative negotiation—firm on core values, flexible on tactics; maintains connection under chronic conflict stress",
+      "finding": "Obama demonstrates secure attachment's integrative conflict strategy across multiple contexts. He sets firm boundaries ('I will not negotiate over the full faith and credit' - ev_015, veto threats - ev_029) while remaining open to dialogue on other issues. He explicitly condemns dysfunction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) without personalizing attacks or escalating relationally. His consistent bipartisan framing and sustained engagement despite eight years of Congressional opposition reveals conflict tolerance without defensive withdrawal, hostile attribution, or anxious escalation. This sustained integrative approach under chronic conflict stress is a strong indicator of secure attachment functioning.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale long-term orientation—optimizing for generational impact while maintaining short-term responsiveness",
+      "finding": "Obama consistently operates across extended time horizons. His signature initiatives reflect generational commitment: 'That's not something to tear up—it's something to build upon' (ev_041) regarding climate; 'Cancer Moonshot' framed as decades-long effort (ev_042); Paris climate agreement as legacy for 'our children' (ev_041). He tracks sustained progress ('57 months of job growth' - ev_025, '12+ years' Medicare solvency - ev_002) and calls for civic participation 'over the full span of a lifetime' (ev_046). This mission-scale orientation coexists with urgent short-term responsiveness ('seven days away' - ev_011), reflecting secure attachment's capacity to hold multiple time horizons simultaneously.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_025",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Patch-integrative—prefers building sustainable reform within existing systems rather than complete reconstruction",
+      "finding": "Obama's policy approach consistently demonstrates preference for substantial reform within existing institutional frameworks rather than radical reconstruction. His healthcare strategy (ACA) rebuilt within the employer-based system rather than single-payer. Dodd-Frank reformed existing regulatory structures (ev_028). His 'Year of Action' pursued executive actions within Congressional constraints (ev_015, ev_020). He explicitly values bipartisan cooperation and working within democratic processes. This contrasts with both anxious tendencies to cling to damaged relationships/systems and avoidant tendencies to dismiss and rebuild. His approach reflects secure attachment's realistic assessment of which structures can be repaired versus which require replacement.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive capacity—high reflective functioning with accurate self-awareness and attribution accuracy",
+      "finding": "Obama demonstrates exceptional metacognitive capacity consistent with earned security or high-functioning secure attachment. He shows accurate self-attribution: 'Every day, I learned from you. You made me a better President' (ev_044). He acknowledges limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His fatherhood reflection demonstrates awareness of attachment patterns: 'I grew up without my father around... I felt his absence. And I wonder what my life would have been like had he been a greater presence' (ev_006). His attribution of success to collective action (ev_032) and critical examination of Senate dysfunction (ev_010) reveals accurate perception of systemic factors. This metacognitive strength is particularly notable given its consistency across high-stress contexts.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_027",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "secure_base_provision_at_societal_scale",
+      "definition": "The capacity to provide psychological secure base functions (confidence to explore, safe haven for return) for national/international populations through symbolic communication, policy provision, and visible leadership presence. This extends Ainsworth's caregiver-infant framework to political leadership.",
+      "finding": "Obama's public communication consistently enacts secure base functions at societal scale. His reassurance ('America's resurgence is real' - ev_024) provides regulatory confidence during collective anxiety. His policy agenda (ACA, minimum wage - ev_018) creates conditions for exploration and opportunity. His Memorial Day address explicitly frames national obligation to military families as relational commitment: 'We have to do more than honor their memory. We have to be there for their families' (ev_038). This suggests presidents may function as attachment figures for national identity, providing symbolic availability and protection. Obama's high approval ratings and reputation for composure under pressure support this interpretation.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_024",
+        "ev_038",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "earned_security_through_conscious_agency",
+      "definition": "Evidence of deliberate reflection on and revision of early attachment experiences through conscious behavioral choices, suggesting earned security through intentional relational practice rather than only secure attachment through optimal early caregiving.",
+      "finding": "Obama explicitly reflects on his experience of paternal absence ('I grew up without my father around' - ev_006) and immediately follows with intentional behavioral correction: serving as assistant coach for daughter's basketball team (ev_007), announcing White House partnerships to support fatherhood bonding. His farewell address frames his presidency itself as relational learning: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This pattern suggests earned security achieved through conscious agency—using reflective capacity to identify early attachment disruptions and deliberately construct alternative relational patterns. This contrasts with individuals showing secure attachment without evident earned security work.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "relational_resilience_under_chronic_oppositional_stress",
+      "definition": "The capacity to maintain openness, integrative thinking, and non-defensive processing across eight years of sustained political opposition without characteristic defensive narrowing, hostile attribution, or relational withdrawal. Suggests robust regulatory capacity and secure attachment stability.",
+      "finding": "Obama sustained integrative, non-defensive engagement across eight years of significant Congressional opposition. He maintained bipartisan framing despite Republicans blocking 'every serious idea' (ev_020). He attributed dysfunction to systemic obstruction ('One senator gumming up the works' - ev_010) rather than malicious intent, preserving openness to future cooperation. He acknowledged opponent perspectives ('I'm the first to admit that past trade deals haven't lived up to the hype' - ev_027) even while advocating his position. Critically, his farewell expressed gratitude even for adversarial relationships ('Whether we've seen eye-to-eye or rarely agreed at all' - ev_044). This sustained relational openness without defensive constriction across chronic stress suggests robust secure attachment functioning with high regulatory capacity.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "optimism_as_regulatory_strategy",
+      "definition": "Consistent positive reframing and expression of confidence as deliberate regulatory strategy for sustaining collective motivation and dampening threat hypervigilance, rather than naive positivity or defensive denial. Represents sophisticated emotional regulation at societal scale.",
+      "finding": "Obama's communication contains systematic positive reframing: 'I'm absolutely confident we will get there' (ev_004), 'Pick any metric you want—America's resurgence is real' (ev_024), 'I am even more optimistic about our country's promise' (ev_047). However, this optimism is neither naive nor defensive—he acknowledges specific failures ('past trade deals haven't always lived up to the hype' - ev_027), documents real human costs of sequester (ev_014), and warns of genuine threats. This suggests optimism functions as deliberate regulatory strategy: maintaining hope to sustain collective action, counteracting threat hypervigilance, and modeling emotional regulation. His optimistic reframing appears grounded in evidence-based assessment of progress rather than denial of problems—integrating realistic appraisal with motivational framing.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_014",
+        "ev_024",
+        "ev_027",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

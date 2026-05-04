@@ -1,0 +1,189 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "robotics_and_autonomous_systems_autonomy_planning_under_uncertainty",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation - proactively initiates multi-dimensional programs rather than passively responding to conditions",
+      "finding": "Obama consistently demonstrates agency as world-shaper across his timeline. Rather than waiting for ideal conditions, he initiates programs even under political uncertainty: declared 'Year of Action' (evt_015) with over 20 executive actions when Congress blocked legislative priorities (ev_019, ev_020), announced energy blueprint with specific 2025 targets (evt_004), and issued the veteran hiring challenge requiring companies to commit to specific outcomes (evt_007, ev_009). He also publicly declared himself 'even more optimistic' about America's future in his farewell (ev_047), framing himself as someone who shapes conditions rather than adapting to them. His 'middle-out' economic philosophy (ev_021) explicitly positions him as trying to restructure economic dynamics rather than merely respond to them. This world-shaping tendency appears balanced with practical awareness of constraints, suggesting sophisticated agency rather than naive ambition.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_009",
+        "ev_021",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically grounded but aspirationally framed - uses verifiable metrics while maintaining values-based narrative",
+      "finding": "Obama's epistemic style demonstrates consistent reliance on measurable evidence for policy arguments while maintaining aspirational framing. He routinely cites specific statistics: 11 million jobs created (ev_025), 26 million consumers recovering $11 billion (ev_028), wind power tripled and solar 30x (ev_040), deficits falling at fastest rate since WWII (ev_016). He references surveys about small business owner support for minimum wage (ev_023). However, he explicitly acknowledged past trade deal failures (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') showing epistemic humility about his own prior judgments. His personal addresses (father's day, farewell) blend biographical authenticity with policy substance, suggesting epistemology that integrates empirical and experiential knowledge. This dual-track approach - metrics-driven policy claims with values-grounded narrative - indicates sophisticated epistemic balancing between evidence and meaning.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_023",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization capacity - operates through structured policy systems while maintaining humanistic abstraction",
+      "finding": "Obama demonstrates strong capacity for formal policy abstraction. His legislative agenda operated through structured frameworks: ACA extended Medicare solvency by 12+ years with specific actuarial projections (ev_002); Dodd-Frank established the Consumer Financial Protection Bureau as an independent agency with specific mandate (ev_028); TPP represented five-year negotiation with 11 nations covering 40% of global economy with specific labor and environmental standards (evt_021). He also articulated coherent philosophical abstractions like 'middle-out' economics (ev_021) and opportunity society principles (ev_018). However, his father's day address and farewell speech show ability to operate in concrete personal terms - sharing his own absent-father experience (ev_006), coaching daughter's basketball (ev_007), describing specific Americans he met (ev_045). This suggests abstraction is a tool in his repertoire rather than default mode, deployed strategically rather than exclusively.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "evt_021",
+        "ev_021",
+        "ev_018",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Prefers indirect institutional control mechanisms over direct manipulation - works through system architecture and feedback loops",
+      "finding": "Obama's control orientation demonstrates sophisticated preference for institutional and indirect mechanisms over direct manipulation. Rather than micromanaging outcomes, he establishes frameworks and institutions: CFPB as independent consumer watchdog (ev_028), Presidential Innovation Fellows to modernize government tech (ev_043), Cancer Moonshot as cross-agency task force. When Congress blocked priorities, he used executive orders for federal contractors (ev_017) but framed these as 'actions on the margins' while calling for Congressional action (evt_015). He explicitly said he would 'not negotiate over the full faith and credit' of the US (ev_015) but did so within constitutional institutional mechanisms rather than through personal power. His transportation bill advocacy brought together AFL-CIO and Chamber of Commerce (ev_008) - building coalition feedback rather than controlling each actor. This suggests control orientation favoring system design and institutional architecture over direct process control.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_017",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Willing to accept significant relational costs and political friction in service of core policy missions",
+      "finding": "Obama demonstrates clear willingness to incur relational and political costs when mission goals are at stake. He explicitly condemned Senate obstruction tactics: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He criticized Republican opposition publicly and repeatedly: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020). He issued definitive veto threat against any Wall Street Reform repeal: 'I will veto it' (ev_029). He refused debt ceiling negotiation under any circumstances despite political pressure (ev_015). However, he simultaneously sought bipartisan support when possible - calling transportation 'not a Democratic or a Republican issue' (ev_008) and celebrating bipartisan budget deal as 'Christmas miracles' (ev_048). This pattern suggests sophisticated cost-benefit calculation: willing to absorb relational friction for core priorities (financial regulation, healthcare) while preferring collaboration when it doesn't compromise mission integrity.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with calculated boldness - takes significant initiatives while maintaining backup mechanisms and fallback positions",
+      "finding": "Obama's risk posture demonstrates sophisticated layering: he takes bold policy initiatives but builds in defensive mechanisms. His energy blueprint (evt_004) commits to one-third oil import reduction by 2025 - ambitious goal - but includes multiple mechanisms (domestic drilling, fuel efficiency, clean energy, corporate partnerships) creating redundant pathways. He advocated for TPP despite admitting 'past trade deals haven't always lived up to the hype' (ev_027), acknowledging past failures while committing to new framework. His Cancer Moonshot builds on 45 years of prior research infrastructure (ev_042) rather than starting from scratch. When sequester threatened, he proposed 'balanced approach' replacement (ev_013) rather than either accepting cuts or demanding full reversal. His Veterans Day announcement of Iraq war ending (evt_010) included ongoing Afghanistan transition - avoiding overcommitment. This pattern suggests risk posture favoring multi-pathway initiatives with preserved replanning options over single-point bold bets.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_042",
+        "ev_013",
+        "evt_004",
+        "evt_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional authority wielder - uses formal power mechanisms while advocating for structural hierarchy reform",
+      "finding": "Obama shows sophisticated and often contradictory relationship with hierarchy and authority. He used presidential power directly: executive orders on minimum wage (ev_017), veto threats on Dodd-Frank (ev_029), White House partnerships to advance fatherhood agenda (evt_005). He simultaneously advocated for reducing legislative obstruction: calling for '90-day up-or-down votes on nominations' (evt_008) and criticizing 'one senator gumming up the works' (ev_010). He framed government itself as tool for collective problem-solving: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036). He sought external expertise through Presidential Innovation Fellows and SXSW partnerships (evt_023). His Pentagon and military relations show formal deference to command structure combined with personal commitment to Gold Star families (ev_038, ev_039). This suggests hierarchical orientation that both uses and seeks to reform formal authority structures - working within while advocating for redesign of institutional power dynamics.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_010",
+        "ev_036",
+        "ev_038",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Institutional-confrontational hybrid - escalates through formal mechanisms while preferring negotiated resolution",
+      "finding": "Obama's conflict strategy demonstrates institutional escalation as primary tool combined with preference for negotiated outcomes when available. When Congressional obstruction blocked priorities, he escalated via executive action ('Year of Action' - ev_019), public critique ('Republicans have said no to raising the minimum wage, no to equal pay' - ev_020), and veto threats (ev_029). He refused to negotiate on debt ceiling: 'I will not negotiate over the full faith and credit' (ev_015). However, he consistently framed conflict as product of institutional dysfunction rather than personal animosity: 'One senator gumming up the works... not what our founding fathers envisioned' (ev_010). He celebrated bipartisan moments when achieved (ev_048). He sought to bring opposing stakeholders together (AFL-CIO + Chamber of Commerce - ev_008). He explicitly acknowledged his own prior failures ('past trade deals haven't always lived up to the hype' - ev_027). This suggests conflict strategy using institutional mechanisms for escalation while maintaining relational bridge-opening orientation when circumstances permit.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_008",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale optimization - balances immediate deadline pressure with long-term structural goals and mission-scale legacies",
+      "finding": "Obama's time horizon demonstrates sophisticated multi-scale operation: he responds to immediate deadlines while maintaining long-term structural goals. He tracked urgent near-term deadlines precisely: 'seven days away' for transportation funding, 'eight days away' for student loan rates (ev_011). He simultaneously pursued decade-scale commitments: energy independence by 2025 (evt_004), Medicare solvency extension (ev_002), climate agreements with long implementation horizons (evt_022, ev_041). His Cancer Moonshot built on 45 years of prior research (ev_042). His farewell address reflected on 'all my days that remain' for civic engagement (ev_046). He explicitly positioned current actions as legacy: 'That's not something to tear up – it's something to build upon' regarding climate agreement (ev_041). He resisted single-scale optimization - refused to accept sequester as inevitable while proposing balanced long-term deficit reduction (ev_013). This multi-scale temporal orientation suggests capacity to maintain mission-scale strategic patience while responding to immediate tactical demands.",
+      "evidence_ids": [
+        "ev_011",
+        "evt_004",
+        "ev_002",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild preference - pursues comprehensive redesign over incremental fixes when politically feasible",
+      "finding": "Obama demonstrates clear preference for comprehensive structural redesign over piecemeal patching when political conditions permit. He pursued ACA as comprehensive healthcare system overhaul rather than incremental insurance market reforms. He championed Dodd-Frank as comprehensive financial regulation restructuring rather than targeted fixes. He advocated for 'balanced approach' to deficit reduction (ev_013) involving both entitlement reform and tax code restructuring - not spending cuts alone. He described TPP as 'write global trade rules' (ev_031) - comprehensive framework. He framed minimum wage executive action as calling for Congressional action for nationwide minimum wage (evt_014) - seeking structural coverage not just contractor exception. However, he also demonstrated pragmatic patching when comprehensive reform wasn't achievable: executive orders on federal contractors when Congressional minimum wage failed (ev_017), temporary FAA fixes when full transportation funding stalled (evt_012). This suggests rebuild preference as primary orientation with patching as fallback mode when structural reform blocked - not philosophical commitment to incrementalism but tactical accommodation of constraints.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_017",
+        "evt_012",
+        "evt_014",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness - explicitly reflects on own reasoning patterns, acknowledges uncertainty, and monitors cognitive biases",
+      "finding": "Obama demonstrates unusually strong metacognitive awareness for a political figure. He explicitly acknowledged uncertainty in his own prior judgments: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - directly reflecting on his own epistemic history. He expressed political humility about limits of presidential control: framing his effectiveness as dependent on 'the American people' (ev_032, ev_044). He reflected on personal developmental experiences: growing up without his father (ev_006), learning from diverse Americans during presidency (ev_044). He explicitly distinguished between war on al-Qaeda and respect for Islam (ev_012), demonstrating self-awareness about potential cognitive conflation. His farewell address explicitly called for sustained civic engagement 'over the full span of a lifetime' (ev_046) - metacognitive framing about the limits of election-cycle political attention. He sought external input through Silicon Valley partnerships (evt_023, ev_037) and SXSW engagement (evt_023) - demonstrating awareness that internal perspectives have limits. This metacognitive pattern suggests active self-monitoring and adjustment rather than conviction-locked reasoning.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_006",
+        "ev_012",
+        "ev_046",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "replanning_adaptability_under_adversarial_conditions",
+      "definition": "Capacity to revise plans and strategies when political opposition blocks preferred pathways, without abandoning core objectives - distinct from standard replanning which assumes cooperative environment. This captures Obama's demonstrated ability to pivot from legislative to executive action, from comprehensive reform to targeted intervention, when political conditions blocked primary approach, while maintaining ultimate goal orientation.",
+      "finding": "Obama demonstrates sophisticated replanning adaptability under adversarial political conditions. When comprehensive healthcare reform faced legislative hurdles, he adapted implementation strategy (evt_001 Medicare solvency messaging). When Congressional minimum wage failed, he pivoted to executive order for federal contractors (ev_017) while maintaining call for full Congressional action (evt_014). When bipartisan cooperation collapsed on budget sequestration, he proposed alternative balanced approaches (ev_013, ev_014) rather than either accepting cuts or abandoning deficit reduction goal. His 'Year of Action' framing (evt_015, ev_019) explicitly signals strategic replanning in response to Congressional obstruction. This adaptability appears neither opportunistic nor rigid - maintaining core policy objectives while varying tactical approaches based on political environment observation. This suggests replanning capacity specifically calibrated for adversarial rather than cooperative conditions, an important variant on standard autonomy planning assumptions.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_013",
+        "ev_014",
+        "ev_019",
+        "evt_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_durability_focus",
+      "definition": "Preference for creating structures, agencies, and frameworks intended to persist beyond current political cycle or personal tenure - distinct from both short-term electoral optimization and pure mission achievement. This captures Obama's consistent focus on establishing durable institutional mechanisms rather than maximizing immediate impact.",
+      "finding": "Obama demonstrates strong institutional durability focus - preference for creating persistent structures over maximizing immediate political benefit. He established CFPB as independent agency with specific mandate (ev_028) - designed to persist beyond any administration. His Cancer Moonshot built on 45-year research foundation (ev_042) and created cross-agency task force architecture (ev_043). He framed Paris climate agreement as legacy 'to build upon' (ev_041) rather than current administration achievement. His education reform (evt_027, ev_048) sought bipartisan bill that would outlast his presidency. His government tech modernization (ev_037) explicitly designed for long-term adaptation. His ACA framing emphasized Medicare solvency extension (ev_002) - structural solvency not just current benefits. His civic engagement call emphasized 'over the full span of a lifetime' (ev_046) - sustained participation beyond election cycles. This institutional durability orientation suggests planning horizon that values system persistence over personal legacy maximization - preparing ground for successors rather than just optimizing current conditions.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_042",
+        "ev_043",
+        "ev_041",
+        "evt_027",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

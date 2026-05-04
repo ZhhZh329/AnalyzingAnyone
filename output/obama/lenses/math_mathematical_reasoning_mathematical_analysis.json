@@ -1,0 +1,197 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_reasoning_mathematical_analysis",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Predominantly a structure-responder who shapes the world reactively within institutional constraints, though with active world-shaping through executive action when legislative channels are blocked",
+      "finding": "Obama demonstrates a complex pattern of responding to structural constraints while attempting to reshape policy environments. Throughout his speeches, he frequently responds to Congressional gridlock (ev_013 on sequester, ev_020 on Wall Street Reform repeal threats), urgent deadlines (ev_011 countdown of 'seven days away'), and external events (ev_010 September 11th anniversary context). However, he also shows world-shaping agency through executive orders raising contractor minimum wage (ev_017), declaring a 'Year of Action' with over 20 executive actions (ev_019), and initiative-launching (Cancer Moonshot in ev_042, energy blueprint in ev_005). The evidence suggests Obama operates primarily within a structure-responder mode, navigating institutional constraints rather than fundamentally restructuring them, but compensates through executive action when legislative pathways are blocked. His statement that 'I will not negotiate over the full faith and credit of the United States' (ev_015) reveals both acceptance of structural limits and willingness to assert boundaries within them.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-evidential with acknowledged nuance; forms judgments through data accumulation and documented outcomes rather than pure ideological commitment or heuristic jumps",
+      "finding": "Obama's epistemic style demonstrates a strong empirical orientation grounded in documented evidence and specific outcomes rather than abstract ideological reasoning. He anchors arguments in specific statistical claims: 'nearly 11 million new jobs' (ev_025), '$11 billion back in the pockets of more than 26 million consumers' (ev_028), '7 days away' and '8 days away' countdown framing (ev_011). He references verifiable institutional achievements (CFPB recovery, Medicare solvency extension) and explicitly acknowledges complexity and past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This evidence-based approach contrasts with purely ideological or intuitive reasoning. His use of survey data ('majority of small business owners support $10.10') (ev_023) and his Cancer Moonshot framework built on 'powerful new tools' and 'clear strategy' (ev_042) further demonstrate reliance on accumulated evidence rather than heuristic leaps. However, his geopolitical framing of TPP as preventing 'China write the rules' (ev_031) shows some narrative framing that extends beyond pure data.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_023",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with strong grounding in concrete specifics; articulates abstract principles but anchors them in enumerated policy details and institutional mechanisms",
+      "finding": "Obama demonstrates a nuanced relationship with abstraction—articulating clear abstract principles while frequently grounding them in concrete particulars. He states overarching values like 'opportunity for all' (ev_018), 'middle-out economics' (ev_021), and government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036). However, he consistently connects these abstractions to specific mechanisms: the middle-out principle is illustrated through wage data and manufacturing statistics; the government tool concept is operationalized through Silicon Valley partnerships and tech modernization (ev_037). His 2015 year-end address exemplifies this pattern—abstract celebration of progress is enumerated as 'Number ten: The economy. 2.5 million new jobs...' (ev_033). The Cancer Moonshot represents structured formalization: cross-agency task force, specific enrollment targets (only 4% of patients in trials), and a technology solution through Presidential Innovation Fellows (ev_043). This suggests Obama prefers abstraction that remains tethered to measurable outcomes rather than pure formalization divorced from practical application.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_033",
+        "ev_036",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong process control with acceptance of legitimate institutional limits; uses veto threats and executive action to enforce preferred policy pathways rather than seeking comprehensive system dominance",
+      "finding": "Obama exhibits strong control orientation focused on institutional processes and policy outcomes rather than personal domination or comprehensive system control. He issues definitive veto threats to protect legislative achievements ('I will veto it' on Wall Street Reform repeal, ev_029) and refuses to negotiate on constitutional boundaries (debt ceiling, ev_015). His executive order on contractor minimum wage (ev_017) demonstrates unilateral action when institutional pathways are blocked. However, his control orientation is bounded by legitimate institutional norms—he repeatedly calls for Congressional action rather than circumventing it, frames issues as bipartisan ('not a Democratic or Republican issue,' ev_008), and credits collective achievement rather than individual control ('All of this progress is because of you,' ev_032). The Cancer Moonshot delegation to Biden (ev_042) shows comfort with distributed leadership. This pattern suggests a preference for controlling policy outcomes through legitimate institutional mechanisms rather than comprehensive personal authority over people or systems.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_032",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with relational bridging attempts; willing to criticize opposition but consistently frames issues around universal values rather than pure factional conflict",
+      "finding": "Obama demonstrates a mission-priority orientation that actively bridges relational costs rather than avoiding them through pure mission focus. He clearly prioritizes major policy missions: ACA implementation (ev_001 'commitment I'm going to keep'), Dodd-Frank defense (ev_029 veto threat), climate action (ev_041 'something to build upon'), and veterans hiring challenge (ev_009). However, his rhetoric consistently attempts relational bridging—framing transportation funding as 'an American issue' not 'Democratic or Republican' (ev_008), and celebrating bipartisan achievements ('Christmas miracles in Washington,' ev_048). He acknowledges obstruction ('Republicans have blocked,' ev_020) but attributes accomplishments to collective action ('because of you,' ev_032) rather than pure factional victory. His Father's Day address sharing personal vulnerability about absent fatherhood (ev_006) represents deliberate relational investment that serves mission framing. This pattern suggests Obama balances mission achievement with relational bridge-building, avoiding pure factional conflict while maintaining policy commitments.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_006",
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_032",
+        "ev_041",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Cautious-calculated with evidence-based confidence; willing to act decisively on clear priorities but builds consensus and documents outcomes rather than taking large empirical leaps",
+      "finding": "Obama's risk posture demonstrates a cautious-calculated approach grounded in accumulated evidence and documented outcomes. Rather than risk-seeking through ideological leaps or intuitive decisions, he anchors positions in verifiable data: specific dollar amounts recovered for consumers (ev_028), job creation statistics (ev_025), Medicare solvency extensions (ev_002), and carbon pollution reductions (ev_040). He acknowledges uncertainty and past failures (ev_027 on trade deals) before committing to new directions. His approach to the sequester documents specific, immediate harms to vulnerable populations (Head Start cuts, seniors on Meals on Wheels, military families) to build urgency (ev_014), rather than abstract risk arguments. The Cancer Moonshot framework represents structured risk management: identifying a specific problem (4% clinical trial enrollment), developing targeted solutions (Trials.Cancer.Gov), and iterating through cross-agency collaboration (ev_043). His confident assertions ('absolutely confident we will get there,' ev_004) follow from evidence accumulation rather than preceding it. This suggests a mathematical analysis-like approach: establishing convergence through incremental, verifiable steps rather than large intuitive leaps.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_014",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy embracer with strategic deployment of formal authority; works within hierarchy while using official power (vetoes, executive orders) when necessary to enforce policy commitments",
+      "finding": "Obama demonstrates clear embrace of institutional hierarchy combined with strategic deployment of formal presidential authority. He references his constitutional role ('As Commander-in-Chief, I have no more solemn obligation,' ev_038) and formal powers (veto threats, ev_029) as legitimate tools rather than last resorts. He uses executive orders (minimum wage for contractors, ev_017) and declares executive actions as positive governance ('Year of Action,' ev_019) rather than apologizing for bypassing Congress. His willingness to delegitimize Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010) suggests he interprets hierarchy through democratic legitimacy rather than pure procedural respect. The Cancer Moonshot delegation to Biden (ev_042) shows comfort with distributed hierarchy. However, his repeated calls for Congressional action and bipartisan cooperation indicate he prefers hierarchical legitimacy over unilateral action. This suggests Obama views formal authority as a legitimate tool for enforcing policy commitments, not merely a fallback when cooperation fails.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_038",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translational-conflict approach; frames disagreements as solvable through institutional process rather than pure adversarial dynamics, though willing to escalate through vetoes and executive action",
+      "finding": "Obama's conflict strategy demonstrates a translational approach that reframes partisan conflict as institutional dysfunction rather than fundamental opposition. He criticizes Senate obstruction ('One senator gumming up the works,' ev_010) and Republican blocking ('said no to minimum wage, no to equal pay,' ev_020) but frames these as procedural problems requiring institutional reform rather than irreconcilable ideological differences. His sequester arguments translate policy disagreement into human costs (ev_014: parents losing Head Start, seniors losing Meals on Wheels, military families under strain) to reframe conflict dimensions. He explicitly states willingness to veto (ev_029) and uses executive action as conflict resolution tool when legislative channels fail (ev_019). However, he consistently attempts translational framing—calling bipartisan coalitions ('AFL-CIO and Chamber of Commerce,' ev_008), framing issues as American rather than partisan, and celebrating cross-party achievements (ev_048 'Christmas miracles'). This suggests Obama prefers to translate conflict into institutional problem-solving rather than escalating to pure adversarial dynamics, but escalates to formal power deployment when translation fails.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term horizon with mission-scale patience; consistently frames current actions within decades-long trajectories and explicitly optimizes for future generations and institutional durability",
+      "finding": "Obama demonstrates a pronounced long-term and mission-scale time horizon, consistently situating current actions within extended temporal frameworks. He references 'decades-long erosion of middle-class jobs and incomes' (ev_024) as the problem context and frames climate action as legacy ('leave a better, cleaner, safer future for our children,' ev_041). His specific targets extend to 2025 (energy independence, ev_004), 2014 (Afghanistan transition, ev_010), and end-of-decade projections. The Paris climate agreement (ev_034) represents a 200-nation, multi-generational framework. His deficit reduction framing references 'World War II' as baseline comparison (ev_016). The Cancer Moonshot explicitly situates itself within 45 years of prior cancer research (ev_042), positioning current action as convergence toward long-established goals. He demonstrates patience with policy processes: TPP took 5 years to negotiate (ev_030), ACA implementation spanned entire presidency, Dodd-Frank required years of institutional building. This temporal orientation aligns with mathematical analysis emphasis on convergence and asymptotic processes—Obama appears to view policy outcomes as approaching limits over extended time horizons rather than achieving immediate perfect solutions.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_010",
+        "ev_016",
+        "ev_024",
+        "ev_030",
+        "ev_034",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for foundational reform over incremental patching; major legislative achievements (ACA, Dodd-Frank) represent comprehensive redesign, with executive actions as patches within those foundations",
+      "finding": "Obama demonstrates a clear preference for foundational reform over incremental patching in major policy domains, while accepting patch-level action within established frameworks. His signature legislative achievements—ACA (ev_001 'strengthening Medicare commitment') and Dodd-Frank (ev_003 'level playing field, same rules')—represent comprehensive structural redesign rather than targeted fixes. The ACA explicitly extended Medicare solvency by 12 years through fundamental restructuring (ev_002). Dodd-Frank established new institutional architecture (CFPB, consumer protections) to prevent future crises (ev_028 'independent Consumer Financial Protection Bureau with one mission'). However, when comprehensive reform is blocked, he uses executive actions as patches within existing structures: contractor minimum wage (ev_017), veterans hiring initiative (ev_009), and Year of Action executive orders (ev_019). His statement that 'drilling alone is not a real strategy to replace our dependence' (ev_005) explicitly rejects partial solutions in favor of comprehensive approaches. The Cancer Moonshot similarly represents foundational redesign of clinical trial infrastructure (ev_043) rather than incremental research grants. This suggests Obama prefers rebuilding foundations when politically feasible, while patching within foundations when necessary.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with demonstrated capacity to evaluate past approaches and adjust reasoning; acknowledges uncertainty and past failures, delegates cognitive tasks appropriately",
+      "finding": "Obama demonstrates moderate metacognitive awareness, with observable evidence of self-evaluation and cognitive adjustment rather than rigid adherence to initial positions. His explicit self-correction ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027) acknowledges that prior approaches were imperfect and informs revised strategy. His farewell address reflection ('Every day, I learned from you. You made me a better President,' ev_044) suggests ongoing self-assessment. He demonstrates appropriate cognitive delegation: assigning Cancer Moonshot to Biden with cross-agency innovation framework (ev_042, ev_043), suggesting awareness of distributed cognitive load. His careful documentation of sequester harms (ev_014) shows awareness that emotional framing requires empirical grounding. However, the evidence base—official presidential addresses—may not capture private reasoning limitations. His consistent optimism ('absolutely confident,' ev_004) and forward-looking orientation might indicate bounded metacognition—he processes external feedback actively but may underweight contrary signals. The evidence suggests moderate metacognitive engagement sufficient for policy adjustment but perhaps insufficient for recognizing structural reasoning blind spots.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_042",
+        "ev_043",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "convergence_articulation",
+      "definition": "The tendency to frame policy outcomes as asymptotic approaches toward desirable limits rather than discrete achievements or failures—a mathematical analysis characteristic where current states are understood as points on trajectories toward equilibrium",
+      "finding": "Obama demonstrates a distinctive convergence articulation pattern characteristic of mathematical analysis thinking. He consistently frames policy outcomes as points on extended trajectories approaching desirable limits rather than as binary successes or failures. His claim that 'deficits are already falling at the fastest rate since the end of World War II' (ev_016) positions current fiscal state as approaching equilibrium from above. The Cancer Moonshot explicitly builds on '45 years of progress, funding research, training scientists and physicians, and treating millions of patients—we now have the army. We now have powerful new tools. And with this Moonshot, we now have a clear strategy for the road ahead' (ev_042)—positioning current initiative as convergence toward long-established goals. His climate framing ('something to build upon,' ev_041) suggests Paris agreement as station on extended convergence path rather than terminal achievement. The employment statistics ('57 months of growth,' ev_025) establish a trajectory trending toward full employment. This convergence articulation contrasts with populist framing of immediate transformation or permanent failure—it suggests Obama understands policy outcomes as approaching limits over extended time horizons, consistent with mathematical analysis emphasis on limit processes and asymptotic behavior. This framing pattern appears consistently across economic, health, environmental, and diplomatic domains.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "sequential_step_differentiation",
+      "definition": "The tendency to distinguish between adjacent policy steps as meaningfully different in kind or sequence rather than treating them as interchangeable—implies awareness that local conditions determine the validity of policy interventions",
+      "finding": "Obama demonstrates awareness of sequential step differentiation—the recognition that adjacent policy moments have distinct characteristics that affect appropriate responses. His 'seven days away' and 'eight days away' framing (ev_011) treats transportation funding and student loan rates as distinct sequential problems with specific urgency rather than generic budget issues. His distinction between 'drilling alone' and comprehensive energy strategy (ev_005) recognizes that individual policy steps cannot substitute for systematic approaches. His acknowledgment that TPP comes after 5 years of negotiation (ev_030) treats this step as distinct from previous trade frameworks. His sequester arguments distinguish between already-incurred harms (Head Start cuts, airport disruptions) and prospective ones (ev_012, ev_014), suggesting sequential differentiation of damage. The Cancer Moonshot infrastructure development (Trials.Cancer.Gov) addresses a specific sequential gap: patients don't know where to go, drug companies need research subjects, and the technology solution creates a specific pathway between them (ev_043). This sequential awareness suggests Obama processes policy problems as ordered sequences where local conditions determine appropriate interventions, consistent with mathematical analysis attention to how adjacent neighborhoods behave differently near singular points—a discontinuous transition in political terms may be continuous in policy terms when examined at sufficient granularity.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_011",
+        "ev_012",
+        "ev_014",
+        "ev_030",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

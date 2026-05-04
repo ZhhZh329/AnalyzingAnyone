@@ -1,0 +1,181 @@
+{
+  "disciplin": "cs_engineering",
+  "lens": "systems_thinking",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate world-shaper with structure-responsive awareness; acts decisively within constraints but credits distributed agency",
+      "finding": "Obama exhibits a dual orientation: he takes bold executive actions when institutional constraints block legislative paths (ev_019, ev_017), declaring a 'Year of Action' with 20+ executive orders; yet he consistently invokes collective actors—workers, entrepreneurs, teachers, communities—as the true engines of change (ev_032, ev_044). His cancer moonshot demonstrates world-shaping via deliberate leverage point selection (ev_042, ev_043), identifying cross-agency coordination as high-leverage intervention. However, his farewell address reveals structure-responsive humility: 'Every day, I learned from you. You made me a better President' (ev_044), suggesting he perceives systemic change as emerging from distributed participation rather than singular heroic agency. This framing aligns with Meadows' insight that high-leverage change requires understanding one's position within feedback structures, not over one's own influence.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_017",
+        "ev_032",
+        "ev_042",
+        "ev_043",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded with values integration; demonstrates epistemic humility about past failures",
+      "finding": "Obama's speeches reveal a pattern of grounding claims in measurable outcomes—job creation counts (ev_025, ev_033), deficit reduction rates (ev_016), consumer recovery amounts (ev_028), energy production metrics (ev_040)—while integrating these with explicit value commitments ('middle-out' economics, opportunity agenda). Notably, he demonstrates epistemic humility when acknowledging past trade deals 'haven't always lived up to the hype' (ev_027), a rare admission of policy imperfection from an incumbent. His decision to seek ideas at South by Southwest (evt_023) further indicates willingness to incorporate external knowledge rather than relying solely on internal analysis. This suggests a belief formation process that combines quantitative evidence with democratic deliberation, consistent with Senge's emphasis on shared vision over siloed expertise.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; capable of systems-level abstraction but prefers accessible communication framing",
+      "finding": "Obama demonstrates clear capacity for systems thinking at the abstraction level—he frames ACA not as isolated healthcare policy but as mechanism extending Medicare solvency by 12+ years (ev_002), connects Wall Street Reform to preventing 'too big to fail' bailouts as systemic risk (ev_028), and articulates 'middle-out' economics as coherent theory linking middle-class strength to aggregate prosperity (ev_021). However, his communication style consistently translates these abstractions into concrete human impacts: Head Start cuts affecting children (ev_014), veterans' families needing support (ev_038), workers deserving fair wages (ev_018). His energy strategy explicitly rejects single-variable solutions ('Drilling alone is not a real strategy' ev_005), showing feedback loop awareness. This pattern suggests he can operate at high abstraction levels but deliberately selects accessible framing for public communication—a conscious translation choice rather than limited conceptual range.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_028",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Preference for mechanism design over direct control; uses executive authority strategically when consensus blocked",
+      "finding": "Obama shows nuanced control orientation across different domains. In financial regulation, he favors structural mechanisms: Dodd-Frank designed consumer protection as permanent feature requiring no ongoing political will (ev_028, ev_029). In workforce policy, he designs incentive structures—federal contractor minimum wage (ev_017), veteran hiring tax credits (ev_009)—rather than direct mandates. However, when institutional pathways blocked policy goals, he shifted to direct control via executive orders (ev_019: 'Year of Action'). His sequester response reveals frustration with control limits: documented real human costs (ev_014) to pressure Congressional action but ultimately could not force resolution. His energy blueprint illustrates mechanism design preference: multi-pronged strategy involving Clean Fleets Partnership with private companies (evt_004) creating aligned incentives rather than top-down mandates. This suggests orientation toward self-regulating mechanisms per Senge, with executive action as fallback when institutional consensus fails.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with principled red lines; willing to bear relational costs when core commitments at stake",
+      "finding": "Obama demonstrates willingness to prioritize mission over relational comfort in defined domains: absolutely refusing to negotiate over debt ceiling ('I will not negotiate over the full faith and credit of the United States' ev_015), issuing definitive veto threat against Wall Street Reform repeal (ev_029), and committing to Medicare protection 'as long as I am President' (ev_001). However, his default framing consistently seeks non-partisan coalitions—transportation bill framed as 'American issue' with AFL-CIO and Chamber of Commerce support (ev_008), TPP positioned as bipartisan (evt_019). This suggests a strategic approach: red lines on foundational commitments (fiscal credibility, healthcare security, financial reform) while seeking relational accommodation on implementation details. His criticized Republican obstruction while asserting executive authority (ev_020) indicates he will absorb relationship costs when legislative bodies block mission-critical goals, but proactively builds relational bridges when possible.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with explicit acknowledgment of past policy learning",
+      "finding": "Obama's risk posture reveals comfort with consequential decisions when expected outcomes justify uncertainty: auto industry rescue (referenced in ev_022 as 'we chose to invest') despite political controversy; Iran nuclear deal (ev_034) accepting verification-based risk; TPP despite acknowledging past trade deal failures (ev_027). His climate policy shows long-term risk acceptance: Paris agreement commitment despite immediate economic costs, fuel efficiency standards ahead of schedule (ev_040, ev_041). Notably, he integrates risk acknowledgment into decision narrative—'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—framing risk-taking as iterative learning rather than blind faith. His 'resurgence is real' framing (ev_024) suggests confidence that accumulated evidence justifies continued experimentation. This aligns with systems thinking acceptance of emergence: attempting to control all outcomes is futile; designing adaptive mechanisms is preferable.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_024",
+        "ev_027",
+        "ev_034",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Instrumental view; uses formal authority decisively when necessary but prefers institutional legitimacy",
+      "finding": "Obama treats hierarchical authority as functional tool rather than power to be contested: uses executive orders decisively (ev_019) when legislative path blocked; issues veto threats (ev_029) as credible commitment mechanism; exercises Commander-in-Chief authority on military matters (ev_038). Simultaneously, he criticizes hierarchical dysfunction—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)—framing obstruction as institutional deviation rather than legitimate countervailing power. His government modernization initiative (ev_037) positions hierarchical institutions as requiring deliberate redesign to match contemporary needs, not sacred structures. His South by Southwest outreach (evt_023) suggests comfort seeking expertise outside formal hierarchy. This instrumental orientation treats authority as means to policy ends, deployed when functional, challenged when malfunctioning.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_019",
+        "ev_029",
+        "ev_037",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Strategic escalation with de-escalation capacity; treats conflict as system signal not to be suppressed",
+      "finding": "Obama demonstrates capacity for controlled conflict escalation: definitive veto commitment on Wall Street Reform (ev_029); absolute refusal to negotiate debt ceiling (ev_015); explicit criticism of Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea' ev_020). However, he systematically frames conflict non-personally—attacking policy positions rather than individuals—and seeks coalition-building even amid confrontation (ev_008: AFL-CIO and Chamber of Commerce together). His Father's Day address (ev_006) shows willingness to translate personal experience into system-level policy engagement. His Veterans Day veteran hiring challenge (ev_009) converted unemployment conflict into private-sector partnership opportunity. This suggests he treats conflict as natural system tension requiring management rather than suppression, consistent with systems thinking that views反馈环路 tension as diagnostic signal. He escalates when red lines approached but always offers exit ramps to collaborative resolution.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_009",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly long-term; consistently references extended timeframes matching system dynamics",
+      "finding": "Obama's rhetoric consistently operates at long time horizons: 'cut oil imports by one-third by 2025' (evt_004); 'over the next 57 months' (ev_025); 'leave a better, cleaner, safer future for our children' (ev_041). His 'resurgence' narrative positions current progress as reversal of 'decades-long erosion of middle-class jobs and incomes' (ev_024), acknowledging long-delayed effects. ACA extended Medicare solvency by 12 years (ev_002), explicitly designing for multi-decade horizon. His climate policy cites '25 years' of carbon pollution data (ev_040), demonstrating patience with long-delayed system responses. Sequester failures show cost of short-term thinking (ev_011: 'nearly $1 billion in highway funding within 10 days'). This time horizon alignment with system dynamics—where policy effects often manifest over decades rather than quarters—indicates sophisticated understanding of stock-flow relationships per Forrester's system dynamics.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_024",
+        "ev_025",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strongly structural; prefers comprehensive redesign over incremental fixes when problems are systemic",
+      "finding": "Obama consistently demonstrates preference for structural solutions over symptomatic patches: ACA as comprehensive healthcare system redesign rather than targeted subsidies; Dodd-Frank as structural financial reform rather than conduct codes; 'balanced approach' to deficit reduction combining entitlement reform with revenue changes (ev_013). His cancer moonshot explicitly designed cross-agency task force with Silicon Valley partnerships (ev_043) rather than incremental research funding increases. His critique of 'drilling alone' as insufficient energy strategy (ev_005) shows rejection of single-variable solutions. Government modernization initiative (ev_037) sought fundamental redesign of federal technology stack rather than incremental upgrades. His one exception pattern—sequester response—shows patching attempts failing, documented human costs accumulating (ev_014) until structural resolution achieved. This consistent preference for comprehensive mechanisms over incremental fixes aligns with Meadows' emphasis on moving toward leverage points rather than symptoms.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_014",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High; demonstrates explicit self-awareness of cognitive limits, learning orientation, and model dependencies",
+      "finding": "Obama's farewell address reveals substantial metacognitive awareness: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This explicitly acknowledges his own reasoning as incomplete and dependent on external input for improvement. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to recognize his own prior models as inadequate. His South by Southwest initiative seeking external ideas for government modernization (evt_023) shows active seeking of perspective diversity. He credited diverse Americans—workers, entrepreneurs, teachers, health workers, parents—for making his presidency effective (ev_032, ev_045), distributing epistemic credit broadly rather than claiming singular insight. His documented learning from cancer survivors, disaster recovery communities, and veterans (ev_045) suggests continuous model refinement. This metacognitive practice—actively monitoring and adjusting reasoning based on external feedback—aligns with Senge's emphasis on recognizing and challenging mental models.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "stewardship_versus_revolution_orientation",
+      "definition": "Degree to which the actor conceptualizes their role as restoring/improving existing systems versus fundamentally replacing them; contrasts with both world-shaper and structure-responder by focusing on temporal relationship to inherited structures rather than agency magnitude",
+      "finding": "Obama's rhetoric consistently frames change as resurgence, restoration, and building-upon rather than revolutionary replacement. 'America's resurgence is real' (ev_024), 'what we've built together' subtext, defending Paris climate agreement as 'something to build upon' (ev_041). His ACA preserved and strengthened Medicare rather than replacing it; Dodd-Frank regulated existing financial institutions rather than confiscating them. His farewell address reflects on witnessing 'American goodness' that persisted through crises (ev_045), framing his role as steward of pre-existing positive momentum. This contrasts with both world-shapers who claim to create new systems and structure-responders who passively accept inherited ones—Obama positioned himself as one who unlocks potential in existing structures, improving without destroying.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_041",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "distributed_agency_belief",
+      "definition": "Degree to which actor attributes systemic outcomes to distributed collective action versus concentrated individual or institutional action; not captured by agency_orientation which focuses on self-perceived capacity rather than attribution patterns",
+      "finding": "Obama systematically attributes policy success to distributed actors rather than concentrated leadership. 'It's you—the American people. All of this progress is because of you' (ev_032). His veteran hiring challenge leveraged 100,000 private-sector commitments (ev_009); his cancer moonshot built cross-agency task force (ev_043); his clean energy goals involved Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo (evt_004). This attribution pattern reveals deep belief that systemic change requires enabling distributed agency rather than commanding outcomes—a fundamentally systems-theoretic assumption that emergence arises from local interactions. His call for sustained civic engagement 'not just when there's an election, but over the full span of a lifetime' (ev_046) further demonstrates design for distributed participation. This contrasts with leaders who claim singular credit or assign outcomes to concentrated power; Obama's model treats him as catalyst for emergent collective action.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_032",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "discipline": "cs_engineering"
+}

@@ -1,0 +1,165 @@
+{
+  "discipline": "medicine",
+  "lens": "occupational_medicine",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High agency through institutional redesign rather than personal workload exertion; Obama worked within presidential constraints but systematically restructured policy systems rather than relying on heroic personal effort",
+      "finding": "Obama's work style in this evidence set consistently demonstrates institutional agency—using executive orders, regulatory authority, and coalition-building to redesign systems (Dodd-Frank, ACA, TPP) rather than modeling personal overwork. His 'Year of Action' framing emphasized taking executive actions because Congressional obstruction blocked legislative routes, not because personal effort could substitute for structural change. The evidence suggests a preference for changing rules rather than working harder within existing ones.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-grounded with preference for measurable outcomes; respects systemic evidence over anecdotal signals",
+      "finding": "Obama's speeches consistently ground claims in measurable outcomes: job creation numbers (ev_025, ev_033), consumer recovery amounts ($11 billion for 26 million, ev_028), Medicare solvency extensions (ev_002), deficit trajectory data (ev_016). This suggests epistemic orientation toward system-level data rather than individual fatigue or injury signals. However, this evidence set does not show how he responded to direct workplace safety or health exposure warnings from his administration or staff.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_016"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization; systematic policy architecture over ad hoc responses",
+      "finding": "The evidence strongly supports a formalization preference. Obama's signature achievements (Dodd-Frank regulatory system, ACA healthcare architecture, TPP trade framework, Paris climate agreement) all represent systematic rule-making rather than targeted fixes. He explicitly framed drilling alone as insufficient because it lacked systemic integration (ev_005). The Cancer Moonshot task force model demonstrates cross-agency systematization (ev_043). This suggests Obama preferred establishing durable formal structures that could operate independently of constant personal oversight.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_028",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation; focused on rule-setting and boundary protection rather than micromanagement",
+      "finding": "Obama demonstrated control orientation through institutional mechanisms rather than direct supervision. His veto threats on Wall Street reform (ev_029) and debt ceiling refusals (ev_015) show boundary-setting rather than process micromanagement. He explicitly refused to negotiate over the full faith and credit of the United States—establishing red lines rather than controlling every negotiation detail. The evidence suggests control through rule establishment and principled limits rather than real-time operational control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented on policy goals but with notable relational care emphasis in military and family contexts",
+      "finding": "This evidence set shows mixed patterns. Obama's 'Year of Action' rhetoric prioritized policy goals despite Congressional opposition (ev_020), suggesting willingness to accept political relational costs for policy objectives. However, his Memorial Day addresses (ev_038, ev_039) emphasized deep relational obligations to fallen service members and Gold Star families, and his father's day address (ev_006, ev_007) revealed personal attention to family bonds. He explicitly framed military families bearing 'visible and invisible wounds' with duty to support them. The pattern suggests mission prioritization on systemic policy but relational care emphasis in personal and military contexts.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_039",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-aware with preference for calculated, multilateral approaches over unilateral gambling",
+      "finding": "Obama's speeches reflect a risk-calculated posture. He acknowledged past trade deals 'haven't always lived up to the hype' while defending TPP as the better alternative to China writing rules (ev_027, ev_031)—accepting imperfect but structured risk over strategic vacuum. His sequester opposition documented real human costs before advocating alternative approaches (ev_014). The Iran nuclear deal framing accepted verification challenges but positioned structured engagement over continuation of prior trajectory. This suggests risk tolerance for imperfect multilateral solutions over leaving systems unmanaged.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_031",
+        "ev_034"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy used for rule protection and boundary enforcement; power as constraint rather than personal instrument",
+      "finding": "The evidence shows Obama treating presidential power primarily as an institutional tool for protecting systems rather than personal dominance. He used executive orders to set minimum wage for federal contractors (ev_017) and veto threats to protect Dodd-Frank (ev_029), framing power as protecting established rules rather than enabling personal discretion. His refusal to negotiate over the debt ceiling (ev_015) positioned hierarchy as protecting institutional credibility. Notably, he criticized Senate obstruction as contrary to 'founding fathers' intent' (ev_010)—using democratic principles to constrain hierarchy rather than asserting personal authority.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Firm boundary enforcement on principles; coalition-building and system-design as conflict resolution mechanisms",
+      "finding": "Obama's conflict strategy in this evidence set shows principled boundary-setting combined with systematic coalition-building. He issued definitive veto threats (ev_029) and absolute refusals on debt ceiling (ev_015) but simultaneously built bipartisan coalitions—citing AFL-CIO and Chamber of Commerce together on transportation (ev_008) and framing TPP as protecting workers through strong standards (ev_026). He called out Republican obstruction explicitly while offering measurable outcomes. The pattern suggests conflict as system-design opportunity rather than zero-sum victory.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_026",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural orientation with medium-term political awareness",
+      "finding": "Obama consistently framed accomplishments and goals in long-term structural terms: ACA extending Medicare solvency by 12 years (ev_002), energy goal of cutting oil imports by one-third by 2025 (ev_004), Paris climate agreement as future to 'build upon' (ev_041). His farewell address explicitly looked beyond his presidency to continued civic engagement (ev_046, ev_047). However, he also demonstrated medium-term political awareness—framing issues around imminent deadlines (7 days for transportation, 8 days for student loan rates, ev_011) to mobilize action. This dual horizon suggests structural patience combined with tactical urgency.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_011",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair",
+      "finding": "The evidence consistently supports rebuilding over patching. Dodd-Frank represented fundamental restructuring of financial regulation, not incremental reform. The ACA redesigned healthcare access architecture. TPP created new trade framework rather than amending existing arrangements. Paris climate agreement established new international framework. Even on sequester, Obama advocated 'balanced approach' of systemic changes to entitlement programs and tax reform (ev_013)—structural redesign rather than budget补丁. The pattern shows consistent preference for comprehensive structural solutions over targeted fixes.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_028",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; explicitly reflected on limitations, learned from opposition, and advocated sustained self-governance",
+      "finding": "Obama's farewell address demonstrates explicit metacognitive reflection: acknowledging conversations with Americans 'kept me honest, kept me inspired, and kept me going' (ev_044); recognizing 'Every day, I learned from you' (ev_044). He explicitly called for sustained civic engagement beyond elections (ev_046) and expressed continued optimism about America's promise (ev_047)—demonstrating awareness that political engagement must outlast any individual tenure. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows self-awareness of policy limitations. The Cancer Moonshot framing also shows cross-domain integration awareness through Presidential Innovation Fellows model (ev_043).",
+      "evidence_ids": [
+        "ev_027",
+        "ev_043",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "workplace_norm_signaling",
+      "definition": "Whether a public figure's rhetoric and behavior signals healthy or unhealthy workplace norms to the broader population—specifically, whether their model of engagement promotes sustainable work patterns or normalizes chronic overload",
+      "finding": "Obama's public communication consistently modeled sustainable engagement rather than heroic overwork. He framed accomplishments as collective achievement ('All of this progress is because of you,' ev_032) rather than personal sacrifice. His transportation and student loan urgency (ev_011) framed deadlines as political failures to be fixed through system response, not personal overwork. His explicit advocacy for worker protections (minimum wage, fair pay, paid family leave, ev_016) signals healthy workplace norms. He showed up publicly composed across 8 years, but the evidence never frames his workload as a badge of honor or expects others to mirror chronic overload. This contrasts with patterns where public figures normalize exhaustion as virtue.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "recovery_boundary_advocacy",
+      "definition": "Whether this person advocates for recovery boundaries and rest infrastructure at systemic level, or treats rest as weakness and personal capacity expansion as the solution to workload",
+      "finding": "Obama explicitly advocated for recovery infrastructure: paid family leave (ev_016), Head Start programs and Meals on Wheels for vulnerable populations (ev_014), veteran hiring challenges with specific timeline (ev_009), and federal contractor minimum wage as a floor enabling rest (ev_017). His framing of military families 'bearing visible and invisible wounds' (ev_038) signals awareness that service carries recovery costs requiring systemic support. While not explicitly framing presidential work as requiring recovery boundaries, his policy agenda consistently advocated for worker rest and recovery infrastructure. This suggests a pattern of treating recovery as systemic investment rather than individual weakness.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_016",
+        "ev_017",
+        "ev_038"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

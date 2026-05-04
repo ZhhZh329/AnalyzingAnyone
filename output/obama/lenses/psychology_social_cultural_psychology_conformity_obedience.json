@@ -1,0 +1,196 @@
+{
+  "discipline": "psychology",
+  "lens": "social_cultural_psychology_conformity_obedience",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with strategic calibration—wields executive authority decisively when legislative channels block progress, but attributes outcomes primarily to collective American action rather than personal agency",
+      "finding": "Obama consistently demonstrates agency orientation through concrete executive actions taken when Congress obstructed his agenda. His minimum wage executive order (ev_017), 'Year of Action' with 20+ executive actions (ev_019), veto threats on Wall Street Reform (ev_029), and refusal to negotiate debt ceiling (ev_015) all indicate active world-shaping rather than passive structure-responding. However, his rhetorical pattern of attributing outcomes to 'the American people' (ev_032, ev_044, ev_045), to Congressional action or inaction, and to external circumstances (ev_016, ev_025) suggests a deliberate de-centering of personal agency in public discourse. This creates an interesting tension: behaviorally he exercises strong executive agency, but communicatively he frames himself as facilitator of collective will. For the conformity framework, this indicates high personal agency paired with strategic deployment of attributions that reduce perception of individual dominance—potentially making resistance to his position seem like resistance to the popular will rather than to a person.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with heavy reliance on verifiable metrics and coalition consensus as epistemic validation—frequently cites statistics, surveys, and bipartisan support as proof of position correctness",
+      "finding": "Obama's epistemic approach heavily relies on quantifiable evidence and cross-group validation. He cites specific statistics obsessively: 11 million jobs (ev_025), $11 billion recovered for consumers (ev_028), Head Start cuts and airport disruptions from sequester (ev_014), 57 consecutive months of growth (ev_025), wind tripled and solar 30x (ev_040). This pattern suggests an information-processing style that seeks convergent validation from multiple credible sources before forming and especially before publicizing positions. His invocation of 'surveys show a majority of small business owners support $10.10 minimum wage' (ev_023) demonstrates using social consensus as evidence. This aligns with Asch-type conformity dynamics where multiple independent sources lend credibility—but also reflects genuine epistemic humility and transparency about uncertainty. His statement 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) reveals capacity to acknowledge epistemic failures in his own prior judgments. The net pattern is someone who forms beliefs based on evidence aggregation and coalition-building rather than pure principle or intuition.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_016",
+        "ev_023",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate—balances abstract principles (American promise, middle-out economics) with concrete metrics and specific policy mechanisms; uses formal institutional processes but supplements with executive action when blocked",
+      "finding": "Obama articulates abstract ideological frameworks ('middle-out economics' ev_021, 'opportunity for all' ev_018, 'resurgence is real' ev_024) but consistently grounds them in specific metrics and actionable programs. His abstraction level is contextually calibrated: high-level optimism and values messaging in speeches, but precise numerical claims in policy contexts. Interestingly, when formal Congressional processes failed—as on minimum wage, equal pay, and unemployment insurance (ev_020)—he shifted to executive action rather than accepting abstraction-only governance. This suggests his preference for formal institutional action (ev_008 explicitly calling for bipartisan cooperation) but willingness to operate outside formal channels when they obstruct. He shows relatively low preference for systematization for its own sake; his 'Year of Action' framing prioritized outcomes over process consistency. The pattern fits someone who appreciates formal institutions but is not bound to them when they fail to deliver.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_018",
+        "ev_020",
+        "ev_021",
+        "ev_024",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate to high—actively uses veto threats, executive orders, and public pressure campaigns to control policy outcomes; accepts constraints from institutional norms and public opinion as legitimate checks",
+      "finding": "Obama demonstrates significant control orientation through his systematic use of presidential tools: executive orders on minimum wage (ev_017), veto threats on Wall Street Reform repeal (ev_029), Cancer Moonshot initiative (ev_042-43), and innovation Fellows program (ev_037). However, his control attempts are bounded by what he frames as legitimate institutional constraints—he explicitly criticized Senate obstruction as contrary to founders' intent (ev_010) rather than simply working around it unilaterally. His government modernization through Silicon Valley partnerships (ev_037) shows instrumental control-seeking. Critically, he does not attempt control over domains he views as outside presidential reach: he attributes economic resurgence to American workers (ev_032), calls for civic participation beyond elections (ev_046), and frames himself as one actor among many. The sequester response (ev_013, ev_014, ev_015) demonstrates control orientation constrained by political reality—using public pressure rather than pure executive power. His control style is consequentialist and outcome-focused rather than procedurally rigid.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation on core signature issues (ACA, Wall Street Reform, climate, veterans); willing to absorb relational costs with Congress and political opponents when principles at stake, but avoids conflict when possible through reframing",
+      "finding": "Obama shows principle-driven resistance on signature policies: explicitly refusing to negotiate debt ceiling 'under any circumstances' (ev_015), issuing definitive veto threats against Wall Street Reform repeal (ev_029), and declaring 'As long as I am President, that's a commitment' on Medicare (ev_001). These represent willingness to incur significant relational costs with Congressional Republicans. However, his general rhetorical approach minimizes conflict framing: he describes bipartisanship as achievable ('This isn't a Democratic or a Republican issue' ev_008), credits Republicans for not blocking certain measures, and attributes progress to collective action rather than political victories. His 'Year of Action' speech explicitly criticizes Republican obstruction (ev_020) but frames it as failure to act on shared American values rather than partisan warfare. The pattern suggests someone who picks battles carefully—when a priority is truly mission-critical, relational costs are accepted; but on less central issues, he prioritizes coalition-building over confrontation. His fatherhood address (ev_006) and Memorial Day reflections (ev_038) show personal relational focus, suggesting this orientation is contextually bounded rather than globally conflictive.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker within institutional constraints—willing to use executive authority and take political heat on signature issues, but avoids brinkmanship on systemic risks like debt ceiling; frames uncertainty as opportunity for progress",
+      "finding": "Obama's risk posture shows a critical distinction between systemic risks he refuses to play with (debt ceiling, economic crisis response) versus policy risks he's willing to absorb (executive action on minimum wage, Climate action, TPP advocacy). His sequester warnings explicitly document downstream risks to vulnerable populations (ev_014) to build pressure for his preferred outcome. He reframed the sequester itself as a failure of Congressional risk-avoidance rather than his own. On TPP, he acknowledged past trade deal failures (ev_027) yet advocated forward—framing uncertainty as opportunity to shape rules rather than retreat. His Cancer Moonshot (ev_042-43) represents explicit embrace of moonshot risk-taking. His 'Year of Action' framing (ev_015, ev_019) accepts political risk of executive overreach accusations to deliver results. The pattern is someone who treats political risk as acceptable cost of mission achievement but treats systemic economic/security risk as beyond acceptable bounds. This creates an interesting asymmetry: he will risk political capital extensively but not national economic standing.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_015",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy-embedded with pragmatic empowerment—operates within formal power structures but actively expands executive authority when institutional channels fail; views power as legitimate tool for collective problem-solving",
+      "finding": "Obama's relationship to hierarchy is notably institutional—he repeatedly calls for Congressional action rather than working around Congress when possible (ev_008, ev_011, ev_013, ev_026). He explicitly praises government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036), framing institutional power as legitimate and necessary. Yet when institutions obstruct, he expands executive authority via executive orders, vetoes, and White House innovation programs. His deference to Congressional authority coexists with willingness to use constitutional leverage when needed. His relationship to military hierarchy is explicit—he frames 'no more solemn obligation' than military leadership (ev_038) and manages war/policy decisions as commander-in-chief. His Cancer Moonshot delegated to Biden (ev_042) shows role-clarified hierarchy. Critically, he doesn't frame power as inherently suspect—he frames it as responsibility. For the conformity framework, this suggests low dispositional rebellion against authority but high situational agency within hierarchical constraints.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_015",
+        "ev_036",
+        "ev_038",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-translating primary style—reframes partisan disputes as shared American value problems; uses executive bypass when translation fails; deploys public opinion as conflict arbiter; explicitly avoids escalating to personal or permanent partisan warfare",
+      "finding": "Obama's conflict strategy heavily favors translation over suppression, escalation, or splitting. He systematically reframes political conflicts as shared challenges: 'This isn't a Democratic or a Republican issue' (ev_008), framing economic opportunity (ev_021), veteran hiring (ev_007), and transportation (ev_008) as non-partisan. When translation fails—as with sequester and Congressional obstruction—he shifts to public pressure campaigns that bypass Congressional Republicans to appeal directly to voters. His explicit criticisms of Senate obstruction (ev_010) name the problem but frame it as institutional failure rather than partisan warfare. His executive actions (ev_017, ev_019) are bypass strategies rather than escalations. The farewell address (ev_044-47) calls for sustained civic engagement rather than partisan loyalty, showing long-term conflict-translation orientation. Notably absent: personal attacks, permanent enemy framing, or strategies that foreclose future cooperation. His veto threat (ev_029) is definitive but specific—not a general hostility to Congressional Republicans. This pattern suggests someone for whom conflict is instrumental, not identity-sustaining.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_020",
+        "ev_044",
+        "ev_046",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale primary—pursues legacy-defining initiatives (ACA, Climate, Cancer Moonshot) with multi-decade implications; frames current actions in historical context; second-term increasingly focused on structural durability over short-term wins",
+      "finding": "Obama's time horizon shows clear mission-scale orientation. His Cancer Moonshot explicitly builds on 45 years of progress (ev_042) and targets elimination 'in our time'—generational ambition. Climate policy explicitly aims for children's futures (ev_041). Paris Agreement targets extend beyond any political cycle. His ACA framing emphasizes long-term solvency additions (ev_002) not short-term political wins. Even his economic messaging references decades-long erosion of middle-class wages (ev_024) and celebrates fastest deficit reduction since WWII (ev_016). His farewell address positions his presidency in historical continuity ('from generation to generation'). Second-term actions (executive actions, international agreements like TPP, Paris, Iran deal) show increasing focus on structural durability over Congressional cooperation—building frameworks that outlast his term. His call for 'civic participation over full span of a lifetime' (ev_046) reflects long time horizon for democratic culture. Short-term tactical concessions (temporary FAA fixes, short-term budgets) are treated as failures to avoid rather than strategic wins. The pattern is someone who primarily optimizes for historical legacy and structural impact.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong rebuild orientation—pursues comprehensive legislative packages (ACA, Dodd-Frank) and institutional innovations (CFPB, Moonshot, Innovation Fellows) over incremental fixes; willing to use executive action to establish new frameworks rather than patching old ones",
+      "finding": "Obama consistently prefers comprehensive structural solutions over local repairs. His signature achievements—ACA (ev_001-002), Dodd-Frank (ev_003, ev_028-029), Cancer Moonshot (ev_042-043)—are all designed as comprehensive frameworks with new institutions and ongoing mechanisms, not one-time fixes. Even transportation funding fights are framed as opportunities to establish permanent programs. His government modernization effort (ev_037) uses Presidential Innovation Fellows to rebuild processes, not patch them. His sequester response repeatedly called for 'balanced approach' replacing the across-the-board cuts with comprehensive deficit reduction (ev_013, ev_014)—explicit preference for structural redesign over continued crisis management. TPP (ev_030-031) represents rebuilding international trade frameworks rather than patching existing arrangements. His Climate messaging references Paris as 'something to build upon' (ev_041) not a final solution but a foundation. The one exception: temporary FAA fixes show pragmatic patching when structural solutions impossible, but these are framed as failures rather than preferences. His rebuild orientation is matched by explicit attention to institutional design—CFPB as new independent agency, Moonshot as cross-agency task force, not just increased funding.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_028",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate to high—demonstrates explicit awareness of his own limitations, historical position, and need for external input; reflects on how conversations with Americans kept him 'honest, inspired, and going' (ev_044); acknowledges uncertainty about trade deals",
+      "finding": "Obama demonstrates notable metacognitive awareness across multiple dimensions. Most explicitly, his farewell address states 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—a direct metacognitive acknowledgment that his thinking was shaped and corrected by external input. He explicitly credited diverse Americans' perspectives with keeping him 'honest' (ev_044)—suggesting active monitoring of his own biases through external accountability. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows capacity to evaluate his own prior epistemic performance critically. His frequent attribution of outcomes to collective action rather than personal judgment (ev_032, ev_045) suggests metacognitive awareness of the limits of individual presidential agency. He explicitly noted that government is 'only as good as we make it' (ev_036)—acknowledging systemic limitations on any single actor's control. His Veterans Day distinction between war on al-Qaeda versus Islam (ev_012) shows active monitoring of his own framing choices. However, there's limited direct evidence of him catching himself mid-error or adjusting reasoning in real-time—his metacognition appears more reflective and retrospective than实时. Still, the pattern indicates above-average metacognitive capacity for a political figure.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_027",
+        "ev_032",
+        "ev_036",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "public_pressure_as_intervening_variable",
+      "definition": "Obama systematically deploys public opinion as a mediating mechanism between himself and Congressional obstruction—documenting human costs, citing constituent impacts, and framing issues in terms of popular consensus to activate public pressure on representatives. This creates a distinctive conformity dynamic where he uses majority opinion as leverage rather than simply conforming to it himself.",
+      "finding": "Throughout the evidence, Obama exhibits a pattern of using public opinion as a pressure mechanism against Congressional resistance. His sequester warnings explicitly documented impacts on 'parents whose kids just got kicked out of Head Start,' 'seniors who depend on Meals on Wheels,' and 'military communities' (ev_014)—humanizing abstract budget cuts to mobilize public concern. His transportation funding appeals cited specific job losses and construction impacts (ev_011). His minimum wage advocacy referenced surveys of small business owners (ev_023). This is distinct from conformity in the classic sense because Obama is using social consensus as a tool rather than being influenced by it. He essentially performs Asch-style normative pressure from below rather than experiencing it from above. This emergent dimension captures how he navigates the conformity/independence spectrum by redistributing social pressure to others rather than bearing it himself.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_014",
+        "ev_023"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "attribution_accounting_for_outcomes",
+      "definition": "Obama shows a consistent pattern of external causal attribution for both positive outcomes (to American people, Congress, bipartisan cooperation) and negative outcomes (to Congressional obstruction, Republican blocking). This attribution style creates a distinctive relational dynamic with both publics and political opponents that reduces perceived personal agency over events while potentially building coalition through credit-sharing.",
+      "finding": "Obama's attribution pattern is strikingly consistent across the evidence base: positive outcomes credited to 'the American people' (ev_032, ev_044), bipartisan Congressional action, or external circumstances; negative outcomes attributed to Congressional obstruction or structural failures. When deficits fell, he said 'right now, our deficits are already falling' (ev_016) without claiming credit. When jobs were created, he said 'our businesses have created' (ev_025). This external attribution pattern reduces the pressure of conformity or opposition hitting him personally—it creates psychological distance from both praise and blame. For opponents, it frames resistance as resistance to popular will rather than to Obama specifically. For supporters, it positions Obama as vehicle for rather than source of change. This pattern likely reduces the psychological burden of holding unpopular positions because the positions are never framed as purely his. It's a sophisticated conformist's trick: by never making anything purely about him, he reduces the tribal dynamics that might otherwise cluster around his personal identity.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_016",
+        "ev_025",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "discipline": "neuroscience",
+  "lens": "learning_plasticity",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong growth mindset with adaptive high agency - believes systems and people can change through deliberate effort",
+      "finding": "Obama consistently demonstrates a growth mindset aligned with Carol Dweck's framework - he believes both individual Americans and national systems can improve through intentional action. His rhetoric repeatedly frames progress as achievable: 'America's resurgence is real' (ev_024), and his optimistic farewell declaration that he is 'even more optimistic about our country's promise' (ev_047) reflects belief in developmental plasticity at national scale. Critically, he models this in policy: the ACA reformed healthcare structures previously seen as fixed, Dodd-Frank restructured financial regulation, and the Clean Energy Blueprint targeted systemic energy dependency. However, his agency operates within constraints - he adapts strategy when blocked, using executive actions rather than purely pushing legislative pathways. This reflects sophisticated understanding that high agency doesn't mean ignoring structural realities but finding alternative neural pathways around obstacles. His 'Year of Action' (ev_015, ev_019) demonstrates intentional habit formation at institutional scale - establishing new behavioral patterns through repeated executive actions designed to become normalized.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_047",
+        "ev_001",
+        "ev_019",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded learning orientation that integrates data with narrative and personal experience",
+      "finding": "Obama's epistemic style reveals a Hebbian learning pattern - he builds connections across domains, linking economic data to human stories, and military policy to family support. His Father's Day address (ev_006) demonstrates how personal experience of growing up without his father became encoded into a policy framework supporting fatherhood programs - the personal narrative providing emotional weight to policy initiative. He integrates statistical evidence with empathetic framing: citing that Head Start children were 'scrambling for a solution' and seniors on 'Meals on Wheels' (ev_014) transforms aggregate data into visceral human impact. His learning orientation is bidirectional - in his farewell address, he explicitly stated that conversations with Americans 'kept me honest, kept me inspired, and kept me going' (ev_044), acknowledging continuous feedback learning from citizens. He shows capacity to update beliefs: acknowledging 'past trade deals haven't always lived up to the hype' (ev_027) while still advocating current TPP demonstrates epistemic humility with forward commitment. His education reform using Delaware job training data (ev_016) shows evidence-based policy learning.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_044",
+        "ev_027",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization ability with effective translation of complex policy into concrete actionable frameworks",
+      "finding": "Obama demonstrates strong abstraction capabilities combined with practical formalization skills - the ability to decompose complex governance challenges into specific, measurable sub-components. His 'Year of Action' enumerated over 20 discrete executive actions (ev_019), transforming abstract presidential authority into countable concrete moves. He articulated the 'middle-out economics' philosophy (ev_021) as an abstract principle that generates specific policy implications. His Cancer Moonshot initiative, though delivered by Biden (ev_042), reflects Obama's formalization approach - decomposing the 'war on cancer' into actionable components: task force coordination (ev_043), clinical trial enrollment through technology solutions like Trials.Cancer.Gov. His pattern of listing 'Top 10 Things that Happened in 2015' (ev_033) demonstrates chunking ability - grouping diverse accomplishments into cognitive units for easier public communication. He shows sophisticated decomposition of complex problems: breaking energy security (ev_004) into domestic drilling, fuel efficiency, and clean energy sub-components rather than pursuing single-solution thinking. His systematic approach to sequester - documenting specific human costs (ev_014) and proposing balanced deficit reduction with specific components (ev_013) - reflects formalization of abstract fiscal policy.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_021",
+        "ev_042",
+        "ev_043",
+        "ev_033",
+        "ev_004",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic control orientation - uses institutional tools deliberately but respects system constraints",
+      "finding": "Obama exhibits moderate-to-high control orientation channeled through institutional means rather than personal domination. He demonstrates command of presidential tools: issuing veto threats on Wall Street Reform (ev_029), signing executive orders on minimum wage (ev_017), and declaring executive actions in the 'Year of Action' (ev_019). However, his control orientation operates within democratic constraints - he repeatedly calls on Congress rather than bypassing it when possible (ev_008, ev_011). He maintains clear non-negotiables: refusing to 'negotiate over the full faith and credit of the United States' (ev_015) reflects principled boundary-setting under pressure. His control orientation appears calibrated - he documented real human costs of sequester (ev_014) not to control outcomes directly but to shape public opinion and Congressional behavior. The contrast with strongman approaches is notable: he led through persuasion, data presentation, and coalition-building rather than personal leverage. His 'Year of Action' approach (ev_015, ev_020) shows control through systematic procedure rather than individual will - taking multiple executive actions as a learned behavioral pattern for navigating Congressional resistance.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_014",
+        "ev_008",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with high relational investment - seeks to accomplish goals while maintaining relationship patterns",
+      "finding": "Obama prioritizes mission objectives but demonstrates significant relational investment in his approach - the two are not treated as opposing forces but as mutually reinforcing. His repeated calls for bipartisan cooperation (ev_008: 'This isn't a Democratic or Republican issue - it's an American issue') show relational strategy as mission enabler. He credited the American people with his accomplishments (ev_032: 'All of this progress is because of you') framing mission success as relational outcome. His farewell address emphasized that conversations with citizens 'made me a better President, and made me a better man' (ev_044), explicitly linking mission effectiveness to relational learning. He made personal time investments: coaching his daughter's basketball team (ev_007) and explicitly discussing fatherhood (ev_006) - not as mission costs but as integrated values. However, his 'Year of Action' stance shows mission prioritization when relational approaches failed - criticizing Congressional obstruction while maintaining institutional relationships. His memorial address (ev_038) frames military mission and family support as unified rather than competing obligations. The pattern suggests Obama treats relational quality as cognitive resource enabling better mission execution rather than as cost to be minimized.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_032",
+        "ev_044",
+        "ev_007",
+        "ev_006",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk tolerance with learned resilience - willing to endure short-term costs for long-term policy gains",
+      "finding": "Obama's risk posture reflects learned risk tolerance through presidential experience - he accepts short-term political costs when positioned as protecting long-term structural gains. His sequester strategy (ev_011, ev_013) exemplifies this: despite predictable blame allocation, he held firm on balanced deficit reduction rather than accepting Republican terms. He distinguished himself from predecessors and opponents by refusing to negotiate on debt ceiling (ev_015), accepting short-term crisis risk for long-term credibility protection. His climate policy stance (ev_041) demonstrates long-horizon risk calibration: defending Paris Agreement 'as something to build upon' when facing reversal pressure shows commitment to decades-scale outcomes. His trade policy position (ev_027) reveals nuanced risk assessment: acknowledging 'past trade deals haven't always lived up to hype' while still supporting TPP suggests learned optimism tempered by honest evaluation. His willingness to take political heat for healthcare reform (ACA) and financial reform (Dodd-Frank) reflects risk acceptance for structural change over immediate popularity. The pattern aligns with deliberate practice theory - entering 'learning zones' of political risk where outcomes are uncertain but potential gains substantial.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_041",
+        "ev_027",
+        "ev_002",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional hierarchy navigator - uses formal authority strategically while building cross-level coalitions",
+      "finding": "Obama demonstrates sophisticated understanding of institutional hierarchy combined with coalition-building across hierarchical levels. He uses formal presidential authority deliberately: executive orders (ev_017), veto threats (ev_029), and executive actions (ev_019) deploy hierarchical power strategically rather than habitually. His relationship with Congressional hierarchy shows adaptation: when institutional blockage became normalized pattern, he shifted to executive alternatives without abandoning institutional respect. He builds coalitions across hierarchical levels: uniting AFL-CIO and Chamber of Commerce (ev_008), bridging private sector (UPS, FedEx, AT&T in Clean Fleets Partnership, ev_004) with government initiatives. His government tech modernization effort (ev_037) brought Silicon Valley hierarchy into federal structure - innovative cross-level integration. He shows understanding of ceremonial hierarchy: Memorial Day address (ev_038) appropriately honored fallen heroes within military hierarchy conventions. His farewell address reflection - that 'our founders trusted us with the keys to this system' (ev_036) - reveals constitutional understanding of hierarchical structure as delegated rather than owned. The pattern suggests hierarchical power used as tool for enabling collective action rather than for personal dominance.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_019",
+        "ev_008",
+        "ev_004",
+        "ev_037",
+        "ev_038",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate-negotiate hybrid with principled boundaries - converts conflict into problem-solving framing where possible",
+      "finding": "Obama's conflict strategy consistently translates opposition positions into problem-solving frameworks before engaging directly. His approach to Congressional obstruction (ev_010) shows this: rather than escalating to personal attack, he reframed Senate blocking tactics as 'not what our founding fathers envisioned' - converting partisan conflict into constitutional interpretation. His sequester response (ev_014) documented human costs not to demonize opponents but to reframe fiscal policy as moral issue. He maintained 'balanced approach' framing even under crisis pressure (ev_013), refusing to let conflict become binary winner-take-all scenario. His climate stance (ev_041) shows strategic delay/conflict translation: 'something to build upon' rather than defending past decisions against attack. He shows boundary clarity on non-negotiables: debt ceiling position (ev_015) was stated without flexibility - conflicts translated into problem-solving except where core principles are at stake. His Wall Street Reform veto threat (ev_029) represents escalation reserved for fundamental protections. The pattern suggests conflict competency: he can escalate when necessary but prefers translation to avoid entrenching positions. His 'Middle-out economics' philosophy (ev_021) fundamentally frames economic conflict as win-win rather than zero-sum.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_013",
+        "ev_015",
+        "ev_029",
+        "ev_021",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale long-term orientation with patient strategy execution across presidential cycles",
+      "finding": "Obama consistently operates on mission-scale time horizons extending well beyond immediate political cycles. His climate policy (ev_025, ev_040) targets 2025 oil import reduction and 30x solar power growth - specific multi-decade targets. His Cancer Moonshot (ev_042, ev_043) explicitly builds on 45 years of previous cancer research, projecting continued progress beyond any single administration. His ACA structure provides 12-year Medicare solvency extension (ev_002) - deliberately designed for long-term impact. His education initiatives (ev_048) target outcomes measured across career spans. He explicitly calls for sustained civic engagement 'over the full span of a lifetime' (ev_046) - temporal scope beyond electoral cycles. His trade policy (TPP, ev_030, ev_031) targets global economic rule-writing for coming decades. The pattern aligns with deliberate practice theory's long time horizon - current actions are investments in future automatic capabilities rather than immediate return demands. His 'Year of Action' paradoxically named suggests he recognized need to establish habits/policies that persist beyond his presidency. His farewell optimism (ev_047) about 'working along your side, as a citizen, for all my days that remain' extends commitment beyond office.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_042",
+        "ev_043",
+        "ev_002",
+        "ev_046",
+        "ev_030",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preference with strategic patching when full rebuild infeasible",
+      "finding": "Obama's policy approach demonstrates preference for structural reform over incremental patching when political conditions permit. His healthcare signature achievement - ACA - fundamentally restructured insurance markets, eligibility, and Medicare funding rather than patching existing programs (ev_001, ev_002). Dodd-Frank (ev_020, ev_028, ev_029) rebuilt financial regulation from foundation: ending 'too big to fail' bailouts, establishing Consumer Financial Protection Bureau with new structural authority. His Clean Energy Blueprint (ev_004, ev_040) targets fundamental energy infrastructure transformation - wind tripled, solar 30x - not marginal efficiency improvements. However, when full rebuild failed due to Congressional obstruction, he demonstrated patching capacity: executive actions as partial substitutes for legislation (ev_019, ev_017), temporary FAA fixes (ev_012) when full transportation reform blocked. His sequester response documents real costs to show need for structural solution (ev_014) while accepting patched reality temporarily. The pattern suggests sophisticated 'rebuild when possible, patch when necessary' strategy - not ideological commitment to one approach but pragmatic calibration to political constraints. His systematic 'Top 10' enumeration style (ev_033) reflects chunked approach to communicating multiple structural changes as coherent system.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_020",
+        "ev_028",
+        "ev_029",
+        "ev_004",
+        "ev_040",
+        "ev_019",
+        "ev_017",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated self-monitoring, learning from feedback, and cognitive adaptation",
+      "finding": "Obama demonstrates strong metacognitive capabilities across multiple domains - self-awareness, feedback integration, and cognitive adaptation. His farewell address (ev_044) explicitly credited external feedback: conversations with citizens 'kept me honest, kept me inspired' - demonstrating self-monitoring function and openness to being changed by interaction. He shows awareness of cognitive limits: acknowledging 'past trade deals haven't always lived up to the hype' (ev_027) reveals honest self-assessment rather than motivated reasoning. His pattern of publicly enumerating accomplishments through structured lists ('Top 10 Things that Happened in 2015', ev_033) functions as self-organizing cognitive strategy - imposing external structure on complex information environment. He demonstrates theory-of-mind regarding opponents: framing Congressional obstruction not as personal malice but as procedural dysfunction ('one senator gumming up the works for the whole country', ev_010) shows cognitive reframing for emotional regulation. His personal narrative integration (ev_006: 'I wonder what my life would have been like had he been a greater presence') reveals reflective processing of autobiographical memory into current behavior modification. His 'Year of Action' framing shows strategic self-monitoring - deliberately tracking executive actions taken to maintain sense of progress despite legislative obstruction. The pattern suggests strong executive function in service of metacognitive goals.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_033",
+        "ev_010",
+        "ev_006",
+        "ev_019",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "civic_learning_loop_integration",
+      "definition": "Obama's integration of public communication as cognitive restructuring tool - using speeches to establish new neural patterns in citizenry and himself through feedback loops. Not covered by shared constructs because it addresses the neuroplasticity-level interaction between leader and collective, where public rhetoric functions as Hebbian reinforcement of desired cognitive patterns rather than mere information transmission.",
+      "finding": "Obama treats public communication as deliberate cognitive restructuring mechanism - his addresses function to establish new interpretive frameworks in audiences while himself being modified through received feedback. His farewell address explicitly closed the learning loop: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). His 'Top 10 Things that Happened in 2015' (ev_033) structured complex year into chunkable cognitive units for public consumption. His Memorial Day call for 'acts of remembrance' through specific behaviors (lay flowers, reach out to Gold Star families, send care packages, ev_039) functions as behavioral cue-setting for citizens. His civic engagement call beyond elections (ev_046) attempts to establish year-round participatory habits rather than election-cycle spikes. This pattern suggests sophisticated understanding that public speech can establish collective neural pathways through shared narrative processing - not just informing but rewiring how citizens conceptualize their role.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_033",
+        "ev_039",
+        "ev_046",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "environmental_enrichment_as_governance",
+      "definition": "Obama's approach of designing enriched environments (physical, economic, regulatory) that enable citizens and institutions to develop capacities naturally. Not covered by shared constructs because it frames governance as environmental design for human development rather than direct service delivery or regulatory control.",
+      "finding": "Obama's policy philosophy reflects environmental enrichment theory applied at national scale - creating conditions under which positive development becomes more likely. His 'middle-out economics' (ev_021) explicitly frames economic environment design: 'Our economy grows best not from the top-down, but from the middle-out.' His healthcare policy (ACA) and financial reform (Dodd-Frank) establish protective environments rather than direct services. His clean energy initiatives create new market conditions where renewables become competitive (ev_040: 'clean power sources are finally cheaper than dirtier, conventional power'). His government tech modernization (ev_037) brought Silicon Valley talent into federal environment to enable innovation. His job training partnerships (ev_016) and veteran hiring challenges (ev_009) create enabling conditions rather than direct employment. The pattern suggests governance as environmental architect - designing contexts where citizens can develop and exercise capabilities rather than providing direct services. This aligns with neuroplasticity research showing environment shapes neural development - Obama seems to intuitively apply this at institutional scale.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_040",
+        "ev_037",
+        "ev_009",
+        "ev_016",
+        "ev_004",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

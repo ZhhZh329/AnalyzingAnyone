@@ -1,0 +1,175 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "data_and_knowledge_systems_information_retrieval_ranking",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping; Obama consistently set the agenda rather than reacting to external events",
+      "finding": "Obama demonstrated powerful agenda-setting agency throughout his presidency. He declared a 'Year of Action' (evt_015) and proactively took over 20 executive actions when Congress blocked legislative priorities (ev_019). He issued public challenges to private sector, notably the 100,000 veteran hiring challenge (ev_009), and actively defined terms of debate like framing TPP as the alternative to China writing global trade rules (ev_031). Rather than waiting for problems to present themselves, he constructed query frameworks (energy security, economic opportunity, climate action) and attempted to shape which 'documents' (policy options, political actors) were retrieved and ranked in national discourse.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_009",
+        "ev_031",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven with strong reliance on metrics, statistics, and verifiable data points as primary signals",
+      "finding": "Obama consistently anchored his speeches in concrete numbers: 11 million jobs over 57 months (ev_025), 2.5 million jobs in 2015 alone (ev_033), nearly $11 billion recovered for 26 million consumers by CFPB (ev_028), wind power tripled and solar thirtyfolded (ev_040). He referenced surveys showing 'majority of small business owners support' minimum wage increases (ev_023) and cited Medicare solvency extended by 'at least a dozen years' (ev_002). This pattern suggests he operated as an evidence-synthesis machine: gathering retrieval signals from economic data, program metrics, and polling, then using these to rank policy priorities. His epistemic approach prioritized recall and precision over anecdote or intuition.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_028",
+        "ev_040",
+        "ev_023",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong capacity for abstraction, repeatedly articulating organizing principles that systematize diverse policy domains",
+      "finding": "Obama exhibited notable formalization ability in articulating coherent conceptual frameworks. He developed 'middle-out' economic philosophy (ev_021) that unified disparate policies (minimum wage, job training, tax policy) under a single logical structure. He framed climate action as leaving a 'better, cleaner, safer future for our children' (ev_041) providing abstraction that connected varied initiatives. His statement that 'our economy depends on a financial system in which everyone competes on a level playing field' (ev_003) demonstrates formalization of regulatory philosophy into legible principles. He also built institutional abstractions: CFPB as an 'independent Consumer Financial Protection Bureau with one mission' (ev_028), establishing clear interfaces for consumer protection. This suggests systematic design thinking where diverse elements are organized under coherent abstractions.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_041",
+        "ev_003",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong preference for indirect control through mechanisms, rules, and institutional design rather than direct manipulation",
+      "finding": "Obama consistently favored building systems with embedded control logic over direct intervention. Dodd-Frank established rules and a consumer watchdog (ev_003) rather than ongoing presidential intervention. Paris climate agreement created a multilateral constraint framework (ev_034) rather than unilateral American control. His energy Blueprint aimed at 'cutting oil imports by one-third' through multiple policy levers (fuel efficiency, domestic drilling, clean energy) rather than single-command approach. He delegated the Cancer Moonshot to Biden with specific task force structure (ev_042, ev_043), creating Presidential Innovation Fellows to build technical infrastructure like Trials.Cancer.Gov. This indicates a preference for designing well-specified interfaces and constraints that achieve outcomes through system dynamics rather than direct command.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_034",
+        "ev_043",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with high willingness to incur relational and political costs when core commitments at stake",
+      "finding": "Obama demonstrated clear willingness to absorb significant political friction for policy priorities. He issued definitive veto threats against Wall Street Reform repeal: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). On the debt ceiling, he declared he 'will not negotiate over the full faith and credit of the United States' (ev_015), refusing to give ground despite political pressure. He publicly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). These positions prioritized mission commitments (financial stability, debt credibility, policy implementation) over relational comfort with political opponents. He accepted that some 'excuses' were 'running out' for opponents who disagreed (ev_023), showing tolerance for adversarial relationships when goals required them.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_020",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with strategic boldness; prefers structured multilateral approaches to manage tail risks",
+      "finding": "Obama's approach to uncertainty combined defensive depth with strategic ambition. He opposed the sequester (ev_014, ev_013) because it imposed 'blunt' cuts without selectivity, demonstrating preference for controlled rather than random risk allocation. He pursued multilateral frameworks (Paris climate agreement with 'nearly 200 nations,' TPP with 11 nations) to distribute and manage uncertainty across many actors. His statement about past trade deals: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) shows awareness of evaluation and failure modes. The Cancer Moonshot's emphasis on 'trials.Cancer.Gov' and patient enrollment strategies (ev_043) reflects systematic risk management through better information access. He balanced boldness (executive actions, veto threats) with structural protections (institutional design, international agreements).",
+      "evidence_ids": [
+        "ev_014",
+        "ev_013",
+        "ev_027",
+        "ev_043",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic use of institutional authority combined with coalition-building across traditional power divides",
+      "finding": "Obama leveraged hierarchy effectively while building bridges across partisan divides. He explicitly brought together 'AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' (ev_008) to build cross-cutting coalitions on transportation funding. He used the 'bully pulpit' extensively, delivering weekly addresses to frame national discourse. He delegated operational leadership to Biden on Cancer Moonshot (ev_042) while maintaining strategic direction. His government modernization initiative invited 'sharpest minds from companies in Silicon Valley' to 'help us modernize the federal government' (ev_037), demonstrating willingness to import external expertise into institutional hierarchy. He respected but did not defer to Congressional authority, criticizing Senate obstruction while proposing structural reforms like '90-day up-or-down votes on nominations' (evt_008). This suggests sophisticated navigation of institutional power with coalition as co-strategy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_042",
+        "ev_037",
+        "evt_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preference for negotiation and translation with strategic escalation; uses framing and deadlines as primary tools",
+      "finding": "Obama generally preferred resolution through negotiation and reframing over escalation, but demonstrated willingness to escalate when necessary. He consistently translated political conflicts into higher-order value frameworks: veterans hiring as 'American issue' not 'Democratic or Republican issue' (ev_008), cancer research as patriotic moonshot (ev_042), climate action as legacy for children (ev_041). He used urgent deadlines as retrieval signals: 'seven days away' (ev_011), emphasizing temporal pressure to prioritize action. When negotiation failed, he escalated through veto threats (ev_029), executive orders (ev_017), and public criticism of obstruction (ev_020). He refused to negotiate over debt ceiling (ev_015), treating certain boundaries as non-negotiable. This suggests a conflict strategy that attempts translation first, applies deadline pressure to force retrieval of priority options, and escalates only when boundaries violated.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_042",
+        "ev_041",
+        "ev_011",
+        "ev_029",
+        "ev_020",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong medium-to-long term orientation with clear awareness of multi-year and generational timescales",
+      "finding": "Obama consistently demonstrated long-term orientation across his speeches. His energy Blueprint set goals for 2025 (evt_004), 14 years ahead. The Paris climate agreement represented multi-generational commitment (ev_041). He framed education reform (evt_027) and veteran hiring challenges (ev_009) in multi-year terms. However, he also managed short-term crises effectively: sequester warnings, transportation funding deadlines, student loan rate doubles. He demonstrated awareness of trendlines: 'decades-long erosion of middle-class jobs and incomes' (ev_024) required sustained response. His farewell address projected forward: 'for all my days that remain' (ev_047). This suggests multi-scale temporal reasoning: managing immediate retrieval of crisis options while maintaining index structures for medium and long-term priorities.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_047",
+        "evt_004",
+        "ev_041",
+        "ev_009",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for institutional design and structural solutions over incremental repair",
+      "finding": "Obama consistently favored building new systems rather than patching existing ones. ACA created entirely new health insurance architecture (ev_001, ev_002). Dodd-Frank established new regulatory institutions including CFPB (ev_028). TPP represented new multilateral trade architecture (ev_030). He described 'Christmas miracles' as passing 'bipartisan budget that invests in middle-class priorities' and 'bipartisan education bill' (ev_048), indicating preference for structural budget reform over continuing resolutions. When sequester proved inadequate, he advocated 'balanced deficit reduction approach' (ev_013) as alternative structural fix rather than minor adjustment. His government modernization initiative explicitly built new mechanisms (Presidential Innovation Fellows, Silicon Valley partnerships) rather than incremental IT updates (ev_037). This pattern suggests strong comfort with institutional design as primary problem-solving mode.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_028",
+        "ev_030",
+        "ev_048",
+        "ev_013",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness with explicit reflection on reasoning processes and systematic bias recognition",
+      "finding": "Obama demonstrated notable metacognitive awareness in several dimensions. He explicitly acknowledged limits of past approaches: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He reflected on personal limitations: growing up without his father (ev_006), learning from American people in farewell address (ev_044). He demonstrated awareness of framing effects: transforming veterans unemployment into challenge for private companies (ev_009). He acknowledged collective nature of progress: 'All of this progress is because of you – because of workers rolling up their sleeves' (ev_032). His statement 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036) reflects explicit reasoning about institutional design rationale. This suggests active monitoring of his own cognitive processes and awareness of how context shapes interpretation.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_006",
+        "ev_044",
+        "ev_009",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "information_architecture_management",
+      "definition": "The capacity to design and maintain effective information pathways, indexing systems, and retrieval interfaces that enable efficient access to relevant knowledge and stakeholders. Distinct from passive information accumulation or simple communication.",
+      "finding": "Obama demonstrated sophisticated information architecture management across multiple domains. He built government tech modernization with Silicon Valley partnerships (ev_037), creating new interfaces for citizen access (healthcare.gov enrollment improvements). He established the Cancer Moonshot task force with Presidential Innovation Fellows building Trials.Cancer.Gov (ev_043) as a searchable database solving the retrieval problem of connecting patients to trials. He created White House partnerships to support fatherhood (evt_005), building institutional infrastructure for information flow. He called for civic participation beyond elections (evt_023), constructing pathways for sustained citizen-government communication. His weekly addresses functioned as a structured content delivery system with consistent formatting for political retrieval by citizens and media. This emergent dimension captures Obama's systematic approach to building information access infrastructure rather than just broadcasting messages.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_043",
+        "evt_005",
+        "evt_023"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "attention_management_through_deadline_anchoring",
+      "definition": "The strategic use of temporal constraints and urgent deadlines to force prioritization and focus collective attention on high-stakes issues, functioning as a ranking signal that elevates certain retrieval candidates above others in political discourse.",
+      "finding": "Obama systematically used deadline anchoring to manage attention in national discourse. He emphasized 'seven days away' from transportation funding expiration and 'eight days' until student loan rate doubling (ev_011), forcing both his audience and Congress to prioritize these items in cognitive queue. He repeatedly contrasted immediate consequences ('nearly 1 million jobs over next year') with structural arguments (evt_006). The sequester warnings used specific impact categories (Head Start, cancer research, military) to make abstract budget cuts concretely retrievable as political priorities. His framing of issues in terms of countdown timers functioned as relevance signals, indicating what should be retrieved from the decision space. This suggests a meta-level awareness that in information-rich political environments, temporal constraints serve as the most powerful ranking mechanism.",
+      "evidence_ids": [
+        "ev_011",
+        "evt_006",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

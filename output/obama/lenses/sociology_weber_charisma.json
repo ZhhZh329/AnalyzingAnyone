@@ -1,0 +1,167 @@
+{
+  "discipline": "sociology",
+  "lens": "weber_charisma",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structurally embedded charismatic agent who consistently redirects credit toward collective actors",
+      "finding": "Obama's agency orientation demonstrates a distinctive pattern of what might be termed 'relational charisma' - he positions himself as a channel for collective American will rather than as a world-shaping sovereign individual. In ev_032, he explicitly attributes all 2015 progress to 'the American people' stating 'All of this progress is because of you.' His farewell address (ev_044) reinforces this pattern: 'Every day, I learned from you. You made me a better President, and you made me a better man.' This is structurally unusual for a Weberian charismatic figure, as typical charisma emphasizes the extraordinary individual as primary agent of historical change. Obama instead models what Eisenstadt might call 'institutional charisma' -超凡品质 channeled through democratic participation rather than personal hero-worship.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_004",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Analytical-rhetorical rather than visionary-prophetic; evidence-based with strategic moral framing",
+      "finding": "Obama's epistemic style reveals a distinctive blend of empiricism and moral rhetoric that differs from pure prophetic charisma. He grounds claims in verifiable data: 'Over the past 57 months, our businesses have created nearly 11 million new jobs' (ev_025), 'carbon pollution from our energy sector is at its lowest level in 25 years' (ev_040). Yet he simultaneously deploys moral frameworks - 'Love won' (ev_035), 'middle-out economics' (ev_021) - that function like prophetic visions without prophetic certainty. He acknowledges complexity and uncertainty: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This pattern suggests a democratized charisma that invites followers into shared analytical reasoning rather than commanding belief through revelation.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_027",
+        "ev_021",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization capacity with successful charisma routinization into institutional structures",
+      "finding": "Obama demonstrates exceptional capacity to transform charismatic inspiration into formal institutional structures - precisely the 'routinization of charisma' that Weber identified as the critical test for sustainable charismatic movements. He operationalized his 'Year of Action' through over 20 executive actions (ev_019), institutionalized vision through programs like the Cancer Moonshot (ev_042-43) that mobilized Presidential Innovation Fellows and cross-agency coordination, and created durable frameworks like the CFPB (ev_028) that channel consumer protection into bureaucratic form. This formalization capacity represents a distinctive variant - Obama's charisma routinizes not into personalist hierarchy but into participatory democratic institutions. The evidence suggests he treats formalization as legitimacy rather than creative constraint.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_042",
+        "ev_043",
+        "ev_028",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Institutional control preference with strategic unilateral escalation under obstruction",
+      "finding": "Obama's control orientation operates primarily through institutional mechanisms rather than personal domination. He works through formal channels - Congress (ev_008 criticizing obstruction), executive orders (ev_017 raising contractor minimum wage), and regulatory structures (CFPB in ev_028). However, when institutional channels are blocked, he demonstrates willingness to escalate unilaterally: 'I will not negotiate over the full faith and credit of the United States' (ev_015); 'If any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). This suggests a conditional control strategy - preferring institutional legitimacy but maintaining executive authority as backstop. The pattern indicates Weberian 'legal-rational charisma' - authority rooted in office and procedure rather than personal command.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven but with maintained relational dignity; conflict framed as principle not person",
+      "finding": "Obama prioritizes mission objectives (economic security, healthcare, veterans support) while maintaining rhetorical dignity in conflict. He criticizes Republican obstruction firmly ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) but frames opposition in terms of principle rather than personal attack. His mission focus is evident in urgency framing: 'seven days away' from transportation workers losing jobs (ev_011), 'eight days' until student loan rates double. Yet his rhetoric consistently maintains inclusion - 'Not a Democratic or a Republican issue – it's an American issue' (ev_008). This suggests a calibrated mission orientation that treats relational cost as strategic liability rather than acceptable collateral. Weber's concept of charisma typically involves intense mission focus that subordinates relationships, but Obama moderates this through democratic rhetoric that preserves unity as value.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_011",
+        "ev_008",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated institutional risk-taking; refuses brinkmanship but accepts significant political exposure",
+      "finding": "Obama's risk posture shows calculated institutional risk-taking balanced against clear rejection of brinkmanship. He took substantial political risks on major initiatives: ACA passage despite unified Republican opposition, auto industry bailout during economic crisis, Iran nuclear deal. Yet he explicitly refused debt ceiling negotiation: 'We are the United States of America... I will not negotiate over the full faith and credit' (ev_015). This suggests risk tolerance for policy gambles but categorical rejection of existential gaming. He frames risk in terms of collective stakes rather than personal danger: 'We have to do more than honor their memory' for fallen soldiers (ev_038). Weberian charismatic leaders typically embrace visible personal risk as part of heroic self-presentation; Obama's pattern is more institutional - he risks political capital on policy but protects systemic credibility.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_022",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchical legitimacy combined with cross-cutting coalition building",
+      "finding": "Obama's relationship to hierarchy operates through institutional legitimacy while actively cross-cutting traditional power alignments. He leverages presidential authority (veto threats, executive orders) as legitimate institutional power rather than personal dominance. Simultaneously, he builds coalitions across normally opposed groups: 'representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' (ev_008). He positions himself as transcending partisan hierarchy rather than dominating within it. His energy blueprint (ev_005) explicitly rejects singular solutions: 'Drilling alone is not a real strategy.' This pattern suggests Weberian 'charismatic democracy' - authority derived from democratic legitimation that transcends traditional left-right hierarchy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_005",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Bipartisan framing with clear boundary setting; escalation through institutional mechanisms",
+      "finding": "Obama's conflict strategy combines bipartisanship framing with firm boundary enforcement. He consistently offers inclusion: 'Not a Democratic or a Republican issue' (ev_008), 'I'm absolutely confident we will get there' (ev_004). Yet when boundaries are crossed, he escalates through institutional mechanisms - veto threats (ev_029), executive orders (ev_017), and direct presidential advocacy. He avoided the polarized escalation pattern Weber associates with charismatic conflict ('either with me or against me') in favor of what might be termed 'institutional polarization' - framing opposition as obstructing institutional progress rather than threatening existential stakes. His critique of Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010) frames conflict in institutional terms rather than personal demonization.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional horizon with urgency framing that serves mobilization rather than anxiety",
+      "finding": "Obama operates primarily on long-term institutional time horizons while deploying urgency framing as mobilization tool. He references decades: 'decades-long erosion of middle-class jobs' (ev_024), generational stakes in climate: 'leave a better, cleaner, safer future for our children' (ev_041). His Cancer Moonshot (ev_042-43) explicitly addresses 45 years of incremental progress since Nixon's 1971 declaration. Yet when deploying urgency, it serves rhetorical mobilization rather than characteristic anxiety: 'seven days away' (ev_011) frames Congressional responsibility rather than personal desperation. This suggests temporal orientation aligned with institutional time (decades) rather than either immediate crisis response or apocalyptic imminence. Weber's charismatic time is typically urgent and present-focused; Obama's pattern indicates routinized charisma operating on democratic-institutional timescales.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reform preference with executive action fallback; institutional design over incremental adjustment",
+      "finding": "Obama demonstrates consistent preference for structural reform over incremental patching, with executive action as fallback when legislative reform is blocked. His signature achievements - ACA (ev_002 extending Medicare solvency by 12+ years), Dodd-Frank (ev_028 creating CFPB with $11 billion consumer recovery), and TPP (ev_030 writing global trade rules) - all represent structural institutional redesign. When legislative paths blocked, he pivoted to executive action: 'I've taken more than 20 executive actions' in Year of Action (ev_019), raising contractor minimum wage via executive order (ev_017). This pattern suggests Weber's 'charismatic reconstruction' - willingness to redesign institutional structures to fulfill mission - rather than conservative patching. The evidence indicates he treats patching as failure mode requiring escalation to structural alternatives.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_030",
+        "ev_019",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with decentered self-concept; credits others for both inspiration and constraint",
+      "finding": "Obama demonstrates notably high metacognitive awareness, particularly regarding his own positionality and feedback loops. His farewell address explicitly acknowledges learning from contrary perspectives: 'Whether we've seen eye-to-eye or rarely agreed at all... are what have kept me honest, kept me inspired' (ev_044). He decentered his own agency: 'You made me a better President, and you made me a better man.' This contrasts sharply with typical charismatic self-presentation, which Weber notes creates echo chambers where leader's perception becomes unconstrained. Obama explicitly acknowledged past trade deal failures (ev_027), demonstrating willingness to self-correct. His call for sustained civic engagement beyond elections (ev_046) reflects awareness that institutional health requires ongoing vigilance beyond any individual leader. This metacognition may represent defensive mechanism against charismatic isolation, but the evidence suggests genuine reflective capacity.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_046",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "obstruction_inversion",
+      "definition": "The strategic transformation of partisan opposition into legitimating grounds for unilateral executive action. When institutional blockage occurs, the charismatic figure leverages the very obstruction to justify bypassing normal channels.",
+      "finding": "Obama's corpus reveals a distinctive pattern where Congressional obstruction functionally increases rather than decreases executive action capacity. Republican opposition to minimum wage (ev_018), equal pay, and unemployment insurance extension (ev_020) became justification for 'Year of Action' executive actions (ev_015, ev_019). This represents an inversion of normal Weberian dynamics where institutional resistance weakens charismatic authority. Instead, Obama treats blockage as evidence of institutional failure requiring charismatic remediation. The pattern suggests that in divided government, obstruction becomes rhetorical resource for expanded unilateral action. This emergent dimension captures how Obama transformed institutional constraint into charismatic expansion.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_018",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "civic_superordination",
+      "definition": "Leadership style that positions the charismatic figure as subordinate to and in service of civic participation rather than as elevated above it. The leader's authority derives from mobilizing rather than replacing citizen agency.",
+      "finding": "The evidence reveals a consistent pattern where Obama positions himself as instrument of civic will rather than as its source or apex. His 'Top 10 Things' address attributed accomplishments to 'the American people' (ev_032); his farewell called for sustained civic engagement 'Not just when there's an election... but over the full span of a lifetime' (ev_046). At SXSW (ev_023), he sought ideas from citizens for government modernization, explicitly framing himself as learner: 'It's only as good as we make it' (ev_036). This represents civic superordination - placing himself below civic participation in the hierarchy of legitimacy. Unlike classical charismatic leaders who elevate themselves above followers, Obama elevates the concept of citizenship above his own position. This emergent construct captures a distinctive variant where charismatic authority is explicitly subordinated to democratic participation.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_046",
+        "ev_036",
+        "ev_023",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

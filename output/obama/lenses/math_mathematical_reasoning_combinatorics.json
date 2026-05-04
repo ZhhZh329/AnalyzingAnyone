@@ -1,0 +1,163 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_reasoning_combinatorics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly structured as a structure-responder who seeks to reshape systems from within existing constraints",
+      "finding": "Obama consistently operates within structural constraints while working to reshape them. Rather than projecting agency as a world-shaper who constructs new realities from first principles, he responds to Congressional actions, economic conditions, and global events with systematic alternatives. His approach involves enumerating what exists, identifying gaps or failures, and proposing bounded remedies within established frameworks. For instance, when Republicans block legislation, he lists executive actions taken (ev_019: 'more than 20 executive actions'), when sequester causes harm he enumerates affected populations (ev_014), and when trade deals fall short he acknowledges past failures while constructing new alternatives within existing trade architecture (ev_027). This pattern reflects a combinatorial sensibility—working within a known space of possibilities rather than generating entirely novel structures.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_014",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically aggregative with emphasis on enumerating concrete cases rather than abstract deduction",
+      "finding": "Obama constructs beliefs and arguments through systematic enumeration of concrete outcomes, statistics, and affected populations rather than abstract theoretical frameworks. His speeches consistently feature specific numbers (2.5 million jobs, 57 months, $11 billion recovered for 26 million consumers) and enumerated lists of accomplishments (evt_022: top 10 things that happened). He cites survey data (ev_023: small business owners supporting minimum wage) and documents human costs through categorical enumeration (ev_014: Head Start parents, seniors on Meals on Wheels, military families). This approach resembles combinatorial enumeration—building up empirical cases to construct a picture of reality rather than deriving conclusions from axioms or abstract principles. His epistemic confidence comes from aggregating verifiable instances, though this also means he may underweight rare or hard-to-enumerate scenarios.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_023",
+        "ev_014",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization through concrete mechanisms but primary reliance on narrative and value frameworks",
+      "finding": "Obama employs formal mechanisms selectively (executive orders with specific wage requirements, binding agreements with specific terms) but does not exhibit strong preference for abstract systematization. His policy arguments remain grounded in concrete situations and human stories rather than theoretical models. He does not construct formal frameworks, axiomatic systems, or mathematical-style proofs. The enumeration in his speeches serves rhetorical and persuasive functions (making lists of accomplishments) rather than formal logical derivation. His 'middle-out' economic philosophy (ev_021) is articulated as a value principle and empirical observation, not an abstract model. This suggests a cognitive style that values concrete formalization when needed but does not default to abstraction as a primary problem-solving mode.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_017",
+        "ev_026"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong drive to control outcomes through structural mechanisms, deadlines, and institutional leverage",
+      "finding": "Obama exhibits strong control orientation manifested through multiple combinatorial strategies: imposing binding deadlines (7 days, 8 days in ev_011), issuing veto threats as structural constraints (ev_029: 'I will veto it'), listing specific executive actions taken (ev_019), and framing alternatives in exhaustive terms ('balanced approach' as the only rational path). His approach to the debt ceiling crisis exemplifies this—framing it not as a negotiation space but as a binary condition ('I will not negotiate over the full faith and credit'). He seeks to constrain the option space available to opponents by making commitments that reduce their perceived alternatives. This resembles combinatorial control—narrowing the feasible set of outcomes through categorical commitments rather than flexible adaptation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_029",
+        "ev_015",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with strategic use of bipartisan framing as coalition-building, not genuine relational accommodation",
+      "finding": "When structural barriers arise, Obama prioritizes mission achievement through alternative channels (executive actions, vetoes) over relational comfort with opponents. He explicitly names Republican obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea') and frames conflict as principled disagreement rather than seeking relational resolution. However, his bipartisan rhetoric (ev_008: AFL-CIO and Chamber of Commerce together) functions as coalition construction to expand the feasible solution space, not genuine accommodation of opposing views. The mission—policy outcomes like Wall Street Reform preservation, climate action, healthcare expansion—takes clear precedence. Relational costs are accepted as necessary costs of structural conflict, particularly when opponents are framed as obstructing widely beneficial policies.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_008",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse to systemic/catastrophic risks but willing to undertake calculated policy experiments with bounded scope",
+      "finding": "Obama shows strong aversion to enumerated catastrophic scenarios—he refuses debt ceiling negotiation precisely because default represents a discrete bad outcome with catastrophic consequences ('the height of irresponsibility', ev_015). He frames sequester as causing enumerable harms (Head Start cuts, military strain, airport disruptions in ev_014). However, he demonstrates willingness to undertake major initiatives framed as bounded experiments: the Cancer Moonshot as a structured goal with defined task force (ev_043: cross-agency innovation), TPP as a 5-year negotiation with specific labor and environmental standards (ev_026), Paris climate agreement with nearly 200 nations. His risk calculus treats systemic/market risks as incommensurable negatives while accepting implementation risks on new programs. This suggests a combinatorial risk posture—identifying worst cases and ruling them out while treating remaining space as acceptable.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_014",
+        "ev_043",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Instrumental use of formal authority to constrain others' options while distributing credit broadly",
+      "finding": "Obama uses hierarchical authority strategically: issuing veto threats (ev_029), listing executive actions (ev_019), signing executive orders (ev_017: $10.10 minimum wage for federal contractors). However, he consistently distributes credit and agency outward—attributing progress to the American people (ev_032: 'It's you—the American people'), enumerating bipartisan coalitions (ev_008), and framing his role as facilitator rather than sole actor (ev_036: 'our founders trusted us with the keys to this system'). His approach to power resembles a combinatorial approach to agency—he treats presidential authority as one element in a configuration of forces that must be combined strategically. The hierarchy exists to be used but not to dominate; it enables constraint of opponents' options while creating space for broader participation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_019",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalates to structural solutions through formal mechanisms when negotiation fails, with explicit enumeration of alternatives",
+      "finding": "Obama's conflict strategy follows a clear escalation pattern: initial bipartisan framing (ev_008), explicit naming of obstruction (ev_020), then structural responses. When Congress blocks minimum wage legislation, he takes executive action (ev_017, ev_019). When Wall Street Reform faces repeal attempts, he issues veto threats (ev_029). This resembles a combinatorial approach to conflict—treating disputes as situations where the feasible set of outcomes can be reshaped through formal mechanisms rather than relational negotiation. He does not suppress conflict or delay it indefinitely; he enumerates what he will do (the options available to him) and acts. The conflict is framed as structural incompatibility between his vision and Congressional Republicans' obstruction, not personal or relational conflict.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale optimization with distinctive pattern of using urgent short-term deadlines to advance long-term structural goals",
+      "finding": "Obama operates across multiple time scales in a characteristic pattern: he uses imminent deadlines (7 days, 8 days in ev_011; September 30 in ev_013) as pressure points to advance longer-term structural agendas. His 'Year of Action' (evt_015) frames short-term executive actions as building toward sustained change. Meanwhile, he pursues genuinely long-term initiatives—climate agreements spanning decades, the Cancer Moonshot as a multi-administration project, infrastructure investments. This resembles combinatorial time management:他把离散的时间节点组织成策略性序列，用近期的紧迫性为长期的系统性变革创造条件。2014年的年终演讲（evt_018）总结了57个月的增长数据，展示了他如何把短期行动的成果累积成语境化的长期叙事。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_025",
+        "ev_043",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Mixed preference—constructs comprehensive frameworks for core priorities but accepts pragmatic patches for tactical obstacles",
+      "finding": "Obama shows strong preference for structural approaches on core priorities—Wall Street Reform as comprehensive regulatory framework, ACA as systemic healthcare transformation, TPP as 5-year negotiated framework with enforceable standards. He frames these as constructed alternatives to what he perceives as broken systems. However, his tactical approach often involves patches: temporary FAA fixes for sequester effects (evt_012), executive actions when legislation fails, year-end deals framed as 'Christmas miracles' (ev_048). The pattern suggests a calibrated rebuild-over-patch orientation: fundamental systems (financial regulation, healthcare, climate) receive structural treatment, while peripheral obstacles receive pragmatic accommodation. This reflects combinatorial prioritization—identifying which structural elements warrant full reconstruction versus which can be patched.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_048",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong reflective awareness of how interactions shape beliefs, with acknowledgment of past failures as case data",
+      "finding": "Obama demonstrates notable metacognitive sophistication, particularly in acknowledging how his views have been shaped by enumerable interactions. His farewell address explicitly credits conversations with citizens across diverse settings for keeping him 'honest' and 'inspired' (ev_044). He acknowledges that past trade deals 'haven't always lived up to the hype' (ev_027), treating his own prior judgments as fallible data points. He reflects on what made him 'a better President, and a better man' through accumulated experience (ev_044). This suggests awareness that his epistemic process involves case-based learning from enumerable experiences, and that his own reasoning is subject to revision based on outcomes. However, this metacognition appears more focused on presidential performance than on formal reasoning processes per se.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Enumerative Persuasion as Combinatorial Rhetoric",
+      "definition": "The systematic use of itemized lists, categorized impacts, and discrete case enumeration to construct persuasive arguments and legitimize policy positions. This differs from formal combinatorial proof in that it serves rhetorical rather than deductive functions, but shares the core combinatorial move of decomposing complex situations into enumerable components.",
+      "finding": "Obama's speeches exhibit a distinctive pattern of rhetorical enumeration that functions combinatorially: he decomposes complex policy debates into lists of affected populations, enumerated accomplishments, or discrete options. The 'top 10 things that happened' format (evt_022) treats a complex year as a finite set of items. The enumeration of sequester harms (ev_014) categorizes affected groups rather than treating effects as continuous. This rhetorical strategy resembles the combinatorial move of case analysis—making the argument by exhaustively covering cases rather than by abstract proof. It suggests a cognitive style that finds enumeration persuasive because it creates an impression of completeness and control over the situation space, though it may oversimplify continuous phenomena into discrete categories.",
+      "evidence_ids": [
+        "ev_033",
+        "ev_014",
+        "ev_039",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Finite Situation Framing",
+      "definition": "The tendency to frame complex, potentially open-ended policy challenges as bounded, enumerable situations with discrete parameters (deadlines, numbers of affected people, specific alternatives). This construction of finite situation spaces enables combinatorial analysis but may obscure aspects of problems that resist enumeration.",
+      "finding": "Obama frequently transforms open-ended policy challenges into finite situation spaces: the '7 days' and '8 days' until specific crises (ev_011), the 'nearly 1 million jobs' at risk from transportation failure (evt_006), the '850,000 unemployed veterans' (evt_007). This framing creates a bounded problem space suitable for combinatorial enumeration and decision-making. It enables concrete action by making the situation tractable, but it also reflects a cognitive preference for finite cases over open continua. The pattern suggests that Obama constructs problems in combinatorially manageable forms—specific numbers, defined deadlines, categorized populations—rather than treating policy challenges as continuous, fuzzy, or irreducibly complex. This is both a rhetorical strategy and potentially a cognitive style that privileges problems that can be bounded and enumerated.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_006",
+        "ev_007",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

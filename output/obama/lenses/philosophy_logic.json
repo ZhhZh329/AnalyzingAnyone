@@ -1,0 +1,183 @@
+{
+  "discipline": "philosophy",
+  "lens": "logic",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Mixed orientation combining world-shaping conviction with structural responsiveness to institutional constraints",
+      "finding": "Obama demonstrates both orientations. As a world-shaper, he issues direct commitments ('As long as I am President, that's a commitment this country is going to keep' - ev_001), takes executive actions (over 20 in 'Year of Action' - ev_019), and issues challenges (100,000 veteran hires - ev_009). Yet he consistently acknowledges structural constraints: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), and admits past trade deals 'haven't always lived up to the hype' (ev_027). This suggests Obama operates within a logic of feasible change rather than pure rational agency—he shapes the world within perceived structural limits, consistent with a pragmatic rather than idealist logical orientation.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_019",
+        "ev_020",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded epistemic style with clear normative commitments; acknowledges uncertainty while maintaining logical consistency",
+      "finding": "Obama's epistemic approach combines statistical grounding with explicit value commitments. He regularly cites specific data: 'nearly 11 million new jobs' (ev_025), '$11 billion back in pockets of 26 million consumers' (ev_028), 'multiplied solar power more than thirtyfold' (ev_040). Yet he distinguishes between empirical claims and normative principles: 'Medicare isn't just a program. It's a commitment' (ev_001). He acknowledges epistemic limits by admitting past trade failures while defending new approaches (ev_027). This reflects a classical logical orientation that values evidence-based reasoning while maintaining clear first principles—not pure instrumentalism, but not rigid foundationalism either.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with grounding in concrete particulars; prefers articulating principles over purely formal systematization",
+      "finding": "Obama articulates abstract principles ('middle-out economics' - ev_021, 'opportunity for all' - ev_018) but consistently grounds them in concrete particulars and personal narratives. He tells personal stories about fatherhood (ev_006), describes specific manufacturing jobs saved (ev_022), and enumerates specific accomplishments in list format (ev_033). His government modernization efforts involve practical partnerships rather than abstract bureaucratic reform (ev_037). This suggests Obama prefers what might be called 'principled pragmatism'—abstract enough to provide coherence, concrete enough to remain actionable. He does not pursue highly formal or systematic logical frameworks.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_018",
+        "ev_021",
+        "ev_022",
+        "ev_033",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation on core commitments with flexibility on implementation details; prioritizes logical consistency over relational accommodation when principles at stake",
+      "finding": "Obama demonstrates firm control orientation on non-negotiable principles: refusing to negotiate over debt ceiling ('I will not negotiate over the full faith and credit of the United States' - ev_015), issuing veto threats against Wall Street reform repeal (ev_029), and maintaining absolute commitments on Medicare (ev_001). However, he shows flexibility on implementation—calling for 'balanced approach' to deficit reduction (ev_013), acknowledging bipartisan elements in budget deals (ev_048), and working with unlikely coalitions (AFL-CIO and Chamber of Commerce together - ev_008). This suggests a classical logic hierarchy: some positions are treated as logical absolutes (principles), while others are treated as negotiable variables (policies).",
+      "evidence_ids": [
+        "ev_001",
+        "ev_008",
+        "ev_013",
+        "ev_015",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing orientation with consistent articulation of policy goals over relational comfort; willing to incur social costs through criticism",
+      "finding": "Obama consistently prioritizes stated missions over relational comfort. He explicitly criticizes Congressional obstruction ('Republicans have said no to raising minimum wage, no to equal pay' - ev_020), condemns Senate tactics as contrary to founders' intent (ev_010), and frames opposition as obstacle to American progress. His cancer moonshot, climate agenda, and economic blueprint are presented as non-negotiable moral imperatives. He frames opposition as working against American values: 'America is at war with al-Qaeda—not Islam' (ev_012). This suggests mission-driven logic where relational costs are acceptable when principles are clear.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_012",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse on established frameworks; calculated risk-taker on new initiatives within defined parameters",
+      "finding": "Obama demonstrates risk aversion toward dismantling established frameworks—vowing to veto any Wall Street reform repeal (ev_029), declaring ACA implementation as proudest achievement (ev_044), defending Paris climate agreement as 'something to build upon' (ev_041). Yet he takes calculated risks on new initiatives: TPP despite acknowledging past trade failures (ev_027), Iran nuclear deal despite skepticism, and the Cancer Moonshot. He presents these risks within framing that emphasizes careful construction: 'strong new trade deals...that aren't just free, but are fair' (ev_026). This reflects classical logical caution about contradictions (not undoing what works) while allowing controlled innovation where evidence supports it.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_029",
+        "ev_041",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy as necessary framework for collective action; uses formal power while seeking to legitimize it through broad coalitions",
+      "finding": "Obama consistently invokes formal institutional hierarchy while attempting to broaden its legitimacy. He uses executive orders (minimum wage - ev_017), veto threats (ev_029), and presidential authority to set direction. Yet he repeatedly grounds this authority in broader coalitions: 'AFL-CIO and Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008), attributing progress to 'the American people' (ev_032). His statement that government is 'the best tool we've got to settle our differences and solve collective challenges' (ev_036) reflects a classical view of hierarchy as rational coordination mechanism rather than pure power assertion. This suggests Obama views hierarchical power as legitimate when exercised for collective benefit and constrained by principle.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_017",
+        "ev_029",
+        "ev_032",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of opposition combined with consistent invitation to cooperation; escalation through principled argument rather than personal conflict",
+      "finding": "Obama's conflict strategy involves direct confrontation of positions while maintaining door open for cooperation. He explicitly criticizes obstruction ('One senator gumming up the works for the whole country' - ev_010) and blocks ('Republicans have said no to...every serious idea' - ev_020). Yet he consistently frames issues as 'not Democratic or Republican' (ev_008) and celebrates bipartisan moments (ev_048). His debt ceiling stance—refusing negotiation while not shutting down government—shows a classical logic approach: clear either/or on principles, flexibility on tactics. He does not suppress conflict or delay indefinitely but escalates through argument and institutional mechanisms.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time orientation spanning immediate crises through multi-generational commitments; treats certain issues as timeless principles",
+      "finding": "Obama operates across multiple time horizons. Short-term: urgent deadlines on transportation and student loans ('seven days,' 'eight days' - ev_011). Medium-term: deficit reduction by end of year (ev_016), veteran hiring by 2013 (ev_009). Long-term: energy independence by 2025 (evt_004), cancer moonshot, climate commitments framed as legacy ('leave a better, cleaner, safer future for our children' - ev_041). Transcendent: Medicare commitment framed as timeless principle ('after working your whole life, you've earned security' - ev_001), same-sex marriage as 'love won' (ev_035). This suggests Obama distinguishes between contingent policy timescales and non-contingent principle timescales, consistent with classical logic's view of certain truths as timeless.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_011",
+        "ev_016",
+        "ev_035",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Preferring institutional redesign over piecemeal repair on core issues; willing to patch on others based on political feasibility",
+      "finding": "Obama shows preference for structural redesign on core agenda items. ACA represented structural redesign of healthcare system, Dodd-Frank structural reform of financial regulation. He declared 'Year of Action' taking executive action through multiple vectors simultaneously (ev_019). Yet on other issues, he patches: bipartisan budget deals (ev_048), working around Congressional opposition rather than confronting it directly when impossible. He frames solutions as comprehensive: 'balanced approach' to deficits (ev_013), 'middle-out' economic philosophy (ev_021). This suggests selective rebuild orientation—deep structural change when politically possible, pragmatic patching when necessary.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_019",
+        "ev_021",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; demonstrates reflection on reasoning patterns and acknowledges complexity, but primarily in retrospective contexts",
+      "finding": "Obama shows metacognitive capacity through acknowledgments of complexity and learning. He admits 'past trade deals haven't always lived up to the hype' (ev_027), states 'I learned from you. You made me a better President' (ev_044), and reflects on witnessing American goodness over eight years (ev_045). He frames challenges in terms of historical continuity: 'deficits falling at fastest rate since World War II' (ev_016). However, his self-reflection appears primarily in farewell contexts rather than during active decision-making. He does not publicly question his own logical premises or acknowledge cognitive biases. This suggests moderate metacognition—capacity for reflection exists but is deployed strategically rather than continuously.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "logical_fluency_in_public_communication",
+      "definition": "The capacity to translate complex policy logic into accessible public narrative while maintaining logical coherence. This emerges because Obama's speeches show consistent patterns of making complex logical arguments accessible without sacrificing their structure.",
+      "finding": "Obama demonstrates notable logical fluency—translating complex policy into narrative without loss of logical structure. He consistently provides both the 'because' (reasoning) and 'therefore' (conclusion) in his arguments: 'Drilling alone is not a real strategy...because even though America uses 25% of world's oil, we have only 2% of reserves' (ev_005). He frames statistical claims with human meaning: '2.5 million jobs' becomes 'resurgence is real' (ev_024). He maintains logical consistency across contexts: commitment to Medicare, opposition to Wall Street reform repeal, and climate protection all reflect underlying principle of protecting vulnerable populations through institutional frameworks. This suggests Obama functions as what might be called a 'democratic logician'—someone who treats public reasoning as requiring both logical validity and accessibility.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_014",
+        "ev_024",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Skepticism",
+      "Foundationalism",
+      "Instrumentalism",
+      "Classical Logic"
+    ],
+    "cluster_matches": [
+      {
+        "cluster": "Pragmatic Progressive",
+        "description": "Dewey-influenced: problem-solving, democratic inquiry, practical ethics",
+        "matching_schools": [
+          "Instrumentalism",
+          "Pragmatism"
+        ],
+        "strength": 0.4
+      }
+    ],
+    "tension_flags": []
+  }
+}

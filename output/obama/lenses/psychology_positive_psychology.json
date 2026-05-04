@@ -1,0 +1,203 @@
+{
+  "discipline": "psychology",
+  "lens": "positive_psychology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with proactive, initiative-taking behavior",
+      "finding": "Obama consistently demonstrates high agency as a world-shaper rather than a structure-responder. Throughout his presidency, he took主动 executive actions when Congressional obstruction blocked legislative progress, including signing an executive order raising the federal contractor minimum wage to $10.10/hour (ev_017) and declaring a 'Year of Action' with over 20 executive actions taken (ev_019). His willingness to challenge private companies to hire 100,000 veterans by 2013 (ev_009) and his announcement of ambitious goals like cutting oil imports by one-third by 2025 (ev_004) demonstrate proactive agenda-setting rather than reactive policy adjustment. His statement 'we chose to invest in American auto industry and American workers' (ev_022) reflects a clear sense of agency—the belief that deliberate choice shapes outcomes. His refusal to negotiate over the full faith and credit of the United States (ev_015) further demonstrates strong internal locus of control over core principles even under pressure.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_015",
+        "ev_022",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Growth-oriented epistemic style with evidence-based reasoning and openness to learning",
+      "finding": "Obama's epistemic style reflects a clear growth orientation aligned with Dweck's framework—he forms beliefs through evidence and remains open to updating positions rather than defending fixed certainties. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) while still advocating for TPP demonstrates epistemic humility combined with forward action. His consistent use of data-driven arguments—citing 11 million jobs created over 57 months (ev_025), $11 billion recovered for consumers (ev_028), wind power tripled and solar thirtyfold (ev_040)—shows an evidence-based reasoning approach. Most tellingly, his farewell address 'Every day, I learned from you. You made me a better President' (ev_044) reveals a metacognitive awareness that his thinking evolved through ongoing dialogue with citizens, not through rigid adherence to initial positions. He demonstrates epistemic openness to diverse perspectives while maintaining clear policy convictions based on available evidence.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_044",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization capacity balanced with accessible narrative communication",
+      "finding": "Obama demonstrates strong capacity for formal policy reasoning and systematic approaches while maintaining the ability to translate complex policy into accessible public narratives. His 'Blueprint for a Secure Energy Future' (ev_004) represents systematic policy formalization with clear goals and multi-component strategies. He articulated a coherent 'middle-out' economic philosophy (ev_021) and a 'balanced approach' to deficit reduction (ev_013) that integrate multiple policy elements. However, he consistently translates abstractions into concrete, tangible terms: 'There are parents whose kids just got kicked out of Head Start programs' (ev_014), '6 million students see their loan rates double' (ev_011), '850,000 veterans unemployed' (ev_009). This dual capacity—sophisticated policy formalization combined with narrative accessibility—serves his public communication role while maintaining substantive policy depth. His government tech modernization initiative through Presidential Innovation Fellows (ev_037, ev_043) further demonstrates formal system-thinking applied to institutional innovation.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_013",
+        "ev_014",
+        "ev_011",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong internal locus of control with principled constraint",
+      "finding": "Obama demonstrates a strong internal locus of control—he believes outcomes result from deliberate effort and choice rather than uncontrollable forces. His statement 'we chose to invest in American auto industry' (ev_022) directly expresses the belief that leadership choices shape results. He frames government as an effective tool for collective problem-solving ('our founders trusted us with the keys to this system of self-government because it's the best tool we've got'—ev_036) rather than a constraining structure. However, his control orientation includes principled boundaries: he refuses to negotiate over the debt ceiling under any circumstances ('I will not negotiate over the full faith and credit of the United States'—ev_015) and issues veto threats against Wall Street Reform repeal (ev_029). This pattern suggests internalized control principles rather than power-seeking for its own sake. When facing Congressional obstruction, he seeks alternative channels through executive action (ev_019) rather than yielding to external pressure—consistent with the learned optimism model's emphasis on finding controllable pathways when initial approaches fail.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_036",
+        "ev_015",
+        "ev_029",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with balanced relational awareness",
+      "finding": "Obama demonstrates clear mission prioritization while maintaining relational awareness rather than sacrificing relationships entirely for goals. His 'Year of Action' agenda (ev_015, ev_019) and explicit criticism of Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea'—ev_020) show willingness to prioritize policy goals over relational comfort with political opponents. His Cancer Moonshot initiative (ev_042, ev_043) represents a multi-year, cross-administration commitment to a transcendent mission. However, his fatherhood address reveals genuine relational investment—sharing personal vulnerability about growing up without his father (ev_006), serving as assistant coach for his daughter's basketball team (ev_007). His farewell address shows relational depth: 'my conversations with you, the American people—are what have kept me honest, kept me inspired' (ev_044). He explicitly prioritizes collective credit over personal achievement ('All of this progress is because of you'—ev_032). This pattern suggests mission-priority with relationship embedded as a value rather than sacrificed—it is a different kind of relational investment, with the American people as a collective other rather than specific individuals.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_042",
+        "ev_043",
+        "ev_006",
+        "ev_007",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Growth-oriented risk tolerance balanced with strategic caution",
+      "finding": "Obama demonstrates moderate growth-oriented risk tolerance—he accepts political risk in service of long-term goals while maintaining strategic caution about means. His advocacy for TPP after acknowledging 'past trade deals haven't always lived up to the hype' (ev_027) shows willingness to take on politically difficult initiatives despite past disappointments. His Paris climate agreement commitment (ev_041) and Iran nuclear deal (ev_034) represent bold diplomatic initiatives with significant uncertainty. His executive actions when Congress blocked legislation (ev_019) show risk tolerance for political confrontation. However, his risk posture is strategic rather than reckless: he builds bipartisan coalitions ('representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye'—ev_008), uses data ('majority of small business owners support $10.10 minimum wage'—ev_023), and frames issues in non-partisan terms ('This isn't a Democratic or a Republican issue—it's an American issue'—ev_008). His 'resurgence is real' message (ev_024) reflects confidence-based rather than fear-based risk approach. This pattern aligns with growth mindset theory—risk is acceptable when it serves learning and improvement, not when it threatens core identity.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_041",
+        "ev_034",
+        "ev_019",
+        "ev_008",
+        "ev_023",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Instrumental use of hierarchical power in service of collective good",
+      "finding": "Obama relates to hierarchy and power as instrumental tools for collective problem-solving rather than ends in themselves. He uses presidential authority proactively—issuing executive orders (ev_017), making veto commitments (ev_029), and challenging private sector through public commitments (ev_009). However, his framing consistently positions power in service of others rather than personal aggrandizement: 'That's why Congress should act' (ev_026), protecting American consumers (ev_028), strengthening the middle class (ev_021). He calls for government modernization through Silicon Valley partnerships (ev_037), democratizing expertise rather than hoarding power. His criticism of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'—ev_010) reveals discomfort with hierarchical dysfunction when it impedes collective action. He frames veterans, seniors, and working families as beneficiaries of power rather than subjects of control. His power orientation is servant leadership—using hierarchical position to enable others rather than dominate them.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_009",
+        "ev_026",
+        "ev_028",
+        "ev_021",
+        "ev_010",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation combined with integrative coalition-building",
+      "finding": "Obama's conflict strategy combines direct confrontation when principles are at stake with integrative coalition-building to translate conflict into progress. He directly criticizes Congressional obstruction ('Republicans in Congress have blocked or voted down every serious idea'—ev_020) and condemns Senate procedural tactics (ev_010). He issues definitive veto threats (ev_029) and refuses to negotiate over core principles (ev_015). However, he simultaneously seeks cross-partisan coalitions—bringing together 'AFL-CIO and the Chamber of Commerce' (ev_008), framing issues as 'American' rather than partisan. He translates institutional conflict into public engagement ('the work of citizenship. Not just when there's an election'—ev_046). His government modernization initiative (ev_037) positions external innovators as partners rather than adversaries. This pattern reflects conflict translation rather than suppression or escalation—confronting obstruction directly while seeking alternative pathways rather than either yielding or splitting. He demonstrates the capacity to hold firm on ultimate goals while remaining flexible about means, consistent with the resilience orientation of learned optimism.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_046",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term mission-scale orientation across multiple policy domains",
+      "finding": "Obama demonstrates a clear long-term, mission-scale orientation across his policy agenda. His energy security goal targets 2025—a 14-year horizon from 2011 (ev_004). His Cancer Moonshot represents a multi-generational challenge ('Forty-five years of progress, funding research, training scientists'—ev_042). His climate commitments frame decades-long transformations ('the course for a low-carbon future'—ev_034). His deficit reduction goals span multi-year trajectories ('deficits are already falling at the fastest rate since the end of World War II'—ev_016). His statement 'We now have the chance to reverse the decades-long erosion of middle-class jobs and incomes' (ev_024) explicitly addresses generational time scales. This sustained long-term orientation across healthcare (ACA implementation), energy, climate, and economic policy demonstrates坚毅 (grit) at the policy level—a persistent commitment to multi-year goals despite short-term obstacles, Congressional obstruction, and political headwinds. His 57-month job growth streak (ev_025) represents sustained effort toward a measurable outcome over nearly five years.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_042",
+        "ev_034",
+        "ev_016",
+        "ev_024",
+        "ev_025",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural reform orientation over incremental patching",
+      "finding": "Obama consistently demonstrates a structural redesign orientation rather than incremental patching. His signature achievements—ACA (ev_002), Dodd-Frank (ev_003, ev_028), energy blueprint (ev_004)—represent fundamental system redesigns rather than targeted fixes. His rejection of 'drilling alone' as insufficient energy strategy (ev_005) explicitly favors comprehensive approaches over partial solutions. His advocacy for 'balanced' deficit reduction (ev_013) integrates multiple system components rather than single-variable adjustments. His Cancer Moonshot (ev_042, ev_043) redesigns clinical trial access through technology platforms rather than patching existing processes. His government modernization initiative (ev_037) represents institutional transformation rather than administrative refinement. Even his economic philosophy 'middle-out' (ev_021) reflects structural rather than trickle-down thinking. This pattern aligns with growth mindset's rebuild orientation—complex problems require system redesign because surface patches assume the underlying structure is sound, which growth mindset theory questions. When facing Congressional obstruction, he turned to executive action for structural impact (ev_019) rather than accepting partial measures.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_028",
+        "ev_004",
+        "ev_005",
+        "ev_013",
+        "ev_042",
+        "ev_043",
+        "ev_037",
+        "ev_021",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with evidence of ongoing self-monitoring",
+      "finding": "Obama demonstrates notably high metacognitive awareness—conscious monitoring of his own thinking, learning, and belief formation processes. His farewell address directly addresses the metacognitive trajectory of his presidency: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). This explicit acknowledgment that daily learning shaped his evolution reveals metacognitive sophistication. His statement 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) demonstrates self-awareness about institutional limitations rather than defensive self-justification. His engagement through town halls, diner visits, and military outposts (ev_044) represents deliberate epistemic dialogue rather than echo-chamber learning. He shows awareness of explanatory style—the way he frames challenges ('sequester would cut national security, education, Head Start'—ev_014) and accomplishments ('America's resurgence is real'—ev_024) reflects conscious narrative construction. His call for sustained civic participation 'over the full span of a lifetime' (ev_046) suggests understanding of time-scale engagement and identity formation. This metacognitive capacity supports his growth mindset orientation and his capacity to adjust approaches when evidence suggests the need for change.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_014",
+        "ev_024",
+        "ev_046",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Other-Credit Attribution Pattern",
+      "definition": "A distinctive dispositional tendency to systematically attribute accomplishments and progress to external actors (citizens, collective efforts) rather than personal achievement. This is observable as a repeated behavioral pattern across speeches rather than a single instance—the inverse of the self-serving bias typically observed in public figures.",
+      "finding": "Obama demonstrates a consistent Other-Credit Attribution Pattern that may represent an emergent VIA character strength—either a heightened form of 'Humility' or a distinctive manifestation of 'Teamwork/Social Intelligence.' In his year-end 2015 address, he states 'It's you—the American people. All of this progress is because of you—because of workers rolling up their sleeves...because of teachers and health workers and parents' (ev_032). His farewell address echoes this: 'my conversations with you, the American people—are what have kept me honest, kept me inspired' (ev_044). This pattern extends beyond typical graciousness—he explicitly credits the American people for making him a 'better President' and 'better man' (ev_044), suggesting genuine other-orientation rather than strategic rhetoric. This contrasts with typical political self-presentation and may represent either a signature strength (other-oriented humility) or a distinctive feature worth capturing as an emergent dimension.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "PERMA Flourishing Profile",
+      "definition": "The Positive Psychology framework's central assessment question—assessment of the five PERMA dimensions based on observable evidence. This captures the 'positive' side of positive psychology that the shared constructs framework focuses less on.",
+      "finding": "Applying the PERMA model to Obama reveals a distinctive flourishing profile: Strong Positive Emotion evidenced in genuine gratitude expressions ('gratitude to the American people'—ev_044) and hopeful framing ('optimistic about our country's promise'—ev_047); Moderate Engagement in the sustained focus on complex policy domains over 8 years; Strong Relationships dimension in collective-credit attribution and civic engagement emphasis; Very Strong Meaning dimension as the central organizing principle—government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036), service to the American people as core purpose; Moderate Accomplishment dimension—measurable outcomes (11 million jobs, ACA implementation, Iran deal) explicitly contextualized within collective effort rather than personal achievement. His 'proudest achievements' in farewell (ACA implementation, Cancer Moonshot—evt_026) align with Meaning and Accomplishment dimensions. This PERMA profile suggests Meaning-dimension strength as the central feature, with Accomplishment serving Meaning rather than standing alone.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_047",
+        "ev_036",
+        "ev_032",
+        "ev_045",
+        "ev_024",
+        "ev_022",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

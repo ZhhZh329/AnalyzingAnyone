@@ -1,0 +1,176 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_reasoning_probability_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation, but expressed through deterministic rather than probabilistic terms",
+      "finding": "Obama consistently positions himself as an agent who shapes outcomes rather than one who responds to external structures. His speeches contain confident forward-looking commitments like 'As long as I am President, that's a commitment this country is going to keep' (ev_001) and 'I'm absolutely confident we will get there' (ev_004). However, this agency is expressed through categorical certainty rather than probabilistic confidence intervals. He rarely says 'I believe there's a 70% chance we'll achieve X' - instead he declares outcomes as inevitable or commits unconditionally. This suggests a world-shaping orientation that operates through moral certainty rather than probability distributions. His Cancer Moonshot initiative (ev_042, ev_043) exemplifies this: he doesn't frame it as a high-uncertainty research bet with success probabilities, but as a structured mission with clear direction. The one caveat is ev_027 where he admits past trade deals 'haven't always lived up to the hype' - acknowledging his own predictions don't always materialize - but this is treated as an exception rather than a general awareness of the uncertainty inherent in all forecasts.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Low probability reasoning; high belief certainty with occasional Bayesian admissions",
+      "finding": "Obama's epistemic style is predominantly one of strong belief certainty rather than probability distribution over possible outcomes. He frequently makes point-estimate claims ('deficits are already falling at the fastest rate since the end of World War II' - ev_016; 'nearly 11 million new jobs' - ev_025) without acknowledging confidence intervals or uncertainty bands around these numbers. He treats statistics as definitive facts rather than as estimates subject to measurement error or revision. The one notable exception is ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype' - here he explicitly acknowledges that his prior predictions about trade deals were wrong and updates his stance accordingly. This is characteristic of Bayesian updating, but it appears as a relatively isolated instance. Most other statements carry either absolute confidence or no explicit probability language at all. His tendency to frame complex situations in terms of 'what will happen' rather than 'what is likely to happen' suggests an epistemic style that prefers categorical judgments over probabilistic ones, even in domains where uncertainty is substantial.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_027",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction; uses statistics and metrics but not formal modeling or probabilistic frameworks",
+      "finding": "Obama demonstrates a moderate capacity for abstraction and statistical formalization, but this remains at the level of presenting aggregate metrics rather than constructing formal probabilistic models. He frequently cites numerical data: '11 million new jobs over 57 months' (ev_025), 'nearly $11 billion back in the pockets of more than 26 million consumers' (ev_028), 'wind power threefold, solar thirtyfold' (ev_040). However, these are presented as point estimates and achievements rather than as variables in a probabilistic system. He does not frame policy outcomes in terms of expected values, variance, confidence intervals, or conditional probabilities. His energy policy (ev_005) shows structural reasoning - 'we use 25% of oil but have 2% of reserves' - but this is arithmetic logic rather than probabilistic analysis. His sequestration warnings (ev_014) describe potential impacts but don't assign probability weights to different scenarios. Overall, his abstraction operates at the level of counting and comparing rather than probabilistic modeling. He sees the world in terms of measurable outcomes and trends, but not in terms of distributions, Bayesian updating, or formal uncertainty quantification.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation within his authority domain, but notably flexible on matters beyond his reach",
+      "finding": "Obama displays a strong orientation toward controlling outcomes within his executive authority - he takes 'more than 20 executive actions' (ev_019), signs executive orders on minimum wage (ev_017), and issues definitive veto threats (ev_029). He frames himself as the active agent shaping results: 'I've taken action to lift more workers' wages' (ev_017). However, his control orientation is interestingly bounded: when facing Congressional opposition, he shifts to moral framing ('this is the right thing to do') rather than attempting probabilistic persuasion or conditional negotiations. His debt ceiling stance (ev_015) is categorical - 'I will not negotiate over the full faith and credit' - treating this as a non-negotiable constraint rather than a probability-weighted scenario. Notably, he shows low control orientation regarding outcomes he cannot directly influence: he attributes accomplishments to 'the American people' (ev_032, ev_044) rather than claiming personal causation. This suggests a probabilistic awareness that some outcomes depend on external agents, but it's implicit rather than explicit. The pattern is: direct control when possible, categorical assertion when facing opposition, and collective attribution for outcomes beyond his reach.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority with calculated tolerance of relational costs in specific contexts",
+      "finding": "Obama consistently prioritizes policy missions over immediate relational comfort, as evidenced by his willingness to criticize Congressional Republicans directly and repeatedly. He states 'Republicans in Congress have blocked or voted down every serious idea' (ev_020) and condemns 'senator gumming up the works for the whole country' (ev_010). However, his mission prioritization shows interesting conditionality: he separates institutional positions from personal relationships (ev_008 references bipartisan support from AFL-CIO and Chamber of Commerce together). His strongest relational cost-bearing occurs in contexts he frames as moral imperatives: debt ceiling refusal (ev_015), Dodd-Frank defense (ev_029), and climate commitment (ev_041: 'that's not something to tear up'). In these cases, he accepts political conflict as necessary. However, his mission framing tends toward inclusive language ('our economy,' 'American jobs,' 'all of us') rather than exclusive or adversarial framing, suggesting he optimizes for mission accomplishment while maintaining some relational awareness. His farewell address (ev_044, ev_046) calls for sustained civic engagement 'over the full span of a lifetime,' implying long time horizons where relational repair is possible.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_041",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Low probability framing of risk; treats unlikely-but-high-impact events as if certain",
+      "finding": "Obama's risk posture shows significant engagement with tail risk scenarios but uses deterministic rather than probabilistic framing. His sequestration warnings (ev_011: 'Sequester would cut national security, education, Head Start, cancer research') and (ev_014: 'parents whose kids just got kicked out of Head Start programs') describe potential catastrophes but without assigning probabilities. He treats these scenarios as if they were certain outcomes rather than conditional on Congressional inaction with some probability. The phrasing 'would cut' rather than 'might cut' or 'will likely cut' suggests an epistemic stance that prefers categorical risk framing over probability-weighted analysis. Similarly, his transportation bill urgency (ev_011: 'seven days away from thousands of American workers having to walk off the job') uses countdown framing that emphasizes inevitability. The positive exception is ev_031 where he explicitly frames a conditional scenario: 'Without this agreement, competitors...will write the rules' - here the counterfactual is presented as a likely outcome rather than merely possible. Overall, Obama engages seriously with worst-case scenarios but presents them through deterministic language that understates the probability dimension.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_014",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective hierarchy engagement; leverages formal power while invoking collective legitimacy",
+      "finding": "Obama demonstrates a nuanced relationship with hierarchy and authority. He leverages formal presidential power aggressively when he has it (executive orders, veto threats, White House partnerships) but subordinates himself to collective legitimacy when framing success. He says 'this progress is because of you' (ev_032) and 'you made me a better President' (ev_044), positioning himself as an instrument of collective will rather than an autonomous authority. His hierarchy engagement is notably non-hierarchical in some respects: he explicitly invites 'the sharpest minds from companies in Silicon Valley' to 'help us modernize the federal government' (ev_037), framing himself as a beneficiary of external expertise rather than its superior. He distinguishes between legitimate hierarchy (military command structure - ev_038) and illegitimate hierarchy ('senator gumming up the works' - ev_010). This suggests a sophisticated understanding of when hierarchical authority is warranted and when it should be diffused. However, he shows limited comfort with probabilistic power dynamics - he doesn't frame decisions in terms of expected influence or coalition probability, but rather in terms of right-and-wrong.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_032",
+        "ev_037",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "High threshold for escalation with preference for conditional framing over direct confrontation",
+      "finding": "Obama's conflict strategy is characterized by high threshold for escalation combined with conditional framing. He prefers to set clear conditions rather than engage in direct conflict: 'I will not negotiate over the full faith and credit' (ev_015) is an ultimatum but framed as a principle rather than personal attack. Similarly, 'I will veto it' (ev_029) establishes a clear consequence but doesn't escalate emotionally. His criticism of Congressional obstruction (ev_020) is direct but policy-focused rather than personal. Notably, he rarely splits or fragmentas opponents; he typically characterizes conflict in terms of 'the right policy versus wrong policy' or 'American interests versus other interests' rather than breaking down probabilities of different outcomes. His father's day address (ev_006, ev_007) shows personal storytelling as a conflict-avoidance mechanism - using personal narrative to build connection rather than confront opposition. The one pattern that stands out is his conditional reasoning style in conflict: 'if we don't pass this, then X will happen' (ev_011) - using conditional logic to frame stakes rather than engaging in direct confrontation. This suggests a translator strategy: converting political conflict into conditional consequences.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_006",
+        "ev_007",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission orientation with explicit multi-decade and generational framing",
+      "finding": "Obama demonstrates strong long-term time horizon across his speeches. He explicitly references 'the next generation' in climate contexts (ev_041: 'leave a better, cleaner, safer future for our children'), frames his deficit reduction in historical perspective (ev_016: 'fastest rate since the end of World War II'), and characterizes policy impacts across decades ('extended Medicare solvency by at least 12 years' - ev_002). His economic philosophy is explicitly long-run: 'reverse the decades-long erosion of middle-class jobs and incomes' (ev_024). His Cancer Moonshot initiative (ev_042) references '45 years of progress' and frames a multi-decade challenge. His farewell address (ev_046) explicitly calls for civic engagement 'over the full span of a lifetime' - a generational time horizon for citizenship. However, his long-term orientation operates more through commitment and persistence than through probability-weighted scenario planning. He doesn't frame long-term goals in terms of 'we expect X with probability P' but rather through moral commitment: 'we must' achieve this outcome. This suggests a time horizon that is long in aspiration but deterministic in reasoning.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural reform over incremental patching, framed as moral necessity",
+      "finding": "Obama consistently advocates for structural redesign rather than incremental repair when the problem is framed as fundamental. His signature achievements - ACA (ev_001, ev_002), Dodd-Frank (ev_003, ev_029), Clean Energy Blueprint (ev_005) - are all framed as structural reforms to systems. He explicitly criticizes 'drilling alone' as insufficient and calls for comprehensive energy transformation (ev_005). The sequestration opposition (ev_011, ev_012, ev_013) targets the mechanism itself as flawed, not just its budget impacts. However, his rebuild preference is contextually bounded: when facing Congressional obstruction, he pivots to executive actions ('Year of Action' - ev_019) which are necessarily patches rather than comprehensive reforms. He says 'I've taken more than 20 executive actions' when legislative paths are blocked, demonstrating pragmatic willingness to patch when rebuild is impossible. The pattern is: structural reform when political conditions allow, targeted executive actions when they don't, and consistent framing that treats the ideal solution as structural even when implementing patches.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_005",
+        "ev_011",
+        "ev_012",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Low explicit metacognition; occasional self-awareness but no systematic uncertainty monitoring",
+      "finding": "Obama demonstrates low levels of explicit metacognition - he rarely acknowledges his own cognitive biases, uncertainty about his beliefs, or systematic patterns in his reasoning. His one clear metacognitive statement is ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype' - this shows some awareness that his predictions have been wrong. However, this is presented as an exception rather than a general principle. Most of his speeches treat his beliefs and predictions as well-calibrated without explicit acknowledgment of the possibility of error. He doesn't use hedging language ('I may be wrong,' 'the evidence suggests but doesn't prove,' 'there's significant uncertainty about'). He doesn't reference his own reasoning process or note when he's uncertain versus confident. The lack of metacognitive monitoring is consistent with his overall epistemic style of categorical certainty. However, his framing of the Cancer Moonshot (ev_042) does reference that 'we now have the army, we now have powerful new tools, and with this Moonshot, we now have a clear strategy' - suggesting some awareness that previous approaches were insufficient. This is implicit rather than explicit metacognition.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_042"
+      ],
+      "local_support": "weak"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "certainty_expression_threshold",
+      "definition": "The threshold at which this person transitions from probabilistic or conditional language to categorical certainty. Low threshold means 'I'm confident' or 'this will likely happen'; high threshold means only 'this is certain' or 'I will not negotiate.' It captures how much uncertainty they tolerate before converting to absolute commitment.",
+      "finding": "Obama exhibits an unusually low threshold for converting probabilistic/conditional statements into categorical commitments. When he says 'I'm absolutely confident' (ev_004), he uses absolute language for outcomes that have substantial uncertainty. His threshold appears to be 'I believe this is the right course of action and the expected outcome' rather than 'I have high confidence with known probability of failure.' Notably, his threshold is context-dependent: on issues he frames as fundamental (debt ceiling - ev_015, Dodd-Frank - ev_029, climate - ev_041), it is effectively zero - he makes categorical commitments. On other issues, he uses strong but not absolute language. This low certainty threshold creates potential for overcommitment to outcomes that have non-trivial probability of non-realization, but also provides the moral clarity that his supporters find compelling. The dimension is important because it interacts with probability reasoning: someone with high probability calibration and low certainty threshold would hedge appropriately; Obama appears to have low threshold but relatively uncalibrated confidence.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_015",
+        "ev_029",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "attribution_probability_distribution",
+      "definition": "How this person distributes credit/blame across internal agency (his own action), collective agency (American people), and structural factors (congressional opposition, global forces). It captures their implicit model of how outcomes are generated and who deserves credit or blame.",
+      "finding": "Obama shows a distinctive pattern in his attribution distribution: when outcomes succeed, he attributes them primarily to 'the American people' (ev_032: 'All of this progress is because of you') and collective action, while positioning himself as facilitator rather than primary cause (ev_044: 'You made me a better President'). When outcomes are blocked or constrained, he attributes failure to structural opposition - Congressional Republicans who 'blocked' his initiatives (ev_020). This creates an asymmetric attribution pattern: success is distributed broadly, failure is attributed to specific blockers. Notably, this attribution does not use probabilistic language - he doesn't say 'Congressional obstruction made success X% less likely' but rather treats it as complete prevention. The emergent dimension captures a tendency toward what might be called 'collective credit, specific blame' - a framing strategy that builds coalition through inclusive attribution while maintaining clarity about opposition. This is distinct from probability theory but interacts with it: an alternative framing would assign probabilities to outcomes under different Congressional compositions.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

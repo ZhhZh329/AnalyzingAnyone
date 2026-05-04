@@ -1,0 +1,169 @@
+{
+  "discipline": "psychology",
+  "lens": "humanistic_existential_narrative_rogers_client_centered",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong agentic orientation with notable tension toward collective attribution",
+      "finding": "Obama demonstrates a robust agency orientation through consistent use of active policy language, executive initiatives, and measurable commitment statements. His declaration 'As long as I am President, that's a commitment this country is going to keep' (ev_001) exemplifies his self-positioning as a world-shaper rather than structure-responder. However, a notable tension exists: while taking substantial personal agency through actions like executive orders on minimum wage (ev_017), veto threats on Wall Street Reform (ev_029), and unilateral debt ceiling refusals (ev_015), he simultaneously and repeatedly attributes progress to collective American action. His farewell address crystallizes this: 'You made me a better President, and you made me a better man' (ev_044). This pattern suggests a psychologically integrated orientation that neither collapses into pure individual agency nor pure collectivism, but holds them in dynamic relationship—acting decisively while remaining relationally grounded.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_017",
+        "ev_020",
+        "ev_029",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded beliefs integrated with values-based moral reasoning",
+      "finding": "Obama's epistemic style demonstrates a sophisticated integration of empirical evidence with normative commitments. He grounds policy positions in verifiable data—11 million jobs created (ev_025), $11 billion recovered for consumers (ev_028), wind power tripled and solar increased thirtyfold (ev_040)—yet these statistics consistently serve a moral framework emphasizing fairness, opportunity, and collective responsibility. His 'middle-out' economic philosophy (ev_021) exemplifies this integration: empirical observation that growth flows from middle-class strength becomes a values claim about what economic policy should prioritize. Notably, he demonstrates epistemic humility when acknowledging 'past trade deals haven't always lived up to the hype' (ev_027), showing capacity to revise beliefs based on experience rather than defending fixed positions. This suggests comfort with complexity and willingness to hold both empirical and values-based dimensions of truth simultaneously.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Fluid movement between concrete specifics and abstract principles",
+      "finding": "Obama demonstrates flexible capacity to operate across abstraction levels depending on communicative purpose. He presents detailed concrete statistics when arguing for policy effectiveness (2.5 million jobs, uninsured rate below 10%, specific wage levels) as in his 2015 year-end address (ev_033), yet readily generalizes to abstract principles about American values, democratic governance, and human dignity. His framing of the Paris Agreement as 'something to build upon' rather than defend (ev_041) shows sophisticated use of abstraction for future-oriented reasoning. His 'middle-out' economic philosophy (ev_021) represents formalization of implicit beliefs into systematized understanding. This flexibility suggests comfort with both technical policy details and transcendent meaning-making—essential for presidential communication that must resonate across diverse audiences with varying epistemic orientations.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_036",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selective and principled control with acknowledged limits",
+      "finding": "Obama's control orientation reveals a nuanced pattern: he exercises decisive control on matters of principle (debt ceiling refusal, veto commitments, executive actions) while displaying genuine flexibility on implementation strategy. His declaration 'I will not negotiate over the full faith and credit of the United States' (ev_015) reflects firm boundary-setting when core commitments are at stake, while his acknowledgment that past trade deals fell short (ev_027) demonstrates openness to learning rather than defensive control. The 'Year of Action' (ev_019) shows institutional control mechanisms as response to legislative obstruction rather than preference for unilateralism. Crucially, he frames executive action as response to systemic failure rather than power assertion ('Republicans in Congress have blocked... so I've taken executive actions' — ev_020). This suggests control oriented toward protecting vulnerable populations and institutional integrity rather thanegotistical dominance—a distinction central to Rogers' differentiation between genuine agency and defensive control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_027",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission commitment with persistent attention to relational preservation",
+      "finding": "Obama demonstrates willingness to bear relational costs when core values are at stake, yet consistently works to minimize relational damage through inclusive framing. He directly criticizes Congressional obstruction ('Republicans in Congress have blocked... voted down every serious idea' — ev_020) and condemns Senate tactics as contrary to founders' intent (ev_010), accepting partisan friction as necessary. However, he consistently frames opposition as systemic rather than personal: 'Neither party has been blameless' (ev_010), 'This isn't a Democratic or Republican issue—it's an American issue' (ev_008). The 'Year of Action' framing positions unilateral executive action as response to institutional failure rather than power assertion, preserving relational framing. His fatherhood address (ev_005, ev_006, ev_007) reveals personal integration of relational values—his absent-father experience becomes motivation for policy commitment to fatherhood support, demonstrating authentic values-congruent behavior rather than strategic positioning. This suggests mission commitment tempered by genuine relational concern rather than pure goal-optimization.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_010",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with honest acknowledgment of uncertainty",
+      "finding": "Obama displays a balanced risk posture characterized by strategic forward action with transparent uncertainty acknowledgment. His assertion 'I'm absolutely confident we will get there' (ev_004) coexists with admission that 'past trade deals haven't always lived up to the hype' (ev_027), demonstrating capacity to hold optimism and epistemic humility simultaneously. His climate defense ('That's not something to tear up—it's something to build upon' — ev_041) shows confidence in policy direction while framing legacy as invitation to future collaboration rather than defensive entrenchment. His Cancer Moonshot initiative (ev_042, ev_043) demonstrates comfort with ambitious goals where outcomes are uncertain but process is structured. The pattern suggests healthy relationship to uncertainty—neither anxious over-control nor reckless optimism—consistent with Rogers' concept of the organismic trusting its experience even amid uncertainty.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power used in service of democratic values and vulnerable populations",
+      "finding": "Obama's relationship to hierarchy and power demonstrates principled institutional engagement rather than either deference or rejection of authority. He invokes institutional legitimacy—'The United States of America is not a deadbeat nation' (ev_015)—while simultaneously criticizing institutional dysfunction ('One senator gumming up the works... is certainly not what our founding fathers envisioned' — ev_010). He positions himself as protector of democratic norms against erosion rather than as dominant authority figure. His consistent framing of executive power as response to legislative failure ('Republicans blocked... so I acted' — ev_019, ev_020) suggests understanding of power as delegated and contextual. His Memorial Day address emphasizing duty to fallen families (ev_038) positions hierarchical authority as service obligation rather than privilege. This pattern aligns with Rogers' emphasis on unconditional positive regard—the power relationship is legitimate when oriented toward others' welfare rather than egocentric control.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation combined with persistent inclusive framing",
+      "finding": "Obama's conflict strategy reveals sophisticated integration of directness and inclusion. He openly criticizes Republican obstruction (ev_020), refuses to negotiate on matters of principle (ev_015), and issues definitive veto threats (ev_029)—demonstrating comfort with conflict when values are at stake. Yet he consistently frames opposition as systemic ('This isn't a Democratic or Republican issue' — ev_008) rather than personalizing conflict. His acknowledgment that 'neither party has been blameless' (ev_010) distributes responsibility and reduces defensive escalation. This pattern suggests conflict approached as legitimate disagreement to be negotiated rather than enemy to be defeated—a form of authentic expression rather than either suppression or escalation. His invitation to citizens beyond elections (ev_046) and framing of government as tool for collective problem-solving (ev_036) demonstrate translation of conflict into constructive engagement rather than delay or splitting.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_036",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term legacy orientation with present-moment action commitment",
+      "finding": "Obama demonstrates clear long-term and mission-scale time horizons across his addresses. His climate discourse explicitly frames policy as legacy for children ('leave a better, cleaner, safer future for our children' — ev_041), positioning present action within multi-generational time perspective. The Cancer Moonshot (ev_042) represents a 45-year-old challenge with 10-year ambitious timeline, demonstrating comfort with extended time horizons. His farewell address explicitly calls for civic engagement 'over the full span of a lifetime' (ev_046), suggesting internalized long-term orientation beyond electoral cycles. His consistent emphasis on trends over 57 months (ev_025), historical comparisons (strongest job growth since 1990s), and deficit reduction over years (ev_016) all indicate macro-level temporal thinking. This long-horizon orientation appears authentic rather than performative—consistent with Rogers' emphasis on organismic tendency toward growth that transcends immediate satisfaction.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural redesign preferred when systemic failure documented",
+      "finding": "Obama consistently demonstrates preference for comprehensive structural reform over incremental patching when systemic dysfunction is identified. His signature policies—ACA extending Medicare solvency by 12+ years (ev_002), Dodd-Frank establishing permanent consumer protections (ev_028), Paris Agreement creating 200-nation framework (ev_034)—represent foundational redesign rather than temporary fixes. His advocacy for 'balanced approach' to deficit reduction (ev_013) frames piecemeal cuts as inadequate to systemic challenge. His documentation of sequester's human costs (ev_014) provides evidence for replacing flawed mechanism rather than accepting its logic. However, he demonstrates pragmatic flexibility—temporary FAA fixes (ev_014), bipartisan budget agreements (ev_048)—when structural change is blocked, suggesting rebuild orientation is values-driven but not rigid. This pattern aligns with Rogers' emphasis on therapeutic conditions that support growth rather than symptom management—addressing root conditions when possible while maintaining functional stability.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_014",
+        "ev_028",
+        "ev_034",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with integrated self-other perspective",
+      "finding": "Obama demonstrates notable metacognitive sophistication across multiple dimensions. His acknowledgment of trade deal disappointment ('past trade deals haven't always lived up to the hype' — ev_027) shows capacity for honest self-evaluation of policy positions. His farewell address explicitly credits others for his growth: 'Every day, I learned from you. You made me a better President' (ev_044), demonstrating awareness of own limitations and dependence on relational feedback—directly paralleling Rogers' emphasis on the therapist's need for client feedback to remain authentic. His reframing from leader to citizen-participant ('I look forward to working along your side, as a citizen' — ev_047) shows metacognitive awareness of role-boundaries and capacity for perspective shift. His personal reflections on father absence (ev_006) and coaching role (ev_007) suggest reflective processing of formative experience into values. This metacognitive capacity appears genuine rather than performative—it consistently enables integration of diverse experiences into coherent narrative rather than defensive self-justification.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "relationally-grounded_values_integration",
+      "definition": "The capacity to derive authentic values commitments from personal relational experiences, translating intimate experiences of loss, connection, or need into public policy commitments. This differs from the shared constructs because it specifically addresses the developmental pathway from personal experience to universalizable values—a process central to Rogers' concept of becoming a 'fully functioning person' who integrates all experience into self-understanding.",
+      "finding": "Obama's personal experience of growing up without his father (ev_006) becomes motivation for White House fatherhood initiatives and broader family-supporting policies. His coaching of his daughter's basketball team (ev_007) exemplifies experiential grounding in relational presence. This pattern suggests authentic values derived from integrated personal history rather than strategic positioning—a quality central to Rogers' congruence dimension. His gratitude expression ('you made me a better man') further reveals relational grounding of self-concept. This emergent construct captures something the shared constructs miss: the pathway from personal experience to public values that enables authentic rather than performative commitment to policy positions.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

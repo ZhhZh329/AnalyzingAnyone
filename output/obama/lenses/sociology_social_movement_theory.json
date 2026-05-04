@@ -1,0 +1,189 @@
+{
+  "discipline": "sociology",
+  "lens": "social_movement_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong collective agency beliefs; acts as world-shaper within institutional constraints",
+      "finding": "Obama consistently frames outcomes as products of collective American action rather than top-down imposition. His statements explicitly credit 'the American people' as the engine of progress (ev_032, ev_044), and he expresses faith that democratic participation can address 'collective challenges' (ev_036). He mobilizes public opinion through weekly addresses to build pressure on Congress, treating public engagement as a resource to be activated. While he acknowledges structural constraints like Congressional obstruction, he consistently positions himself and the public as agents who can shape outcomes, not passive responders to political reality. His frequent challenges to private companies (hiring veterans, ev_009) and bipartisan coalitions (ev_008) demonstrate a world-shaping orientation that seeks to coordinate diverse actors toward shared goals.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_032",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with awareness of framing politics; balances data with human-scale narratives",
+      "finding": "Obama's epistemic approach combines statistical reasoning with empathetic framing of human impact. He cites specific numbers (11 million jobs, ev_025; $11 billion recovered, ev_028; 26 million consumers, ev_028) while simultaneously connecting these to lived experiences ('parents whose kids just got kicked out of Head Start,' ev_014). Notably, he shows metacognitive awareness that framing itself is political—he explicitly contrasts his economic philosophy ('middle-out') with alternatives (ev_021) and distinguishes 'war with al-Qaeda' from respect for Islam (ev_012). His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to hold complex, even self-critical positions. This suggests an epistemic style that treats knowledge as constructed but believes better constructions can be built on evidence and experience.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_014",
+        "ev_021",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strategically abstract; elevates policy to philosophical principles while maintaining institutional machinery",
+      "finding": "Obama systematically elevates specific policies into broader conceptual frameworks—'opportunity for all' (ev_018), 'middle-out' economics (ev_021), 'America's resurgence' (ev_024). These abstractions serve mobilization functions by connecting disparate initiatives (minimum wage, student loans, transportation) under unified narratives. Simultaneously, he demonstrates strong institutional formalization through mechanisms designed to outlast his presidency: the Consumer Financial Protection Bureau (ev_028), Cancer Moonshot task force (ev_042-043), Presidential Innovation Fellows (ev_043), Paris climate agreement (ev_034, ev_041). This pattern reveals abstraction_formalization that serves both meaning-making (mobilizing frames) and structural entrenchment (creating durable institutions). He is neither purely abstract nor purely technical, but strategically oscillates between philosophical framing and concrete institutional design.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_024",
+        "ev_028",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control; uses institutional mechanisms and coalition-building to shape outcomes",
+      "finding": "Obama demonstrates control orientation primarily through institutional channels. He issues executive orders when legislative paths are blocked (minimum wage for federal contractors, ev_017), uses veto threats to protect legislative achievements (Dodd-Frank, ev_029), and mobilizes public pressure through weekly addresses. His coalition-building shows strategic control efforts—uniting AFL-CIO and Chamber of Commerce (ev_008), partnering with Silicon Valley for government modernization (ev_037), creating cross-agency innovation teams (ev_043). However, his control is not authoritarian; he shares credit ('you made me a better President,' ev_044), delegates initiatives (Cancer Moonshot to Biden, ev_042-043), and calls for civic engagement beyond himself (ev_046). His control_orientation is institutional rather than personal—shaping systems and structures rather than dominating individuals.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_017",
+        "ev_029",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes policy missions over political relationships; absorbs high relational costs",
+      "finding": "Obama repeatedly prioritizes substantive policy goals despite significant political friction. He maintains positions on Medicare solvency (ev_001), Wall Street reform (ev_003, ev_029), and deficit reduction (ev_013) even when facing opposition. His 'Year of Action' framing (ev_015, ev_019-020) explicitly foregrounds executive action when relational negotiation fails—he criticizes Republicans directly ('Republicans have said no to raising the minimum wage, no to equal pay,' ev_020) rather than softening for relational comfort. The relational cost is visible in his acknowledgment that 'neither party has been blameless' (ev_010) but he nonetheless condemns obstruction as 'contrary to our founding fathers' vision.' His mission persistence is especially notable in long-horizon projects like climate (ev_041) and same-sex marriage (ev_035) where he absorbed relational costs to maintain principled positions. Yet his farewell address suggests awareness of these costs—he credits the American people with making him 'a better man,' implying relational investment was central to his approach.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_035",
+        "ev_041",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance; willing to take positions that invite political opposition for defined goals",
+      "finding": "Obama exhibits risk tolerance calibrated to mission importance. He takes positions with clear political costs: veto threats on Dodd-Frank (ev_029), executive orders on minimum wage (ev_017), defending Paris climate agreement as legacy to 'build upon' (ev_041) in anticipation of reversal. He acknowledges deficits 'falling at fastest rate since World War II' (ev_016), a claim with medium editorial risk that invites factual scrutiny. His energy policy explicitly rejects 'drilling alone' as insufficient despite short-term political appeal (ev_005). However, his risk posture is not reckless—he builds bipartisan coalitions when possible (ev_008), uses institutional channels, and frames positions in terms of enduring values rather than tactical advantage. The risk he embraces appears strategic: accepting short-term political friction to entrench structural change.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_016",
+        "ev_017",
+        "ev_029",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchist; uses formal power as president while building distributed networks",
+      "finding": "Obama's relation to hierarchy is dualistic: he exercises formal presidential authority while simultaneously building horizontal networks. As Commander-in-Chief, he articulates 'no more solemn obligation' than military leadership (ev_038), but he also creates cross-institutional innovation structures (Presidential Innovation Fellows, ev_043), establishes public-private partnerships (Clean Fleets with UPS, FedEx, ev_004), and calls for civic participation beyond electoral cycles (ev_023, ev_046). He leverages hierarchy instrumentally—he refuses to negotiate on debt ceiling 'full faith and credit' (ev_015), uses veto threats defensively, but builds coalitions that transcend traditional hierarchies (labor plus business). His farewell emphasis on 'working along your side, as a citizen' (ev_047) suggests a vision of power as delegable and distributed, not monopolized. This represents sophisticated political process awareness—using formal position to create conditions for distributed action.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_015",
+        "ev_038",
+        "ev_043",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate and escalate; frames issues as non-partisan while directly criticizing obstruction",
+      "finding": "Obama's conflict strategy consistently involves framing disputes as between obstructionists and public interest rather than partisan battles. He declares transportation funding 'not a Democratic or Republican issue' (ev_008) while simultaneously issuing direct critiques of Congressional inaction. His language escalates strategically: 'One senator gumming up the works' is 'contrary to our founding fathers' vision' (ev_010), condemning process rather than individuals. He translates Republican obstruction into concrete human costs—Head Start cuts, military strain (ev_014)—making abstract conflict personally resonant. His conflict repertoire is primarily rhetorical escalation with institutional backup (executive orders, vetoes), not personal confrontation. He avoids splitting or suppressing, instead negotiating through public pressure and framing as bipartisan issue. This reflects political process model application: creating public pressure to shift opportunity structures.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "_constraint_key": "time_horizon",
+      "assessment": "Long-term/mission-scale; designs for decades-long impact cycles",
+      "finding": "Obama's time horizon consistently extends beyond electoral cycles to generational and structural timescales. His climate framing looks toward 'our children' (ev_041), energy security targets 2025 (ev_004), and cancer research builds on 45 years of prior progress (ev_042). His legislative achievements (ACA, Dodd-Frank, TPP) are explicitly designed as structural frameworks rather than temporary policies—Medicare solvency extended by 12+ years (ev_002), Dodd-Frank as permanent consumer protection (ev_028-029). His farewell explicitly frames citizenship as 'over the full span of a lifetime' (ev_046), rejecting election-cycle civic engagement. The consistent pattern is designing for durability—treating institutional creation and international agreements as mechanisms for multi-generational impact. Even economic metrics (11 million jobs over 57 months, ev_025) measure sustained trajectory rather than momentary spikes.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_025",
+        "ev_028",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign; creates durable institutional mechanisms over incremental fixes",
+      "finding": "Obama's policy portfolio demonstrates consistent preference for structural redesign over local repair. His signature achievements—ACA, Dodd-Frank, TPP—are comprehensive frameworks designed to restructure systems rather than patch existing problems. The ACA 'reformed the health care system' and added '12 years' to Medicare solvency (ev_002); Dodd-Frank established permanent consumer protection architecture (ev_028); TPP created rules-based trade framework with China as explicit alternative (ev_031). His 'Year of Action' executive orders were responses to Congressional obstruction of structural reforms—minimum wage, equal pay, unemployment insurance—rather than patches. Even his Cancer Moonshot builds 'strong new tools' and 'clear strategy' (ev_042) rather than incremental research grants. The pattern is systematic: when structural reform is blocked, he creates alternative institutional pathways (executive orders, partnerships) rather than accepting piecemeal compromise.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_015",
+        "ev_028",
+        "ev_031",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; explicitly distinguishes between framings and acknowledges construction of reality",
+      "finding": "Obama demonstrates strong metacognitive awareness of framing as political action. He explicitly contrasts his 'middle-out' economic philosophy with alternative framings (ev_021), distinguishes 'war with al-Qaeda' from conflict with Islam (ev_012), and acknowledges that 'past trade deals haven't always lived up to the hype' (ev_027)—recognizing his own previous framing may have been optimistic. His constant articulation of multiple perspectives ('Not just free, but fair,' ev_026) suggests active monitoring of how issues can be constructed. His farewell statement—that conversations with Americans 'kept me honest, kept me inspired' (ev_044)—demonstrates awareness that his thinking is visibly shaped by external input. He frames his own statements as constructions ('That's not something to tear up—it's something to build upon,' ev_041) suggesting metacognitive control over narrative positioning. This awareness distinguishes Obama from leaders who treat their own framings as objective reality.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_026",
+        "ev_027",
+        "ev_041",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "bipartisan_frame_bridging",
+      "definition": "Deliberate strategy of framing issues in non-partisan terms and building cross-ideological coalitions to expand mobilization base—a specific form of movement coalition-building distinct from simple coalition maintenance",
+      "finding": "Obama systematically employs bipartisan frame-bridging as mobilization strategy. He explicitly declares issues non-partisan ('not a Democratic or Republican issue' for transportation, ev_008), brings together traditional adversaries (AFL-CIO and Chamber of Commerce, ev_008), and highlights bipartisan legislative achievements ('Christmas miracles,' ev_048). This is not mere rhetoric but strategic movement-building: broadening the coalition beyond his partisan base to create structural support that can survive electoral shifts. His framing of TPP as writing global rules that prevent China from 'writing the rules' (ev_031) translates traditionally Democratic concerns (labor standards) into patriotic framing palatable to broader audiences. This suggests sophisticated application of frame alignment theory—adjusting diagnostic and prognostic frames to recruit across traditional political divisions.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_031",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_legacy_orientation",
+      "definition": "Designing organizational structures and international frameworks intended to outlast individual leadership and entrench policy trajectories—a form of structural entrenchment specific to executive actors seeking post-tenure policy continuity",
+      "finding": "Obama demonstrates systematic institutional legacy orientation—creating durable mechanisms designed to survive his departure. The Consumer Financial Protection Bureau is explicitly 'independent' with 'one mission' (ev_028); the Cancer Moonshot uses cross-agency task force structure (ev_042-043); Presidential Innovation Fellows embed technology talent in government (ev_043); Paris climate agreement involves 'nearly 200 nations' (ev_034). He frames these as permanent contributions: 'That's not something to tear up—it's something to build upon' (ev_041). This represents movement-building at institutional level—creating organizational structures that embed his policy priorities in bureaucratic routines and international commitments. Unlike typical social movement actors who seek to sustain mobilization through collective identity, Obama as executive builds organizational infrastructure that institutionalizes movement goals independent of popular mobilization.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

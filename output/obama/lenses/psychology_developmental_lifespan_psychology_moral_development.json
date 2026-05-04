@@ -1,0 +1,167 @@
+{
+  "discipline": "psychology",
+  "lens": "developmental_lifespan_psychology_moral_development",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with constitutional constraint awareness",
+      "finding": "Obama consistently demonstrates agency orientation as a world-shaper who actively formulates and pursues policy visions rather than merely responding to events. He declared a 'Year of Action' (evt_015) and took over 20 executive actions when Congress blocked legislative priorities (ev_019). His statement that government is 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036) reveals foundational belief in active intervention. However, his agency orientation operates within democratic norms—he repeatedly calls on Congress rather than circumventing democratic processes entirely, suggesting world-shaping constrained by constitutional role rather than pure autonomy. His middle-out economic philosophy (ev_021) represents deliberate structural framing of economic causality rather than emergent response to market signals.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_036",
+        "ev_021",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Principle-driven reasoning with demonstrated capacity for nuanced position-holding",
+      "finding": "Obama exhibits principled-based epistemic style that distinguishes him from purely intuitive or authority-dependent reasoning. His acknowledgment that 'past trade deals haven't always lived up to the hype' while still advocating TPP (ev_027) demonstrates capacity to hold complexity—updating beliefs about specific implementations while maintaining commitment to trade framework principles. His condemnation of Senate obstruction by noting 'neither party has been blameless' (ev_010) shows awareness of own partisan positioning and effort toward balanced judgment. His 'balanced approach' to deficit reduction (ev_013) reflects systematic weighing of competing values rather than rigid single-principle reasoning. The epistemic style here suggests post-conventional moral reasoning that can hold multiple legitimate considerations simultaneously while still arriving at defensible positions.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_010",
+        "ev_013",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with strong capacity for formal system construction",
+      "finding": "Obama demonstrates high abstraction and formalization through his consistent framing of specific issues within broader principled frameworks. His 'middle-out' economic philosophy (ev_021) elevates particular policies to general theoretical principles about economic causality. His enumeration of 'Top 10 Things' accomplishments in 2015 (ev_033) reveals comfort with formal systematic presentation. He creates institutional structures like the Consumer Financial Protection Bureau (ev_028) and the Cancer Moonshot task force (ev_043) as formal mechanisms for pursuing policy goals. His framing of TPP as setting global rules rather than bilateral deal (ev_031) shows capacity for systemic abstraction. However, his abstraction is not purely theoretical—he grounds it in concrete human consequences: 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on programs like Meals on Wheels' (ev_014).",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_028",
+        "ev_031",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control within constitutional and democratic bounds",
+      "finding": "Obama displays moderate-to-high control orientation manifested through strategic use of executive authority, veto threats, and policy persistence. His declaration that he 'will not negotiate over the full faith and credit of the United States' (ev_015) demonstrates willingness to draw hard lines and control outcomes through institutional power. His veto threat against Wall Street Reform repeal (ev_029) and executive order on federal contractor minimum wage (ev_017) show preference for controlling policy direction rather than compromising away core elements. However, his control orientation operates within democratic constraints—he consistently calls on Congress rather than substituting executive action for legislative process. This suggests controlled agency that seeks maximum influence within legitimate constitutional boundaries rather than control-seeking beyond role boundaries.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with willingness to bear relational costs when principles at stake",
+      "finding": "Obama demonstrates mission orientation with willingness to accept relational costs when core principles are at stake. His 'Year of Action' framing explicitly criticizes Republican obstruction (ev_020): 'They've said no to raising the minimum wage, no to equal pay for equal work, no to restoring unemployment insurance.' This represents deliberate naming of opposition at cost of bipartisan relationships. His assertion that he would veto Wall Street Reform repeal attempts (ev_029) prioritizes consumer protection mission over potential legislative compromise. Yet his mission orientation is not pure antagonism—his transportation bill appeals ('This isn't a Democratic or a Republican issue' [ev_008]) and his recognition that 'neither party has been blameless' (ev_010) show calibration of when to invest relational capital versus when to hold firm. The pattern suggests sophisticated mission orientation that discriminates between negotiable means and non-negotiable ends.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_008",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking within established institutional frameworks",
+      "finding": "Obama displays moderate, calculated risk-taking oriented toward systemic rather than personal stakes. His pursuit of the Paris climate agreement with 'nearly 200 nations' (ev_034) and the Iran nuclear deal (ev_034) represents willingness to engage high-complexity, multi-party negotiations with uncertain outcomes. His Cancer Moonshot initiative (ev_042) constitutes formal commitment to a grand challenge with uncertain probability of success. His statement that 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) reveals epistemic humility about previous risk-taking outcomes. Notably, his risk posture is institutional rather than personal—he risks policy failure and political capital but not personal safety or integrity. His refusal to negotiate over debt ceiling (ev_015) actually represents risk aversion regarding systemic financial risks, showing differentiated risk calculus.",
+      "evidence_ids": [
+        "ev_034",
+        "ev_042",
+        "ev_027",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respectful of legitimate authority with willingness to challenge abuses",
+      "finding": "Obama exhibits nuanced relationship with hierarchy that respects institutional roles while actively challenging abuses of procedural power. His condemnation of single-senator obstruction as contrary to 'what our founding fathers envisioned' (ev_010) directly challenges procedural hierarchy when perceived as exceeding legitimate bounds. His repeated appeals to Congressional authority ('called on Congress to pass' [evt_019, evt_014]) demonstrate respect for separation of powers. However, his executive actions on minimum wage (ev_017) and expressed willingness to use veto power (ev_029) show comfort with hierarchical authority when constitutionally available. His distinction between being 'at war with al-Qaeda' versus 'never...at war with Islam' (ev_012) reveals capacity to resist authority claims that overreach legitimate mandate. The pattern suggests hierarchical orientation grounded in role legitimacy rather than power-seeking or power-fearing.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_012",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating and negotiating strategies with willingness to escalate when necessary",
+      "finding": "Obama demonstrates primarily translating and negotiating conflict strategies with calibrated escalation capacity. His framing of transportation funding as 'an American issue' involving AFL-CIO and Chamber of Commerce together (ev_008) exemplifies translation strategy—reframing partisan conflict in terms that create coalition space. His emphasis on bipartisan achievements in his farewell address (ev_048) shows value placed on cross-party cooperation. However, he escalates when fundamental priorities threatened: issuing definitive veto commitment (ev_029), executive action on minimum wage (ev_017), and refusing debt ceiling negotiation (ev_015). His criticism of Senate rules while acknowledging 'neither party has been blameless' (ev_010) demonstrates non-simplistic conflict framing. The strategic pattern suggests someone who invests heavily in translation and negotiation as first resort but preserves escalation capacity for non-negotiable positions.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_029",
+        "ev_017",
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizons with long-term legacy consciousness",
+      "finding": "Obama demonstrates pronounced mission-scale time orientation evident in framing decisions as multi-generational commitments. His Medicare statement that 'as long as I am President, that's a commitment this country is going to keep' (ev_001) frames policy as multi-administration promise. His defense of Paris climate agreement as 'something to build upon' (ev_041) positions current action within long-term trajectory. His goal to cut oil imports by one-third by 2025 (evt_004) spans multiple business cycles. His statement about leaving 'a better, cleaner, safer future for our children' (ev_041) explicitly invokes intergenerational moral obligation. His Cancer Moonshot (ev_042) addresses disease burden across generations. The consistent temporal extension beyond immediate political cycle suggests moral reasoning oriented toward enduring rather than episodic outcomes—characteristic of post-conventional moral development.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_041",
+        "ev_042",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate-to-strong structural redesign orientation",
+      "finding": "Obama displays moderate-to-strong structural rebuild orientation in policy design. His ACA created new health insurance architecture rather than patching existing programs. The Dodd-Frank Act established the Consumer Financial Protection Bureau as new institutional structure (ev_028). His Cancer Moonshot created cross-agency innovation task force with Presidential Innovation Fellows (ev_043). His government tech modernization initiative explicitly asks 'Silicon Valley...to help us modernize the federal government' (ev_037)—system redesign rather than process patching. However, his sequester responses show patches when structural solutions blocked—calling for balanced approach replacement (ev_013) but accepting temporary FAA fixes. The pattern suggests structural solution preference but pragmatic patch acceptance when rebuild coalition unavailable, indicating principled preference with tactical flexibility.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_043",
+        "ev_037",
+        "ev_013"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with demonstrated belief-updating capacity",
+      "finding": "Obama demonstrates high metacognitive awareness through explicit acknowledgment of learning and belief evolution. His statement 'Every day, I learned from you. You made me a better President' (ev_044) explicitly frames presidential tenure as ongoing cognitive development. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows willingness to update beliefs about policy interventions based on outcomes. His 'neither party has been blameless' observation (ev_010) demonstrates awareness of own partisan lens. His reflection that conversations with citizens 'are what have kept me honest, kept me inspired' (ev_044) suggests metacognitive recognition of external input's role in limiting cognitive bias. His statement that government is 'only as good as we make it' (ev_036) reveals awareness of institutional cognition limits. The pattern suggests strong metacognitive capacity with authentic engagement of feedback loops.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "moral_framwork_grounded_in_institutional_obligation",
+      "definition": "Moral reasoning organized around obligations created by institutional roles and promises rather than either pure principle abstraction or relational care alone. This integrates Kohlberg's post-conventional reasoning with Gilligan's care ethics through institutional mediation.",
+      "finding": "Obama's moral framework demonstrates distinctive integration of institutional role-obligation and care ethics. His Medicare commitment is framed as institutional promise ('it's a commitment to America's seniors...that after working your whole life, you've earned the security') (ev_001)—a structural rather than purely relational framing. His Memorial Day address frames military obligation through role: 'As Commander-in-Chief, I have no more solemn obligation than leading our men and women in uniform' (ev_038). His sequester response centers vulnerable populations ('parents...kids kicked out of Head Start,' 'seniors...Meals on Wheels') (ev_014) but frames their vulnerability through institutional responsibility rather than pure compassion. This suggests moral reasoning where care obligations are channeled through and validated by institutional roles—neither purely principle-driven nor purely relational but mediated by institutional obligation structure.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_038",
+        "ev_014",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "coalition_moral_reasoning",
+      "definition": "Moral justification strategy that deliberately frames issues in universalizable terms to maximize coalition potential and reduce partisan framing costs. This represents strategic moral communication rather than moral reasoning per se, but influences which moral arguments are deployed.",
+      "finding": "Obama demonstrates distinctive coalition-building moral reasoning through universalizable framing. His transportation appeal invokes 'American issue' rather than partisan framing (ev_008). His middle-out economics claims economic benefit for all, not redistribution to specific group. His climate defense appeals to 'better, cleaner, safer future for our children' (ev_041)—intergenerational framing available across ideological lines. His Father's Day address shared personal experience ('I grew up without my father' [ev_006]) to build empathic connection across demographic differences. His 'Top 10 Things' list celebrates accomplishments ranging from economic to social to environmental (ev_033)—catalog designed to appeal across issue priorities. This coalition framing is strategic but also reveals moral conviction that universalizable claims carry stronger legitimacy—a post-conventional moral communication assumption.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_021",
+        "ev_041",
+        "ev_033",
+        "ev_006"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

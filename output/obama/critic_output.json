@@ -1,0 +1,64 @@
+{
+  "flagged_claims": [
+    {
+      "claim": "abstraction_formalization=strong based on ev_005",
+      "lens": "first_principles",
+      "discipline": "cs_engineering",
+      "issue": "ev_005 addresses energy policy stance ('drilling alone is not a real strategy'), not evidence of cognitive abstraction capacity. The evidence is relevant to control_orientation or mission_vs_relational_cost, but not directly to abstraction_formalization.",
+      "severity": "minor"
+    },
+    {
+      "claim": "metacognition=weak/limited",
+      "lens": "multiple lenses including behavioral_economics_kahneman_tversky, mathematics_probability_theory, philosophy_logic",
+      "discipline": "multiple",
+      "issue": "This contradicts strong evidence: ev_006 (father's absence reflection), ev_044-047 (farewell address metacognitive statements like 'You made me a better President, and you made me a better man'), ev_027 ('I'm the first to admit that past trade deals haven't always lived up to the hype'). The 'weak' assessments rely on absence of metacognitive language in certain policy speeches, ignoring biographical and farewell address evidence.",
+      "severity": "major"
+    },
+    {
+      "claim": "agency_orientation=weak/limited",
+      "lens": "lifestyle_medicine",
+      "discipline": "medicine",
+      "issue": "lifestyle_medicine has all constructs marked 'not_applicable' with zero evidence relevant to presidential public communication analysis. This lens is fundamentally mismatched to the evidence corpus - attempting to assess Barack Obama through a personal health behavioral lens using presidential speeches.",
+      "severity": "major"
+    },
+    {
+      "claim": "Construct ratings for behavioral_economics_thaler lens",
+      "lens": "behavioral_economics_thaler",
+      "discipline": "economics",
+      "issue": "Complete absence of construct_summary and evidence_ids. This lens provided no analysable output despite being listed. Cannot assess confidence for any construct from this lens.",
+      "severity": "major"
+    },
+    {
+      "claim": "event_ citation without mapping",
+      "lens": "entrepreneurship_and_innovation_hayek",
+      "discipline": "economics",
+      "issue": "Uses 'evt_004' (a timeline reference, not an evidence card) alongside ev_021, ev_013, etc. Timeline references should not substitute for evidence card citations.",
+      "severity": "minor"
+    },
+    {
+      "claim": "ev_042/ev_043 treated as self_statement",
+      "lens": "multiple cs_engineering lenses",
+      "discipline": "cs_engineering",
+      "issue": "ev_042 and ev_043 have first_hand_level='direct_report' (Biden delivering address about Obama), not 'self_statement'. Several lenses cite these for Obama-specific attributes without distinguishing that they report Biden's observations rather than Obama's direct statements.",
+      "severity": "minor"
+    },
+    {
+      "claim": "risk_posture characterization inconsistency",
+      "lens": "multiple lenses",
+      "discipline": "multiple",
+      "issue": "Some lenses (e.g., security_privacy_and_trust_adversarial_resilience) characterize risk_posture as 'layered defense/approach' while others (e.g., daoism_laozi) mark 'weak' risk awareness. These characterizations of the same Obama behavior conflict. Evidence ev_015 ('I will not negotiate over the full faith and credit') shows firm red lines - inconsistent with 'weak' risk awareness framing.",
+      "severity": "minor"
+    },
+    {
+      "claim": "epistemic_style evidence citation",
+      "lens": "entrepreneurship_and_innovation_kirzner",
+      "discipline": "economics",
+      "issue": "Construct summary states 'Evidence insufficient to characterize epistemic_style' but lens lists 8 evidence_ids. The evidence actually supports a moderate characterization - the 'weak' label appears methodological rather than evidence-based.",
+      "severity": "minor"
+    }
+  ],
+  "construct_confidence": [],
+  "notes": [
+    "critic returned a JSON list; normalized as flagged_claims"
+  ]
+}

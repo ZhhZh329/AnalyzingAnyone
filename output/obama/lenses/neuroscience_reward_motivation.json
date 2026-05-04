@@ -1,0 +1,168 @@
+{
+  "discipline": "neuroscience",
+  "lens": "reward_motivation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "High institutional agency - Obama actively shapes outcomes through executive action and coalition-building rather than passively responding to political constraints",
+      "finding": "Obama demonstrates consistently high agency throughout his presidency, characterized by proactive world-shaping rather than reactive adaptation. He declared a 'Year of Action' (evt_015) and took over 20 executive actions to circumvent Congressional obstruction (ev_019). Rather than accepting structural constraints, he issued veto threats (ev_029), signed executive orders raising contractor minimum wage (ev_017), and announced challenges like hiring 100,000 veterans (ev_009). His agency operates primarily through institutional channels - working within democratic processes and presidential authority rather than circumventing them. He explicitly refused to negotiate on debt ceiling (ev_015), demonstrating agency as boundary-setting. Notably, his agency is calibrated to institutional opportunity - he waits for political openings while preparing executive strategies, suggesting sophisticated understanding of structural constraints rather than naive assertion of will.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_009",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded learning orientation with moderate prediction error tolerance - acknowledges failures while maintaining optimistic narrative frameworks",
+      "finding": "Obama's epistemic style combines empirical grounding with optimistic framing. He freely acknowledges prediction errors - admitting 'past trade deals haven't always lived up to the hype' (ev_027) - indicating tolerance for disconfirming evidence. He grounds arguments in data: citing statistics on job creation (ev_025), Medicare solvency (ev_002), consumer protection recoveries (ev_028), and clean energy growth (ev_040). However, he maintains a positive bias in narrative construction, framing deficits as falling at 'fastest rate since WWII' (ev_016) and declaring 'America's resurgence is real' (ev_024). He actively seeks expert input through mechanisms like Presidential Innovation Fellows (ev_043) and Silicon Valley partnerships (ev_037). This pattern suggests a learning-oriented epistemic style that incorporates new information while filtering it through an optimistic interpretive framework - neither rigidly confirming nor chaotically revising beliefs.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with strong ability to translate complex formal systems into human-impact narratives",
+      "finding": "Obama operates comfortably with complex policy formalization - championing the ACA, Dodd-Frank, TPP, and Paris Agreement - but consistently translates these abstract systems into concrete human outcomes. He articulates the 'middle-out' economic philosophy (ev_021) as an organizing abstraction, yet grounds it in observable phenomena: 'wages are on the rise again' (ev_025). His abstraction is notably systemic rather than purely theoretical - he thinks in terms of interconnected formal structures (regulatory frameworks, trade agreements, international commitments). He demonstrates comfort with formal institutions by defending them as necessary tools: 'government never has' modernized this way before (ev_037). The tension in his style is that while he can navigate formal complexity, he prefers to lead with human stories over technical details - suggesting moderate formalization preference with translation as a key skill.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_037",
+        "ev_028",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control orientation channeled through institutional authority and principled boundary-setting rather than personal dominance",
+      "finding": "Obama demonstrates strong control orientation but channeled through institutional mechanisms rather than personal power accumulation. He exercised institutional control through executive orders (ev_017), veto threats (ev_029), and firm positions like refusing debt ceiling negotiations (ev_015). His control manifests as principled boundary-setting: 'I will not negotiate over the full faith and credit of the United States' (ev_015). He controlled the policy agenda by declaring 'Year of Action' (evt_015) and listing accomplishments systematically (ev_033). Crucially, his control orientation appears calibrated to institutional legitimacy rather than personal aggrandizement - he works within constitutional boundaries and publicly attributes credit to others ('All of this progress is because of you,' ev_032). This suggests control as a means of effective governance rather than an end in itself, with institutional channels as the preferred mechanism for exercising control.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_032",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with notable exceptions showing capacity for relational repair and human connection",
+      "finding": "Obama consistently prioritizes policy mission over relational comfort, repeatedly pressing forward despite Congressional opposition. He criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea,' ev_020) and pushed minimum wage (ev_023), veteran hiring (ev_009), and clean energy (ev_041) aggressively. His climate, healthcare, and financial reform missions show sustained commitment despite opposition. However, his farewell address reveals capacity for relational valuation: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). His personal narrative about absent father (ev_006) and coaching daughter's basketball (ev_007) suggests personal relationships remain meaningful. This pattern indicates mission-dominant motivation with relational capacities intact but subordinate to policy goals - a structural feature of presidential leadership rather than relational deficiency.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_009",
+        "ev_041",
+        "ev_044",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk aversion channeled through institutional deliberation and strategic patience rather than bold leaps",
+      "finding": "Obama's risk posture reflects institutional caution rather than high novelty-seeking. He pursues complex, long-term initiatives (Paris climate agreement, Iran nuclear deal, TPP) but within established international frameworks rather than through disruptive innovation. His government modernization efforts (ev_037) partner with established institutions (Silicon Valley companies) rather than experimenting with radical alternatives. He demonstrates strategic patience - waiting for Congressional opportunities while building executive action capacity. His veto threats (ev_029) are calculated signals rather than impulsive declarations. Notably absent is the novelty-seeking or risk-tolerance that would characterize high dopaminergic exploration. This suggests a reward system more sensitive to established institutional success signals than to novel discovery - he optimizes within known frameworks rather than exploring uncertain alternatives.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_029",
+        "ev_041",
+        "ev_034",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional hierarchy orientation - uses formal authority strategically while delegating visibly and sharing credit",
+      "finding": "Obama relates to hierarchy and power through institutional legitimacy rather than personal dominance. He exercises presidential authority firmly (veto threats, executive orders) but consistently grounds his power in institutional roles rather than personal charisma. He visibly delegated the Cancer Moonshot to Biden (ev_042), stating 'I asked some of the sharpest minds from companies in Silicon Valley' (ev_037). He attributed progress to collective action: 'All of this progress is because of you' (ev_032). His power expression is notably non-personal - he rarely frames accomplishments through personal achievement. He accepts constitutional constraints (refusing to negotiate debt ceiling) while maximizing authority within those bounds. This suggests power orientation as institutional stewardship rather than personal ambition - the reward system is activated by institutional success rather than power acquisition itself.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_037",
+        "ev_032",
+        "ev_044",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-oriented with institutional framing - uses authority assertions (vetoes, executive action) while framing conflict as systemic rather than personal",
+      "finding": "Obama's conflict strategy defaults to institutional escalation when challenged: veto threats (ev_029), executive orders circumventing Congress (ev_017, ev_019), and condemnation of obstruction ('Republicans in Congress have blocked,' ev_020). He frames Congressional opposition as systemic dysfunction ('One senator gumming up the works,' ev_010) rather than personal conflict - depersonalizing opponents while intensifying institutional critique. However, he shows capacity for coalition-building across divides (ev_008 - AFL-CIO and Chamber of Commerce together). His conflict is principle-based rather than personal: he refuses negotiation on debt ceiling as matter of national creditworthiness (ev_015). The pattern suggests escalating through institutional authority while maintaining rhetorical frames that depersonalize conflict - conflict as system failure requiring institutional remedy rather than interpersonal dispute requiring reconciliation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Exceptional long-term orientation - consistently optimizes for legacy-scale outcomes across multiple decades with delayed-satisfaction tolerance",
+      "finding": "Obama demonstrates unusually flat temporal discounting, consistently prioritizing long-term outcomes over immediate political gains. He championed Medicare solvency extension (ev_002 - '12+ years'), energy independence by 2025 (evt_004), and climate commitments for 'our children' (ev_041). He accepted short-term political costs for long-term goals - pushing climate action despite industry opposition, defending Wall Street reform against repeal. His farewell reflection (ev_047) frames outcomes in terms of lasting legacy: 'I am even more optimistic about our country's promise.' He explicitly rejected short-term thinking ('can't take our democracy for granted,' ev_046). This temporal orientation suggests reward sensitivity calibrated to extended time horizons - the dopaminergic system appears responsive to distant achievement signals rather than primarily to immediate gratification. He shows no evidence of hyperbolic discounting despite political incentives for short-term wins.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_047",
+        "ev_046",
+        "ev_001",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate preference for structural reform over incremental patching when political capital permits, with pragmatic patching when necessary",
+      "finding": "Obama demonstrates capacity for both structural redesign and pragmatic patching depending on political circumstances. His signature achievements (ACA, Dodd-Frank, Paris Agreement, TPP) represent structural reforms of systems. He explicitly stated 'Drilling alone is not a real strategy' (ev_005), rejecting superficial solutions. However, he showed pragmatic patching when structural reform failed: executive orders on minimum wage (ev_017) as partial substitute for legislative action, temporary FAA fixes (evt_012). He framed 'Christmas miracles' of bipartisan budget (ev_048) as acceptable patching. The pattern suggests strategic flexibility - preferring structural solutions but willing to patch when structural change is blocked. His innovation initiatives (Presidential Innovation Fellows, Silicon Valley partnerships, ev_037) represent structural approaches to government modernization. This indicates sophisticated understanding that some problems require structural intervention while others allow incremental progress.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_017",
+        "ev_037",
+        "ev_048",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness - demonstrates explicit understanding of political dynamics, frames his own position relative to historical patterns, and acknowledges uncertainty",
+      "finding": "Obama shows sophisticated metacognitive awareness of political systems and his own positioning within them. He explicitly analyzed Congressional dysfunction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned,' ev_010). He framed debt ceiling crisis as manufactured: 'doing anything to threaten that is the height of irresponsibility' (ev_015) - meta-commentary on process rather than just policy. His 'middle-out' economic philosophy (ev_021) represents explicit theorization of causal mechanisms. He acknowledged epistemic humility about trade deals ('I'm the first to admit that past trade deals haven't always lived up to the hype,' ev_027). He explicitly framed his own learning trajectory: 'Every day, I learned from you. You made me a better President' (ev_044). This metacognitive capacity suggests active monitoring of his own reasoning processes and political position - he appears aware of his biases toward optimism and actively compensates through evidence-gathering and coalition-building.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_021",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "optimistic_affiliation_bias",
+      "definition": "Obama's reward system appears highly sensitive to positive social affiliation signals - he is energized by collective progress narratives and distressed by division, leading him to frame conflicts through unifying lenses even when strategic conflict would be more effective",
+      "finding": "Analysis reveals a pattern where Obama responds strongly to positive social rewards (national progress, collective achievement, civic participation) while framing negative conflicts through systemic rather than interpersonal lenses. His farewell address centered on 'resilience of American people' and 'acts of remembrance' (ev_045, ev_039) rather than conflicts overcome. He credited 'the American people' for all progress (ev_032) and expressed 'optimism' about the future (ev_047). His 'Year of Action' framing emphasized positive achievement over conflict. This optimistic affiliation bias suggests a reward system particularly sensitive to social cohesion signals - collective progress is experienced as highly rewarding while conflict is experienced as punishing enough to motivate framing it as system failure. This explains his preference for coalition-building (AFL-CIO and Chamber together, ev_008) and his tendency to credit others rather than claim personal achievement.",
+      "evidence_ids": [
+        "ev_045",
+        "ev_039",
+        "ev_032",
+        "ev_047",
+        "ev_008"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

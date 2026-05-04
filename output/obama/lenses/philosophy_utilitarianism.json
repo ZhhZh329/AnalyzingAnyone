@@ -1,0 +1,169 @@
+{
+  "discipline": "philosophy",
+  "lens": "utilitarianism",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation, systematically positioning himself as a consequentialist welfare maximizer",
+      "finding": "Obama consistently demonstrates a utilitarian 'world-shaper' orientation, actively positioning himself as an architect of collective welfare maximization. His rhetoric treats national policy outcomes as a calculable sum of benefits to be optimized: he enumerates 2.5 million jobs created (ev_033), 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), and uninsured rates below 10% (ev_033). This mirrors Benthamite quantification of happiness. His 'middle-out' economic philosophy explicitly frames the economy as a system where maximizing middle-class welfare produces the greatest aggregate benefit (ev_021). However, he demonstrates structure-responding tendencies when Congressional obstruction forces executive action, suggesting a contingent rather than absolute agency orientation—his world-shaping ambition operates within democratic constraints.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist-quantitative with Millian qualitative refinements, grounded in measurable outcomes",
+      "finding": "Obama's epistemic style combines Benthamite empirical quantification with Millian qualitative distinctions. He frequently anchors arguments in measurable data: wind power tripled, solar thirtyfold (ev_040), deficits falling at fastest rate since WWII (ev_016), Head Start programs and Meals on Wheels beneficiaries (ev_014). This reflects a fundamentally empiricist approach to welfare assessment. However, he also demonstrates Millian qualitative judgment—'Love won' (ev_035) frames same-sex marriage as moral progress transcending mere counting, and he explicitly values climate leadership (ev_041) and veterans' dignity (ev_038) as inherently important, not merely instrumentally useful. His epistemic humility appears in admissions like 'past trade deals haven't lived up to the hype' (ev_027), suggesting awareness that utilitarian calculations can err. The dual approach—quantifying where possible, making qualitative moral judgments where necessary—reveals a sophisticated utilitarian epistemology.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_040",
+        "ev_035",
+        "ev_038",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization, translating abstract principles into measurable targets and policy frameworks",
+      "finding": "Obama demonstrates moderate formalization tendency—systematizing policy around quantifiable targets and institutional mechanisms, but tempering cold calculation with human-centered framing. His Blueprint for Energy Future sets concrete goals: cut oil imports by one-third by 2025 (ev_004). He established the Consumer Financial Protection Bureau as an institutional mechanism for consumer protection (ev_028). The Cancer Moonshot was structured as a cross-agency task force with specific metrics—increasing clinical trial enrollment from 4% (ev_043). However, his abstractions rarely become pure 'moral mathematics.' When describing sequester impacts, he humanizes the calculus: 'parents whose kids just got kicked out of Head Start programs scrambling for a solution' and 'seniors who depend on Meals on Wheels' (ev_014). This suggests awareness that purely formal utilitarian calculation risks losing morally relevant particulars—a Millian concern about reducing welfare to mere hedonistic arithmetic.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_028",
+        "ev_043",
+        "ev_014",
+        "ev_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control orientation through institutional design, but accepting limits under democratic constraints",
+      "finding": "Obama demonstrates high control orientation manifested through institutional engineering and systematic policy design, though with Millian sensitivity to legitimate limits. He designed complex multi-stakeholder arrangements—the Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo (ev_004), Silicon Valley partnerships for government modernization (ev_037). His 'Year of Action' (ev_015) took over 20 executive actions specifically to circumvent Congressional obstruction. He issued precise numerical warnings about consequences: 'seven days' until transportation funding expires, 'eight days' until student loan rates double, 'nearly one million jobs' at stake (ev_011). However, his control orientation operates within democratic constraints—he repeatedly appeals to Congress rather than bypassing them, and his debt ceiling stance ('I will not negotiate') reflects principled limit-setting rather than unlimited power-seeking. The Cancer Moonshot was structured as a coordinated task force (ev_042), suggesting systematic coordination over unilateral control.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_015",
+        "ev_011",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with consistent utilitarian framing, but maintains democratic civility costs",
+      "finding": "Obama demonstrates consistent mission prioritization over relational or political comfort, framed in utilitarian terms of collective welfare. When Republicans blocked minimum wage, equal pay, and unemployment insurance extension (ev_020), he publicly named this obstruction while continuing to pursue executive action pathways. His sequestration messaging emphasized concrete harms to Head Start families, seniors, and military communities (ev_014)—framing opposition to sequestration as maximizing welfare, not partisan conflict. However, his relational costs remain bounded by democratic civility—he consistently frames bipartisan cooperation as possible ('This isn't a Democratic or Republican issue' (ev_008)), suggesting willingness to accept political inconvenience for broader coalition welfare. His refusal to negotiate on the debt ceiling (ev_015) represents a clear instance of mission (protecting national creditworthiness) prioritized over relational accommodation. The pattern suggests a utilitarian who accepts some relational costs when mission success is essential to collective welfare, but avoids unnecessarily burning bridges that might enable future cooperation.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_020",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking through probabilistic framing, accepting trade-offs for greater expected utility",
+      "finding": "Obama demonstrates sophisticated probabilistic reasoning characteristic of utilitarian risk assessment. His energy policy acknowledges that 'even though America uses 25 percent of the world's oil, we currently have only about 2 percent of the world's oil reserves' (ev_005)—explicitly framing drilling-only strategies as insufficient expected value given supply constraints. He used precise countdown framing for urgent legislation: 'seven days away from thousands of American workers having to walk off the job,' 'eight days away from nearly seven and a half million students seeing their loan rates double' (ev_011). This quantifies expected harm probabilities under inaction. His energy framework accepts near-term drilling expansion while investing in long-term alternatives, demonstrating risk-spreading across time horizons. The Cancer Moonshot reflects acceptance of scientific uncertainty—funding research with uncertain but potentially transformative payoff (ev_042). However, his risk posture remains cautious on fundamental matters: he refused to negotiate over debt ceiling, viewing default risk as unacceptable expected disutility regardless of potential leverage gains (ev_015).",
+      "evidence_ids": [
+        "ev_005",
+        "ev_011",
+        "ev_015",
+        "ev_042",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Egalitarian distribution of welfare as core principle, deploying hierarchical power instrumentally for collective good",
+      "finding": "Obama's approach to hierarchy and power reflects Benthamite egalitarian principles—'each person counts as one, no one more than one'—while strategically deploying executive power as an instrument for collective welfare. He explicitly opposes privileges that undermine equal opportunity: 'everyone competes on a level playing field, and everyone is held to the same rules' (ev_003). His 'opportunity for all' principle (ev_018) and 'middle-out' economics (ev_021) assume that maximizing welfare requires distributing benefits to the many rather than concentrating on the few. Federal contractor minimum wage to $10.10/hour (ev_017) and CFPB consumer protection (ev_028) represent institutional mechanisms for enforcing egalitarian welfare distribution. He deploys hierarchy—veto threats, executive orders, White House partnerships (ev_029)—as tools to enforce these principles when markets or Congress fail to produce optimal collective outcomes. However, he consistently frames power as accountable to collective welfare rather than self-serving: 'the keys to this system of self-government... it's only as good as we make it' (ev_036). His hierarchy is always instrumental for Benthamite ends.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_018",
+        "ev_021",
+        "ev_028",
+        "ev_029",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translate-negotiate pattern with principled escalation on core welfare-protecting commitments",
+      "finding": "Obama demonstrates a predominantly translate-negotiate conflict strategy, but with principled escalation when core welfare-protecting mechanisms are threatened. He consistently frames partisan issues in universal terms: transportation funding as 'an American issue' (ev_008), not Democratic or Republican. His bipartisan framing—citing AFL-CIO and Chamber of Commerce together (ev_008)—attempts to dissolve conflict by expanding the utilitarian coalition. He acknowledges legitimate concerns: 'I'm the first to admit that past trade deals haven't lived up to the hype' (ev_027). However, on non-negotiable welfare matters, he escalates clearly: 'I will veto it' regarding Wall Street Reform repeal (ev_029), 'I will not negotiate over the full faith and credit' on debt ceiling (ev_015). This reflects a rule-utilitarian stance: certain rules (consumer protection, fiscal stability) generate such consistent welfare that violating them cannot be tolerated even for short-term political accommodation. His conflict strategy suggests someone who prefers to translate disagreements into shared welfare frameworks but recognizes that some outcomes are too welfare-destructive to compromise on—a sophisticated balance of Millian flexibility with Benthamite principles.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_027",
+        "ev_029",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time horizon, balancing immediate deadlines with medium-term infrastructure and long-term legacy",
+      "finding": "Obama demonstrates a sophisticated multi-scale time horizon integrating immediate, medium-term, and long-term welfare considerations. At the immediate level, he issues urgent deadline warnings: 'seven days' for transportation (ev_011), 'ten days' for highway funding (ev_006). At the medium-term, his energy blueprint targets 2025—roughly a decade out (ev_004). His longest horizon appears in structural reforms: ACA extended Medicare solvency by 'at least 12 years' (ev_002), representing generational-scale welfare calculation. Climate policy explicitly operates across decades: Paris agreement targets low-carbon future 'for our children' (ev_041), carbon pollution reductions framed as 25-year improvement (ev_040). However, the absence of explicit discussion of very-long-term consequences—centuries-scale climate trajectories, multi-generational inequality—suggests practical rather than philosophically maximalist time horizons. His Cancer Moonshot and infrastructure investments reflect medium-to-long term optimization. The pattern suggests someone who calculates welfare across reasonable planning horizons but does not extend calculations to maximally remote future consequences—a pragmatic rather than purist utilitarian time orientation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_006",
+        "ev_004",
+        "ev_002",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural reform over piecemeal solutions when feasible, executive action when legislative rebuild fails",
+      "finding": "Obama demonstrates strong preference for structural reform over local repair, but pragmatically employs executive patches when legislative reconstruction fails. His signature achievements—ACA and Dodd-Frank—represent fundamental restructuring of healthcare and financial systems, not incremental adjustments. The ACA 'added at least a dozen years to the solvency of Medicare' (ev_002), fundamentally re-engineering the healthcare system's incentive structure. Dodd-Frank created 'new rules on Wall Street' (ev_029), establishing permanent institutional mechanisms like the CFPB. When legislative rebuild failed—Republicans blocking minimum wage, equal pay, unemployment insurance (ev_020)—he systematically pivoted to executive action: over 20 executive actions in his 'Year of Action' (ev_019), raising federal contractor minimum wage to $10.10 (ev_017). This reflects a rule-utilitarian preference: when general rules cannot be institutionalized through normal channels, individual actions must approximate the rule's welfare effects. His transportation advocacy aimed for comprehensive bill passage, not emergency patches. The pattern reveals someone who defaults to structural solutions but accepts pragmatic patching when structural reform is blocked—optimizing within democratic constraints.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_029",
+        "ev_020",
+        "ev_019",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness, demonstrating self-correction and recognition of calculation limits",
+      "finding": "Obama demonstrates notably high metacognitive awareness, regularly monitoring his own reasoning and acknowledging systematic biases. His farewell address explicitly models self-correction: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—framing his presidency as an ongoing learning process subject to correction. He acknowledges past calculation errors: 'I'm the first to admit that past trade deals haven't lived up to the hype' (ev_027). He explicitly recognizes collective over individual judgment: 'my conversations with you... are what have kept me honest, kept me inspired' (ev_044). This reflects Millian emphasis on the 'experienced judge' who improves judgment through reflection and feedback. He shows awareness of democratic constraints on utilitarian calculation—the recognition that his welfare judgments remain subject to correction through civic participation and pluralistic input (ev_046). However, his metacognition remains pragmatic rather than philosophically deep—he does not explicitly theorize about the limits of utilitarian calculation in the face of rights or deontological constraints, suggesting practical rather than theoretically sophisticated metacognitive reflection. The self-awareness is real but bounded by political-philosophical horizons.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_046",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_constraint_recognition",
+      "definition": "Recognition that utilitarian welfare maximization operates within democratic legitimacy constraints, requiring persuasion rather than imposition—a practical limit on pure consequentialist calculation",
+      "finding": "Obama's rhetoric reveals a distinctive emergent dimension: deep recognition that utilitarian welfare goals must be pursued through democratic legitimacy rather than technocratic imposition. He consistently frames his agenda in terms of collective American values rather than expert-dictated outcomes: 'our founders trusted us with the keys to this system of self-government' (ev_036). He attributes all progress to 'the American people' (ev_032), positioning himself as facilitator rather than architect. This suggests that for Obama, the legitimacy of welfare-maximizing policies depends on democratic buy-in—even correct utilitarian conclusions require democratic justification. This reflects a sophisticated recognition that Benthamite welfare calculation alone does not authorize action; Millian democratic norms constrain how utilitarian goals may be pursued. His 'civic participation beyond elections' (ev_023) and 'not just when our own narrow interest is at stake' (ev_046) suggest ongoing democratic engagement as a check on potentially overreaching consequentialist judgments. This emergent dimension captures what pure utilitarian theory overlooks: the democratic preconditions for legitimate welfare maximization.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_032",
+        "ev_023",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

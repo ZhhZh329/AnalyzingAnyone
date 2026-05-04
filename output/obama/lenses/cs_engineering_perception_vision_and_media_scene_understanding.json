@@ -1,0 +1,173 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "perception_vision_and_media_scene_understanding",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "强烈倾向主动塑造议程，而非被动应对结构性约束",
+      "finding": "Obama展现出强烈的主动塑造倾向。在立法渠道受阻时，他通过'Year of Action'采取超过20项行政行动（ev_019, ev_020）。他在能源政策上主动宣布'Blueprint for a Secure Energy Future'，设定2025年削减三分之一石油进口的目标（evt_004, ev_005）。他拒绝债务上限谈判的姿态（ev_015）体现了他不只是在既有约束下运作，而是试图重新界定约束条件本身。这种主动塑造的倾向贯穿其执政期，从行政命令到国际协议谈判，都表现出强烈的议程控制意识。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_015",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "混合型——数据驱动与叙事框架并重，但更依赖具体证据而非抽象推理",
+      "finding": "Obama的认知风格呈现数据驱动特征，大量使用具体统计数字论证政策效果：11 million jobs（ev_025）、2.5 million jobs in 2015（ev_033）、$11 billion recovered for consumers（ev_028）、wind power tripled, solar 30x（ev_040）。然而，他并非纯数据驱动——他同时构建叙事框架将具体政策嵌入更大的价值观语境，如ACA与'commitment to America's seniors'（ev_001）。他承认past trade deals未达预期（ev_027）表明他能整合负面证据。这种风格既非纯归纳也非纯演绎，更接近'evidence-grounded narrative construction'——用数据支撑叙事，用叙事赋予数据意义。",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_028",
+        "ev_040",
+        "ev_001",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "较强，能将具体政策抽象到价值观层面，但形式化程度有限",
+      "finding": "Obama展现出将具体议题抽象到更高层次的能力。他提出'middle-out'经济哲学（ev_021），直接对抗传统的'top-down'叙事，将具体政策（最低工资、税收抵免、贸易协议）锚定在更宏观的价值观框架中。他将ACA抽象为'commitment to America's seniors'（ev_001），将气候行动抽象为子孙后代的道德责任（ev_041）。但他的抽象化主要停留在叙事和修辞层面，缺乏将情境理解形式化为可验证模型或系统化方法的倾向。他更擅长构建'故事'而非'规范'——这与他在场景理解上的优势（关系推理）而非劣势（形式化建模）相一致。",
+      "evidence_ids": [
+        "ev_021",
+        "ev_001",
+        "ev_041",
+        "ev_018"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "中等偏强，表现为系统控制而非细节控制，目标导向明确",
+      "finding": "Obama展现出对系统层面的控制偏好而非对细节的控制。他通过行政行动框架（ev_019, ev_017）、TPP谈判框架（ev_026, ev_030）、癌症登月计划（ev_042, ev_043）构建系统性议程，而非聚焦于微观执行层面。他愿意接受制度约束（批评参议院阻挠但不否认其合法性），但在核心原则（债务上限、Wall Street Reform）上拒绝妥协。这种控制取向更接近'框架控制'而非'过程控制'——他试图界定问题边界和解决路径，而非监控每一步执行。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_017",
+        "ev_026",
+        "ev_042",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "高度任务导向，愿意承受政治摩擦和关系成本",
+      "finding": "Obama在推进核心政策目标时明确展现愿意承担关系成本的倾向。他对共和党阻挠的持续批评（ev_020）表明他接受政治对抗作为必要代价。他承诺否决任何Wall Street Reform废除尝试（ev_029），在ACA等问题上拒绝妥协。他将立法失败框架为需要通过行政途径和替代方案解决的问题，而非寻求和解的机会。这种立场在其总统任期内形成清晰的模式：当任务目标与关系维护冲突时，他优先任务。他在离职演讲中强调向民众学习（ev_044），这既是对其任务导向的反思性平衡，也暗示他意识到高强度任务追求可能带来的关系损耗。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "审慎乐观型——愿意承担经过评估的风险，但以防御性底线为边界",
+      "finding": "Obama的风险姿态呈现审慎与进取的混合特征。他接受Sequester风险（ev_013, ev_016），将其与balanced deficit reduction对比，表明他愿意承担政策风险以换取更大目标。他推动TPP（ev_026, ev_031）——五年谈判、覆盖40%全球经济的协议——体现对重大政策赌注的接受。但他设定明确底线：他不会谈判债务上限（ev_015），他承诺否决Wall Street Reform废除（ev_029），他明确区分'al-Qaeda'与'Islam'（ev_012）。这种模式表明他的风险接受以清晰的防御性边界为条件——他愿意在进攻性议程上冒险，但为核心原则维持强硬底线。",
+      "evidence_ids": [
+        "ev_013",
+        "ev_016",
+        "ev_026",
+        "ev_015",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "制度性与战略性并重——尊重权威但主动界定其边界",
+      "finding": "Obama对权力层级呈现复杂态度。他批评参议院阻挠（ev_010）但同时承认制度合法性——他批评的不是制度存在而是制度运作方式。他明确拒绝在债务上限上谈判（ev_015），划定行政权力的边界而非回避制度。他在立法失败时转向行政行动（ev_019, ev_015）体现对权力替代路径的战略性运用。他构建联盟（AFL-CIO与Chamber of Commerce联合支持交通法案，ev_008）显示他理解权力的非正式来源。这种对权力关系的敏感性和策略性运用，与场景理解能力中'理解关系网络'的要素高度相关。",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_019",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "倾向于直接对抗而非延迟或翻译，但在特定条件下愿意谈判",
+      "finding": "Obama在冲突中的首选策略是直接对抗而非妥协。他在演讲中持续批评共和党阻挠（ev_020），称'one senator gumming up the works'违背开国元勋意图（ev_010）。当立法渠道关闭时，他通过行政行动绕开障碍（ev_019）。他设定了不可谈判的底线（ev_015, ev_029）并坚守。然而，他并非完全排斥谈判——他在TPP谈判中寻求国会授权（ev_026），他在跨党派预算协议后称其为'Christmas miracles'（ev_048）。这种选择性谈判与清晰的底线设置表明他的冲突策略是'区分性对抗'——在核心议题上强硬，在次要议题上灵活。",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_019",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "混合型——日常叙事短期化，但战略框架长期化",
+      "finding": "Obama的时间视野呈现有趣的二元性。在政策沟通层面，他倾向于短期叙事：强调immediate deadlines（'7 days' transportation, '8 days' student loans, ev_011）、年度成就总结（ev_033, ev_024）。但在战略框架层面，他的视野明显长期化：2025能源目标（evt_004）、2014 Afghanistan撤军时间表（evt_010）、气候变化的代际框架（ev_041）、癌症登月计划的系统性变革（ev_042）。他明确承认'decades-long erosion of middle-class jobs'（ev_024），将当前政策置于历史趋势中理解。这种长短视野的混合表明他既理解政治周期约束，也理解政策变革需要长期视角。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_033",
+        "ev_041",
+        "ev_042",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "中等倾向——在系统性失败时寻求重构，但往往通过叙事重建而非结构重建",
+      "finding": "Obama在面对系统性政策失败时倾向于寻求全面解决方案。他将Sequester定位为需要'balanced approach'替代的系统性缺陷（ev_013, ev_014），而非局部修补。他将TPP定位为改写全球贸易规则的机会（ev_031），而非微调现有协议。他在Cancer Moonshot中构建跨机构创新机制（ev_043）。然而，他的'重建'更多体现为叙事重构和框架重建，而非制度重构。当立法系统阻挠时，他通过行政行动和替代方案绕开障碍，而非试图修复立法过程本身。这种策略反映了对系统限制的现实主义接受，但也限制了真正的结构性变革可能。",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_031",
+        "ev_043",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "较强——展现出对自身认知模式和叙事框架的反思性意识",
+      "finding": "Obama展现出高于平均的元认知能力。他在离职演讲中明确承认对话如何塑造了他的思维（ev_044）：'Every day, I learned from you. You made me a better President, and you made me a better man.'这表明他对认知形成过程有明确意识。他承认past trade deals未达预期（ev_027），展示了对自身政策判断局限的认识。他在父亲节演讲中分享个人成长经历（ev_006）体现对自身叙事的自觉构建。他寻求SXSW的政府现代化创意（ev_036）表明他理解自身视角的边界并寻求外部输入。然而，他的元认知主要停留在个人层面而非系统层面——他对制度性盲点和结构性偏见的认识相对有限。",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "contextual_frame_integration",
+      "definition": "将具体政策嵌入更宏观的道德、价值或历史框架中的能力。这与场景理解的核心相关——不是孤立地判断对象，而是理解对象在整体情境中的位置。",
+      "finding": "Obama展现出将具体政策与更宏大叙事整合的显著能力。他将ACA整合为'commitment to America's seniors'（ev_001），将最低工资整合为'opportunity for all'（ev_018），将气候行动整合为子孙后代的道德责任（ev_041），将TPP整合为地缘政治格局中的规则制定权（ev_031）。这种能力使他能够将技术性政策问题转化为公众可理解的道德框架，但也可能导致过度简化——当他将复杂的立法阻挠归因为'wrong'（ev_020）时，他对情境的理解停留在二元框架而非多维分析。这种叙事整合能力是场景理解的重要前提，但需要与更细致的上下文分析相结合才能成为完整的场景理解能力。",
+      "evidence_ids": [
+        "ev_001",
+        "ev_018",
+        "ev_041",
+        "ev_031",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "adversarial_balance",
+      "definition": "在推进议程时对对手视角和系统约束的认知程度——是否理解对手的逻辑、约束和潜在反应，而非仅仅将对手框架为障碍。",
+      "finding": "Obama在对抗性框架中展现出有限的平衡意识。他明确批评共和党阻挠（ev_010, ev_020），但较少系统性地分析对手的逻辑和约束。他在TPP论证中提到China作为战略竞争者（ev_031），但对手的国内政治约束未被充分考虑。他在债务上限问题上的坚定立场（ev_015）更多基于原则而非对对手立场的理解。值得注意的是，他承认past trade deals未达预期（ev_027），这表明某种程度的对自身立场的反思。但整体而言，他对情境中对手位置的理解相对薄弱，这限制了真正的场景理解——场景理解要求理解所有参与者如何理解整体情境，而不仅仅是自己的位置。",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_031",
+        "ev_015",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

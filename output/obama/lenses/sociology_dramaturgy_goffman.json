@@ -1,0 +1,169 @@
+{
+  "discipline": "sociology",
+  "lens": "dramaturgy_goffman",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with strategic use of executive power when legislative path blocked",
+      "finding": "Obama demonstrates a pronounced agency orientation by actively shaping rather than merely responding to political structures. Evidence shows he declared a 'Year of Action' in 2014, taking over 20 executive actions when Congress blocked his legislative agenda (ev_019). He issued direct challenges to private companies to hire 100,000 veterans by 2013 (ev_009), and signed executive orders raising federal contractor minimum wage to $10.10/hour (ev_017). Rather than accepting structural constraints from Congressional Republicans, Obama reframed his approach to use administrative authority—yet he consistently called for Congressional action, showing awareness of structural limitations. His statement 'Our economy depends on a financial system in which everyone competes on a level playing field' (ev_003) reveals he understood systemic constraints while still pursuing active reshaping of those systems.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-based reasoning combined with value-driven narrative construction",
+      "finding": "Obama's epistemic approach combines empirical data with moral framing. He frequently cited specific statistics—'nearly 11 million new jobs' over 57 months (ev_025), '$11 billion back in the pockets of more than 26 million consumers' (ev_028), 'wind power threefold' and 'solar power more than thirtyfold' (ev_040). This evidence-based reasoning was paired with explicit value statements: 'Medicare isn't just a program. It's a commitment to America's seniors' (ev_001). His statement acknowledging past trade deals 'haven't always lived up to the hype' while defending TPP (ev_027) demonstrates nuanced epistemic humility about policy history. He explicitly trusted in 'the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people' (ev_004), suggesting faith in collective intelligence over top-down planning alone.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_004",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances abstract philosophical principles with concrete policy specifications",
+      "finding": "Obama demonstrates a sophisticated ability to oscillate between abstraction and concrete detail. He articulated abstract economic philosophy—'Our economy grows best not from the top-down, but from the middle-out' (ev_021)—while immediately following with specific policy proposals like minimum wage increases and equal pay measures. His father's day address showed personal vulnerability when sharing his experience growing up without a father (ev_006), then pivoted to announcing White House partnerships with businesses to support fatherhood programs—moving from personal narrative to institutional solution. He could frame geopolitically: 'Without this agreement, competitors that don't share our values, like China, will write the rules of the global economy' (ev_031) while also enumerating specific trade benefits: 'eliminated 18,000 foreign taxes on American goods' (evt_021). This flexibility suggests high formalization capacity that remains adaptable to audience and context.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_021",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation with clear boundaries on negotiable versus non-negotiable positions",
+      "finding": "Obama's control orientation manifests through deliberate framing of situations and unwavering commitments on core issues. He explicitly refused to negotiate over the debt ceiling: 'I will not negotiate over the full faith and credit of the United States' (ev_015), establishing a clear non-negotiable boundary. He announced veto threats against Wall Street Reform repeal: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). He framed the deficit issue as requiring a 'balanced approach' combining spending cuts with tax reform (ev_013). However, his control orientation was context-dependent—he sought bipartisan framing for transportation funding, noting the AFL-CIO and Chamber of Commerce both supported it (ev_008). This suggests Obama understood control as achievable through definitional authority: who gets to frame what the issue actually is.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-oriented with calculated use of relational maintenance when serving strategic purposes",
+      "finding": "Obama consistently prioritized policy missions over relational comfort with political opponents, yet maintained relational warmth toward specific constituencies. He explicitly criticized Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea to create jobs and strengthen the middle class' (ev_020), accepting relational costs. Yet toward veterans and military families, his language shifted to explicit gratitude and care: 'we have to do more than honor their memory. We have to be there for their families' (ev_038). He shared personal vulnerability about fatherlessness (ev_006) to connect with fathers facing similar challenges. In his farewell address, he attributed all progress to 'the American people' rather than to himself (ev_032), suggesting he understood that mission success required relational framing toward citizens. His approach reveals instrumental relational maintenance—warmth deployed strategically toward groups whose support served policy goals.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_020",
+        "ev_032",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking framed as patriotic duty within long-term strategic vision",
+      "finding": "Obama's risk posture shows willingness to take significant policy risks when framed within larger strategic narratives. He announced the end of the Iraq war and ongoing transition in Afghanistan—military risks explicitly acknowledged (ev_010). He declared 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012), taking a reputational risk by distinguishing terrorist organizations from religious communities. He pursued TPP and Paris Climate Agreement as major long-term bets: 'That's not something to tear up – it's something to build upon' (ev_041). His sequester warnings showed risk awareness—he documented real human costs including Head Start program cuts, airport disruptions, and military strain (ev_014). Yet he framed risk-taking as collective American responsibility: 'if we keep pushing, and leading the world in the right direction' (ev_041). This suggests risk reframed as patriotic mission rather than individual gamble.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_012",
+        "ev_014",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated understanding of institutional power with selective deference and assertion",
+      "finding": "Obama's relationship to hierarchy reveals nuanced power literacy. He invoked founding fathers' intentions when critiquing Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010), using institutional authority to legitimize reform calls. He positioned government as collective tool: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036). He called on Congress to lead but took executive action when Congress failed, demonstrating awareness of power boundaries. His statement that 'I've directed the federal government to lead by example' (ev_009) shows comfortable assertion of hierarchical authority when wielded for public purposes. Yet in personal contexts, he voluntarily positioned himself in subordinate relational roles—as basketball assistant coach for his daughter's team (ev_007)—suggesting flexibility in power enactment depending on audience and purpose.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_009",
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of opposition combined with reframing conflicts as non-partisan",
+      "finding": "Obama employed multiple conflict strategies depending on context. When facing Congressional obstruction, he directly named opponents: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). Yet he simultaneously attempted to reframe partisan conflicts as non-partisan: 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008), bringing coalitions together (AFL-CIO and Chamber of Commerce). His debt ceiling position represented maximal conflict escalation—absolute refusal to negotiate (ev_015)—while his transportation funding calls represented inclusive coalition-building. He distinguished between conflicts worth escalating (financial stability, military matters) versus conflicts requiring broader framing (economic opportunity, climate action). This strategic flexibility suggests Obama understood conflict as controllable through definitional choices—who defines the situation controls the conflict dynamics.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with strategic attention to legacy construction",
+      "finding": "Obama's time horizon reveals consistent long-term mission orientation. He announced energy goals 'by 2025' (ev_005), military transition timelines 'by 2014' (ev_010), and framed his farewell address as extending beyond his presidency: 'I look forward to working along your side, as a citizen, for all my days that remain' (ev_047). He explicitly called for sustained civic engagement 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). He documented deficit reduction progress over his full term: 'we'll have cut our deficits by more than half since I took office' (ev_016). His Year of Action declaration (ev_019) contrasted with his long-term framing of progress—'America's resurgence is real' (ev_024). He explicitly positioned his policies as legacy to be protected: 'That's not something to tear up – it's something to build upon' (ev_041) regarding climate agreements. This suggests Obama consistently operated with mission-scale temporal orientation.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_010",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Systemic reform orientation with executive action when legislative path unavailable",
+      "finding": "Obama consistently preferred comprehensive systemic solutions over incremental patches. His signature achievement—the Affordable Care Act—represented complete health care system reform rather than targeted patches. He declared a 'Year of Action' taking over 20 executive actions (ev_019), signaling comprehensive rather than incremental approach when Congress blocked legislation. He pursued comprehensive energy policy: 'cut oil imports by one-third by 2025' through multiple mechanisms including domestic drilling, fuel efficiency, and clean energy (ev_005). He explicitly rejected 'drilling alone' as insufficient, demanding comprehensive strategy (ev_005). However, when systemic reform proved impossible through legislation, he demonstrated pragmatic willingness to use executive orders for targeted improvements—federal contractor minimum wage (ev_017), veteran hiring challenges (ev_009). This suggests Obama distinguished between contexts where comprehensive reform was achievable versus where patch strategies served as pragmatic substitutes.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_009",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through strategic self-positioning and adaptive framing",
+      "finding": "Obama demonstrates strong metacognitive awareness of his own role as performer and the importance of framing in social/political contexts. His farewell address explicitly acknowledged how conversations with citizens 'kept me honest, kept me inspired, and kept me going' (ev_044), revealing awareness that his presidential performance was continuously refined through audience feedback. He strategically shared personal vulnerabilities—growing up without his father (ev_006), serving as assistant coach for his daughter's basketball team (ev_007)—to humanize his presidential front. He reflected on what presidency had taught him: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledged limitations of past trade deals: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His call for civic engagement beyond elections (ev_046) suggests understanding that presidential performance must eventually transition to sustained citizen roles. This metacognitive capacity allowed him to adapt performances across audiences while maintaining coherent core identity.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Defensive Frontal Presentation with Relational Backstage Access",
+      "definition": "Obama maintained an unusually 'open' presidential front that incorporated personal vulnerability and ordinary humanity while preserving core institutional authority—a distinctive impression management strategy contrasting with traditionally more distant presidential fronts.",
+      "finding": "Analysis of Obama's public presentation reveals a unique dramaturgical strategy: he combined institutional authority with strategic personal disclosure that would typically belong to backstage settings. His father's day address included explicit personal vulnerability about absent fatherhood (ev_006) and details about coaching his daughter's basketball team (ev_007)—information that humanized his front stage performance. Yet he maintained clear front stage authority when discussing military obligations: 'As Commander-in-Chief, I have no more solemn obligation' (ev_038), or issuing veto threats. This suggests Obama successfully expanded his personal front to include formerly backstage elements—ordinary fatherhood, personal struggle—while retaining front stage institutional authority. The effect was a president who seemed simultaneously powerful and accessible, a strategic impression management choice that reduced perceived distance between office holder and ordinary citizens.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Collective Attribution Performance",
+      "definition": "Obama consistently attributed accomplishments to collective action (citizens, workers, entrepreneurs) rather than individual presidential agency—a performance strategy that enhanced his 'everyman' credibility while potentially obscuring personal agency in ways that served strategic purposes.",
+      "finding": "Obama's speeches repeatedly attribute outcomes to collective rather than individual action: 'It's you—the American people. All of this progress is because of you' (ev_032); 'because of the ingenuity of our entrepreneurs and business owners; the tenacity of our workers; and the determination of the American people' (ev_004). He explicitly credited auto industry rescue for manufacturing renaissance while acknowledging broader policy context (ev_022). In his farewell address, he listed specific moments of American resilience—Joplin rebuilding, Boston showing terrorist resistance (ev_045)—emphasizing community over personal heroism. This collective attribution pattern served multiple dramaturgical functions: it reduced appearance of personal hubris, positioned Obama as facilitator rather than hero (potentially more relatable), and framed policy successes as American rather than partisan achievements. Yet this strategy also obscured clear lines of personal agency and accountability, making it difficult to assess presidential performance independently from broader economic forces.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_022",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

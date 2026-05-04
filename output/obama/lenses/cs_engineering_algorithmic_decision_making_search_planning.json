@@ -1,0 +1,183 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "algorithmic_decision_making_search_planning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper with systematic multi-step initiative deployment rather than reactive adaptation",
+      "finding": "Obama consistently demonstrates world-shaping agency by setting ambitious multi-year state-space goals and deploying sequenced action plans to achieve them. Evidence evt_004 shows explicit forward-looking state definition: the Blueprint for a Secure Energy Future established the target of cutting oil imports by one-third by 2025, with Clean Fleets Partnership involving major corporations (UPS, FedEx, AT&T, Verizon, PepsiCo) as implementation nodes. Rather than responding to immediate conditions, Obama systematically decomposed this goal into domestic drilling expansion, fuel efficiency improvements, and clean energy investment pathways. Similarly, evt_009 and ev_009 demonstrate agency through the specific veteran hiring challenge (100,000 post-9/11 veterans by 2013) and the Paris climate framework — these represent explicit state-space navigation toward desired future states. His Year of Action in 2014 (evt_015) with 20+ executive actions shows willingness to actively rewrite the operational landscape when legislative paths are blocked, rather than accepting structural constraints as fixed boundaries.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "evt_004",
+        "evt_015",
+        "evt_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-metric driven with systematic causal reasoning, acknowledging limitations while building comprehensive policy arguments",
+      "finding": "Obama's epistemic approach relies heavily on explicit metrics and measurable outcomes rather than purely intuitive judgment. ev_025 demonstrates concrete statistical anchoring: 'nearly 11 million new jobs' over '57 consecutive months of growth' and 'wages are on the rise again.' ev_028 quantifies CFPB impact as '$11 billion back in the pockets of more than 26 million consumers.' ev_040 uses comparative metrics: wind power 'multiplied threefold' and solar 'more than thirtyfold.' Notably, ev_027 shows epistemic honesty — 'I'm the first to admit that past trade deals haven't always lived up to the hype' — while still building forward-looking arguments. ev_005 demonstrates explicit causal reasoning when rejecting drilling-only strategy: 'even though America uses 25 percent of the world's oil, we currently have only about 2 percent of the world's oil reserves,' establishing logical constraints on a proposed solution. This suggests a systematic state-transition model where Obama identifies resource constraints, maps current state to desired state, and evaluates action paths against empirical boundaries.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_027",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for abstract principle articulation followed by formalization into policy instruments and concrete metrics",
+      "finding": "Obama demonstrates sophisticated abstraction-formalization cycles, elevating specific policy issues to principled frameworks before reducing them to implementable mechanisms. ev_021 articulates the 'middle-out' economic philosophy as an abstract principle — 'Our economy grows best not from the top-down, but from the middle-out' — then formalizes it into concrete policy proposals (minimum wage, equal pay, paid family leave). ev_036 elevates democratic governance as an abstract tool: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges.' This abstraction was then formalized through concrete mechanisms like the Presidential Innovation Fellows program (ev_043) and Silicon Valley partnerships for government modernization (evt_023). ev_036 further shows meta-abstraction: Obama reflects on the conditions under which the governance tool functions well ('it's only as good as we make it'). The systematic movement from principle → metric → executive action or legislative proposal demonstrates strong abstraction_formalization capacity.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_036",
+        "ev_043",
+        "evt_023",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong direct control preference with explicit red lines, but recognizes institutional constraints and uses alternative control mechanisms when primary paths blocked",
+      "finding": "Obama exhibits clear preferences for direct control over key policy domains, establishing explicit commitment devices and red lines. ev_001 creates a direct commitment: 'As long as I am President, that's a commitment this country is going to keep' regarding Medicare. ev_015 demonstrates categorical boundary-setting: 'I will not negotiate over the full faith and credit of the United States.' ev_029 issues explicit veto commitment against Wall Street Reform repeal. However, when direct legislative control is unavailable, Obama systematically shifts to alternative control mechanisms: evt_014 demonstrates executive order deployment (federal contractor minimum wage to $10.10), evt_015 shows 'Year of Action' executive actions as substitutes for blocked legislation, and evt_023 shows partnership-based influence through Silicon Valley collaboration. ev_009 shows explicit target-setting with verifiable commitments: 'I've directed the federal government to lead by example – and already, we've hired 120,000 veterans.' This suggests a pragmatic control orientation that evaluates available action space and selects optimal control mechanism given structural constraints.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_009",
+        "evt_014",
+        "evt_015",
+        "evt_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Willing to incur significant political conflict costs when core policy commitments are at stake, but maintains measured rhetorical tone",
+      "finding": "Obama demonstrates clear willingness to absorb relational costs and political friction when core mission objectives are threatened. ev_010 shows direct critique of Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned.' ev_020 explicitly enumerates Republican blocking actions: 'They've said 'no' to raising the minimum wage, 'no' to equal pay for equal work, and 'no' to restoring the unemployment insurance.' ev_014 documents human costs of policy failure — Head Start children, seniors on Meals on Wheels, military families under strain — framing these as mission-critical costs to avoid. The 2013 government shutdown confrontation (evt_013) and debt ceiling standoff show willingness to accept short-term relational damage for longer-term institutional preservation. Notably, Obama's conflict style remains measured and principled rather than personal — he frames disagreements as 'not a Democratic or a Republican issue' (ev_008) and cites AFL-CIO/Chamber of Commerce consensus to legitimize his position. This suggests strategic conflict engagement that prioritizes mission preservation over immediate relational comfort.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_014",
+        "evt_013",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker on strategic priorities with explicit threat framing and forward commitment mechanisms, accepting long-term political costs for core agenda items",
+      "finding": "Obama's risk posture shows calculated engagement rather than either aggressive risk-seeking or conservative avoidance. ev_031 demonstrates strategic risk framing: TPP is presented as binary choice between American rule-writing and Chinese rule-writing of global economy, making the risk of inaction greater than the risk of the agreement itself. ev_012 shows calibrated risk distinction: 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam.' This framing manages both security risk and political risk of alienating Muslim allies. On ACA (evt_001, ev_001), Obama made a long-term commitment despite knowing immediate political costs, explicitly stating 'As long as I am President, that's a commitment this country is going to keep.' The sequester response (evt_011, evt_012) shows layered defense strategy: publicizing specific program impacts (Head Start, military) as protective mechanisms against future cuts. However, ev_016 demonstrates some overconfidence in fiscal projections: 'we'll have cut our deficits by more than half since I took office.' This suggests risk tolerance for structural bets on major legislation while maintaining defensive layers around implementation.",
+      "evidence_ids": [
+        "ev_031",
+        "ev_012",
+        "ev_001",
+        "ev_016",
+        "evt_011",
+        "evt_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Critically engaged with formal hierarchy, using coalition-building and alternative power networks to circumvent institutional friction",
+      "finding": "Obama exhibits a nuanced relationship with formal hierarchy that combines critique of institutional dysfunction with pragmatic engagement within existing structures. ev_010 shows explicit critique of Senate procedures: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned.' evt_008 calls for banning congressional insider trading and 90-day up-or-down votes on nominations — direct institutional reform advocacy. However, Obama simultaneously builds alternative power networks when formal hierarchy blocks progress: ev_008 demonstrates coalition-bridging across traditional divisions (AFL-CIO and Chamber of Commerce jointly supporting transportation funding), and evt_023 shows establishment of Silicon Valley partnerships for government modernization. ev_036 frames democracy as a collective tool while acknowledging its dependence on citizen engagement: 'our founders trusted us with the keys to this system of self-government.' This suggests hierarchical engagement that neither blindly accepts nor reflexively rejects authority, but strategically deploys critique, coalition-building, and partnership networks to achieve objectives within and around formal structures.",
+      "evidence_ids": [
+        "ev_010",
+        "evt_008",
+        "ev_008",
+        "evt_023",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Multi-modal conflict engagement combining direct criticism, deadline-driven urgency, evidence-based persuasion, and strategic coalition building",
+      "finding": "Obama employs a diverse conflict repertoire that adapts to specific institutional contexts rather than relying on a single strategy. ev_020 shows direct partisan criticism, enumerating Republican blocks on minimum wage, equal pay, and unemployment insurance. ev_010 demonstrates institutional critique focused on process rather than person: 'One senator gumming up the works for the whole country' rather than personal attacks. evt_009 shows deadline manipulation as conflict tool: 'seven days away from thousands of American workers having to walk off the job' and 'eight days away from nearly seven and a half million students seeing their loan rates double.' ev_014 uses empathetic framing of human costs (Head Start, Meals on Wheels, military families) as persuasion mechanism. ev_008 builds cross-cutting coalitions as a conflict neutralizer: 'last week, I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye.' This suggests sophisticated conflict strategy that evaluates institutional constraints and selects optimal approach: sometimes confrontational, sometimes deadline-urgent, sometimes evidence-anchored, sometimes coalition-dependent.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "evt_009",
+        "ev_014",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time horizon with simultaneous multi-generational planning, accepting short-term costs for long-term institutional investments",
+      "finding": "Obama operates across multiple time scales simultaneously, with core commitments oriented toward mission-scale outcomes. evt_004 shows 2025 energy independence target, demonstrating explicit forward state-space definition. evt_010 articulates Afghanistan transition by 2014 as explicit timeline. ev_024 frames policy success in terms of reversing 'the decades-long erosion of middle-class jobs and incomes,' indicating generational time horizons. The Paris climate agreement (evt_022, ev_034, ev_041) represents multi-generational commitment: 'we can leave a better, cleaner, safer future for our children.' Meanwhile, Obama maintains short-term operational effectiveness through weekly addresses, specific deadline management (evt_009: 7-day and 8-day urgencies), and executive actions (evt_015: 20+ actions in Year of Action). ev_040 demonstrates cross-temporal impact measurement: wind tripled, solar 30x, carbon pollution at 25-year low, all measured from administration start. This suggests a planning architecture that decomposes mission-scale objectives into medium-term policy milestones and short-term operational targets, allowing simultaneous navigation across time horizons.",
+      "evidence_ids": [
+        "evt_004",
+        "evt_010",
+        "ev_024",
+        "ev_040",
+        "evt_022",
+        "ev_041",
+        "evt_009",
+        "evt_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair on core policy domains, with explicit commitment mechanisms to prevent rollback",
+      "finding": "Obama consistently demonstrates preference for systemic redesign rather than patch-and-repair approaches, especially on signature policy initiatives. ev_029 shows explicit structural commitment: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it. We've worked too hard to recover from one crisis only to risk another.' The ACA (evt_001, ev_002) is framed as systemic health system transformation ('added at least a dozen years to the solvency of Medicare') rather than incremental adjustment. ev_028 positions CFPB as structural solution: 'there's finally an independent Consumer Financial Protection Bureau with one mission: to protect American consumers' — institutional redesign rather than patching existing agencies. TPP (evt_021, ev_030) is explicitly framed as opportunity to write global trade rules structurally rather than accepting Chinese rule-writing or incremental bilateral agreements. However, evt_009 shows pragmatic patch acceptance when structural solutions unavailable: 'bipartisan Senate passed transportation bill 52-22' — Obama will take partial solution over legislative failure. This suggests a prioritized rebuild orientation: structural redesign preferred on core mission domains, pragmatic patching acceptable on secondary priorities.",
+      "evidence_ids": [
+        "ev_029",
+        "evt_001",
+        "ev_002",
+        "ev_028",
+        "evt_021",
+        "ev_030",
+        "evt_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of limitations, self-attribution versus external attribution patterns, and active solicitation of external perspectives",
+      "finding": "Obama demonstrates notable metacognitive sophistication through multiple awareness patterns. ev_027 shows explicit epistemic humility: 'I'm the first to admit that past trade deals haven't always lived up to the hype.' This self-correction mechanism suggests awareness of own reasoning limitations. ev_032 demonstrates external attribution of success: 'It's you—the American people. All of this progress is because of you' — counterfactual framing that acknowledges agency external to self. ev_044 echoes this in farewell: 'Every day, I learned from you. You made me a better President, and you made me a better man.' evt_023 shows active external perspective solicitation: visiting South by Southwest to 'seek government modernization ideas' from outside the executive bubble. ev_036 shows reflective meta-awareness about democratic tools: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences' and 'it's only as good as we make it.' However, ev_016 shows potential blind spot: projection that 'we'll have cut our deficits by more than half since I took office' — a forward-looking claim that overweights desired outcomes. Overall, strong metacognitive practice with characteristic political overconfidence in specific projections.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "evt_023",
+        "ev_036",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cross-domain coalition_architecture",
+      "definition": "Systematic construction of coalitions across traditional ideological and organizational boundaries to reframe policy debates and neutralize opposition. This goes beyond standard alliance-building to actively restructure the stakeholder landscape as part of planning process.",
+      "finding": "Obama demonstrates a distinctive capability for architectural coalition design that transcends traditional partisan alignment. ev_008 shows this explicitly: 'last week, I was joined at the White House by representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye' on transportation funding. This wasn't opportunistic — it reflected strategic recalibration of the state-space to include business and labor simultaneously, removing the usual fault line. evt_023 shows extension of this pattern to government modernization: inviting Silicon Valley to partner with federal institutions, creating new coalition nodes outside traditional political categories. evt_004 demonstrates commercial coalition architecture: UPS, FedEx, AT&T, Verizon, PepsiCo in Clean Fleets Partnership. This suggests a planning methodology where coalition architecture is treated as a first-class design problem, not emergent or secondary to policy design. The coalition becomes a structural element of the action plan, changing the search space by adding or removing potential blockers before implementation begins.",
+      "evidence_ids": [
+        "ev_008",
+        "evt_023",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "narrative_commitment_as_search_constraint",
+      "definition": "Use of public narrative construction and explicit commitment statements to create self-binding constraints that limit future search space and focus planning on committed trajectories. The narrative functions as a constraint mechanism that reduces state-space complexity by eliminating certain branches.",
+      "finding": "Obama systematically uses public narrative commitment to constrain future decision paths, effectively reducing search space complexity by pre-committing to specific trajectories. ev_001 demonstrates this: 'As long as I am President, that's a commitment this country is going to keep' regarding Medicare — this creates a hard constraint that eliminates certain policy branches from consideration. ev_015 creates explicit negotiation boundary: 'I will not negotiate over the full faith and credit of the United States' — this reduces the state-space by eliminating debt ceiling negotiation branches. ev_029 extends this to veto commitment: any Wall Street Reform repeal bill gets vetoed, eliminating those branches from legislative search. This technique functions analogously to constraint propagation in search algorithms: by declaring explicit constraints publicly, Obama reduces the computational complexity of future decision-making by pre-eliminating branches. ev_046 suggests meta-awareness of this mechanism: 'we can't take our democracy for granted' as commitment to sustained civic engagement that constrains future political options. This emergent dimension captures a distinctive Obama planning characteristic: treating narrative commitment as operational planning tool, not just communication device.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

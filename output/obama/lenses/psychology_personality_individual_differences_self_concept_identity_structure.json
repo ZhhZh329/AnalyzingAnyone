@@ -1,0 +1,191 @@
+{
+  "discipline": "psychology",
+  "lens": "personality_individual_differences_self_concept_identity_structure",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with proactive initiative-taking and confidence in collective capacity to effect change",
+      "finding": "Obama consistently positions himself as an agent of change rather than a passive responder to events. His 'Year of Action' declaration (ev_019) and executive orders on minimum wage (ev_017) demonstrate initiative-taking when legislative channels are blocked. His statement that 'America's resurgence is real' (ev_024) reflects confidence in shaping economic conditions. However, he frames agency as embedded within collective action—attributing progress to 'the American people' (ev_032) and calling for civic participation as ongoing citizenship (ev_046). This suggests an agentic self-concept that is other-embedded: he sees himself as a catalyst for collective change rather than a solitary actor. His agency orientation is principled and purpose-driven rather than dominantly controlling, consistent with a self-concept organized around shared democratic values.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_024",
+        "ev_032",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist and evidence-based, with acknowledged epistemic humility and willingness to revise positions",
+      "finding": "Obama's public communications consistently rely on data, statistics, and verifiable outcomes as the foundation for policy claims. He cites specific numbers: 11 million jobs created (ev_025), $11 billion recovered for consumers (ev_028), wind power tripled and solar 30x (ev_040). This empiricist orientation extends to his acknowledgment of historical failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He demonstrates epistemic humility by crediting others for learning ('Every day, I learned from you' - ev_044) and acknowledging that democratic governance involves collective problem-solving rather than omniscient leadership (ev_036). His epistemic style is neither purely rationalist nor purely experiential—it integrates empirical evidence with democratic dialogue, suggesting a self-concept organized around evidence-based reasoning within community context.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_036",
+        "ev_040",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-strong abstraction with balanced integration of systemic principles and human-scale concrete examples",
+      "finding": "Obama demonstrates capacity for high-level abstraction in articulating governing philosophies: 'middle-out' economic theory (ev_021), balanced approach to deficit reduction (ev_013), and framework for energy independence (ev_005). He speaks in terms of systems and structures rather than purely personal narratives. However, he consistently grounds abstractions in concrete, human-scale examples: Head Start program cuts affecting children (ev_014), seniors dependent on Meals on Wheels (ev_014), veterans facing unemployment (ev_007). This oscillation suggests a self-concept comfortable with formal policy reasoning but anchored in humanistic values. He does not retreat into pure technocracy, nor does he collapse into pure emotional appeal—he integrates both registers, indicating a self-concept organized around both systemic understanding and human compassion.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_014",
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selective control exercised on core principles, with willingness to share or diffuse power on other matters",
+      "finding": "Obama demonstrates clear willingness to exercise unilateral power when values are threatened: issuing veto threats on Wall Street Reform repeal (ev_029), refusing to negotiate on debt ceiling (ev_015), taking executive actions when Congress blocks legislation (ev_017, ev_019). His control orientation is principled rather than compulsive—he exercises control defensively to protect core commitments, not for its own sake. Simultaneously, he actively diffuses credit and invites participation: 'It's you—the American people' (ev_032), partnerships with AFL-CIO and Chamber of Commerce (ev_008), government modernization through Silicon Valley partnerships (ev_037). His control orientation appears calibrated by mission priorities rather than driven by control anxiety, suggesting a stable self-concept that does not require constant dominance to maintain identity coherence.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission takes clear priority over relational comfort, but managed without personalizing opposition",
+      "finding": "Obama repeatedly prioritizes policy goals over maintaining warm bipartisan relations. He issues veto threats (ev_029), condemns Senate obstruction tactics (ev_010), criticizes Republican obstruction explicitly (ev_020). He declares that 'I will not negotiate over the full faith and credit of the United States' (ev_015) even amid tense political standoffs. However, his criticism remains issue-focused rather than character-based—he frames opposition as institutional dysfunction ('One senator gumming up the works' - ev_010) rather than personal failing. This suggests a self-concept anchored in principled values rather than approval-dependent, willing to bear relational costs when core commitments are at stake. His mission prioritization appears driven by genuine policy commitments rather than status maintenance, as he leaves office with stable self-presentation despite contested legacy.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking focused on systemic changes with long-term payoffs, avoiding personal reputation risks",
+      "finding": "Obama takes significant policy risks in service of long-term goals: healthcare reform despite political costs (ACA), climate action (Paris agreement - ev_034), financial regulation (Dodd-Frank - ev_028, ev_029), trade agreements (TPP - ev_026, ev_030). He accepts short-term political opposition in exchange for structural changes he frames as legacy-defining: 'That's not something to tear up—it's something to build upon' (ev_041) regarding climate policy. He minimizes personal reputation risks through consistent attribution of accomplishments to collective action (ev_032, ev_044) and framing himself as temporary steward ('I look forward to working along your side, as a citizen' - ev_047). This risk posture suggests a self-concept secure enough to accept temporary unpopularity for principle-aligned outcomes, with identity not dependent on immediate acclaim.",
+      "evidence_ids": [
+        "ev_026",
+        "ev_028",
+        "ev_030",
+        "ev_034",
+        "ev_041",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Pragmatic orientation toward hierarchy—using formal power when necessary while advocating institutional reform",
+      "finding": "Obama demonstrates facility with formal power structures: using executive orders (ev_017, ev_019), issuing veto threats (ev_029), directing federal agencies (ev_009). His statement that 'our founders trusted us with the keys to this system of self-government' (ev_036) positions him comfortably within hierarchical authority. Yet he simultaneously advocates democratizing government through modernization (ev_037), civic participation (ev_046), and public-private partnerships (ev_008). His power orientation appears instrumental rather than hierarchical for its own sake—he uses formal authority as a tool for mission advancement while working to reform the systems that grant such authority. This pragmatic orientation suggests a self-concept secure within formal hierarchies but not dependent on them for identity, consistent with his post-presidency self-positioning as active citizen rather than retired elder statesman.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_036",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-tolerant with preference for translation and negotiation, escalating only on core non-negotiable principles",
+      "finding": "Obama's conflict strategy shows graduated escalation: he begins with bipartisan framing (ev_008), then moves to public persuasion using data and moral appeals (ev_014), and finally escalates to executive action or veto threats only when institutional principles or core policies are threatened (ev_015, ev_020, ev_029). He consistently frames conflict in terms of policy versus obstruction rather than personal combat. His condemnation of Senate obstruction is pointed ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) but remains institutionally focused. This graduated approach suggests sophisticated conflict awareness: he is not conflict-averse, but escalates strategically rather than reflexively. His self-concept appears organized around principled negotiation within clear boundaries, treating conflict as legitimate democratic friction when channeled through institutions.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale time orientation spanning immediate crises, medium-term legacies, and generational timescales",
+      "finding": "Obama's communications demonstrate simultaneous orientation across multiple timescales. Immediate: urgent appeals about transportation funding deadlines and student loan rate doubling (ev_011). Medium-term: 'America's resurgence is real' with 57-month job growth (ev_024, ev_025). Long-term: cancer moonshot legacy (ev_042), climate agreements as inheritance for children ('leave a better, cleaner, safer future for our children' - ev_041), and Paris climate agreement as generational commitment (ev_034, ev_041). He frames democratic participation as 'over the full span of a lifetime' (ev_046) and his farewell expresses 'optimism about our country's promise' for remaining years (ev_047). This multi-scale orientation suggests a self-concept organized around enduring commitments rather than electoral cycles, viewing presidential action as part of longer historical trajectories.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_024",
+        "ev_025",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural reform over incremental patching when underlying systems are problematic",
+      "finding": "Obama consistently articulates preference for comprehensive reform over piecemeal solutions: balanced deficit reduction addressing both entitlements and tax reform (ev_013), comprehensive energy strategy replacing drilling-only approach (ev_005), full Wall Street Reform rather than targeted interventions (ev_003, ev_028), and TPP as systematic alternative to ad hoc trade arrangements (ev_026). His frequent invocations of 'balanced approach' reflect preference for structural equilibrium over one-sided fixes. However, he also demonstrates pragmatic patching when comprehensive reform is blocked—executive orders on minimum wage (ev_017) represent partial substitutes for legislative action. This suggests rebuild-oriented philosophy constrained by political reality: ideal type is structural reform, but pragmatic type accepts patches when necessary. His self-concept integrates principled reformer orientation with political realism.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_013",
+        "ev_017",
+        "ev_026",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness, demonstrated through explicit reflection on learning, biases, and limits of understanding",
+      "finding": "Obama demonstrates notable metacognitive sophistication in his public communications. He explicitly acknowledges learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledges prior limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He reflects on the limits of any single leader: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036), implying awareness of cognitive and positional limits. His articulation of 'middle-out' economics as a consistent framework demonstrates self-aware organization of beliefs. His framing of democracy as ongoing collective sense-making rather than perfect leadership suggests metacognitive understanding that individual cognition is embedded in community processes. This high metacognition supports the observed stability of his self-concept across contexts and challenges.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "catalyst_of_collective_empowerment",
+      "definition": "Self-concept organized around enabling and amplifying others' capacity for action rather than claiming sole credit or agency. Distinct from typical agency constructs because it positions personal agency in service of collective empowerment rather than individual dominance.",
+      "finding": "Throughout Obama's communications, he consistently frames himself as a catalyst for others' action rather than the primary agent. He attributes all progress to 'the American people' (ev_032), challenges private companies to hire veterans rather than doing so himself (ev_009), partners with diverse stakeholders (ev_008), and calls for sustained civic participation beyond his own presidency (ev_046). His farewell explicitly positions him as learner and citizen-in-progress alongside others (ev_044, ev_047). This catalyst orientation suggests a self-concept where personal agency gains meaning through enabling collective capacity rather than through individual dominance. This distinguishes Obama from leaders with strong self-oriented agency and explains his comfort with diffusing credit and maintaining stable identity regardless of immediate acclaim or criticism.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_032",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "stewardship_identity",
+      "definition": "Self-concept organized around temporary custodianship of enduring systems rather than ownership or personal legacy attachment. Distinct from typical relationship-to-hierarchy constructs because it addresses psychological orientation toward institutions and longer timescales, not just power dynamics.",
+      "finding": "Obama's farewell address (ev_044, ev_045, ev_047) positions him as continuing civic engagement 'as a citizen' rather than as former president, demonstrating that his self-concept is not anchored in the office itself. His focus on structural reforms—Wall Street Reform (ev_028, ev_029), climate agreements (ev_034, ev_041), education reform (ev_048)—reflects investment in changing systems rather than building personal monuments. His multi-generational time horizon (ev_041, ev_042) suggests seeing himself as part of longer historical processes. The stewardship orientation explains his relative equanimity about contested legacy and his post-presidency continuation of civic engagement: his self-worth is not tied to office-holding but to ongoing contribution to democratic processes. This distinguishes him from leaders whose identity collapses without positional authority.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_034",
+        "ev_041",
+        "ev_042",
+        "ev_044",
+        "ev_047",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

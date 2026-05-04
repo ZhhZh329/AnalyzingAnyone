@@ -1,0 +1,171 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "computer_architecture_and_embedded_systems_parallel_accelerator_thinking",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "主动塑造议程但在立法层面受制于结构约束，行政行动表现出world-shaper姿态但系统性影响受限于制度瓶颈",
+      "finding": "Obama展现出明显的world-shaper特征：他主动在多个政策战线并行推进（经济、能源、医疗、外交），并在立法受阻时通过行政命令单边行动（ev_017、ev_019、ev_020）。然而他清醒认识到自己受制于国会这一串行瓶颈——多次明确指出共和党阻挠使其无法推进立法议程（ev_020、ev_008、ev_013）。这种约束感知表明他区分了自己能直接控制的空间（行政机构、监管机构）与需要依赖谈判的空间（国会），展现出对权力边界的现实主义理解，而非天真地认为可以单方面改变结构。",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_008",
+        "ev_013"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "高度数据驱动，依赖可量化证据和具体案例支撑论证，但对政治可行性的评估同样依赖观察和经验",
+      "finding": "Obama的沟通风格呈现出明显的数据依赖特征：引用就业数字（ev_025的11百万岗位）、医保覆盖数据（ev_033的不保险率首次降至10%以下）、能源产出统计（ev_040风能三倍、光伏三十倍增长）、消费者保护金额（ev_028的110亿美元）。这种模式表明他将可量化指标作为说服工具和自我验证机制。同时，他对国会行为模式的预判（ev_015共和党blocking every serious idea）和对债务上限危险的理解（ev_015 refusing to negotiate）表明他也运用政治观察和经验判断。这些判断虽非形式化模型，但基于对权力动态的系统观察，具备一定的模式识别特征。",
+      "evidence_ids": [
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_028",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "抽象能力强但不追求形式化，偏好具体叙事和可操作目标而非系统性框架",
+      "finding": "Obama擅长将复杂政策议程压缩为清晰的叙事和可衡量目标——如'Year of Action'（ev_015）标签化一年行动、'Top 10 Things'年终总结（ev_033）、'middle-out'经济哲学（ev_021）。然而这些抽象缺乏系统化的形式表达——他未建立如Amdahl定律般可将并行收益量化的模型，而是通过具体案例和类比传递逻辑。他对系统性抽象的回避在能源战略中尤其明显：明确表示单一钻井不够（ev_005），需要多元组合（国内钻井+清洁能源+效率），但未将其形式化为可预测的组合优化框架。这种叙事导向的抽象风格适合政治沟通但限制了可预测性和可验证性。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_033",
+        "ev_021",
+        "ev_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "对行政机器和监管权力有强烈控制欲，但清楚知道立法系统的控制边界",
+      "finding": "Obama展现出对可直接控制工具的强烈关注：大量使用行政命令（ev_017的10.10美元最低工资、ev_019列举20多项行政行动），通过CFPB直接实施消费者保护（ev_028），建立Presidential Innovation Fellows项目推动政府技术现代化（ev_037）。他对政府作为工具的信念在ev_036中明确表达：'our founders trusted us with the keys to this system of self-government because it's the best tool we've got'。然而他对立法系统的态度更复杂——意识到自己无法直接控制国会（ev_010的Senate blocking judicial nominees），因而采取策略性施压而非直接命令。这种控制取向的二元性（行政系统内强控制、立法系统外协商）反映了对权力边界的清醒认知。",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_037",
+        "ev_036",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "高度任务导向，为推进政策目标愿意承担政治对立和社会摩擦成本，但避免极端化策略",
+      "finding": "Obama明确将政策目标置于党派关系之上：宣布将对任何试图废除多德-弗兰克法案的行为动用否决权（ev_029）；宣布Year of Action并在每周讲话中列举共和党阻挠行为（ev_020）；明确表示不会就债务上限谈判（ev_015）。这些姿态表明他愿意承受政治对立的增量成本。然而他的策略保持克制——不诉诸shutdown威胁（ev_016批评共和党制造crises），不使用极端言辞（ev_012对宗教和恐怖主义的区分），寻求跨党派联盟（ev_008提及AFL-CIO和Chamber of Commerce联合支持交通法案）。这表明他在mission priority和relational cost之间寻求平衡，避免走向会导致不可逆破裂的极端策略。",
+      "evidence_ids": [
+        "ev_029",
+        "ev_020",
+        "ev_015",
+        "ev_016",
+        "ev_012",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "分层防御型——通过多战线并行降低单点失败风险，但避免高风险单押策略",
+      "finding": "Obama展现出典型的分层防御风险策略：不是将资源押注于单一高风险路径，而是同时在多个可行动领域推进。在政策战场他同时推进医疗改革、能源转型、金融监管、教育政策；在时间维度他同时考虑短期刺激（学生贷款优惠、失业保险）和长期能力建设（清洁能源基础设施、癌症登月计划，ev_042-43）。面对债务上限等高风险议题，他采取坚定但不升级的立场（ev_015 refusing to negotiate），而非冒险妥协或极限施压。这种模式表明他偏好稳态推进而非波动性冒险——接受部分失败可能性但避免灾难性单点失败。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "精明的层级权力使用者，但倾向于制度内权威而非个人魅力压制的传统权威模式",
+      "finding": "Obama展现出对层级权力工具的系统性使用：对行政机构直接指挥（行政命令、监管机构人事），对国会使用信息和舆论压力（每周讲话面向公众而非仅面向议员），对公众塑造叙事框架（具体化政策影响案例如ev_014的联邦合同工加薪故事）。他使用'coalition building'策略将AFL-CIO和Chamber of Commerce拉到一起（ev_008），展示了对多元利益聚合的偏好而非单一权力核心的依赖。然而他避免个人化权威模式——不依赖威胁和恐吓，而是依赖制度性权威和说服。这种层级使用方式更接近pipelined指令执行而非burst模式。",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_010"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "偏向权力施压和叙事控制，谈判意愿存在但受制于核心底线不可让渡的约束",
+      "finding": "Obama面对冲突展现出清晰的策略层级：在可谈判领域（预算细节、立法细节）他展现出灵活性（ev_008批评obstruction但不拒绝两党合作；ev_016寻求移民改革和最低工资的跨党派支持）；但在核心底线（债务上限不可谈判、医疗改革不可逆转、金融监管保护）他采取坚定甚至borderline对抗的姿态（ev_015、ev_029）。他的冲突策略更接近谈判+权力施压的混合而非单纯的制度性解决——通过每周讲话面向公众制造舆论压力，绕过国会直接向选民喊话。这种策略反映了对制度约束内权力动态的成熟理解，而非简单回避或升级冲突。",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "混合型——对可实现成果有短期意识，但优先投资于结构性改革和能力建设而非即时可见的政治得分",
+      "finding": "Obama展现出多层次时间视野的混合：对可交付成果有短期关注——2011年强调交通法案7天倒计时（ev_011）、学生贷款8天期限（ev_011）、2013年警告sequester即将触发。同时他的核心议程投资于长期结构变革——清洁能源转型目标2025（ev_004）、巴黎气候协议的多代际视野（ev_041）、癌症登月计划（ev_042-43）的长期研究能力建设。他在ev_024对退伍军人和家属的持续关注、ev_018对机会平等的强调都指向超越政治周期的结构性投资。这种混合模式表明他愿意承担短期政治成本以换取长期能力积累，但不会无限期推迟可见成果。",
+      "evidence_ids": [
+        "ev_011",
+        "ev_004",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_024",
+        "ev_018"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "倾向结构性解决方案但在制度约束下接受增量修补，有时被迫选择修补路径因无法重建",
+      "finding": "Obama的核心倾向是结构性重构——医疗改革（ACA）而非保险补贴修补、金融监管改革（Dodd-Frank）而非行为准则修补、清洁能源转型而非化石燃料依赖的持续。这种偏好反映在他对'fundamental'和'systemic'语言的使用（ev_021的middle-out经济哲学、ev_013的balanced comprehensive deficit reduction）。然而他多次被迫接受增量修补：sequester替代方案未能实现结构性重建、行政命令成为绕过立法系统失灵的补丁。在Cancer Moonshot案例中（ev_042-43），他展现出通过跨机构协调重建流程的能力（Presidential Innovation Fellows、Trials.Cancer.Gov平台），而非仅在现有流程上打补丁。这种结构性取向与现实主义约束感知之间存在张力。",
+      "evidence_ids": [
+        "ev_021",
+        "ev_013",
+        "ev_042",
+        "ev_043",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "展示出对自身约束条件和认知盲点的清醒意识，但在对手分析上存在对称性盲点",
+      "finding": "Obama展现出对权力边界的清醒Meta认知：他清楚知道自己的控制范围（行政机构、监管权力）与非控制范围（国会、法院）的边界；他多次承认past trade deals未达预期（ev_027），展示自我校正而非持续自我辩护；在sequester失败后他持续推动替代方案而非坚持原方案。这些都表明他对自身决策环境的反思性监控。然而他的Meta认知存在不对称性——对共和党阻挠行为的模式有清晰认识（ev_015、ev_020），但对自己作为总统的常见盲点（行政傲慢、过度依赖单边行动、忽视州级力量）缺乏明确表达。他的自我认知更多指向结构性约束而非个人认知偏差。这种对称性盲点在高位领导者中常见但仍值得注意。",
+      "evidence_ids": [
+        "ev_027",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "pipeline_bottleneck_sensitivity",
+      "definition": "对政策执行流程中串行瓶颈的识别和绕避能力——类似于计算机架构中识别Amdahl瓶颈并通过并行化或专用化绕避的思想。在政治语境中，这指识别哪些制度节点是真正的不可绕过瓶颈，并选择通过行政命令、公众舆论、联盟构建等方式绕避或加速这些节点。",
+      "finding": "Obama展现出对制度瓶颈的高度敏感：他能清晰识别国会作为关键串行节点（参议院阻挠、程序性投票要求，ev_010、ev_008），并发展出多种绕避策略——通过行政命令实现单边行动（ev_017、ev_019）、通过公众直接喊话绕过立法者（每周讲话模式）、通过联盟构建降低特定节点的决定性影响（AFL-CIO+Chamber of Commerce联合，ev_008）。然而这种bottleneck敏感性有时导致过度依赖行政路径而非寻求立法系统性解决，显示出'绕避'倾向强于'改造'倾向。这种模式与他对串行瓶颈的现实主义认知一致但可能导致过度碎片化的政策执行。",
+      "evidence_ids": [
+        "ev_010",
+        "ev_008",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "throughput_versus_endtoend_latency_awareness",
+      "definition": "区分系统吞吐量提升与端到端效果改善的能力——在政策语境中指理解采取行动（高吞吐量）与实际改变结果（低延迟）之间的差异，以及知道何时追求更多行动vs更好时机。",
+      "finding": "Obama展现出对throughput vs end-to-end区分的微妙理解：他理解行政命令的数量（ev_019的20+ executive actions）不等于政策影响的最大化——他在ev_020中明确指出共和党阻挠意味着即使有大量行政行动，关键立法仍无法通过。他强调'strategic'和'balanced'方法（ev_013），而非单纯追求行动数量。然而这种区分在实践中并不总是清晰——他经常将可量化行动（就业数字、医保覆盖人数）作为成功指标，而不问这些指标是否准确反映了他真正关心的长期结构改变（如中产阶级机会、健康保险可及性）。这表明他对throughput指标的偏好可能部分遮蔽了对latency指标的追踪。",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_013",
+        "ev_033"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

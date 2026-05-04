@@ -1,0 +1,167 @@
+{
+  "discipline": "psychology",
+  "lens": "developmental_lifespan_psychology_erikson_development",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation; Obama consistently positioned himself as an active agent driving change rather than responding to circumstances",
+      "finding": "Throughout his presidency, Obama exhibited high agency through declarative commitments ('As long as I am President, that's a commitment this country is going to keep' - ev_001), by declaring a 'Year of Action' with over 20 executive orders when Congress blocked legislative priorities (ev_019), and by issuing direct challenges to private sector hiring (ev_009: 'I've directed the federal government to lead by example'). His agency was notably forward-leaning in announcing comprehensive frameworks like the Blueprint for a Secure Energy Future (evt_004) and framing TPP as a generational geopolitical choice rather than routine trade policy (ev_031). Even when constrained by Congressional opposition, his response was to expand executive mechanisms rather than accept passivity, demonstrating an internalized self-efficacy oriented toward shaping outcomes.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_019",
+        "ev_029",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-informed pragmatism with strong values grounding; demonstrates adaptive learning rather than ideological rigidity",
+      "finding": "Obama's epistemic approach combines empirical data with aspirational values framing. He cited specific statistics extensively (11 million jobs over 57 months - ev_025; $11 billion recovered for 26 million consumers - ev_028) while simultaneously invoking shared American ideals ('ingenuity of our entrepreneurs,' 'tenacity of our workers' - ev_004). Notably, he acknowledged uncertainty and learning from history: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), demonstrating willingness to update positions based on experience rather than defending prior commitments rigidly. His approach to complex policy challenges (energy security requiring multi-pronged strategy, not just drilling - ev_005) shows tolerance for complexity and multi-causal reasoning.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_025",
+        "ev_027",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for abstract principle articulation combined with concrete operationalization; comfortable navigating formal institutional systems",
+      "finding": "Obama consistently articulated abstract frameworks ('our economy grows best not from the top-down, but from the middle-out' - ev_021; 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' - ev_012) while grounding them in specific operational terms. He worked through formal international negotiation processes (5-year TPP negotiation covering 40% of global economy - ev_030), legislative mechanisms (Trade Promotion Authority, budget reconciliation), and institutional structures (CFPB, Presidential Innovation Fellows program - ev_043). His system-level thinking is evident in his integrated approach to problems (energy policy involving domestic drilling, fuel efficiency, clean energy, and corporate partnerships - evt_004).",
+      "evidence_ids": [
+        "ev_012",
+        "ev_021",
+        "ev_030",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control orientation oriented toward system-level governance rather than micro-management; comfortable using institutional authority decisively",
+      "finding": "Obama demonstrated clear willingness to exercise institutional control when core interests were at stake: issuing definitive veto threats against Wall Street Reform repeal ('I will veto it' - ev_029), refusing to negotiate over debt ceiling ('I will not negotiate over the full faith and credit of the United States' - ev_015), and using executive orders to achieve policy goals blocked by Congress (minimum wage for federal contractors - ev_017). However, his control orientation was primarily system-level rather than micromanaging, focusing on institutional guardrails and policy frameworks. He repeatedly called for Congressional action while also demonstrating capacity to work around obstruction through alternative channels, suggesting a pragmatic rather than compulsive control orientation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with notable willingness to absorb relational and political costs for core policy commitments",
+      "finding": "Obama repeatedly subordinated relational comfort with political opponents to mission priorities. He explicitly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea to create jobs' - ev_020) while simultaneously declaring himself 'not a Democrat or Republican issue' when arguing for bipartisan infrastructure investment (ev_008). His willingness to use veto threats and executive actions demonstrated mission focus over coalition management. He acknowledged political costs: vetoing Wall Street Reform repeal would invite 'political battle,' but he committed to it anyway (ev_029). The personal vulnerability in his Father's Day address (ev_006) suggests relational capacity, but his governing style clearly prioritized policy substance over interpersonal harmony.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_029",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking oriented toward high-stakes structural change; demonstrates comfort with political risk when mission justifies",
+      "finding": "Obama consistently pursued high-risk structural initiatives: ACA (comprehensive healthcare system redesign with political capital), Dodd-Frank (sweeping financial regulation against Wall Street opposition), Paris climate agreement (international commitment with enforcement mechanisms). He framed these as necessary rather than merely advisable, saying the auto industry rescue was a 'choice to invest' when conventional wisdom counseled against it (ev_022). His declaration that 'America is at war with al-Qaeda... and we will never be at war with Islam' (ev_012) represented a risk-taking stance on religious tolerance in counterterrorism discourse. His farewell address indicated long-term perspective on risk: accepting political opposition now for benefits that would accrue to future generations.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_022",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex relationship with hierarchy: reformist rather than revolutionary; works within and against institutional power based on principled evaluation",
+      "finding": "Obama invoked founding principles to critique Congressional obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) while simultaneously operating through established institutional channels rather than circumventing them. His energy policy announcement at a corporate facility (UPS - ev_005) and partnerships across AFL-CIO and Chamber of Commerce (ev_008) demonstrated willingness to engage hierarchical power structures across traditional divides. He positioned himself as constitutional steward ('The United States of America is not a deadbeat nation' - ev_015) rather than transformative outsider. This pattern suggests mature engagement with institutional power rather than either deference or revolutionary rejection.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferential use of negotiation and translation; draws firm lines only when core principles threatened, then holds position decisively",
+      "finding": "Obama consistently attempted bipartisan framing ('This isn't a Democratic or a Republican issue' - ev_008) before escalating when obstruction continued. He negotiated across the aisle on budget (ev_048) while issuing veto threats on Wall Street Reform (ev_029) and refusing debt ceiling negotiation (ev_015). His conflict strategy showed calibrated escalation: initially seeking consensus, then using executive authority or veto leverage when core commitments were threatened. He translated complex policy into accessible narratives ('love won' - ev_035; middle-out economics - ev_021) to reframe conflict around shared values. He rarely split or delayed; when decisions were necessary (sequester, transportation funding deadlines), he named concrete consequences and demanded action.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_015",
+        "ev_029",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Primarily long-term mission-scale orientation with demonstrated capacity for intergenerational thinking; second-term increasingly focused on legacy construction",
+      "finding": "Obama exhibited strong long-term orientation: Paris climate agreement as 'something to build upon' for future generations (ev_041), Iran nuclear deal as generational security investment (evt_022), cancer moonshot as multi-decade initiative (evt_026). His second-term speeches emphasized cumulative legacy: 'America's resurgence is real' (ev_024) and enumerated accomplishments as foundation for future progress. His farewell address explicitly called for sustained civic engagement 'over the full span of a lifetime' beyond electoral cycles (ev_046), and declared renewed optimism about 'our country's promise' extending beyond his presidency (ev_047). He explicitly connected current actions to 'children' and 'future' throughout speeches on climate and economic policy.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for comprehensive structural redesign over incremental repair when possible; demonstrated willingness to accept political costs for transformational change",
+      "finding": "Obama's signature achievements (ACA, Dodd-Frank) represented comprehensive system redesign rather than targeted adjustments. ACA reorganized healthcare financing, coverage mechanisms, and Medicare structure fundamentally (ev_002: 'the single longest extension in history' of Medicare solvency). Dodd-Frank created new regulatory architecture (CFPB, enhanced prudential standards, orderly liquidation authority) rather than patching existing frameworks. His 'Year of Action' was an executive branch rebuild strategy when legislative process failed. Even his technology modernization initiative (ev_037) represented structural innovation ('something that government never has') rather than process optimization. His climate policy emphasized systemic transformation ('cut oil imports by one-third' - evt_004) rather than marginal adjustments.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_019",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of learning, limitation, and collective versus individual attribution",
+      "finding": "Obama demonstrated notable metacognitive sophistication. He explicitly credited learning from the American people: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He attributed accomplishments to collective action rather than individual leadership ('All of this progress is because of you' - ev_032). He acknowledged past failures: 'past trade deals haven't always lived up to the hype' (ev_027). His policy speeches demonstrated awareness of complexity and competing considerations (energy strategy requiring multiple approaches, not just drilling). His reflection in farewell address on witnessing 'American goodness' across diverse experiences (ev_045) suggests capacity to synthesize lessons from accumulated experience. This level of attribution and self-reflection indicates mature metacognitive development.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "generativity_integration",
+      "definition": "The degree to which an individual has successfully integrated generative concern for future generations into their current identity and daily actions, manifesting as active investment in legacy-building systems, mentorship, and contribution beyond self-interest. Distinct from mission orientation because it specifically involves care for what continues after one's own participation ends.",
+      "finding": "Obama demonstrated strong generativity integration across multiple domains. His father's day address included personal vulnerability about his own absent father and his active parenting role as assistant coach (ev_006, ev_007), demonstrating generational investment in the next generation's wellbeing. The Cancer Moonshot initiative represented explicit transfer of institutional wisdom to accelerated future impact (ev_042, ev_043). His Presidential Innovation Fellows program brought 'top technology minds from Silicon Valley' into government service (ev_043), creating institutional mentorship structures that would outlast his administration. His climate policy explicitly framed current actions as legacy for children ('leave a better, cleaner, safer future for our children' - ev_041). The farewell address calling for civic participation 'over the full span of a lifetime' and declaring 'I am even more optimistic about our country's promise' (ev_046, ev_047) represented generative integration at the identity level—anticipating continued contribution beyond formal authority. His consistent emphasis on 'opportunity for all' (ev_018) indicates concern for systems that will serve future Americans rather than merely current beneficiaries.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "moral_imagination",
+      "definition": "The capacity to envision multiple possible futures and evaluate present choices against long-term ethical consequences, not just immediate outcomes. Involves perspective-taking across social groups, time periods, and systemic consequences.",
+      "finding": "Obama consistently demonstrated moral imagination in his policy framing. His distinction between war on al-Qaeda and respect for Islam (ev_012) required imagining how American actions would be perceived across religious communities globally. His 'middle-out' economic philosophy (ev_021) required imagining how wealth distribution affects social cohesion and opportunity distribution. His climate advocacy required projecting consequences across generations ('leave a better...future for our children' - ev_041). His sequester arguments explicitly connected budget choices to vulnerable populations (Head Start children, seniors on Meals on Wheels - ev_014), demonstrating moral imagination about how policy choices affect those with less power. This capacity allowed him to resist short-term political pressure (refusing to negotiate debt ceiling) in service of long-term institutional integrity and values consistency.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_014",
+        "ev_021",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

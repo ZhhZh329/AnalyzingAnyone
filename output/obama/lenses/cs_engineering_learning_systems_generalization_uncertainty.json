@@ -1,0 +1,173 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "learning_systems_generalization_uncertainty",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation through systematic infrastructure creation rather than reactive adaptation",
+      "finding": "Obama consistently demonstrated a preference for designing and implementing systemic frameworks rather than merely responding to external conditions. Evidence includes the Energy Blueprint with specific 2025 targets (ev_004), the Cancer Moonshot as a structured cross-agency task force (ev_042), and the TPP as an active mechanism to shape global trade architecture rather than passively accept China's rule-writing (ev_021, ev_031). His 'Year of Action' declaration (ev_015, ev_019) explicitly framed the presidency as an instrument for structural change, not just crisis management. Critically, ev_005 shows sophisticated world-shaping logic: he rejected single-variable solutions ('drilling alone is not a real strategy') in favor of multi-lever interventions—this demonstrates system-level causation awareness rather than linear stimulus-response thinking.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_015",
+        "ev_019",
+        "ev_021",
+        "ev_031",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Mixed calibration—data-referential with specific audiences but confidently declarative in public persuasion contexts",
+      "finding": "Obama's epistemic style shows significant situational calibration. In contexts where he engaged with specific policy detail or sought credibility with technically sophisticated audiences, he explicitly referenced measurement and evidence: citing survey data for minimum wage positions (ev_023), providing precise deadlines and affected populations for transportation/student loan crises (ev_011), and acknowledging that 'past trade deals haven't always lived up to the hype' (ev_027). However, in broader public communications, he frequently deployed confident declarative framing ('America's resurgence is real' - ev_024; 'I'm absolutely confident we will get there' - ev_004). This pattern suggests Obama understood that epistemic calibration has audience costs—technical precision builds credibility with elites but reduces persuasive impact with mass publics. The tension between these modes reveals他没有把不确定性表达本身视为目标,而是视为可以策略性调用的工具.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_023",
+        "ev_024",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction capability—articulated clear theoretical frameworks ('middle-out economics') but primary communication style remained concrete and narrative rather than systems-modeling",
+      "finding": "Obama demonstrated capacity for explicit theoretical abstraction, most clearly in his articulation of 'middle-out' economic philosophy (ev_021: 'Our economy grows best not from the top-down, but from the middle-out'). The Cancer Moonshot itself represents formalization—breaking a complex problem into cross-agency task forces with specific mechanisms like Trials.Cancer.Gov (ev_043). However, his dominant communication mode was concrete and narrative rather than systems-modeling or formal specification. Evidence shows he preferred value-based framing ('a commitment to America's seniors' - ev_001) and empirical enumeration ('2.5 million jobs, 11 million total' - ev_033) over formal constraint specification or interface definition. This suggests his abstraction skills were available for strategic planning but not his default operating mode for daily governance communication.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_021",
+        "ev_033",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through mechanism design, feedback constraints, and institutional boundary-setting rather than direct manipulation of each variable",
+      "finding": "Obama consistently preferred indirect control strategies that established constraints, incentives, and institutional boundaries rather than direct command-and-control. The Dodd-Frank framework exemplifies this: he used veto threats (ev_029) as boundary conditions, the CFPB as a feedback mechanism (ev_028: $11 billion recovered through institutionalized monitoring), and explicit 'no bailouts' rules as structural constraints. On the sequester, rather than demanding direct budget control, he advocated for 'balanced approach' as a meta-framework (ev_013) that would constrain future Congressional behavior through institutional logic. His debt ceiling position (ev_015) established an absolute boundary ('I will not negotiate') rather than trying to manage the negotiation process directly. This suggests Obama understood control as establishing conditions under which desired behaviors emerge, not micromanaging every outcome.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization was primary—willing to absorb significant political costs when structural goals were at stake, though with empathetic framing that acknowledged relational friction",
+      "finding": "Obama demonstrated consistent willingness to prioritize structural mission goals over relational comfort and political costs. He explicitly called out Congressional opposition ('Republicans have blocked minimum wage, equal pay' - ev_020) without softening language, issued veto threats against Wall Street Reform repeal (ev_029), and framed his executive actions as necessary despite legislative obstruction (ev_015, ev_019). The 'Year of Action' framing explicitly positioned Congressional opposition as the reason for unilateral action, accepting relational costs. However, his empathetic sequester messaging (ev_014: 'parents whose kids got kicked out of Head Start') suggests he understood mission pursuit as more sustainable when framed through human impact rather than abstract principle. His father's day reflection (ev_006) on personal absence may reflect genuine awareness of relational costs—but his policy behavior suggests he compartmentalized this awareness without letting it derail structural goals.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense posture—established clear non-negotiable boundaries for existential risks while remaining flexible on implementation details within those constraints",
+      "finding": "Obama's risk posture shows clear分层防御 characteristics. He distinguished acceptable from unacceptable risk domains explicitly: the debt ceiling was an absolute boundary ('the height of irresponsibility' - ev_015), while implementation details like sequester replacement were negotiable. His distinction between 'war with al-Qaeda' and respect for Islam (ev_012) represents sophisticated risk calibration—acknowledging threat while refusing to overgeneralize that threat category. On climate, he framed Paris Agreement as legacy infrastructure ('something to build upon' - ev_041) rather than experimental gamble, suggesting confidence in the intervention model despite inherent uncertainty. His approach to TPP combined acknowledgment of historical trade deal failures (ev_027) with assertion that systematic learning had occurred—positioning the new intervention as better-calibrated rather than risk-free. This indicates calibrated optimism rather than either risk-blind confidence or paralyzing uncertainty.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_027",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional direct-user—saw existing hierarchical structures as legitimate tools for coordination rather than obstacles to reform, deploying presidential authority within constitutional bounds",
+      "finding": "Obama consistently treated existing hierarchical structures as legitimate coordination mechanisms rather than obstacles. He invoked Congressional obstruction as contrary to 'founding fathers' intent' (ev_010), framing his resistance as restoring institutional proper function rather than dismantling hierarchy. The Silicon Valley partnerships (ev_037) and Presidential Innovation Fellows program (ev_043) represented horizontal institutional collaboration rather than vertical imposition—using existing government structure as platform. His executive orders (ev_017) were framed as filling legislative gaps rather than circumventing democratic legitimacy. The farewell address emphasis on civic participation 'not just when... our own narrow interest is at stake' (ev_046) positions him as someone who saw democratic hierarchy as legitimate scaffolding for collective action, not a structure requiring replacement. This suggests a functional relationship to hierarchy—as infrastructure enabling coordination, not a barrier to authenticity.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_037",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferentially translates conflicts into measurable terms for arbitration, escalating to institutional authority (vetoes, executive action) when translation fails, with negotiation as secondary fallback",
+      "finding": "Obama's conflict strategy prioritized translation—reframing political conflicts as empirical questions with measurable outcomes. The sequester conflict was translated into specific impact metrics: Head Start cuts, airport disruptions, military strain (ev_014). CFPB enforcement translated financial regulation conflicts into $11 billion recovered for 26 million consumers (ev_028). Iran nuclear deal was translated into specific dismantlement commitments (ev_034). When translation failed to move opponents, he escalated to institutional authority: veto threats (ev_029), executive orders (ev_017), and budget constraints. He attempted bipartisan framing ('not Democratic or Republican' - ev_008) and Coalition-building (AFL-CIO + Chamber of Commerce) as negotiation bridges, but these were secondary strategies when translation and authority escalation were available. Notably absent was splitting behavior—Obama consistently maintained positions rather than finding intermediate compromises, suggesting tolerance for sustained conflict when core frameworks were at stake.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_028",
+        "ev_029",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term structural focus with explicit rejection of short-term optimization—optimized for decade-scale capability building rather than electoral cycle",
+      "finding": "Obama's time horizon analysis shows striking consistency toward long-term structural investment. The Energy Blueprint targeted 2025 outcomes (ev_004)—a 14-year horizon from announcement. Climate policy was explicitly framed as legacy for children (ev_041). His economic vision centered on reversing 'decades-long erosion of middle-class jobs and incomes' (ev_024)—a generational time frame. The Cancer Moonshot was positioned against 45 years of incremental progress since Nixon's declaration (ev_042). He explicitly contrasted his approach with short-term optimization: dismissing 'drilling alone' as insufficient strategy (ev_005), advocating comprehensive tax reform rather than immediate stimulus (ev_013). Notably, when short-term political wins were available through his preferred policies (minimum wage, TPP), he accepted their non-passage as preferable to compromising long-term frameworks. This suggests Obama operated with mission-scale time horizons that treated electoral cycles as constraints to navigate rather than optimization targets.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_013",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over symptomatic treatment when confronted with systemic failures—willing to rebuild core assumptions rather than iterate on existing frameworks",
+      "finding": "Obama demonstrated consistent preference for structural intervention over incremental adjustment when facing systemic problems. His rejection of 'drilling alone' for energy security (ev_005) exemplifies this: rather than patching existing energy policy with more drilling permits, he insisted on multi-variable redesign including fuel efficiency, clean energy, and demand reduction. On financial regulation, Dodd-Frank was designed as comprehensive restructuring (consumer watchdog, ending 'too big to fail', structural constraints) rather than patching existing regulatory gaps. The 'balanced approach' to deficit reduction (ev_013) represented systemic redesign of spending-tax relationships rather than single-line-item cuts. Even when facing opposition that forced executive rather than legislative action, he framed these actions as establishing new structural conditions ('executive actions on jobs' - ev_019) rather than temporary fixes. The acknowledgment that 'past trade deals haven't lived up to hype' (ev_027) was explicitly used to justify TPP's redesigned labor and environmental standards—rebuilding the framework rather than patching the old one.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_013",
+        "ev_019",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness—demonstrated capacity to acknowledge uncertainty and external input but exhibited blind spots around epistemic overconfidence in persuasion mode",
+      "finding": "Obama showed meaningful but incomplete metacognitive awareness. His explicit attribution of accomplishments to the American people ('It's you—the American people' - ev_032) and personal growth acknowledgment ('You made me a better President' - ev_044) demonstrates awareness that presidential effectiveness depends on external conditions and feedback beyond his control. The farewell address reflection on learning from diverse experiences including disagreement ('whether we've seen eye-to-eye or rarely agreed at all' - ev_044) suggests metacognitive attention to how his perspective was shaped and limited. However, there are notable metacognitive blind spots: his confident declarative framing in public speeches ('America's resurgence is real' - ev_024, 'drilling alone is not a real strategy' - ev_005) suggests limited explicit acknowledgment of uncertainty when persuasion was the goal. The reliance on survey data citations (ev_023) shows some epistemic humility about needing external evidence, but this was situational rather than consistent. The tension between calibrated private/technical communication and confident public communication suggests Obama may have been aware of his epistemic calibration but chose persuasion-mode over transparent uncertainty-expression as a deliberate strategy—a metacognitive choice that itself represents a form of self-awareness about audience-dependent reasoning.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_023",
+        "ev_024",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "epistemic_audience_segmentation",
+      "definition": "The capacity to consciously modulate uncertainty expression based on audience composition—expressing high calibration with technical audiences while deploying confident declarations for mass persuasion, and understanding these as distinct communication modes rather than epistemic inconsistency",
+      "finding": "This pattern emerged strongly across Obama's communications: he referenced specific data (ev_011, ev_023), acknowledged historical failures (ev_027), and cited verifiable statistics when addressing policy audiences, but shifted to confident declarative framing ('America's resurgence is real') for mass communication. This suggests Obama understood uncertainty expression itself as a communicative tool with audience-specific costs and benefits—technical audiences reward epistemic humility while mass audiences respond to confidence—but may also represent a blind spot where the persuasion mode became default rather than conscious choice. This construct bridges epistemic_style and agency_orientation by explaining how world-shaping confidence operates alongside situational epistemic calibration.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_023",
+        "ev_024",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_resilience_confidence",
+      "definition": "Faith that existing constitutional and democratic structures contain sufficient error-correction capacity to handle collective action problems under adversarial conditions—treating institutional design as robust enough to survive bad-faith actors without requiring replacement",
+      "finding": "Obama consistently demonstrated faith that institutional structures could contain and correct for failures rather than requiring replacement. His debt ceiling position (ev_015) insisted on constitutional boundaries rather than negotiating, implicitly trusting that the design was robust. The 'founding fathers' invocation (ev_010) positioned constitutional intent as the correct operational guide, not as naive idealism. His government modernization approach (ev_037) worked within existing structures ('modernize the federal government') rather than proposing parallel institutions. The farewell call for sustained civic participation 'not just when... our own narrow interest is at stake' (ev_046) expressed confidence that democratic participation itself was sufficient corrective mechanism. This contrasts with either cynicism about institutions or revolutionary replacement impulses—Obama operated as an institutional optimist who trusted constitutional scaffolding to bear necessary weight even under bad-faith stress. This represents a form of meta-confidence about system-level error correction that sits above individual policy uncertainty.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

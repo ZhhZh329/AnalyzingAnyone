@@ -1,0 +1,168 @@
+{
+  "discipline": "philosophy",
+  "lens": "confucianism_kongzi",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Primarily role-fulfillment through relational duty rather than autonomous world-shaping",
+      "finding": "Obama's presidential agency manifests through fulfilling role obligations to various constituencies rather than imposing individual vision. His commitment to Medicare as a \"commitment to America's seniors\" (ev_001) reflects the Confucian understanding that one's role brings specific duties—here, the obligation to protect those who have 'worked your whole life.' Similarly, his articulation of restoring 'opportunity for all' (ev_018) frames agency as enabling others to fulfill their potential within a just social order. The farewell address's gratitude for how citizens 'made me a better President' (ev_044) further demonstrates relational agency: one's effectiveness emerges through relationships and the way others contribute to one's self-cultivation. This contrasts with a sovereign will-to-power model; Obama acts as trustee of responsibilities rather than architect of history.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_018",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Practical wisdom through experiential reflection; learning from concrete encounters",
+      "finding": "Obama's epistemic approach aligns with Confucius's unity of 学 (learning) and 思 (thinking)—observing what works and refining understanding through experience. His candid admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates self-aware assessment of historical experience, not ideological rigidity. The farewell address's iterated learning from diverse Americans—'living rooms and schools; at farms and on factory floors; at diners and on distant military outposts' (ev_045)—embodies Confucius's pedagogy of learning from concrete situations rather than abstract axioms. This contextual wisdom is further evidenced in his Silicon Valley partnerships for government modernization (ev_037): actively seeking external knowledge to supplement institutional understanding. His epistemic style favors empirical observation of what serves people, not predetermined doctrine.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_036",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low; preference for concrete narrative and contextual examples over systematic frameworks",
+      "finding": "Consistent with Confucius's non-systematic teaching style, Obama communicates through concrete imagery and specific stories rather than abstract political philosophy. His Memorial Day address mobilizes specific actions—'lay a flower or plant a flag,' 'reach out to a Gold Star Family,' 'send a care package' (ev_039)—rather than abstract principles of commemoration. The 2015 'Top 10 Things' list uses specific numbers: '2.5 million jobs,' '11 nations,' '18,000 foreign taxes eliminated' (ev_030, ev_033). His 'middle-out' economic philosophy is stated concisely without elaborate theoretical scaffolding (ev_021). This narrative concreteness reflects Confucian 权 (judgment in specific contexts) rather than applying universal formulas. Obama does not present grand ideological systems; he addresses particular circumstances with practical proposals.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_039",
+        "ev_033",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate; focused on institutional steering and policy infrastructure within appropriate bounds",
+      "finding": "Confucian control follows the pattern: self-cultivation → family regulation → national governance → world order. Obama demonstrates this progression—taking executive actions on wages (ev_017) within appropriate presidential authority, while repeatedly calling on Congress for broader legislation rather than unilateral override. His government modernization initiative (ev_037) shows interest in systemic improvement of institutional processes, not direct personal dominion. The refusal to negotiate debt ceiling (ev_015) reflects protection of foundational institutional integrity—the 'full faith and credit' of the nation—rather than personal power accumulation. His control orientation operates within role constraints: President controls executive branch, respects legislative separation, appeals to public for democratic mandate. This suggests Confucian governance sensibility: proper ordering requires each part fulfilling its function.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_015",
+        "ev_037",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-defensive when core principles threatened, otherwise relational-harmony seeking",
+      "finding": "Obama shows principled willingness to absorb relational costs when fundamental commitments are at stake: veto threats against Dodd-Frank repeal (ev_029), refusal to negotiate debt ceiling (ev_015), condemnation of Senate obstruction as contrary to 'founding fathers' intent' (ev_010). These demonstrate '见义不为，无勇也' (inaction when righteousness demands is cowardice). However, his dominant mode seeks relational harmony—bipartisan transportation bills (ev_008), celebrating bipartisan budget as 'Christmas miracles' (ev_048), framing policy appeals as 'not a Democratic or Republican issue' (ev_008). The 'Year of Action' (ev_015, ev_019) emerged specifically because relational approaches failed, representing justified escalation rather than default. His mission-relational balance reflects Confucian 中庸: firmness on core principles while seeking accord on implementation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_048",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Prudent calculation balanced with determined action when duty requires",
+      "finding": "Obama demonstrates Confucian prudence in not risking '暴虎冯河' (temerity without reflection). His energy strategy explicitly rejects 'drilling alone' as insufficient (ev_005), showing analytical caution about simplistic solutions. However, when duty calls, he acts decisively: refusing to negotiate over full faith and credit (ev_015) despite political risk, issuing veto threats (ev_029) even against powerful financial interests. The Veterans Day address (ev_038) shows his understanding of acceptable risk: sending troops 'only when absolutely necessary' while fulfilling obligations when deployment occurs. His balanced approach uses executive authority within legal bounds (ev_017, ev_019) rather than reckless overreach, reflecting Confucian wisdom that proper action requires reading the situation accurately.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_015",
+        "ev_038",
+        "ev_029"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Conditional hierarchical deference; power must be exercised within role obligations",
+      "finding": "Confucian hierarchy involves reciprocal obligations, not unilateral submission. Obama exhibits conditional deference to Congress—calling for action (ev_006), criticizing obstruction (ev_010, ev_020), yet respecting institutional processes. His refusal to negotiate debt ceiling represents hierarchy-with-condition: the Constitution requires debt ceiling increase, and no branch may leverage it. The Veterans Day address frames presidential power as obligation: 'no more solemn obligation than leading our men and women in uniform' (ev_038). His relationship to military hierarchy shows proper subordination—respecting chain of command while exercising constitutional authority as Commander-in-Chief. His power relations reflect 君君臣臣: each position has defined duties, and power serves those duties rather than itself.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_038",
+        "ev_015"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "、和而不同; persistent negotiation before escalation, principled when necessary",
+      "finding": "Obama exemplifies '君子和而不同' (exemplary person harmonizes without conforming): seeking bipartisan consensus while maintaining distinct positions. He builds broad coalitions—AFL-CIO and Chamber of Commerce together (ev_008)—demonstrating capacity to reconcile opposing interests without abandoning core commitments. When consensus fails, he escalates deliberately: veto threats (ev_029), executive orders (ev_017), public appeals. His condemnation of Senate blocking tactics (ev_010) challenges the 关系 without destroying it—criticizing obstruction as unbecoming of the institution rather than declaring permanent opposition. His conflict approach respects the relationship while correcting the behavior: maintaining democratic dialogue even amid disagreement.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_029",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term; intergenerational vision with sustained civic engagement across decades",
+      "finding": "Obama demonstrates the Confucian long view: thinking beyond electoral cycles to generational consequences. Medicare solvency extension by 12+ years (ev_002) shows multi-generational planning. Energy Blueprint targeting 2025 (ev_004) spans decade-long horizons. Climate policy explicitly frames legacy: 'leave a better, cleaner, safer future for our children' (ev_041). The Cancer Moonshot (ev_042-43) addresses 45 years of accumulated research building toward cure. Most significantly, the farewell address calls for 'full span of a lifetime' citizenship beyond elections (ev_046)—recognizing that democratic stewardship requires sustained commitment across time. His farewell declaration of continued optimism and ongoing civic participation (ev_047) embodies Confucian 修身 continuing beyond formal office.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Reform-through-institution; building on existing structures rather than destroying them",
+      "finding": "Obama consistently takes the '温故而知新' (review the old to discover the new) approach: improving existing systems rather than replacing them. The ACA builds on Medicare and existing insurance structures rather than creating new framework. Dodd-Frank strengthens existing regulatory apparatus. His government modernization uses Silicon Valley expertise to improve federal operations, not replace them (ev_037). Paris climate agreement 'builds upon' prior efforts (ev_041). Even executive actions like minimum wage increases work through federal contracting mechanisms rather than revolutionary restructuring. This aligns with Confucian gradualism: '不为已甚' (do not go to extremes), recognizing that sustainable reform requires working with human social arrangements as they exist.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_041",
+        "ev_029",
+        "ev_001"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High; consistent self-reflection along with knowledge of own role-boundaries",
+      "finding": "The Confucian principle '知之为知之，不知为不知，是知也' (knowing what you know and what you don't is true knowledge) appears in Obama's acknowledgment of trade policy limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). The farewell address demonstrates remarkable self-awareness: attributing effectiveness to others ('you made me a better President'), recognizing personal growth through encounter ('every day I learned from you'). His recognition of proper presidential boundaries—refusing to negotiate debt ceiling while respecting Congressional role—shows cognitive mapping of role constraints. His continued civic commitment after leaving office reflects ongoing self-cultivation: viewing life after presidency as continued 修身. This metacognitive capacity enables adaptive governance without ideological rigidity.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_047",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "仁政之民本关怀 (People-centered benevolence)",
+      "definition": "The extent to which governance serves the vulnerable and expands opportunity for ordinary citizens, reflecting Confucian '民惟邦本' (people are foundation of state) and the expansion of 仁 from family to polity",
+      "finding": "Obama consistently demonstrates elevated concern for the vulnerable: Head Start children, seniors on Meals on Wheels, veterans seeking employment, students facing loan rate doubling. His empathy framing—'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on programs like Meals on Wheels' (ev_014)—shows genuine identification with those experiencing hardship. The minimum wage executive order specifically targets workers who 'serve our troops' meals, wash their dishes, care for our veterans' (ev_017), connecting low-wage labor to service of national community. This 民本 orientation reflects 仁 expanding from familial to national scale: treating fellow citizens as objects of care and protection. The 'middle-out' economic philosophy (ev_021) further reveals people-centered concern: prosperity flows from strengthening ordinary workers, not from cultivating elite accumulation.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_017",
+        "ev_021",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "正名之宗教边界意识 (Rectification of names in religious-tolerance)",
+      "definition": "Precise conceptual distinction between legitimate and illegitimate associations, particularly regarding religious identity and political conflict—a specific application of 正名 demanding accurate naming of actors and actions",
+      "finding": "Obama demonstrates sophisticated application of 正名 in foreign policy framing: 'America is at war with al-Qaeda and its affiliates—and we will never be at war with Islam or any other religion' (ev_012). This statement corrects a potential category error—associating terrorist organization with world religion—that could damage America's moral standing and diplomatic relationships. The precision of this distinction reflects Confucian concern that '名不正则言不顺' (names not rectified then statements don't follow). By clearly separating al-Qaeda from Islam, Obama preserves both accurate political categorization and the relational framework necessary for Muslim-American community relations. This contrasts with crude conflations that confuse religious identity with violent political movements, potentially creating unnecessary social conflict through imprecise language.",
+      "evidence_ids": [
+        "ev_012"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Dualism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

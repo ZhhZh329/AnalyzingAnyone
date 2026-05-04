@@ -1,0 +1,178 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_systems_communication_information_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who actively restructures information channels, initiates new systems, and issues direct challenges rather than waiting for external conditions to align",
+      "finding": "Obama consistently operates as a world-shaper across multiple domains. He issued executive orders when Congressional action stalled (ev_017, minimum wage for federal contractors), announced cross-sector initiatives (Clean Fleets Partnership with UPS, FedEx, AT&T in ev_004), challenged private industry with specific targets (100,000 veteran hires in ev_009), and created new institutional frameworks like the Presidential Innovation Fellows program (ev_043). His 'Year of Action' framing in 2014 (ev_019) explicitly positioned him as the initiating force when institutional channels failed. Rather than adapting to existing structures, he systematically attempted to restructure information channels, incentive systems, and coordination mechanisms.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded but narratively framed; demonstrates awareness of data limits and credits collective intelligence over individual certainty",
+      "finding": "Obama's epistemic approach combines empirical grounding with narrative integration rather than pure data-driven analysis. He cites specific statistics (11 million jobs over 57 months in ev_025, $11 billion recovered for 26 million consumers in ev_028) but consistently wraps data in interpretive frames and moral context. Notably, he displays epistemic humility about his own judgments: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) and in his farewell address, credits the American people as the source of his learning: 'Every day, I learned from you. You made me a better President' (ev_044). This suggests an epistemic style that treats knowledge as co-constructed rather than individually possessed, valuing feedback loops and empirical correction.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_044",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization; creates conceptual frameworks and systematic categories but relies heavily on narrative scaffolding rather than pure abstraction",
+      "finding": "Obama shows a distinctive pattern of abstraction tempered by narrative access. He develops conceptual frameworks like 'middle-out economics' (ev_021) and 'opportunity for all' (ev_018) as organizing principles, and employs systematic enumeration (Top 10 accomplishments list in ev_033, explicit categories in weekly addresses). However, he consistently grounds abstraction in concrete particulars—personal anecdotes about coaching his daughter's basketball team (ev_007), specific stories of Head Start parents losing slots (ev_014), tangible calls to action like sending care packages to troops (ev_039). This suggests moderate rather than strong formalization preference; he uses abstraction to compress and organize but relies on narrative to maintain transmission fidelity across diverse audiences.",
+      "evidence_ids": [
+        "ev_007",
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_033",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High information channel control; systematically manages message framing, refuses to yield control of core signal definitions, and uses institutional position to shape information architecture",
+      "finding": "Obama demonstrates strong control orientation in his systematic management of information channels. He refuses to negotiate over 'full faith and credit of the United States' (ev_015), issues definitive veto threats on Dodd-Frank (ev_029), and consistently frames issues before opposition can establish competing narratives. His weekly address format represents a controlled channel he dominates week after week. He also strategically controls information flow by inviting unusual coalitions (AFL-CIO and Chamber of Commerce together in ev_008) and positioning himself as the neutral arbiter of bipartisan necessity. This pattern suggests someone who treats communication architecture as a controllable system to be actively managed rather than a neutral medium.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_029",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Primarily mission-driven but with notable exceptions; willing to absorb relational costs when core commitments are at stake, yet actively seeks coalition-building to reduce friction",
+      "finding": "Obama's mission orientation is strong but contextually modulated. He takes significant relational costs when confronting opponents: condemning Senate obstruction as contrary to founders' intent (ev_010), explicitly listing Republican blocking actions (ev_020), and refusing to negotiate on debt ceiling under any circumstances (ev_015). However, he simultaneously pursues broad coalition-building to reduce friction—invoking AFL-CIO and Chamber of Commerce together (ev_008), citing surveys of small business owners supporting minimum wage (ev_023), and framing issues as 'not a Democratic or Republican issue' (ev_008). This suggests a strategic mission orientation that treats relationship management as a tool for goal advancement rather than an independent value, achieving compression of opposition through inclusive framing rather than pure confrontation.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_023"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with high uncertainty tolerance on major initiatives; accepts political costs of controversial but principled positions while avoiding speculative gambles without defined exit parameters",
+      "finding": "Obama demonstrates calculated risk acceptance on signature initiatives while maintaining low tolerance for undefined exposure. The auto industry rescue (ev_022) represents significant political risk he accepted based on defined parameters and measurable outcomes. His Iran nuclear deal framing (ev_034) and Paris climate agreement (ev_041) show willingness to commit to complex multilateral frameworks with long time horizons. However, he avoids pure gambles—his approach to trade (ev_026-027) acknowledges past failures while building in enforcement mechanisms, and his sequester warnings emphasize predictable harms rather than speculative benefits. He explicitly framed deficits as already falling (ev_016), showing comfort with empirical uncertainty in service of argument. This suggests calibrated risk-taking with defined parameters rather than high-variance bets.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_022",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Uses hierarchy instrumentally as a coordination mechanism; views Presidential power as a platform for collective problem-solving rather than personal dominance",
+      "finding": "Obama treats hierarchical position as a coordination tool and signal amplifier rather than a dominance mechanism. He uses Presidential authority to convene unlikely coalitions (ev_008), to issue challenges that activate distributed action (ev_009, veteran hiring), and to model behavior (federal contractor minimum wage in ev_017). Notably, in his SXSW announcement (ev_036-037), he positioned government as a platform requiring modernization from external expertise rather than an apex hierarchy. His farewell address (ev_044-047) frames his role as enabler of collective American agency rather than personal accomplishment. This suggests a view of hierarchy as information routing and coordination infrastructure rather than command authority—using positional power to improve signal transmission across the system rather than to override it.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_017",
+        "ev_036",
+        "ev_037",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translates conflict into structural/procedural terms rather than personal confrontation; uses signal clarification and rule-setting over direct emotional engagement",
+      "finding": "Obama's conflict strategy consistently translates interpersonal or partisan disputes into structural or procedural frames, avoiding direct confrontation while maintaining firm positions. When confronting Senate obstruction, he frames it as contrary to founders' intent (ev_010) rather than personal attack. On the debt ceiling, he states principle without attacking opponents (ev_015). On Dodd-Frank, he issues veto commitment rather than debating opponents (ev_029). His 'Year of Action' framing (ev_019-020) positions Republican opposition as procedural obstruction without personalized critique. This represents a strategy of reducing conflict to signal clarification—establishing clear rules and boundaries rather than engaging emotional or relational dimensions. The approach prioritizes reducing future noise in the communication channel over winning current battles.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale optimization with clear long-term infrastructure projects; willing to make investments with 10+ year payoff horizons while maintaining short-term narrative accessibility",
+      "finding": "Obama's time horizon spans mission-scale with distinctive patience for long-term infrastructure. His energy blueprint targets 2025 (ev_004), his Afghanistan transition extends to 2014 (ev_010), and he explicitly references the longest Medicare solvency extension in history (ev_002). The Paris climate agreement (ev_034, ev_041) represents a generational time horizon commitment. His Cancer Moonshot (ev_042-043) explicitly builds on 45 years of prior infrastructure. However, he maintains short-term accessibility through weekly addresses, urgent deadline framing (7 days, 8 days in ev_011), and year-end summaries. This dual-horizon management suggests optimization for structural change with 10-50 year payoffs while using short-term messaging to maintain transmission coherence. He builds institutional capacity (Presidential Innovation Fellows, Silicon Valley partnerships) as long-term infrastructure investments.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_010",
+        "ev_011",
+        "ev_034",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate rebuild preference; shows willingness to create new institutional structures when existing ones fail but demonstrates pragmatic patching when complete rebuild is blocked",
+      "finding": "Obama shows dual patterns: preference for structural solutions when possible, with pragmatic adaptation when blocked. His signature achievements (ACA, Dodd-Frank, Iran deal, Paris agreement) represent structural builds—new institutional frameworks with long-term design. The Cancer Moonshot (ev_042-043) explicitly builds new cross-agency coordination infrastructure. However, when Congressional obstruction blocked comprehensive reform, he pivoted to executive action patching (20+ actions in ev_019). This represents a hybrid strategy: pursue structural rebuild when political conditions allow, implement modular patches to maintain system function when complete redesign is blocked. His 'not a Democratic or Republican issue' framing (ev_008) attempts to re-engineer the political channel itself to enable future structural solutions. The pattern suggests someone who recognizes rebuild costs but accepts them when patchwork reaches diminishing returns.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_019",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of feedback effects, gratitude for correction, and calibrated confidence based on collective intelligence",
+      "finding": "Obama demonstrates notable metacognitive sophistication across multiple dimensions. He explicitly acknowledges feedback effects: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), framing his epistemic process as responsive to external input. He shows awareness of his own position limits: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He credits collective achievement over individual agency (ev_032: 'All of this progress is because of you') and explicitly calls for civic participation 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). His acknowledgment of uncertainty—'Pick any metric you want' (ev_024)—suggests awareness that all measurement systems have limitations. This metacognitive pattern indicates he actively monitors his own reasoning for blind spots and explicitly structures feedback loops into his decision-making model.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "signal_amplification_across_diverse_receivers",
+      "definition": "The capacity to maintain signal integrity and coherence while simultaneously transmitting across audiences with vastly different prior knowledge, contextual frameworks, and reception capacities—like a communication system that must maintain fidelity across a channel with variable noise profiles. This goes beyond compression to address the receiver-side challenge of maintaining meaning across heterogeneous audiences.",
+      "finding": "Obama demonstrates exceptional capacity for signal amplification across diverse receiver populations. His speeches systematically address multiple audiences within unified messages: economic populists and business community (ev_008), veterans and general public (ev_007, ev_038-039), partisan opponents and supporters (ev_015, ev_020), domestic and international (ev_034, ev_041). He achieves this through consistent anchoring in shared values rather than technical detail, use of personal narrative as universal access point (ev_006, ev_007), and framing issues as nonpartisan where possible (ev_008). His 'Top 10 Things' year-end format (ev_033) represents a deliberate receiver-side design choice—compressing a complex year into universally accessible categories. The evidence suggests someone who thinks about the entire communication channel, including receiver heterogeneity, not just transmission efficiency.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_008",
+        "ev_033",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "redundancy_as_resilience_infrastructure",
+      "definition": "The intentional introduction of controlled redundancy to ensure message survival across degraded transmission conditions—recognizing that some redundancy is not noise but signal preservation infrastructure. This addresses the tension between compression efficiency and resilience against channel disruption.",
+      "finding": "Obama's communication strategy reveals sophisticated redundancy management. He builds redundancy through multiple transmission channels (weekly addresses, major speeches, executive actions, public events), through coalition signals (AFL-CIO AND Chamber of Commerce in ev_008), and through value-layer repetition (various expressions of 'opportunity,' 'middle-class,' 'Americans' across contexts). His consistent attribution of progress to collective action ('because of you' in ev_032, ev_044) creates redundancy at the causal attribution layer—multiple audiences can find themselves in the narrative. His farewell address (ev_045) explicitly lists diverse proof points (Joplin, Boston, cancer survivors) as reinforcing signals for a single claim about American resilience. This pattern suggests he recognizes that some apparent redundancy serves resilience functions—ensuring core signal survives channel degradation, audience attention lapses, and partisan interference. He does not pursue maximum compression at the cost of fault tolerance.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

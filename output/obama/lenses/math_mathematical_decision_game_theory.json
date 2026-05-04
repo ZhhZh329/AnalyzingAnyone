@@ -1,0 +1,188 @@
+{
+  "discipline": "math",
+  "lens": "mathematical_decision_game_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who actively designs incentive structures and commitment mechanisms rather than merely responding to external constraints",
+      "finding": "Obama demonstrates high agency orientation through deliberate use of executive actions to shape actor behavior across multiple domains. In evt_014 and evt_015, he directly mandated federal contractors pay $10.10 minimum wage, creating direct incentive alignment. His vetocracy challenges (ev_010) and refusal to negotiate on debt ceiling (ev_015) show he defines negotiation space rather than merely responding to Congressional positions. The veteran hiring challenge (ev_009) exemplifies his approach of issuing quantitative targets to private actors, creating accountability mechanisms. His 'Year of Action' framing (evt_015) explicitly positions himself as the primary driver when legislative path is blocked. Notably, he frequently cites bipartisan coalitions (ev_008) not as passive response but as strategic signal to delegitimize opposition—bringing AFL-CIO and Chamber of Commerce together serves to reframe transportation funding as non-partisan, reshaping the political field.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_010",
+        "ev_015",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strategically conditional reasoning that systematically incorporates multiple actors' perspectives, anticipated responses, and payoff structures into decision calculus",
+      "finding": "Obama's epistemic approach demonstrates strong interactive awareness—he consistently frames issues in terms of multi-party payoff structures. In ev_013 he explicitly states preferred policy emerges from 'balanced' assessment of competing interests. His debt ceiling position (ev_015) shows conditional reasoning: 'if X then Y' logic where he conditions his behavior on Congressional action. His TPP framing (ev_031) demonstrates strategic awareness of third-party competition—framing trade deal not just as economic policy but as competitive positioning against China writing global rules. He regularly marshals quantified evidence (ev_011: specific deadlines and affected populations; ev_025: 11 million jobs; ev_028: $11 billion recovered for 26 million consumers) to shape audience beliefs about incentive structures. The consistent pattern of citing survey data (ev_023: small business owners supporting minimum wage) signals he internalizes that public opinion shapes political equilibrium.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_015",
+        "ev_023",
+        "ev_028",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization tendency—translates complex governance problems into quantifiable metrics and programmatic frameworks with clear outcome definitions",
+      "finding": "While Obama does not deploy formal mathematical notation, his policy communication demonstrates structured thinking that translates governance into measurable payoffs. He consistently operationalizes success through specific metrics: job creation numbers (ev_025: 57 months of growth, ev_033: specific monthly figures), healthcare coverage rates (ev_033: uninsured below 10%), energy production (ev_040: wind tripled, solar 30x). The 'Middle-out' economic philosophy (ev_021) represents abstracted framework linking aggregate demand to policy interventions. His sequestration critique (ev_014) humanizes by specifying Head Start parents, Meals on Wheels seniors, military families—converting policy abstraction back to individual-level payoffs. This oscillation between macro-level frameworks and micro-level specificity demonstrates ability to navigate multiple abstraction levels, critical for game-theoretic reasoning about how policies reshape incentive landscapes across different actor types.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High control orientation exercised primarily through institutional mechanism design and credible commitment devices rather than direct command",
+      "finding": "Obama's control orientation manifests through systematic institutional design and commitment technology. The CFPB creation (ev_028) exemplifies mechanism design—creating independent watchdog with specific mandate and enforcement power to reshape banking incentives long-term. His veto threat on Dodd-Frank repeal (ev_029) demonstrates use of constitutional commitment device to lock in policy gains. The Cancer Moonshot (evt_026, ev_042, ev_043) shows cross-agency coordination architecture using Presidential Innovation Fellows to solve information asymmetry problems in clinical trial matching. Notably, when legislative control is unavailable (evt_015), he shifts to executive action—compensating through different control mechanism. The transportation bill urgency (ev_011 with countdown framing) uses temporal pressure as control device. His consistent emphasis on 'balance' (ev_013) and 'bipartisan' coalitions suggests he prefers control through consensus legitimacy rather than raw authority exercise.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_028",
+        "ev_029",
+        "ev_042",
+        "ev_043",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission orientation—willing to accept significant political relational costs and opposition when core policy commitments are at stake",
+      "finding": "Obama consistently prioritizes core policy missions over relational comfort with opponents. His explicit refusal to negotiate on debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States') demonstrates willingness to risk confrontation rather than compromise foundational commitments. The ACA passage despite unified GOP opposition shows mission override of bipartisan relational capital. His 2013-14 confrontations with Congress over minimum wage, equal pay, unemployment insurance (ev_020: 'Republicans in Congress have blocked...') show naming-and-shaming strategy accepting relational cost. However, his personal rhetoric maintains warm relational framing (ev_044 farewell: 'whether we've seen eye-to-eye or rarely agreed at all')—separating policy conflict from personal dimension. His Veterans Day address (evt_007) shows selective mission prioritization—focused on specific post-9/11 veteran population rather than general veteran services. The 'Year of Action' framing accepts political costs as necessary consequence of blocked legislative path.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_044",
+        "ev_001",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with clear identification of acceptable losses—pursues high-upside policy gambits while establishing defensive commitments to prevent catastrophic outcomes",
+      "finding": "Obama's risk calculus reflects strategic equilibrium thinking. The ACA represents high-upside bet accepting political risk for transformational policy—if politically costly if failed. The sequester confrontation (ev_013, ev_014) shows risk identification with documented harm trajectories, using credible threat of bad outcomes to force negotiation. His nuclear deal with Iran (ev_034) demonstrates acceptance of verification risk for non-proliferation gains. However, he consistently establishes defensive commitments to prevent catastrophic scenarios: debt ceiling refusal (ev_015) prevents default risk; Dodd-Frank veto threat (ev_029) prevents financial reform rollback; Paris climate defense (ev_041: 'not something to tear up') guards against reversal. His farewell framing (ev_045: 'neighbors looking out for each other...rescued our economy') positions risk-taking as collective rather than personal. The sequester communications systematically detail consequences (ev_014: Head Start cuts, Meals on Wheels, military strain) to make abstract risk concrete—risk communication as strategic tool.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_015",
+        "ev_029",
+        "ev_034",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated power strategist who understands both formal authority limits and informal commitment/credibility mechanisms within institutional constraints",
+      "finding": "Obama demonstrates nuanced understanding of power asymmetry in political games. His acknowledgment of Senate obstruction (ev_010: 'One senator gumming up the works...is certainly not what our founding fathers envisioned') shows awareness of formal/informal power divergence. He frequently operates around Congressional constraints: executive orders, administrative actions, and leveraging public persuasion when formal authority is blocked (ev_020). His power calculus includes reputational assets: CFPB as institutional power center independent of political cycles (ev_028), veterans hiring challenge using public accountability (ev_009). The veto commitment (ev_029) uses formal power as credibility device—making commitment costly to signal seriousness. His father's day address (evt_005, ev_006, ev_007) showing personal vulnerability represents strategic softening of hierarchical image to build connection capital. The Silicon Valley partnership for government modernization (evt_023) shows coalition-building with non-traditional power centers. His consistent emphasis on 'balance' and 'bipartisan' reflects understanding that unilateral power exercise degrades legitimacy assets.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_028",
+        "ev_029",
+        "ev_009",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Preferring credible commitment and public positioning over escalation, but capable of firm standoffs when core interests threatened—mixed strategy with selective escalation",
+      "finding": "Obama's conflict strategy reflects equilibrium maintenance rather than pure escalation. Primary mode is credible commitment through public declaration: debt ceiling 'will not negotiate' (ev_015), veto threat on Wall Street reform repeal (ev_029), veto of comprehensive immigration reform alternatives (implied through 'Year of Action' framing). He uses delay strategically: sequester warnings building to crisis pressure (ev_011 countdown framing: '7 days,' '8 days'). When conflict does arise, he frames it structurally: Republican obstruction (ev_020) rather than personal vendetta—conflict as institutional dysfunction not partisan war. However, his repeated naming of specific Republican blocking actions (ev_020: 'no to raising minimum wage...no to equal pay...no to unemployment insurance') represents calculated escalation designed to shape public opinion equilibrium. The Iran nuclear deal shows sophisticated conflict translation—converting potential military conflict into negotiated equilibrium with verification mechanisms. His Memorial Day framing (evt_024) shows conflict management through commemoration ritual—channeling conflict tension into collective remembrance.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_011",
+        "ev_038",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong repeat-game orientation with explicit long-term thinking—invests in institutional mechanisms and reputation for credibility despite short-term political costs",
+      "finding": "Obama demonstrates pronounced long-horizon thinking consistent with repeat game strategy. The ACA solvency extension (ev_002: '12+ years') explicitly frames policy in generational timeframes. His deficit trajectory communication (ev_016) situates current policy within historical WWII comparison—long-run fiscal sustainability. The Paris climate agreement (ev_041: 'leave a better, cleaner, safer future for our children') explicitly frames intergenerational payoff function. His public investment in institutional mechanisms—CFPB, Clean Energy standards, regulations with long implementation timelines—reflects designing for equilibrium persistence beyond immediate political cycle. His veto commitment (ev_029) explicitly protects against future repeal—protecting accumulated policy capital. The farewell address (evt_027) shows explicit meta-awareness of time horizon: 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). The auto industry rescue (ev_022) shows delayed payoff—accepting short-term criticism for long-term industry revival. This long-horizon orientation is particularly notable given political pressure for short-term wins.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_022",
+        "ev_029",
+        "ev_041",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental adjustment when confronting systemic problems—willing to accept political costs for comprehensive reform",
+      "finding": "Obama demonstrates clear preference for structural solutions over patches when facing systemic dysfunction. The ACA represents complete healthcare system redesign rather than incremental coverage expansion. Dodd-Frank (evt_002, evt_020) constitutes comprehensive financial regulatory restructuring—ending 'too big to fail,' creating new watchdog institutions, establishing consumer protections as structural features. His 'balanced approach' rhetoric (ev_013) explicitly rejects isolated spending cuts in favor of comprehensive tax-and-spending reform package—addressing structural deficit rather than symptomatic treatment. When patches are used, they are explicitly positioned as insufficient substitutes: sequester fixes (ev_012) acknowledged as temporary; executive actions (ev_019) framed as compensation for legislative failure. The Cancer Moonshot (evt_026) represents systemic approach to research-innovation-treatment pipeline rather than isolated funding increases. Energy Blueprint (evt_004) integrates multiple policy levers—domestic drilling, fuel efficiency, clean energy—for comprehensive energy security. Only when structural solutions blocked does he resort to executive action patches—but frames these as 'Year of Action' implying continued structural ambition.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_013",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness—demonstrates explicit understanding of his own role in political equilibrium and the strategic nature of his own communication",
+      "finding": "Obama shows sophisticated metacognitive reflection on political dynamics and his own positioning within them. His farewell address (evt_027) demonstrates explicit meta-awareness: 'my conversations with you...are what have kept me honest, kept me inspired, and kept me going' (ev_044)—recognizing his own beliefs are shaped through interactive feedback, not isolated reflection. He explicitly acknowledges iterative learning: 'Every day, I learned from you' (ev_044), framing presidency as ongoing information update process. His 'America's resurgence is real' framing (ev_024) shows self-aware political narrative construction—taking stock of accomplishments as strategic communication for collective efficacy. The explicit call for civic participation beyond elections (ev_046) demonstrates understanding that political equilibrium requires ongoing citizen engagement as player, not just periodic voting. His acknowledgment that past trade deals 'haven't always lived up to the hype' (ev_027) shows self-corrective framing—admitting his own previous positions were imperfect without abandoning current approach. The 'love won' framing (ev_035) for same-sex marriage demonstrates sophisticated reframing of complex policy shift into accessible narrative. This metacognitive capacity supports strategic calibration of communication to audience beliefs and anticipated responses.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_024",
+        "ev_046",
+        "ev_027",
+        "ev_035",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "credible_commitment_architecture",
+      "definition": "Obama demonstrates systematic deployment of irreversible commitments and institutional designs that persist beyond his direct authority—protecting accumulated policy gains from future reversal through constitutional mechanisms, veto threats, and institutionalized interest coalitions",
+      "finding": "This emergent dimension captures Obama-specific pattern of commitment technology beyond standard game theory constructs. His Dodd-Frank veto threat (ev_029) uses constitutional power as commitment device to make future repeal costly. CFPB institutional design (ev_028) creates constituency for consumer protection that survives political cycles. Paris climate agreement (ev_041: 'not something to tear up') signals international treaty as commitment anchor. Iran nuclear deal leverages international monitoring as enforcement mechanism. The sequester warnings (ev_014) documented real human costs to build constituency for replacement—creating political sunk costs that constrain future options. This 'commitment architecture' pattern suggests Obama internalizes that game-theoretic equilibria require not just current strategies but commitment mechanisms that make current positions sustainable in future periods where his direct authority may be reduced. His farewell address explicitly invokes this: ACA implementation as 'proudest achievement'—recognizing implementation is commitment mechanism for persistence. This dimension extends beyond standard 'time_horizon' by focusing on active design of commitment mechanisms rather than just long-term thinking.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_029",
+        "ev_041",
+        "ev_014",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "adversarial_partnership_framing",
+      "definition": "Obama systematically frames political opponents as legitimate adversaries whose cooperation is sought within cooperative framework—transforming conflict from personal to procedural dimension while maintaining respect for opponent role",
+      "finding": "Obama's rhetorical strategy consistently positions Congressional Republicans as 'adversaries' rather than enemies—legitimate opponents whose cooperation is structurally desirable. His Father's Day address (evt_005) demonstrates vulnerability-sharing to soften perceived power asymmetry. His transportation bill framing (ev_008) invoked AFL-CIO and Chamber of Commerce as coalition partners—using business-labor alliance to legitimize position. The debt ceiling refusal (ev_015) used patriotic framing ('not a deadbeat nation,' 'world's bedrock investment') rather than partisan attack—positioning default risk as threat to national standing all parties should avoid. His sequester critique (ev_014) emphasized human costs rather than political blame—maintaining moral high ground. His Senate obstruction critique (ev_010) blamed 'tactics' rather than individuals—transforming conflict from personal to procedural level. This 'adversarial partnership' framing allows conflict escalation without relationship destruction—maintaining future cooperation possibility while extracting immediate concessions. His farewell 'whether we've seen eye-to-eye or rarely agreed at all' (ev_044) explicitly confirms this pattern—maintaining relationship respect despite policy opposition. This differs from pure conflict_strategy by emphasizing relational maintenance within adversarial context rather than just conflict management techniques.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_015",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

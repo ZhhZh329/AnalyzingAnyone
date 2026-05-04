@@ -1,0 +1,164 @@
+{
+  "discipline": "economics",
+  "lens": "information_and_incentives_spence",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation demonstrated through systematic use of executive authority and public commitment to drive policy outcomes",
+      "finding": "Obama consistently acted as a world-shaper within the signaling framework of presidential politics. Rather than merely responding to Congressional signals or public opinion, he actively constructed costly signals designed to shape opponent behavior and establish commitment credibility. The 'Year of Action' initiative (ev_019) explicitly demonstrates this orientation: when legislative signals from Congress indicated blockage, he responded by escalating executive signaling to differentiate his commitment level from Congressional inaction. His multiple veto threats (ev_029 on Dodd-Frank, implied on other legislation) functioned as world-shaping signals intended to foreclose certain legislative paths. This pattern reveals revealed preferences that favor active construction of the policy environment over passive response to institutional signals.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_015",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Calibrated empiricist with strong preference for verifiable metrics as commitment devices",
+      "finding": "Obama's epistemic style demonstrates consistent reliance on specific, verifiable metrics as both informational anchors and commitment signals. His speeches repeatedly cite hard numbers—11 million jobs created (ev_025), $11 billion recovered for consumers (ev_028), 26 million consumers helped (ev_028), 57 consecutive months of job growth (ev_025)—that function simultaneously as credible claims about policy outcomes and as costly commitment signals because these numbers are verifiable. Notably, he shows calibrated epistemic humility regarding historical trade deals: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This self-correction signal suggests awareness that his own prior signaling may have been overoptimistic, which itself functions as a meta-signal about his epistemic reliability. The pattern indicates a preference for beliefs grounded in verifiable outcomes rather than ideological positions, treating measurable results as the primary separation mechanism from political opponents.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_027",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate preference for systematic frameworks within specific policy domains rather than generalized formalization",
+      "finding": "Obama's abstraction orientation operates contextually rather than uniformly. He demonstrates clear systematization in economic policy—he articulated the 'middle-out' economic philosophy (ev_021) as a coherent framework and consistently framed policy through the 'level playing field' metaphor for financial regulation (ev_003). However, his abstraction appears bounded by domain-specificity rather than applied as a universal formalization tool. On issues like healthcare and financial reform, he operationalized complex systems into clear institutional designs (ACA, Dodd-Frank, CFPB). Yet his communication style favors concrete examples and human stories over abstract formalization when addressing the public. The Cancer Moonshot (ev_042, ev_043) represents a notable exception—a formalized cross-agency coordination framework with specific metrics and technological infrastructure. This suggests situational formalization when the problem structure demands systematic approaches, rather than habitual abstraction as a cognitive default.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_003",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation expressed through institutional design, measurable commitments, and strategic use of executive authority",
+      "finding": "Obama's control orientation manifests primarily through institutional design and measurable commitment mechanisms rather than direct personal control. His signature policies—ACA, Dodd-Frank, Clean Power Plan—functioned as structural control devices designed to constrain future political actors and lock in policy outcomes through institutional architecture. The CFPB creation (ev_028) exemplifies this: an independent agency with structural independence to enforce consumer protection regardless of political cycles. His executive orders on minimum wage (ev_017) represent direct control exercises within executive authority. The consistent use of specific deadlines and quantified targets—'seven days away' (ev_011), '100,000 veterans by 2013' (ev_009)—reveals preference for control through measurable accountability. Notably, his control orientation includes self-binding statements: 'I will not negotiate over the full faith and credit of the United States' (ev_015). This functions as a costly commitment device designed to remove his own flexibility and thereby constrain opponent expectations, revealing sophisticated understanding of how control signals operate in strategic settings.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_028",
+        "ev_009",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Moderate-to-strong mission prioritization with significant but bounded relational costs, constrained by institutional legitimacy requirements",
+      "finding": "The evidence for sustained relational cost-taking is moderate and somewhat constrained by Obama's institutional role as president. His 'Year of Action' initiative (ev_015, ev_020) demonstrates willingness to publicly criticize Congressional opponents and bypass legislative channels when relational negotiation failed. The explicit framing—'Republicans in Congress have blocked or voted down every serious idea' (ev_020)—accepted relational costs with political opponents to signal commitment credibility to his coalition. However, this mission prioritization operated within bounds: his signaling consistently sought bipartisan cover when available (ev_008: AFL-CIO and Chamber of Commerce together), and his veto threats were reserved for core priorities rather than deployed universally. The personal narrative signals (ev_006, ev_007 about fatherhood) served relational purposes that actually reinforced mission credibility by demonstrating authentic connection to constituent concerns. The absence of clear evidence for sustained, systematic reputational sacrifice—where he repeatedly burned relationships for mission—suggests mission orientation tempered by recognition that presidential power depends partly on maintaining broad institutional legitimacy.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_020",
+        "ev_008",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with structured approaches to uncertainty, preferring institutional mechanisms to reduce risk rather than pure risk acceptance",
+      "finding": "Obama's risk posture reflects calculated engagement with uncertainty rather than either risk-seeking or risk-aversion. He consistently framed risks in terms of inaction costs—'nearly 1 million jobs over next year' (ev_006), '7.5 million students seeing their loan rates double' (ev_011)—functioning as risk signals designed to mobilize action. His decision to push TPP despite acknowledging that 'past trade deals haven't always lived up to the hype' (ev_027) reveals willingness to accept epistemic risk for potential gains. The Iran nuclear deal and Paris climate agreement (ev_034) represent high-uncertainty, high-stakes commitments with long time horizons. However, his risk posture consistently channels uncertainty through institutional mechanisms: he sought Congressional authorization for TPP (ev_026), structured Dodd-Frank to prevent future bailouts (ev_002, ev_029), and established independent agencies like CFPB to manage ongoing regulatory risk (ev_028). Rather than pure risk acceptance, he prefers designing institutions that shift risk allocation and create structural constraints against worst-case outcomes. This reveals sophisticated risk management through governance design rather than either bold risk-taking or conservative hedging.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_011",
+        "ev_027",
+        "ev_002",
+        "ev_028",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy user who leverages formal authority strategically but frames power through democratic legitimacy rather than raw hierarchical assertion",
+      "finding": "Obama's relationship to hierarchy and power operates through strategic institutional deployment rather than hierarchical assertion as a primary mode. As president, he systematically used formal authority—veto threats (ev_029), executive orders (ev_017), and direct presidential commitments (ev_001)—as commitment devices in the signaling game with Congress and the public. His refusal to negotiate over the debt ceiling (ev_015) represents strategic use of hierarchical position to foreclose certain negotiation paths. However, his power signaling consistently sought democratic legitimation: he invoked broad coalitions (ev_008: AFL-CIO and Chamber of Commerce), cited survey data from small business owners (ev_023), and frequently attributed accomplishments to collective action (ev_032: 'It's you—the American people'). This pattern suggests hierarchical power is instrumentally deployed to solve collective action problems and establish credible commitments, rather than exercised as an end in itself. The Cancer Moonshot (ev_042, ev_043) illustrates this: he delegated hierarchical authority to Biden while creating cross-agency coordination mechanisms that diffuse rather than concentrate power. His hierarchy use serves signaling purposes—demonstrating commitment capacity through positional authority—while maintaining rhetorical framing of democratic accountability.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_029",
+        "ev_008",
+        "ev_032",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating conflict through public pressure and reputation management rather than direct negotiation or escalation",
+      "finding": "Obama's conflict strategy demonstrates sophisticated translation of partisan conflict into public accountability signals. Rather than direct negotiation with opponents (which he framed as blocked), he consistently escalated conflicts to the public level as reputation tests. His critique of Senate obstruction—'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)—functioned as a public signal designed to impose reputational costs on obstructing senators. His enumeration of blocked initiatives—'They've said 'no' to raising the minimum wage, 'no' to equal pay, 'no' to restoring unemployment insurance' (ev_020)—created a public record designed to separate his commitment type from Congressional opponents. The veto threat on Dodd-Frank (ev_029) represents direct conflict escalation as a commitment device, but deployed strategically rather than habitually. His conflict with Congressional Republicans was largely conducted through public address rather than back-channel negotiation, treating the public as the screening audience for commitment credibility. This approach reveals preference for building separating equilibria through public reputation rather than negotiating mixed equilibria through private accommodation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation with structural commitment mechanisms designed to outlast political cycles",
+      "finding": "Obama's time horizon consistently prioritizes long-term structural outcomes over short-term political gains. His policy signatures—ACA, Dodd-Frank, climate agreements (ev_041), deficit reduction (ev_016)—are explicitly designed with structural commitment mechanisms intended to constrain future political actors. The framing of ACA as extending Medicare solvency by 12 years (ev_002) functions as a long-term institutional commitment signal. His defense of Paris climate agreement as 'something to build upon' (ev_041) for children's futures reveals mission-scale temporal orientation. The Cancer Moonshot (ev_042, ev_043) operates on 45-year historical timescales with infrastructure investments designed to generate returns over decades. Notably, his short-term political actions—executive orders on minimum wage, travel to SXSW (ev_023) for government modernization—serve long-term institutional goals rather than immediate electoral purposes. The '57 months of consecutive job growth' statistic (ev_025) represents a revealed preference for building sustainable trends rather than optimizing for immediate headlines. This temporal orientation aligns with his institutional design approach: creating structures that enforce commitment credibility over extended time horizons rather than pursuing reversible short-term wins.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_041",
+        "ev_016",
+        "ev_042",
+        "ev_025",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign when institutional failures block incremental solutions, demonstrated through major legislative overhauls",
+      "finding": "Obama consistently demonstrates rebuild orientation when institutional failures preclude patching. His two signature legislative achievements—ACA and Dodd-Frank—represent comprehensive redesign of existing systems rather than incremental modifications. ACA replaced fragmented healthcare coverage with an integrated market-based structure with individual mandates and subsidies (ev_001, ev_002). Dodd-Frank created entirely new regulatory architecture including CFPB, FSOC, and Volcker Rule (ev_028, ev_029). When Congressional obstruction blocked legislative patches, his 'Year of Action' executive actions functioned as parallel institutional building rather than pure patching—the federal contractor minimum wage (ev_017) created a separate governance structure rather than accepting legislative defeat. The Cancer Moonshot (ev_042, ev_043) established new cross-agency coordination mechanisms rather than incremental research funding increases. His defense of drilling-only energy policy as insufficient (ev_005) demonstrates consistent preference for comprehensive approaches over single-variable solutions. The pattern indicates that rebuild orientation activates specifically when institutional blockers make patching ineffective, while executive actions represent adaptive patching within constrained circumstances. This reveals sophisticated path-dependency awareness: recognizing when existing structures cannot be patched and pivoting to rebuild strategies.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_028",
+        "ev_029",
+        "ev_017",
+        "ev_042",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with demonstrated capacity for perspective-taking and acknowledgment of uncertainty, though limited explicit self-monitoring evidence",
+      "finding": "Obama demonstrates moderate metacognitive capacity through observable patterns rather than explicit self-reference. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) reveals capacity for updating beliefs about his own prior judgments, suggesting metacognitive monitoring of epistemic reliability. His frequent perspective-taking—invoking AFL-CIO and Chamber of Commerce together (ev_008), citing small business owner surveys (ev_023), attributing accomplishments to collective action (ev_032)—indicates awareness of multiple audience frames and the need to construct signals that cross ideological boundaries. The farewell address reflection (ev_044: 'Every day, I learned from you. You made me a better President, and you made me a better man') suggests explicit recognition of learning processes. However, the evidence lacks strong indicators of systematic self-monitoring of reasoning biases or cognitive limits. His calibrated epistemic style (verifiable metrics preference) suggests metacognitive strategy but does not prove explicit meta-awareness of that strategy. The moderate rather than strong assessment reflects absence of documented evidence for active reasoning adjustment mid-decision or explicit acknowledgment of biases affecting judgment. The metacognitive capacity appears oriented toward learning from outcomes and adapting communication strategies rather than deep introspection about cognitive architecture.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_008",
+        "ev_023",
+        "ev_032",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "bipartisan_legitimacy_signal",
+      "definition": "The systematic use of cross-partisan coalitions and opposition endorsements as credibility-enhancing commitment devices, distinct from general relationship-to-hierarchy analysis because it concerns signal authentication rather than power dynamics",
+      "finding": "A distinctive pattern emerges in Obama's signaling strategy: consistent invocation of bipartisan or cross-ideological support to authenticate commitment credibility. This operates as a costly signal because bipartisan endorsements are difficult to fabricate and indicate that a policy position survives scrutiny from multiple evaluator audiences. The explicit citation—'representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008)—functions as a separating signal suggesting the policy has cleared ideological screening from opposing camps. Similarly, citing that 'a majority of small business owners support a gradual increase to ten dollars and ten cents an hour' (ev_023) authenticates the minimum wage position by showing it survives economic-conservative evaluation. This pattern reflects sophisticated understanding that in political signaling, credibility depends partly on demonstrating that the signal would survive negative evaluation from opposing interests. The absence of such cross-partisan authentication in purely partisan positions (e.g., veto threats) suggests this is a deliberate strategic choice rather than habitual behavior. This emergent construct captures something that standard hierarchy analysis misses: the strategic use of apparent consensus as an information-quality device.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_023",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

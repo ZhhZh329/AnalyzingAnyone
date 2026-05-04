@@ -1,0 +1,180 @@
+{
+  "discipline": "philosophy",
+  "lens": "metaphysics",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation combined with recognition of structural constraints—neither pure voluntarism nor hard determinism",
+      "finding": "Obama consistently positions himself as actively shaping outcomes through institutional means: executive orders raising contractor wages (ev_017), 'Year of Action' initiative with 20+ executive actions (ev_019), Cancer Moonshot leadership (ev_042), and Silicon Valley government modernization partnerships (ev_037). His confidence statement—'I'm absolutely confident we will get there' (ev_004)—expresses active causal agency. However, his acknowledgment that 'Congress has blocked or voted down every serious idea' (ev_020) and 'neither party has been blameless' (ev_010) reveals a person who shapes within constraint rather than believing pure willpower determines outcomes. His father's day reflection on growing up without his father (ev_006) shows early recognition that individual agency operates against structural and biographical forces beyond one's control. This represents nuanced agency ontology—not libertarians' uncaused causation nor hard determinists' denial of agency, but rather a position where human action matters critically within causal and institutional structures.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_006",
+        "ev_010",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist-informed epistemology—beliefs grounded in measurable outcomes and observable data, with capacity for belief correction",
+      "finding": "Obama's rhetoric consistently anchors in empirical evidence: '11 million new jobs over 57 months' (ev_025), 'Medicare solvency extended at least 12 years' (ev_002), '$11 billion recovered for 26 million consumers' (ev_028), 'wind power tripled, solar 30-fold' (ev_040). His statement acknowledging that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to correct prior beliefs based on evidence. He consults diverse empirical sources: AFL-CIO and Chamber of Commerce jointly (ev_008), Silicon Valley technologists (ev_037), survey data on small business owners (ev_023). This empiricism is pragmatic rather than philosophical—he uses evidence instrumentally to persuade rather than pursuing systematic knowledge. His government modernization initiative (ev_037) explicitly applies empirical optimization to governance. The epistemic style is fundamentally naturalistic: outcomes are measurable, progress is quantifiable, and beliefs should track reality.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_008",
+        "ev_023",
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_037",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate—concepts exist but communication prioritizes accessibility over formal systematization",
+      "finding": "Obama articulates abstract principles like 'middle-out economics' (ev_021) and 'level playing field' for financial regulation (ev_003), yet his communication strategy consistently grounds abstraction in concrete outcomes. His policy vocabulary includes formal elements ('Trade Promotion Authority,' legislative processes, institutional design through Dodd-Frank's Consumer Financial Protection Bureau) demonstrating capacity for systematic thinking. However, his rhetorical style favors concrete enumeration ('Top 10 Things that Happened in 2015'—ev_033) over abstract theorization. His farewell address's 'you're free to marry the person you love, because love won' (ev_035) exemplifies abstraction-through-personality rather than formal system-building. This suggests abstraction ability present but communication strategy subordinates formal systematization to accessibility and emotional resonance.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_021",
+        "ev_027",
+        "ev_033",
+        "ev_035"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "High institutional control orientation—maximizes executive authority within constitutional constraints while drawing firm lines",
+      "finding": "Obama exhibits strong control orientation through institutional mechanisms: 'I will veto it' against Wall Street Reform repeal (ev_029), refusing 'to negotiate over the full faith and credit of the United States' (ev_015), executive orders on minimum wage (ev_017), and structured initiatives like Cancer Moonshot with cross-agency task forces (ev_043). He frames control as constitutional duty rather than personal ambition: 'As Commander-in-Chief, I have no more solemn obligation' (ev_038). His 'Year of Action' framing (ev_015, ev_019) signals proactive system management. However, his acknowledgment of Congressional constraints and use of coalition-building rather than unilateral action where possible suggests control pursued within legitimate authority bounds. He distinguishes appropriate control (protecting economic stability, veterans' benefits) from its abuse (manufactured crises over debt ceiling—ev_015). This is not micromanagement but institutional control at appropriate scale.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_038",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with humanistic framing—policy goals pursued with consistent attention to affected individuals",
+      "finding": "Obama prioritizes major policy missions (ACA implementation, Dodd-Frank, TPP, climate action) while consistently framing outcomes in human terms. His sequestration warnings detail concrete human costs: 'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels' (ev_014). The Veterans Day challenge to hire 100,000 post-9/11 veterans (ev_009) shows institutional mission with human beneficiary focus. His farewell reflects on 'cancer survivors who finally know the security of affordable health care' (ev_045) as proudest achievements. This differs from pure mission-maximizers who treat relational costs as acceptable collateral—Obama integrates human impact into mission definition itself. He pushes forward despite Congressional opposition but frames opposition as failure to serve people ('Republicans have said no to raising the minimum wage, no to equal pay'—ev_020), suggesting mission and human welfare are conceptually unified rather than in tension.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_020",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker with empirical grounding—willing to pursue controversial positions when evidence supports benefits and human costs justify",
+      "finding": "Obama accepts significant policy risks: TPP despite acknowledging 'past trade deals haven't always lived up to the hype' (ev_027), climate action within contested political terrain, 'Year of Action' knowing it would generate opposition. His Iran nuclear deal and Paris climate agreement represent diplomatic risks framed as necessary given evidence. He draws lines against certain risks: refusing debt ceiling negotiation as 'height of irresponsibility' (ev_015), veto threat against Wall Street Reform repeal (ev_029). His risk calculus is empirical—he cites concrete outcomes to justify risk: 'we've multiplied solar power more than thirtyfold' making action profitable (ev_040). This suggests not risk-aversion or risk-seeking, but risk-pragmatism: risks are assessed by projected human outcomes rather than personal political exposure. The refusal to negotiate on debt ceiling reflects categorical risk-avoidance for systemic stability rather than personal exposure.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_027",
+        "ev_029",
+        "ev_034",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy as legitimate but challengeable—respects authority when exercised responsibly, criticizes when abused",
+      "finding": "Obama operates within institutional hierarchy while conditionally challenging it. He works through Congress, calls for bipartisan action, but condemns Senate obstruction as 'certainly not what our founding fathers envisioned' (ev_010) and characterizes debt ceiling threats as 'irresponsibility' (ev_015). His military framing ('no more solemn obligation'—ev_038) accepts hierarchical command responsibility. He distinguishes legitimate authority (protecting consumers through CFPB—ev_028) from illegitimate use (political brinkmanship threatening economic stability). His civic engagement rhetoric frames democracy as shared responsibility rather than hierarchical rule: 'our founders trusted us with the keys to this system of self-government' (ev_036). This suggests hierarchical legitimacy when authority serves collective goods, but willingness to challenge power that threatens systemic stability or human welfare. Power is instrumental for purpose, not intrinsic value.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_028",
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-oriented with principled lines—seeks bipartisan framing but draws firm boundaries when core values threatened",
+      "finding": "Obama's conflict strategy shows coalition-building: 'representatives from AFL-CIO and Chamber of Commerce' jointly (ev_008), bipartisan budget framed as 'Christmas miracles' (ev_048). He acknowledges 'neither party has been blameless' (ev_010) to avoid pure partisan escalation. However, he draws categorical lines: absolute refusal on debt ceiling negotiation (ev_015), veto threats against Wall Street Reform repeal (ev_029). His critique of Congressional obstruction is firm but institutional—calling for rule changes (90-day up-or-down votes on nominations—ev_008) rather than personal attacks. He translates conflict to policy terms rather than interpersonal terms: opposition is failure to serve constituents, not personal failure. This suggests negotiation-first with escalation to firm lines only when institutional integrity or core commitments threatened. Conflict is managed rather than embraced.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-horizon integration—manages immediate crises while building toward long-term structural transformation",
+      "finding": "Obama demonstrates simultaneous attention to multiple time scales: immediate crises (7 days until transportation funding expires, 8 days until student loan rates double—ev_011), medium-term goals (cut oil imports by one-third by 2025—ev_004), and generational projects (climate action framed as legacy for 'our children'—ev_041, cancer moonshot as 45-year continuation from Nixon's war—ev_042). His deficit reduction talk (ev_013) addresses long-term fiscal sustainability. His sequestration critique invokes near-term job losses versus long-term research damage. His farewell expresses commitment to 'working along your side, as a citizen, for all my days that remain' (ev_047)—continuing engagement beyond formal role. This multi-horizon orientation treats present crises and future transformation as complementary rather than competing, with evidence cited to demonstrate progress on each timescale.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_013",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign—creates new institutions and comprehensive frameworks rather than temporary fixes",
+      "finding": "Obama consistently builds new institutional structures rather than patching existing ones: ACA redesigned healthcare financing and created new coverage mechanisms, Dodd-Frank established comprehensive financial regulation with new Consumer Financial Protection Bureau, TPP negotiated entirely new trade framework for 40% of global economy, Cancer Moonshot created cross-agency task force with technological infrastructure (Trials.Cancer.Gov—ev_043). His 'Year of Action' (ev_015, ev_019) signals systematic approach rather than reactive management. His government modernization through Silicon Valley partnerships (ev_037) redesigns institutional processes. He explicitly contrasts his approach with Congress's 'manufactured crises' requiring repeated patches (ev_016). This preference for comprehensive design over incremental fix is consistent across domestic, foreign, and institutional policy domains.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_037",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness—demonstrates belief correction and self-reflection, but limited explicit examination of cognitive frameworks",
+      "finding": "Obama shows evidence of belief correction ('past trade deals haven't always lived up to the hype'—ev_027), acknowledging limitations. His farewell address demonstrates relational metacognition: 'my conversations with you, the American people...are what have kept me honest, kept me inspired' (ev_044), showing awareness that external input corrects his reasoning. He reflects on personal growth: 'you made me a better President, and you made me a better man' (ev_044). He demonstrates awareness of institutional constraints on judgment—acknowledging Congressional obstruction, bipartisan failures. However, there is limited evidence of explicit examination of his own metaphysical assumptions or cognitive frameworks. He doesn't interrogate his own worldview or acknowledge how his prior beliefs shape current judgments. The metacognition present is interpersonal and empirical (correcting based on evidence) rather than philosophical (examining foundational premises).",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Metaphysical Optimism about Collective Problem-Solving Capacity",
+      "definition": "The degree to which Obama operates from a metaphysical stance that human collective action can successfully address complex structural challenges—this is distinct from general agency because it concerns beliefs about the efficacy and reach of coordinated human effort specifically, not individual will or capacity alone",
+      "finding": "Obama demonstrates a distinctive metaphysical position: deep faith that distributed human effort, properly channeled through institutions, can solve problems that appear structurally intractable. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges' (ev_036) expresses this stance explicitly. His energy policy combines 'drilling alone is not sufficient' with confident multi-pathway progress, indicating belief that human ingenuity across domains can address complex challenges. The Cancer Moonshot—framed as 45-year accumulated progress finally achieving breakthrough—embodies this faith in cumulative institutional effort. This metaphysical optimism creates resilience: even when facing Congressional obstruction, he finds alternative paths (executive actions, business partnerships) rather than concluding problems are unsolvable. It is empirically grounded (citing measurable progress) but functionally operates as a belief in the metaphysically possible—a stance that complex systemic challenges yield to sustained coordinated effort, not that any particular outcome is guaranteed.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_036",
+        "ev_037",
+        "ev_041",
+        "ev_042",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism",
+      "Pragmatism",
+      "Hard Determinism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

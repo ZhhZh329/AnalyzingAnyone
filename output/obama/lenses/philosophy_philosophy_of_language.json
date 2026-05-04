@@ -1,0 +1,164 @@
+{
+  "discipline": "philosophy",
+  "lens": "philosophy_of_language",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with confident, active presidential voice",
+      "finding": "Obama consistently positions himself as an architect of policy outcomes rather than a passive responder to circumstances. His language features active commitments ('As long as I am President, that's a commitment this country is going to keep' - ev_001), enumeration of executive actions taken ('since January, I've taken more than 20 executive actions' - ev_019), and declaration of policy achievements. This reflects an agency orientation aligned with the ideal speech situation—believing language can constitute real change when voiced by those in positions of authority. He treats presidential addresses as performative utterances that don't merely describe but create political commitments.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empiricist-positivist with pragmatic tempering; verification through data and measurable outcomes",
+      "finding": "Obama's epistemic style strongly reflects logical positivism's verification criterion—meaning and truth are established through verifiable evidence and concrete metrics. He systematically cites job creation numbers ('nearly 11 million new jobs' - ev_025, '2.5 million new jobs' over 12 months - ev_033), financial recoveries ('$11 billion back in the pockets of more than 26 million consumers' - ev_028), and deficit statistics ('deficits are already falling at the fastest rate since the end of World War II' - ev_016). However, this positivist orientation is tempered by pragmatic acknowledgment that past approaches failed ('past trade deals haven't always lived up to the hype' - ev_027), suggesting a more nuanced instrumentalism where meaning is tied to practical consequences rather than pure logical verification.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low abstraction preference; uses accessible, concrete language with everyday metaphors over technical formalization",
+      "finding": "Obama's communication style strongly aligns with ordinary language philosophy—rejecting highly abstract or formalized speech in favor of concrete, relatable imagery. Rather than invoking theoretical principles, he documents human impacts in specific terms ('kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels' - ev_014). His 'middle-out' economic philosophy (ev_021) uses a spatial metaphor accessible to general audiences. His 'Top 10 Things that Happened in 2015' format (ev_033) deliberately structures information as an enumerated list rather than abstract argument. This reflects the奥斯汀/威尔 insight that meaning emerges from concrete use-context rather than underlying logical forms—Obama speaks to where people actually are, not where abstract principles locate them.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_021",
+        "ev_033",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation; prefers institutional mechanisms and veto commitments over direct interpersonal control",
+      "finding": "Obama's control orientation manifests through institutional mechanisms rather than personal domination. He issues veto threats against policy rollback ('I will veto it' - ev_029, 'I will not negotiate over the full faith and credit' - ev_015), frames policy as structural commitment rather than personal preference ('Medicare isn't just a program. It's a commitment' - ev_001), and calls for systematic reform ('90-day up-or-down votes on nominations' - ev_010). Notably absent is rhetoric of personal control or manipulation; instead, Obama seeks to embed his preferences in institutional structures that outlast any individual. This reflects a philosophy where meaningful political speech requires not just words but institutional embedding—language becomes binding only when encoded in formal mechanisms like vetoes, executive orders, and legislative frameworks.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with consistent policy commitments despite political friction",
+      "finding": "Obama consistently prioritizes policy missions over relational comfort, as evidenced by his willingness to explicitly name political opposition ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) and issue hardline stances that preclude compromise ('I will not negotiate over the full faith and credit of the United States' - ev_015). His mission orientation manifests in unwavering commitments ('as long as I am President' - ev_001) and declared vetoes againstrollback attempts. The relational cost is visible in how he frames these positions—sometimes as appeals to national interest ('this isn't a Democratic or a Republican issue' - ev_008) rather than partisan conflict. This suggests a speaker who recognizes that some performative utterances must be non-negotiable to maintain their force, accepting relational friction as necessary for institutional credibility.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_020",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse toward policy uncertainty; seeks to reduce ambiguity through concrete commitments and enumerated outcomes",
+      "finding": "Obama's approach to risk reveals low tolerance for policy uncertainty—he anchors discourse in verifiable metrics precisely to reduce ambiguity. He consistently provides numerical specificity ('at least 12 years' Medicare extension - ev_002, '7 days away' from transportation deadline - ev_011, '40% of global economy' covered by TPP - ev_031) to minimize interpretive flexibility. His optimistic declarations ('I'm absolutely confident we will get there' - ev_004) serve a rhetorical function: confidence speech acts help manage collective uncertainty. The verification-oriented framing ('Pick any metric you want' - ev_024) responds to real political risk—claims being disputed—by preemptively anchoring meaning in multiple measurable criteria. This suggests a speaker who understands language as a risk-management tool, deploying empirical specificity to foreclose unwanted interpretations.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_024",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power legitimacy via democratic participation and civic engagement rather than personal authority",
+      "finding": "Obama's relationship to hierarchy and power reflects a distinctive philosophy of democratic legitimacy—his authority derives from institutional position and civic participation, not personal charisma or ideological conviction. He consistently frames power as accountability ('our founders trusted us with the keys to this system of self-government' - ev_036) and frequently calls for sustained civic engagement beyond elections (ev_046). His executive actions are presented as stopgap measures pending Congressional will ('called on Congress to' - repeated pattern). He explicitly criticizes legislative obstruction as undemocratic ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010). This reveals a speaker who treats presidential rhetoric as performing institutional legitimacy—using 'we' language to embed presidential will within democratic discourse rather than asserting personal authority.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046",
+        "ev_010",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Conflict-translating through national interest framing and bipartisan coalition-building",
+      "finding": "Obama's conflict strategy consistently translates partisan conflict into national interest discourse—a classic ordinary language move where the goal is not to resolve conflict through logical analysis but to redirect attention to shared frameworks. He repeatedly invokes bipartisan coalitions ('AFL-CIO and Chamber of Commerce – two groups who don't always see eye-to-eye' - ev_008) and frames disputes as American issues rather than partisan ones. When conflict cannot be translated, he responds with institutional escalation (veto threats, executive actions as substitutes). This reflects 奥斯汀's insight that speech acts perform social functions beyond proposition content—Obama's conflict language performs unity rather than merely describing it. His explicit criticisms of obstruction ('Republicans in Congress have blocked' - ev_020) come after translation fails, functioning as accountability speech acts rather than purely adversarial ones.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_010",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term to mission-scale orientation with persistent multi-year policy framing",
+      "finding": "Obama consistently optimizes for mission-scale time horizons, framing policies within multi-year or generational timeframes. He references achievements over his full presidency ('over the past 57 months' - ev_025, 'during the last decade' - ev_022), announces initiatives with long-term targets ('cut oil imports by one-third by 2025' - evt_004), and explicitly connects present action to future legacy ('that's not something to tear up – it's something to build upon' - ev_041). His farewell address reflects on 'eight years' of transformation (ev_047), and he explicitly calls for 'acts of remembrance' beyond specific holidays (ev_039). This temporal orientation suggests a speaker who treats political language as commitments across time—meaning is constituted not just by what is said but by what is promised for future realization. Short-term pressure is frequently contextualized within longer narratives of progress.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_041",
+        "ev_022",
+        "ev_047",
+        "ev_039"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer with institutional redesign orientation rather than incremental patching",
+      "finding": "Obama's rhetoric reveals a structural reformer orientation—he frequently presents policies as systemic fixes addressing root causes rather than temporary patches. His 'Blueprint for a Secure Energy Future' (evt_004) frames energy policy as comprehensive structural change. Dodd-Frank (Wall Street Reform) is presented as establishing permanent consumer protections and ending 'too big to fail' bailouts (ev_003). His executive orders are framed not as workarounds but as establishing new baseline commitments ('requiring federal contractors to pay their employees a fair wage' - ev_017). The sequester opposition exemplifies rebuild-over-patch logic: Obama advocated 'balanced approach' replacing blunt across-the-board cuts with 'sensible changes to entitlement programs and reforming our tax code' (ev_013). This suggests alignment with structuralist insight that meaning emerges from systemic relations—Obama treats policy language as redesigning the structural conditions within which future actions occur.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_013",
+        "ev_017",
+        "ev_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates explicit reflection on language, framing, and rhetorical consequences",
+      "finding": "Obama exhibits strong metacognitive awareness about how language constructs reality and shapes political possibility. He explicitly reflects on the relationship between words and outcomes ('All of this progress is because of you' - ev_032, attributing results to collective action rather than presidential decree). He shows awareness of framing effects—acknowledging past failures while defending present approaches ('I'm the first to admit that past trade deals haven't always lived up to the hype' - ev_027). His rhetoric demonstrates sophisticated understanding that presidential speech is performative: he issues veto commitments not just to communicate preference but to shape legislative calculation, and declares executive actions to establish facts on the ground. His farewell address explicitly metacognitively reflects on the learning relationship with citizens ('my conversations with you are what have kept me honest, kept me inspired' - ev_044). This self-awareness about language as a tool that backfires when misused, and as constitutive of rather than merely describing reality, suggests deep engagement with philosophy of language questions.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_027",
+        "ev_044",
+        "ev_036",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_delegitimization_rethoric",
+      "definition": "Obama's distinctive pattern of explicitly naming institutional dysfunction (Senate obstruction, manufactured crises) while simultaneously performing institutional legitimacy through presidential speech acts. This tension between critiquing democratic institutions and filling the legitimacy vacuum they create reveals a philosophy of language where presidential rhetoric increasingly must substitute for functional democratic process.",
+      "finding": "Obama's speeches repeatedly highlight institutional failures ('One senator gumming up the works for the whole country' - ev_010), yet his response is to perform presidential authority more forcefully through veto commitments and executive action announcements. This creates a linguistic paradox: he critiques democratic dysfunction in the very act of substituting executive power for legislative deadlock. The result is a distinctive philosophy where meaning becomes increasingly dependent on non-democratic institutional mechanisms—presidential speech acts, executive orders, and bureaucratic innovations (like the Presidential Innovation Fellows - ev_043) fill the vacuum left by legislative failure. This emergent dimension captures how Obama treats language as both diagnostic tool for institutional failure and as compensatory mechanism for democratic deficit.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Instrumentalism",
+      "Ordinary Language"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

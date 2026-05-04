@@ -1,0 +1,183 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "human_centered_computing_explainability_interpretability",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Hybrid structure-responder and institutional designer who shaped systems within constitutional constraints",
+      "finding": "Obama demonstrates a nuanced agency orientation that blends structural responsiveness with active institutional design. Rather than attempting to reshape the world through revolutionary means, he consistently worked within constitutional frameworks—calling on Congress for transportation funding (ev_008), demanding legislative action on trade (ev_026), and building cross-partisan coalitions. However, when institutional channels proved blocked, he demonstrated willingness to use executive authority as a shaping tool, declaring a 'Year of Action' with 20+ executive orders (ev_019) and raising contractor minimum wage via executive order (ev_017). His energy blueprint (evt_004) exemplifies institutional design thinking: rather than a single intervention, he constructed a multi-component system involving domestic drilling, fuel efficiency, clean energy partnerships, and corporate fleet programs, recognizing that no single lever would suffice. This suggests he understood agency as operating through designed mechanisms rather than pure willpower—a systems architect's orientation within political constraints.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_017",
+        "ev_019",
+        "ev_004",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with narrative overlay; demonstrates calibrated confidence in empirical claims",
+      "finding": "Obama's epistemic style shows sophisticated balance between empirical anchoring and narrative framing. He frequently cited specific quantitative claims—$11 billion recovered for consumers (ev_028), 11 million jobs over 57 months (ev_025), wind power tripled and solar 30x (ev_040)—demonstrating reliance on measurable evidence. Yet these statistics were embedded within broader narrative structures rather than presented as standalone data. Notably, he acknowledged epistemic limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), showing willingness to update beliefs based on experience rather than defending a narrative. He sought validation through broad coalitions (ev_008: AFL-CIO and Chamber of Commerce together), suggesting triangulation across stakeholder perspectives. His year-end addresses (ev_033) enumerated accomplishments in list format, indicating comfort with quantified accountability. However, his epistemic style remained primarily top-down presidential communication rather than collaborative inquiry, and he rarely explicitly discussed what evidence he lacked or how he weighed competing interpretations. The reliability of his cited data appears high (mostly low editorial risk), suggesting genuine commitment to factual grounding rather than mere rhetorical deployment.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_025",
+        "ev_040",
+        "ev_027",
+        "ev_008",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction ability with strong grounding in concrete metrics and enumerated specifications",
+      "finding": "Obama demonstrates capacity for principled abstraction while maintaining concrete anchoring. He articulated clear abstract frameworks—'middle-out economics' (ev_021), 'opportunity for all' (ev_018), 'resurgence is real' (ev_024)—that provided ideological scaffolding for policy positions. However, these abstractions were consistently grounded in measurable outcomes: the middle-out theory was illustrated through specific job numbers, wage trends, and auto industry statistics. His enumerated top-10 lists (ev_033) show comfort with formal categorization and structured communication. The Cancer Moonshot initiative (ev_042, ev_043) represents sophisticated abstraction-to-implementation translation: a moonshot metaphor (high-stakes, cross-agency, mission-driven) was operationalized through concrete mechanisms like clinical trial portals, cross-agency task forces, and specific enrollment targets. Yet his abstraction remained primarily rhetorical and communicative rather than formal-scientific; he did not develop formal models, variables, or predictive frameworks. This suggests abstraction as a communication and policy design tool rather than a formal engineering methodology.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_024",
+        "ev_033",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect control through mechanism design, institutional incentives, and distributed systems rather than direct manipulation",
+      "finding": "Obama's control orientation strongly favors indirect control through designed systems rather than direct manipulation. Dodd-Frank exemplifies this: rather than attempting to control banks directly, he established institutional mechanisms—the CFPB as an independent watchdog with specific consumer protection mandate (ev_028), 'too big to fail' provisions, and transparency requirements. The ACA similarly created incentive structures (individual mandate, Medicaid expansion, Medicare solvency extensions) rather than direct price controls. His energy strategy combined multiple control levers: drilling policy, fuel efficiency standards, clean energy investment, and corporate partnerships (evt_004). The Cancer Moonshot demonstrated cross-agency coordination mechanisms (ev_042) rather than centralized command. When Congressional obstruction blocked legislative mechanisms, he pivoted to executive orders as alternative institutional levers (ev_017, ev_019), suggesting he understood control as flowing through positions within institutional systems. This control-through-mechanisms orientation reflects engineering thinking about systems where direct intervention is less effective than well-designed feedback loops and incentive structures.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_017",
+        "ev_019",
+        "evt_004",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with principled willingness to absorb political costs when core commitments were at stake",
+      "finding": "Obama frequently prioritized mission and policy goals over relational comfort and political costs, though he sought bipartisanship when possible. His clearest demonstration is the veto commitment on Wall Street Reform: 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029)—a position that guaranteed continued partisan conflict. Similarly, he refused to negotiate over the debt ceiling under any circumstances (ev_015), accepting political confrontation rather than compromising on constitutional obligations. The 'Year of Action' (evt_015) explicitly acknowledged Republican obstruction while proceeding with executive action, accepting relational costs. However, his conflict was selective and principled rather than reflexive: he sought bipartisan budgets (ev_048), framed transportation funding as 'an American issue' not a partisan one (ev_008), and credited accomplishments to collective action (ev_032). His mission prioritization was strongest on core commitments (healthcare, financial reform, nuclear nonproliferation) and more collaborative on implementation details. This suggests calibrated mission-cost calculus: he distinguished between non-negotiable principles and negotiable tactics.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_020",
+        "ev_032",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense approach: embraces transformational goals while designing safeguards against identified failure modes",
+      "finding": "Obama's risk posture reflects sophisticated systems thinking about failure modes and safeguards. He embraced high-risk, high-reward policies—ACA fundamentally restructured healthcare, Dodd-Frank reregulated financial markets—while building in specific protective mechanisms. The CFPB was designed as an independent consumer watchdog (ev_028) precisely because the 2008 crisis revealed regulatory failure. He acknowledged that past approaches had failed ('past trade deals haven't always lived up to the hype,' ev_027) and designed TPP with 'highest-ever labor and environmental standards' as safeguards. His sequester warnings documented specific harm vectors—Head Start cuts, senior meal programs, military strain (ev_014)—demonstrating detailed risk mapping. The Cancer Moonshot (evt_026) explicitly addressed the risk of fragmented clinical trial systems by creating centralized discovery mechanisms (ev_043). He was not risk-averse but rather risk-inquisitive: identifying what could go wrong, designing layered defenses, and maintaining core commitments while hedging specific failure modes. This layered-defense posture aligns with engineering approaches that embrace complex challenges while building redundancy and fail-safes.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_027",
+        "ev_014",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated institutional power navigation with deliberate democratization elements",
+      "finding": "Obama demonstrates nuanced relationship with hierarchy and power, simultaneously leveraging institutional authority while deliberately distributing power to external actors. He clearly embraced the bully pulpit and executive authority—issuing veto threats (ev_029), declaring executive actions (ev_017, ev_019), and making definitive policy commitments. Yet he simultaneously sought to diffuse power to civil society: visiting SXSW to seek government modernization ideas (evt_023), partnering with businesses on fatherhood programs (evt_005), and challenging private companies to hire veterans (ev_009). His government modernization initiative (ev_037) explicitly brought 'sharpest minds from companies in Silicon Valley' to help reform federal institutions—a deliberate power-sharing with external expertise. The Presidential Innovation Fellows program (ev_043) similarly imported external talent into government structures. He spoke about the system of self-government as a collective tool: 'our founders trusted us with the keys to this system... because it's the best tool we've got' (ev_036), framing institutional power as delegated rather than owned. This suggests he understood hierarchy as a leverage point within larger systems rather than as an end in itself, and power as requiring legitimacy through broader participation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_037",
+        "ev_036",
+        "ev_043",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled boundary-drawing with tactical pivoting; frames conflict as systemic rather than personal",
+      "finding": "Obama's conflict strategy shows sophisticated framing that separates principled conflict from personal antagonism. On core commitments, he drew clear boundaries: refusing debt ceiling negotiation entirely (ev_015), vowing veto on Wall Street Reform repeal (ev_029), and condemning Senate obstruction as contrary to founding principles (ev_010). However, he consistently framed these conflicts as systemic rather than personal: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' attacked a practice, not individuals. When Congress blocked minimum wage increases and equal pay legislation, he pivoted to executive action (ev_019, ev_020)—transforming conflict into alternative channels rather than suppressing it. His criticism of Republican obstruction (ev_020) was direct but principled, and he simultaneously celebrated bipartisan budget and education bills as 'Christmas miracles' (ev_048), showing he could separate partisan conflict from appreciation for cooperation. This suggests a conflict strategy of principled boundary-drawing on core values while maintaining tactical flexibility on implementation, treating conflict as a signal of systemic misalignment rather than interpersonal failure.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_010",
+        "ev_019",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-horizon orientation spanning immediate executive action through long-term legacy-building and institutional investment",
+      "finding": "Obama's time horizon demonstrates sophisticated temporal layering across immediate, medium-term, and generational scales. At the immediate level, he responded to urgent deadlines—7 days for transportation funding (ev_011), 8 days before student loan rate doubling (ev_011)—and took over 20 executive actions in a single 'Year of Action' (ev_019). At the medium-term, he framed achievements within administration's arc: 11 million jobs over 57 months (ev_025), auto industry at 8-year high (ev_022), and 'strongest job growth year since 1990s' (evt_018). At the generational level, he designed for legacy: ACA as a 12-year Medicare solvency extension (ev_002), Paris climate agreement as 'not something to tear up—something to build upon' (ev_041), and explicit framing of policy achievements as inheritance for children. The Cancer Moonshot specifically addressed long-term failure modes in cancer research infrastructure (ev_042, ev_043). His farewell address expressed commitment to 'working along your side, as a citizen, for all my days that remain' (ev_047), suggesting sustained engagement beyond formal authority. This multi-horizon orientation reflects strategic thinking that designs for enduring impact while managing immediate pressures—a key characteristic of systems architects who build for maintainability.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_025",
+        "ev_002",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural design preference with tactical patches when full rebuild blocked by political constraints",
+      "finding": "Obama demonstrates preference for structural solutions over patches, with evidence of comprehensive redesign when political conditions permitted. The ACA represented structural healthcare system redesign rather than incremental coverage expansion; Dodd-Frank represented structural financial regulatory reform rather than surface-level adjustments. His preferred deficit reduction approach was 'balanced, comprehensive' (ev_013)—combining entitlement reform with tax reform rather than single-mechanism patches. He explicitly framed sequester as requiring replacement with structural alternatives, documenting how patches like temporary FAA fixes failed (evt_012). When full legislative rebuilds were blocked, however, he demonstrated willingness to use executive actions as functional patches—raising contractor minimum wage (ev_017) when federal minimum wage failed (ev_020). This suggests pragmatic recognition that perfect structural solutions sometimes require interim mechanisms when political constraints prevent full redesign. His energy blueprint (evt_004) exemplifies structural thinking: cutting oil imports by one-third by 2025 requires systematic transformation across drilling, efficiency, and clean energy—not isolated patches. The evidence suggests structural solution preference is his default that becomes partial patches only under political necessity.",
+      "evidence_ids": [
+        "ev_013",
+        "evt_012",
+        "ev_017",
+        "ev_020",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with demonstrated learning, though limited explicit reflection on reasoning processes",
+      "finding": "Obama shows moderate but genuine metacognitive awareness, particularly around learning from experience and acknowledging blind spots. His most explicit metacognitive moment is admission that 'past trade deals haven't always lived up to the hype' (ev_027)—acknowledging that prior policies had underperformed expectations. He credited the American people for accomplishments rather than claiming personal credit (ev_032, ev_044), suggesting awareness of distributed causality. His farewell address explicitly reflected that conversations with citizens 'kept me honest, kept me inspired' (ev_044), indicating awareness that external input was essential for calibrating his judgment. The government modernization initiative (evt_023)—going to SXSW to seek ideas rather than assuming he had all answers—demonstrates epistemic humility and external calibration-seeking. However, he rarely explicitly discussed his own reasoning processes, uncertainty quantification, or specific cognitive biases. His metacognition manifested more in substance (acknowledging failed policies, seeking external input) than in explicit meta-commentary about thinking. This suggests metacognitive capacity that operates more through behavior than through articulated self-monitoring—functionally present but not formally developed as a reflective practice.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "evt_023"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "explanatory_clarity_under_political_constraints",
+      "definition": "The capacity to maintain mechanism-transparency and honest limitation acknowledgment while operating within politically charged environments that create pressure for marketing over explanation. Obama faced consistent tension between providing genuinely transparent mechanisms (how Dodd-Frank protects consumers, what the sequester will cut) and politically motivated framing (calling bipartisan budgets 'Christmas miracles').",
+      "finding": "Obama demonstrates a noteworthy pattern of explanatory clarity that persists despite political constraints, though with measurable boundaries. He provided genuine mechanism explanations: the CFPB as independent consumer watchdog with specific recovery amounts ($11 billion for 26 million consumers, ev_028), the sequester's specific impact on Head Start, Meals on Wheels, and military families (ev_014), and the auto bailout's concrete results (ev_022). His statistical claims appear reliable with low editorial risk across the evidence base. However, his explanatory clarity operated within boundaries: accomplishments were sometimes framed aspirationally ('Christmas miracles'), and partisan conflict was acknowledged selectively. He distinguished between different audiences—technical policy audiences received mechanism-heavy explanations while public addresses emphasized narrative and aspiration. This suggests adaptive explainability that calibrates depth to context while maintaining baseline honesty about mechanisms and limitations, rather than pure marketing. The tension between explanatory clarity and political communication is structurally inherent in his role, and his pattern suggests he generally maintained mechanism-transparency within those constraints.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_014",
+        "ev_022",
+        "ev_048"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_trust_calibration",
+      "definition": "The practice of deliberately designing institutional mechanisms to calibrate public trust appropriately—not by maximizing trust through marketing, but by making institutional function transparent and failure modes legible. Obama consistently used institutional design as a trust-calibration tool, creating independent agencies, reporting mechanisms, and accountability structures.",
+      "finding": "Obama's approach to trust in institutions demonstrates sophisticated calibration rather than either naive trust-maximization or distrustful control. Rather than promising that institutions would work perfectly, he designed transparency mechanisms that made institutional function legible: the CFPB's consumer recovery tracking (ev_028), Medicare solvency extensions (ev_002), and deficit trajectory reporting (ev_016). He spoke of government as a tool requiring active citizenship to maintain: 'And it's only as good as we make it' (ev_036), framing institutional quality as dependent on civic engagement rather than guaranteed by authority. His Cancer Moonshot explicitly designed mechanisms to overcome institutional fragmentation (ev_043: clinical trial portal to solve information asymmetry between patients and researchers), treating institutional opacity as a solvable design problem. He distinguished between institutions deserving trust (those with transparency mechanisms and accountability structures) and those requiring reform or opposition (obstructionist Congress, predatory financial practices). This suggests institutional trust calibration as a deliberate design practice: making mechanisms visible, creating accountability feedback loops, and maintaining public legitimacy through demonstrated function rather than rhetorical assertion. His approach treats institutional trust as earned through design rather than claimed through authority.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_002",
+        "ev_036",
+        "ev_043",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

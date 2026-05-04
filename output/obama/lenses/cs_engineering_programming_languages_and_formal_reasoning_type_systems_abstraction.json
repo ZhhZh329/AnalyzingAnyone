@@ -1,0 +1,162 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "programming_languages_and_formal_reasoning_type_systems_abstraction",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder who uses institutional mechanisms to shape outcomes within existing system boundaries rather than fundamentally rewriting them.",
+      "finding": "Obama demonstrates a characteristic pattern of working within institutional constraints while systematically reforming them from within. Rather than attempting revolutionary change, he operates through established channels (Congress, executive orders, regulatory agencies) even while advocating for transformative policies like ACA and Dodd-Frank. His 'Year of Action' approach (ev_019) shows he took executive action when legislative paths were blocked, but consistently framed these as complementing rather than replacing Congressional authority. His statement on TPP - 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - reveals someone who modifies approaches based on evidence rather than insisting on original frameworks. He functions more as a systems reformer operating within type boundaries than as someone attempting to redefine the type system itself.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-oriented with strong reliance on metrics, statistics, and verifiable outcomes to build arguments.",
+      "finding": "Obama consistently grounds policy arguments in quantitative evidence rather than ideological appeals. He cites specific numbers: '11 million new jobs over 57 months' (ev_025), 'nearly $11 billion back in the pockets of more than 26 million consumers' (ev_028), 'Medicare solvency extended by at least 12 years' (ev_002). This pattern suggests someone who frames judgments through measurable outcomes. His deficit reduction argument references 'the fastest rate since World War II' (ev_016), and climate progress is tracked through 'wind power tripled, solar 30x' (ev_040). He shows epistemic flexibility when acknowledging that 'past trade deals haven't lived up to the hype' (ev_027), demonstrating willingness to update beliefs based on evidence of underperformance. This empirical orientation serves his communication strategy but also reflects genuine commitment to evidence-based governance.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong tendency to define clear categorical boundaries, interfaces, and inviolable constraints in policy framing.",
+      "finding": "Obama demonstrates sophisticated use of abstraction to define system boundaries and constraints. Most notably, he draws a sharp conceptual line: 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam' (ev_012), establishing a clear type distinction between terrorist organizations and religions. On the debt ceiling, he establishes an absolute boundary: 'I will not negotiate over the full faith and credit of the United States' (ev_015), treating constitutional fiscal integrity as an invariant constraint rather than a bargaining chip. His framing of Dodd-Frank as creating an 'independent Consumer Financial Protection Bureau with one mission' (ev_028) reflects interface design thinking - a bounded entity with clear responsibility and authority. This suggests someone who intuitively models problems through type boundaries and interface contracts, seeking to establish clear invariants rather than allowing boundary erosion through ad hoc exceptions.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_015",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Prefers indirect control through institutional mechanisms and regulatory design rather than direct command.",
+      "finding": "Obama's approach to control reflects institutional design thinking rather than direct intervention. He consistently creates independent agencies with specific mandates (CFPB as 'independent Consumer Financial Protection Bureau with one mission' - ev_028), suggesting preference for well-designed interfaces over direct oversight. His veto threat on Dodd-Frank repeal (ev_029) demonstrates strategic control through commitment mechanisms. He builds in enforcement through partnerships (Clean Fleets Partnership with UPS, FedEx, AT&T - ev_004) rather than mandates. His government modernization through 'Silicon Valley partnerships' (ev_037) shows preference for leveraging external actors through well-defined interfaces. He rarely attempts direct control of outcomes; instead, he establishes rules at system boundaries (minimum wage for federal contractors, ev_017), creates monitoring mechanisms (CFPB recovery tracking), and commits to invariants (debt ceiling non-negotiability). This reflects someone who prefers to design the type system rather than micromanage every instance.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_017",
+        "ev_028",
+        "ev_029",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Will absorb significant political costs to maintain policy positions, but prefers preserving relationships where possible.",
+      "finding": "Obama demonstrates willingness to absorb relational costs when core policy commitments are at stake. He publicly criticizes Congressional obstruction ('Republicans in Congress have blocked or voted down every serious idea' - ev_020) while maintaining institutional respect. His stance on debt ceiling ('I will not negotiate' - ev_015) shows he will accept confrontation rather than compromise on invariants. However, his approach to legislative battles consistently seeks bipartisan framing first ('This isn't a Democratic or a Republican issue – it's an American issue' - ev_008), suggesting he pays relational costs only when unavoidable. His 'middle-out' economic philosophy (ev_021) frames policies as universally beneficial to reduce partisan friction. The pattern suggests someone who prioritizes mission outcomes but invests in relational preservation to enable future cooperation - accepting costs but not gratuitously.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_021"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with long-term horizon, accepting short-term political costs for structural benefits.",
+      "finding": "Obama consistently takes significant political risks when backed by evidence and long-term structural arguments. Healthcare reform (ACA) and Dodd-Frank represent major structural interventions despite intense opposition. His energy strategy explicitly rejects 'drilling alone' as insufficient (ev_005), showing willingness to pursue complex multi-variable solutions rather than simple approaches. The sequester fight demonstrates his risk posture: he documents real human costs ('parents whose kids just got kicked out of Head Start' - ev_014) but refuses to negotiate principles, accepting short-term disruption to maintain structural integrity. His framing of climate action ('something to build upon' - ev_041) suggests long-term orientation even when immediate returns are uncertain. The Cancer Moonshot (ev_042, ev_043) represents a bet on cross-agency coordination with uncertain timeline. This reflects someone who takes structured risks with defined mechanisms rather than blind bets.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_014",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respects institutional hierarchy while strategically deploying presidential platform as forcing function.",
+      "finding": "Obama demonstrates sophisticated understanding of institutional hierarchy and how to deploy presidential power effectively. He consistently works through Congressional processes while publicly framing issues to pressure them ('Congress hasn't passed a transportation bill' with specific deadline - ev_011). His use of executive orders (federal contractor minimum wage, ev_017) shows he understands the boundaries between branches and operates within them. The veto threat on Dodd-Frank (ev_029) uses hierarchical power as commitment device. His partnership approach with private sector (veterans hiring challenge, ev_009; Clean Fleets Partnership, ev_004) demonstrates understanding that presidential leverage comes from platform, moral authority, and coordination capacity rather than command. He respects institutional boundaries while maximizing influence within them - showing someone who understands the type system of governance.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_011",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Frame-dominant strategy that reframes conflicts through narrative and evidence rather than direct confrontation.",
+      "finding": "Obama's conflict strategy consistently translates adversarial positions into frame problems. Rather than direct confrontation, he recharacterizes conflicts: Senate obstruction becomes a 'founding fathers didn't envision' problem (ev_010); Republican opposition becomes about 'running out of excuses' (ev_023); climate denial becomes 'something to build upon' (ev_041). His sequestration response documented 'real human costs' (ev_014) to reframe the debate from abstract budget numbers to concrete beneficiaries. He rarely engages in direct personal conflict, preferring to attribute obstruction to systemic dysfunction rather than opponent malice. The debt ceiling stance (ev_015) is notable as a boundary case where he refused reframing - establishing an invariant. This suggests a translator rather than fighter, someone who converts conflict into persuasion through narrative and evidence.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_014",
+        "ev_015",
+        "ev_023",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term orientation with explicit concern for intergenerational responsibility and structural sustainability.",
+      "finding": "Obama demonstrates strong long-term orientation across multiple domains. Climate policy explicitly focuses on 'low-carbon future' and leaving 'a better, cleaner, safer future for our children' (ev_041). Healthcare reform aimed to extend 'Medicare solvency by at least 12 years' (ev_002) - structural solvency rather than short-term fixes. His farewell address explicitly calls for civic engagement 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). The Cancer Moonshot represents 45-years-in-the-making structural challenge (ev_042). His deficit reduction framing references 'fastest rate since World War II' (ev_016) and explicitly rejects 'decades-long erosion of middle-class jobs' (ev_024). Even his TPP argument frames rules that will govern 'the global economy' for generations (ev_031). This reflects someone optimizing for mission-scale time horizons rather than electoral cycles.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strongly prefers structural redesign when systemic failures are identified, accepting short-term instability for long-term correctness.",
+      "finding": "Obama consistently chooses structural solutions over patches when facing systemic problems. ACA represents complete redesign of healthcare access and financing rather than incremental expansion of existing programs. Dodd-Frank (Wall Street Reform) explicitly aims to prevent future crises through institutional redesign ('no taxpayer bailouts since passage' - ev_028) rather than crisis-by-crisis response. His energy Blueprint for 2025 (ev_004) rejects single-variable solutions ('drilling alone is not a real strategy' - ev_005) in favor of multi-pronged structural approach. The sequester fights show his preference: he documents how temporary fixes fail and pushes for 'balanced deficit reduction approach' (ev_013) rather than continued patches. The Cancer Moonshot represents building 'the army,' 'powerful new tools,' and 'clear strategy' (ev_042) - infrastructure for ongoing work rather than one-time solution. This reflects someone who, when encountering systemic failure, prefers to redesign the type system rather than patch the type instances.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_005",
+        "ev_013",
+        "ev_028",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of growth, limitations, and iterative learning.",
+      "finding": "Obama demonstrates notable metacognitive reflection throughout his presidency. His farewell address explicitly credits learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). On trade policy, he explicitly acknowledges prior failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) - showing self-awareness about policy track record. His government modernization approach ('asked some of the sharpest minds from companies in Silicon Valley to help us modernize' - ev_037) reflects recognition of expertise limits. The farewell address's emphasis on 'continued civic participation' beyond elections (ev_046) suggests awareness that institutional change requires beyond-presidential commitment. He regularly references lessons learned from specific communities (Joplin rebuild, Boston resilience - ev_045). This pattern suggests someone who actively monitors his reasoning, acknowledges errors, and explicitly frames future engagement as learning.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_037",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "boundary_enforcement_invariants",
+      "definition": "The tendency to identify and defend non-negotiable system boundaries (invariants) while being flexible on implementation details. This differs from control_orientation which focuses on mechanism design; boundary_enforcement focuses on what constraints are treated as absolute versus negotiable.",
+      "finding": "Obama's governance style reveals a consistent pattern of defining and defending certain boundaries as invariants while remaining flexible on implementation. The debt ceiling statement ('I will not negotiate over the full faith and credit of the United States' - ev_015) treats constitutional fiscal integrity as absolute. The distinction between 'war with al-Qaeda' versus Islam (ev_012) establishes a categorical boundary in foreign policy. His veto threat on Dodd-Frank repeal (ev_029) treats regulatory architecture as invariant. This contrasts with his flexibility on how to achieve goals - he accepts bipartisan negotiation on transportation (ev_008), various paths to veteran hiring (ev_009), and multiple mechanisms for clean energy (ev_004). The pattern suggests someone who mentally partitions constraints into 'hard boundaries' (where he will stand firm) and 'soft variables' (where negotiation is acceptable), reflecting type-system thinking where certain types are invariant and others are parametric.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_009",
+        "ev_012",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

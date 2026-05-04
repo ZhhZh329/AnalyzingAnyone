@@ -1,0 +1,170 @@
+{
+  "discipline": "sociology",
+  "lens": "weber_rationalization",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Active world-shaper using institutional tools to bend history toward policy goals, but consistently attributes outcomes to collective American agency rather than personal ambition",
+      "finding": "Obama consistently positioned himself as an active shaper of policy outcomes rather than a reactive structure-responder. He declared a 'Year of Action' and took over 20 executive actions when Congress blocked legislative priorities (ev_019). He announced the Cancer Moonshot with clear goal-setting (ev_042), established an energy blueprint targeting one-third oil import reduction by 2025 (evt_004), and framed economic progress as direct result of presidential leadership: 'America's resurgence is real' (ev_024). However, his rhetoric consistently deflects personal credit to collective action—'It's you—the American people' (ev_032)—creating a distinctive pattern where world-shaping agency is exercised but publicly attributed elsewhere. This suggests a leader who internalizes Weber's understanding that individual achievement is embedded in social structures, or who strategically manages public perception of presidential power.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_024",
+        "ev_032",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Verstehen-informed approach combining empathetic understanding of citizen experience with rigorous quantitative measurement of outcomes",
+      "finding": "Obama's speeches reveal a distinctive epistemic pattern balancing Verstehen (understanding from the actor's subjective experience) with systematic data collection. He consistently frames policy through human impact narratives: 'There are parents whose kids just got kicked out of Head Start programs scrambling for a solution' (ev_014). His personal storytelling—growing up without a father (ev_006), coaching his daughter's basketball team (ev_007)—demonstrates empathetic imagination. Yet simultaneously, he grounds arguments in precise metrics: 'nearly 11 million new jobs' over '57 months' (ev_025), '$11 billion back in the pockets of more than 26 million consumers' (ev_028), 'wind power threefold... solar power more than thirtyfold' (ev_040). This dual capacity—feeling with citizens while calculating for systems—mirrors Weber's own methodology combining understanding with causal explanation. Obama demonstrates understanding-based communication as rhetorical strategy while relying on rationalized measurement for legitimacy claims.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_014",
+        "ev_025",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization in communication style with clear philosophical frameworks, though always grounded in concrete metrics and human stories",
+      "finding": "Obama demonstrates strong abstraction capacity through articulate policy philosophy—'Our economy grows best not from the top-down, but from the middle-out' (ev_021)—and systematic policy frameworks like the energy blueprint targeting one-third oil import reduction by 2025. His 'Top 10 Things that Happened in 2015' year-end address represents highly formalized categorization (ev_033, ev_035). However, abstraction never floats free from evidence: each philosophical claim anchors to specific metrics or human stories. He builds ideal types—'middle-out economics,' 'balanced approach,' 'Year of Action'—as analytical tools while maintaining empirical grounding. This suggests Weberian ideal-type thinking: constructing pure concepts to illuminate complex reality rather than reducing reality to those concepts. Obama's formalization serves democratic communication—making complex policy comprehensible—rather than bureaucratic opacity.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "System-rational control through regulatory frameworks, bureaucratic oversight, and procedural reform rather than personal power accumulation",
+      "finding": "Obama's control orientation manifests through institutional rationalization—creating rules, oversight mechanisms, and procedural structures—rather than personal power hoarding. His signature achievements—Dodd-Frank consumer protections (ev_028), ACA Medicare extension (ev_002), Clean Fleets Partnership (evt_004)—all establish systematic regulatory frameworks. He pushed for procedural reforms: '90-day up-or-down votes on nominations' to reduce Senate obstruction (ev_010). His veto threats protect regulatory systems, not personal authority: 'I will veto it. We've worked too hard to recover from one crisis only to risk another' (ev_029). Notably, he refused to negotiate over debt ceiling, declaring institutional integrity non-negotiable: 'The United States of America is not a deadbeat nation' (ev_015). This suggests control as system-maintenance—ensuring rationalized institutions function properly—rather than personal power accumulation. Obama operates within rational-legal authority structures, strengthening them rather than circumventing them.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_010",
+        "ev_015",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission orientation with explicit value-rational grounding, willing to absorb social conflict costs but framing opposition through systemic rather than personal terms",
+      "finding": "Obama demonstrates pronounced mission orientation—'Medicare isn't just a program. It's a commitment... As long as I am President, that's a commitment this country is going to keep' (ev_001)—framing policy as sacred obligation. He absorbed significant political conflict costs: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020) while maintaining institutional decorum. However, his mission framing is consistently value-rational—anchored in principles like opportunity ('no matter who you are or how you started out, with hard work and responsibility, you can get ahead' (ev_018)) rather than pure cost-benefit calculation. His refusal to negotiate over debt ceiling demonstrates willingness to risk institutional confrontation for principle. Yet he never personalizes opposition—he characterizes Congressional blocking as systemic dysfunction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010)) rather than attributing malice. This suggests mission-cost absorption managed through institutional legitimacy rather than personal relationship sacrifice.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_010",
+        "ev_018",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse within institutional parameters, preferring balanced approaches and bipartisan coalitions over high-stakes gambles",
+      "finding": "Obama consistently demonstrates risk-minimization within institutional frameworks. His signature economic prescription is 'balanced, comprehensive way, by making sensible changes to entitlement programs and reforming our tax code' (ev_013)—explicitly rejecting unilateral action. He builds bipartisan coalitions even on partisan issues: 'representatives from the AFL-CIO and the Chamber of Commerce—two groups who don't always see eye-to-eye' (ev_008). He acknowledges past trade deal failures while defending new agreements: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—demonstrating institutional learning rather than heroic risk-taking. His framing of the bipartisan budget as 'Christmas miracles' (ev_048) celebrates consensus as triumph. This contrasts sharply with Weber's charismatic leaders who embrace radical uncertainty. Obama represents bureaucratic rationality in leadership—calculating achievable outcomes, building coalitions, minimizing failure modes. He takes risks through systematic innovation (government tech modernization through Silicon Valley partnerships (ev_037)) but avoids political gambles.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_027",
+        "ev_037",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respects formal hierarchy while consistently working to democratize access and empower citizens outside institutional power",
+      "finding": "Obama operates within legal-rational authority structures while actively working to flatten hierarchical barriers. As Commander-in-Chief, he articulates clear chain-of-command understanding: 'I have no more solemn obligation than leading our men and women in uniform' (ev_038). He uses presidential powers—vetoes, executive orders, legislative strategies—within constitutional bounds. Yet simultaneously, he calls for government modernization (ev_037), encourages civic participation 'beyond elections' (evt_023), and frames his role as empowerment rather than control: 'Our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036). His farewell address epitomizes this—declaring renewed optimism and committing to work 'as a citizen' (ev_047). This represents a distinctive Weberian position: accepting hierarchical authority as necessary while orienting it toward democratic ends. Obama does not resist rationalized hierarchy; he attempts to steer it toward broader benefit, suggesting hierarchical power as instrument rather than goal.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_037",
+        "ev_038",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Institutional translation of conflict into formal procedures and bureaucratic mechanisms, with strategic delay and escalation through appropriate channels",
+      "finding": "Obama consistently translates conflict into institutional channels rather than personal confrontation or avoidance. When facing Congressional obstruction, he escalated through appropriate mechanisms—calling for procedural reform ('90-day up-or-down votes' (ev_010)), issuing veto threats (ev_029), and using executive actions as alternative pathways (ev_019). He framed conflict in systemic terms: 'Neither party has been blameless in tactics like these' (ev_010)—acknowledging structural rather than personal failure. When facing dual urgent deadlines (transportation funding and student loan rates), he named specific timelines and consequences, forcing institutional response (ev_011). His conflict strategy reflects rationalized management—systemic problems require systemic solutions, not personal relationships. He delays strategically, accumulating evidence and public support before engaging conflicts. This contrasts with charismatic leaders who might bypass institutions or traditional leaders who might negotiate personally. Obama institutionalizes conflict, reflecting Weber's understanding of modern rationalization.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_011",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale time orientation with systematic tracking of multi-year outcomes, balancing immediate political pressures against generational policy impacts",
+      "finding": "Obama demonstrates consistent mission-scale time horizons across policy domains. His energy blueprint targets 'one-third by 2025' (evt_004)—a 14-year projection. He celebrates '57 consecutive months of job growth' (ev_025), tracks Medicare solvency extension 'at least 12 years' (ev_002), and declares deficit reduction 'at the fastest rate since the end of World War II' (ev_016). His Cancer Moonshot inherits Nixon's 1971 declaration, positioning within 45-year trajectory (ev_042). Even short-term political speeches embed long-term framing: 'We'll have cut our deficits by more than half since I took office' (ev_016). He resists purely short-term political calculation—refusing to negotiate debt ceiling despite immediate pressure (ev_015)—demonstrating mission integrity. His farewell address explicitly frames future orientation: 'for all my days that remain... renewed optimism' (ev_047). This suggests Weberian calling-orientation—presidential role as generational responsibility, not electoral cycle.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_025",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for comprehensive structural redesign over incremental repair, using executive action to build parallel systems when primary channels blocked",
+      "finding": "Obama consistently favors comprehensive redesign when systemic problems require systemic solutions. His three signature achievements—ACA (healthcare system redesign), Dodd-Frank (financial regulatory redesign), energy blueprint (energy system redesign)—all represent fundamental restructuring rather than修补. When legislative channels blocked his priorities, he built parallel institutional structures: 'I've taken more than 20 executive actions' during 'Year of Action' (ev_019), including contractor minimum wage through executive order (ev_017). He explicitly framed executive action as alternative to legislative failure: 'Republicans in Congress have blocked... so I took action' (ev_020). His government modernization initiative—inviting Silicon Valley talent to redesign federal systems (ev_037)—reflects fundamental institutional redesign rather than procedural adjustment. This suggests Weberian orientation toward rational-legal system construction: when institutional channels malfunction, build new systems rather than patching broken ones. Obama demonstrates rationalized ambition—the drive to restructure systems comprehensively rather than accepting constrained incrementalism.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit acknowledgment of learning, honest self-assessment, and multi-perspective reasoning",
+      "finding": "Obama demonstrates notable metacognitive sophistication through multiple patterns. He explicitly acknowledges learning from citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—recognizing feedback loops shaping his judgment. He offers honest self-assessment: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). He reflects on accumulated experience across eight years: 'I've seen neighbors looking out for each other... I've hugged cancer survivors... I've seen communities rebuild' (ev_045)—demonstrating pattern recognition across diverse contexts. His conceptual framework—'middle-out economics,' 'balanced approach,' 'resurgence'—represents explicit theoretical models he uses to organize complex reality. However, his metacognition operates primarily in public rhetorical mode, making it difficult to assess private cognitive monitoring. The public-facing nature of presidential communication may flatten cognitive nuance into accessible narratives. Still, the evidence suggests strong self-awareness: Obama monitors his own reasoning, incorporates feedback, and explicitly reflects on his cognitive evolution—a key capacity for avoiding rationalization's self-concealing tendencies.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_rationalization",
+      "definition": "The use of rationalized bureaucratic systems (metrics, procedures, formal rules) toward explicitly democratic rather than technocratic ends—the attempt to make Weber's 'iron cage' serve popular sovereignty rather than replace it. This distinguishes Obama's rationalization from purely efficiency-oriented or technocratic leadership.",
+      "finding": "Obama's governing approach reveals a distinctive pattern: he embraces rationalized systems—quantified outcomes (ev_025, ev_033), formal procedures (ev_010), bureaucratic mechanisms (ev_028)—while consistently framing their purpose as democratic empowerment ('restoring opportunity for all' (ev_018), 'no matter who you are' (ev_018)). This contrasts with technocrats who use rationalization to replace democratic judgment, or populists who resist rationalization in favor of direct citizen feeling. Obama's 'middle-out' economics explicitly connects systemic rationalization to democratic distribution: 'We do better when the middle class does better' (ev_021). His government modernization initiative—inviting Silicon Valley to redesign federal systems for 'the way we live today' (ev_037)—represents rationalization serving accessibility rather than bureaucratic self-perpetuation. This emergent dimension captures Obama's distinctive political position: accepting rationalization's necessity while attempting to orient it toward democratic ends, treating the 'iron cage' as tool rather than inevitability.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "empathetic_rationality",
+      "definition": "The capacity to hold simultaneous commitment to quantitative measurement and humanistic understanding—to use data and metrics while maintaining emotional resonance with citizen experience. This represents a distinctive epistemic synthesis rather than alternation between rational and empathetic modes.",
+      "finding": "Throughout Obama's speeches, quantitative precision and humanistic empathy appear not as opposing modes but as integrated synthesis. He frames sequester impacts through both specific consequences ('Head Start programs,' 'Meals on Wheels,' 'military communities' (ev_014)) and aggregate metrics. He celebrates 11 million jobs created (ev_025) while also noting 'wages are on the rise again'—connecting systemic measurement to working-family experience. His fatherhood address combines personal vulnerability ('I grew up without my father around' (ev_006)) with programmatic policy announcements. This suggests 'empathetic rationality'—the Weberian leader who calculates means and ends while never losing sight of the human beings who are both means and ends of policy. It contrasts with purely instrumental rationality (which treats people as objects of calculation) or purely expressive leadership (which resists measurement). Obama demonstrates that rationalized governance need not sever empathetic connection—that the 'iron cage' can have windows.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_014",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

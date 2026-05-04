@@ -1,0 +1,180 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "operations_and_systems_engineering_capacity_planning",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Structure-responder with deliberate world-shaping tendencies; navigates institutional constraints while expanding available action space through executive mechanisms and public coalition-building",
+      "finding": "Obama consistently operates within existing political structures (Congress, judicial system, international frameworks) while systematically expanding his agency through executive orders, strategic public appeals, and coalition-building across traditional boundaries. His approach to the sequester crisis (ev_013, ev_014) demonstrates this pattern: he worked within the constraint structure but refused to accept the implied dependency (debt ceiling negotiations). His 'Year of Action' (ev_019) exemplifies deliberate world-shaping within given constraints—using the federal contracting apparatus as a capacity lever rather than waiting for Congressional action. He recognized institutional limits but methodically identified alternative pathways (ev_017: minimum wage via contractors; ev_026: TPP as geopolitical capacity-building).",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_019",
+        "ev_017",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with strong emphasis on quantified metrics and trend analysis; combines empirical analysis with narrative persuasion",
+      "finding": "Obama's decision-making consistently references concrete data: deficit trajectories (ev_016: 'fastest rate since World War II'), employment statistics (ev_025: '11 million new jobs over 57 months'), consumer protection recoveries (ev_028: '$11 billion for 26 million consumers'), and energy capacity metrics (ev_040: 'wind power tripled, solar thirtyfold'). His economic philosophy explicitly ties to observed outcomes (ev_021: 'our economy grows best not from the top-down, but from the middle-out') based on empirical patterns. However, he translates these into persuasive narratives rather than purely analytical frameworks—his speeches weave metrics into moral arguments. This dual modality allows him to satisfy both data-oriented advisors and public intuition while maintaining flexibility in framing.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high formalization; works with abstract principles (balanced approach, middle-class opportunity) but grounds them in specific policy variables with measurable targets",
+      "finding": "Obama demonstrates sophisticated capacity modeling through his policy frameworks. His 'balanced approach' to deficit reduction (ev_013) explicitly combines abstract principles with variable specifications (entitlement reform + tax code restructuring). His minimum wage advocacy (ev_018: 'restore opportunity for all') translates into specific numeric thresholds ($10.10/hour) with identifiable implementation mechanisms (federal contractors first, Congressional extension sought second). His energy policy (ev_004) establishes quantified targets ('cut oil imports by one-third by 2025') alongside mechanism specifications (Clean Fleets Partnership with named corporate partners). This suggests he models policy as systems with inputs, constraints, and measurable outputs rather than purely ideological positions.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_018",
+        "ev_004",
+        "ev_021",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control; uses direct mechanisms where available but acknowledges distributed control environments and works through incentive structures and deadline management",
+      "finding": "Obama's capacity management reveals sophisticated understanding of control boundaries in democratic systems. He directly controls executive branch capacity (ev_017: contractor minimum wage; ev_019: 20+ executive actions) but explicitly acknowledges Congressional constraints (ev_011: sequester as structure he cannot unilaterally redesign). His approach to transportation funding (ev_006, ev_011) shows deadline-based control—using time-boxed constraints as forcing functions rather than attempting direct override. His Veterans hiring challenge (ev_009) used indirect leverage through public commitment and private sector invitation rather than mandates. This suggests adaptive control orientation: identifying which system elements are directly controllable and engineering pressure points in others rather than assuming full system command.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_006",
+        "ev_011",
+        "ev_009"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with calculated tolerance for relational costs when policy goals require confrontation; maintains long-term relationship preservation where possible",
+      "finding": "Obama demonstrates willingness to absorb significant relational costs when core policy objectives are at stake. His repeated explicit criticism of Congressional Republicans (ev_020: 'Republicans in Congress have blocked or voted down every serious idea') indicates he prioritized agenda advancement over bipartisan relationship maintenance during 2014-2015. His debt ceiling stance (ev_015: 'I will not negotiate over the full faith and credit') accepted potential political costs for system-level stability. However, he preserved relational bridges where mission allowed—his transportation funding appeals (ev_008) explicitly sought AFL-CIO and Chamber of Commerce jointly, demonstrating selective coalition-building even in confrontational contexts. His farewell address (ev_044) suggests long-term relational orientation: framing himself as learner from citizens rather than authoritative expert.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_008",
+        "ev_044",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with strategic risk acceptance; tolerates short-term political risk for system stability while building protective redundancies in policy architecture",
+      "finding": "Obama's risk management reveals layered capacity thinking. On debt ceiling (ev_015), he took maximum political risk by refusing negotiation—a binary stance protecting system-level integrity. On sequester (ev_014), he documented human costs to build public pressure rather than accepting the cuts quietly. His climate policy (ev_041) explicitly frames Paris agreement as foundation to build upon rather than fragile achievement to protect—suggesting confidence in trajectory rather than defensive posture. However, his 'balanced approach' framing (ev_013) indicates preference for risk distribution across multiple variables rather than concentrated bets. His Iran nuclear deal and TPP negotiations show calculated entry into uncertain environments with structured verification mechanisms rather than risk avoidance.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_014",
+        "ev_041",
+        "ev_013",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical authority wielder with coalition-extension strategy; uses formal position power while systematically expanding support bases through cross-segment partnerships",
+      "finding": "Obama demonstrates sophisticated hierarchy navigation. He explicitly wields presidential authority when structurally appropriate (ev_029: veto threats on Dodd-Frank repeal; ev_015: refusing debt ceiling negotiation) while simultaneously expanding his coalition base through non-traditional partnerships. His energy initiative (ev_004: Clean Fleets Partnership with UPS, FedEx, AT&T, Verizon, PepsiCo) and veteran hiring challenge (ev_009: challenging private companies) both extend presidential capacity beyond formal authority through voluntary corporate participation. His Congressional appeals consistently reference cross-partisan support (ev_008: AFL-CIO + Chamber of Commerce; ev_011: bipartisan Senate passage 52-22) to legitimize requests through hierarchy-crossing coalitions. This suggests hierarchical power as platform for mobilization rather than end in itself.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_004",
+        "ev_009",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation-through-public with negotiation preservation; uses public positions to establish floors while maintaining back-channel possibility for resolution",
+      "finding": "Obama's conflict approach combines public escalation with strategic negotiation preservation. His debt ceiling position (ev_015) established absolute public floor ('I will not negotiate') while leaving implementation details to Congress—conflict without complete shutdown. His minimum wage advocacy (ev_023) used survey data of small business support to delegitimize opposition publicly while continuing to seek legislative path. His Congressional obstruction critique (ev_010) named specific mechanism ('One senator gumming up the works') without personalizing beyond systemic critique. His trade promotion authority appeal (ev_026) framed TPP as protecting American workers and businesses—conflict with China-competitive framing rather than Congressional warfare. This suggests conflict as mechanism for public positioning and coalition activation rather than relationship termination.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_023",
+        "ev_010",
+        "ev_026",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale with strong medium-term buffer consciousness; optimizes for multi-administration impact while managing immediate political cycles",
+      "finding": "Obama's capacity planning reveals strong orientation toward multi-generational infrastructure. His energy blueprint (ev_004) targets 2025 outcomes—deliberately beyond any single presidential term. His Medicare reform (ev_001, ev_002) explicitly framed solvency extension as multi-decade commitment. His climate policy (ev_040, ev_041) built toward Paris agreement as foundational capacity for decades of future work. His Cancer Moonshot (ev_042) explicitly addresses 45-year accumulated capacity gap. However, he simultaneously manages immediate political cycles—his 'Year of Action' (ev_015) addressed near-term political constraints while framing legacy. His year-end addresses (ev_022, ev_024) show consciousness of both immediate accomplishments and cumulative trajectory. This suggests dual-horizon management: immediate political survival layered under mission-scale capacity building.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_001",
+        "ev_002",
+        "ev_040",
+        "ev_042",
+        "ev_015",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural interventionist with partial-patch supplementary strategy; favors comprehensive legislative solutions with executive order supplementation where legislative path closes",
+      "finding": "Obama shows clear preference for comprehensive structural solutions when political capacity permits. The ACA represents complete system redesign rather than incremental patch. Dodd-Frank established comprehensive regulatory architecture. His education initiatives (ev_048) sought legislative foundations. However, his 'Year of Action' (ev_015, ev_019) demonstrates adaptive rebuild when structural legislative path closes—using executive orders to approximate desired architecture within reduced scope. His infrastructure advocacy (ev_006) sought comprehensive funding redesign rather than temporary extensions. His energy policy (ev_004) explicitly rejected single-vector solutions ('Drilling alone is not a real strategy') in favor of multi-dimensional capacity building. This suggests philosophical commitment to systemic redesign with pragmatic supplementation through partial mechanisms when comprehensive solutions are blocked.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_006",
+        "ev_004",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with adaptive self-correction; demonstrates capacity for system-level self-reflection and acknowledges cognitive limits while modeling evidence-based reasoning",
+      "finding": "Obama demonstrates notable metacognitive sophistication in his public communications. His farewell address (ev_044) explicitly positions himself as learner from citizen interactions—'Every day, I learned from you. You made me a better President, and you made me a better man.' His trade policy acknowledgment (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') shows self-awareness of historical limitations without wholesale rejection of approach. His capacity self-assessment acknowledges Congressional constraints as structural features rather than personal failures (ev_011: Congressional blocking rather than presidential inadequacy framing). His civic engagement call (ev_046) explicitly positions democracy as requiring continuous collective correction, not presidential omniscience. This suggests metacognitive framework where presidential capacity is distributed, adaptive, and necessarily incomplete—leading to coalition-building rather than solitary decision-making as default mode.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_011",
+        "ev_046",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "parallel_timeline_coordination",
+      "definition": "Managing multiple concurrent deadlines and dependency chains across different policy domains simultaneously, recognizing that late-stage interventions on one track can cascade into others",
+      "finding": "Obama demonstrates sophisticated parallel timeline management across his policy portfolio. The dual-deadline scenario (ev_011: 'seven days away from thousands of American workers... eight days away from nearly seven and a half million students') explicitly coordinates transportation funding and student loan rate timing. His sequester warnings (ev_013, ev_012) coordinate across national security, education, and research capacity with explicit cascade warnings ('Head Start program cuts, airport disruptions, military strain'). His year-end coordination (ev_022, ev_048) manages legislative, diplomatic, and domestic timelines simultaneously. This suggests a capacity planning disposition that maps interdependencies across time rather than treating deadlines as isolated events—recognizing that policy systems have shared resources and constraint interactions that require coordinated management rather than siloed firefighting.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_012",
+        "ev_022",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "capacity_multiplication_through_catalytic_partnerships",
+      "definition": "Expanding available capacity beyond formal authority through voluntary partnerships that multiply resource availability without requiring legislative approval or budget allocation",
+      "finding": "Obama systematically expands governmental capacity through strategic partnership structures. His Clean Fleets Partnership (ev_004: UPS, FedEx, AT&T, Verizon, PepsiCo) mobilizes corporate resources toward public goals without direct appropriation. His veteran hiring challenge (ev_009) converts private sector capacity toward public policy objectives through public commitment mechanisms. His Silicon Valley government modernization initiative (ev_037: Presidential Innovation Fellows) brings technology sector talent into government to multiply technical capacity. His father's day partnerships (ev_006: White House partnerships with businesses for fatherhood) extends program capacity through corporate volunteerism. This pattern suggests a capacity planning philosophy that treats partnership networks as infrastructure—deliberately building relationship capacity that can be mobilized for multiple policy objectives rather than treating each challenge as requiring new legislative or budgetary authority.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_009",
+        "ev_037",
+        "ev_006",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

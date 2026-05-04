@@ -1,0 +1,163 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_emotion_self_regulation_self_determination_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation with adaptive strategic deployment",
+      "finding": "Obama consistently demonstrates a world-shaping orientation, taking proactive initiative even when facing institutional resistance. His 'Year of Action' declaration (evt_015, ev_019) and executive order on federal contractor minimum wage (evt_014, ev_017) exemplify agency directed at systemic change. Crucially, his agency style shows adaptive flexibility—rather than purely reactive responding, when Congressional obstruction blocked legislative pathways (ev_020), he systematically pivoted to executive actions while maintaining institutional legitimacy. The veteran hiring challenge (evt_007, ev_009) and Cancer Moonshot (evt_026, ev_042-43) reveal motivation driven by issue importance rather than power consolidation, suggesting high autonomy orientation in SDT terms. His agency serves collective outcomes ('our economy' - ev_004) rather than personal control seeking, consistent with integrated regulation of externally-valued goals.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_009",
+        "ev_020",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded reasoning with values integration and epistemic humility",
+      "finding": "Obama displays a sophisticated epistemic style combining empirical basis with value-integration. He consistently cites quantitative evidence—job creation numbers (ev_025, ev_033), deficit reduction figures (ev_016), consumer recovery amounts (ev_028)—while integrating these within broader value frameworks like 'opportunity for all' (ev_018) and 'middle-out economics' (ev_021). Notably, he demonstrates epistemic humility in acknowledging limitations: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), showing awareness that policy positions require ongoing evaluation against outcomes. This pattern suggests identified regulation—policies justified through personally endorsed values rather than mere external compliance. His approach to complex issues (energy security requiring multiple strategies, not just drilling - ev_005) reflects nuanced belief formation integrating multiple data sources.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_027",
+        "ev_005",
+        "ev_025",
+        "ev_016"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with pragmatic flexibility on implementation",
+      "finding": "Obama demonstrates strong abstract reasoning capacity and systematic policy formalization. His policy communications display coherent frameworks: 'middle-out' economic philosophy (ev_021), balanced deficit reduction approach (ev_013), comprehensive energy blueprint with multiple components (evt_004). The ACA extension of Medicare solvency by 12+ years represents formal institutional engineering at systemic scale (ev_002). However, his abstraction is balanced with pragmatic flexibility—he accepts bipartisan partial solutions ('Christmas miracles' in budget deal - ev_048) while maintaining core principles. His articulation of TPP as alternative to China writing global rules (ev_031) shows capacity for high-level geopolitical abstraction. This suggests integrated regulation—abstract principles are internalized and adapted to situational constraints rather than rigidly applied, consistent with high SDT internalization.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_013",
+        "ev_002",
+        "ev_031",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Institutional systems preference with rule-based control approach",
+      "finding": "Obama's control orientation manifests primarily as commitment to institutional frameworks and rule-based governance rather than personal dominance. His refusal to negotiate over debt ceiling ('I will not negotiate over the full faith and credit' - ev_015) reflects control through institutional principle rather than political maneuvering. The Dodd-Frank defense and veto commitment (ev_029) shows preference for codified consumer protections over ad hoc arrangements. This pattern indicates autonomous regulation of systemic controls—heinternalized these institutional frameworks as personally meaningful commitments. When facing Congressional resistance, he shifts to executive rule-making (federal contractor minimum wage - ev_017) rather than interpersonal power consolidation, maintaining institutional legitimacy while exercising available authority. The consistent pattern of calling for 'bipartisan' solutions (ev_008, ev_048) suggests control through building legitimate consensus rather than overcoming opposition.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_017",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with relational-cost-minimizing communication style",
+      "finding": "Obama demonstrates clear mission prioritization across multiple domains: veteran unemployment and hiring (evt_007, ev_009, ev_038), Head Start and vulnerable population protection (ev_014), Medicare commitment (ev_001). He explicitly accepts political costs for these missions, stating Republican opposition cannot block action (ev_020). However, his relational cost profile is unusual—he minimizes relational damage through inclusive rhetorical framing that attributes credit to collective effort ('America's resurgence is real' - ev_024, 'all of this progress is because of you' - ev_032). This suggests sophisticated integrated regulation where mission goals are internalized but pursued through relational-preserving means. The Father's Day address (evt_005, ev_006-007) reveals personal mission integration—fatherhood values inform public advocacy—suggesting high internalization where public and private value systems align.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_038",
+        "ev_032",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated strategic risk-taking within structured frameworks",
+      "finding": "Obama's risk posture combines ambition with systematic constraint. The Cancer Moonshot (evt_026, ev_042-43) represents high-risk, high-reward scientific initiative with clear institutional structure through Presidential Innovation Fellows (ev_043). Paris Agreement commitment (ev_041) demonstrates willingness to pursue transformative international frameworks despite political vulnerability to reversal. However, his risk approach is consistently framed within evidence-based decision-making: 'carbon pollution at its lowest level in 25 years' (ev_040) grounds ambition in measurable progress. His energy strategy explicitly rejects simplistic single-approach risks ('drilling alone is not a real strategy' - ev_005), preferring diversified portfolio approaches. This suggests autonomy-oriented risk tolerance driven by internally-valued goals, accepting uncertainty when aligned with endorsed objectives, while maintaining systematic frameworks to manage downside.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_041",
+        "ev_005",
+        "ev_040",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimacy leverage with principled boundary-setting",
+      "finding": "Obama demonstrates nuanced hierarchy relations—invoking institutional legitimacy while maintaining principled boundaries. His critique of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' - ev_010) frames opposition as violating democratic principles, not merely political disagreement. The refusal to negotiate debt ceiling (ev_015) uses institutional commitment as power lever rather than personal authority. Bipartisan coalitions with AFL-CIO and Chamber of Commerce (ev_008) leverage hierarchy through legitimacy accumulation. His military role framing ('no more solemn obligation than leading our men and women in uniform' - ev_038) shows acceptance of hierarchical responsibility without dominating it. This pattern suggests autonomous orientation to power—willing to use institutional position but bound by internalized principles rather than raw power accumulation. The clean break between religious identity and counterterrorism framing (ev_012) shows capacity to resist simplistic hierarchy appeals when they conflict with principled positions.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_008",
+        "ev_038",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Reframing-based negotiation with strategic escalation within boundaries",
+      "finding": "Obama's conflict strategy centers on strategic reframing to shift conflict terrain. His approach to Congressional opposition reframes political disagreement as institutional dysfunction ('Republicans have blocked every serious idea' - ev_020), converting partisan conflict into systemic critique. On trade policy, he reframes past failures as lessons informing better future approaches (ev_027), transforming potential criticism into legitimizing narrative. The sequester response (evt_012, ev_014) shows escalation strategy through documenting human costs—shifting conflict from budget abstraction to human impact. However, boundaries are maintained: debt ceiling is explicitly non-negotiable (ev_015) even as other areas remain open for compromise. This suggests integrated conflict regulation—outcomes are sought but within personally endorsed constraints, making strategic concessions when aligned with core values while maintaining principled positions on fundamental issues.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_027",
+        "ev_014",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission-scale orientation with generational framing",
+      "finding": "Obama consistently operates on long-term and mission-scale horizons. Deficit reduction framed as multi-year trajectory ('deficits falling at fastest rate since World War II' - ev_016, 'cut our deficits by more than half' - ev_016). Energy policy explicitly targets 2025 (evt_004). Climate commitments frame legacy for children (ev_041). The Cancer Moonshot operates on multi-decade scale (ev_042). Even when facing immediate pressures (transportation funding, student loan rates - ev_011), these are contextualized within broader progress narratives. His farewell address frames remaining life as sustained civic contribution ('for all my days that remain' - ev_047). This strongly suggests intrinsic motivation operating alongside integrated regulation—long-term goals are pursued because they are valued in themselves, not merely as instrumental for external rewards. The decade-plus extension of Medicare solvency (ev_002) exemplifies mission-scale temporal orientation.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_041",
+        "ev_042",
+        "ev_002",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference with pragmatic system preservation",
+      "finding": "Obama demonstrates consistent preference for systemic redesign over incremental patching. Dodd-Frank established comprehensive new regulatory architecture (evt_020, ev_028-29), not marginal reform. ACA restructured healthcare financing fundamentally (ev_001-02). Energy Blueprint targets one-third oil import reduction through comprehensive strategy (evt_004). The 'Year of Action' (evt_015) explicitly favors executive structural actions over waiting for Congressional compromise. However, when systemic redesign is blocked, he shows pragmatic acceptance of partial institutional preservation—defending existing frameworks (Dodd-Frank veto commitment - ev_029, Medicare commitment - ev_001) rather than abandoning them. The government modernization through Silicon Valley partnerships (ev_037) reflects structural innovation approach. This suggests integrated regulation where systemic change is preferred but not dogma—existing structures are defended when new construction isn't feasible, balancing rebuild orientation with practical system preservation.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_001",
+        "ev_002",
+        "ev_004",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with adaptive communication capacity",
+      "finding": "Obama demonstrates strong metacognitive awareness in multiple patterns. His farewell reflection explicitly identifies learning through interaction ('Every day, I learned from you. You made me a better President' - ev_044), showing self-monitoring of cognitive and professional growth. The Father's Day personal disclosure (ev_006) reveals willingness to acknowledge formative limitations and their ongoing influence. Recognition of trade policy complexity ('past trade deals haven't lived up to the hype' - ev_027) shows awareness that positions require ongoing evaluation. His communication strategy shows meta-awareness of framing effects—the distinction between al-Qaeda and Islam (ev_012) requires understanding how language shapes perception. However, there's evidence of motivated metacognition limits—attributing difficulties to Congressional obstruction (ev_020) while less explicitly acknowledging own strategic constraints. Overall, the pattern suggests above-average metacognitive capacity with situationally adaptive deployment, consistent with integrated regulation requiring self-awareness for value coordination.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_006",
+        "ev_027",
+        "ev_012",
+        "ev_020"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "democratic_civic_motivation",
+      "definition": "Integration of civic participation into core motivation beyond instrumental political outcomes. Unlike traditional intrinsic/extrinsic motivation binaries, this construct captures motivation rooted in democratic participation norms—acting because democratic citizenship itself is valued, independent of policy success or personal benefit. Obama consistently frames his activity through civic lens ('work of citizenship' - ev_046) and pivots from presidential role to citizen role in farewell (ev_047).",
+      "finding": "Obama's motivation structure shows distinctive integration of democratic participation values beyond typical political motivation categories. His farewell address explicitly frames presidency as temporary role enabling sustained civic contribution ('as a citizen, for all my days that remain' - ev_047), suggesting internalized democratic participation norms transcending role-based motivation. The call for civic engagement beyond elections (ev_046) indicates motivation grounded in democratic theory concepts rather than standard extrinsic incentives or pure intrinsic task-interest. This appears distinct from SDT's integrated regulation category—which focuses on bringing external requirements into self—because it involves bringing abstract democratic participation principles into identity. The pattern suggests a specific form of internalized motivation rooted in civic republican traditions rather than either intrinsic task enjoyment or identified regulation of external requirements.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_047",
+        "ev_036",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

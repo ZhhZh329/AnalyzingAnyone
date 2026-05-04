@@ -1,0 +1,185 @@
+{
+  "discipline": "philosophy",
+  "lens": "philosophy_of_law",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Active world-shaper who works within constraints but strategically expands the boundaries of executive authority when institutional pathways are blocked",
+      "finding": "Obama demonstrates a world-shaping orientation through his systematic use of executive actions to achieve policy goals when Congressional cooperation fails. Evidence shows over 20 executive actions taken in 2014 alone (ev_019) to raise wages, which he explicitly framed as response to Republican obstruction: 'Republicans in Congress have blocked or voted down every serious idea to create jobs' (ev_020). This pattern reveals a sophisticated legal consciousness that treats executive authority as a legitimate tool for democratic ends when legislative channels are unavailable. His position on Dodd-Frank—vowing veto of any repeal attempt (ev_029)—demonstrates proactive defense of structural legal frameworks he helped create. Rather than passive response to circumstances, Obama actively shapes the legal environment by building coalitions, establishing precedents, and using available constitutional means to advance his vision of economic justice.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricist combining evidence-based policy analysis with principled moral reasoning grounded in democratic values",
+      "finding": "Obama's epistemic approach blends empirical evidence with normative commitments. He frequently cites specific statistics—'$11 billion back in the pockets of more than 26 million consumers' (ev_028), 'nearly 11 million new jobs' over 57 months (ev_025), wind power 'tripled' and solar 'more than thirtyfold' (ev_040)—demonstrating reliance on measurable outcomes. However, these empirical claims serve moral arguments: consumer protection enforcement proves Wall Street Reform's value, job creation demonstrates economy's health, clean energy growth validates climate policy. His articulation of 'middle-out economics' (ev_021) reveals abstract reasoning connecting微观 policy outcomes to macro economic theory. He acknowledges uncertainty ('I'm the first to admit that past trade deals haven't always lived up to the hype'—ev_027) while maintaining principled positions. This suggests epistemic humility balanced with moral confidence—a stance that accepts empirical complexity without abandoning value commitments.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_025",
+        "ev_040",
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-to-high abstraction with preference for principled frameworks over technical legal formalization",
+      "finding": "Obama operates at a level of principled abstraction rather than technical legal formalism. His 'middle-out' economic philosophy (ev_021) represents a conceptual framework connecting specific policies to broad social theory, but he grounds this in concrete proposals (minimum wage, fair pay, training programs) rather than abstract legal doctrine. His statements about Medicare—'a commitment to America's seniors' (ev_001)—articulate values rather than statutory analysis. Unlike a pure legal positivist who would focus on rule hierarchy and valid procedures, Obama speaks of 'opportunity for all' and 'no matter who you are or how you started out' (ev_018)—language of principle and aspiration rather than legal mechanism. However, his respect for constitutional constraints (refusing debt ceiling negotiation—ev_015) and institutional procedures (Senate confirmation process—ev_010) indicates he does not treat law as merely instrumental. His legal philosophy appears closer to Dworkin's interpretivism: law as requiring principled coherence, not just rule-following.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_001",
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong control orientation expressed through institutional design, rule enforcement, and strategic use of executive authority to shape outcomes",
+      "finding": "Obama demonstrates substantial desire to control policy outcomes through institutional mechanisms. His defense of Dodd-Frank emphasizes 'rules on Wall Street' and consumer protections enforced by the CFPB (ev_028), positioning regulatory architecture as control mechanism. His debt ceiling stance—'I will not negotiate over the full faith and credit of the United States' (ev_015)—reveals willingness to assert constitutional constraints against political pressure. He designed structural solutions: the Consumer Financial Protection Bureau with 'one mission' (ev_028), the Cancer Moonshot task force (ev_043), energy standards requiring fuel efficiency. However, his control orientation operates within accepted institutional bounds rather than pure executive dominance. He seeks to control systems and outcomes, not individuals—he builds frameworks, establishes institutions, creates procedural pathways. This suggests sophisticated control through design rather than through personal authority.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_015",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strongly mission-oriented with willingness to accept relational costs when fundamental democratic commitments are at stake",
+      "finding": "Obama's willingness to publicly criticize Congressional Republicans while maintaining policy positions demonstrates mission prioritization over relational comfort. He repeatedly called out obstruction: 'Republicans in Congress have blocked... every serious idea' (ev_020), 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He issued definitive veto threats (ev_029) and refused debt ceiling negotiation (ev_015) despite potential political costs. However, his mission is explicitly democratic—'opportunity for all,' 'middle-class wages,' 'workers deserving fair treatment'—not personal or partisan advancement. The mission he prioritizes involves restoring economic fairness and expanding social protection, which he frames as national interests rather than political preferences. This suggests mission orientation serving democratic values, accepting relational costs to maintain policy positions aligned with his conception of the common good.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_029",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with preference for calculated institutional bets over radical uncertainty",
+      "finding": "Obama demonstrates moderate risk tolerance through his willingness to use executive action and international agreements despite political uncertainty. He entered the TPP after 'five years of effort' (ev_030), acknowledging that 'past trade deals haven't always lived up to the hype' (ev_027)—suggesting risk acceptance balanced by learning. His sequester opposition accepted political conflict with Congressional Republicans over defending social programs (ev_014, ev_016). The Paris climate agreement—framed as legacy to 'build upon' (ev_041)—represents long-term institutional bet on international coordination. However, his risk posture operates within established legal and institutional frameworks. He does not advocate revolutionary change but works within constitutional structures, using existing authority (executive orders, veto power, regulatory design) rather than seeking radical transformation. His Cancer Moonshot (ev_042, ev_043) applies systematic innovation within federal structures. This suggests risk tolerance channeled through institutional means.",
+      "evidence_ids": [
+        "ev_030",
+        "ev_027",
+        "ev_041",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Respectful of institutional hierarchy with strategic deployment of hierarchical authority when values require",
+      "finding": "Obama's relationship to hierarchy reveals a complex pattern: respect for institutional constraints combined with active use of hierarchical position. His debt ceiling statement—refusing to negotiate 'over the full faith and credit of the United States' (ev_015)—treats constitutional structure as binding on his own authority, not merely as instrument to be wielded. His Memorial Day address expresses 'solemn obligation' to service members and families (ev_038), treating military hierarchy with genuine respect rather than purely instrumental regard. However, he deployed executive authority strategically: signing minimum wage executive order for federal contractors (ev_017), challenging private companies to hire veterans (ev_009), using Presidential Innovation Fellows for government modernization (ev_037). This reveals hierarchy as resource to be used in service of democratic goals, not as structure to be challenged or maintained for its own sake. His farewell address attribution—'It's you—the American people' (ev_032)—and call for civic participation beyond elections (ev_046) suggest democratic commitment moderating hierarchical authority.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_038",
+        "ev_017",
+        "ev_009",
+        "ev_037",
+        "ev_032",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-oriented with firm principle-preservation when core commitments threatened; strategic escalation within institutional bounds",
+      "finding": "Obama's conflict strategy combines persistent negotiation attempts with principled position-holding when values are at stake. He repeatedly sought bipartisan cooperation—calling transportation funding 'not a Democratic or a Republican issue' citing AFL-CIO and Chamber of Commerce coalition (ev_008). He characterized bipartisan budget as 'Christmas miracles' (ev_048). Yet he explicitly criticized Senate obstruction as contrary to 'founding fathers' intent' (ev_010), condemned Republican blocking of minimum wage, equal pay, unemployment insurance (ev_020), and issued definitive veto threats against Dodd-Frank repeal (ev_029). His sequester opposition documented human costs—Head Start cuts, seniors losing Meals on Wheels, military strain (ev_014)—framing conflict in moral terms. This suggests conflict strategy: pursue negotiation first, but when obstruction threatens core commitments, escalate through institutional means (vetoes, executive actions, public pressure) rather than either capitulation or breakdown. He translates political conflict into moral arguments about human welfare.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_014",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional focus with legacy consciousness; optimizes for durable policy frameworks rather than immediate electoral advantage",
+      "finding": "Obama's statements reveal a strong long-term horizon. He framed the Paris climate agreement as 'something to build upon' for future generations (ev_041). His farewell claimed 'America's resurgence is real' and opportunity to 'reverse decades-long erosion of middle-class jobs' (ev_024)—referencing decades-scale trends. He negotiated TPP over 'five years' (ev_030). His defense of Dodd-Frank as protecting against future crises ('recover from one crisis only to risk another'—ev_029) demonstrates temporal extension beyond immediate concerns. He reflected on eight years of progress in the context of longer historical arcs. However, he also addressed immediate crises—sequester deadlines, transportation funding expiration, student loan rate doubling in 'seven days' (ev_011)—demonstrating capacity for urgent short-term action. His 'Year of Action' (ev_015) mixed immediate executive moves with longer-term institutional building. This suggests balanced time horizon: building durable structures while responding to immediate pressures.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_024",
+        "ev_029",
+        "ev_030",
+        "ev_011",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate preference for structural redesign over incremental repair, with strategic mix depending on political feasibility",
+      "finding": "Obama's tenure shows mixed approach. Major legislative achievements—ACA, Dodd-Frank—represented structural redesigns of healthcare and financial regulation systems. The Cancer Moonshot created new cross-agency coordination structures (ev_042, ev_043). His energy blueprint aimed at fundamental transformation—cutting oil imports by one-third, multiplying wind and solar (ev_004, ev_040). However, his executive actions often patched rather than rebuilt—using existing contracting authority for minimum wage (ev_017), working within existing agencies for modernization (ev_037). His rhetoric sometimes framed structural change: 'reform our tax code' and 'sensible changes to entitlement programs' (ev_013) for deficit reduction. Yet he adapted to Congressional inaction through executive action—seeming to patch when rebuild failed. This suggests flexible approach: prefer structural solutions when political conditions permit, but patch pragmatically when blocked. The pattern shows architectural ambition constrained by political reality.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_040",
+        "ev_017",
+        "ev_037",
+        "ev_013",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with reflective capacity; demonstrates understanding of his own legal and moral reasoning, with strong sense of epistemic humility",
+      "finding": "Obama's farewell address demonstrates strong metacognitive capacity: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He reflected on diverse experiences and attributed success to collective action rather than personal genius. His statement about trade deals—'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—shows epistemic humility. He acknowledged uncertainty and complexity rather than claiming certainty. His 'Year of Action' framing recognized that executive action was response to Congressional failure, demonstrating awareness of political context. His father's day address sharing personal vulnerability (ev_006) and coaching his daughter's basketball team (ev_007) showed willingness to present himself as incomplete, learning figure rather than perfect leader. However, his consistent articulation of 'middle-out' philosophy and 'opportunity for all' also suggests stable core commitments that survive self-reflection. This pattern suggests metacognitive capacity combined with principled consistency.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "constitutional_democracy_as_problem-solving_capacity",
+      "definition": "The degree to which an actor views constitutional democracy not as constraint but as problem-solving mechanism, and whether they trust collective democratic processes to address major challenges",
+      "finding": "Obama demonstrates strong belief in democratic governance as problem-solving capacity. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges' (ev_036) reveals faith in democratic mechanism. However, his use of executive actions when Congress blocked progress suggests tension between this faith and political reality. He articulated 'restoring opportunity for all' as collective project requiring civic participation 'not just when there's an election' (ev_046). His belief in democratic problem-solving appears conditional on engaged citizenry and good-faith institutional actors. When confronted with systematic obstruction, he worked around democratic process while maintaining rhetorical commitment to democratic values. This emergent dimension captures Obama's distinctive stance: faith in democracy as ideal combined with pragmatic willingness to use executive authority when democratic deliberation fails—a tension revealing underlying theory about when democratic processes deserve deference versus when executive action becomes legitimate.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_046",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "legal_moralism",
+      "definition": "The degree to which an actor treats law as expression of moral commitments versus neutral technical instrument, and whether they believe unjust laws retain legitimate authority",
+      "finding": "Obama reveals a pattern of legal moralism: treating law as expression of moral commitments about fairness, opportunity, and human dignity. His defense of Dodd-Frank emphasized protecting consumers 'cheated' by predatory practices (ev_028), framing regulation as moral response to injustice. His minimum wage executive order described workers 'serving our troops' meals, washing their dishes' as deserving fair treatment (ev_017). His sequester opposition documented impacts on vulnerable populations—Head Start children, seniors dependent on Meals on Wheels (ev_014)—framing budget policy as moral issue. However, his respect for legal procedure (refusing debt ceiling negotiation) suggests he does not treat law as purely instrumental. His framework appears to be: laws enacted through legitimate democratic procedure deserve respect, but those laws should express commitments to fairness and opportunity. When legal structures fail moral tests—as he perceived Republican obstruction—they become objects of criticism rather than constraint. This positions Obama between pure legal positivism (law's authority from source not content) and natural law theory (unjust law lacks authority), toward a pragmatic moralism that demands legal structures justify themselves in terms of democratic values.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_017",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Natural Law",
+      "Formalism",
+      "Legal Positivism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

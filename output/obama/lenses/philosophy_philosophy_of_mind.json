@@ -1,0 +1,179 @@
+{
+  "discipline": "philosophy",
+  "lens": "philosophy_of_mind",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with emphasis on collective agency rather than individual heroic control",
+      "finding": "Obama consistently positions himself as a shaper of systems rather than a responder to them, yet does so through an interesting paradox: he shapes by articulating what 'the American people' are already doing or could do. In ev_044, he states 'You made me a better President, and you made me a better man,' explicitly subordinating his agency to collective action. This suggests a functionalist view where presidential power is not about controlling outcomes but facilitating functional processes—a world-shaper who believes the president should be the 'organizer-in-chief' of pre-existing capacities. His executive actions (ev_017, ev_019) and veto threats (ev_029) demonstrate willingness to shape outcomes, but always framed as channeling democratic will rather than imposing individual will. This differs from pure world-shaping because it lacks the muscular assertion of personal vision; instead, it operates through framing and mobilizing.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-rationalist with strong reliance on measurable data and sequential logical arguments",
+      "finding": "Obama's epistemic style reveals a functionalist's comfort with information processing over phenomenological interpretation. He repeatedly cites specific numbers: '11 million new jobs' (ev_025), 'nearly $11 billion back in the pockets of more than 26 million consumers' (ev_028), wind power tripled and solar thirtyfold (ev_040). This approach treats policy problems as information-processing challenges amenable to optimization rather than as problems requiring interpretive understanding of human experience. His phrase 'Pick any metric you want' (ev_024) explicitly privileges quantitative assessment. Notably absent are phenomenological claims or appeals to subjective experience; even when discussing emotional topics like fatherhood (ev_006), he frames it through biographical data points rather than deepening into lived experience. This aligns with a functionalist epistemology that sees the mind as an information-processing system best understood through its inputs and outputs, not through introspective examination of qualia.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction capacity balanced with preference for concrete policy instruments over pure formal systems",
+      "finding": "Obama demonstrates sophisticated abstract reasoning—'middle-out economics' (ev_021), framing TPP as America writing global rules (ev_031)—yet remains grounded in concrete mechanisms. He doesn't retreat into pure abstraction; he uses abstract frameworks to justify specific policy instruments (executive orders, trade agreements, minimum wage requirements). This suggests a functionalist who believes abstract models must ultimately be implemented as functional mechanisms rather than remain as theoretical frameworks. He expresses trust in formal systems (government, trade agreements, international frameworks) as mechanisms for organizing human activity, but shows pragmatism about their limits—acknowledging 'past trade deals haven't always lived up to the hype' (ev_027) while still pursuing TPP. His government modernization efforts (ev_037) through Silicon Valley partnerships indicate he views formalization as a tool to be optimized rather than a goal in itself.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_027",
+        "ev_031",
+        "ev_036",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate to high control orientation exercised through institutional mechanisms rather than personal dominance",
+      "finding": "Obama displays a functionalist's comfort with control as institutional design rather than personal power. His willingness to issue veto threats (ev_015, ev_029), take executive actions (ev_017, ev_019), and declare 'Year of Action' (evt_015) reveals control orientation, but it's control exercised through formal institutions rather than personal charisma or interpersonal dominance. He states 'I will not negotiate over the full faith and credit of the United States' (ev_015)—controlling the process by refusing certain interactions, not by dominating the other party. This suggests he conceptualizes control as setting functional parameters rather than as personal domination. The functionalist parallel: just as a programmer controls a system through its architecture, Obama controls government through its structures.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with notable exceptions around bipartisanship and collective identity framing",
+      "finding": "Obama demonstrates clear mission prioritization—attacking Republican obstruction (ev_020), framing Congressional inaction as 'terrible mistake' (ev_003), and declaring he would 'veto' Wall Street reform repeal (ev_029). Yet a notable pattern emerges: his mission frames frequently invoke collective identity and bipartisanship, suggesting he values relational cost not as a constraint but as a strategic tool for mission advancement. He cites AFL-CIO and Chamber of Commerce together (ev_008), references small business owners supporting minimum wage (ev_023), and says 'America's resurgence is real' because 'it’s you—the American people' (ev_032). This suggests mission-prioritization achieved through expansion of the 'we' rather than imposition over opposition. For a functionalist, this makes sense: optimal outcomes require broad coalition buy-in because the system functions better with distributed support. Relations are instrumentally valuable for mission success, not intrinsically costly.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_008",
+        "ev_020",
+        "ev_023",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Optimistic consequentialist who acknowledges risks but frames them as manageable and overcomeable",
+      "finding": "Obama's risk posture reveals functionalist optimism: he acknowledges problems ('sequestration would cut national security, education, Head Start'—ev_013) but frames them as inputs to be optimized, not existential threats. He projects confidence—'I'm absolutely confident we will get there' (ev_004), 'America's resurgence is real' (ev_024)—that suggests risk is seen as information to process and respond to, not as genuine uncertainty requiring caution. His climate stance ('not something to tear up—it's something to build upon,' ev_041) shows comfort with complex long-term challenges. Notably absent is the catastrophizing or defensive pessimism that might characterize someone with different metaphysical commitments to how the world works. This optimism combined with evidence-based specificity suggests someone who believes complex systems can be managed if enough information and effort are applied—classic functionalist problem-solving orientation.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_013",
+        "ev_024",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional democrat who uses formal power structures while framing authority as serving collective purposes",
+      "finding": "Obama treats hierarchy and power as functional tools to be used for organized collective action rather than as inherently problematic or inherently legitimate. He invokes executive power (vetoes, executive orders), Congressional authority (calls for action), and international frameworks (Paris agreement, TPP) with equal comfort. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036) explicitly frames government as a functional instrument. He's willing to use power forcefully (threatening vetoes, criticizing obstruction), but always frames power-use as serving democratic ends rather than personal or partisan interests. For a functionalist, hierarchy is simply a coordination mechanism—the question isn't whether to use formal power but whether the functional outputs justify the coordination costs. Obama seems to evaluate power use through this lens: does this mechanism produce desired functional outcomes?",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_036",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating and framing approach that seeks to recharacterize conflict as consensus around shared values",
+      "finding": "Obama's conflict strategy consistently attempts to translate opposition into consensus by reframing issues. He says transportation funding 'isn't a Democratic or a Republican issue' (ev_008), invokes bipartisan support from traditionally opposed groups (AFL-CIO + Chamber of Commerce), and frames opposition as outliers against majority sentiment. This translating approach suggests he conceptualizes conflict not as fundamental value clash but as information or framing problem—if the right frame is found, opposition dissolves. For a functionalist, this makes sense: conflict is system dysfunction, and the solution is better information processing (better framing). He doesn't suppress conflict, escalate emotionally, or split; he attempts to resolve through reframing. When framing fails, he uses institutional power (vetoes) but always maintains the frame of legitimate democratic process.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_023",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term legacy orientation with concrete intermediate milestones",
+      "finding": "Obama consistently optimizes for long-term institutional outcomes while citing short-term metrics as evidence of progress. He speaks of 'leaving a better, cleaner, safer future for our children' (ev_041), declares 'Year of Action' to build legacy, and frames his presidency in terms of decade-spanning trends (Medicare solvency extended 12+ years, deficits falling at fastest rate since WWII—ev_016). Yet he anchors this long-term orientation in concrete short-term data: specific job numbers, consumer recovery amounts, percentage increases in clean energy. This temporal strategy—long-term vision punctuated by measurable short-term checkpoints—suggests a functionalist approach to complex system management where the system requires both distant goal-setting and continuous feedback loops. He's not optimizing for immediate political wins at the cost of long-term outcomes, nor is he indifferent to near-term results in service of distant vision.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_022",
+        "ev_040",
+        "ev_041",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer when political conditions permit, pragmatist when they don't",
+      "finding": "Obama demonstrates preference for structural solutions (ACA as systemic healthcare reform, Dodd-Frank as systemic financial reform, Paris Agreement as structural climate framework) but also shows willingness to pursue incremental executive actions when legislative structural change fails. 'Year of Action' (ev_019) was explicitly a response to Congressional blockage of structural reforms. The tension resolves through his functionalist lens: he prefers optimal structural solutions but accepts functional improvements through available mechanisms. The ACA's extension of Medicare solvency by 12+ years (ev_002) and Dodd-Frank's consumer protections (ev_028) represent structural investments that would be preferred in the ideal functionalist design. Executive orders on minimum wage represent patches that maintain system function until structural repair becomes possible. This isn't pure rebuild preference—it's functional optimization given constraints.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with consistent self-deprecation and learning framing, but limited deep introspective engagement",
+      "finding": "Obama demonstrates metacognition primarily through self-deprecation and learning-framing rather than deep introspection into his own cognitive processes. He states 'Every day, I learned from you' (ev_044), shows willingness to acknowledge past trade deal failures (ev_027), and frames himself as shaped by interactions rather than as a fully autonomous cognitive agent. His personal stories (father absence in ev_006, coaching daughter's basketball in ev_007) reveal self-awareness of his biographical formation. However, he's largely silent on the specific cognitive mechanisms behind his judgments—rarely explaining 'I think this because I notice I'm subject to X bias' or 'I became aware of Y assumption in my reasoning.' This suggests functionalist-leaning metacognition: awareness of being shaped by inputs and feedback, but less attention to the internal processing that produces outputs. He's aware of his role as information processor receiving and transmitting, not as a potentially biased interpreter requiring constant checking.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_027",
+        "ev_044"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_coherence_reliability",
+      "definition": "The degree to which this person treats 'the American people' or collective entities as epistemically reliable guides to policy, suggesting a particular theory of where legitimate political knowledge originates—distributed consensus rather than individual insight or specialized expertise",
+      "finding": "A distinctive pattern emerges across Obama's speeches: consistent invocation of 'the American people' as an epistemic touchstone. He says accomplishments exist 'because of you—the American people' (ev_032), frames his own growth through interaction with citizens (ev_044), and treats public opinion (small business owners supporting minimum wage—ev_023) as evidence for policy. This suggests a philosophy of mind parallel: just as functionalism locates cognition in distributed processes rather than a centralized 'self,' Obama locates political legitimacy in distributed collective judgment rather than elite or individual wisdom. This emerges from the philosophy of mind lens because it reveals his implicit theory of how valid knowledge and authority arise—whether through individual insight, specialized expertise, or distributed processing across a population. The pattern is distinct enough to warrant emergence: it doesn't fit cleanly into agency_orientation (collective agency vs individual), which focuses on who acts; this focuses on who knows and why their knowing is legitimate.",
+      "evidence_ids": [
+        "ev_023",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "functional_optimism_pessimism_balance",
+      "definition": "The baseline expectation about whether complex social systems can be effectively managed, separate from specific issue positions—this captures the underlying metaphysical bet about system governability that drives risk posture and control orientation",
+      "finding": "Obama's philosophy of mind lens reveals an underlying functionalist assumption that complex systems can be meaningfully optimized—not through heroic individual control, but through institutional design and information feedback. His optimism about America's capacity to solve climate change (ev_040, ev_041), his framing of economic challenges as problems to be engineered (middle-out economics), and his comfort with complex international agreements (TPP, Iran deal, Paris Agreement) suggest he treats social reality as responsive to rational intervention. This contrasts with both pessimistic views (systems are too complex to steer) and naive optimism (anyone can fix anything). It's qualified functionalist optimism: systems are manageable with sufficient information, institutional design, and distributed cooperation. This is important because it explains the coherence across his other constructs—why he has high control orientation (systems can be controlled), optimistic risk posture (risks can be managed), and long-term time horizon (investments will yield returns). Without this emergent dimension, his pattern of constructs appears somewhat disconnected rather than systematically connected through a unified metaphysics of mind.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_024",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Functionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "algorithmic_decision_making_mechanism_design",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Moderate-to-strong world-shaper: actively redesigns institutional rules but operates within existing constitutional frameworks",
+      "finding": "Obama demonstrates a consistent pattern of attempting to redesign institutional mechanisms rather than simply responding to events within existing structures. Evidence includes the executive order raising federal contractor minimum wage (ev_017), the declaration of 'Year of Action' with over 20 executive actions (ev_019), and the defense of Dodd-Frank institutional architecture (ev_029). However, his agency is bounded by constitutional constraints—he issues veto threats rather than unilateral overrides, and he explicitly acknowledges the limits of executive power (ev_015). His approach to the Cancer Moonshot shows sophisticated mechanism design: establishing cross-agency task forces and using Presidential Innovation Fellows to solve information asymmetry problems in clinical trial matching (ev_043). This suggests a world-shaper who understands the architecture of constraint and works to maximize institutional redesign within allowable boundaries.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_015",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Hybrid reasoning: combines empirical evidence and metrics with value-based commitments and institutional faith",
+      "finding": "Obama's epistemic approach blends quantitative evidence with underlying ideological commitments. He frequently cites specific metrics to make political arguments—CFPB recovery of $11 billion for 26 million consumers (ev_028), 57 consecutive months of job growth (ev_025), tripling of wind power and 30x increase in solar (ev_040). Yet his core beliefs rest on deeper commitments: faith in government as a tool for collective problem-solving (ev_036), confidence in the American people's resilience and ingenuity (ev_004), and a 'middle-out' economic philosophy (ev_021). This hybrid approach means he uses data to validate mechanisms but doesn't let empirical uncertainty stop him from pursuing structural reforms. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) shows honest acknowledgment of implementation complexity, but doesn't deter his support for new institutional designs like TPP.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_025",
+        "ev_040",
+        "ev_036",
+        "ev_004",
+        "ev_021",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Strong formalization capacity: designs institutions with clear mandates, defined interfaces, and measurable outcomes",
+      "finding": "Obama consistently demonstrates the ability to formalize complex policy problems into structured institutional designs. The Dodd-Frank Act created an 'independent Consumer Financial Protection Bureau with one mission' (ev_028)—clear mandate, defined interface, measurable outcomes. His 'middle-out' economic philosophy is an explicit abstraction of how incentive structures affect economic outcomes (ev_021). The Cancer Moonshot shows sophisticated system design: Biden's report describes cross-agency coordination through a Presidential Innovation Fellows program and a Trials.Cancer.Gov platform solving the information asymmetry problem of patients not knowing clinical trial options (ev_043). His government modernization initiative explicitly brought Silicon Valley technical talent into federal service to redesign institutional interfaces (ev_037). This pattern indicates Obama thinks in terms of institutional architecture, information flows, and incentive compatibility rather than purely in terms of values or political narratives.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_021",
+        "ev_043",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Indirect institutional control through mechanism design rather than direct manipulation",
+      "finding": "Obama's control orientation favors indirect control through institutional design rather than direct manipulation of every outcome. He sets clear boundaries and uses veto power definitively (ev_029: 'I will veto it'; ev_015: 'I will not negotiate over the full faith and credit'), but his primary mechanism is designing institutions that channel behavior. His veterans hiring challenge (ev_009) uses presidential platform and tax incentives rather than mandates to shift private sector behavior. His defense of Dodd-Frank (ev_003) emphasizes creating 'a financial system in which everyone competes on a level playing field'—seeking to change incentive structures rather than control individual actors. The TPP framing (ev_031) as preventing China from 'writing the rules of the global economy' shows he thinks in terms of institutional control of international markets. He prefers to establish the rules of the game and let outcomes emerge, rather than micromanage.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_009",
+        "ev_003",
+        "ev_031"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission priority: willing to sustain significant political conflict and relational costs for structural goals",
+      "finding": "Obama demonstrates a consistent willingness to prioritize structural policy goals over relational comfort with political opponents. He publicly condemned Senate obstruction as 'contrary to our founding fathers' envisioning' (ev_010) and criticized Republican obstruction of minimum wage, equal pay, and unemployment insurance extensions (ev_020). His documentation of sequester costs—'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels' (ev_014)—used empathetic framing for political effect, accepting relational costs. His refusal to negotiate on the debt ceiling (ev_015) showed he would accept political confrontation over institutional integrity. Yet he also celebrated bipartisan cooperation as 'Christmas miracles' (ev_048), suggesting he values reconciliation when achievable. The pattern indicates mission-dominant orientation: he pursues structural goals vigorously but opportunistically seeks cooperation rather than requiring conflict.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_014",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance: pursues long-term institutional bets while maintaining defensive mechanisms against tail risks",
+      "finding": "Obama's risk posture shows willingness to make large-scale institutional bets on long-term outcomes while establishing defensive mechanisms. His energy policy rejected simple solutions—'drilling alone is not a real strategy' (ev_005)—and committed to diversified, long-horizon investments. His defense of the Paris climate agreement as something to 'build upon' (ev_041) indicates commitment to multi-generational policy bets. The TPP framing as preventing China from writing global rules (ev_031) shows willingness to make consequential geopolitical bets. However, he also built in defensive mechanisms: the Dodd-Frank 'no taxpayer bailouts' provision (ev_020), veto threats against rollback (ev_029), and emphasis on consumer protections as defensive architecture against future crises. His acknowledgment of past trade deal failures (ev_027) suggests awareness of implementation risk. This pattern indicates calculated risk-taking within defensive bounds rather than either reckless experimentation or excessive conservatism.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_041",
+        "ev_031",
+        "ev_020",
+        "ev_029",
+        "ev_027"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Strategic hierarchy manager: leverages formal authority decisively while building cross-cutting coalitions",
+      "finding": "Obama relates to hierarchy through strategic deployment of formal authority combined with coalition-building. He used presidential power decisively: veto threats on Dodd-Frank repeal (ev_029), executive orders on minimum wage (ev_017), and firm boundaries on debt ceiling (ev_015). Yet he also built unusual coalitions—calling out that 'representatives from the AFL-CIO and the Chamber of Commerce' joined him at the White House on transportation funding (ev_008), groups that 'don't always see eye-to-eye.' His criticism of Senate obstruction (ev_010) targeted institutional dysfunction while respecting constitutional hierarchy. His government modernization initiative (ev_037) brought external expertise into federal hierarchy rather than simply commanding from above. This suggests sophisticated understanding that formal authority alone doesn't produce outcomes—he seeks to build cross-cutting coalitions to change the political economy of decision-making, making institutional reforms more durable by expanding their constituency.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_015",
+        "ev_008",
+        "ev_010",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled public confrontation with selective cooperation: maintains clear positions but celebrates bipartisanship",
+      "finding": "Obama's conflict strategy involves principled public confrontation on core issues while selectively celebrating cooperation when achievable. He publicly condemned Senate obstruction (ev_010) and Republican opposition to economic priorities (ev_020) with direct, pointed language. He framed Dodd-Frank defense as defending against 'another crisis' (ev_029), using crisis-frame to justify institutional investment. Yet his conflict strategy is not pure escalation—he framed rare bipartisan achievements as 'Christmas miracles' (ev_048), indicating he values reconciliation when possible. His trade policy admission about past failures (ev_027) suggests willingness to acknowledge legitimate criticisms, potentially defusing conflict through concession. His fatherhood address (ev_006) showed he could use personal narrative to connect across divides. This indicates a calibrated conflict strategy: clear positions on core mechanisms, public confrontation when blocked, but cooperative framing when success occurs—creating political incentives for bipartisanship by making it visible and celebrated.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_029",
+        "ev_048",
+        "ev_027",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistently long-term: designs multi-decade institutional mechanisms and explicitly rejects short-term thinking",
+      "finding": "Obama demonstrates a strong orientation toward long-term institutional design across multiple domains. The ACA extended Medicare solvency by 12+ years (ev_002). The energy security Blueprint targeted 2025—a 14-year horizon (ev_004). His explicit call for civic engagement 'not just when there's an election, but over the full span of a lifetime' (ev_024) shows long-term citizenship orientation. The Paris climate agreement (ev_041) and cancer moonshot (ev_042) represent multi-generational time horizons. Even his economic arguments frame policy in terms of reversing 'decades-long erosion of middle-class jobs' (ev_024). The 'Year of Action' executive actions (ev_019) were explicitly framed as establishing durable mechanisms beyond electoral cycles. His farewell address calling for sustained civic participation 'for all my days that remain' (ev_047) reinforces this temporal orientation. Obama consistently thinks in terms of institutional legacies that outlast his tenure.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_024",
+        "ev_041",
+        "ev_042",
+        "ev_019",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer: prefers comprehensive institutional redesign over incremental adjustments",
+      "finding": "Obama consistently demonstrates preference for comprehensive institutional design over incremental patches. The Dodd-Frank framework (ev_028) was comprehensive financial reform creating new agencies and rules rather than adjusting existing ones. The ACA 'reformed the health care system' (ev_002) rather than patching existing programs. The TPP was a 5-year negotiation covering 40% of the global economy (ev_030)—clearly structural rather than incremental. The Cancer Moonshot (ev_043) created new cross-agency task forces and technological infrastructure rather than simply increasing NIH funding. His government modernization initiative (ev_037) explicitly sought to redesign federal systems, not just patch them. Even his rhetorical framing—when defending Dodd-Frank—emphasizes that rollback would 'risk another crisis' (ev_029), suggesting he views institutional architecture as load-bearing. The pattern indicates someone who thinks in terms of foundational redesign when problems warrant it, not someone who reflexively patches.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_002",
+        "ev_030",
+        "ev_043",
+        "ev_037",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness: demonstrates self-awareness of cognitive limits, institutional constraints, and historical context",
+      "finding": "Obama demonstrates notable metacognitive sophistication in several dimensions. He acknowledges the limits of his own perspective: attributing accomplishments to 'the American people' (ev_032) and stating 'Every day, I learned from you. You made me a better President' (ev_044). He honestly admits past trade deal failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—acknowledging his own prior misjudgment. He shows awareness of institutional constraints: understanding that executive authority has limits (ev_015), that Senate obstruction is a structural problem (ev_010), and that government needs 'modernization' rather than just more funding (ev_037). His personal reflection on fatherhood—'I grew up without my father around. I felt his absence' (ev_006)—shows willingness to acknowledge formative limitations. His cancer moonshot acknowledged that previous efforts had 'no army, no resources, and no clear strategy' (ev_042), demonstrating awareness of what prior approaches lacked. This metacognitive capacity allows him to design institutional learning mechanisms like the CFPB and Cancer Moonshot task force rather than assuming static solutions will work.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_027",
+        "ev_015",
+        "ev_010",
+        "ev_037",
+        "ev_006",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "coalitional_architecture",
+      "definition": "The capacity to design institutional mechanisms that create cross-cutting coalitions with shared stakes in reform outcomes, transforming zero-sum conflicts into positive-sum games through incentive alignment. This goes beyond simple compromise—it involves restructuring the game so that groups with divergent interests benefit from the same institutional design.",
+      "finding": "Obama demonstrates sophisticated understanding that institutional durability requires building cross-cutting coalitions. His unusual pairing of AFL-CIO and Chamber of Commerce on transportation funding (ev_008) shows he seeks to restructure political economy rather than just win votes. His defense of Dodd-Frank emphasizes that it protects 'everyone' on a 'level playing field' (ev_003), framing reform in terms of broad stakeholder benefit. His veteran hiring challenge (ev_009) created shared incentives between government, corporations, and veterans. The TPP framing as preventing China from writing rules (ev_031) created shared stakes across political divides. This coalitional architecture mindset suggests Obama designs institutions with an eye toward making them politically self-sustaining by expanding their coalition, not just technically sound. This is mechanism design applied to political economy rather than just market design.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_003",
+        "ev_009",
+        "ev_031"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "institutional_legacy_orientation",
+      "definition": "The deliberate design of mechanisms intended to persist and function beyond the designer's tenure, creating durable institutional capacity. This involves anticipating how institutions will evolve, designing for adaptability, and accepting that personal credit may be subordinate to institutional sustainability.",
+      "finding": "Obama's institutional designs consistently reflect concern with durability beyond his administration. The Paris climate agreement is explicitly framed as 'a legacy to build upon' (ev_041), not just a current policy. Dodd-Frank's defense emphasizes it has prevented crises and recovered consumer funds (ev_028)—demonstrating institutional value. The Cancer Moonshot created ongoing cross-agency infrastructure (ev_043) designed to outlast its announcement. His government modernization initiative (ev_037) explicitly brought external talent to build sustainable capacity. His farewell emphasis on civic participation 'over the full span of a lifetime' (ev_046) suggests understanding that democratic institutions require citizen engagement beyond electoral cycles. This orientation suggests Obama thinks of himself as a steward of institutions that will outlast him, designing for future administrators rather than just current political wins.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_028",
+        "ev_043",
+        "ev_037",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

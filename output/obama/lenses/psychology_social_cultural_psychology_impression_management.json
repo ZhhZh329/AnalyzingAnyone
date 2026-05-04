@@ -1,0 +1,163 @@
+{
+  "discipline": "psychology",
+  "lens": "social_cultural_psychology_impression_management",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong institutional-shaper orientation within existing structures; positions as catalyst for collective American achievement rather than sole actor",
+      "finding": "Obama consistently presents himself as working through and strengthening American institutions rather than replacing them. His communications emphasize 'we' and 'America' over 'I' (ev_044, ev_032), attributing accomplishments to collective citizen action while positioning himself as the institutional vessel enabling that action. He takes credit for policy outcomes (ACA extension, auto bailout) but frames them as evidence of American resilience and ingenuity rather than personal conquest. His 2014 'Year of Action' framing (ev_019) reflects proactive shaping within constrained circumstances, using executive authority strategically when Congressional paths were blocked. This suggests an agentic orientation that works primarily through institutional leverage and coalition-building rather than solo transformation.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_032",
+        "ev_044",
+        "ev_022"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "High self-monitoring with audience-adaptive epistemic display; combines data-driven reasoning with calibrated framing emphasis",
+      "finding": "Obama's speeches reveal sophisticated epistemic management—he consistently cites verifiable statistics (11 million jobs, $11 billion consumer recovery, 2.5 million uninsured rate drop) while simultaneously tailoring rhetorical framing to audience context. When addressing veterans (ev_007, ev_009), he emphasizes personal service and sacrifice; when discussing economy (ev_025, ev_021), he leads with jobs and wages; when discussing climate (ev_040), he leads with energy metrics. This pattern suggests high self-monitoring: he understands what resonates with different audiences and adjusts emphasis accordingly, while maintaining consistent underlying positions. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates epistemic humility and willingness to acknowledge legitimate criticism, which paradoxically strengthens rather than weakens his credibility.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_007",
+        "ev_025",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balances high abstraction (philosophical principles) with operational concreteness (specific metrics, executive actions); uses formalization strategically",
+      "finding": "Obama demonstrates strong abstract reasoning in articulating foundational principles ('middle-out economics,' government as collective problem-solving tool, American resilience narrative) while simultaneously grounding these abstractions in concrete operational detail. His 'Top 10 Things' year-end address (ev_033) exemplifies formalization as a rhetorical tool—organizing accomplishments into ranked, quantifiable items. He uses executive orders (ev_017, $10.10 minimum wage) and specific deadlines (ev_011, 'seven days away') to make abstract commitments concrete and verifiable. His abstraction serves primarily to connect specific policy actions to larger ideological narratives about American opportunity and collective capability, making the formalization feel purposeful rather than bureaucratic.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_017",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control orientation exercised through institutional mechanisms rather than personal authority; prioritizes structural influence over interpersonal dominance",
+      "finding": "Obama's control orientation operates primarily through institutional channels rather than personal command. He exercises control via executive orders (ev_017, minimum wage), veto threats (ev_029, 'I will veto it'), and strategic coalition-building (ev_008, AFL-CIO and Chamber of Commerce together). His 'I will not negotiate over the full faith and credit of the United States' (ev_015) establishes a non-negotiable structural position rather than a personal ultimatum. He demonstrates significant metacognitive awareness of institutional constraints, declaring 'Year of Action' precisely when Congressional paths were blocked. His control efforts aim at building durable structural constraints (Wall Street reform, climate agreements) that outlast his presidency, suggesting a control orientation focused on systemic influence rather than immediate personal dominance.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_019",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Consistently prioritizes policy mission over relational warmth with political opponents; accepts social friction as necessary cost of substantive progress",
+      "finding": "Obama demonstrates clear mission prioritization across multiple policy domains. He publicly criticizes Republican obstruction (' Republicans in Congress have blocked or voted down every serious idea,' ev_020) while simultaneously maintaining that transportation funding and student loan rates are 'not Democratic or Republican' issues (ev_008). This dual framing allows him to pursue mission goals aggressively while preserving rhetorical bipartisanship. His sequester communications (ev_014) document real human costs to vulnerable populations—Head Start children, seniors on Meals on Wheels—using empathetic framing that prioritizes policy outcome over partisan comfort. His Veterans Day address (ev_038, ev_039) explicitly places military family welfare as a 'solemn obligation,' subordinating relational diplomacy to concrete support commitments. The relational cost is clearly accepted as necessary.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_014",
+        "ev_008",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse in personal/political exposure but calculatedly bold on signature policies; transforms high-risk positions through legitimizing framing",
+      "finding": "Obama's risk posture reveals strategic selectivity: cautious in personal/political exposure while demonstrating calculated boldness on core policy commitments. His debt ceiling position ('I will not negotiate,' ev_015) and veto threat against Wall Street Reform repeal (ev_029) represent high-stakes, non-negotiable positions framed as institutional integrity rather than personal risk. He transforms risky choices by positioning them as 'not Democratic or Republican' (ev_008) or as fundamental to American character ('we are the United States of America, we are not a deadbeat nation,' ev_015). His energy policy (ev_005) explicitly rejects 'drilling alone' as insufficient strategy, demonstrating willingness to take positions that span traditional fault lines. This suggests a risk posture that accepts substantial stakes when they align with core mission, while using legitimizing frames to reduce personal exposure.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_005"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Positions power as channeled through institutional legitimacy and collective mandate rather than personal authority; invokes founding principles as power source",
+      "finding": "Obama demonstrates sophisticated institutional power orientation—he positions himself as channeling rather than embodying power. His farewell address ('our founders trusted us with the keys,' ev_036) explicitly grounds presidential authority in institutional legitimacy and democratic participation. He frames accomplishments through collective attribution ('It's you—the American people,' ev_032) and frequently invokes American founding values as legitimizing sources for policy positions. His power expression emphasizes coalition-building across traditional boundaries (ev_008, AFL-CIO with Chamber of Commerce) and institutional innovation (ev_037, Presidential Innovation Fellows). Rather than asserting personal dominance, he creates mechanisms (CFPB, Cancer Moonshot task force) that distribute influence and create durable structural capacity. His power is architectonic—building systems that persist—rather than command-based.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_032",
+        "ev_008",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translates conflict into urgent mission framing while publicly acknowledging opposition; uses crisis escalation rhetorically to force action",
+      "finding": "Obama's conflict strategy consistently transforms partisan disagreement into institutional crisis requiring immediate action. His transportation/student loan address (ev_011) frames Congressional inaction as 'seven days away' from workers walking off jobs and 'eight days away' from 7.5 million students facing rate doubles—crisis escalation that converts political disagreement into humanitarian urgency. He publicly names opposition obstruction ('Republicans in Congress have blocked,' ev_020) while maintaining that the underlying issues transcend partisanship. His debt ceiling position (ev_015) refuses negotiation entirely, escalating conflict at the institutional level while framing it as protecting American credibility. This 'translate to crisis' strategy forces action by making the status quo more painful than movement. He rarely delays or suppresses conflict, preferring to escalate through concrete deadline framing that shifts the cost calculation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_020",
+        "ev_015",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation spanning presidential terms and beyond; explicitly frames accomplishments as foundations for successors",
+      "finding": "Obama's communications reveal consistent mission-scale temporal orientation. His climate address ('something to build upon,' ev_041) explicitly frames current policy as foundation for future action rather than endpoint. His farewell address anticipates continued civic engagement 'for all my days that remain' (ev_047), positioning his presidency as one phase in ongoing collective work. He cites statistics spanning his full tenure (57 months of job growth, ev_025; 69-month streak, ev_033) and explicitly positions the Paris Agreement and Iran deal as creating durable structural constraints. His Cancer Moonshot (ev_042, ev_043) is explicitly designed for timescales beyond his administration. This suggests a time horizon oriented toward multi-generational impact rather than immediate political cycle optimization.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_047",
+        "ev_033",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign over incremental repair; builds institutions designed to outlast his presidency",
+      "finding": "Obama consistently demonstrates preference for structural solutions over local fixes. His Wall Street Reform created the CFPB as an independent agency 'with one mission' (ev_028), designed to persist beyond political transitions. His 'Year of Action' executive orders (ev_019) specifically compensated for structural Congressional dysfunction, building alternative channels. His climate policy (ev_040, ev_041) emphasizes systemic energy transformation (wind tripled, solar 30x) rather than marginal improvements. His government modernization initiative (ev_037) explicitly invited 'the sharpest minds from companies in Silicon Valley' to redesign federal systems fundamentally. Even his sequester response (ev_014) calls for 'balanced deficit reduction'—a structural approach—rather than emergency patches. This rebuild preference reflects an agentic orientation that seeks to alter structural parameters rather than optimize within existing constraints.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_019",
+        "ev_040",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness of audience, framing, and institutional dynamics; demonstrates explicit understanding of his own positioning and effectiveness",
+      "finding": "Obama demonstrates sophisticated metacognitive awareness across multiple dimensions. His 'Year of Action' announcement (ev_019) shows explicit understanding that Congressional obstruction required alternative channels. His admission that 'past trade deals haven't always lived up to the hype' (ev_027) demonstrates willingness to acknowledge legitimate criticism of his own approach. His farewell address (ev_044) explicitly reflects on learning from citizens ('Every day, I learned from you') and positions continued civic engagement as essential for democratic health. His statement that government is 'only as good as we make it' (ev_036) reveals metacognitive awareness of institutional limitation. He demonstrates clear understanding of audience calibration, adjusting emphasis and framing while maintaining core positions. His 'middle-out' economic philosophy (ev_021) reflects explicit theoretical framework, not merely intuitive positioning. This suggests high metacognitive monitoring of his own communication effectiveness and institutional positioning.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_027",
+        "ev_044",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_attribution_strategy",
+      "definition": "The systematic practice of attributing personal/presidential accomplishments to collective American agency rather than individual leadership, serving both humility signals and legacy protection functions",
+      "finding": "Obama demonstrates a distinctive and consistent collective attribution pattern that goes beyond standard political modesty. His 'It's you—the American people' (ev_032) and 'you made me a better President' (ev_044) represent a deliberate impression management strategy that serves multiple functions: it provides authenticity signals through apparent humility, it protects legacy by distributing credit (making reversal harder), and it reinforces democratic values by centering citizen agency. This pattern is so consistent it functions as a signature rhetorical signature. The strategy is particularly notable because it coexists with equally consistent demonstrations of personal agency and decision-making authority (veto threats, executive orders, personal stances). He manages both individual accountability and collective attribution simultaneously, suggesting sophisticated metacognitive understanding of how multiple attribution patterns can coexist strategically.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_024"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "calculated_vulnerability",
+      "definition": "Strategic deployment of personal vulnerability and biographical disclosure to enhance relatability and connection without undermining presidential authority or competence",
+      "finding": "Obama's Father's Day address (ev_006, ev_007) reveals a distinctive impression management technique: calculated vulnerability. His admission of growing up without his father ('I grew up without my father around. He left when I was two years old') and his disclosure of coaching Sasha's basketball team represent strategic personal disclosure designed to enhance relatability while maintaining presidential gravitas. The vulnerability is bounded and purposeful—it connects to policy themes (fatherhood initiatives, family support) rather than serving as unfocused emotional disclosure. This technique differs from pure authenticity-seeking in that it is clearly calibrated: the personal information shared is chosen for audience resonance and thematic connection. His disclosure serves to humanize while simultaneously reinforcing family policy commitments. This represents sophisticated self-monitoring applied to intimate biographical material, suggesting high awareness of how personal narrative functions as impression management currency.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_005"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

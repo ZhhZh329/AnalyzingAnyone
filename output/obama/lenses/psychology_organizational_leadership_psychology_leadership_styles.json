@@ -1,0 +1,184 @@
+{
+  "discipline": "psychology",
+  "lens": "organizational_leadership_psychology_leadership_styles",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping; Obama consistently initiated large-scale policy frameworks rather than merely responding to circumstances",
+      "finding": "Obama demonstrates a pronounced world-shaping orientation throughout his presidency. He announced comprehensive blueprints like the 'Blueprint for a Secure Energy Future' (evt_004, ev_005), declared a 'Year of Action' and took over 20 executive actions when Congress blocked his agenda (ev_015, ev_019, ev_020), launched the Cancer Moonshot as a cross-agency innovation initiative (ev_042, ev_043), and positioned himself as architect of global trade rules through TPP rather than passive responder to China's rise (ev_031). His farewell address revealed his fundamental belief that Americans can shape their own destiny: 'Our founders trusted us with the keys to this system of self-government' (ev_036). Rather than waiting for Congress, he pursued structural change through executive orders on minimum wage (ev_017) and systematically framed his role as one who sets direction and mobilizes collective action toward transformative goals.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_031",
+        "ev_036",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Deliberative and evidence-integrating; Obama forms beliefs through systematic data integration while maintaining intellectual humility",
+      "finding": "Obama exhibits a deliberative epistemic style characterized by evidence-based reasoning and willingness to acknowledge complexity. He consistently cited specific data points to support arguments—11 million jobs created over 57 months (ev_025), 26 million consumers recovering $11 billion through CFPB (ev_028), wind power tripled and solar multiplied 30-fold (ev_040). Critically, he demonstrated epistemic humility by admitting past failures: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His farewell address revealed the participatory nature of his belief formation: 'Every day, I learned from you... you made me a better President' (ev_044). Rather than claiming exclusive knowledge, he positioned the American people as co-creators of policy understanding, suggesting an epistemic style that integrates external input rather than privileging top-down certainty.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_027",
+        "ev_028",
+        "ev_040",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high; Obama articulates abstract philosophies but anchors them in concrete metrics and practical systems",
+      "finding": "Obama displays a capacity for both abstract conceptualization and systematic formalization, balancing big-picture philosophy with implementation details. He articulated coherent abstract frameworks like 'middle-out economics' (ev_021), 'opportunity for all' (ev_018), and explicit commitments ('Medicare isn't just a program. It's a commitment... As long as I am President, that's a commitment this country is going to keep'—ev_001). Simultaneously, he translated these abstractions into formal systems: ACA's structured Medicare solvency provisions (ev_002), Dodd-Frank's regulatory architecture (ev_028), enumerated lists of top 10 accomplishments (ev_033). His government modernization initiative showed appreciation for systematic formalization, using 'Presidential Innovation Fellows' to create platforms like Trials.Cancer.Gov (ev_043). This suggests Obama operates at a high level of abstraction but consistently grounds vision in formalizable, measurable structures.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_018",
+        "ev_021",
+        "ev_028",
+        "ev_033",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Selective and principled; Obama sought control over core policy outcomes while distributing implementation authority",
+      "finding": "Obama's control orientation exhibits a distinctive pattern: he exercised decisive control over core policy commitments and non-negotiable positions while actively distributing operational authority. On matters of principle, he demonstrated firm control—he refused to negotiate over the debt ceiling ('I will not negotiate over the full faith and credit of the United States'—ev_015), issued definitive veto threats against Wall Street Reform repeal (ev_029), and set clear positions on Medicare commitments (ev_001). However, he systematically distributed implementation through partnerships: the Cancer Moonshot delegated to Biden with cross-agency task forces (ev_042, ev_043), energy initiatives involved Clean Fleets Partnership with private companies (evt_004), veterans hiring challenges mobilized private sector (ev_009). He sought input from Silicon Valley for government modernization (ev_037), framed himself as learner rather than unchallenged authority (ev_044). This pattern suggests sophisticated control: securing control over direction while democratizing execution.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_015",
+        "ev_029",
+        "ev_037",
+        "ev_042",
+        "ev_043",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with relational compensation; Obama sustained core commitments despite political costs while actively preserving relational connections",
+      "finding": "Obama demonstrates a clear mission prioritization when core values are at stake, accepting significant relational and political costs. He publicly criticized Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea'—ev_020), condemned Senate procedures ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'—ev_010), and maintained unpopular positions like defending ACA and Dodd-Frank throughout his presidency. However, he consistently worked to minimize relational damage through inclusive framing—calling transportation funding 'not a Democratic or a Republican issue – it's an American issue' (ev_008) and celebrating bipartisan budget deals as 'Christmas miracles' (ev_048). He attributed all progress to the American people rather than claiming personal credit (ev_032), maintaining a relational stance that honored collective contribution even while pursuing contested missions. This suggests mission-prioritization tempered by democratic humility and relational repair efforts.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_020",
+        "ev_032",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with transparent communication; Obama accepted strategic risks while clearly explaining uncertainties to the public",
+      "finding": "Obama demonstrates a pattern of calculated, transparent risk-taking on major policy gambles. He pursued healthcare reform despite political risk ('As long as I am President, that's a commitment this country is going to keep'—ev_001), championed same-sex marriage at political risk ('Love won'—ev_035), and committed to the Paris climate agreement knowing contentious implementation ahead ('That's not something to tear up – it's something to build upon'—ev_041). On sequester, he transparently communicated risks to vulnerable populations: 'There are parents whose kids just got kicked out of Head Start programs' (ev_014). He acknowledged Iran nuclear deal uncertainty while defending strategic logic (evt_022), and accepted that past trade deals 'haven't always lived up to the hype' while pursuing TPP (ev_027). His risk posture combines bold commitments with transparent acknowledgment of challenges, suggesting comfort with managed uncertainty rather than risk-aversion or reckless gambling.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_027",
+        "ev_035",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist who strategically deploys formal authority; Obama respected hierarchy while actively using presidential power as a lever for change",
+      "finding": "Obama's relationship with hierarchy is characterized by institutional respect combined with strategic deployment of formal authority. He consistently worked within constitutional structures—pursuing legislative majorities for ACA and Dodd-Frank, using Senate procedures, engaging international institutions for TPP and Paris Agreement. He acknowledged the founders' design of representative government (ev_036) and positioned himself within that tradition. Simultaneously, he strategically deployed executive power when legislative paths blocked: executive orders on minimum wage for federal contractors (ev_017), 'Year of Action' executive initiatives (ev_019), and firm veto commitments (ev_029). His power deployment was principled rather than personalistic—framed as institutional obligation rather than ambition. He distributed authority through partnerships with private sector (evt_004, ev_009), delegated the Cancer Moonshot to Biden (ev_042), and sought external expertise from Silicon Valley (ev_037). This suggests sophisticated institutionalism: working within hierarchy while deploying formal authority strategically to overcome obstruction.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_036",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled negotiation with calibrated escalation; Obama sought consensus but did not shy from escalating when core commitments were threatened",
+      "finding": "Obama's conflict strategy shows a consistent pattern of seeking negotiated resolution first, with principled escalation when necessary. He repeatedly framed issues as non-partisan—transportation funding as 'not a Democratic or a Republican issue' (ev_008), celebrating bipartisan budget deals (ev_048). He proposed balanced approaches to deficit reduction (ev_013) and emphasized consensus-building. However, he demonstrated willingness to escalate when core principles were at stake: refusing any debt ceiling negotiation ('the height of irresponsibility'—ev_015), issuing definitive veto threats on Wall Street Reform (ev_029), and publicly naming obstructionism as contrary to founders' intent (ev_010). He criticized Congressional inaction as blocking progress for American families (ev_020). This conflict strategy reflects transformation-oriented leadership: seeking collaborative solutions while maintaining clear red lines on essential matters, consistent with Bass's transformational leadership model of principled compromise.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_013",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation; Obama consistently framed current actions within decades-long or generational narratives",
+      "finding": "Obama's time horizon operates at mission-scale, consistently contextualizing immediate policy within long-term structural narratives. He framed the energy blueprint as working toward 2025 goals (evt_004), positioned Dodd-Frank and ACA as long-term institutional reforms extending Medicare solvency 12+ years (ev_002), and articulated the Cancer Moonshot as continuing the work Nixon began in 1971 (ev_042). His economic narrative emphasized reversing 'decades-long erosion of middle-class jobs and incomes' (ev_024), and climate policy operated on generational timescales ('leave a better, cleaner, safer future for our children'—ev_041). He acknowledged short-term pressures—sequester deadlines, student loan rate doubles, transportation funding expiration (ev_011)—but consistently framed these within longer mission horizons. This temporal orientation suggests strategic patience combined with urgency on implementation, consistent with transformational leadership's longer time horizons.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_024",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural redesign; Obama pursued comprehensive institutional reform over incremental adjustment",
+      "finding": "Obama consistently demonstrates a preference for structural redesign over local repair when confronting systemic challenges. His signature legislative achievements—ACA and Dodd-Frank—represented comprehensive restructuring of healthcare and financial regulatory systems respectively, not incremental patches. When Congress blocked legislative pathways, he pursued structural executive actions rather than accepting partial measures ('Year of Action' with over 20 executive initiatives—ev_019). The Cancer Moonshot was explicitly designed as a cross-agency, systemic redesign of cancer research (ev_042, ev_043), involving Presidential Innovation Fellows to rebuild infrastructure (Trials.Cancer.Gov). Even on issues like energy policy, he explicitly rejected partial solutions: 'Drilling alone is not a real strategy' (ev_005). This pattern suggests comfort with comprehensive redesign when problems are systemic, consistent with Bass's transformational leadership preference for fundamental organizational change over transactional adjustments.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_019",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Highly reflexive; Obama demonstrates sophisticated self-awareness and active monitoring of his own cognitive limitations and influence patterns",
+      "finding": "Obama demonstrates exceptional metacognitive awareness throughout his presidency. His farewell address explicitly reflected on how public interaction shaped his thinking: 'my conversations with you, the American people... are what have kept me honest, kept me inspired, and kept me going. Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He attributed accomplishments to collective action rather than personal brilliance ('All of this progress is because of you'—ev_032), revealing awareness of his own limited perspective. He acknowledged past policy disappointments transparently (ev_027) and reflected on diverse experiences witnessing American resilience (ev_045). He called for ongoing civic participation 'not just when there's an election' (ev_046), suggesting awareness that single actors cannot solve collective problems. This metacognitive pattern indicates not just monitoring of policy effectiveness but fundamental awareness of cognitive limits and the importance of external perspectives in correcting individual blind spots, consistent with mature transformational leadership.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "attribution_orientation",
+      "definition": "Whether leaders claim credit for outcomes or distribute credit to others reveals fundamental assumptions about causality, control, and the leader's role in producing change. This is distinct from agency_orientation because it concerns credit/responsibility attribution rather than initiation capacity.",
+      "finding": "Obama consistently demonstrates an other-attributing pattern opposite to typical political credit-claiming. He explicitly attributed all 2015 progress to 'the American people... workers rolling up their sleeves and getting the job done, and entrepreneurs starting new businesses' (ev_032). He credited the auto industry rescue with manufacturing recovery (ev_022) and framed himself as servant of the people's agenda rather than hero. This contrasts sharply with typical political behavior and suggests a leadership self-concept as facilitator of collective action rather than individual genius. Such attribution orientation may enhance relational leadership effectiveness by building others' sense of agency, though it may also obscure the actual role of presidential leadership in shaping outcomes.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "democratic_embedding",
+      "definition": "The degree to which a leader embeds their vision within democratic participation structures versus implementing top-down. This captures how leaders design for citizen input and ongoing engagement beyond election cycles, which the existing framework's relation_to_hierarchy_power does not adequately address.",
+      "finding": "Obama consistently embedded initiatives within democratic participation structures rather than implementing from above. His government modernization initiative explicitly brought in external expertise ('we asked some of the sharpest minds from companies in Silicon Valley'—ev_037). He called for civic participation 'not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). He announced the South by Southwest trip specifically 'to seek government modernization ideas' (evt_023), positioning citizens as co-designers. The Cancer Moonshot used Presidential Innovation Fellows and built platforms like Trials.Cancer.Gov to enable citizen participation in research (ev_043). This democratic embedding suggests leadership through invitation rather than imposition, consistent with deliberative democratic theory but requiring a distinct construct from hierarchy_power which focuses more on authority distribution than participatory design.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_043",
+        "ev_046",
+        "evt_023"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

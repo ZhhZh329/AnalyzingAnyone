@@ -1,0 +1,165 @@
+{
+  "discipline": "philosophy",
+  "lens": "philosophy_of_science",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with instrumental optimism about systematic intervention",
+      "finding": "Obama consistently demonstrates a belief that well-designed policy interventions can systematically reshape economic, social, and environmental outcomes. His agency orientation is evident in his launch of the Cancer Moonshot (ev_042, ev_043), where Biden reports that under Obama's leadership, the Moonshot developed 'a clear strategy for the road ahead' with cross-agency coordination and technological innovation. His energy policy (evt_004) sets a concrete goal to cut oil imports by one-third by 2025, involving corporate partnerships with UPS, FedEx, AT&T. This suggests Obama believes intelligent, coordinated human action can achieve what he calls 'measurable' progress (ev_024: 'Pick any metric you want – America's resurgence is real'), implying confidence that the world can be shaped through evidence-based action rather than merely responded to.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_043",
+        "ev_004",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical and data-referent with implicit trust in institutional measurement",
+      "finding": "Obama's epistemic style consistently grounds claims in quantifiable data drawn from institutional sources. He repeatedly cites statistics as authoritative: deficit reduction data (ev_016: 'deficits are already falling at the fastest rate since the end of World War II'), employment figures (ev_025: '11 million new jobs' over 57 months), healthcare metrics (ev_033: uninsured rate 'dropped below 10 percent for the first time ever'), energy statistics (ev_040: wind power 'threefold,' solar 'thirtyfold'), and consumer protection recoveries (ev_028: CFPB returned '$11 billion back in the pockets of more than 26 million consumers'). This pattern reveals implicit faith that government agencies and institutional measurement accurately track real conditions. Obama treats economic, health, and environmental statistics as objective facts describing reality rather than as contested social constructs or provisional summaries—suggesting a naive realist epistemology regarding empirical claims in policy domains, though his political context may partially explain this framing.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High preference for systematic frameworks with formal goals and measurable targets",
+      "finding": "Obama demonstrates strong orientation toward formalization and systematization in policy design. His 'Blueprint for a Secure Energy Future' (evt_004) sets quantified targets—'cut oil imports by one-third by 2025'—and coordinates multiple levers (domestic drilling, fuel efficiency, clean energy) into a unified framework. The Cancer Moonshot (ev_042) explicitly invokes the formal scientific methodology of the original space program as a model: Biden describes 'clear strategy' and 'powerful new tools' as the difference between prior failed attempts and Obama's approach. Obama's climate policy cites systematic data: carbon pollution measurements, renewable energy capacity metrics, auto fuel efficiency standards tracking. His economic philosophy (ev_021: 'Our economy grows best not from the top-down, but from the middle-out') is stated as a general principle that can be operationalized through policy. This systematic approach—framing problems as solvable through coordinated, goal-directed programs with measurable outcomes—reflects the formalization orientation characteristic of those who trust scientific and planning methodologies.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_021",
+        "ev_004",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate to high orientation toward using policy levers to direct systemic outcomes",
+      "finding": "Obama's presidency reflects active orientation toward controlling or directing systems toward desired outcomes. He consistently proposes coordinated government action to shape economic, health, and environmental systems: the ACA to restructure healthcare markets, Dodd-Frank to reconfigure financial regulation, the Climate Action Plan to redirect energy systems. His executive actions (ev_019: 'more than 20 executive actions' on jobs in 2014 alone) demonstrate willingness to use available levers to achieve specified outcomes. The Cancer Moonshot represents explicit control orientation in scientific domain—Obama organized cross-agency task forces to direct cancer research (ev_043). However, his framing is rarely coercive; he prefers partnership models (Clean Fleets Partnership with corporations) and incentives. This suggests a technocratic control orientation—confidence that well-informed intervention can systematically steer complex systems toward better outcomes—consistent with those who believe expert knowledge enables effective control over social and physical systems.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_043",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strongly mission-prioritizing when core policy goals face opposition",
+      "finding": "Obama demonstrates willingness to absorb significant relational costs—political opposition, partisan conflict, legislative battles—when pursuing what he frames as essential policy missions. His sustained defense of the ACA (ev_001: 'As long as I am President, that's a commitment this country is going to keep') and Dodd-Frank (ev_029: 'I will veto it' if Wall Street reform is repealed) shows prioritization of policy preservation over relational compromise with political opponents. He explicitly criticized Congressional obstruction (ev_020: Republicans 'said no to raising the minimum wage, no to equal pay, no to restoring unemployment insurance') rather than moderating his positions. His refusal to negotiate over the debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States') prioritized systemic stability over partisan accommodation. This mission-prioritizing orientation suggests Obama subordinates relational comfort to policy goals when he views those goals as essential—consistent with his belief that data and evidence justify his positions and that opposition based on different values is less legitimate than positions grounded in empirical claims.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_020",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate risk tolerance with confidence in evidence-based prediction",
+      "finding": "Obama's approach to risk reflects confidence that evidence-based analysis can predict outcomes and therefore justify intervention. He made politically costly decisions (auto industry bailout, ACA passage) based on predicted consequences, explicitly reasoning from economic data and expert projections. His sequester warnings (ev_014) listed specific predicted harms—Head Start cuts, airport disruptions, military strain—indicating confidence in economic modeling's predictive power. His framing of climate action (ev_041: 'That's not something to tear up – it's something to build upon') treats climate science projections as reliable enough to guide present policy. The Cancer Moonshot (ev_042) represents accepting uncertainty in basic research while trusting that systematic investment will yield progress. However, Obama also shows pragmatic risk-avoidance in some contexts—his refusal to negotiate on debt ceiling reflected fear of systemic risk. Overall, his risk posture suggests belief that careful analysis can bound uncertainty and that data-justified interventions carry acceptable risk.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_041",
+        "ev_014",
+        "ev_022"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchical with pragmatic use of formal authority",
+      "finding": "Obama's use of hierarchical power reflects institutional legitimacy rather than personal domination—he positions himself within constitutional structures and defers to institutional processes even when frustrated. He repeatedly calls on Congress (evt_006, evt_008, evt_009) rather than circumventing legislative process when possible. His veto threats (ev_029) are framed as constitutional duties rather than personal preferences. However, he also demonstrates willingness to use executive authority when Congressional action stalls (ev_017: 'I took action to lift more workers' wages by requiring federal contractors' $10.10 minimum wage; ev_019: 'more than 20 executive actions' in 2014). His approach to expertise treats scientific and technical hierarchies as legitimate sources of guidance—he created the Presidential Innovation Fellows program (ev_043) specifically to bring technical expertise into government. This suggests hierarchical orientation is instrumental and legitimacy-based rather than purely power-seeking: Obama uses formal authority when institutional channels fail but frames such use as necessary rather than desirable.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_019",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-preferring with principled resistance to perceived illegitimate demands",
+      "finding": "Obama's conflict strategy emphasizes negotiation and institutional resolution while showing principled resistance when he perceives core principles at stake. He repeatedly appeals for bipartisan cooperation (ev_008: 'Neither party has been blameless in tactics like these. But it's time for both parties to put an end to them') and frames issues as 'not a Democratic or a Republican issue' (ev_008). Yet he draws firm lines: refusing debt ceiling negotiation (ev_015), vowing vetoes against Wall Street reform repeal (ev_029), and issuing direct challenges when Congressional obstruction blocks policy goals (ev_011, ev_020). His conflict posture treats data and evidence as neutral ground where rational actors should converge—implicitly assuming that evidence-based arguments carry inherent persuasive force. When opponents reject evidence-based reasoning, Obama shifts to asserting executive authority rather than intensifying direct conflict. This suggests a translation/confident-resolution hybrid strategy: convert opponents through evidence, but use institutional power when conversion fails.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_029",
+        "ev_020",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term optimizing with investment in durable structural changes",
+      "finding": "Obama consistently displays long-term time horizons prioritizing structural investments over short-term political wins. His education reform initiatives (evt_016), climate action plan (ev_040, ev_041: 'what we can leave to our children'), and Cancer Moonshot all frame goals in generational terms. His economic philosophy (ev_024: 'reverse the decades-long erosion of middle-class jobs and incomes') explicitly targets long-term structural trends. The 2025 energy target and Paris climate agreement framing reflect long-horizon planning. Even tactical political battles—like his defense of the ACA (ev_001: commitment 'as long as I am President')—are framed as building durable institutional foundations. His farewell address (ev_047) explicitly frames optimism about 'our country's promise' over extended time horizons. This long-term orientation is consistent with belief that systematic, evidence-based policies compound over time to produce lasting positive change—a belief in science-like cumulative progress in the policy domain.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_041",
+        "ev_024",
+        "ev_001",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reform orientation with skepticism of incremental approaches",
+      "finding": "Obama's signature policies represent structural redesign rather than incremental adjustment. The ACA restructured healthcare markets fundamentally rather than patching existing systems. Dodd-Frank created new regulatory architecture (ev_003: 'financial system in which everyone competes on a level playing field, and everyone is held to the same rules') with new institutions like the Consumer Financial Protection Bureau. The Cancer Moonshot (ev_043) explicitly aimed to overcome systemic fragmentation in clinical trial access through technological solutions—rebuilding the information infrastructure rather than minor reforms. His 'Year of Action' executive actions (evt_015) responded to Congressional blocking of structural reforms, not as preference but as substitution for unavailable structural change. His framing of past trade deals (ev_027: 'past trade deals haven't always lived up to the hype') suggests critique of prior incremental approaches and advocacy for more fundamental frameworks. This orientation reflects belief that complex problems require structural solutions, consistent with those who trust systematic approaches over piecemeal adjustments.",
+      "evidence_ids": [
+        "ev_043",
+        "ev_003",
+        "ev_027",
+        "ev_019",
+        "evt_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness with emphasis on collective learning over individual reflection",
+      "finding": "Obama's metacognitive patterns emphasize institutional learning and evidence-based refinement rather than explicit reflection on personal cognitive limits. He explicitly invokes the Cancer Moonshot as learning from Nixon's earlier failed attempt (ev_042: 'When President Nixon declared war on cancer in 1971, he had no army, no resources, and no clear strategy'), suggesting awareness that prior approaches failed due to structural deficiencies, not just bad luck. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows capacity to recognize the gap between policy intentions and outcomes. However, Obama rarely reflects explicitly on his own reasoning processes or cognitive biases. His speeches attribute progress to collective action (ev_032: 'It's you—the American people') rather than individual presidential cognition. He treats evidence and data as having clear policy implications, rarely acknowledging the interpretive layers between raw data and policy conclusions. This suggests moderate metacognition focused on institutional and historical learning rather than personal cognitive self-awareness.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_027",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "instrumental_evidentialism",
+      "definition": "Distinguishes between epistemic commitment to evidence and ontological commitment to scientific realism. Obama treats data as useful for policy justification but does not reveal philosophical position on whether statistical indicators correspond to mind-independent reality or are social constructs that could be measured differently.",
+      "finding": "Obama consistently uses empirical data—employment figures, healthcare enrollment, environmental metrics—as the foundation for policy arguments. However, his speeches never engage with whether these measurements constitute objective descriptions of reality or are contingent social constructs. He treats unemployment statistics, deficit figures, and carbon pollution levels as straightforward facts without epistemological qualification. This instrumental evidentialism—using evidence to justify policy without committing to philosophical positions on the nature of evidence—is pragmatically effective for political communication but leaves his scientific realism/antirealism commitments ambiguous. His implicit trust in government statistics suggests naive realist tendencies, but his political context may fully explain this framing. The philosophy of science framework reveals this as an unexamined dimension: Obama operates with an unstated epistemology that treats institutional measurement as legitimate evidence without asking what makes it so.",
+      "evidence_ids": [
+        "ev_016",
+        "ev_025",
+        "ev_033",
+        "ev_040",
+        "ev_028",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Skepticism",
+      "Scientific Realism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

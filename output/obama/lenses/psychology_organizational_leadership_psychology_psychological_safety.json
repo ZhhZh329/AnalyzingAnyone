@@ -1,0 +1,159 @@
+{
+  "discipline": "psychology",
+  "lens": "organizational_leadership_psychology_psychological_safety",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping, but through collaborative mechanisms rather than unilateral control",
+      "finding": "Obama consistently acted as a world-shaper, announcing major initiatives like the Cancer Moonshot, climate action agenda, and trade agreements. However, his world-shaping was notably collaborative—he explicitly sought diverse input from unlikely coalitions (AFL-CIO and Chamber of Commerce together on transportation funding, ev_008), brought Silicon Valley innovators into government through the Presidential Innovation Fellows program (ev_037), and framed accomplishments as collective achievements rather than personal triumphs. His farewell address epitomizes this: 'You made me a better President' (ev_044), attributing success to American people rather than claiming personal credit. This suggests a leader who shaped direction while creating mechanisms for others to contribute.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_037",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-driven with demonstrated intellectual humility about limitations",
+      "finding": "Obama showed a pattern of making confident claims while explicitly acknowledging uncertainty and past mistakes. Most notably on trade policy: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), demonstrating willingness to critique his own track record while still advocating for TPP. His sequester warnings showed data-driven reasoning—citing Head Start cuts, airport disruptions, military strain (ev_014)—rather than purely ideological positions. His framing of deficits 'falling at fastest rate since World War II' (ev_016) suggests comfort with statistical evidence. He also expressed faith in collective problem-solving: 'our founders trusted us with the keys to this system' (ev_036), treating democratic deliberation as a genuine knowledge-generation process rather than mere procedural formality.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_014",
+        "ev_016",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction with consistent policy systematization across domains",
+      "finding": "Obama consistently articulated comprehensive policy frameworks rather than isolated fixes. His 'Blueprint for a Secure Energy Future' (evt_004) specified one-third oil import reduction goal by 2025 with multiple integrated components (drilling, fuel efficiency, clean energy, corporate partnerships). His 'middle-out' economic philosophy (ev_021) represents explicit systematization—'our economy grows best not from the top-down, but from the middle-out.' His balanced deficit reduction approach (ev_013) showed methodological systematization combining entitlement reform with tax reform. The Cancer Moonshot demonstrated abstraction across bureaucratic silos—Biden described cross-agency task force creating unified patient registry (ev_043). This pattern suggests Obama thought in systems rather than symptoms.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_021",
+        "ev_013",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high control over policy direction but low dominance over interpersonal dynamics",
+      "finding": "Obama showed strong control over policy goals—vowing vetoes on Wall Street Reform repeal (ev_029), refusing to negotiate over debt ceiling (ev_015), declaring 'Year of Action' with 20+ executive actions when Congress blocked priorities (ev_019). However, his control orientation was bounded by relational considerations—he explicitly called for bipartisan cooperation even while criticizing obstruction (ev_020), and framed Congressional cooperation as 'Christmas miracles' (ev_048). His fatherhood address showed comfort with vulnerability—sharing personal experience of growing up without his father (ev_006) and his coaching role (ev_007)—suggesting control was mission-focused rather than ego-driven. He delegated the Cancer Moonshot to Biden with genuine authority (ev_042). This pattern suggests control deployed instrumentally for goals rather than for dominance display.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_019",
+        "ev_048",
+        "ev_006",
+        "ev_007"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with significant attention to relational integrity and institutional trust",
+      "finding": "Obama clearly prioritized mission—declaring 'Year of Action' when Congress blocked minimum wage and equal pay (ev_020), refusing debt ceiling negotiation (ev_015), launching Cancer Moonshot with concrete patient-enrollment goals (ev_043). Yet he consistently protected relational integrity and institutional trust. He explicitly avoided burning Congressional bridges—'That's not something to tear up—it's something to build upon' regarding Paris climate agreement (ev_041). He maintained respect for process even while criticizing obstruction: 'One senator gumming up the works... is certainly not what our founding fathers envisioned' (ev_010), separating critique of tactics from delegitimization of institutions. His debt ceiling stance—'I will not negotiate over the full faith and credit'—prioritized institutional trust over immediate political comfort, but did so by appealing to America's credibility rather than personal presidential power. This suggests mission-priority within carefully maintained relational and institutional guardrails.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_041",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking with long time horizons and explicit acknowledgment of uncertainty",
+      "finding": "Obama's risk posture was notably long-term and system-oriented. The Cancer Moonshot represented a 45-year accumulated scientific investment (ev_042)—willing to build on decades of work without expecting immediate harvest. Climate action framed as 'leave a better, cleaner, safer future for our children' (ev_041) shows multi-generational risk horizon. His energy strategy acknowledged limits of single approaches: 'Drilling alone is not a real strategy' (ev_005), demonstrating comfort with acknowledging partial solutions. Trade policy showed willingness to acknowledge past failures while taking new risks: 'I'm the first to admit past trade deals haven't lived up to hype' then advocating TPP anyway (ev_027). His 'resurgence is real' declaration (ev_024) balanced celebration of current gains with acknowledgment of ongoing work: 'we have the chance to reverse decades-long erosion.' This suggests risk tolerance calibrated to long-term systemic goals with explicit uncertainty acknowledgment.",
+      "evidence_ids": [
+        "ev_042",
+        "ev_041",
+        "ev_005",
+        "ev_027",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical authority deployed instrumentally for collective goals with stakeholder inclusion",
+      "finding": "Obama used presidential authority deliberately but inclusively. He announced executive orders (federal contractor minimum wage, ev_017) while explicitly calling for Congressional action—'I've taken action... I called on Congress to raise the federal minimum wage nationwide.' He brought together unlikely coalitions (AFL-CIO and Chamber of Commerce, ev_008) rather than ruling through division. The Cancer Moonshot delegated genuine authority to Biden (ev_042), and government modernization brought in external experts (Presidential Innovation Fellows, ev_037). His Memorial Day address articulated hierarchical obligation toward those who serve: 'I have no more solemn obligation than leading our men and women in uniform' (ev_038), treating power as responsibility rather than privilege. His farewell showed low ego investment in hierarchy—'I look forward to working along your side, as a citizen' (ev_047). This suggests hierarchical power viewed as a tool for collective problem-solving rather than personal authority display.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_008",
+        "ev_042",
+        "ev_037",
+        "ev_038",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Escalation through transparent institutional means while preserving relationship channels",
+      "finding": "Obama's conflict strategy involved direct confrontation of obstacles while maintaining relationship preservation. He publicly named Congressional obstruction: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020) while still calling for cooperation. His debt ceiling stance was uncompromising—'I will not negotiate' (ev_015)—but framed as protecting America's credibility rather than personal power. He used veto threats as explicit announcements ('I will veto it,' ev_029) rather than hidden pressure. Yet his conflict never delegitimized institutions—he criticized 'gumming up the works' tactics (ev_010) while respecting the founding framework. His fatherhood address showed comfort with vulnerability and personal sharing as leadership, suggesting conflict was not his primary mode. The pattern suggests conflict handled through institutional escalation while preserving face-saving paths for opponents.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_015",
+        "ev_029",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly mission-scale with multi-generational orientation and structural rather than cosmetic focus",
+      "finding": "Obama's time horizon was notably long-term and structural. Climate action framed as legacy for children (ev_041); Cancer Moonshot explicitly built on 45 years of scientific investment (ev_042); energy independence goal set for 2025 (evt_004). His 'resurgence is real' speech explicitly positioned gains within decades-long context: 'reverse the decades-long erosion of middle-class jobs' (ev_024). The sequester crisis showed consistent preference for structural solutions ('balanced approach' combining entitlement reform and tax reform, ev_013) over temporary fixes. His 'middle-out' economic philosophy (ev_021) represents a structural rather than symptomatic framework. This long horizon was maintained even under political pressure—refusing debt ceiling negotiation despite short-term risk, pushing TPP despite immediate political costs. The pattern suggests optimization for structural change at mission scale rather than electoral cycle.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_042",
+        "ev_024",
+        "ev_013",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for systemic redesign over incremental fixes across multiple policy domains",
+      "finding": "Obama consistently pursued structural reform over symptomatic patches. Healthcare reform (ACA) restructured insurance markets rather than just expanding subsidies; Dodd-Frank rebuilt financial regulatory architecture; his 'middle-out' philosophy (ev_021) represents systemic economic thinking. His energy strategy rejected single-solution approaches in favor of comprehensive frameworks (ev_005). The Cancer Moonshot rebuilt patient-trial connectivity through technology rather than just funding increases (ev_043). Even when constrained by Congress, he announced executive actions as structural changes to federal contracting rules (ev_017) rather than temporary programs. His 'Year of Action' framed obstacles as requiring systemic response. This pattern suggests preference for changing underlying structures rather than optimizing within existing constraints.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_005",
+        "ev_043",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with explicit monitoring of own limitations and downstream effects",
+      "finding": "Obama demonstrated notable metacognitive patterns. His explicit self-correction on trade—'I'm the first to admit past trade deals haven't lived up to the hype' (ev_027)—shows willingness to critique his own prior positions. His farewell address acknowledged learning from disagreement: 'whether we've seen eye-to-eye or rarely agreed at all... are what have kept me honest, kept me inspired' (ev_044), demonstrating awareness that dissent functions as cognitive correction. He showed concern for downstream effects of his positions—concern about 'risking another' financial crisis if Wall Street reform unraveled (ev_029). His 'middle-out' framework reflects abstract self-monitoring of economic causal assumptions. His invitation to Silicon Valley innovators (ev_037) and diverse coalitions (ev_008) suggests active awareness of his own blind spots. He explicitly credited others with his development—'You made me a better President and a better man' (ev_044)—showing low defensive egotism. This pattern suggests genuine metacognitive engagement with his own reasoning processes.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_029",
+        "ev_037",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "cognitive_humility_coordination",
+      "definition": "A leader's capacity to attribute success to collective contributions while maintaining clear directional authority—creates psychological safety by making others feel their contributions matter without sacrificing decisiveness.",
+      "finding": "Obama demonstrated a distinctive pattern of cognitive humility coordination—maintaining strong policy convictions while consistently attributing success and insight to others. His farewell address 'you made me a better President and a better man' (ev_044) exemplifies this. This approach creates psychological safety because it signals that leader's views are not final truth, that others' input genuinely matters, while still providing clear direction. The pattern appears consistently across his stakeholder inclusion (AFL-CIO + Chamber of Commerce, ev_008), innovation partnerships (Presidential Innovation Fellows, ev_037), and Cancer Moonshot delegation to Biden (ev_042). This contrasts with both humble leaders who lack direction and decisive leaders who lack humility—it combines both dimensions in a way that may be particularly effective for psychological safety cultivation.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_008",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

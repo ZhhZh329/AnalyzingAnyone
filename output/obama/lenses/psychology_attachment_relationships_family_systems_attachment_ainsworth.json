@@ -1,0 +1,177 @@
+{
+  "discipline": "psychology",
+  "lens": "attachment_relationships_family_systems_attachment_ainsworth",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation balanced with genuine respect for structural constraints; demonstrates high-agency secure attachment",
+      "finding": "Obama exhibits a confident world-shaping orientation while maintaining secure attachment to democratic institutions as the terrain for change. His statement \"our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences and solve our collective challenges\" (ev_036) reveals he sees agency as exercised within trustworthy structures rather than against them. This contrasts with anxious-ambivalent leaders who over-control due to deep uncertainty, or avoidant leaders who retreat from institutional engagement. His agency is further evidenced by taking executive actions (ev_017, ev_019) when legislative paths blocked, but always framing these as complementary to rather than replacing democratic processes (ev_015).",
+      "evidence_ids": [
+        "ev_036",
+        "ev_037",
+        "ev_015",
+        "ev_017",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Integrative epistemic style that balances emotional resonance with rational argument; high integration of multiple information sources",
+      "finding": "Obama demonstrates the integrative epistemic style characteristic of secure attachment—he can process emotional information without being overwhelmed by it, and can reason through complex policy without emotional detachment. His statement \"I'm the first to admit that past trade deals haven't always lived up to the hype\" (ev_027) shows cognitive-emotional integration: he acknowledges past failures emotionally while maintaining rational policy engagement. This contrasts with avoidant types who process information through de-emotionalized abstraction, and anxious types whose cognition is repeatedly 'hijacked' by emotional signals. His father's departure at age two (ev_006) would have necessitated developmental work to integrate this early relational disruption into a coherent self-narrative, a process visible in his public articulation of identity and purpose.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_006",
+        "ev_018",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high formalization capacity; able to move between abstract principles and concrete particulars without rigidity",
+      "finding": "Obama demonstrates strong capacity for formal, systematic thinking—evident in his articulation of coherent policy frameworks like the 'middle-out' economics (ev_021) and his systematic enumeration of accomplishments (ev_033, ev_048). However, he deploys formalization strategically rather than rigidly: he can articulate abstract principles of democratic governance (ev_036) while also grounding policy in concrete human impacts like Head Start children, seniors on Meals on Wheels, and military families (ev_014). This flexibility suggests secure attachment's ability to modulate abstraction based on context, avoiding both the avoidant overuse of formalization as emotional distancing and the anxious concrete-bound rigidity. His energy blueprint demonstrates formal policy thinking (evt_004) while his veterans initiatives remain grounded in individual human stories (ev_038).",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_048",
+        "ev_036",
+        "ev_014",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation exercised through institutional means rather than personal dominance; preference for structural influence over interpersonal control",
+      "finding": "Obama's control orientation operates primarily through institutional channels—legitimate democratic authority—rather than personal domination or micro-management. He uses the veto power definitively (ev_029), executive orders strategically (ev_017, ev_019), and coalition-building (ev_008) as control mechanisms. He explicitly refuses certain negotiations (ev_015: \"I will not negotiate over the full faith and credit\") but does so to protect institutional integrity rather than personal power. This contrasts with anxious attachment's hypermonitoring control (obsessive relationship attention) or avoidant attachment's pseudocontrol through self-isolation. His father's departure (ev_006) may have shaped a relationship to control that emphasizes reliability and presence—witness his emphasis on \"being there\" for families of fallen (ev_038) and his comment about wondering \"what my life would have been like had he been a greater presence\" (ev_006).",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_008",
+        "ev_038",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission commitment with high sensitivity to relational costs; seeks win-win solutions that preserve relationships",
+      "finding": "Obama demonstrates characteristic secure attachment balance between mission advancement and relationship preservation. He pursues ambitious policy agendas (ACA, Dodd-Frank, climate, TPP) while consistently building bipartisan coalitions (ev_008: AFL-CIO and Chamber of Commerce together) and attributing success to collective action (ev_032: \"It's you—the American people\"). This differs from anxious attachment's tendency to prioritize relationship maintenance even at mission's expense, or avoidant attachment's systematic devaluing of relational costs. His farewell address—\"You made me a better President, and you made me a better man\" (ev_044)—shows genuine mutuality rather than instrumental relationship use. The contrast is evident in his negotiating posture: he draws firm lines (debt ceiling) while simultaneously appealing for bipartisan action (sequester replacement), suggesting mission priorities held without severing relational bridges.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_032",
+        "ev_044",
+        "ev_013",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker who uses institutional risk management; moderate threat vigilance balanced with confident uncertainty tolerance",
+      "finding": "Obama's risk posture reflects secure attachment's capacity for accurate threat assessment without either hypervigilance or blind spots. He navigates significant policy risks—the auto bailout (ev_022), Iran nuclear deal (ev_034), Paris climate agreement (ev_041)—while maintaining institutional safeguards. His statement on 9/11 anniversary distinguishing \"America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam\" (ev_012) shows threat precision without overgeneralization. This contrasts with anxious attachment's threat hypervigilance (misreading ambiguous signals as dangerous) or avoidant attachment's risk blindness in relationship domains. He acknowledges uncertainty explicitly (\"I'm the first to admit past trade deals haven't lived up to the hype\" ev_027) while maintaining confident forward orientation, suggesting accurate self-calibration of risk.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_034",
+        "ev_041",
+        "ev_012",
+        "ev_027",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional hierarchy as legitimate framework for authority; power used for collective benefit rather than personal aggrandizement",
+      "finding": "Obama treats institutional hierarchy as a legitimate platform for collective action rather than a threat to be managed or exploited. He works through the presidency as an institutional role (ev_036: democratic governance as \"best tool\"), the Supreme Court as a legitimate check (ev_035: same-sex marriage as \"love won\" through judicial process), and bipartisan Congressional action as genuine progress (ev_048: \"Christmas miracles\" of cooperation). This differs from anxious attachment's fearful dependence on hierarchy, avoidant attachment's defensive distance from authority, or混乱型's unpredictable oscillation between submission and defiance. He exercises presidential power definitively when necessary (veto threats ev_029, executive orders ev_017) but frames this as \"as long as I am President, that's a commitment\" (ev_001)—authority as service to obligation rather than personal dominance.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_035",
+        "ev_048",
+        "ev_029",
+        "ev_017",
+        "ev_001",
+        "ev_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-translation style; draws firm lines while maintaining dialogue; avoids escalation but does not suppress genuine disagreement",
+      "finding": "Obama demonstrates a negotiation-oriented conflict strategy characteristic of secure attachment: he identifies conflicts clearly, draws principled lines, but maintains open channels for resolution. His statement \"One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned\" (ev_010) names the conflict directly but frames resolution in democratic terms rather than personal vendetta. He criticizes Republican obstruction (ev_020) while calling for action on shared problems (ev_008). His refusal to negotiate on debt ceiling (\"I will not negotiate over the full faith and credit\" ev_015) coexists with urgent calls for bipartisan sequester replacement (ev_013). This differs from avoidant conflict avoidance (suppression through withdrawal), anxious escalation, or混乱 unpredictability. His memorial address frame (\"if they make the ultimate sacrifice – we have to do more than honor their memory. We have to be there for their families\" ev_038) shows conflict translated into service obligations.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_008",
+        "ev_020",
+        "ev_015",
+        "ev_013",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term orientation; optimizes for generational impact; maintains consistent direction across immediate political cycles",
+      "finding": "Obama's time horizon is markedly long-term—optimizing for decades rather than electoral cycles. His climate policy frames legacy explicitly: \"That's not something to tear up – it's something to build upon\" (ev_041). His farewell emphasizes sustained civic engagement: \"Not just when there's an election... but over the full span of a lifetime\" (ev_046). The Medicare commitment—\"As long as I am President, that's a commitment this country is going to keep\" (ev_001)—extends across generations. His father's absence may have heightened awareness of long-term relational consequences; his own presence as father (ev_007: coaching daughter's basketball team) represents active investment in long-term relational goods. This differs from anxious attachment's shortened time horizon driven by uncertainty, or avoidant attachment's present-focused autonomy protection. His 57-month job creation (ev_025) and 69-month streak (ev_033) show patience with delayed returns.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_046",
+        "ev_001",
+        "ev_007",
+        "ev_025",
+        "ev_033",
+        "ev_011"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Balanced approach; deploys structural reforms where local patches prove insufficient while preserving functional existing systems",
+      "finding": "Obama's pattern shows strategic judgment about when structural reform is necessary versus when修补 is sufficient—a sophisticated approach rare in attachment theory discussions. He pursues comprehensive reform (ACA, Dodd-Frank) when incremental approaches have failed, but works within existing institutional structures rather than revolutionary rebuild. His budget and education bills passed as \"Christmas miracles\" (ev_048) show pragmatism about incremental wins. The 'Year of Action' executive actions (ev_019) represent structural innovation (executive authority) when legislative path blocked. This differs from anxious attachment's excessive修补 (attempting to preserve every relationship even when severely damaged) or avoidant attachment's preference for clean breaks. His approach acknowledges institutional path dependencies while remaining open to structural innovation when necessary.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_029",
+        "ev_048",
+        "ev_019",
+        "ev_020",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Exceptionally high metacognitive capacity; explicit self-awareness of cognitive limits and growth edges; uses reflection to adjust reasoning",
+      "finding": "Obama demonstrates remarkable metacognitive capacity, actively monitoring and adjusting his reasoning in public. His farewell address—\"Every day, I learned from you. You made me a better President, and you made me a better man\" (ev_044)—explicitly positions learning as ongoing process rather than fixed state. He acknowledges past trade deal failures (\"I'm the first to admit\" ev_027), deficit trajectory progress (\"deficits are already falling at the fastest rate\" ev_016), and limits of drilling alone (\"drilling alone is not a real strategy\" ev_005). This contrasts with anxious attachment's emotional flooding that disrupts reflective capacity, or avoidant attachment's deactivation of metacognition to manage distress. His explicit naming of personal growth from fatherless childhood (ev_006) to present fatherhood (ev_007) shows integration of early experience into coherent self-narrative—a metacognitive achievement. His statement \"Our founders trusted us with the keys to this system of self-government because it's the best tool we've got—and it's only as good as we make it\" (ev_036) reflects metacognitive awareness of collective cognitive limits.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_016",
+        "ev_005",
+        "ev_006",
+        "ev_007",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "collective_attachment_strategies",
+      "definition": "Political leaders may develop attachment patterns not only in dyadic relationships but in their conceptualization of the collective—a sense of whether the nation functions as a secure base or whether it triggers anxiety about abandonment or loss. This extends attachment theory beyond individual relational dynamics to collective identity formation and mobilization.",
+      "finding": "Obama's public behavior suggests a distinctive 'collective secure base' orientation—treating the American public and democratic institutions as the relational ground from which policy initiatives are launched. His explicit calls for sustained civic engagement (\"throw ourselves into the work of citizenship... over the full span of a lifetime\" ev_046), his attribution of accomplishment to collective action (\"It's you—the American people\" ev_032), and his framing of institutions as trustworthy (\"our founders trusted us\" ev_036) suggest he operates with a model of collective attachment where the populace functions as secure base and the president as organizer of its capacity. This contrasts with leaders who view the public as audience to be managed, adversary to be overcome, or dependent to be cared for. Obama appears to model and call forth the public's agency as a parent encourages a child's development—consistent with his own absent father experience channeled into active father presence (ev_007). This emergent construct illuminates why his leadership style emphasizes capacity-building over dependency-creation.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_032",
+        "ev_036",
+        "ev_007",
+        "ev_045",
+        "ev_018"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

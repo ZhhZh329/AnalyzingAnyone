@@ -1,0 +1,174 @@
+{
+  "discipline": "philosophy",
+  "lens": "existentialism_phenomenology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Pronounced world-shaper orientation; Obama acts as an agent who shapes structural conditions rather than merely responding to them",
+      "finding": "Obama exhibits strong萨特式能动性 through repeated executive actions when legislative pathways are blocked. His declaration of a 'Year of Action' with over 20 executive orders (evt_015; ev_019) demonstrates active world-shaping rather than passive structural response. He challenged private companies to hire 100,000 veterans (ev_009) and issued veto threats to protect Wall Street Reform (ev_029) - both show him attempting to shape economic structures according to his vision. Unlike a pure responder who waits for favorable conditions, Obama creates conditions through available institutional mechanisms. This aligns with Sartre's notion that humans define themselves through action, though Obama operates within '处境性自由' - his structural constraints (congressional opposition) shape which tools he uses.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_029",
+        "ev_009",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded phenomenologist; trusts first-hand experience and measurable data over abstract theorization",
+      "finding": "Obama's epistemic style follows a胡塞尔式回归事物本身 - he grounds claims in lived realities rather than pure abstractions. He repeatedly cites concrete statistics: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x (ev_040), Medicare solvency extended by 12 years (ev_002). His Father's Day address shares personal experience of growing up without a father (ev_006) as phenomenological data informing his understanding of fatherhood. He documents sequester costs through specific human stories: Head Start children, seniors on Meals on Wheels, military families (ev_014). This suggests epistemic trust in empirical observation and measurable outcomes, with abstraction serving to organize concrete particulars rather than replace them.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_014",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate; uses abstraction to organize concrete realities but resists pure systematization that loses human particulars",
+      "finding": "Obama employs philosophical abstractions ('middle-out economics' ev_021; 'resurgence' ev_024; 'opportunity for all' ev_018) but consistently grounds them in human particulars. His abstraction serves to organize concrete experiences rather than replace them - the inverse of Hegelian systematization that克尔凯郭尔 criticized. In his 2015 year-end address, he moves from abstract 'progress' to specific human stories: cancer survivors with affordable care, communities rebuilding from disaster, cities showing resilience (ev_045). This pattern suggests moderate formalization - enough to create coherent philosophy but never losing touch with phenomenological particulars. Obama would likely agree with Heidegger that formalization can 'enframe' (gestell) reality in ways that strip essential meaning.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_045",
+        "ev_018"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Measured institutional control; works within structural constraints rather than seeking total mastery",
+      "finding": "Obama does not exhibit the control-seeking that pure Stoic or萨特式 radical freedom might suggest. Instead, he demonstrates海德格尔式 'letting things be' within institutional bounds - he works through executive orders (ev_017), veto threats (ev_029), and 'balanced approaches' (ev_013) rather than attempting total system mastery. His refusal to negotiate on the debt ceiling (ev_015) represents principled boundary-setting rather than desire for total control. His climate policy exemplifies this: he speaks of building upon existing conditions rather than completely transforming the energy system (ev_041). This suggests a control orientation that operates within structural affordances rather than attempting to dominate all variables - closer to Heidegger's concept that authentic existence involves 'letting beings be' than Sartre's absolute freedom.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_029",
+        "ev_013",
+        "ev_015",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-prioritizing with high relational cost tolerance; willing to absorb political alienation for policy goals",
+      "finding": "Obama demonstrates clear willingness to absorb relational costs when mission demands it. He explicitly criticizes Republican obstruction - blocking minimum wage, equal pay, unemployment insurance (ev_020) - without softening his position. His executive actions on wages and jobs proceed despite partisan friction. His 'Year of Action' framing (evt_015) explicitly acknowledges that Congress won't act, accepting political alienation as the price of continued progress. Even his farewell address, while gracious, maintains his accomplishments as evidence of right choices made under pressure (ev_045). This mission-prioritization costs relational capital with political opponents, but Obama consistently chooses policy outcomes over relational comfort - a pattern consistent with萨特式 authentic choice accepting full responsibility for consequences.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_017",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "High risk tolerance for institutional stakes; accepts personal political risk for perceived systemic necessity",
+      "finding": "Obama displays notable risk tolerance in contexts where institutional stakes are high. He frames immediate deadlines in urgent terms: 7 days until transportation workers 'walk off the job,' 8 days until 7.5 million students see loan rates double (ev_011). He stakes presidential credibility on the debt ceiling 'not negotiable' (ev_015) - a high-stakes risk position. His veto threat against Wall Street Reform repeal (ev_029) and commitment to Paris climate agreement (ev_041) show willingness to absorb political risk for systemic goals. Unlike risk-aversion, Obama accepts that meaningful action requires risking failure and opposition. 加缪式荒谬主义 may provide interpretive frame: facing institutional absurdity (Congressional obstruction) while continuing to act anyway - 'revolt' against circumstances rather than escape.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_015",
+        "ev_029",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Democratic-functional view; authority is legitimate only when in service of collective problem-solving",
+      "finding": "Obama's relation to hierarchy reveals a consistently democratic-functional orientation. He states: 'government is the best tool we've got to settle our differences and solve our collective challenges... and it's only as good as we make it' (ev_036). This frames hierarchical power as instrumental rather than inherently valuable - authority exists to serve collective purposes, not for its own sake. He criticizes Senate obstruction as contrary to founders' intent (ev_010), subordinating institutional hierarchy to democratic purpose. His 'middle-out' economic philosophy (ev_021) inverts traditional trickle-down hierarchy, positioning middle-class strength as the foundation rather than elite prosperity as the engine. This suggests a view where萨特式 'no one is naturally subordinate' is expressed through institutions designed to prevent naturalized hierarchy.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_010",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Confrontational-translation; openly names opposition and reframes conflict as democratic accountability",
+      "finding": "Obama's conflict strategy involves confrontation through transparency rather than suppression, delay, or escalation. He openly identifies Republican obstruction (ev_020: 'they've said no to raising minimum wage, no to equal pay, no to restoring unemployment insurance') - naming conflict directly rather than euphemizing. He condemns Senate filibuster tactics as contrary to founding principles (ev_010), translating partisan conflict into constitutional language. His debt ceiling refusal (ev_015) escalates only to principled boundary, not personal attack. Unlike萨特's pure conflict ontology where '他人即地狱,' Obama tends to frame opposition as misunderstanding of shared democratic values rather than irreconcilable clash of freedoms. His bipartisan budget celebration (ev_048) shows capacity for integration when opportunities arise - conflict is managed, not glorified.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Multi-scale; integrates immediate deadlines, medium-term project cycles, and long-term structural transformation",
+      "finding": "Obama's time orientation spans all three horizons. Short-term: immediate legislative deadlines with specific countdown framings (ev_011: 7 days, 8 days). Medium-term: his 'project' of 4-8 year presidency cycles measured in job creation streaks, deficit reduction trajectories, and legislative implementation. Long-term: Paris climate agreement (ev_041: 'leave a better, cleaner, safer future for our children'), energy independence by 2025 (evt_004). The farewell address exemplifies this integration: immediate bipartisan budget as 'Christmas miracle,' medium-term economic recovery as ongoing project, and long-term democratic resilience as continuing possibility (ev_047). This matches海德格尔式 '向死而存' temporal integration where the present is illuminated by both past accomplishments and future possibilities - not optimizing any single horizon but weaving them together.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_041",
+        "ev_047",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural rebuild orientation; pursues fundamental institutional redesign over temporary fixes",
+      "finding": "Obama consistently prioritizes structural redesign over incremental repair. His central legislative achievements - ACA and Dodd-Frank - represent fundamental restructuring of healthcare and financial systems, not patches. The ACA redesigned insurance markets, expanded coverage, and extended Medicare solvency (ev_002). Dodd-Frank established permanent consumer protections and ended 'too big to fail' bailouts (ev_003). When Congress blocks legislative rebuild, he turns to executive action as structural workaround - minimum wage via executive order (ev_017). His 'opportunity for all' philosophy (ev_018) frames the mission as structural rather than individual: 'no matter who you are or how you started out.' Even his climate action (ev_040) describes fundamental energy system transformation, not marginal improvements. This demonstrates萨特式 'project' (projet) - fundamental redesign of structural conditions rather than mere adjustment.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_017",
+        "ev_018",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness; demonstrates reflexive understanding of own limitations and contextual positioning",
+      "finding": "Obama shows notable metacognitive capacity through reflexive acknowledgment of limitations and learning. He admits 'past trade deals haven't not always lived up to the hype' (ev_027) - self-critical recognition that his prior judgments were imperfect. His farewell address explicitly credits others for his development: 'Every day I learned from you. You made me a better President, and you made me a better man' (ev_044). He attributes accomplishments to collective action rather than claiming individual credit (ev_032: 'All of this progress is because of you'). This demonstrates海德格尔式 'authenticity' - awareness of being situated within larger processes, not the sole author of outcomes. His call for sustained civic participation 'not just when our own narrow interest is at stake' (ev_046) shows metacognition about cognitive limitations all actors share. The pattern suggests genuine reflexive capacity, not performative modesty.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_032",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Collective 'We'-Constituting Agency",
+      "definition": "Obama consistently frames individual agency as constituted through collective participation rather than isolated individual freedom. His rhetoric constructs an American 'we' that is the real agent of change, with Obama positioned as facilitator rather than lone hero. This contrasts with Sartre's individualistic freedom (where each consciousness is separate) and Heidegger's 'das Man' (where collective is anonyoum and alienating). Obama's 'we' is empowering and constitutive.",
+      "finding": "Obama's farewell address exemplifies this: 'All of this progress is because of you - because of workers rolling up their sleeves, entrepreneurs starting businesses, teachers and health workers and parents' (ev_032). He positions himself aslearner from citizens rather than their commander: 'my conversations with you... are what have kept me honest, kept me inspired' (ev_044). The Cancer Moonshot (evt_026) shows institutional manifestation of this philosophy - cross-agency collaboration, Silicon Valley partnerships, crowdsourced clinical trial information. This 'we-constituting' agency suggests Obama may be closer to马克思式 collective agency or杜威式 democratic pragmatism than Sartrean individualism, despite his institutional role as decision-maker. The emergent dimension captures how collective constitution of agency differs from both individualistic freedom and anonymous collective (das Man).",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "evt_026",
+        "ev_036"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "Hopeful Realism / Grounded Optimism",
+      "definition": "Obama consistently maintains optimistic commitment to democratic possibility while acknowledging genuine obstacles and failures. This is neither naive optimism nor cynical pessimism - a distinct existential stance that might be termed 'hopeful realism' or 'grounded optimism.' It differs from Camus's荒谬主义 (which denies hope as evasion) and from purely religious faith (which grounds hope transcendentally). Obama's hope is immanent - rooted in observed human resilience and capable of being disappointed but repeatedly renewed.",
+      "finding": "Obama declares 'I am even more optimistic about our country's promise' in his farewell (ev_047), yet immediately after acknowledges real challenges and the need for sustained civic engagement (ev_046). He documents real human costs of sequester (ev_014) while maintaining policy advocacy. His energy speech acknowledges 'not something to tear up - it's something to build upon' (ev_041) - defensive but hopeful framing against anticipated opposition. The pattern suggests a calibrated hope that accepts disappointment: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), yet continues engagement. This differs from both Sartre (who rejects hope as bad faith) and Kierkegaard (who requires transcendent faith for the leap). Obama's hope is海德格尔式 - the world opens possibilities, and we remain open to them despite anxiety.",
+      "evidence_ids": [
+        "ev_047",
+        "ev_046",
+        "ev_041",
+        "ev_027",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Pragmatism",
+      "Dualism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "discipline": "philosophy",
+  "lens": "marxism_structuralism_gramsci",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Predominantly world-shaping agency within structural constraints, operating as an organic intellectual who coordinates collective action rather than passively responding to circumstances",
+      "finding": "Obama consistently demonstrates world-shaping agency through executive actions, policy initiatives, and rhetorical reframing of national discourse. Evidence shows 20+ executive actions in his 'Year of Action' (ev_019), direct veto threats against Wall Street Reform repeal (ev_029), and engagement with Silicon Valley to 'modernize the federal government' (ev_037). However, his agency operates within structural constraints he acknowledges but does not fundamentally challenge—Republican obstruction (ev_020), Senate practices he condemns as contrary to 'founding fathers' intent' (ev_010), and institutional limitations requiring bipartisan cooperation. His farewell address exemplifies the Gramscian organic intellectual position: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044)—positioning himself as articulating and coordinating rather than simply imposing. He is neither pure world-shaper nor structure-responder but a practitioner of strategic agency within inherited institutional frameworks.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_037",
+        "ev_010",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-informed empiricism blended with liberal-democratic 'common sense,' lacking critical interrogation of hegemonic assumptions",
+      "finding": "Obama's epistemic style combines empirical claims—Medicare solvency extension (ev_002), job creation statistics (ev_025), consumer recovery amounts (ev_028)—with moral appeals to shared American values. Critically for Gramscian analysis, his worldview operates largely within liberal-democratic 'common sense' rather than attempting the 'good sense' critique of dominant ideology. His signature formulation—'We've got to restore opportunity for all... with hard work and responsibility, you can get ahead in America' (ev_018)—rearticulates the meritocratic consensus without questioning its hegemonic function. He asserts 'I'm absolutely confident we will get there' (ev_004) based on faith in American ingenuity rather than structural analysis. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) is notable precisely because it is unusual—most rhetoric reinforces rather than critiques the liberal trade consensus. He shows no evidence of the 'common sense' archaeology Gramsci would demand: interrogating why certain beliefs appear 'natural' and 'inevitable.' The result is sophisticated rhetoric that nonetheless reproduces dominant ideological frameworks.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_018",
+        "ev_004",
+        "ev_027",
+        "ev_025",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate abstraction with strong preference for concrete translation; theoretical frameworks subordinated to accessible rhetoric",
+      "finding": "Obama demonstrates capacity for abstract policy frameworks—the 'middle-out' economic philosophy (ev_021), comprehensive energy security doctrine (ev_005), strategic trade positioning—but consistently translates abstractions into concrete, tangible examples for public consumption. His 'middle-out' theory is articulated abstractly but immediately operationalized: not just growth but 'raising middle-class wages and incomes' (ev_021). The abstraction serves persuasion rather than systematization; speeches use statistics and specific human impacts rather than theoretical architecture. He explicitly favors the 'balanced approach' (ev_013) in deficit reduction—indicating methodological abstraction about policy mixes—but never develops comprehensive theoretical systems. The absence suggests this is not a failure but a choice: in Gramscian terms, the organic intellectual translates class perspectives for mass consumption, not elaborate academic frameworks. Obama performs this function admirably but does not pursue formalization for its own sake.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_005",
+        "ev_013"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic use of formal authority balanced against rhetorical commitment to collective governance; control exercised to enable rather than dominate",
+      "finding": "Obama exercises substantial presidential control—veto threats, executive orders, 'Year of Action' declarations—yet his rhetorical framing consistently positions control in service of collective ends. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences' (ev_036) frames governmental authority as instrumental for citizen-directed problem-solving. He explicitly rejected drilling alone as sufficient energy strategy (ev_005), positioning government as coordinator rather than sole director. The paradox emerges in his deployment of executive power when legislative channels fail—executive orders on minimum wage (ev_017), veto threats (ev_029)—suggesting control is exercised precisely when collective governance mechanisms are blocked. For Gramsci, this represents the strategic use of state power within the 'war of position': building consent through policy outcomes while maintaining coercive capacity as backup. His control orientation serves hegemonic construction through demonstrated competence rather than domination.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_005",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with willingness to absorb relational costs when core principles are at stake",
+      "finding": "Obama demonstrates consistent willingness to prioritize policy missions over relational comfort with opposition. He explicitly condemned Senate obstruction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). On the debt ceiling, he declared non-negotiable: 'I will not negotiate over the full faith and credit of the United States' (ev_015). His 'Year of Action' framing directly criticized Republican opposition: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020). However, mission prioritization operates selectively: he repeatedly sought bipartisan cooperation (ev_008), celebrated bipartisan budget achievements as 'Christmas miracles' (ev_048), and framed transportation funding as 'not a Democratic or a Republican issue' (ev_008). This suggests calibrated mission prioritization—willing to absorb costs on core economic and governance priorities while maintaining relational bridges for tactical cooperation. The pattern reflects Gramscian strategic thinking: alliance-building requires selective confrontation rather than universal antagonism.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_008",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse institutionalism favoring incremental gains over transformational gambles; war of position rather than war of maneuver",
+      "finding": "Obama's risk posture reflects Gramscian 'war of position' thinking: patient, incremental advance through existing institutions rather than high-risk confrontation. He consistently favored 'balanced approaches' (ev_013), incremental minimum wage increases to $10.10 (ev_023), phased energy transition (ev_005), and gradual deficit reduction. His veto threat on Wall Street Reform (ev_029) is defensive—not threatening to dismantle financial structures but protecting established protections. The healthcare reform through ACA represents substantial but not radical structural change. Notably absent are the high-risk confrontations characteristic of 'war of maneuver': no calls for mass mobilization against institutions, no direct challenges to fundamental power structures. Even his executive actions operate within legal boundaries rather than testing institutional limits. For Gramsci, this risk-averse approach reflects the American context where civil society institutions are relatively strong and counter-hegemonic movements must build extensive alliances before direct confrontation becomes viable. The posture is strategic, not merely cautious.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_023",
+        "ev_005",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated deployment of formal power while rhetorically subordinating hierarchy to collective agency; organic intellectual rather than traditional intellectual orientation",
+      "finding": "Obama occupies the apex of formal hierarchy as President yet consistently subordinates institutional authority to collective agency—a hallmark of Gramscian organic intellectual function. His farewell address epitomizes this: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044), positioning leadership as responsive and shaped by citizens. He describes government as 'the best tool we've got' (ev_036), subordinating the state apparatus to democratic purpose. His personal narrative—growing up without his father (ev_006), coaching his daughter's basketball team (ev_007)—grounds his authority in shared human experience rather than elite detachment. For Gramsci, this distinguishes organic from traditional intellectuals: Obama articulates class perspectives (middle-class opportunity, worker dignity) while claiming not to transcend ordinary understanding. However, his deployment of executive power when blocked by Congress (ev_017, ev_029) demonstrates he will wield formal hierarchy decisively when deemed necessary. The relationship is instrumental: hierarchy is a tool deployed strategically, not a value in itself.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_036",
+        "ev_006",
+        "ev_007",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Institutional negotiation preference with selective escalation; translation strategy that frames conflict as systemic dysfunction rather than class struggle",
+      "finding": "Obama's conflict strategy consistently favors institutional channels—critiquing Senate procedures rather than challenging the Senate's existence, seeking bipartisan solutions even when Democrats controlled Congress. His condemnation of obstruction focuses on procedural dysfunction: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). Notably, he frames conflict as institutional malfunction rather than structural critique—attacking specific practices rather than interrogating why systematic obstruction occurs. The translation strategy appears in his 'Year of Action' rhetoric: he names Republican opposition but pivots to executive alternatives rather than escalating confrontation (ev_020). His Veterans Day challenge to private companies (ev_009) suggests coalition-building rather than direct conflict. However, he demonstrates willingness to escalate selectively—debt ceiling non-negotiation (ev_015), veto threats on Wall Street Reform (ev_029)—when core governance principles are at stake. This pattern reflects Gramscian strategic thinking: patient positional struggle with selective escalation when necessary, avoiding premature confrontation while maintaining pressure.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_009",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term mission orientation spanning decades, explicitly framed as generational inheritance and legacy building",
+      "finding": "Obama consistently operates on extended time horizons characteristic of Gramscian 'war of position' strategy. His energy security blueprint targets 2025 (ev_004), representing a 14-year planning horizon. Climate policy explicitly invokes intergenerational responsibility: 'we can leave a better, cleaner, safer future for our children' (ev_041), with Paris Agreement framed as 'something to build upon' for future administrations. Deficit reduction discourse references 'half since I took office' (ev_016), positioning his work within historical trajectory. Healthcare reform language emphasizes extending 'Medicare solvency by at least 12 years' (ev_002)—explicitly generational thinking. His Cancer Moonshot (ev_042) represents decade-scale medical research commitment. Most tellingly, his farewell reflects on eight years as part of larger historical arc: 'Eight years later, I am even more optimistic about our country's promise' (ev_047). This temporal orientation is strategically crucial for Gramscian analysis: counter-hegemonic construction requires sustained effort across generations, not electoral-cycle optimization. Obama's horizons, while constrained by political cycles, demonstrate consistent attention to structural rather than tactical timeframes.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_041",
+        "ev_016",
+        "ev_002",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strategic preference for structural reform over incremental patching, with comprehensive legislative architecture pursued where politically viable",
+      "finding": "Obama's signature policy achievements—ACA healthcare reform, Dodd-Frank Wall Street Reform, Paris climate agreement, Iran nuclear deal—represent comprehensive structural architectures rather than targeted repairs. The ACA explicitly restructured healthcare financing and coverage mechanisms, not merely tweaked existing programs. Dodd-Frank established new regulatory institutions (CFPB) with comprehensive mandates (ev_028: 'independent Consumer Financial Protection Bureau with one mission: to protect American consumers'). His trade policy through TPP pursued comprehensive multilateral frameworks rather than bilateral adjustments. However, his 'rebuild' orientation shows political contingencies: when comprehensive reform was blocked—minimum wage, equal pay legislation—he pivoted to executive patches (ev_017, ev_019). The Cancer Moonshot represents cross-agency structural coordination attempting system-level change (ev_043). For Gramsci, this rebuild orientation reflects the organic intellectual function of articulating comprehensive visions: the problem is not structural ambition but the difficulty of achieving counter-hegemonic consensus sufficient to sustain structural transformation against opposition. Obama's record shows rebuild attempted where political conditions permitted, with patches deployed where they did not.",
+      "evidence_ids": [
+        "ev_028",
+        "ev_017",
+        "ev_019",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Moderate metacognitive awareness; recognizes systemic obstruction and personal limitations but operates within unexamined liberal-democratic 'common sense'",
+      "finding": "Obama demonstrates selective metacognitive awareness that stops short of the 'common sense' archaeology Gramsci would demand. He acknowledges personal limitations—'Every day, I learned from you' (ev_044)—and structural constraints—'I've directed the federal government to lead by example' (ev_009). His self-positioning as learner rather than oracle shows reflexive awareness of epistemic humility. However, critical blind spots pervade his worldview: his meritocratic rhetoric ('no matter who you are or how you started out, with hard work and responsibility, you can get ahead') (ev_018) reproduces liberal ideology without interrogating its function in maintaining consent for unequal structures. He identifies Republican obstruction but not why systematic obstruction benefits certain class interests; he names bipartisan dysfunction but not the structural conditions producing it. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) is refreshingly self-critical but framed as disappointment rather than critique of the trade regime itself. For Gramsci, metacognition requires excavating the historical and class origins of one's own assumptions—Obama shows no evidence of such excavation. His 'common sense' remains largely intact.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_009",
+        "ev_018",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "hegemony_maintenance_vs_counter_hegemony",
+      "definition": "Whether Obama's rhetoric operates within dominant liberal-democratic hegemony (maintaining consent for existing power arrangements) or constructs alternative cultural frameworks (counter-hegemony). This dimension is not captured in shared_constructs because it concerns the relationship between his discourse and the prevailing ideological order rather than individual cognitive or behavioral patterns.",
+      "finding": "Obama's rhetoric overwhelmingly operates within rather than against dominant liberal-democratic hegemony. His signature themes—opportunity for all, meritocratic advancement, bipartisan cooperation, American resilience—reproduce rather than challenge the ideological common sense of American capitalism. He names specific policies and critiques particular obstructionists but never interrogates the system producing them. His 'middle-out' economics acknowledges workers' centrality without theorizing labor-capital relations as structural antagonism. His racial progress narrative emphasizes individual achievement and national redemption rather than addressing ongoing structural racism. The single exception—his personal biography as a Black man becoming President in a nation founded on slavery—represents enormous counter-hegemonic potential that he explicitly underplays in favor of unity rhetoric. For Gramsci, this represents the tragedy of reformism: the organic intellectual who could articulate counter-hegemonic perspectives instead chooses to consolidate consent for the existing order. Obama's 'hegemony maintenance' rather than 'counter-hegemony' orientation represents the central limitation of his political vision from this framework's perspective.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_032",
+        "ev_035",
+        "ev_045",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "organic_intellectual_versus_traditional_intellectual_function",
+      "definition": "The degree to which Obama performs the Gramscian organic intellectual function (connecting a social class to its interests and articulating collective vision) versus exhibiting traditional intellectual characteristics (detachment, universality claims, devaluation of practical wisdom). This differs from shared_constructs because it concerns the relationship between intellectual and social base rather than individual cognition.",
+      "finding": "Obama demonstrates strong organic intellectual characteristics but with incomplete commitment to class anchorage. He consistently claims connection to ordinary Americans—'I learned from you' (ev_044), 'because of workers rolling up their sleeves' (ev_032)—and grounds authority in shared experience rather than credentials alone. His Father's Day address sharing personal experience of growing up without a father (ev_006) and coaching his daughter's basketball team (ev_007) perform organic intellectual functions by validating everyday experience as source of wisdom. However, his Harvard Law Review presidency, constitutional law professorship, and elite rhetorical register suggest residual traditional intellectual positioning. His comprehensive policy frameworks (ACA, Dodd-Frank, TPP) require technical expertise that distances him from purely vernacular articulation. For Gramsci, all intellectuals face this tension, but the organic intellectual must maintain connection to class base even while deploying specialized knowledge. Obama's organic function is strongest in economic policy ('middle-out' economics grounded in observable impacts) and weakest in structural analysis (lacking class-based critique). His farewell pledge to continued civic participation 'as a citizen' (ev_047) suggests desire to remain grounded post-presidency.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_032",
+        "ev_006",
+        "ev_007",
+        "ev_021",
+        "ev_047"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism",
+      "Institutionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

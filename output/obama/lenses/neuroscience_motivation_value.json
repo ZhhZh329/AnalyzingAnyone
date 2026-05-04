@@ -1,0 +1,166 @@
+{
+  "discipline": "neuroscience",
+  "lens": "motivation_value",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaping orientation through institutional action and executive leadership",
+      "finding": "Obama consistently demonstrates high agency by actively creating change rather than passively responding to circumstances. When Congress blocked legislation, he declared a 'Year of Action' and took over 20 executive actions to advance policy goals (ev_019, evt_015). He issued direct challenges to the private sector on veterans hiring (ev_009), announced government modernization partnerships with Silicon Valley (ev_037), and declared personal commitments like 'As long as I am President' regarding Medicare (ev_001). His world-shaping orientation operates through institutional channels—using presidential authority strategically—rather than purely unilateral action, suggesting an agentic style that seeks to structure the environment while working within and shaping collective systems.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_019",
+        "ev_009",
+        "ev_037",
+        "evt_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirically-grounded but values-integrated belief formation with acknowledged uncertainty",
+      "finding": "Obama's epistemic approach demonstrates a pattern of forming beliefs through accumulated evidence while integrating them with core values. He repeatedly cites quantitative data as the foundation for optimism—'11 million jobs over 57 months' (ev_025), energy statistics (ev_040), healthcare coverage rates (ev_033)—suggesting a learning orientation that tracks outcomes. However, he acknowledges epistemic humility when appropriate, admitting 'past trade deals haven't always lived up to the hype' (ev_027) while still proceeding with TPP. His 'middle-out' economic philosophy (ev_021) integrates empirical observation with normative commitment. This suggests a belief formation style that uses evidence to calibrate positions but maintains core value anchors, remaining open to learning from outcomes while avoiding pure data-driven determinism.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_040",
+        "ev_033",
+        "ev_027",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization balanced with concrete communication strategies",
+      "finding": "Obama's abstraction patterns show a middle position—he articulates guiding principles and policy frameworks but frequently grounds them in concrete specifics for communication. He developed formal policy architectures like Dodd-Frank, ACA, and the Energy Blueprint, demonstrating capacity for systematic institutional design. However, he routinely enumerates concrete metrics and specific deadlines ('7 days until transportation funding expires,' ev_011) and lists accomplishments numerically ('Top 10 Things that Happened in 2015,' ev_033). His 'middle-out' economic philosophy (ev_021) represents abstract principle formulation, but his rhetorical effectiveness comes from connecting these abstractions to tangible impacts on families. This suggests he uses formalization instrumentally rather than intrinsically motivated by systematization for its own sake.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_033",
+        "ev_021",
+        "evt_004",
+        "evt_020"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strategic control-seeking through institutional authority with preference for consensus pathways",
+      "finding": "Obama demonstrates moderate-to-high control orientation but with strategic flexibility in pathways. He issued veto threats to protect Wall Street Reform (ev_029), refused to negotiate over debt ceiling under any circumstances (ev_015), and took executive actions when legislative paths were blocked (ev_019). Yet he consistently attempted consensus pathways first—citing AFL-CIO and Chamber of Commerce agreement on transportation (ev_008), framing issues as 'not Democratic or Republican' before asserting unilateral authority. He documented real human costs of sequestration (ev_014) as persuasion rather than simply command. This pattern suggests control-seeking that recognizes institutional legitimacy and prefers collaborative control strategies, but will assert hierarchical authority when necessary to protect outcomes he considers essential.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_019",
+        "ev_008",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with relational framing that integrates rather than sacrifices relationships",
+      "finding": "Obama's mission orientation is high—ACA passage, veterans employment, military transitions, climate action—but characteristically incorporates relational elements into mission framing rather than treating them as costs. He attributed all 2015 accomplishments to 'the American people' (ev_032) and declared in his farewell that conversations with citizens 'made me a better President' (ev_044). His military focus emphasizes support for families and Gold Star communities (ev_038), suggesting mission success is defined through collective welfare rather than narrow goal achievement. The 'love won' framing of same-sex marriage (ev_035) connects policy victory to relational transformation. This differs from pure mission-sacrifice patterns—Obama appears to experience mission fulfillment as relational rather than despite relational costs, suggesting his reward system may be calibrated around collective achievement rather than individual mission conquest.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_038",
+        "ev_035"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taking within institutional guardrails for high-potential outcomes",
+      "finding": "Obama demonstrates willingness to pursue policies with significant political risk when potential for positive impact is substantial. He championed ACA despite political controversy, pursued TPP despite acknowledging past trade deal failures (ev_027), and announced the Iran nuclear deal despite opposition (ev_034). His Cancer Moonshot represents a calculated bet on accelerated progress (evt_026). However, his risk-taking operates within institutional frameworks—he worked through Congressional processes first, used executive orders only when blocked, and framed risks in terms of opportunity costs ('without this agreement, China will write the rules,' ev_031). This suggests a risk posture that values high-potential institutional bets but calculates and minimizes downside through proper channels, reflecting tolerance for strategic uncertainty rather than reckless risk-seeking.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_034",
+        "evt_026",
+        "ev_031",
+        "evt_021"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Pragmatic institutional authority that views power as tool for collective goals",
+      "finding": "Obama's relationship with hierarchy is utilitarian rather than hierarchophilic—he uses presidential authority instrumentally when necessary but consistently frames power in service of collective outcomes rather than personal aggrandizement. He asserted veto authority to protect Wall Street Reform (ev_029) and refused debt ceiling negotiation to protect institutional credibility (ev_015), demonstrating willingness to use hierarchical power for systemic protection. Yet his rhetoric positions him as servant rather than master: 'our founders trusted us with the keys to this system' (ev_036), and his farewell emphasized learning from citizens 'regardless of party' (ev_046). He challenged Congressional obstruction as contrary to founders' intent (ev_010) while maintaining institutional respect. This suggests power orientation that views hierarchical position as a tool for implementing collective preferences rather than a status good to be accumulated or displayed.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_036",
+        "ev_046",
+        "ev_010"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of obstruction with relational bridge-building framing",
+      "finding": "Obama employs a confrontation-with-framing conflict strategy that directly addresses opposition while maintaining inclusive rhetoric. He explicitly criticized Republican obstruction—'blocked or voted down every serious idea' (ev_020)—while still framing issues as 'not Democratic or Republican' (ev_008). He condemned Senate obstruction as contrary to founders' intent (ev_010) and documented real human costs of Congressional failure (ev_014). However, his conflict escalates along institutional lines (executive actions, vetoes) rather than personal attacks, and he consistently attributes eventual success to broad coalitions (ev_032). The farewell address's emphasis on continued civic participation beyond party (ev_046) suggests conflict is experienced as institutional rather than personal. This represents a conflict strategy that confronts blocking behavior directly while maintaining relational bridges through universalistic framing.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_008",
+        "ev_010",
+        "ev_014",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Consistent long-term orientation with patience for multi-year policy implementation",
+      "finding": "Obama demonstrates remarkably flat temporal discounting across policy domains—he consistently optimizes for extended time horizons even when immediate returns are uncertain. The Energy Blueprint set 2025 goals (evt_004), deficit reduction strategies projected multi-year trajectories (ev_013), and the Paris climate agreement represents generational commitment (ev_041). Afghanistan transition was planned through 2014 (evt_010), TPP negotiations spanned five years (ev_030). His statement 'America's resurgence is real' (ev_024) reflected outcomes from sustained effort over years. Even his 2016 announcement at South by Southwest called for 'civic participation' beyond electoral cycles (ev_046). This flat discounting appears structural rather than enforced—Obama seems to genuinely process long-term outcomes as rewarding and demonstrates patience for policy trajectories that extend well beyond immediate political cycles.",
+      "evidence_ids": [
+        "evt_004",
+        "ev_013",
+        "ev_041",
+        "evt_010",
+        "ev_030",
+        "ev_024",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Prefers structural reform over incremental patching when feasibility aligns",
+      "finding": "Obama gravitates toward structural solutions when institutional conditions permit, though shows pragmatic flexibility. His signature achievements—ACA, Dodd-Frank, Paris climate agreement—represent fundamental institutional redesign rather than修补. He rejected incremental approaches to energy security: 'drilling alone is not a real strategy' (ev_005), suggesting he dismisses partial solutions when they cannot achieve necessary scale. However, he demonstrates patching behavior when structural reform is blocked—executive orders as workaround when Congress fails (ev_019), temporary FAA fixes during sequestration (evt_012). His 'Year of Action' framed innovation as necessary when institutions cannot reform themselves. This suggests a preference hierarchy: structural rebuild preferred, but pragmatic patching when necessary, with the underlying value placed on systemic change rather than resistance to change per se.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_019",
+        "evt_012",
+        "evt_015",
+        "evt_001",
+        "evt_002"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with adaptive learning orientation",
+      "finding": "Obama demonstrates exceptional metacognitive capacity—he appears aware of his own belief formation processes and actively monitors for bias. His farewell address explicitly credited his evolution to external input: conversations with citizens 'kept me honest, kept me inspired, and kept me going' (ev_044), making him 'a better President and a better man' (ev_044). This indicates awareness of cognitive limitations and value of external perspectives. He acknowledged past mistakes ('past trade deals haven't always lived up to the hype,' ev_027) while maintaining forward momentum, suggesting ability to process negative feedback without paralysis. His 'optimistic about our country's promise' in farewell despite acknowledged difficulties (ev_047) reflects sophisticated emotional regulation. The consistent attribution of success to collective action suggests metacognitive understanding that his perceptions were shaped by institutional processes and external input.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_047",
+        "evt_027"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "meta_reward_sensitivity",
+      "definition": "Sensitivity to evidence of systemic improvement rather than personal gain. Activation of reward circuitry in response to metrics showing collective progress, independent of personal credit or status.",
+      "finding": "Obama's reward system appears calibrated to respond to indicators of systemic improvement rather than personal achievement markers. He repeatedly cites aggregate statistics—'11 million new jobs,' 'uninsured rate below 10%,' 'nearly $11 billion recovered for consumers' (ev_025, ev_033, ev_028)—framing these as validation of policy direction. His declarative 'America's resurgence is real' (ev_024) centers the outcome, not himself. The farewell address attributes accomplishments to citizens making him 'better' rather than celebrating personal legacy. This meta-reward pattern—deriving satisfaction from evidence that collective systems are improving—may represent a distinct motivational structure where the reward signal is systemic rather than personal. It differs from standard intrinsic motivation (personal mastery) or extrinsic motivation (social approval) by targeting system-level metrics as the primary reward trigger.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_025",
+        "ev_033",
+        "ev_028",
+        "ev_044",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

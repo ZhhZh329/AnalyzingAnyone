@@ -1,0 +1,167 @@
+{
+  "discipline": "philosophy",
+  "lens": "existentialism_kierkegaard",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Consistent world-shaper with institutional pragmatism",
+      "finding": "Obama demonstrates consistent agency as a world-shaper throughout his presidency, initiating major structural reforms (ACA, Dodd-Frank), announcing ambitious initiatives (Cancer Moonshot, Paris climate agreement), and using executive power when legislative channels were blocked. However, his shaping always occurs within and through institutional channels rather than through radical rupture. The evidence shows he 'took more than 20 executive actions' in his 'Year of Action' (ev_019), signed executive orders on minimum wage (ev_017), and issued definitive veto threats to protect Wall Street Reform (ev_029). This reflects a Kierkegaardian ethical-stage agency: the individual takes responsibility and acts, but within the framework of existing institutions and universal ethical commitments rather than aesthetic caprice or religious abandonment of the worldly.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Pragmatic empiricism with acknowledged epistemic humility",
+      "finding": "Obama exhibits a pragmatic epistemic style that balances empirical evidence with normative commitment. He frequently cites statistics and measurable outcomes (ev_033: '2.5 million new jobs', uninsured rate below 10%; ev_025: 11 million jobs over 57 months). However, he also demonstrates epistemic humility when acknowledging uncertainty: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This suggests an approach closer to Kierkegaard's 'subjective truth'—what matters is not detached objectivity but the individual's passionate commitment to truth-as-lived. Obama believes in data-driven governance but recognizes that political action ultimately requires existential conviction beyond mere calculation. His confidence statement 'I'm absolutely confident we will get there... because of you' (ev_004) reveals that his epistemic grounding rests ultimately on faith in collective human capacity, not just empirical projection.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_027",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Low abstraction preference; concrete and programmatic orientation",
+      "finding": "Obama demonstrates strong preference for concrete, programmatic thinking over abstract theoretical systematization. His addresses focus on specific policies, measurable outcomes, and actionable initiatives rather than philosophical principles or grand theoretical frameworks. He lists 'Top 10 Things that Happened in 2015' with concrete metrics (ev_033), specifies dollar amounts for consumer protection ($11 billion recovered, ev_028), and describes specific programs (Head Start cuts, Meals on Wheels, veterans hiring challenges). This aligns with Kierkegaard's critique of Hegelian abstraction—the concrete particular situation always exceeds abstract universal categories. Obama treats each policy domain (healthcare, finance, energy, veterans' affairs) as specific problems requiring tailored solutions rather than manifestations of a single theoretical system. His 'middle-out' economic philosophy (ev_021) is presented as an empirical claim about economic dynamics, not a transcendental principle.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_028",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate, bounded control seeking through institutional mechanisms",
+      "finding": "Obama exhibits moderate control orientation, seeking to shape outcomes within clearly defined boundaries rather than pursuing unlimited control. He draws explicit lines that will not be crossed: 'I will not negotiate over the full faith and credit of the United States' (ev_015), and 'if any bill comes to my desk that tries to unravel the new rules on Wall Street, I will veto it' (ev_029). However, he consistently seeks balanced, multi-stakeholder approaches rather than unilateral control: his deficit reduction preference is 'balanced, comprehensive' (ev_013), his energy strategy involves 'Clean Fleets Partnership' with multiple corporations (ev_004), and he builds coalitions across AFL-CIO and Chamber of Commerce (ev_008). This reflects Kierkegaardian maturity: accepting the anxiety of limitation while exercising genuine agency within those limits. Obama does not attempt to control what cannot be controlled (Congressional votes, global markets) but fiercely protects what falls within his legitimate authority.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_013",
+        "ev_015",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with persistent relational effort",
+      "finding": "Obama prioritizes policy missions but maintains significant relational orientation toward political opponents and the public. He identifies his 'proudest achievements' as ACA implementation and Cancer Moonshot (ev_045), pursuing them despite enormous political costs. Yet he consistently extends olive branches and seeks bipartisan cooperation even when facing systematic opposition: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), yet he frames issues as 'not a Democratic or a Republican issue – it's an American issue' (ev_008). His father's day address reveals personal relational costs (ev_006: growing up without his father) that informed his commitment to family policy. This tension between mission and relationship parallels Kierkegaard's concept of the 'teleological suspension of the ethical'—certain higher commitments may require sacrificing ordinary relational harmony—but Obama never fully suspends the relational. He maintains hope for redemption through democratic participation rather than accepting permanent fracture.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_008",
+        "ev_020",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated boldness within perceived constraints",
+      "finding": "Obama takes significant calculated risks while framing them as necessary responses to circumstances rather than leaps into uncertainty. His major initiatives (TPP after 5 years of negotiation, Iran nuclear deal, Cuba normalization, Paris climate agreement) all involved substantial uncertainty and potential failure. The Cancer Moonshot (ev_042-43) represents an explicit 'moonshot'—a willingness to pursue transformative rather than incremental goals. However, Obama's rhetoric consistently frames these risks as responding to threats or seizing opportunities ('America's resurgence is real,' ev_024) rather than pure bets. This reflects Kierkegaardian anxiety transformed into courage: rather than denying risk, Obama acknowledges it ('past trade deals haven't never lived up to the hype,' ev_027) while acting decisively. His approach to sequester shows risk awareness without paralysis—he documents human costs (ev_014) but continues governing rather than being paralyzed by the anxiety of impossible choices.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_031",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional legitimacy balanced with democratic humility",
+      "finding": "Obama interprets and uses hierarchical power as delegated from the people and bounded by institutional norms. As Commander-in-Chief, he articulates 'no more solemn obligation than leading our men and women in uniform' (ev_038), asserting the gravity of hierarchical responsibility. Yet his farewell address frames him as ultimately dependent on the American people: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He uses power aggressively when necessary (veto threats, executive orders) but always within constitutional legitimacy. He condemned Senate obstruction as contrary to 'founding fathers' intent' (ev_010) while calling for reform rather than unilateral override. This reflects Kierkegaard's concept of the 'single individual' who stands against the crowd but within ethical institutions—the individual exercises authentic agency within, not against, legitimate structures. Obama is neither deferential to hierarchy nor anarchic against it.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Negotiation-oriented with firm boundary enforcement",
+      "finding": "Obama's conflict strategy involves persistent negotiation and coalition-building while maintaining firm positions on core commitments. He repeatedly calls for bipartisan action (ev_008: AFL-CIO and Chamber of Commerce coalition), frames issues as American rather than partisan problems, and celebrates bipartisan achievements (ev_048: 'Christmas miracles' of bipartisan budget and education bill). Yet when facing systematic obstruction, he shifts to direct criticism and boundary enforcement: 'Republicans in Congress have blocked... every serious idea' (ev_020), and he refuses to negotiate on debt ceiling (ev_015). He never splits (abandons his position), suppresses ( capitulates to obstruction), or escalates to personal attacks. This 'either/or' clarity on fundamental commitments while remaining open to negotiation on methods reflects Kierkegaardian ethical firmness—the individual knows what they cannot compromise while maintaining openness to dialogue on everything else.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term structural orientation within short-term political constraints",
+      "finding": "Obama demonstrates consistent long-term, structural time horizon despite political pressure for short-term wins. He frames his agenda as reversing 'decades-long erosion of middle-class jobs and incomes' (ev_024) and speaks of leaving 'a better, cleaner, safer future for our children' (ev_041). The Paris climate agreement (ev_034, ev_041) and energy transition represent generational commitments. His 2025 oil import reduction goal (ev_004) extends well beyond his presidency. However, he operates within short-term constraints—urgent deadlines for transportation funding (ev_011: '7 days away'), student loan rate doubling ('8 days away'), and sequester impacts that require immediate response. This dual horizon reflects Kierkegaard's concept of the 'moment' (øieblikket)—the eternal can break into time at any instant—while acknowledging that existential commitment must operate through historical time. Obama prepares the ground for future progress while fighting daily battles.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_011",
+        "ev_024",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformist preferring comprehensive redesign",
+      "finding": "Obama consistently prefers structural reform over incremental patching when he has political capital. The ACA represents a comprehensive redesign of healthcare financing and coverage rather than targeted patches to the existing system. Dodd-Frank constituted fundamental restructuring of financial regulation rather than regulatory tweaks. His government modernization initiative (ev_037) explicitly aims to transform federal operations through technology rather than incremental improvement. His economic philosophy—that the economy grows 'not from the top-down, but from the middle-out' (ev_021)—represents systemic rather than superficial analysis. Even his 'Year of Action' (ev_015) with multiple executive actions shows pattern-breaking approach when legislative paths were blocked. This preference for structural redesign aligns with Kierkegaardian existentialism's demand for authentic transformation rather than inauthentic patching—the individual must become something new, not merely adjust existing patterns.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_028",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High reflective awareness of limitations and growth",
+      "finding": "Obama demonstrates high metacognitive awareness—reflecting on his own development, limitations, and cognitive biases. His farewell address explicitly states that conversations with Americans 'kept me honest, kept me inspired, and kept me going' (ev_044), acknowledging external feedback as essential to self-correction. He reflects on personal history (ev_006: growing up without his father) as informing his policy commitments. He admits uncertainty and past failures: 'past trade deals haven't lived up to the hype' (ev_027). The Cancer Moonshot announcement shows awareness that complex problems require cross-disciplinary approaches, deploying Presidential Innovation Fellows from Silicon Valley (ev_043). This reflexive capacity—the ability to see oneself as seen, to acknowledge one's position within a larger process—aligns with Kierkegaard's demand for passionate subjectivity: the individual must know where they stand to take authentic existential leaps. Obama's metacognition appears developmental rather than paralyzing.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_027",
+        "ev_043",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "civic_faith",
+      "definition": "Quasi-religious commitment to democratic participation as redemptive practice. The belief that sustained engagement with democratic institutions—despite their imperfections—can achieve existential meaning and collective transformation. This extends beyond political optimism to encompass faith in the democratic process as a vehicle for human self-actualization.",
+      "finding": "Obama exhibits a distinctive pattern resembling Kierkegaardian 'faith' applied to civic rather than theological domain. His farewell address frames democracy as requiring ongoing commitment: 'we can't take our democracy for granted' and calls for 'citizenship... over the full span of a lifetime' (ev_046). He describes his optimism as requiring a kind of leap: 'Eight years later, I am even more optimistic about our country's promise' (ev_047)—an affirmation of faith in American capacity despite substantial evidence of ongoing challenges. His statement that 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036) treats democratic participation as having quasi-sacramental significance—transformative of participants, not merely regulatory of behavior. This 'civic faith' differs from mere political confidence: it involves an existential commitment that transcends empirical evidence and calls for continuous personal investment.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_044",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "anxious_hopefulness",
+      "definition": "A distinctive emotional orientation combining acknowledged anxiety about systemic constraints with persistent hope for transformative possibilities. Unlike naive optimism or resigned despair, this represents the Kierkegaardian 'dizziness of freedom'—the experience of infinite possibility within definite constraints—held in creative tension rather than resolved.",
+      "finding": "Obama consistently displays anxious hopefullness throughout his presidency. He documents concrete human suffering and systemic failures—'parents whose kids just got kicked out of Head Start programs,' 'seniors who depend on Meals on Wheels,' 'military families bearing visible and invisible wounds' (ev_014, ev_038)—while maintaining forward momentum. His 2014 year-end address declares 'America's resurgence is real' (ev_024) as a deliberate act of testimony against evidence of ongoing struggle. This parallels Kierkegaard's concept of anxiety as the 'dizziness of freedom': Obama experiences the vertigo of infinite possibility (climate action, healthcare transformation, veterans' employment) within the constraints of Congressional gridlock, partisan polarization, and institutional inertia, yet chooses to act. His statement that 'I've directed the federal government to lead by example' (ev_009) reflects action despite uncertainty. The tension is never fully resolved but held as generative motivation.",
+      "evidence_ids": [
+        "ev_009",
+        "ev_014",
+        "ev_024",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Empiricism",
+      "Pragmatism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

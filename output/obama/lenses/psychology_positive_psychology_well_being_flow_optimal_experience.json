@@ -1,0 +1,210 @@
+{
+  "discipline": "psychology",
+  "lens": "positive_psychology_well_being_flow_optimal_experience",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation with pragmatic recognition of structural constraints",
+      "finding": "Obama consistently positions himself as an agent capable of shaping outcomes rather than merely responding to circumstances. He declares 'Year of Action' (ev_019), takes over 20 executive actions when Congress blocks legislation (ev_020), and frames problems as solvable through collective effort (ev_004, ev_036). However, his agency expression reveals a sophisticated pattern: he exercises influence through deliberate structure—building coalitions between AFL-CIO and Chamber of Commerce (ev_008), partnering with Silicon Valley for government modernization (ev_037), and framing himself as channel for rather than source of progress ('It's you—the American people' in ev_032). This suggests his sense of agency was highest when aligned with systemic conditions for change, not when fighting against structural constraints.",
+      "evidence_ids": [
+        "ev_019",
+        "ev_020",
+        "ev_004",
+        "ev_036",
+        "ev_008",
+        "ev_037",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Data-grounded with demonstrated intellectual humility and acknowledged uncertainty",
+      "finding": "Obama's speeches reveal a pattern of forming positions through empirical evidence and then communicating them with confidence calibrated to available information. He cites specific statistics throughout (11 million jobs created, 57 consecutive months of growth in ev_025; $11 billion recovered for 26 million consumers in ev_028; wind tripled, solar 30x in ev_040). Notably, he demonstrates epistemic humility when warranted: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027), and he acknowledges that his effectiveness came through learning from citizens ('Every day, I learned from you' in ev_044). His approach to belief formation integrates data with values, as when he distinguishes economic metrics ('Pick any metric you want') from normative claims about what matters most for middle-class welfare (ev_024).",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_027",
+        "ev_044",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Balanced between abstract principles and concrete policy operationalization",
+      "finding": "Obama demonstrates facility with both high-level abstractions and operational details. At the abstract level, he articulates coherent philosophical frameworks: 'middle-out' economics (ev_021), 'opportunity for all' regardless of starting point (ev_018), and government as 'the best tool we've got to settle our differences and solve our collective challenges' (ev_036). Simultaneously, he operationalizes these abstractions into specific policy mechanisms: the Clean Fleets Partnership with named corporations (evt_004), concrete timelines for energy independence (evt_004), and quantifiable goals like 100,000 veteran hires by 2013 (ev_009). He also uses formal structures like the 'Blueprint for a Secure Energy Future' and references institutional innovations like the Presidential Innovation Fellows who left Silicon Valley (ev_043). This suggests comfort with formalization when it serves mission objectives.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_018",
+        "ev_036",
+        "ev_009",
+        "ev_043",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Principle-based control with strategic restraint—exercises authority decisively on core issues while delegating broadly",
+      "finding": "Obama's control orientation reveals a distinctive pattern: he exercises tight control on matters of principle while accepting limitations elsewhere. He demonstrates decisive control through concrete commitments: 'I will not negotiate over the full faith and credit of the United States' (ev_015) and 'I will veto it' any Wall Street Reform repeal (ev_029). However, his control posture is notably restrained in process matters—he repeatedly calls on Congress rather than bypassing it, builds bipartisan coalitions (ev_008), and explicitly credits others for success (ev_032, ev_045). His management approach shows delegation and partnership: Silicon Valley tech leaders brought in to modernize government (ev_037), Biden given leadership of Cancer Moonshot with full innovation authority (ev_042), and federal-state partnerships for workforce training (evt_016). This suggests a leader whose optimal flow state comes from controlling vision and principles while allowing execution to be distributed.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_032",
+        "ev_045",
+        "ev_037",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission commitment with high relational cost tolerance on core issues but balanced framing throughout",
+      "finding": "Obama demonstrates willingness to bear significant relational costs when pursuing core objectives. He criticizes Republican obstruction explicitly ('Republicans in Congress have blocked or voted down every serious idea' ev_020), condemns Senate procedural tactics as contrary to founders' intent (ev_010), and takes unilateral executive action when legislative pathways close (ev_017, ev_019). However, his communication strategy consistently frames mission advancement in relational terms—appealing to shared American values (ev_004), attributing success to collective effort (ev_032), and emphasizing that 'love won' (ev_035). His Father's Day reflection (ev_006) and attention to Gold Star families and military communities (ev_038, ev_014) reveal genuine relational sensitivity alongside mission drive. The tension resolves in his farewell address where he calls for sustained civic participation as the real driver of change (ev_046)—suggesting his mission orientation was always partly about enabling relational, collective capacity rather than personal achievement.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_017",
+        "ev_019",
+        "ev_032",
+        "ev_035",
+        "ev_006",
+        "ev_038",
+        "ev_014",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated risk-taker who reframes uncertainty as manageable rather than threatening",
+      "finding": "Obama consistently approaches uncertainty through an optimistic framing lens while acknowledging genuine risks. On sequester, he documents specific human costs (ev_014) but frames the alternative path as clear and preferable (ev_013). His approach to the Paris climate agreement and Iran nuclear deal involved genuine uncertainty, yet he frames these as legacy investments to 'build upon' (ev_041). Notably, he acknowledges past failures ('past trade deals haven't always lived up to the hype' ev_027) without letting them deter future risk-taking. His Cancer Moonshot initiative (ev_042, ev_043) represents institutional risk-taking through cross-agency coordination and technology partnerships. The pattern suggests comfort with entering genuinely uncertain domains (climate, nuclear policy, cancer research) when the potential upsides justify it, and a tendency to frame risks in terms of consequences of inaction rather than pure probability of failure.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_013",
+        "ev_041",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Hierarchical authority used instrumentally for collective empowerment rather than personal dominance",
+      "finding": "Obama's use of presidential power reveals a distinctive philosophy: hierarchy as enabler of collective capacity rather than personal command. He explicitly positions himself as conduit for citizen action ('All of this progress is because of you' ev_032), calls government 'the best tool' for collective problem-solving (ev_036), and frames his role as learning from and channeling citizen input (ev_044, ev_045). When engaging with hierarchical structures, he builds bridges across levels: partnerships between labor and business (ev_008), Silicon Valley bringing innovation into government (ev_037), and bipartisan Congressional cooperation (ev_048). His deployment of veto threats and executive authority (ev_029, ev_019) occurs when hierarchical obstacles prevent collective action, not as displays of personal power. The farewell address ('I look forward to working along your side, as a citizen' ev_047) confirms this orientation—his sense of power efficacy comes from enabling collective action rather than dominating hierarchical structures.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_036",
+        "ev_044",
+        "ev_045",
+        "ev_008",
+        "ev_037",
+        "ev_048",
+        "ev_029",
+        "ev_019",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation and negotiation as primary strategy with strategic escalation when core principles blocked",
+      "finding": "Obama's conflict approach centers on reframing disputes as shared-value problems: 'This isn't a Democratic or a Republican issue – it's an American issue' (ev_008). He consistently translates policy conflicts into questions of American values—Medicare as commitment to seniors (ev_001), Wall Street reform as level playing field (ev_003), veterans' hiring as national obligation (ev_009). However, when translation fails, he escalates strategically: explicit veto threats (ev_029), executive actions bypassing legislative obstruction (ev_019), and direct public criticism of Congressional tactics (ev_010, ev_020). His sequester messaging (ev_014) and Veterans Day address (ev_038) show empathy-based conflict de-escalation through humanizing those affected. The pattern reveals a conflict strategist who exhausts relational approaches (bipartisan framing, coalition-building) before escalating, but escalates decisively on core issues without ambiguity.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_003",
+        "ev_009",
+        "ev_029",
+        "ev_019",
+        "ev_010",
+        "ev_020",
+        "ev_014",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation spanning generations with active legacy consciousness",
+      "finding": "Obama demonstrates consistent long-term and mission-scale time orientation. He frames accomplishments within historical context (securing 'America's resurgence' as measurable and real, ev_024; strongest job growth since 1990s, ev_018). His policy ambitions target intergenerational impact: Paris climate agreement as 'a better, cleaner, safer future for our children' (ev_041), Medicare as commitment that 'as long as I am President, that's a commitment this country is going to keep' (ev_001). The Cancer Moonshot explicitly builds on 45 years of prior progress (ev_042), and he references what his presidency means for 'all my days that remain' as citizen (ev_047). Notably, he declares accomplishments as foundation to 'reverse the decades-long erosion of middle-class jobs' (ev_024)—framing his 8-year work as insufficient alone but contribution to longer arc. This temporal awareness appears in his explicit concern for what will outlast his presidency: 'That's not something to tear up – it's something to build upon' (ev_041).",
+      "evidence_ids": [
+        "ev_024",
+        "ev_018",
+        "ev_041",
+        "ev_001",
+        "ev_042",
+        "ev_047",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Moderate rebuild orientation—seeks structural change on domestic policy while patching on foreign policy",
+      "finding": "Obama demonstrates selective rebuild orientation that varies by domain. On domestic policy, he pursues structural reforms: ACA fundamentally restructuring healthcare financing (ev_002), Dodd-Frank creating new institutional structures like the CFPB (ev_028), executive orders on minimum wage as structural wage floor (ev_017), and Trade Promotion Authority for TPP as long-term framework (ev_026). His 'Year of Action' framing (ev_015) suggests awareness that patchwork approaches had failed and structural redesign was needed. On foreign policy, his approach appears more adaptive: Iraq war ending by year's end (evt_010), Afghan transition by 2014, managing ongoing counterterrorism without major new structural commitments. The Cancer Moonshot (ev_042, ev_043) represents institutional rebuild through cross-agency task force and technology partnerships. However, his sequestration responses show patching tendencies when rebuild failed—temporary FAA fix while cuts continued (ev_014). The overall pattern suggests rebuild preference when political conditions allow, with pragmatic patching when structural change faces insurmountable opposition.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_017",
+        "ev_026",
+        "ev_015",
+        "evt_010",
+        "ev_042",
+        "ev_043",
+        "ev_014"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High self-awareness with demonstrated capacity for perspective-taking and learning orientation",
+      "finding": "Obama's speeches reveal sophisticated metacognitive patterns. He demonstrates clear awareness of his own learning process: 'Every day, I learned from you. You made me a better President' (ev_044)—explicitly acknowledging that his thinking evolved through external input. His perspective-taking capacity appears in the Father's Day address's reflection on growing up without a father (ev_006) and in his documented empathic framing of sequester impacts on Head Start families, seniors, and military communities (ev_014). He acknowledges cognitive limits of the presidency: 'Our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036)—framing institutional governance as compensating for individual limitations. His intellectual humility is evident in admitting past trade deal shortcomings (ev_027) and crediting others for progress (ev_032). The farewell address shows particular metacognitive maturity in reflecting on what he witnessed and learned across eight years (ev_045), and in explicitly calling for sustained self-monitoring through civic participation beyond elections (ev_046).",
+      "evidence_ids": [
+        "ev_044",
+        "ev_006",
+        "ev_014",
+        "ev_036",
+        "ev_027",
+        "ev_032",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "flow_trigger_structure_awareness",
+      "definition": "The degree to which someone recognizes and actively structures conditions for optimal experience—both their own and others'. This goes beyond personal metacognition to include design awareness for enabling flow states in systems and people around them.",
+      "finding": "Obama demonstrates notable awareness of flow-triggering structures. He designs collaborative conditions intentionally—pairing AFL-CIO with Chamber of Commerce (ev_008), bringing Silicon Valley innovators into government (ev_037), assigning Biden autonomous leadership of Cancer Moonshot (ev_042), and creating public-private partnerships for veteran hiring (ev_009). His 'Year of Action' represents systematic creation of action conditions when structural barriers blocked normal legislative flow. The pattern suggests someone who understands that optimal experience requires removing obstacles and creating enabling conditions, rather than simply willing outcomes into existence. His emphasis on government modernization through external expertise (ev_037) and his focus on making clinical trials accessible through technology (ev_043) reveal design thinking applied to systemic flow—creating feedback loops and reducing friction that prevents engagement.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_037",
+        "ev_042",
+        "ev_009",
+        "ev_037",
+        "ev_043"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "optimal_experience_others_focus",
+      "definition": "The extent to which someone's flow and optimal experience orientation is directed toward enabling flow for others versus personal absorption in tasks. This measures other-centeredness in the pursuit of optimal experience.",
+      "finding": "Obama's optimal experience orientation appears distinctly other-directed. While presidential responsibilities prevent sustained personal flow states, his rhetoric consistently positions optimal experience as something to enable in others. He celebrates veterans finding jobs (ev_009), seniors gaining healthcare security (ev_001, ev_045), cancer survivors accessing affordable care (ev_045), and small business owners thriving in manufacturing renaissance (ev_022, ev_017). His personal flow example—the basketball coaching (ev_007)—is specifically framed as enabling others' experiences. The farewell address calls citizens to action not for personal gain but for collective capacity building ('Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' ev_046). This suggests that his own optimal experience comes primarily through catalyzing conditions for others' engagement and flourishing, positioning him as a flow architect rather than flow pursuer for himself.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_045",
+        "ev_022",
+        "ev_017",
+        "ev_007",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

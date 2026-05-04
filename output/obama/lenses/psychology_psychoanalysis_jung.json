@@ -1,0 +1,178 @@
+{
+  "discipline": "psychology",
+  "lens": "psychoanalysis_jung",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Predominantly world-shaper with integrated structural responsiveness",
+      "finding": "Obama's speeches consistently reveal an agentic orientation that frames him as an active shaper of national destiny rather than a passive responder to circumstances. His repeated use of executive actions (ev_017, ev_019, ev_029), his articulation of comprehensive policy blueprints like the 'Blueprint for a Secure Energy Future' (evt_004), and his 'Year of Action' framing (evt_015) all demonstrate intentional world-shaping. Yet this agency is not purely heroically individualistic—Obama consistently attributes outcomes to collective American action (ev_032: 'It's you—the American people'). This suggests a sophisticated integration where personal agency serves as a catalyst for mobilizing collective rather than substituting for it. The Hero archetype is strongly activated, but tempered by what Jung would recognize as the integration of the Persona with deeper collectivist values.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032",
+        "ev_004",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Intuitive-synthetic with auxiliary thinking function",
+      "finding": "Obama's speeches reveal a predominantly intuitive (N) orientation that seeks holistic patterns and possibilities, combined with a secondary thinking function that provides logical structure. He consistently constructs grand synthesizing narratives—'middle-out economics' (ev_021), framing America's resurgence as measurable and connected (ev_024), articulating climate progress within a civilizational story (ev_041). His epistemic approach trusts pattern recognition across domains (linking veterans hiring to economic policy, connecting energy independence to national security). The thinking auxiliary manifests in his careful enumeration of statistics (ev_025, ev_033), his documented approach to sequester impacts (ev_014), and his logical framing of trade-offs. However, the intuitive function appears dominant—he consistently moves from holistic vision to specific policy rather than building up from empirical particulars.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_024",
+        "ev_041",
+        "ev_014",
+        "ev_025",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formalization with strong preference for systematized policy architecture",
+      "finding": "Obama demonstrates a strong preference for abstract policy systematization over local repair. His speeches repeatedly frame discrete policies within comprehensive frameworks: the ACA as 'commitment to America's seniors' (ev_001), Dodd-Frank as establishing systemic consumer protection architecture (ev_028), TPP as writing global economic rules (ev_031). He does not simply patch problems but articulates underlying principles—the 'middle-out' economic philosophy (ev_021), 'Year of Action' as systematic executive initiative (ev_019). His tendency to list accomplishments in systematic top-10 formats (ev_033) further reveals formalizing impulse. This suggests a thinking-oriented preference for systematization, though always serving intuitive-synthetic vision rather than pure logical completeness. The abstraction is functional rather than escapist—he uses frameworks to mobilize rather than to withdraw.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_028",
+        "ev_031",
+        "ev_021",
+        "ev_019",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control through institutional mechanism preference",
+      "finding": "Obama's control orientation operates primarily through institutional and rule-based mechanisms rather than personal domination. His clearest control expression is the refusal to negotiate over debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States'), showing firm boundary-setting around core principles. He consistently employs executive tools when legislative paths are blocked (ev_019, ev_017), suggesting comfort with unilateral action within constitutional bounds. Yet his rhetoric emphasizes shared governance ('our founders trusted us with the keys' ev_036) and civic participation over personal authority. This reflects a mature integration where control serves collective ends rather than egoic need. The potential shadow—unacknowledged power hunger—appears minimized through his consistent attribution of agency to 'the American people' and preference for institutional constraint.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_019",
+        "ev_017",
+        "ev_036",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission prioritization with calculated relational sacrifice",
+      "finding": "Obama consistently prioritizes policy mission over relational comfort with political opponents, accepting social costs as necessary for goal achievement. His direct criticism of Republican obstruction ('Republicans in Congress have blocked or voted down every serious idea' ev_020) and Senate procedural tactics (ev_010) demonstrates willingness to publicly confront rather than accommodate opposition. His 'love won' framing (ev_035) and declaration that 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027) show ideological commitment over diplomatic relationship maintenance. However, his mission orientation is not purely aggressive—he seeks bipartisan coalitions (ev_008: 'AFL-CIO and Chamber of Commerce—two groups who don't always see eye-to-eye') and frames opposition as principled disagreement rather than enemy designation. The relational cost is accepted rather than avoided, but within bounds of respect for institutional process.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_035",
+        "ev_027",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated boldness within perceived systemic constraints",
+      "finding": "Obama's risk posture reveals selective courage concentrated in signature policy initiatives while showing pragmatic caution in implementation. He demonstrates clear boldness in pursuing transformative legislation (ACA, Dodd-Frank), committing to climate action (ev_041: 'not something to tear up—it's something to build upon'), and issuing veto threats against Wall Street reform repeal (ev_029). His acceptance of political costs—direct criticism of opponents, declaration of ideological positions—requires risk tolerance. However, his rhetoric also reveals constraint-awareness: he acknowledges 'running out of excuses' for opponents (ev_023), documents real human costs of policy failures (ev_014), and frames past trade deals as not 'living up to hype' (ev_027). This suggests a mature risk calculus where bold goals are pursued through tactically careful means. The shadow of risk-aversion is minimized through action-oriented language ('Year of Action,' 'America's resurgence is real'), but the underlying restraint is visible in his frequent pivots to executive rather than legislative action.",
+      "evidence_ids": [
+        "ev_041",
+        "ev_029",
+        "ev_023",
+        "ev_014",
+        "ev_027"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Instrumental hierarchy orientation with democratic legitimacy framing",
+      "finding": "Obama relates to hierarchy and power as instrumental means for collective ends, consistently framing authority as delegated rather than possessed. His clearest expression is the description of democratic governance as 'the best tool we've got' (ev_036), positioning power as means rather than end. His comfort with executive authority (ev_017, ev_019) and willingness to issue veto threats (ev_029) demonstrate no pathological fear of power. Yet he consistently attributes accomplishments to collective action ('It's you—the American people' ev_032; 'All of this progress is because of you' ev_032) and frames his role as servant rather than master. His presidential duty statement—'I have no more solemn obligation than leading our men and women in uniform' (ev_038)—frames hierarchical responsibility as grave trust. The power shadow (projection of power hunger onto others) appears minimal, suggesting either genuine integration or sophisticated repression of power-oriented impulses.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_032",
+        "ev_038",
+        "ev_029",
+        "ev_017"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled confrontation with institutional maintenance",
+      "finding": "Obama's conflict strategy combines principled direct confrontation with maintenance of institutional legitimacy. He directly criticizes Congressional obstruction (ev_010: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'), Republican opposition (ev_020), and past trade deal failures (ev_027). This represents willingness to split and escalate conflict rather than suppress or delay. However, his confrontations consistently occur within institutional frames—he invokes founding fathers, constitutional principles, and democratic values rather than pure power contestation. He does not portray opponents as enemies but as obstructers of American values—a more sophisticated translation strategy that maintains possibility for reconciliation. The conflict is with positions and policies rather than persons, suggesting mature differentiation. His explicit refusal to 'negotiate over the full faith and credit' (ev_015) shows firm boundary maintenance without aggression escalation.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_020",
+        "ev_027",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation integrating short and long-term",
+      "finding": "Obama's time orientation demonstrates a sophisticated integration of immediate, medium-term, and generational horizons. His short-term focus appears in urgent deadline framing (ev_011: 'seven days away,' 'eight days away'), his emphasis on current job creation statistics (ev_033), and his 'Year of Action' initiative (evt_015). The medium-term appears in his articulation of deficit reduction trajectories (ev_016: 'deficits are already falling at the fastest rate since the end of World War II') and energy security goals by 2025 (evt_004). Most distinctively, his long-term/generational orientation is explicit in climate policy ('leave a better, cleaner, safer future for our children' ev_041), his framing of Paris agreement as legacy to 'build upon' (ev_041), and his Cancer Moonshot initiative (evt_026). This temporal integration suggests a Wise Old Man archetype presence—wisdom that integrates past, present, and future—counterbalancing the potentially heroic or Puer energy of transformation-orientation.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_033",
+        "ev_016",
+        "ev_041",
+        "evt_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong preference for structural reform with selective patching",
+      "finding": "Obama demonstrates clear preference for structural redesign over local repair, particularly in his signature policy achievements. The ACA represents comprehensive healthcare system restructuring (ev_001: 'commitment to America's seniors' as foundational principle), Dodd-Frank represents systemic financial reform architecture (ev_028), and Paris climate agreement represents global structural response (ev_034). His 'middle-out' economic philosophy (ev_021) explicitly rejects trickle-down as structurally inadequate, advocating systemic economic reorientation. His framing of 'renewed optimism about America's promise' (ev_047) suggests confidence in fundamental American possibility rather than mere problem management. However, his executive action approach when legislation fails ('Year of Action') sometimes represents patching within constrained systems—a pragmatic adaptation. The structural preference dominates but is tempered by political reality awareness, suggesting mature integration of ideal and possible.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_028",
+        "ev_034",
+        "ev_021",
+        "ev_047",
+        "ev_019"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with specific shadow recognition",
+      "finding": "Obama demonstrates remarkable metacognitive sophistication for a political figure. His farewell address explicitly identifies learning from citizens as making him 'a better President, and a better man' (ev_044)—an acknowledgment of cognitive and moral development through interaction. His self-critique of past trade deals ('I'm the first to admit that past trade deals haven't always lived up to the hype' ev_027) shows capacity for self-correction without self-denigration. His attribution of all 2015 progress to 'the American people' (ev_032) reveals awareness of collective intelligence exceeding individual cognition—a mature epistemic humility. Most significantly, his personal sharing about growing up without his father (ev_006) suggests integration of formative loss into conscious identity rather than its repression. However, a potential metacognitive limitation: his consistent positivity may represent partial blind spot to systemic failures or alternative perspectives not represented in his rhetorical frame. The high overall metacognition likely reflects the anima/animus integration associated with mature individuation.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_032",
+        "ev_006",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "animus_integration_via_paternal_absence",
+      "definition": "Obama's unintegrated paternal relationship—growing up without his father (ev_006)—represents an unlived animus element that paradoxically enabled public integration of the animus archetype. Jung would recognize the fatherless son's complex inheritance: the absence creates both wound and freedom. The public integration of fatherhood themes (assistant coach for daughter's basketball team ev_007, White House fatherhood initiatives evt_005) represents conscious engagement with the unlived paternal principle. However, the animus integration in the public sphere (authoritative, guiding, setting boundaries) may have been purchased through personal incompleteness. This emergent dimension captures the paradoxical individuation pattern where personal shadow work enables public integration.",
+      "finding": "Obama's repeated return to fatherhood themes—both as absence victim and active father figure—reveals a compensatory pattern addressing the animus element associated with paternal absence. His public articulation of paternal responsibility to veterans' families (ev_038) and his own experience of father-absence suggests ongoing engagement with this unlived element. The fatherless son archetype appears in Jungian literature as producing either flight from commitment or, more integratively, identification with the feminine principle through necessity. Obama's notable emotional accessibility and relational rhetoric may partly derive from this animus deficit compensation—developing the relational function out of necessity where the paternal-assertive function remained unmodeled. His articulation of collective 'civic fatherhood' in his farewell address ('I look forward to working along your side, as a citizen') suggests ongoing synthesis of this unlived element through public service rather than personal parenting alone.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_038",
+        "evt_005"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "magician_archetype_as_ideological_substrate",
+      "definition": "Obama's political philosophy contains an implicit faith in systemic transformation that Jung would recognize as the Magician (Sorcerer) archetype operating as ideological foundation. His belief that government can 'modernize' itself (ev_037), that policy redesign can produce social regeneration, and that structural reform can transform outcomes reflects magical thinking in Jung's sense—the confidence that proper ritual (process/mechanism) can transform substance (reality). This archetype energizes his reformist optimism but may constitute a shadow blindness to the limits of conscious design.",
+      "finding": "The Magician archetype in Jung's framework represents the conviction that transformation occurs through proper ritual and technique. Obama's repeated emphasis on process reform (executive actions, bipartisan frameworks, technological modernization ev_037) reveals this magical orientation. His 'Cancer Moonshot' framing (evt_026) explicitly invokes transformation-through-adequate-technique thinking, as does his description of bipartisan budget and education bill as 'Christmas miracles' (ev_048)—moments when proper institutional process produces unexpected good. This archetype provides the psychological energy for his reformist optimism but may constitute shadow: an unexamined faith that correct process can transform substance. Jung would note that the Magician often fails to integrate the shadow—that matter resists transformation, that institutions contain irreductible inertia. Obama's acknowledged difficulty with Congressional obstruction may partially reflect this shadow confrontation: the magical expectation that good intentions and proper process should produce transformation encounters material resistance from opponents who do not share his ritual confidence. This emergent dimension captures the archetypal substrate underlying his systematic reformism and explains both its energy and its limitations.",
+      "evidence_ids": [
+        "ev_037",
+        "ev_048",
+        "evt_026",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

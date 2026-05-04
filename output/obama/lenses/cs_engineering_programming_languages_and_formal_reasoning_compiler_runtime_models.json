@@ -1,0 +1,178 @@
+{
+  "discipline": "cs_engineering",
+  "lens": "programming_languages_and_formal_reasoning_compiler_runtime_models",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper who actively restructures systems rather than merely responding to conditions, but selects among available mechanisms rather than attempting wholesale structural transformation",
+      "finding": "Obama consistently demonstrates world-shaping orientation through major legislative and policy restructuring efforts. The ACA represents a comprehensive redesign of healthcare semantics (ev_001, ev_002), while Dodd-Frank restructures financial regulation semantics (ev_003, ev_028, ev_029). When legislative paths were blocked, he pivoted to executive mechanisms—not passive acceptance of constraints, but active reshaping of available control surfaces (ev_017, ev_019, ev_020). The Cancer Moonshot shows his ability to design cross-agency translation mechanisms (ev_042, ev_043). However, he operates within the constitutional semantic layer rather than attempting to rewrite it—adapting mechanism selection to constraints rather than removing constraints.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_003",
+        "ev_017",
+        "ev_019",
+        "ev_028",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Strongly evidence-driven; relies on metrics, statistics, and measurable outcomes rather than experience intuition or anecdotal evidence",
+      "finding": "Obama's epistemic style is notably empirical, consistently grounding policy arguments in concrete data rather than rhetorical appeals or personal experience alone. His speeches cite specific metrics: 11 million jobs over 57 months (ev_025), $11 billion recovered for 26 million consumers (ev_028), wind power tripled and solar 30x growth (ev_040), Medicare solvency extended 12 years (ev_002). This pattern suggests confidence in formalizable evidence over narrative intuition. Even his Father's Day address, while personal, pivots to statistical evidence of fatherless families (ev_006). The reliance on measurable outcomes aligns with the compiler/runtime modeler's dependence on instrumentation and profiling—beliefs formed through observable metrics rather than experience-trap anecdotes.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High capacity for translating abstract values into formalizable policy mechanisms; treats legislation as code with testable semantics",
+      "finding": "Obama exhibits exceptional abstraction-fomalization capability, consistently translating high-level values like 'opportunity for all' into formal mechanisms like the $10.10 minimum wage executive order (ev_017, ev_018). He articulates 'middle-out' economic philosophy (ev_021) then operationalizes it through specific policy instruments. The ACA and Dodd-Frank represent comprehensive formalization of semantic constraints—what the compiler/runtime modeler would call type systems and memory safety for complex domains. His 'Year of Action' speech enumerated 20+ executive actions as concrete instantiation of abstract agenda (ev_019). Notably, he distinguishes between mechanism types: drilling alone insufficient because it doesn't formalize the abstract semantic goal of energy independence (ev_005). This suggests sophisticated understanding that syntax without correct semantics produces wrong behavior.",
+      "evidence_ids": [
+        "ev_005",
+        "ev_017",
+        "ev_018",
+        "ev_019",
+        "ev_021",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-strong control orientation achieved through mechanism design rather than direct manipulation; uses feedback loops and constraints rather than micromanagement",
+      "finding": "Obama's control orientation operates through institutional mechanisms rather than direct intervention. He designs watchdogs (CFPB, ev_028), issues veto threats as constraint mechanisms (ev_029), and creates partnership programs (Clean Fleets Partnership, ev_004) as indirect influence channels. His veteran hiring challenge (ev_009: 100,000 by 2013) represents a goal function for external actors, not direct command. He criticizes Senate obstruction but doesn't attempt to override it—instead designing alternative paths around it. This mirrors the compiler/runtime model's preference for constraint propagation over manual control: design mechanisms that produce correct behavior under various inputs rather than trying to control every execution path.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_008",
+        "ev_009",
+        "ev_028",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-driven with explicit cost-bearing; willing to absorb significant relational friction when core semantic invariants are at stake",
+      "finding": "Obama demonstrates willingness to incur substantial relational costs when core policy semantics are threatened. His debt ceiling stance—refusing negotiation 'over the full faith and credit of the United States' (ev_015)—represents accepting maximum Congressional conflict for an inviolable semantic constraint. He publicly criticized Republican obstruction repeatedly (ev_020) despite relational damage. However, his 'balanced approach' rhetoric (ev_013) suggests awareness of relational costs and attempts to mitigate them through framing. The pattern suggests mission prioritization with strategic mitigation: core invariants protected without relational friction, peripheral elements negotiated. The compiler/runtime parallel: some semantic constraints are non-negotiable invariants while others are optimization parameters.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Layered defense with strategic risk acceptance; builds in backstops while pursuing aggressive structural change",
+      "finding": "Obama's risk posture combines defensive backstops with calculated risk acceptance. He builds defensive mechanisms (CFPB consumer protections as runtime safety checks, ev_028; veto threats as semantic guards, ev_029) while accepting risks in pursuit of major reforms. His approach to the sequester documents real costs (ev_014: Head Start cuts, airport disruptions) but advocates for replacement rather than accepting status quo. The Iran nuclear deal and Paris climate agreement show willingness to pursue ambitious multi-party agreements with irreducible uncertainty. This parallels the compiler/runtime model's approach: aggressive optimization with defensive bounds checking, accepting some undefined behavior risk in exchange for performance while building protective rails.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_028",
+        "ev_029",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Sophisticated multi-layer navigation; leverages formal authority while building cross-stakeholder coalitions for semantic alignment",
+      "finding": "Obama demonstrates sophisticated understanding of multi-level authority semantics. He leverages presidential power when available (executive orders, ev_017) while building cross-stakeholder coalitions when formal authority is insufficient (ev_008: AFL-CIO and Chamber of Commerce). His criticism of Senate obstruction (ev_010) shows awareness of hierarchical failure modes without attempting to circumvent hierarchy—rather redesigning rules (90-day up-or-down votes). He treats power as a mechanism to be used correctly, not an end in itself. His farewell address credits American people as the ultimate semantic authority (ev_044) while asserting constitutional structure's legitimacy (ev_036). This is layer-aware power semantics: knowing which layer provides which guarantees.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_017",
+        "ev_036",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translation-oriented conflict strategy; attempts semantic reframe rather than suppression or escalation, but maintains clear boundaries on inviolable positions",
+      "finding": "Obama's conflict strategy consistently attempts translation: reframing conflicts around shared American values rather than partisan positions. His transportation bill framing emphasized bipartisan consensus (ev_008) and documented specific consequences (ev_011). He distinguishes between negotiable and non-negotiable semantic positions—willing to compromise on implementation details but maintaining firm boundaries on core invariants (ev_015, ev_029). When translation fails, he doesn't escalate to power confrontation but pivots to alternative mechanisms (executive actions when legislation blocked, ev_019). This is sophisticated compiler-style error handling: when direct translation fails, generate alternative code paths rather than crashing.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_011",
+        "ev_015",
+        "ev_020",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Mission-scale orientation; explicitly frames current actions within decade+ trajectories while managing short-term mechanism execution",
+      "finding": "Obama consistently operates on mission-scale time horizons while maintaining short-term execution discipline. The ACA, Dodd-Frank, and Paris agreement all explicitly project decades-long impact (ev_002: 'single longest extension in history'; ev_041: 'leave a better, cleaner, safer future for our children'). His Cancer Moonshot explicitly models 45-year history with renewed 10-year commitment (ev_042). Yet he also manages urgent short-term deadlines—when transportation funding or student loan rates face imminent expiration (ev_011), he articulates concrete 7-8 day windows. This dual-horizon operation mirrors the compiler/runtime model's concern with both long-term architecture and short-term execution correctness.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_011",
+        "ev_041",
+        "ev_042",
+        "ev_034"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference; patches only when structural rebuild is blocked, not from preference for incrementalism",
+      "finding": "Obama's pattern strongly favors structural redesign over patching. The ACA represents complete healthcare system redesign, not incremental Medicare adjustments. Dodd-Frank constitutes comprehensive financial regulation restructure. TPP redesigns global trade framework semantics. When structural approaches are blocked, he patches via executive actions (ev_019: 'Year of Action')—but frames these as temporary workarounds waiting for proper legislative mechanism: 'Republicans in Congress have blocked... I've taken executive actions' (ev_020) implies patch-mode, not preferred architecture. This is the compiler/runtime modeler's correct orientation: complete redesign when systemic defects are identified, patches when circumstances prevent proper refactoring.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_002",
+        "ev_019",
+        "ev_020",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong self-awareness with explicit acknowledgment of cognitive limitations; credits collective intelligence and admits imperfections while maintaining principled positions",
+      "finding": "Obama demonstrates strong metacognitive awareness. He explicitly credits the American people as source of his effectiveness—'Every day, I learned from you. You made me a better President' (ev_044)—suggesting awareness of his own learning boundaries. He acknowledges trade agreement history's imperfections while defending TPP (ev_027: 'first to admit that past trade deals haven't always lived up to the hype'). His attribution of all 2015 progress to American people (ev_032) reflects understanding that presidential agency operates within collective semantic context. His call for civic participation beyond elections (ev_046) suggests awareness that institutional mechanisms require ongoing human engagement to maintain correct semantics. However, there is limited evidence of specific self-correction when policy mechanisms failed to produce intended semantics.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "semantic_preservation_across_layers",
+      "definition": "The capacity to maintain consistent meaning when translating policy intent across abstraction layers—high-level values to legislative text to regulatory implementation to citizen experience. This bridges the compiler's concern with semantic fidelity during compilation and the runtime model's concern with maintaining invariants during execution.",
+      "finding": "Obama demonstrates distinctive concern with semantic preservation across governance layers. His ACA framing emphasizes that 'Medicare isn't just a program. It's a commitment' (ev_001)—distinguishing between mechanism syntax (program) and intended semantics (commitment). His 'middle-out' economic philosophy (ev_021) gets translated into specific wage, employment, and training mechanisms while preserving the abstract semantic of opportunity. However, the sequester examples (ev_012, ev_014) reveal challenges: mechanisms designed at federal layer produced unintended semantics at vulnerable population layer. This suggests sophisticated awareness of cross-layer semantic risks, though execution fidelity proved incomplete.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_014",
+        "ev_018",
+        "ev_021",
+        "ev_032"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "resource_constraint_optimization",
+      "definition": "Operating effectively under binding constraints—specifically, achieving semantic goals when institutional resources (legislative votes, political capital, time) are scarce. This is the runtime model's concern with garbage collection, memory pressure, and scheduling under load.",
+      "finding": "Obama's presidency is characterized by severe resource constraints: lost legislative supermajority, persistent Congressional opposition, limited second-term political capital. His 'Year of Action' executive order strategy represents classic runtime optimization under memory pressure—finding alternative allocation paths when primary allocation fails. His coalition-building (ev_008: AFL-CIO + Chamber of Commerce) mirrors garbage collection of normally opposed stakeholders. His use of public pressure as mechanism when Congressional paths blocked shows sophisticated resource scheduling. The pattern reveals someone who treats institutional constraints as scheduling problems requiring creative allocation rather than binary blockers.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_015",
+        "ev_019",
+        "ev_020",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

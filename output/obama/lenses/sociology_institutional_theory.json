@@ -1,0 +1,175 @@
+{
+  "discipline": "sociology",
+  "lens": "institutional_theory",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Sophisticated institutional entrepreneur who shapes structures while working within constitutional constraints",
+      "finding": "Obama operates as a classic institutional entrepreneur—neither passively embedded in existing structures nor radically deconstructing them. He systematically sought to create new institutional frameworks (CFPB through Dodd-Frank, Clean Fleets Partnership for energy) while defending established achievements (ACA, Wall Street Reform) against repeal. Evidence shows he recognized when institutional paths were blocked and pivoted to alternative routes: when Congress blocked minimum wage legislation, he issued executive orders for federal contractors (ev_017, ev_019); when Senate obstructed judicial nominees, he framed the issue as contrary to founders' intent (ev_010). His 'Year of Action' framing (evt_015) explicitly signaled deliberate institutional entrepreneurship. This pattern reveals someone who treats institutional constraints as negotiable parameters rather than impassable barriers, always operating within constitutional bounds but actively reshaping the institutional landscape.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_010",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded with value integration; uses empirical data to validate normative positions",
+      "finding": "Obama's epistemic approach consistently combines empirical evidence with moral framing. He frequently cites specific statistics—11 million jobs created (ev_025), $11 billion recovered for consumers (ev_028), 2.5 million jobs in a single year (ev_033)—to substantiate policy claims, demonstrating data-driven reasoning. Yet these empirical claims are consistently integrated with value-based narratives: Medicare as 'a commitment to America's seniors' (ev_001), economic growth as serving 'middle-class wages and incomes' (ev_021). This suggests a thinking style where evidence serves to validate pre-existing normative commitments rather than emerging from neutral observation. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) reveals metacognitive awareness of epistemic limitations. He triangulates across multiple sources—bipartisan coalitions like AFL-CIO and Chamber of Commerce together (ev_008)—to establish claims as broadly legitimate rather than partisan.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_033",
+        "ev_021",
+        "ev_027",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High formal abstraction capacity balanced with concrete operationalization",
+      "finding": "Obama demonstrates sophisticated ability to articulate abstract policy philosophies while simultaneously implementing concrete mechanisms. His 'middle-out' economic theory (ev_021)—'Our economy grows best not from the top-down, but from the middle-out'—represents high abstraction, yet this is consistently operationalized through specific mechanisms: minimum wage executive orders (ev_017), workforce training programs (evt_016), manufacturing initiatives (evt_017). His energy blueprint (evt_004) illustrates this pattern: the abstract goal of reducing oil imports by one-third is paired with specific corporate partnerships (UPS, FedEx, AT&T) and concrete fuel efficiency standards. This suggests formal reasoning capacities that translate strategic abstractions into implementable policy designs. He also works within formal institutional channels—calling for Congressional action on TPP (ev_026), using veto threats as formal presidential authority (ev_029)—demonstrating comfort with the formal apparatus of institutional governance.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_017",
+        "ev_004",
+        "ev_029",
+        "ev_026"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high institutional control orientation; prefers structured systems over market-driven chaos",
+      "finding": "Obama exhibits a clear preference for institutional control mechanisms over market laissez-faire. His policy portfolio consistently emphasizes regulatory frameworks: Dodd-Frank consumer protections and the CFPB watchdog (evt_002, ev_028), ACA healthcare market regulations (evt_001), environmental standards (Paris agreement, auto fuel efficiency standards—ev_040, ev_041). The framing of 'level playing field' (ev_003) and 'everyone is held to the same rules' reflects institutional control as a core value. His complaint that 'drilling alone is not a real strategy' (ev_005) reveals skepticism toward market-only solutions. However, his control orientation operates through institutional means rather than direct personal control—he calls for Congressional action, uses executive orders, and works through established bureaucratic mechanisms rather than circumventing them. This suggests institutional control as systemic design rather than personal command.",
+      "evidence_ids": [
+        "ev_003",
+        "ev_005",
+        "ev_028",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-priority with strategic relationship management; willing to absorb political costs for core objectives",
+      "finding": "Obama displays a clear pattern of mission prioritization over relational comfort when core objectives are at stake. His refusal to 'negotiate over the full faith and credit of the United States' (ev_015) during the debt ceiling crisis demonstrates willingness to accept confrontation rather than compromise fundamental principles. The veto threat against any 'Wall Street Reform' repeal (ev_029) indicates similar firmness on signature achievements. However, his relationship management is strategic rather than absent—he cultivates bipartisan coalitions where possible (ev_008's AFL-CIO and Chamber of Commerce, bipartisan budget references in ev_048) and frames confrontation as 'not a Democratic or a Republican issue' (ev_008). His 'Year of Action' framing (ev_020) explicitly criticized Republican obstruction, accepting the relational cost of partisan escalation in service of policy momentum. This suggests mission-first orientation with tactical relationship management—willing to absorb political costs for core objectives but not seeking conflict for its own sake.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_029",
+        "ev_008",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated institutional risk-taking within defined boundaries; bold on domestic policy, measured on foreign policy",
+      "finding": "Obama's risk posture reveals calculated institutional entrepreneurship tempered by structural awareness. He pursued high-risk domestic initiatives—ACA represented massive institutional redesign of healthcare, Dodd-Frank reshaped financial regulation entirely—accepting significant political capital expenditure. His executive order strategy (minimum wage for federal contractors) constituted deliberate institutional boundary-testing when legislative paths blocked. Yet on foreign policy, his tone is notably more measured: ending wars (evt_010, Iraq), diplomatic normalization (Iran deal, Cuba relations), explicit distinction from religion-based conflicts (ev_012). His Cancer Moonshot (evt_026, ev_042) represents long-term institutional investment with uncertain payoff. The pattern suggests institutional risk-taking concentrated in domains where he perceived clear moral authority and Congressional deadlock, while exercising more conventional caution in traditionally executive-domain areas like military policy. His climate stance—'that's not something to tear up—it's something to build upon' (ev_041)—indicates willingness to defend novel institutional arrangements aggressively.",
+      "evidence_ids": [
+        "ev_012",
+        "ev_017",
+        "ev_042",
+        "ev_041",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Constitutional legitimist who uses formal authority strategically but respects institutional boundaries",
+      "finding": "Obama's relationship with hierarchy reflects constitutional institutionalism—he treats formal authority as legitimate tool when used appropriately, not as inherent power to be deployed indiscriminately. His use of veto threats (ev_029), executive orders (ev_017), and Congressional appeals represents normal institutional functioning rather than power accumulation. His framing of military obligation—'I have no more solemn obligation than leading our men and women in uniform' (ev_038)—treats hierarchical authority as responsibility rather than privilege. His criticism of Senate obstruction ('One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned'—ev_010) reveals deep commitment to institutional design over personal power. Significantly, he framed government itself as collective tool—'the best tool we've got to settle our differences and solve our collective challenges' (ev_036)—rather than as instrument of executive control. This represents sophisticated institutional consciousness: hierarchy exists to serve collective purposes, not vice versa.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_017",
+        "ev_038",
+        "ev_010",
+        "ev_036"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating and delaying; uses public mobilization and framing to transform conflict dynamics",
+      "finding": "Obama's conflict strategy consistently employs translation and delayed engagement rather than direct confrontation or avoidance. When faced with Congressional obstruction, he translates partisan conflicts into national interest issues—'This isn't a Democratic or a Republican issue—it's an American issue' (ev_008)—shifting the frame to broaden coalition. He mobilizes public opinion as pressure mechanism: documenting sequester costs to vulnerable populations (ev_014), citing small business owner support for minimum wage (ev_023), emphasizing AFL-CIO and Chamber of Commerce alignment (ev_008). His executive order pivot when legislative channels blocked represents strategic delay-with-alternative-routing rather than conflict escalation. He avoids direct institutional confrontation while finding workarounds—'I've taken more than 20 executive actions' (ev_019) after Congressional deadlock. The debt ceiling crisis (evt_013) shows his firm boundary-setting without escalation: he refused negotiation but didn't create constitutional crisis. This represents sophisticated conflict translation—reframing institutional conflicts as broader value conflicts to build public legitimacy.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_014",
+        "ev_023",
+        "ev_019",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional horizon with multi-generational policy perspective",
+      "finding": "Obama's temporal orientation consistently operates across long time horizons, often spanning generations. His Medicare framing ('after working your whole life, you've earned the security') reflects inter-generational commitment. The 12-year solvency extension for Medicare (ev_002) and 30% oil import reduction by 2025 (evt_004) demonstrate explicit long-term planning. His climate policy framing—'leave a better, cleaner, safer future for our children' (ev_041)—uses explicitly multi-generational language. The Paris climate agreement (nearly 200 nations) represents decades-scale institutional design. Even his economic messaging emphasizes sustained trends: '57 consecutive months of growth' (ev_025), 'strongest job growth year since 1990s' (evt_018). His farewell address call for 'civic participation over the full span of a lifetime' (ev_046) extends the institutional engagement horizon beyond any single electoral cycle. The Cancer Moonshot (ev_042—'45 years of progress') explicitly positions his initiative within a long institutional trajectory. This suggests someone thinking in terms of institutional legacies rather than short-term political cycles.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_041",
+        "ev_025",
+        "ev_046",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Mixed strategy: major system rebuilds where possible, practical patches where necessary",
+      "finding": "Obama's approach to institutional change varies by political feasibility context. Major rebuilds characterize his signature achievements: ACA represented fundamental reconstruction of healthcare financing and coverage systems; Dodd-Frank rebuilt financial regulation from core principles; TPP aimed to reconstruct international trade architecture with unprecedented labor and environmental standards. His executive orders on minimum wage (ev_017) represented structural redesign of federal contractor labor standards. Yet his practical statements reveal patch-oriented pragmatism: 'balanced approach' to deficit reduction combining spending cuts with tax reform (ev_013), bipartisan budget framing as 'Christmas miracles' (ev_048). The pattern suggests strategic calibration: institutional rebuilds attempted where political conditions permitted (first-term legislative window), practical patches adopted where rebuilds blocked (executive actions in second term, bipartisan compromises). His recognition that 'past trade deals haven't not always lived up to the hype' (ev_027) reflects awareness of institutional implementation limitations. This pragmatic duality—ambitious system design when possible, incremental maintenance when necessary—represents sophisticated institutional strategy.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_013",
+        "ev_048",
+        "ev_017",
+        "ev_029"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High institutional self-awareness; understands constraints and actively monitors institutional dynamics",
+      "finding": "Obama demonstrates sophisticated awareness of institutional dynamics and his own position within them. His farewell address explicitly reflects on learning from 'conversations with you, the American people' that 'kept me honest, kept me inspired' (ev_044)—metacognitive recognition that institutional position required external input to maintain accuracy. His acknowledgment that 'past trade deals haven't always lived up to the hype' (ev_027) shows awareness of his own epistemic limitations regarding policy outcomes. His government modernization initiative at SXSW (evt_023) reflects recognition that institutional innovation required external expertise—'government never has' asked Silicon Valley for help (ev_037). His framing of civic participation beyond elections—'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046)—suggests sophisticated understanding of institutional sustainability requirements. The 'Year of Action' framing itself demonstrates self-aware strategic pivoting when legislative routes blocked. His Cancer Moonshot innovation—technology solutions to clinical trial access (ev_043)—reflects cross-domain metacognition about institutional problem-solving. This pattern indicates strong institutional consciousness: awareness of constraints, monitoring of strategy effectiveness, and willingness to adjust approaches.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_027",
+        "ev_037",
+        "ev_046",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "legitimacy_crafting",
+      "definition": "The capacity to translate technical institutional designs into narratives that resonate with broad public values, thereby building cognitive and normative legitimacy for institutional innovations. Distinct from institutional entrepreneurship because it concerns the persuasive dimension of institutional work rather than the structural creation or change itself.",
+      "finding": "Obama demonstrates exceptional legitimacy crafting—the ability to frame institutional innovations in ways that generate broad legitimacy beyond partisan bounds. His ACA framing as 'a commitment to America's seniors' (ev_001) translates complex healthcare regulation into moral narrative. His Dodd-Frank framing emphasizes consumer protection and 'level playing field' (ev_003) rather than regulatory burden. His climate policy is framed as 'building upon' (ev_041) rather than imposing costs. Even the Cancer Moonshot (ev_042) is positioned as continuing 45 years of institutional investment in human welfare. This legitimacy crafting function is analytically distinct from the structural dimensions in standard institutional theory, capturing the rhetorical-performative dimension of institutional entrepreneurship that determines whether innovations achieve the cognitive and normative legitimacy needed for survival.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_003",
+        "ev_041",
+        "ev_042"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "democratic_institutional_logics",
+      "definition": "An implicit theory of institutional legitimacy centered on public participation and democratic authorization rather than procedural correctness or outcome optimization. Actors operating from this logic view institutional authority as derived from and dependent upon sustained public engagement, treating institutional innovations as legitimate only when grounded in democratic participation beyond electoral cycles.",
+      "finding": "Obama's institutional approach reveals a distinctive democratic logic where legitimacy derives from public participation rather than procedural compliance or outcome optimization alone. His farewell address call for civic engagement 'not just when there's an election' (ev_046) signals this orientation. His government modernization initiative sought 'ideas' from SXSW (evt_023) rather than imposing top-down solutions. His attribution of all 2015 accomplishments to 'you—the American people' (ev_032) reflects democratic institutional logic where presidential agency is understood as derivative of collective action. His energy policy involved voluntary corporate partnerships (UPS, FedEx—evt_004) rather than mandates. This democratic institutional logic differs from conventional institutional theory's emphasis on legitimacy as recognition by 'relevant audiences' or conformity to normative expectations—it locates legitimacy in participatory democratic processes that extend beyond formal authorization mechanisms. This dimension captures a crucial aspect of American institutional entrepreneurship that pure institutional analysis tends to underemphasize.",
+      "evidence_ids": [
+        "ev_046",
+        "ev_032",
+        "evt_023",
+        "evt_004"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

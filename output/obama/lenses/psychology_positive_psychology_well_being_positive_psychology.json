@@ -1,0 +1,188 @@
+{
+  "discipline": "psychology",
+  "lens": "positive_psychology_well_being_positive_psychology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong world-shaper orientation: Obama consistently positioned himself as active driver of change rather than passive structure-responder, taking executive action when legislative paths were blocked and articulating ambitious policy blueprints.",
+      "finding": "Obama demonstrates robust agentic orientation throughout his presidency, consistently framing himself as the primary driver of national progress. His 'Year of Action' declaration (ev_019) explicitly marked a shift from waiting on Congressional cooperation to unilateral executive leadership: 'I've taken more than 20 executive actions.' He established clear commitments ('As long as I am President, that's a commitment this country is going to keep' - ev_001) and followed through with veto threats against Wall Street Reform repeal attempts (ev_029). The Cancer Moonshot initiative (ev_042-043) further illustrates world-shaping agency—launching cross-agency task forces with ambitious 45-year-plus timeframes. His rhetoric consistently positions the presidency as an opportunity to shape history rather than respond to it, with statements like 'Pick any metric you want – America's resurgence is real' (ev_024) attributing outcomes to collective action he catalyzed.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_019",
+        "ev_029",
+        "ev_042",
+        "ev_044",
+        "ev_024"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Balanced epistemic style: Obama combines empirical data-gathering with values-grounded reasoning, showing intellectual humility in acknowledging past policy limitations while maintaining confident forward-looking judgment.",
+      "finding": "Obama's epistemic approach shows notable intellectual honesty combined with data-driven confidence. He grounds arguments in measurable outcomes ('11 million new jobs' in ev_025, '$11 billion recovered for 26 million consumers' in ev_028) while simultaneously invoking values-based commitments ('Medicare isn't a program, it's a commitment' - ev_001). Most significantly, he demonstrates intellectual metacognition in acknowledging limits of his own positions: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—a striking admission of prior imperfect judgment that models growth mindset in real-time. His distinction between al-Qaeda and Islam (ev_012) shows careful conceptual differentiation under politically charged conditions. The balanced deficit approach ('making sensible changes to entitlement programs and reforming our tax code' - ev_013) reflects epistemic modesty about knowing optimal solutions, preferring negotiated synthesis over ideological purity.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_013",
+        "ev_027",
+        "ev_028",
+        "ev_012",
+        "ev_025"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "High abstraction orientation: Obama frequently operates through conceptual frameworks and organizing metaphors that give structure to complex policy domains.",
+      "finding": "Obama demonstrates pronounced comfort with abstract conceptualization and systematic framework-building. His 'middle-out' economic philosophy (ev_021) provides an organizing principle that abstracts specific policies into coherent theory: 'Our economy grows best not from the top-down, but from the middle-out.' The Cancer Moonshot (ev_042-043) employs the moonshot metaphor as an abstraction device—organizing dispersed research efforts under unified aspiration. His energy 'Blueprint' (evt_004) and the enumerated 'Top 10 Things' format (ev_033-035) reflect systematic categorization preferences. Even his optimistic framing ('America's resurgence is real' - ev_024) abstracts empirical data points into narrative coherence. These patterns suggest Obama naturally gravitates toward formalization and systematization, using abstraction as a leadership tool to simplify complexity for public communication.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_033",
+        "ev_034",
+        "ev_035",
+        "ev_024",
+        "ev_042"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-to-high control orientation: Obama seeks systemic control through policy architecture and institutional design while showing restraint in acknowledging limits.",
+      "finding": "Obama's control orientation manifests primarily through systematic policy architecture rather than personal dominance. His legislative priorities—ACA extension of Medicare solvency by 12+ years (ev_002), Wall Street Reform creating consumer protections (ev_003), climate agreements with 200 nations (ev_041)—all represent attempts to institutionalize preferred outcomes within durable structures. The explicit refusal to 'negotiate over the full faith and credit of the United States' (ev_015) represents principled boundary-setting rather than pure control-seeking. However, evidence of epistemic restraint appears in his acknowledgment of prior trade deal failures (ev_027) and his framing of accomplishments as collective achievement ('It's you—the American people' - ev_032). The Presidential Innovation Fellows initiative (ev_043) shows control through institutional design—creating mechanisms that outlast any individual leader. His control orientation appears directed toward systems and outcomes rather than personal authority.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_003",
+        "ev_015",
+        "ev_027",
+        "ev_032",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with notable relational grounding: Obama pursues ambitious policy agendas while maintaining genuine connection to lived human consequences.",
+      "finding": "Obama shows robust mission-orientation through persistent policy advocacy despite Congressional opposition ('Republicans have blocked or voted down every serious idea' - ev_020) and his explicit commitment to veto Wall Street Reform repeal (ev_029). His policy priorities—ACA, Dodd-Frank, climate action, minimum wage—represent significant relational costs in terms of political capital and personal relationships. However, this mission-drive is consistently grounded in human relational reality. His Father’s Day address revealed personal experience of father-absence (ev_006) while simultaneously announcing fatherhood support initiatives. His Memorial Day address emphasized 'Gold Star Families' with visible and invisible wounds (ev_038) and called for concrete support actions (ev_039). The farewell address reflects on 'hugging cancer survivors who finally know the security of affordable health care' (ev_045)—transforming abstract policy into lived relational impact. This pattern suggests mission pursued WITH relational grounding rather than at its expense.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_007",
+        "ev_020",
+        "ev_029",
+        "ev_038",
+        "ev_039",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Moderate-to-bold risk posture in service of policy goals: Obama accepts significant political risk to advance signature initiatives while framing risk-taking as patriotic duty.",
+      "finding": "Obama demonstrates a risk-tolerant posture primarily in service of ambitious policy goals. His signature initiatives—ACA, Wall Street Reform, Paris Climate Agreement—each carried substantial political risk given expected opposition. The explicit veto commitment against 'any bill comes to my desk that tries to unravel the new rules on Wall Street' (ev_029) represented calculated political risk to signal resolve. His framing of the Paris Climate Agreement as legacy to 'build upon' (ev_041) rather than retreat from signals commitment despite anticipated opposition. The Cancer Moonshot (ev_042) explicitly built on 45 years of prior effort, accepting that results might outlast his administration. However, his risk posture appears context-dependent: more cautious on personal vulnerability (ev_006 personal history), more bold on systemic change. His invitation to Silicon Valley for government modernization (ev_037) represents institutional risk-taking to overcome bureaucratic inertia.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_041",
+        "ev_006",
+        "ev_042",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Complex hierarchy relation: Obama leverages formal presidential authority while simultaneously democratizing power through civic participation frameworks.",
+      "finding": "Obama's relationship with hierarchy and authority shows sophisticated ambivalence—using institutional power while redistributing agency to citizens. He clearly leverages presidential authority through executive orders ($10.10 minimum wage - ev_017), veto commitments (ev_029), and direct Congressional criticism ('One senator gumming up the works... is certainly not what our founding fathers envisioned' - ev_010). Yet simultaneously, he calls for power diffusion through civic engagement: 'Not just when there's an election, not just when our own narrow interest is at stake, but over the full span of a lifetime' (ev_046). His government modernization through Silicon Valley partnerships (ev_037) and Presidential Innovation Fellows (ev_043) deliberately imports external expertise into federal structures—transformation of hierarchy through selective power-sharing. His framing of founders' intent regarding obstruction (ev_010) invokes constitutional hierarchy to constrain legislative obstructionism. This pattern suggests hierarchy as instrumental rather than intrinsic—power deployed toward goals, not maintained for its own sake.",
+      "evidence_ids": [
+        "ev_010",
+        "ev_017",
+        "ev_029",
+        "ev_037",
+        "ev_043",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Strategic conflict translation: Obama typically frames conflict through institutional and values-based lenses rather than personal confrontation, though he demonstrates willingness to escalate when principles are at stake.",
+      "finding": "Obama's conflict strategy tends toward translation and negotiation rather than escalation—framing disputes in terms that enable bipartisan coalition-building. He cited AFL-CIO and Chamber of Commerce jointly on transportation funding (ev_008), explicitly noting groups 'who don't always see eye-to-eye.' He initially framed obstruction as bipartisan problem ('Neither party has been blameless' - ev_010), suggesting accommodation-seeking before explicit criticism. However, he showed willingness to escalate when core principles were threatened: the debt ceiling refusal to negotiate (ev_015) represented principled hard boundary. His 'Year of Action' framing explicitly called out Republican opposition ('they've said 'no' to...' - ev_020), demonstrating increasing willingness to name conflict directly as legislative obstruction persisted. His conflict strategy appears adaptive: initially seeking consensus, then escalating toward confrontation only when cooperation proves unattainable. The Veterans Day visit to aircraft carrier (ev_007) suggests strategic use of ceremonial settings to frame conflict resolution domestically.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strong long-term and inter-generational orientation: Obama's policy framing consistently emphasizes outcomes spanning decades and explicitly prioritizes legacy over short-term political advantage.",
+      "finding": "Obama demonstrates pronounced long-term and inter-generational time horizons across policy domains. His climate commitments emphasize decades-scale transformation ('carbon pollution at its lowest level in 25 years' - ev_040; Paris Agreement with 'nearly 200 nations' - ev_041). The Cancer Moonshot explicitly builds on 45 years of prior research (ev_042) while accepting results may extend beyond his administration. ACA's 12-year Medicare solvency extension (ev_002) represents structural commitment beyond political cycles. The TPP framing (ev_030-031) invokes generational competition: 'Without this agreement... China will write the rules.' Even budget negotiations show long-term framing: 'deficits are already falling at the fastest rate since the end of World War II' (ev_016). His farewell address explicitly positions ongoing engagement for 'all my days that remain' (ev_047) while calling for civic participation over 'the full span of a lifetime' (ev_046). This temporal orientation reflects what might be called legacy-drive—concern with what endures beyond immediate political cycles.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_016",
+        "ev_030",
+        "ev_031",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference: Obama consistently pursues comprehensive institutional transformation over incremental adjustment, framing signature policies as fundamental restructuring.",
+      "finding": "Obama's policy approach consistently favors structural redesign over incremental repair. The ACA represents fundamental healthcare system restructuring—extending Medicare solvency through systemic reform rather than budget补丁. Wall Street Reform (Dodd-Frank) established new institutional architecture ('Consumer Financial Protection Bureau' - ev_028) explicitly designed to prevent future crises through structural change. The Cancer Moonshot represents explicit institutional innovation—cross-agency task force with technology modernization (ev_043) rather than funding increases alone. Paris Climate Agreement embodied comprehensive 200-nation structural commitment (ev_041). Even the energy 'Blueprint' (evt_004) frames integrated strategy across drilling, fuel efficiency, and clean energy rather than single-sector adjustment. His rejection of 'drilling alone' as insufficient (ev_005) explicitly favors multi-dimensional systemic solutions. The TPP (ev_030-031) represents attempt at comprehensive trade architecture restructuring. This pattern suggests Obama operates from implicit theory that durable change requires structural transformation—incremental adjustment leaves systems vulnerable to reversal.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_005",
+        "ev_028",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_030"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "Strong metacognitive awareness: Obama demonstrates conscious reflection on his own cognitive processes, acknowledges limits of his positions, and models growth-oriented learning.",
+      "finding": "Obama shows notably strong metacognitive awareness across multiple dimensions. Most striking is his explicit acknowledgment of prior imperfect judgment: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027)—demonstrating capacity to critically evaluate his own historical positions. His farewell address demonstrates systematic reflection on the learning relationship with citizens: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He reflects on diverse experiences ('I've hugged cancer survivors,' 'I've seen communities like Joplin rebuild' - ev_045) as integrated learning. His confidence in American resilience ('our founders trusted us with the keys' - ev_036) reflects metacognitive appreciation for institutional design. The distinction between al-Qaeda and Islam (ev_012) shows active management of conceptual categories under pressure. His balanced deficit approach (ev_013) reflects epistemic modesty about knowing optimal solutions. This metacognitive strength enables the adaptive conflict strategy observed—initial consensus-seeking followed by principled escalation when learning indicates cooperation is infeasible.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045",
+        "ev_036",
+        "ev_013",
+        "ev_012"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "Collective Attribution and Agency Diffusion",
+      "definition": "The tendency to systematically attribute accomplishments to collective action and democratic participation rather than individual leadership, creating psychological and political space for distributed ownership of achievements.",
+      "finding": "This emergent dimension captures a distinctive pattern in Obama's self-presentation: consistently positioning himself within collaborative frameworks rather than as singular exceptional agent. His statement 'It's you—the American people. All of this progress is because of you' (ev_032) exemplifies this tendency—shifting attribution from presidential agency to citizen agency. His government modernization through external partnerships (ev_037) similarly diffuses institutional agency. The farewell address explicitly made him 'a better President and a better man' through civic conversation (ev_044). This represents sophisticated political psychology: by distributing credit, Obama may increase durability of initiatives through collective ownership, model humility, and activate citizen agency beyond passive spectatorship. This pattern connects to PERMA's Relationships dimension but extends beyond interpersonal connection toward democratic participation as intrinsic to human flourishing.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_037",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "dimension_name": "Resilience Narrative as Optimism Engine",
+      "definition": "The systematic use of resilience stories (community recovery, individual overcoming, national renewal) as primary mechanism for sustaining collective optimism and motivating civic engagement, transforming setback narratives into empowerment narratives.",
+      "finding": "A distinctive emergent pattern shows Obama using resilience narratives as primary optimism generation mechanism rather than achievement celebration alone. His farewell address explicitly cited 'neighbors looking out for each other as we rescued our economy,' 'communities like Joplin rebuild from disaster,' and 'cities like Boston show the world that no terrorist will ever break the American spirit' (ev_045). Memorial Day addresses invoked 'Gold Star families bearing visible and invisible wounds' (ev_038) while framing support actions as empowerment rather than charity (ev_039). This transforms resilience from passive recovery to active civic motivation—'Reach out to a Gold Star Family... Send a care package... hire a veteran' (ev_039) as participation opportunities. This pattern aligns with positive psychology's emphasis on post-traumatic growth while extending it to national narrative frame. It connects Meaning (serving larger purpose) and Positive Emotion (hope from witnessing resilience) within PERMA.",
+      "evidence_ids": [
+        "ev_038",
+        "ev_039",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    }
+  ]
+}

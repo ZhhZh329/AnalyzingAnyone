@@ -1,0 +1,172 @@
+{
+  "discipline": "philosophy",
+  "lens": "philosophy_of_religion",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Secular democratic agency with strong emphasis on human collective action rather than divine intervention or religious authority",
+      "finding": "Obama consistently frames American progress as resulting from human ingenuity, collective action, and democratic participation rather than divine guidance. In his farewell address (ev_044, ev_045), he attributed accomplishments to 'workers rolling up their sleeves,' entrepreneurs, and communities caring for each other—not to providence. This reflects a secular political theology where human agency and democratic institutions serve as the primary instruments of social progress. His father's day address (ev_006) shared personal loss without invoking religious comfort, instead announcing practical fatherhood support programs. His epistemic agency orientation rejects theistic determinism in favor of democratic voluntarism.",
+      "evidence_ids": [
+        "ev_044",
+        "ev_045",
+        "ev_006",
+        "ev_032"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Empirical-pragmatic epistemology relying on measurable outcomes and bipartisan evidence rather than revealed truth or religious authority",
+      "finding": "Obama's epistemic style consistently grounds policy claims in measurable statistics and empirical verification rather than religious doctrine or theological argument. He cites specific numbers: 11 million jobs created (ev_025), Head Start enrollments affected by sequestration (ev_014), $11 billion recovered for consumers (ev_028), wind power 'tripled' and solar 'thirtyfold' (ev_040). His deficit reduction preferences invoke bipartisan consensus rather than biblical authority (ev_013). When discussing military obligations, he speaks of 'solemn obligation' grounded in democratic citizenship rather than sacred duty (ev_038). This empirical orientation aligns with Enlightenment-informed political reasoning rather than reformational epistemology where certain beliefs could be 'basic' without evidence.",
+      "evidence_ids": [
+        "ev_025",
+        "ev_028",
+        "ev_040",
+        "ev_013",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate formalization with emphasis on practical policy frameworks rather than abstract theological systematization",
+      "finding": "Obama's rhetoric demonstrates moderate comfort with formal policy abstraction—he articulates clear 'blueprints' like his Energy Security Plan (evt_004) and 'middle-out' economic philosophy (ev_021). However, his abstractions remain tethered to concrete human welfare rather than metaphysical constructs. He frames trade policy through geopolitical competition ('China writing rules') rather than natural law frameworks (ev_031). His 'Year of Action' executive agenda emphasized practical deliverables over ideological formalization (ev_019, evt_015). His government modernization initiative (ev_037) reflects instrumental rationality rather than abstract institutional design theory. This suggests a pragmatic rather than systematizing intellectual orientation.",
+      "evidence_ids": [
+        "ev_021",
+        "ev_031",
+        "ev_037",
+        "ev_019"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Strong institutional control orientation through executive authority and regulatory frameworks to ensure policy outcomes",
+      "finding": "Obama exhibits strong control orientation through systematic use of executive authority when legislative channels fail. He issued explicit veto threats against Wall Street Reform repeal (ev_029), declared he would not negotiate over debt ceiling 'under any circumstances' (ev_015), and signed executive orders raising federal contractor minimum wage (ev_017). His approach to climate policy emphasizes regulatory standards and international agreements as control mechanisms (ev_040, ev_041). He consistently framed policy challenges as requiring government intervention to direct outcomes rather than trusting market self-regulation. This control orientation reflects regulatory instrumentalism rather than theological determinism about cosmic order.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_017",
+        "ev_040",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "High mission prioritization with willingness to accept relational/congressional conflict when policy goals are at stake",
+      "finding": "Obama demonstrates willingness to foreground mission goals over relational comfort, particularly in confrontations with Congressional Republicans. He explicitly criticized Republican obstruction tactics, listing specific bills blocked: minimum wage, equal pay, unemployment insurance (ev_020). He condemned Senate filibuster practices as contrary to 'founding fathers' intent' while acknowledging bipartisan blame (ev_010). His stance on debt ceiling negotiations prioritizes constitutional integrity over bipartisan accommodation (ev_015). However, his rhetorical framing often emphasizes broad coalitions—citing AFL-CIO and Chamber of Commerce agreement on transportation (ev_008)—suggesting mission is sometimes reframed to reduce relational costs rather than simply overridden.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_010",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Risk-averse institutionalist seeking policy certainty through established processes and empirical verification",
+      "finding": "Obama demonstrates risk-averse institutionalism through strong preference for established policy channels and empirical verification before commitment. He repeatedly appealed to Congressional action as necessary for legitimacy—calling on Congress for minimum wage increases (ev_017, ev_018), Trade Promotion Authority (ev_026), and transportation funding (ev_011). When Congressional obstruction blocked legislation, he pivoted to executive action ('Year of Action') to reduce policy risk, not to embrace uncertainty. His approach to trade (ev_027) acknowledges past failures while arguing for carefully structured agreements rather than radical experimentation. His climate policy framework emphasizes gradual measurable progress (ev_040) rather than revolutionary transformation. This risk posture aligns with cautious institutionalism over prophetic risk-taking.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_018",
+        "ev_026",
+        "ev_011",
+        "ev_027",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Selective hierarchy orientation that embraces institutional authority for policy implementation while challenging Congressional obstruction",
+      "finding": "Obama's relation to hierarchy is nuanced—embracing executive authority as legitimate while actively challenging Congressional institutional norms he views as abusive. He asserted strong presidential control through veto commitments (ev_029) and refusal to negotiate debt ceiling (ev_015), framing executive authority as necessary for democratic function. Simultaneously, he criticized Congressional hierarchy that 'gums up the works' (ev_010)—attacking the filibuster as anti-democratic rather than sacred procedural tradition. His approach to veterans (ev_009, ev_038) treats federal government as having hierarchy-based obligations to those who served. He did not appeal to religious hierarchy for authority; his hierarchy orientation is entirely within secular democratic institutional frameworks.",
+      "evidence_ids": [
+        "ev_029",
+        "ev_015",
+        "ev_010",
+        "ev_009",
+        "ev_038"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Direct confrontation of institutional conflicts with explicit public advocacy while seeking bipartisan framing where possible",
+      "finding": "Obama's conflict strategy involves direct public confrontation of opponents while maintaining bipartisan rhetorical framing. He explicitly named Congressional Republicans blocking legislation (ev_020) and issued public challenges with specific deadlines (ev_011—'seven days,' 'eight days'). He threatened vetoes publicly (ev_029) and declared he would not negotiate on constitutional principles (ev_015). However, he consistently framed issues as 'American issues' rather than partisan—transportation funding involves 'AFL-CIO and Chamber of Commerce' agreement (ev_008), and his economic philosophy claims universal validity for middle-class welfare (ev_021). This escalation strategy combines direct confrontation with rhetorical universalization, seeking public opinion leverage rather than back-channel negotiation.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_011",
+        "ev_029",
+        "ev_015",
+        "ev_008",
+        "ev_021"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term institutional horizon with specific medium-term targets embedded in longer visions",
+      "finding": "Obama consistently operates on extended time horizons tied to institutional policy cycles and generational welfare. He set energy independence goals for 2025 (evt_004), marked end of Iraq war with ongoing Afghanistan transition to 2014 (evt_010), and framed climate progress as 25-year pollution reduction (ev_040). His sequestration warnings emphasized education and research cuts affecting children (ev_014) and his retirement address invoked 'children' as inheritors of policy legacy (ev_041). His Cancer Moonshot (evt_026, ev_042) explicitly cited Nixon's 1971 declaration as historical precedent—connecting present action to 45-year scientific trajectory. This temporal orientation reflects long-term institutional planning rather than eschatological urgency or short-term electoral calculation.",
+      "evidence_ids": [
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_014",
+        "evt_004"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformist who prefers comprehensive legislative solutions but demonstrates pragmatic patching when comprehensive reform blocked",
+      "finding": "Obama's approach reveals structural reformist preferences constrained by political reality. His signature achievements—the ACA and Dodd-Frank—represent comprehensive structural reforms extending Medicare solvency by 12 years (ev_002) and establishing permanent regulatory architecture (ev_028). When structural reform was blocked by Congressional Republicans, he pivoted to executive patching—taking 'more than 20 executive actions' (ev_019) and issuing federal contractor minimum wage (ev_017). His 'balanced approach' to deficit reduction (ev_013) envisions comprehensive entitlement reform and tax restructuring rather than incremental tweaks. His government modernization initiative (ev_037, evt_023) aims for systematic technological transformation. This pattern suggests structural preference with pragmatic patching as fallback.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_028",
+        "ev_019",
+        "ev_017",
+        "ev_013",
+        "ev_037"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness demonstrated through explicit reflection on democratic process limits and historical perspective-taking",
+      "finding": "Obama demonstrates high metacognitive awareness through explicit reflection on democratic process limitations and self-critical historical perspective. His government modernization initiative (ev_036) explicitly acknowledged the democratic system's dependence on citizen engagement for legitimacy: 'our founders trusted us with the keys to this system of self-government because it's the best tool we've got to settle our differences.' His farewell address reflected on how conversations with citizens 'kept me honest' (ev_044), framing himself as epistemically shaped by participatory processes. He acknowledged past trade deal failures while defending new frameworks (ev_027), showing awareness of historical lessons. His Memorial Day framing of civic remembrance (ev_039) explicitly invited citizens to reflect on sacrifice's meaning—metacognitive invitation to the public. This reflects reformational-style awareness of one's own cognitive limits and dependence on community input.",
+      "evidence_ids": [
+        "ev_036",
+        "ev_044",
+        "ev_027",
+        "ev_039"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "secular_providentialism",
+      "definition": "A political orientation that treats American democratic institutions and citizens as the primary locus of providence-like progress, replacing theological frameworks with civic humanism while maintaining quasi-redemptive rhetoric about national destiny and collective transformation",
+      "finding": "Obama exhibits what might be termed 'secular providentialism'—a political theology that transfers providential agency from God to democratic collective action while maintaining redemptive rhetorical structures. His farewell address language of American 'resurgence' (ev_024, ev_047) echoes providential language but attributes it to human action: 'because of workers... entrepreneurs... teachers and health workers and parents' (ev_032). His 2015 accomplishments list ('love won' at number two—ev_035) employs soteriological vocabulary for secular achievements. This pattern suggests secular providentialism functions as civil religion replacement—maintaining quasi-theological narrative structures while grounding agency in democratic institutions rather than divine intervention. His explicit distinction between war on al-Qaeda and respect for Islam (ev_012) reinforces this secular framing by keeping religious identity distinct from political mission.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_047",
+        "ev_032",
+        "ev_035",
+        "ev_012"
+      ],
+      "local_support": "moderate"
+    }
+  ],
+  "philosophy_meta": {
+    "detected_schools": [
+      "Natural Law",
+      "Instrumentalism",
+      "Institutionalism"
+    ],
+    "cluster_matches": [],
+    "tension_flags": []
+  }
+}

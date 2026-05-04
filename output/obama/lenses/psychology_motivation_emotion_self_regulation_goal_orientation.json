@@ -1,0 +1,188 @@
+{
+  "discipline": "psychology",
+  "lens": "motivation_emotion_self_regulation_goal_orientation",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strong mastery orientation with active world-shaping orientation; Obama consistently positions himself as an agent of systemic change rather than a responder to external conditions",
+      "finding": "Obama's public communications consistently demonstrate a mastery-oriented agency posture. He explicitly frames himself as someone actively building and protecting major policy systems (ev_001: 'As long as I am President, that's a commitment this country is going to keep'), taking executive actions (ev_019: 'more than 20 executive actions'), and issuing direct challenges like hiring 100,000 veterans (ev_009). His narrative arc across the timeline—from ACA implementation through 'Year of Action' to farewell—shows systematic progress rather than reactive positioning. Rather than viewing himself as constrained by political structure, he articulates agency within constraints, framing Republican opposition as an obstacle to overcome rather than a condition to accept. This mastery orientation is particularly evident in his willingness to stake his legacy on large-scale reforms (ACA, Dodd-Frank, Paris climate) where failure risk was substantial.",
+      "evidence_ids": [
+        "ev_001",
+        "ev_009",
+        "ev_017",
+        "ev_019",
+        "ev_041"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Evidence-grounded epistemic pragmatism that acknowledges uncertainty while maintaining directional confidence; shows willingness to revise positions based on new information",
+      "finding": "Obama's communications reveal an epistemic style grounded in observable outcomes and data. He repeatedly anchors arguments in specific metrics: Medicare solvency extension (ev_002), 11 million jobs over 57 months (ev_025), 2.5 million jobs in 2015 (ev_033), 26 million consumers recovering $11 billion (ev_028). Notably, he acknowledges when prior positions require updating: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). This represents epistemic humility about his own prior judgments. His confidence statements (ev_004: 'I'm absolutely confident we will get there') are typically grounded in observable evidence—business trends, employment data, policy implementation results—rather than pure ideological commitment. This suggests a Bayesian-style approach where prior beliefs are continuously updated against incoming evidence.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_025",
+        "ev_027",
+        "ev_033",
+        "ev_028"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate-high abstraction with strong operationalization tendency; prefers systemic frameworks while consistently connecting to concrete measurable outcomes",
+      "finding": "Obama demonstrates comfort with abstraction through his articulation of governing philosophies ('middle-out' economics in ev_021, 'restoring opportunity' in ev_018) and systemic frameworks (Dodd-Frank consumer protection architecture, Paris climate multilateral framework, Energy Blueprint with 2025 target). However, he consistently operationalizes these abstractions with concrete metrics: specific job counts, wage levels ($10.10 minimum), percentage reductions in oil imports, Head Start enrollment impacts. This pattern suggests abstraction serves as organizing principle rather than end state—he builds theoretical models but grounds them in measurable implementation targets. His 'Top 10 Things' list (ev_033) exemplifies this tendency: each abstract achievement (climate leadership, nuclear nonproliferation) is paired with specific verifiable outcomes (200 nations, centrifuges dismantled).",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_022",
+        "ev_033",
+        "ev_040"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate control orientation oriented toward policy outcomes rather than personal image; shows strategic restraint when direct control is unavailable",
+      "finding": "Obama's control orientation manifests primarily in policy systems rather than personal positioning. He demonstrates clear control-seeking in legislative priorities: issuing veto threats (ev_029: 'I will veto it'), taking executive actions when Congress blocks priorities (ev_017, ev_019), refusing to negotiate on debt ceiling 'full faith and credit' (ev_015). However, his control orientation does not extend to image management or defensive posturing. He acknowledges failures ('past trade deals haven't always lived up to the hype' in ev_027), publicly attributes accomplishments to American people rather than himself (ev_032, ev_045), and openly discusses being 'challenged' by obstruction (ev_020). Notably, when direct control is blocked (Republican-controlled Congress), he shifts to alternative mechanisms (executive orders, partnerships with businesses, public appeals) rather than either surrendering or escalating combatively. This suggests adaptive control orientation that recognizes systemic constraints.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_017",
+        "ev_019",
+        "ev_020",
+        "ev_029",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Strong mission prioritization with willingness to accept significant relational costs when core policy commitments are at stake",
+      "finding": "Obama demonstrates consistent willingness to absorb relational/political costs in service of policy missions. His criticism of Congressional obstruction is direct and unsparing: 'Republicans in Congress have blocked or voted down every serious idea' (ev_020), 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned' (ev_010). He refuses to negotiate over debt ceiling under any circumstances (ev_015), explicitly accepting political confrontation rather than compromising on constitutional principle. His 'Year of Action' framing positions Republican opposition as the reason executive actions became necessary, accepting blame attribution. However, this mission-priority coexists with relational flexibility in other contexts: he references AFL-CIO and Chamber of Commerce joint support (ev_008), celebrates bipartisan budget and education bills as 'Christmas miracles' (ev_048). The pattern suggests selective mission-priority where core institutional and policy commitments override relational comfort, but situational flexibility on peripheral issues.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Growth-oriented risk tolerance; willing to pursue high-stakes systemic reforms with significant failure potential when potential gains justify downside exposure",
+      "finding": "Obama's policy portfolio reveals risk tolerance for high-stakes, high-failure-potential initiatives. ACA passage occurred with political capital near zero and significant probability of legislative failure; Dodd-Frank faced massive financial industry opposition; Paris climate agreement required convincing nearly 200 nations to coordinate on economically costly commitments. His explicit 'Year of Action' framing (ev_015) embraces risk of executive action challenges. He openly acknowledges past deals fell short (ev_027), suggesting he accepts that some ventures will underperform—learning from outcomes rather than avoiding similar risks. His 'resurgence' narrative (ev_024, ev_047) frames American progress as achievable despite uncertainty: 'together, we can leave a better, cleaner, safer future for our children' (ev_041). This is consistent with a mastery-approach orientation where significant challenges represent growth opportunities, not threats to be avoided. The Cancer Moonshot framing (ev_042, ev_043) explicitly positions 45 years of incremental progress as foundation for high-risk, high-reward innovation.",
+      "evidence_ids": [
+        "ev_015",
+        "ev_024",
+        "ev_027",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutional power leverage with democratic accountability framing; uses formal authority while positioning it as representing collective will rather than personal dominance",
+      "finding": "Obama's use of hierarchical power demonstrates sophisticated positioning. He leverages formal presidential authority (veto threats, executive orders, budget priorities) while consistently framing power use as representing democratic will rather than personal prerogative. 'Our founders trusted us with the keys to this system of self-government because it's the best tool we've got' (ev_036) positions executive power as collective tool. His description of legislative obstruction as contrary to 'our founding fathers' intent' (ev_010) frames resistance to institutional function, not personal opponents. He specifically invites broad coalitions— AFL-CIO and Chamber of Commerce together (ev_008)—indicating hierarchical power used to build cross-cutting alliances rather than consolidate partisan advantage. His memorial and farewell addresses emphasize service and obligation rather than personal achievement, further democratizing the use of institutional power. The pattern suggests hierarchical authority viewed as fiduciary responsibility to collective, not personal resource.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_036",
+        "ev_038",
+        "ev_044"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Principled negotiation with selective escalation; adapts conflict intensity to stakes while maintaining solution-oriented framing",
+      "finding": "Obama's conflict strategy shows graduated intensity calibrated to perceived stakes. At lower stakes, he employs collaborative framing: bipartisan budget 'Christmas miracles' (ev_048), transportation bill as 'not Democratic or Republican issue' (ev_008). When obstruction blocks priorities, he criticizes process ('One senator gumming up the works') while leaving door open for cooperation (ev_010). At highest stakes—debt ceiling, Wall Street Reform repeal—he escalates to hard positions: 'I will not negotiate over the full faith and credit of the United States' (ev_015), 'I will veto it' (ev_029). Notably, his conflict rhetoric maintains solution-orientation even at high intensity: he identifies problems and proposes alternatives rather than pure opposition. Republican obstruction is framed as obstacle to specific solutions (minimum wage, equal pay, unemployment insurance) rather than as personal enemy. This suggests conflict viewed as failure of collaborative process rather than inherent adversarial relationship.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_010",
+        "ev_015",
+        "ev_020",
+        "ev_029",
+        "ev_048"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Strongly long-term mission-scale orientation; frames current actions as contributions to multi-generational progress rather than immediate political wins",
+      "finding": "Obama consistently operates on multi-decade time horizons. Energy Blueprint targets 2025 (ev_004), Afghanistan transition targets 2014 (ev_010), Carbon pollution metrics measured in 25-year trends (ev_040), Paris climate agreement framed as 'future for our children' (ev_041). The Cancer Moonshot explicitly references 45-year institutional trajectory (ev_042). Even at farewell (ev_047): 'I am even more optimistic about our country's promise... for all my days that remain'—positioning post-presidency as continued long-term engagement. His 'resurgence' narrative (ev_024) frames 57 months of job growth as reversal of 'decades-long erosion of middle-class jobs and incomes.' This time horizon orientation is particularly visible in his framing of climate progress: 'That's not something to tear up—it's something to build upon' (ev_041). The consistent pattern: current actions positioned as contributions to multi-generational projects, not isolated events. Short-term failures and obstacles are framed as phases in longer progress arcs.",
+      "evidence_ids": [
+        "ev_004",
+        "ev_010",
+        "ev_024",
+        "ev_040",
+        "ev_041",
+        "ev_042",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Strong structural redesign preference; consistently pursues foundational institutional changes rather than incremental adjustments",
+      "finding": "Obama's policy portfolio consistently favors structural redesign over temporary fixes. Medicare 'solvency extension' (ev_002) represents system survival, not program modification. ACA was explicitly structural redesign of healthcare market access, not incremental expansion. Dodd-Frank established new regulatory architecture, not regulatory adjustments. His energy policy (ev_004) explicitly rejects 'drilling alone' as insufficient, demanding systemic transformation. When sequester threatened, he advocated 'balanced deficit reduction' replacing across-the-board cuts with structural tax and entitlement reform (ev_013). His 'Year of Action' executive orders (ev_019) explicitly position them as structural alternatives to blocked legislative approaches. Even in tactical adaptations (executive actions when Congress blocked priorities), the underlying aim is systemic—wage standards, consumer protections, clean energy transition—not temporary relief. The one area showing patch orientation—temporary FAA fixes when full sequester replacement failed (ev_012)—is explicitly framed as insufficient and requiring continued structural solution.",
+      "evidence_ids": [
+        "ev_002",
+        "ev_004",
+        "ev_012",
+        "ev_013",
+        "ev_019",
+        "ev_020"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High metacognitive awareness with explicit self-monitoring; demonstrates awareness of his own reasoning patterns, role constraints, and learning processes",
+      "finding": "Obama shows unusually high metacognitive awareness for a political figure. His farewell address explicitly frames his presidency as learning process: 'Every day, I learned from you. You made me a better President, and you made me a better man' (ev_044). He acknowledges limits of his own judgments: 'I'm the first to admit that past trade deals haven't always lived up to the hype' (ev_027). His attribution of accomplishments to American people (ev_032, ev_045) demonstrates awareness of his role as facilitator rather than sole agent. He shows explicit understanding of institutional constraints: 'One senator gumming up the works' (ev_010), noting both parties 'haven't been blameless' (ev_010)—a self-aware acknowledgment that neither side has clean hands. His reflection on personal growth (ev_006: father absence, 'I wonder what my life would have been like') shows willingness to examine his own developmental patterns. This metacognitive capacity appears throughout: when discussing job creation, he notes his role in creating conditions; when discussing policy failures, he acknowledges both structural obstacles and prior limitations; when leaving office, he explicitly frames continued engagement as ongoing learning.",
+      "evidence_ids": [
+        "ev_006",
+        "ev_010",
+        "ev_027",
+        "ev_032",
+        "ev_044",
+        "ev_045",
+        "ev_046"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "integrative_social_orientation",
+      "definition": "The degree to which an individual conceptualizes personal achievement and collective progress as fundamentally linked versus as competing priorities to be balanced or traded off",
+      "finding": "Analysis of Obama's communications reveals a consistent integration of individual and collective success as mutually constitutive rather than as tradeoffs. His 'middle-out' economics (ev_021) explicitly states economy grows best not from top-down but from middle-out—individual and collective prosperity are causally linked, not competing values. His farewell reflection that Americans 'made me a better President, and you made me a better man' (ev_044) positions his personal growth as derivative of collective engagement. He consistently frames policy outcomes as enabling individual opportunity: 'no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America' (ev_018). This integration pattern appears across domestic policy (wage increases enable both individual security and economic growth), foreign policy (American security requires protecting others' dignity), and civic engagement (individual participation makes democracy work). This contrasts with both purely individualistic achievement orientations (where collective is obstacle to personal) and purely collectivist orientations (where individual is subordinated to collective). Obama appears to hold that authentic individual achievement requires and produces collective progress, and vice versa—a mutually reinforcing relationship rather than zero-sum tradeoff.",
+      "evidence_ids": [
+        "ev_018",
+        "ev_021",
+        "ev_032",
+        "ev_044",
+        "ev_046"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "balanced_integrative_idealism",
+      "definition": "The tendency to express aspirational goals in either/or frameworks (ideal vs. reality) while simultaneously grounding them in practical implementation pathways; commitment to both visionary endpoints and incremental systemic improvement",
+      "finding": "Obama consistently operates within a tension between aspirational idealism and practical incrementalism, but rather than being inconsistent, this appears to reflect a deliberate integration strategy. His 'Year of Action' (ev_015) explicitly acknowledges blocked ideal policies while simultaneously taking executive actions within existing constraints—idealism held as goal while operating in realistic present conditions. His balanced deficit reduction approach (ev_013) explicitly positions balanced solutions as preferable to ideological either/or choices. Even his 'middle-out' philosophy (ev_021) represents systemic idealism grounded in observable outcomes. The pattern suggests Obama holds both/and orientation: dream big AND work incrementally; pursue structural reform AND accept partial victories; maintain vision AND adapt to constraints. His climate address—'That's not something to tear up—it's something to build upon' (ev_041)—exemplifies this: existing achievement is both imperfect and worth preserving/building on, neither naive celebration nor cynical rejection. This balanced integrative idealism may represent a distinct achievement goal pattern: mastery-oriented progress within realistic constraints rather than either pure mastery (ideal perfectionism) or pure performance (external validation maximization).",
+      "evidence_ids": [
+        "ev_013",
+        "ev_015",
+        "ev_021",
+        "ev_027",
+        "ev_041"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}

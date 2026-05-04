@@ -1,0 +1,180 @@
+{
+  "discipline": "psychology",
+  "lens": "narrative_psychology",
+  "constructs": [
+    {
+      "construct_key": "agency_orientation",
+      "assessment": "Strongly world-shaping with strategic constraint - Obama narrates himself as protagonist who shapes outcomes through deliberate action while acknowledging collective and structural forces",
+      "finding": "Obama's narrative identity positions him consistently as an agent of change rather than a passive responder to circumstances. Evidence includes explicit self-attribution of transformative actions (ev_017, ev_019: executive actions to raise wages; ev_029: veto commitment against Wall Street Reform repeal) and a meta-narrative of active leadership during crisis (ev_045: 'we rescued our economy from the worst crisis of our lifetimes'). However, his agency narrative is sophisticated rather than grandiose—he explicitly credits collective action (ev_032: 'All of this progress is because of you—the American people') and acknowledges structural limits, demonstrating what McAdams might call 'embedded agency.' His redemption sequences consistently position himself as instrumental but not solely responsible, blending heroic narrative with democratic humility.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_032",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "epistemic_style",
+      "assessment": "Narrative-empirical hybrid - Obama integrates statistical evidence into story structures rather than building from abstract theory; prefers concrete illustration over syllogistic reasoning",
+      "finding": "Obama's epistemic style consistently operates through narrative construction rather than paradigmatic analysis. He regularly anchors policy arguments in concrete vignettes (ev_014: Head Start children affected by sequester, seniors dependent on Meals on Wheels; ev_045: 'I've hugged cancer survivors who finally know the security of affordable health care') rather than presenting abstract economic models. His famous 'story of us' rhetoric demonstrates classic narrative cognition—situating himself within a larger American story with temporal continuity (past struggles → present challenges → future possibilities). His epistemic humility appears in acknowledgments like ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype,' suggesting narrative flexibility rather than rigid ideological commitment. His optimism (ev_004: 'I'm absolutely confident we will get there') reflects narrative hope—the belief that stories can be re-authored toward better outcomes.",
+      "evidence_ids": [
+        "ev_014",
+        "ev_027",
+        "ev_004",
+        "ev_045"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "abstraction_formalization",
+      "assessment": "Moderate - Obama uses abstraction strategically to frame policy in values terms but grounds it in concrete, measurable outcomes; avoids highly theoretical discourse",
+      "finding": "Obama's speeches reveal a calibrated relationship with abstraction. He deploys high-level value abstractions ('opportunity,' 'security,' 'resurgence') as framing devices that give policy substance meaning (ev_018: 'We've got to restore opportunity for all—the notion that no matter who you are or how you started out, with hard work and responsibility, you can get ahead in America'), yet grounds these abstractions in specific metrics and timelines (ev_025: 57 months of job growth, 11 million jobs created; ev_033: uninsured rate below 10%). This suggests what Bruner might call 'narrative mode' dominant over 'paradigmatic mode'—understanding through story and example rather than through formal systems. His abstractions serve narrative function (integrating policy into moral universe) rather than analytical function (predictive or explanatory modeling).",
+      "evidence_ids": [
+        "ev_018",
+        "ev_025",
+        "ev_033"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "control_orientation",
+      "assessment": "Moderate-high with institutional orientation - Obama seeks to control systems and processes within constitutional constraints; shows comfort with executive authority but not authoritarian impulse",
+      "finding": "Obama demonstrates clear control orientation manifested through systematic agenda-setting and institutional leverage rather than personal dominance. Evidence includes strategic use of executive orders (ev_017: minimum wage for federal contractors; ev_019: catalogued 'more than 20 executive actions' in 2014), veto authority commitment (ev_029: 'I will veto it' on Wall Street Reform repeal), and deadline-setting rhetoric (ev_011: 'seven days away' and 'eight days away' framing). However, his control orientation operates within institutional norms—he explicitly rejects unilateral negotiation on debt ceiling (ev_015: 'I will not negotiate over the full faith and credit of the United States'), framing constraint as principle rather than weakness. The contrast between his comfort using constitutional authority and his refusal to exceed it suggests sophisticated control within system boundaries rather than power-maximizing orientation.",
+      "evidence_ids": [
+        "ev_017",
+        "ev_019",
+        "ev_029",
+        "ev_011",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "mission_vs_relational_cost",
+      "assessment": "Mission-primary with relational awareness - Obama prioritizes policy goals but consistently frames them in relational/moral terms rather than pure transactional terms",
+      "finding": "Obama's narrative consistently subordinates relational comfort to mission achievement, but does so by embedding mission within relational frameworks. When criticizing Congressional obstruction (ev_020: 'Republicans in Congress have blocked or voted down every serious idea to create jobs'), he frames opposition in moral terms ('fair wage,' 'equal pay') that maintain relational possibility. His mission framing of the middle class agenda (ev_021: 'Our economy grows best not from the top-down, but from the middle-out') connects economic goals to community benefit rather than individual accumulation. His willingness to absorb political costs for principled positions (ev_015: debt ceiling non-negotiation) demonstrates high mission commitment, but his persistent invitation to bipartisan cooperation (ev_008: 'This isn't a Democratic or a Republican issue') reveals he pays relational costs—avoiding permanent polarization narratives even when politically costly.",
+      "evidence_ids": [
+        "ev_020",
+        "ev_021",
+        "ev_015",
+        "ev_008"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "risk_posture",
+      "assessment": "Calculated, opportunity-forward - Obama frames risks as challenges to overcome rather than dangers to avoid; treats risk-taking as moral imperative when aligned with values",
+      "finding": "Obama's narrative posture toward uncertainty is predominantly 'redemption sequence' oriented—framing challenges as surmountable problems with the right approach rather than existential threats. Evidence includes his response to the sequester crisis (ev_013-ev_014), where he documents real harm but frames it as solvable through 'balanced' alternative. His energy policy (ev_005) explicitly rejects 'drilling alone' as insufficient—a framing that acknowledges complexity without retreating. His optimism about America's trajectory (ev_024: 'America's resurgence is real') and his 2015 year-end celebration of accomplishments (ev_033) suggest risk optimism—the belief that collective action can manage uncertainty. His Cancer Moonshot initiative (ev_042-ev_043) frames cancer research as winnable challenge. However, his risk posture is not naive—he acknowledges limits (ev_027: past trade deals fell short) and distinguishes between acceptable and unacceptable risks.",
+      "evidence_ids": [
+        "ev_013",
+        "ev_014",
+        "ev_005",
+        "ev_024",
+        "ev_033",
+        "ev_027",
+        "ev_042",
+        "ev_043"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "relation_to_hierarchy_power",
+      "assessment": "Institutionalist with reform orientation - Obama respects hierarchy as necessary framework but seeks to reform and humanize it rather than demolish or circumvent it",
+      "finding": "Obama's relationship with institutional power reflects what might be called 'reforming insider' position—he operates within hierarchy while seeking to transform it. His call for Congressional reform (ev_008: 'One senator gumming up the works for the whole country is certainly not what our founding fathers envisioned') criticizes institutional dysfunction without rejecting Congress itself. His explicit statement on religious tolerance in counterterrorism (ev_012: 'America is at war with al-Qaeda and its affiliates – and we will never be at war with Islam') demonstrates nuanced power framing that rejects simplistic binaries. His willingness to use executive authority (ev_017-ev_019) represents pragmatic engagement with institutional tools rather than radical alternatives. His farewell address framing of democracy (ev_036: 'our founders trusted us with the keys to this system of self-government') shows constitutional respect despite frustration with obstruction. The fatherhood narrative (ev_006) provides personal resonance—he himself overcame absence of paternal authority, perhaps informing his balanced approach to institutional power.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_012",
+        "ev_017",
+        "ev_019",
+        "ev_036",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "conflict_strategy",
+      "assessment": "Translating and framing - Obama handles conflict by re-framing it as collective rather than partisan, though he explicitly names opposition when necessary",
+      "finding": "Obama's conflict strategy consistently attempts translation—reframing partisan conflict as solvable through shared American values. The clearest example is ev_008: 'This isn't a Democratic or a Republican issue – it's an American issue... representatives from the AFL-CIO and the Chamber of Commerce – two groups who don't always see eye-to-eye.' He builds coalitions across potential conflict lines. However, he does name opposition when framing requires it (ev_020: 'Republicans in Congress have blocked...'), suggesting strategic rather than universal translation. His sequester narrative (ev_014) frames conflict in terms of vulnerable populations rather than partisan winners/losers. His debt ceiling position (ev_015) demonstrates willingness to draw firm line rather than always seeking translation. This suggests conflict strategy that is contextually adaptive—translating when possible, escalating clearly when principles are at stake.",
+      "evidence_ids": [
+        "ev_008",
+        "ev_020",
+        "ev_014",
+        "ev_015"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "time_horizon",
+      "assessment": "Long-term with immediate urgency - Obama balances immediate deadlines and long-term structural goals; shows generational thinking especially on climate and infrastructure",
+      "finding": "Obama's narrative operates across multiple time horizons simultaneously. Immediate urgency appears in deadline rhetoric (ev_011: specific 'seven days' and 'eight days' framing; ev_013: September 30 budget deadline). Medium-term appears in policy timelines (ev_004: energy independence goal by 2025; ev_010: Afghanistan transition by 2014). Long-term/generational thinking dominates his climate narrative (ev_025: 25-year low in carbon pollution; ev_041: 'leave a better, cleaner, safer future for our children') and civic engagement calls (ev_046: 'over the full span of a lifetime'). His Cancer Moonshot (ev_042-ev_043) explicitly references the 45-year journey from Nixon's declaration and projects forward generations. His farewell address (ev_047) frames his own role within ongoing story: 'I look forward to working along your side, as a citizen.' This temporal range suggests what McAdams calls 'generativity' orientation—extending concern beyond personal timeline.",
+      "evidence_ids": [
+        "ev_011",
+        "ev_013",
+        "ev_004",
+        "ev_010",
+        "ev_025",
+        "ev_041",
+        "ev_042",
+        "ev_043",
+        "ev_046",
+        "ev_047"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "rebuild_over_patch",
+      "assessment": "Structural reformer with incremental tactics - Obama advocates fundamental change but operates through existing institutional channels, suggesting hybrid approach",
+      "finding": "Obama's narrative reveals preference for structural solutions deployed through incremental, institutional means. Major initiatives like ACA, Wall Street Reform, and Paris Climate Agreement represent systemic redesign, not补丁 repairs. His framing of the auto industry rescue (ev_022) positions intervention as structural: 'we chose to invest in American auto industry'—a transformative choice, not marginal adjustment. However, when structural change is blocked, he pivots to executive action (ev_019: 'I've taken more than 20 executive actions')—patch solutions within existing constraints. His 'Year of Action' rhetoric (ev_015, ev_019) frames many executive actions as accumulating toward structural change. His sequester critique (ev_013-ev_014) explicitly contrasts 'balanced approach' (structural reform) with arbitrary cuts (patch). This suggests a leader who prefers structural solutions but demonstrates pragmatic flexibility when institutional barriers prevent full redesign.",
+      "evidence_ids": [
+        "ev_022",
+        "ev_019",
+        "ev_015",
+        "ev_013",
+        "ev_014"
+      ],
+      "local_support": "strong"
+    },
+    {
+      "construct_key": "metacognition",
+      "assessment": "High - Obama demonstrates sophisticated self-awareness about narrative construction, acknowledges uncertainty, and frames himself within larger stories rather than as sole author",
+      "finding": "Obama shows notably high narrative metacognition—the awareness that he is constructing and participating in stories, not merely reporting facts. His explicit acknowledgment of past trade deal limitations (ev_027: 'I'm the first to admit that past trade deals haven't always lived up to the hype') demonstrates capacity to revise narrative evaluation rather than defend original framing. His farewell address (ev_044-ev_047) explicitly positions himself as ongoing participant in collective story rather than protagonist completing arc: 'I look forward to working along your side, as a citizen.' His fatherhood reflection (ev_006: 'I grew up without my father around... I wonder what my life would have been like had he been a greater presence') shows autobiographical awareness of absence and its shaping effects. His statement that his conversations with Americans 'kept me honest, kept me inspired' (ev_044) frames himself as responsive to others' narratives, not autonomous author. This metacognitive capacity allows him to acknowledge complexity without losing narrative coherence—a sophisticated form of what Kegan would recognize as mature meaning-making.",
+      "evidence_ids": [
+        "ev_027",
+        "ev_044",
+        "ev_045",
+        "ev_046",
+        "ev_047",
+        "ev_006"
+      ],
+      "local_support": "strong"
+    }
+  ],
+  "emergent_constructs": [
+    {
+      "dimension_name": "embedded_heroism",
+      "definition": "A distinctive narrative pattern where the protagonist deliberately positions themselves as part of collective achievement rather than as singular savior, paradoxically strengthening moral authority through self-effacement",
+      "finding": "Analysis reveals Obama consistently deploys what might be termed 'embedded heroism'—maintaining agentic narrative presence while attributing credit outward. In ev_032, he states 'All of this progress is because of you—the American people,' yet his speeches contain many 'I've' statements establishing personal role. In ev_045, he narrates himself witnessing American goodness rather than creating it ('I've seen neighbors... I've hugged cancer survivors... I've seen communities rebuild'). This pattern appears in contrast to both hubristic heroism ('I alone can fix it') and false modesty ('I'm just doing my job'). It suggests a narrative strategy where self-effacement functions as authority-building—demonstrating the moral character of a leader who subordinates ego to collective. This pattern may be particularly characteristic of leaders with multicultural backgrounds who must navigate multiple identity narratives and cannot assume universal identification with any single heroic archetype.",
+      "evidence_ids": [
+        "ev_032",
+        "ev_044",
+        "ev_045"
+      ],
+      "local_support": "moderate"
+    },
+    {
+      "dimension_name": "affirmative_narrative_bias",
+      "definition": "A systematic orientation toward constructing narratives of progress and redemption rather than decline or contamination, even when evidence is mixed or contested",
+      "finding": "Obama's speeches consistently construct affirmative narratives—stories of progress, redemption, and resilience—even when facing obstruction, crisis, or criticism. His 2014 year-end address declared 'America's resurgence is real' (ev_024) with specific metrics. His 2015 top-10 list framed accomplishments with triumphant language ('Love won' in ev_035). Even when documenting harm (sequester impacts, Congressional obstruction), his narrative frame emphasizes solvable problems rather than permanent damage. His father's absence is processed as personal vulnerability (ev_006) rather than as contamination—wonder about what might have been, not blame or bitterness. This 'affirmative narrative bias' appears as both coping strategy and rhetorical tool, potentially reflecting either genuine psychological orientation toward hope or sophisticated political communication calibration (or both). The pattern distinguishes him from leaders who construct 'under siege' or 'civilizational decline' narratives. This bias may be more characteristic of leaders who experience social marginalization—they may develop heightened capacity to construct positive alternative narratives rather than internalizing negative external attributions.",
+      "evidence_ids": [
+        "ev_024",
+        "ev_035",
+        "ev_006",
+        "ev_014",
+        "ev_022"
+      ],
+      "local_support": "moderate"
+    }
+  ]
+}
