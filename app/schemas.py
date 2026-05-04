@@ -41,6 +41,12 @@ class StageStatusEnum(str, Enum):
     PARTIAL_FAILED = "partial_failed"
 
 
+class AnalysisTier(str, Enum):
+    LITE = "lite"
+    STANDARD = "standard"
+    FULL = "full"
+
+
 class Subject(GatewayModel):
     id: str
     display_name: str
@@ -93,6 +99,7 @@ class IngestionPackage(GatewayModel):
 class RunConfig(GatewayModel):
     schema_version: str = SCHEMA_VERSION
     model_profile: str = "default"
+    analysis_tier: AnalysisTier = AnalysisTier.LITE
     color_weight_config_version: str | None = None
     scoring_rubric_version: str | None = None
 

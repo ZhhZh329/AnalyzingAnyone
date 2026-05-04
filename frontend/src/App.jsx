@@ -78,7 +78,9 @@
     }
 
     async function pollRun(projectId, runId) {
-      for (let i = 0; i < 300; i += 1) {
+      const pollIntervalMs = window.APP_CONFIG.RUN_POLL_INTERVAL_MS || 2000;
+      const maxAttempts = window.APP_CONFIG.RUN_POLL_MAX_ATTEMPTS || 7200;
+      for (let i = 0; i < maxAttempts; i += 1) {
         const runRes = await window.api.request(`/projects/${projectId}/runs/${runId}`);
         const detail = runRes?.data || null;
         const currentStatus = detail?.run?.status || 'running';
@@ -97,7 +99,7 @@
           return detail;
         }
 
-        await window.api.sleep(2000);
+        await window.api.sleep(pollIntervalMs);
       }
 
       throw new Error(t('errors.pollTimeout'));

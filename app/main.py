@@ -9,6 +9,7 @@ from fastapi.responses import RedirectResponse
 from fastapi.staticfiles import StaticFiles
 
 from .errors import GatewayError, build_failure_response, generate_prefixed_id
+from .routes.analysis_tiers import router as analysis_tiers_router
 from .routes.projects import router as projects_router
 
 
@@ -19,6 +20,7 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+app.include_router(analysis_tiers_router)
 app.include_router(projects_router)
 
 

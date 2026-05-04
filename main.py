@@ -17,6 +17,7 @@ import argparse
 import asyncio
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -182,7 +183,12 @@ def _resolve_output_dir(subject: str) -> Path:
     output_override = os.environ.get("ANALYZINGANYONE_OUTPUT_DIR")
     if output_override:
         return Path(output_override)
-    return Path("output") / subject.lower().replace(" ", "_")
+    return Path("output") / _subject_output_slug(subject)
+
+
+def _subject_output_slug(subject: str) -> str:
+    normalized = re.sub(r"[^\w]+", "_", subject.strip().lower(), flags=re.UNICODE)
+    return normalized.strip("_") or "subject"
 
 
 def _write_feedback(feedback_out: Path | None, payload: dict) -> None:
@@ -206,6 +212,10 @@ def _load_subject_dir(input_file: Path | None, subject_dir: str | None) -> str:
     if subject_dir:
         return subject_dir
     raise ValueError("either <subject_dir> or --input-file must be provided")
+
+
+def _resume_enabled() -> bool:
+    return os.environ.get("ANALYZINGANYONE_RESUME", "").lower() in {"1", "true", "yes", "on"}
 
 
 async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only: bool = False) -> None:
@@ -249,6 +259,9 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         out_dir.mkdir(parents=True, exist_ok=True)
         lenses_dir = out_dir / "lenses"
         lenses_dir.mkdir(exist_ok=True)
+        resume_enabled = _resume_enabled()
+        if resume_enabled:
+            print(f"Resume mode: enabled; existing artifacts in {out_dir}/ will be reused")
 
         if check_only:
             _write_feedback(
@@ -265,17 +278,27 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         # ── Stage 1: Evidence assembly ────────────────────────────
         current_stage = "assemble"
         _update_stage("assemble", stage_status="running", run_status="running")
-        print("\n[Stage 1] Assembling evidence...")
-        assembly = await run_agent(
-            agents["assemble"][0],
-            "assemble",
-            {"subject": subject, "sources": data["sources"]},
-            config,
-        )
+        assembly_path = out_dir / "assembly.json"
+        assembly = None
+        if resume_enabled and assembly_path.exists():
+            try:
+                cached_assembly = json.loads(assembly_path.read_text(encoding="utf-8"))
+                if isinstance(cached_assembly, dict):
+                    assembly = cached_assembly
+                    print(f"\n[Stage 1] Reusing existing evidence assembly: {assembly_path}")
+            except (OSError, json.JSONDecodeError) as exc:
+                print(f"\n[Stage 1] Existing assembly is unreadable, regenerating: {exc}")
+        if assembly is None:
+            print("\n[Stage 1] Assembling evidence...")
+            assembly = await run_agent(
+                agents["assemble"][0],
+                "assemble",
+                {"subject": subject, "sources": data["sources"]},
+                config,
+            )
         timeline_count = len(assembly.get("timeline", []))
         card_count = len(assembly.get("evidence_cards", []))
         print(f"  → {timeline_count} timeline events, {card_count} evidence cards")
-        assembly_path = out_dir / "assembly.json"
         assembly_path.write_text(
             json.dumps(assembly, ensure_ascii=False, indent=2), encoding="utf-8"
         )
@@ -325,7 +348,31 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 "clamping to 5 for stability"
             )
             max_concurrency = 5
-        print(f"  Total: {len(annotation_specs)} LLM calls (max {max_concurrency} concurrent)")
+        valid_annotations = []
+        pending_specs = []
+        for agent_dir, disc_name, disc_display, skill in annotation_specs:
+            lens_key = skill["key"]
+            lens_path = lenses_dir / f"{disc_name}_{lens_key}.json"
+            if resume_enabled and lens_path.exists():
+                try:
+                    cached_result = json.loads(lens_path.read_text(encoding="utf-8"))
+                    if isinstance(cached_result, dict):
+                        cached_result.setdefault("discipline", disc_name)
+                        cached_result.setdefault("lens", lens_key)
+                        if not isinstance(cached_result.get("constructs"), list):
+                            cached_result["constructs"] = []
+                        if not isinstance(cached_result.get("emergent_constructs"), list):
+                            cached_result["emergent_constructs"] = []
+                        valid_annotations.append(cached_result)
+                        continue
+                    print(f"  [resume] Ignoring cached {disc_name}/{lens_key}: expected JSON object")
+                except (OSError, json.JSONDecodeError) as exc:
+                    print(f"  [resume] Ignoring cached {disc_name}/{lens_key}: {exc}")
+            pending_specs.append((agent_dir, disc_name, disc_display, skill))
+
+        if resume_enabled:
+            print(f"  Resume: {len(valid_annotations)}/{len(annotation_specs)} lens output(s) reused")
+        print(f"  Total: {len(pending_specs)} pending LLM calls (max {max_concurrency} concurrent)")
         sem = asyncio.Semaphore(max_concurrency)
 
         async def run_lens(agent_dir: Path, disc_name: str, disc_display: str, skill: dict):
@@ -349,14 +396,13 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 except Exception as exc:
                     return disc_name, skill["key"], None, exc
 
-        valid_annotations = []
         tasks = [
             asyncio.create_task(run_lens(agent_dir, disc_name, disc_display, skill))
-            for agent_dir, disc_name, disc_display, skill in annotation_specs
+            for agent_dir, disc_name, disc_display, skill in pending_specs
         ]
 
-        completed = 0
-        total = len(tasks)
+        completed = len(valid_annotations)
+        total = len(annotation_specs)
         for finished in asyncio.as_completed(tasks):
             disc, lens_key, result, error = await finished
             completed += 1
@@ -365,12 +411,22 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 print(f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: {error}")
                 continue
 
-            if isinstance(result, dict):
-                result.setdefault("discipline", disc)
-                result.setdefault("lens", lens_key)
+            if not isinstance(result, dict):
+                print(
+                    f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: "
+                    f"expected JSON object, got {type(result).__name__}"
+                )
+                continue
+
+            result.setdefault("discipline", disc)
+            result.setdefault("lens", lens_key)
+            if not isinstance(result.get("constructs"), list):
+                result["constructs"] = []
+            if not isinstance(result.get("emergent_constructs"), list):
+                result["emergent_constructs"] = []
             valid_annotations.append(result)
-            construct_count = len(result.get("constructs", []))
-            emergent_count = len(result.get("emergent_constructs", []))
+            construct_count = len(result["constructs"])
+            emergent_count = len(result["emergent_constructs"])
             print(
                 f"  [{completed}/{total}] ✓ {disc}/{lens_key}: "
                 f"{construct_count} constructs, {emergent_count} emergent"

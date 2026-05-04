@@ -57,6 +57,34 @@ class GatewayService:
         self.projects_root = self.repo.projects_root
         self.runs_root = self.repo.runs_root
 
+    def get_analysis_tiers(self) -> dict[str, Any]:
+        return {
+            "default_tier": "lite",
+            "tiers": [
+                {
+                    "key": "lite",
+                    "label": "快速档",
+                    "description": "适合演示和常规使用，运行少量核心 lenses，优先保证快速稳定出报告。",
+                    "estimated_lens_count": 35,
+                    "estimated_duration_minutes": "10-25",
+                },
+                {
+                    "key": "standard",
+                    "label": "标准档",
+                    "description": "覆盖主要学科和核心 lenses，质量更高，耗时中等。",
+                    "estimated_lens_count": 80,
+                    "estimated_duration_minutes": "30-60",
+                },
+                {
+                    "key": "full",
+                    "label": "全量档",
+                    "description": "运行全部 lenses，适合深度研究，耗时长，后处理需要压缩或分批汇总。",
+                    "estimated_lens_count": 211,
+                    "estimated_duration_minutes": "90+",
+                },
+            ],
+        }
+
     def create_project(self, payload: CreateProjectRequest, *, request_id: str) -> dict[str, Any]:
         project_id = generate_prefixed_id("proj")
         subject_id = generate_prefixed_id("subj")
@@ -306,6 +334,7 @@ class GatewayService:
                 "subject_dir": str(input_dir.resolve()),
                 "run_id": run_id,
                 "trace_id": trace_id,
+                "run_config": payload.run_config.model_dump(mode="json"),
             },
         )
 
@@ -363,6 +392,7 @@ class GatewayService:
             "subject_id": payload.subject_id,
             "trace_id": trace_id,
             "status": RunStatus.QUEUED.value,
+            "run_config": payload.run_config.model_dump(mode="json"),
             "stage_count": len(DEFAULT_STAGE_KEYS),
         }
 
@@ -457,6 +487,11 @@ class GatewayService:
         stdout_path = run_dir / "meta" / "stdout.log"
         stderr_path = run_dir / "meta" / "stderr.log"
         env = os.environ.copy()
+        run_record = self._load_run_record(run_id)
+        env["ANALYZINGANYONE_STATUS_PATH"] = str(status_path.resolve())
+        env["ANALYZINGANYONE_RUN_ID"] = run_id
+        env["ANALYZINGANYONE_TRACE_ID"] = run_record["trace_id"]
+        env["ANALYZINGANYONE_RESUME"] = os.environ.get("GATEWAY_WORKFLOW_RESUME", "1")
         self._mark_stage_running(status_path, "assemble")
         self._update_run_record(run_id, status=RunStatus.RUNNING.value, current_stage="assemble")
 
