@@ -543,8 +543,31 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             {"subject": subject, "assembly": assembly, "analyses": valid_annotations},
             config,
         )
-        flagged_count = len(critic_output.get("flagged_claims", []))
-        confidence_count = len(critic_output.get("construct_confidence", []))
+        # Normalize critic output shape. Some model responses can degrade to a list payload.
+        if isinstance(critic_output, list):
+            critic_output = {
+                "flagged_claims": [x for x in critic_output if isinstance(x, dict)],
+                "construct_confidence": [],
+            }
+        elif not isinstance(critic_output, dict):
+            critic_output = {"flagged_claims": [], "construct_confidence": []}
+
+        if not isinstance(critic_output.get("flagged_claims"), list):
+            critic_output["flagged_claims"] = []
+        else:
+            critic_output["flagged_claims"] = [
+                x for x in critic_output["flagged_claims"] if isinstance(x, dict)
+            ]
+
+        if not isinstance(critic_output.get("construct_confidence"), list):
+            critic_output["construct_confidence"] = []
+        else:
+            critic_output["construct_confidence"] = [
+                x for x in critic_output["construct_confidence"] if isinstance(x, dict)
+            ]
+
+        flagged_count = len(critic_output["flagged_claims"])
+        confidence_count = len(critic_output["construct_confidence"])
         print(f"  -> {flagged_count} flagged claims, {confidence_count} construct confidence entries")
         critic_path = out_dir / "critic_output.json"
         critic_path.write_text(
