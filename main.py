@@ -431,8 +431,16 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                         cached_result.setdefault("lens", lens_key)
                         if not isinstance(cached_result.get("constructs"), list):
                             cached_result["constructs"] = []
+                        else:
+                            cached_result["constructs"] = [
+                                c for c in cached_result["constructs"] if isinstance(c, dict)
+                            ]
                         if not isinstance(cached_result.get("emergent_constructs"), list):
                             cached_result["emergent_constructs"] = []
+                        else:
+                            cached_result["emergent_constructs"] = [
+                                e for e in cached_result["emergent_constructs"] if isinstance(e, dict)
+                            ]
                         valid_annotations.append(cached_result)
                         continue
                     print(f"  [resume] Ignoring cached {disc_name}/{lens_key}: expected JSON object")
@@ -492,8 +500,14 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             result.setdefault("lens", lens_key)
             if not isinstance(result.get("constructs"), list):
                 result["constructs"] = []
+            else:
+                result["constructs"] = [c for c in result["constructs"] if isinstance(c, dict)]
             if not isinstance(result.get("emergent_constructs"), list):
                 result["emergent_constructs"] = []
+            else:
+                result["emergent_constructs"] = [
+                    e for e in result["emergent_constructs"] if isinstance(e, dict)
+                ]
             valid_annotations.append(result)
             construct_count = len(result["constructs"])
             emergent_count = len(result["emergent_constructs"])

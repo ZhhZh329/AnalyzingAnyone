@@ -117,21 +117,33 @@ def build_construct_matrix(all_annotations: list[dict], config: dict) -> str:
     emergent_all: list[dict] = []
 
     for ann in all_annotations:
+        if not isinstance(ann, dict):
+            continue
         disc = ann.get("discipline", "unknown")
         lens = ann.get("lens", "unknown")
-        for c in ann.get("constructs", []):
-            key = c.get("construct_key", "")
-            if key in matrix:
-                matrix[key].append((
-                    disc, lens,
-                    c.get("assessment", ""),
-                    c.get("local_support", ""),
-                    c.get("finding", ""),
-                ))
-        for e in ann.get("emergent_constructs", []):
-            e_copy = dict(e)
-            e_copy["originating_lens"] = f"{lens} ({disc})"
-            emergent_all.append(e_copy)
+
+        raw_constructs = ann.get("constructs", [])
+        if isinstance(raw_constructs, list):
+            for c in raw_constructs:
+                if not isinstance(c, dict):
+                    continue
+                key = c.get("construct_key", "")
+                if key in matrix:
+                    matrix[key].append((
+                        disc, lens,
+                        c.get("assessment", ""),
+                        c.get("local_support", ""),
+                        c.get("finding", ""),
+                    ))
+
+        raw_emergent = ann.get("emergent_constructs", [])
+        if isinstance(raw_emergent, list):
+            for e in raw_emergent:
+                if not isinstance(e, dict):
+                    continue
+                e_copy = dict(e)
+                e_copy["originating_lens"] = f"{lens} ({disc})"
+                emergent_all.append(e_copy)
 
     lines = []
     for key in construct_keys:
