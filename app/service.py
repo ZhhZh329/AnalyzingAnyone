@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import csv
 import hashlib
@@ -59,26 +59,26 @@ class GatewayService:
 
     def get_analysis_tiers(self) -> dict[str, Any]:
         return {
-            "default_tier": "lite",
+            "default_tier": "medium",
             "tiers": [
                 {
-                    "key": "lite",
-                    "label": "快速档",
-                    "description": "适合演示和常规使用，运行少量核心 lenses，优先保证快速稳定出报告。",
+                    "key": "low",
+                    "label": "低",
+                    "description": "低档：快速模式，优先保证链路稳定与产出速度。",
                     "estimated_lens_count": 35,
                     "estimated_duration_minutes": "10-25",
                 },
                 {
-                    "key": "standard",
-                    "label": "标准档",
-                    "description": "覆盖主要学科和核心 lenses，质量更高，耗时中等。",
+                    "key": "medium",
+                    "label": "中",
+                    "description": "中档：标准模式，覆盖核心学科与主要 lenses。",
                     "estimated_lens_count": 80,
                     "estimated_duration_minutes": "30-60",
                 },
                 {
-                    "key": "full",
-                    "label": "全量档",
-                    "description": "运行全部 lenses，适合深度研究，耗时长，后处理需要压缩或分批汇总。",
+                    "key": "high",
+                    "label": "高",
+                    "description": "高档：深度模式，运行更多 lenses 以提升覆盖。",
                     "estimated_lens_count": 211,
                     "estimated_duration_minutes": "90+",
                 },
@@ -305,6 +305,17 @@ class GatewayService:
             "source_types": package_record["source_types"],
             "warnings": package_record["warnings"],
         }
+    def _canonical_tier(self, tier_value: str | None) -> str:
+        value = (tier_value or "medium").strip().lower()
+        mapping = {
+            "low": "low",
+            "medium": "medium",
+            "high": "high",
+            "lite": "low",
+            "standard": "medium",
+            "full": "high",
+        }
+        return mapping.get(value, "medium")
 
     def create_run(self, project_id: str, payload: CreateRunRequest, *, request_id: str) -> dict[str, Any]:
         project = self._load_project(project_id)
@@ -328,12 +339,14 @@ class GatewayService:
         shutil.copytree(self._package_dir(project_id, package["id"]) / "input_bundle", input_dir)
         run_input_path = meta_dir / "run_input.json"
         run_feedback_path = meta_dir / "run_feedback.json"
+        canonical_tier = self._canonical_tier(payload.run_config.analysis_tier.value)
         self._write_json(
             run_input_path,
             {
                 "subject_dir": str(input_dir.resolve()),
                 "run_id": run_id,
                 "trace_id": trace_id,
+                "analysis_tier": canonical_tier,
                 "run_config": payload.run_config.model_dump(mode="json"),
             },
         )
@@ -1413,3 +1426,5 @@ class GatewayService:
         if not output_dir:
             return None
         return str((Path(output_dir) / filename).resolve())
+
+

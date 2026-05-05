@@ -42,6 +42,43 @@ STAGE_KEYS = [
     "report",
 ]
 
+TIER_SKILL_LIMITS = {
+    "low": {
+        "cs_engineering": 7,
+        "economics": 6,
+        "math": 6,
+        "medicine": 5,
+        "neuroscience": 6,
+        "philosophy": 7,
+        "psychology": 7,
+        "sociology": 6,
+    },
+    "medium": {
+        "cs_engineering": 16,
+        "economics": 13,
+        "math": 15,
+        "medicine": 5,
+        "neuroscience": 12,
+        "philosophy": 15,
+        "psychology": 15,
+        "sociology": 9,
+    },
+    "high": {
+        "cs_engineering": 34,
+        "economics": 13,
+        "math": 15,
+        "medicine": 5,
+        "neuroscience": 12,
+        "philosophy": 29,
+        "psychology": 33,
+        "sociology": 9,
+    },
+}
+
+DISCIPLINE_ALIASES = {
+    "cs_eng": "cs_engineering",
+}
+
 
 def _now_iso() -> str:
     return datetime.now(timezone.utc).astimezone().isoformat()
@@ -198,6 +235,25 @@ def _write_feedback(feedback_out: Path | None, payload: dict) -> None:
     feedback_out.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
+def _canonical_analysis_tier(value: str | None) -> str:
+    raw = (value or "medium").strip().lower()
+    mapping = {
+        "low": "low",
+        "medium": "medium",
+        "high": "high",
+        "lite": "low",
+        "standard": "medium",
+        "full": "high",
+    }
+    return mapping.get(raw, "medium")
+
+
+def _discipline_limit_for_tier(discipline_name: str, analysis_tier: str) -> int | None:
+    canonical_disc = DISCIPLINE_ALIASES.get(discipline_name, discipline_name)
+    tier_limits = TIER_SKILL_LIMITS.get(analysis_tier, TIER_SKILL_LIMITS["medium"])
+    return tier_limits.get(canonical_disc)
+
+
 def _load_subject_dir(input_file: Path | None, subject_dir: str | None) -> str:
     if input_file is not None:
         payload = json.loads(input_file.read_text(encoding="utf-8"))
@@ -208,8 +264,15 @@ def _load_subject_dir(input_file: Path | None, subject_dir: str | None) -> str:
             os.environ["ANALYZINGANYONE_RUN_ID"] = str(payload["run_id"])
         if payload.get("trace_id") and not os.environ.get("ANALYZINGANYONE_TRACE_ID"):
             os.environ["ANALYZINGANYONE_TRACE_ID"] = str(payload["trace_id"])
+        tier_from_payload = payload.get("analysis_tier")
+        if not tier_from_payload and isinstance(payload.get("run_config"), dict):
+            tier_from_payload = payload["run_config"].get("analysis_tier")
+        os.environ["ANALYZINGANYONE_ANALYSIS_TIER"] = _canonical_analysis_tier(tier_from_payload)
         return str(resolved)
     if subject_dir:
+        os.environ["ANALYZINGANYONE_ANALYSIS_TIER"] = _canonical_analysis_tier(
+            os.environ.get("ANALYZINGANYONE_ANALYSIS_TIER")
+        )
         return subject_dir
     raise ValueError("either <subject_dir> or --input-file must be provided")
 
@@ -260,6 +323,8 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         lenses_dir = out_dir / "lenses"
         lenses_dir.mkdir(exist_ok=True)
         resume_enabled = _resume_enabled()
+        analysis_tier = _canonical_analysis_tier(os.environ.get("ANALYZINGANYONE_ANALYSIS_TIER"))
+        print(f"Analysis tier: {analysis_tier}")
         if resume_enabled:
             print(f"Resume mode: enabled; existing artifacts in {out_dir}/ will be reused")
 
@@ -298,7 +363,7 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             )
         timeline_count = len(assembly.get("timeline", []))
         card_count = len(assembly.get("evidence_cards", []))
-        print(f"  → {timeline_count} timeline events, {card_count} evidence cards")
+        print(f"  -> {timeline_count} timeline events, {card_count} evidence cards")
         assembly_path.write_text(
             json.dumps(assembly, ensure_ascii=False, indent=2), encoding="utf-8"
         )
@@ -328,9 +393,14 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 print(f"  WARNING: No skills found for {disc_name}, skipping")
                 continue
 
-            print(f"  {disc_name}: {len(skills)} skill(s) → {[s['key'] for s in skills]}")
+            limit = _discipline_limit_for_tier(disc_name, analysis_tier)
+            selected_skills = skills[:limit] if limit is not None else skills
+            print(
+                f"  {disc_name}: selected {len(selected_skills)} / total {len(skills)} "
+                f"skill(s) (tier={analysis_tier})"
+            )
 
-            for skill in skills:
+            for skill in selected_skills:
                 annotation_specs.append(
                     (
                         agent_dir,
@@ -408,12 +478,12 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             completed += 1
 
             if error is not None:
-                print(f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: {error}")
+                print(f"  [{completed}/{total}] [fail] {disc}/{lens_key} FAILED: {error}")
                 continue
 
             if not isinstance(result, dict):
                 print(
-                    f"  [{completed}/{total}] ✗ {disc}/{lens_key} FAILED: "
+                    f"  [{completed}/{total}] [fail] {disc}/{lens_key} FAILED: "
                     f"expected JSON object, got {type(result).__name__}"
                 )
                 continue
@@ -428,14 +498,14 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             construct_count = len(result["constructs"])
             emergent_count = len(result["emergent_constructs"])
             print(
-                f"  [{completed}/{total}] ✓ {disc}/{lens_key}: "
+                f"  [{completed}/{total}] [ok] {disc}/{lens_key}: "
                 f"{construct_count} constructs, {emergent_count} emergent"
             )
             (lenses_dir / f"{disc}_{lens_key}.json").write_text(
                 json.dumps(result, ensure_ascii=False, indent=2), encoding="utf-8"
             )
 
-        print(f"  → {len(valid_annotations)}/{len(annotation_specs)} successful")
+        print(f"  -> {len(valid_annotations)}/{len(annotation_specs)} successful")
         if len(valid_annotations) < len(annotation_specs):
             had_partial_failures = True
             _update_stage(
@@ -461,7 +531,7 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         )
         flagged_count = len(critic_output.get("flagged_claims", []))
         confidence_count = len(critic_output.get("construct_confidence", []))
-        print(f"  → {flagged_count} flagged claims, {confidence_count} construct confidence entries")
+        print(f"  -> {flagged_count} flagged claims, {confidence_count} construct confidence entries")
         critic_path = out_dir / "critic_output.json"
         critic_path.write_text(
             json.dumps(critic_output, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -486,7 +556,7 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         findings_count = len(synthesis.get("summary_findings", []))
         tensions_count = len(synthesis.get("tensions", []))
         scenarios_count = len(synthesis.get("scenario_implications", []))
-        print(f"  → {findings_count} findings, {tensions_count} tensions, {scenarios_count} scenario implications")
+        print(f"  -> {findings_count} findings, {tensions_count} tensions, {scenarios_count} scenario implications")
         synthesis_path = out_dir / "synthesis.json"
         synthesis_path.write_text(
             json.dumps(synthesis, ensure_ascii=False, indent=2), encoding="utf-8"
@@ -505,12 +575,15 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 "synthesis": synthesis,
                 "analyses": valid_annotations,
                 "critic_output": critic_output,
+                "current_time_utc": datetime.now(timezone.utc).isoformat(),
+                "current_time_local": datetime.now().astimezone().isoformat(),
+                "time_policy": "Use only provided timestamps. Do not infer current date/time beyond these fields.",
             },
             config,
         )
         report_path = out_dir / "report.md"
         report_path.write_text(report, encoding="utf-8")
-        print(f"  → Report written ({len(report)} chars)")
+        print(f"  -> Report written ({len(report)} chars)")
         _update_stage("report", stage_status="success", output_ref=str(report_path))
         _update_stage(
             "report",
@@ -522,10 +595,10 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         print(f"   assembly.json            ({timeline_count} events, {card_count} cards)")
         print(f"   lenses/                  ({len(valid_annotations)} lens annotations)")
         for disc, lens_key in task_meta:
-            marker = "✓" if any(
+            marker = "[ok]" if any(
                 a.get("discipline") == disc and a.get("lens") == lens_key
                 for a in valid_annotations
-            ) else "✗"
+            ) else "[fail]"
             print(f"     {marker} {disc}_{lens_key}.json")
         print(f"   critic_output.json       ({flagged_count} flags)")
         print(f"   synthesis.json           ({findings_count} findings)")

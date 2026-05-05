@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 from datetime import datetime
 from enum import Enum
@@ -42,6 +42,9 @@ class StageStatusEnum(str, Enum):
 
 
 class AnalysisTier(str, Enum):
+    LOW = "low"
+    MEDIUM = "medium"
+    HIGH = "high"
     LITE = "lite"
     STANDARD = "standard"
     FULL = "full"
@@ -99,7 +102,7 @@ class IngestionPackage(GatewayModel):
 class RunConfig(GatewayModel):
     schema_version: str = SCHEMA_VERSION
     model_profile: str = "default"
-    analysis_tier: AnalysisTier = AnalysisTier.LITE
+    analysis_tier: AnalysisTier = AnalysisTier.MEDIUM
     color_weight_config_version: str | None = None
     scoring_rubric_version: str | None = None
 
