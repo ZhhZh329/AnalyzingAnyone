@@ -590,9 +590,38 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             },
             config,
         )
-        findings_count = len(synthesis.get("summary_findings", []))
-        tensions_count = len(synthesis.get("tensions", []))
-        scenarios_count = len(synthesis.get("scenario_implications", []))
+        # Normalize synthesis payload shape. Some model responses can degrade to a list.
+        if isinstance(synthesis, list):
+            synthesis = {
+                "summary_findings": [x for x in synthesis if isinstance(x, dict)],
+                "tensions": [],
+                "scenario_implications": [],
+            }
+        elif not isinstance(synthesis, dict):
+            synthesis = {"summary_findings": [], "tensions": [], "scenario_implications": []}
+
+        if not isinstance(synthesis.get("summary_findings"), list):
+            synthesis["summary_findings"] = []
+        else:
+            synthesis["summary_findings"] = [
+                x for x in synthesis["summary_findings"] if isinstance(x, dict)
+            ]
+
+        if not isinstance(synthesis.get("tensions"), list):
+            synthesis["tensions"] = []
+        else:
+            synthesis["tensions"] = [x for x in synthesis["tensions"] if isinstance(x, dict)]
+
+        if not isinstance(synthesis.get("scenario_implications"), list):
+            synthesis["scenario_implications"] = []
+        else:
+            synthesis["scenario_implications"] = [
+                x for x in synthesis["scenario_implications"] if isinstance(x, dict)
+            ]
+
+        findings_count = len(synthesis["summary_findings"])
+        tensions_count = len(synthesis["tensions"])
+        scenarios_count = len(synthesis["scenario_implications"])
         print(f"  -> {findings_count} findings, {tensions_count} tensions, {scenarios_count} scenario implications")
         synthesis_path = out_dir / "synthesis.json"
         synthesis_path.write_text(
