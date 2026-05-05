@@ -361,6 +361,12 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 {"subject": subject, "sources": data["sources"]},
                 config,
             )
+        if not isinstance(assembly, dict):
+            assembly = {"timeline": [], "evidence_cards": []}
+        if not isinstance(assembly.get("timeline"), list):
+            assembly["timeline"] = []
+        if not isinstance(assembly.get("evidence_cards"), list):
+            assembly["evidence_cards"] = []
         timeline_count = len(assembly.get("timeline", []))
         card_count = len(assembly.get("evidence_cards", []))
         print(f"  -> {timeline_count} timeline events, {card_count} evidence cards")
@@ -649,15 +655,26 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
             },
             config,
         )
-        # Enforce real runtime timestamp in report header, even if model drifts.
-        fixed_time_line = f"报告生成时间：{report_time_local}（UTC: {report_time_utc}）"
-        report = re.sub(
-            r"^报告生成时间：.*$",
-            fixed_time_line,
-            report,
-            count=1,
-            flags=re.MULTILINE,
-        )
+        if not isinstance(report, str):
+            report = str(report)
+        # Enforce runtime timestamp in report header without regex (encoding-safe).
+        fixed_cn = f"报告生成时间：{report_time_local}（UTC: {report_time_utc}）"
+        fixed_en = f"Report generated at: {report_time_local} (UTC: {report_time_utc})"
+        report_lines = report.splitlines()
+        replaced = False
+        for idx, line in enumerate(report_lines):
+            if line.startswith("报告生成时间："):
+                report_lines[idx] = fixed_cn
+                replaced = True
+                break
+            if line.startswith("Report generated at:"):
+                report_lines[idx] = fixed_en
+                replaced = True
+                break
+        if replaced:
+            report = "\n".join(report_lines)
+        else:
+            report = f"{fixed_cn}\n\n{report}"
         report_path = out_dir / "report.md"
         report_path.write_text(report, encoding="utf-8")
         print(f"  -> Report written ({len(report)} chars)")
