@@ -604,6 +604,8 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
         current_stage = "report"
         _update_stage("report", stage_status="running", run_status="running")
         print("\n[Stage 5] Generating report...")
+        report_time_utc = datetime.now(timezone.utc).isoformat()
+        report_time_local = datetime.now().astimezone().isoformat()
         report = await run_agent(
             agents["report"][0],
             "report",
@@ -612,11 +614,20 @@ async def run(subject_dir: str, *, feedback_out: Path | None = None, check_only:
                 "synthesis": synthesis,
                 "analyses": valid_annotations,
                 "critic_output": critic_output,
-                "current_time_utc": datetime.now(timezone.utc).isoformat(),
-                "current_time_local": datetime.now().astimezone().isoformat(),
+                "current_time_utc": report_time_utc,
+                "current_time_local": report_time_local,
                 "time_policy": "Use only provided timestamps. Do not infer current date/time beyond these fields.",
             },
             config,
+        )
+        # Enforce real runtime timestamp in report header, even if model drifts.
+        fixed_time_line = f"报告生成时间：{report_time_local}（UTC: {report_time_utc}）"
+        report = re.sub(
+            r"^报告生成时间：.*$",
+            fixed_time_line,
+            report,
+            count=1,
+            flags=re.MULTILINE,
         )
         report_path = out_dir / "report.md"
         report_path.write_text(report, encoding="utf-8")
