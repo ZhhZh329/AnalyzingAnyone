@@ -115,7 +115,132 @@
       });
     }
 
-    async function startAnalysis() {
+    // async function startAnalysis() {
+    //   if (!name.trim()) {
+    //     setError(t('errors.needName'));
+    //     return;
+    //   }
+    //   if (!zipFile) {
+    //     setError(t('errors.needZip'));
+    //     return;
+    //   }
+
+    //   setError('');
+    //   setLoading(true);
+    //   setReport('');
+    //   setGeneratedAt('');
+    //   openTransition();
+
+    //   try {
+    //     mergeStageState({ create_project: 'running' });
+
+    //     const projectRes = await window.api.request('/projects', {
+    //       method: 'POST',
+    //       body: {
+    //         name: t('errors.projectName', { name: name.trim() }),
+    //         description: t('errors.projectDesc'),
+    //         subject: {
+    //           display_name: name.trim(),
+    //           aliases: [],
+    //         },
+    //       },
+    //     });
+
+    //     const projectId = projectRes?.data?.project_id;
+    //     const subjectId = projectRes?.data?.subject_id;
+    //     if (!projectId || !subjectId) {
+    //       throw new Error(t('errors.createProjectInvalid'));
+    //     }
+
+    //     mergeStageState({ create_project: 'success', upload_package: 'running' });
+    //     setTransition((prev) => ({
+    //       ...prev,
+    //       subtitle: t('overlay.ingestingSub'),
+    //       runStatus: 'ingesting',
+    //     }));
+
+    //     const formData = new FormData();
+    //     formData.append('subject_id', subjectId);
+    //     formData.append('package_file', zipFile);
+    //     formData.append('package_name', zipFile.name);
+    //     formData.append('package_type', 'zip');
+
+    //     const packageRes = await window.api.request(`/projects/${projectId}/ingestion-packages`, {
+    //       method: 'POST',
+    //       formData,
+    //     });
+
+    //     const packageId = packageRes?.data?.package_id;
+    //     if (!packageId) {
+    //       throw new Error(t('errors.uploadInvalid'));
+    //     }
+
+    //     mergeStageState({ upload_package: 'success' });
+    //     setTransition((prev) => ({
+    //       ...prev,
+    //       subtitle: t('overlay.dispatchSub'),
+    //       runStatus: 'queued',
+    //     }));
+
+    //     const runRes = await window.api.request(`/projects/${projectId}/runs`, {
+    //       method: 'POST',
+    //       body: {
+    //         subject_id: subjectId,
+    //         package_id: packageId,
+    //         run_config: {
+    //           schema_version: 'v0.1',
+    //           model_profile: 'default',
+    //         },
+    //       },
+    //     });
+
+    //     const runId = runRes?.data?.run_id;
+    //     if (!runId) {
+    //       throw new Error(t('errors.runInvalid'));
+    //     }
+
+    //     const finalDetail = await pollRun(projectId, runId);
+    //     const finalStatus = finalDetail?.run?.status || 'failed';
+    //     if (finalStatus !== 'completed' && finalStatus !== 'partial_failed') {
+    //       const backendMessage = finalDetail?.error?.message;
+    //       throw new Error(backendMessage || t('errors.runTerminated', { status: toStatusLabel(finalStatus) }));
+    //     }
+
+    //     setTransition((prev) => ({
+    //       ...prev,
+    //       title: t('overlay.compileTitle'),
+    //       subtitle: t('overlay.compileSub'),
+    //       runStatus: finalStatus,
+    //     }));
+
+    //     const reportData = await fetchReportWithRetry(projectId, runId);
+    //     setReport(reportData?.content || '');
+    //     setGeneratedAt(reportData?.generated_at || '');
+
+    //     setTransition((prev) => ({
+    //       ...prev,
+    //       runStatus: 'completed',
+    //       subtitle: t('overlay.readySub'),
+    //       stageState: {
+    //         ...prev.stageState,
+    //         report: 'success',
+    //       },
+    //     }));
+
+    //     await window.api.sleep(450);
+    //     setTransition((prev) => ({ ...prev, visible: false }));
+    //     setScreen('report');
+    //   } catch (err) {
+    //     setTransition((prev) => ({ ...prev, visible: false }));
+    //     const fallback = t('errors.failedRetry');
+    //     const message = err?.code ? toRequestError(err) : (err?.message || fallback);
+    //     setError(message);
+    //   } finally {
+    //     setLoading(false);
+    //   }
+    // }
+    // 1. 修改：在参数列表中接收 selectedTier
+    async function startAnalysis(selectedTier) {
       if (!name.trim()) {
         setError(t('errors.needName'));
         return;
@@ -182,6 +307,8 @@
           runStatus: 'queued',
         }));
 
+        // =========================================================
+        // 2. 修改：在 run_config 中注入 analysis_tier 参数
         const runRes = await window.api.request(`/projects/${projectId}/runs`, {
           method: 'POST',
           body: {
@@ -190,9 +317,11 @@
             run_config: {
               schema_version: 'v0.1',
               model_profile: 'default',
+              analysis_tier: selectedTier, // <--- 这里加上从子组件传来的参数
             },
           },
         });
+        // =========================================================
 
         const runId = runRes?.data?.run_id;
         if (!runId) {
@@ -239,7 +368,6 @@
         setLoading(false);
       }
     }
-
     function resetAll() {
       setScreen('main');
       setName('');

@@ -47,6 +47,19 @@ async function request(path, options = {}) {
   return payload;
 }
 
+export async function getAnalysisTiers() {
+  // request 默认 method 是 GET，直接传 path 即可
+  return request('/analysis-tiers');
+}
+
+// 修改/新增：创建分析任务（带上配置）
+export async function createAnalysisRun(projectId, payload) {
+  // 指定 POST 方法，并将包含 analysis_tier 的数据传入 body
+  return request(`/projects/${projectId}/runs`, {
+    method: 'POST',
+    body: payload
+  });
+}
 window.api = {
   sleep,
   request,
